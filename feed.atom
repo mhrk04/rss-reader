@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2023-10-24T11:57:25.081Z</updated>
+    <updated>2023-10-24T12:01:34.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -54,6 +54,574 @@
         <summary type="html"><![CDATA[Nur Suraiya Muhammad Zamri mempamerkan kayuhan bertenaga dalam perlumbaan akhir ujian masa 1,000 meter (m) untuk menghadiahkan pingat emas kedua negara di Sukan Para Asia Hangzhou 2022.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operation Triangulation: Experts Uncover Deeper Insights into iOS Zero-Day Attacks]]></title>
+        <id>https://thehackernews.com/2023/10/operation-triangulation-experts-uncover.html</id>
+        <link href="https://thehackernews.com/2023/10/operation-triangulation-experts-uncover.html"/>
+        <updated>2023-10-24T08:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The TriangleDB implant used to target Apple iOS devices packs in at least four different modules to record microphone, extract iCloud Keychain, steal data from SQLite databases used by various apps, and estimate the victim's location.
+The findings come from Kaspersky, which detailed the great lengths the adversary behind the campaign, dubbed Operation Triangulation, went to conceal and cover up]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backdoor Implant on Hacked Cisco Devices Modified to Evade Detection]]></title>
+        <id>https://thehackernews.com/2023/10/backdoor-implant-on-hacked-cisco.html</id>
+        <link href="https://thehackernews.com/2023/10/backdoor-implant-on-hacked-cisco.html"/>
+        <updated>2023-10-24T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[The backdoor implanted on Cisco devices by exploiting a pair of zero-day flaws in IOS XE software has been modified by the threat actor so as to escape visibility via previous fingerprinting methods.
+"Investigated network traffic to a compromised device has shown that the threat actor has upgraded the implant to do an extra header check," NCC Group's Fox-IT team said. "Thus, for a lot of devices]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1Password Detects Suspicious Activity Following Okta Support Breach]]></title>
+        <id>https://thehackernews.com/2023/10/1password-detects-suspicious-activity.html</id>
+        <link href="https://thehackernews.com/2023/10/1password-detects-suspicious-activity.html"/>
+        <updated>2023-10-24T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Popular password management solution 1Password said it detected suspicious activity on its Okta instance on September 29 following the support system breach, but reiterated that no user data was accessed.
+"We immediately terminated the activity, investigated, and found no compromise of user data or other sensitive systems, either employee-facing or user-facing," Pedro Canahuati, 1Password CTO,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who's Experimenting with AI Tools in Your Organization?]]></title>
+        <id>https://thehackernews.com/2023/10/whos-experimenting-with-ai-tools-in.html</id>
+        <link href="https://thehackernews.com/2023/10/whos-experimenting-with-ai-tools-in.html"/>
+        <updated>2023-10-23T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[With the record-setting growth of consumer-focused AI productivity tools like ChatGPT, artificial intelligence—formerly the realm of data science and engineering teams—has become a resource available to every employee. 
+From a productivity perspective, that’s fantastic. Unfortunately for IT and security teams, it also means you may have hundreds of people in your organization using a new tool in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoNot Team's New Firebird Backdoor Hits Pakistan and Afghanistan]]></title>
+        <id>https://thehackernews.com/2023/10/donot-teams-new-firebird-backdoor-hits.html</id>
+        <link href="https://thehackernews.com/2023/10/donot-teams-new-firebird-backdoor-hits.html"/>
+        <updated>2023-10-23T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor known as DoNot Team has been linked to the use of a novel .NET-based backdoor called Firebird targeting a handful of victims in Pakistan and Afghanistan.
+Cybersecurity company Kaspersky, which disclosed the findings in its APT trends report Q3 2023, said the attack chains are also configured to deliver a downloader named CSVtyrei, so named for its resemblance to Vtyrei.
+"Some]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quasar RAT Leverages DLL Side-Loading to Fly Under the Radar]]></title>
+        <id>https://thehackernews.com/2023/10/quasar-rat-leverages-dll-side-loading.html</id>
+        <link href="https://thehackernews.com/2023/10/quasar-rat-leverages-dll-side-loading.html"/>
+        <updated>2023-10-23T07:58:00.000Z</updated>
+        <summary type="html"><![CDATA[The open-source remote access trojan known as Quasar RAT has been observed leveraging DLL side-loading to fly under the radar and stealthily siphon data from compromised Windows hosts.
+"This technique capitalizes on the inherent trust these files command within the Windows environment," Uptycs researchers Tejaswini Sandapolla and Karthickkumar Kathiresan said in a report published last week,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europol Dismantles Ragnar Locker Ransomware Infrastructure, Nabs Key Developer]]></title>
+        <id>https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html</id>
+        <link href="https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html"/>
+        <updated>2023-10-21T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Europol on Friday announced the takedown of the infrastructure associated with Ragnar Locker ransomware, alongside the arrest of a "key target" in France.
+"In an action carried out between 16 and 20 October, searches were conducted in Czechia, Spain, and Latvia," the agency said. "The main perpetrator, suspected of being a developer of the Ragnar group, has been brought in front of the examining]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okta's Support System Breach Exposes Customer Data to Unidentified Threat Actors]]></title>
+        <id>https://thehackernews.com/2023/10/oktas-support-system-breach-exposes.html</id>
+        <link href="https://thehackernews.com/2023/10/oktas-support-system-breach-exposes.html"/>
+        <updated>2023-10-21T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Identity services provider Okta on Friday disclosed a new security incident that allowed unidentified threat actors to leverage stolen credentials to access its support case management system.
+
+"The threat actor was able to view files uploaded by certain Okta customers as part of recent support cases," David Bradbury, Okta's chief security officer, said. "It should be noted that the Okta]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Zero-Day Exploited to Implant Malicious Lua Backdoor on Thousands of Devices]]></title>
+        <id>https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html</id>
+        <link href="https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html"/>
+        <updated>2023-10-21T03:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has warned of a new zero-day flaw in IOS XE that has been actively exploited by an unknown threat actor to deploy a malicious Lua-based implant on susceptible devices.
+Tracked as CVE-2023-20273 (CVSS score: 7.2), the issue relates to a privilege escalation flaw in the web UI feature and is said to have been used alongside CVE-2023-20198 (CVSS score: 10.0) as part of an exploit chain.
+"The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malvertisers Using Google Ads to Target Users Searching for Popular Software]]></title>
+        <id>https://thehackernews.com/2023/10/malvertisers-using-google-ads-to-target.html</id>
+        <link href="https://thehackernews.com/2023/10/malvertisers-using-google-ads-to-target.html"/>
+        <updated>2023-10-20T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Details have emerged about a malvertising campaign that leverages Google Ads to direct users searching for popular software to fictitious landing pages and distribute next-stage payloads.
+Malwarebytes, which discovered the activity, said it's "unique in its way to fingerprint users and distribute time sensitive payloads."
+The attack singles out users searching for Notepad++ and PDF converters to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnamese Hackers Target U.K., U.S., and India with DarkGate Malware]]></title>
+        <id>https://thehackernews.com/2023/10/vietnamese-hackers-target-uk-us-and.html</id>
+        <link href="https://thehackernews.com/2023/10/vietnamese-hackers-target-uk-us-and.html"/>
+        <updated>2023-10-20T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Attacks leveraging the DarkGate commodity malware targeting entities in the U.K., the U.S., and India have been linked to Vietnamese actors associated with the use of the infamous Ducktail stealer.
+"The overlap of tools and campaigns is very likely due to the effects of a cybercrime marketplace," WithSecure said in a report published today. "Threat actors are able to acquire and use multiple]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing the Power of the Internet of Things and Cyber Security]]></title>
+        <id>https://thehackernews.com/2023/10/unleashing-power-of-internet-of-things.html</id>
+        <link href="https://thehackernews.com/2023/10/unleashing-power-of-internet-of-things.html"/>
+        <updated>2023-10-20T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Due to the rapid evolution of technology, the Internet of Things (IoT) is changing the way business is conducted around the world. This advancement and the power of the IoT have been nothing short of transformational in making data-driven decisions, accelerating efficiencies, and streamlining operations to meet the demands of a competitive global marketplace.
+IoT At a Crossroads
+IoT, in its most]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ExelaStealer: A New Low-Cost Cybercrime Weapon Emerges]]></title>
+        <id>https://thehackernews.com/2023/10/exelastealer-new-low-cost-cybercrime.html</id>
+        <link href="https://thehackernews.com/2023/10/exelastealer-new-low-cost-cybercrime.html"/>
+        <updated>2023-10-20T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A new information stealer named ExelaStealer has become the latest entrant to an already crowded landscape filled with various off-the-shelf malware designed to capture sensitive data from compromised Windows systems.
+"ExelaStealer is a largely open-source infostealer with paid customizations available from the threat actor," Fortinet FortiGuard Labs researcher James Slaughter said in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. DoJ Cracks Down on North Korean IT Scammers Defrauding Global Businesses]]></title>
+        <id>https://thehackernews.com/2023/10/us-doj-cracks-down-on-north-korean-it_20.html</id>
+        <link href="https://thehackernews.com/2023/10/us-doj-cracks-down-on-north-korean-it_20.html"/>
+        <updated>2023-10-20T05:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. government has announced the seizure of 17 website domains used by North Korean information technology (IT) workers as part of an illicit scheme to defraud businesses across the world, evade sanctions, and fund the country's ballistic missile program.
+The Department of Justice (DoJ) said the U.S. confiscated approximately $1.5 million of the revenue that these IT workers collected from]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophisticated MATA Framework Strikes Eastern European Oil and Gas Companies]]></title>
+        <id>https://thehackernews.com/2023/10/sophisticated-mata-framework-strikes.html</id>
+        <link href="https://thehackernews.com/2023/10/sophisticated-mata-framework-strikes.html"/>
+        <updated>2023-10-19T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[An updated version of a sophisticated backdoor framework called MATA has been used in attacks aimed at over a dozen Eastern European companies in the oil and gas sector and defense industry as part of a cyber espionage operation that took place between August 2022 and May 2023.
+"The actors behind the attack used spear-phishing mails to target several victims, some were infected with Windows]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability Scanning: How Often Should I Scan?]]></title>
+        <id>https://thehackernews.com/2023/10/vulnerability-scanning-how-often-should.html</id>
+        <link href="https://thehackernews.com/2023/10/vulnerability-scanning-how-often-should.html"/>
+        <updated>2023-10-19T11:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The time between a vulnerability being discovered and hackers exploiting it is narrower than ever – just 12 days. So it makes sense that organizations are starting to recognize the importance of not leaving long gaps between their scans, and the term "continuous vulnerability scanning" is becoming more popular. 
+Hackers won’t wait for your next scan
+One-off scans can be a simple ‘one-and-done']]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play Protect Introduces Real-Time Code-Level Scanning for Android Malware]]></title>
+        <id>https://thehackernews.com/2023/10/google-play-protect-introduces-real.html</id>
+        <link href="https://thehackernews.com/2023/10/google-play-protect-introduces-real.html"/>
+        <updated>2023-10-19T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced an update to its Play Protect with support for real-time scanning at the code level to tackle novel malicious apps prior to downloading and installing them on Android devices.
+"Google Play Protect will now recommend a real-time app scan when installing apps that have never been scanned before to help detect emerging threats," the tech giant said.
+Google Play Protect is a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran-Linked OilRig Targets Middle East Governments in 8-Month Cyber Campaign]]></title>
+        <id>https://thehackernews.com/2023/10/iran-linked-oilrig-targets-middle-east.html</id>
+        <link href="https://thehackernews.com/2023/10/iran-linked-oilrig-targets-middle-east.html"/>
+        <updated>2023-10-19T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The Iran-linked OilRig threat actor targeted an unnamed Middle East government between February and September 2023 as part of an eight-month-long campaign.
+The attack led to the theft of files and passwords and, in one instance, resulted in the deployment of a PowerShell backdoor called PowerExchange, the Symantec Threat Hunter Team, part of Broadcom, said in a report shared with The Hacker News]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of North Korean Attacks Exploiting JetBrains TeamCity Flaw]]></title>
+        <id>https://thehackernews.com/2023/10/microsoft-warns-of-north-korean-attacks.html</id>
+        <link href="https://thehackernews.com/2023/10/microsoft-warns-of-north-korean-attacks.html"/>
+        <updated>2023-10-19T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[North Korean threat actors are actively exploiting a critical security flaw in JetBrains TeamCity to opportunistically breach vulnerable servers, according to Microsoft.
+The attacks, which entail the exploitation of CVE-2023-42793 (CVSS score: 9.8), have been attributed to Diamond Sleet (aka Labyrinth Chollima) and Onyx Sleet (aka Andariel or Silent Chollima).
+It's worth noting that both the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google TAG Detects State-Backed Threat Actors Exploiting WinRAR Flaw]]></title>
+        <id>https://thehackernews.com/2023/10/google-tag-detects-state-backed-threat.html</id>
+        <link href="https://thehackernews.com/2023/10/google-tag-detects-state-backed-threat.html"/>
+        <updated>2023-10-19T04:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A number of state-back threat actors from Russia and China have been observed exploiting a recent security flaw in the WinRAR archiver tool for Windows as part of their operations.
+The vulnerability in question is CVE-2023-38831 (CVSS score: 7.8), which allows attackers to execute arbitrary code when a user attempts to view a benign file within a ZIP archive. The shortcoming has been actively]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazarus Group Targeting Defense Experts with Fake Interviews via Trojanized VNC Apps]]></title>
+        <id>https://thehackernews.com/2023/10/lazarus-group-targeting-defense-experts.html</id>
+        <link href="https://thehackernews.com/2023/10/lazarus-group-targeting-defense-experts.html"/>
+        <updated>2023-10-18T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The North Korea-linked Lazarus Group (aka Hidden Cobra or TEMP.Hermit) has been observed using trojanized versions of Virtual Network Computing (VNC) apps as lures to target the defense industry and nuclear engineers as part of a long-running campaign known as Operation Dream Job.
+"The threat actor tricks job seekers on social media into opening malicious apps for fake job interviews," Kaspersky]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Citrix NetScaler Flaw Exploited to Target from Government, Tech Firms]]></title>
+        <id>https://thehackernews.com/2023/10/critical-citrix-netscaler-flaw.html</id>
+        <link href="https://thehackernews.com/2023/10/critical-citrix-netscaler-flaw.html"/>
+        <updated>2023-10-18T12:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Citrix is warning of exploitation of a recently disclosed critical security flaw in NetScaler ADC and Gateway appliances that could result in exposure of sensitive information.
+Tracked as CVE-2023-4966 (CVSS score: 9.4), the vulnerability impacts the following supported versions -
+
+NetScaler ADC and NetScaler Gateway 14.1 before 14.1-8.50
+NetScaler ADC and NetScaler Gateway 13.1 before]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unraveling Real-Life Attack Paths – Key Lessons Learned]]></title>
+        <id>https://thehackernews.com/2023/10/unraveling-real-life-attack-paths-key.html</id>
+        <link href="https://thehackernews.com/2023/10/unraveling-real-life-attack-paths-key.html"/>
+        <updated>2023-10-18T11:42:00.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of cybersecurity, attackers are always searching for vulnerabilities and exploits within organizational environments. They don't just target single weaknesses; they're on the hunt for combinations of exposures and attack methods that can lead them to their desired objective.
+Despite the presence of numerous security tools, organizations often have to deal with two]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qubitstrike Targets Jupyter Notebooks with Crypto Mining and Rootkit Campaign]]></title>
+        <id>https://thehackernews.com/2023/10/qubitstrike-targets-jupyter-notebooks.html</id>
+        <link href="https://thehackernews.com/2023/10/qubitstrike-targets-jupyter-notebooks.html"/>
+        <updated>2023-10-18T11:42:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor, presumably from Tunisia, has been linked to a new campaign targeting exposed Jupyter Notebooks in a two-fold attempt to illicitly mine cryptocurrency and breach cloud environments.
+Dubbed Qubitstrike by Cado, the intrusion set utilizes Telegram API to exfiltrate cloud service provider credentials following a successful compromise.
+"The payloads for the Qubitstrike campaign are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TetrisPhantom: Cyber Espionage via Secure USBs Targets APAC Governments]]></title>
+        <id>https://thehackernews.com/2023/10/tetrisphantom-cyber-espionage-via.html</id>
+        <link href="https://thehackernews.com/2023/10/tetrisphantom-cyber-espionage-via.html"/>
+        <updated>2023-10-18T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Government entities in the Asia-Pacific (APAC) region are the target of a long-running cyber espionage campaign dubbed TetrisPhantom.
+"The attacker covertly spied on and harvested sensitive data from APAC government entities by exploiting a particular type of secure USB drive, protected by hardware encryption to ensure the secure storage and transfer of data between computer systems," Kaspersky]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Admin Takeover Vulnerability Exposed in Synology's DiskStation Manager]]></title>
+        <id>https://thehackernews.com/2023/10/new-admin-takeover-vulnerability.html</id>
+        <link href="https://thehackernews.com/2023/10/new-admin-takeover-vulnerability.html"/>
+        <updated>2023-10-18T06:48:00.000Z</updated>
+        <summary type="html"><![CDATA[A medium-severity flaw has been discovered in Synology's DiskStation Manager (DSM) that could be exploited to decipher an administrator's password and remotely hijack the account.
+"Under some rare conditions, an attacker could leak enough information to restore the seed of the pseudorandom number generator (PRNG), reconstruct the admin password, and remotely take over the admin account,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D-Link Confirms Data Breach: Employee Falls Victim to Phishing Attack]]></title>
+        <id>https://thehackernews.com/2023/10/d-link-confirms-data-breach-employee.html</id>
+        <link href="https://thehackernews.com/2023/10/d-link-confirms-data-breach-employee.html"/>
+        <updated>2023-10-18T03:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Taiwanese networking equipment manufacturer D-Link has confirmed a data breach that led to the exposure of what it said is "low-sensitivity and semi-public information."
+"The data was confirmed not from the cloud but likely originated from an old D-View 6 system, which reached its end of life as early as 2015," the company said.
+"The data was used for registration purposes back then. So far, no]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord: A Playground for Nation-State Hackers Targeting Critical Infrastructure]]></title>
+        <id>https://thehackernews.com/2023/10/discord-playground-for-nation-state.html</id>
+        <link href="https://thehackernews.com/2023/10/discord-playground-for-nation-state.html"/>
+        <updated>2023-10-17T14:48:00.000Z</updated>
+        <summary type="html"><![CDATA[In what's the latest evolution of threat actors abusing legitimate infrastructure for nefarious ends, new findings show that nation-state hacking groups have entered the fray in leveraging the social platform for targeting critical infrastructure.
+Discord, in recent years, has become a lucrative target, acting as a fertile ground for hosting malware using its content delivery network (CDN) as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Vulnerabilities Uncovered in Open Source CasaOS Cloud Software]]></title>
+        <id>https://thehackernews.com/2023/10/critical-vulnerabilities-uncovered-in.html</id>
+        <link href="https://thehackernews.com/2023/10/critical-vulnerabilities-uncovered-in.html"/>
+        <updated>2023-10-17T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Two critical security flaws discovered in the open-source CasaOS personal cloud software could be successfully exploited by attackers to achieve arbitrary code execution and take over susceptible systems.
+The vulnerabilities, tracked as CVE-2023-37265 and CVE-2023-37266, both carry a CVSS score of 9.8 out of a maximum of 10.
+Sonar security researcher Thomas Chauchefoin, who discovered the bugs,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Locking Down Financial and Accounting Data — Best Data Security Strategies]]></title>
+        <id>https://thehackernews.com/2023/10/webinar-locking-down-financial-and.html</id>
+        <link href="https://thehackernews.com/2023/10/webinar-locking-down-financial-and.html"/>
+        <updated>2023-10-17T11:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Financial data is much more than just a collection of numbers; it is a crucial component of any business and a prime target for cybercriminals. It's important to understand that financial records can be a veritable treasure trove for digital pirates.
+A security breach not only puts customers' personal information in jeopardy but also enables fraudsters to drain company funds and exploit clients.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Realm of Malicious Generative AI: A New Digital Security Challenge]]></title>
+        <id>https://thehackernews.com/2023/10/exploring-realm-of-malicious-generative.html</id>
+        <link href="https://thehackernews.com/2023/10/exploring-realm-of-malicious-generative.html"/>
+        <updated>2023-10-17T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, the cybersecurity landscape has been confronted with a daunting new reality – the rise of malicious Generative AI, like FraudGPT and WormGPT. These rogue creations, lurking in the dark corners of the internet, pose a distinctive threat to the world of digital security. In this article, we will look at the nature of Generative AI fraud, analyze the messaging surrounding these creations,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Warn of Severe Flaws Affecting Milesight Routers and Titan SFTP Servers]]></title>
+        <id>https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html</id>
+        <link href="https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html"/>
+        <updated>2023-10-17T10:16:00.000Z</updated>
+        <summary type="html"><![CDATA[A severity flaw impacting industrial cellular routers from Milesight may have been actively exploited in real-world attacks, new findings from VulnCheck reveal.
+Tracked as CVE-2023-43261 (CVSS score: 7.5), the vulnerability has been described as a case of information disclosure that affects UR5X, UR32L, UR32, UR35, and UR41 routers before version 35.3.0.7 that could enable attackers to access]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERT-UA Reports: 11 Ukrainian Telecom Providers Hit by Cyberattacks]]></title>
+        <id>https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html</id>
+        <link href="https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html"/>
+        <updated>2023-10-17T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has revealed that threat actors "interfered" with at least 11 telecommunication service providers in the country between May and September 2023.
+The agency is tracking the activity under the name UAC-0165, stating the intrusions led to service interruptions for customers.
+The starting point of the attacks is a reconnaissance phase in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warning: Unpatched Cisco Zero-Day Vulnerability Actively Targeted in the Wild]]></title>
+        <id>https://thehackernews.com/2023/10/warning-unpatched-cisco-zero-day.html</id>
+        <link href="https://thehackernews.com/2023/10/warning-unpatched-cisco-zero-day.html"/>
+        <updated>2023-10-17T04:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has warned of a critical, unpatched security flaw impacting IOS XE software that’s under active exploitation in the wild.
+Rooted in the web UI feature, the zero-day vulnerability is tracked as CVE-2023-20198 and has been assigned the maximum severity rating of 10.0 on the CVSS scoring system.
+It’s worth pointing out that the shortcoming only affects enterprise networking gear that have the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pro-Russian Hackers Exploiting Recent WinRAR Vulnerability in New Campaign]]></title>
+        <id>https://thehackernews.com/2023/10/pro-russian-hackers-exploiting-recent.html</id>
+        <link href="https://thehackernews.com/2023/10/pro-russian-hackers-exploiting-recent.html"/>
+        <updated>2023-10-16T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Pro-Russian hacking groups have exploited a recently disclosed security vulnerability in the WinRAR archiving utility as part of a phishing campaign designed to harvest credentials from compromised systems.
+"The attack involves the use of malicious archive files that exploit the recently discovered vulnerability affecting the WinRAR compression software versions prior to 6.23 and traced as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpyNote: Beware of This Android Trojan that Records Audio and Phone Calls]]></title>
+        <id>https://thehackernews.com/2023/10/spynote-beware-of-this-android-trojan.html</id>
+        <link href="https://thehackernews.com/2023/10/spynote-beware-of-this-android-trojan.html"/>
+        <updated>2023-10-16T12:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The Android banking trojan known as SpyNote has been dissected to reveal its diverse information-gathering features.
+Typically spread via SMS phishing campaigns, attack chains involving the spyware trick potential victims into installing the app by clicking on the embedded link, according to F-Secure.
+Besides requesting invasive permissions to access call logs, camera, SMS messages, and external]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fast Evolution of SaaS Security from 2020 to 2024 (Told Through Video)]]></title>
+        <id>https://thehackernews.com/2023/10/the-fast-evolution-of-saas-security.html</id>
+        <link href="https://thehackernews.com/2023/10/the-fast-evolution-of-saas-security.html"/>
+        <updated>2023-10-16T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[SaaS Security’s roots are in configuration management. An astounding 35% of all security breaches begin with security settings that were misconfigured. In the past 3 years, the initial access vectors to SaaS data have widened beyond misconfiguration management. “SaaS Security on Tap” is a new video series that takes place in Eliana V's bar making sure that the only thing that leaks is beer (]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal Debunks Zero-Day Vulnerability Reports, Finds No Evidence]]></title>
+        <id>https://thehackernews.com/2023/10/signal-debunks-zero-day-vulnerability.html</id>
+        <link href="https://thehackernews.com/2023/10/signal-debunks-zero-day-vulnerability.html"/>
+        <updated>2023-10-16T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Encrypted messaging app Signal has pushed back against "viral reports" of an alleged zero-day flaw in its software, stating it found no evidence to support the claim.
+"After responsible investigation *we have no evidence that suggests this vulnerability is real* nor has any additional info been shared via our official reporting channels," it said in a series of messages posted in X (formerly]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance's Smart Chain Exploited in New 'EtherHiding' Malware Campaign]]></title>
+        <id>https://thehackernews.com/2023/10/binances-smart-chain-exploited-in-new.html</id>
+        <link href="https://thehackernews.com/2023/10/binances-smart-chain-exploited-in-new.html"/>
+        <updated>2023-10-16T04:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed serving malicious code by utilizing Binance's Smart Chain (BSC) contracts in what has been described as the "next level of bulletproof hosting."
+The campaign, detected two months ago, has been codenamed EtherHiding by Guardio Labs.
+The novel twist marks the latest iteration in an ongoing malware campaign that leverages compromised WordPress sites to serve]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft to Phase Out NTLM in Favor of Kerberos for Stronger Authentication]]></title>
+        <id>https://thehackernews.com/2023/10/microsoft-to-phase-out-ntlm-in-favor-of.html</id>
+        <link href="https://thehackernews.com/2023/10/microsoft-to-phase-out-ntlm-in-favor-of.html"/>
+        <updated>2023-10-14T06:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has announced that it plans to eliminate NT LAN Manager (NTLM) in Windows 11 in the future, as it pivots to alternative methods for authentication and bolster security.
+"The focus is on strengthening the Kerberos authentication protocol, which has been the default since 2000, and reducing reliance on NT LAN Manager (NTLM)," the tech giant said. "New features for Windows 11 include]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New PEAPOD Cyberattack Campaign Targeting Women Political Leaders]]></title>
+        <id>https://thehackernews.com/2023/10/new-peapod-cyberattack-campaign.html</id>
+        <link href="https://thehackernews.com/2023/10/new-peapod-cyberattack-campaign.html"/>
+        <updated>2023-10-13T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[European Union military personnel and political leaders working on gender equality initiatives have emerged as the target of a new campaign that delivers an updated version of RomCom RAT called PEAPOD.
+Cybersecurity firm Trend Micro attributed the attacks to a threat actor it tracks under the name Void Rabisu, which is also known as Storm-0978, Tropical Scorpius, and UNC2596, and is also]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Unveil ToddyCat's New Set of Tools for Data Exfiltration]]></title>
+        <id>https://thehackernews.com/2023/10/researchers-unveil-toddycats-new-set-of.html</id>
+        <link href="https://thehackernews.com/2023/10/researchers-unveil-toddycats-new-set-of.html"/>
+        <updated>2023-10-13T11:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The advanced persistent threat (APT) actor known as ToddyCat has been linked to a new set of malicious tools that are designed for data exfiltration, offering a deeper insight into the hacking crew's tactics and capabilities.
+The findings come from Kaspersky, which first shed light on the adversary last year, linking it to attacks against high-profile entities in Europe and Asia for nearly three]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Attacks Double: Are Companies Prepared for 2024's Cyber Threats?]]></title>
+        <id>https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html</id>
+        <link href="https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html"/>
+        <updated>2023-10-13T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Ransomware attacks have only increased in sophistication and capabilities over the past year. From new evasion and anti-analysis techniques to stealthier variants coded in new languages, ransomware groups have adapted their tactics to effectively bypass common defense strategies. 
+Cyble, a renowned cyber threat intelligence company recognized for its research and findings, recently released its]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DarkGate Malware Spreading via Messaging Services Posing as PDF Files]]></title>
+        <id>https://thehackernews.com/2023/10/darkgate-malware-spreading-via.html</id>
+        <link href="https://thehackernews.com/2023/10/darkgate-malware-spreading-via.html"/>
+        <updated>2023-10-13T10:36:00.000Z</updated>
+        <summary type="html"><![CDATA[A piece of malware known as DarkGate has been observed being spread via instant messaging platforms such as Skype and Microsoft Teams.
+In these attacks, the messaging apps are used to deliver a Visual Basic for Applications (VBA) loader script that masquerades as a PDF document, which, when opened, triggers the download and execution of an AutoIt script designed to launch the malware.
+"It's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI, CISA Warn of Rising AvosLocker Ransomware Attacks Against Critical Infrastructure]]></title>
+        <id>https://thehackernews.com/2023/10/fbi-cisa-warn-of-rising-avoslocker.html</id>
+        <link href="https://thehackernews.com/2023/10/fbi-cisa-warn-of-rising-avoslocker.html"/>
+        <updated>2023-10-13T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The AvosLocker ransomware gang has been linked to attacks against critical infrastructure sectors in the U.S., with some of them detected as recently as May 2023.
+That's according to a new joint cybersecurity advisory released by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) detailing the ransomware-as-a-service (RaaS) operation's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious NuGet Package Targeting .NET Developers with SeroXen RAT]]></title>
+        <id>https://thehackernews.com/2023/10/malicious-nuget-package-targeting-net.html</id>
+        <link href="https://thehackernews.com/2023/10/malicious-nuget-package-targeting-net.html"/>
+        <updated>2023-10-12T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[A malicious package hosted on the NuGet package manager for the .NET Framework has been found to deliver a remote access trojan called SeroXen RAT.
+The package, named Pathoschild.Stardew.Mod.Build.Config and published by a user named Disti, is a typosquat of a legitimate package called Pathoschild.Stardew.ModBuildConfig, software supply chain security firm Phylum said in a report today.
+While]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShellBot Uses Hex IPs to Evade Detection in Attacks on Linux SSH Servers]]></title>
+        <id>https://thehackernews.com/2023/10/shellbot-uses-hex-ips-to-evade.html</id>
+        <link href="https://thehackernews.com/2023/10/shellbot-uses-hex-ips-to-evade.html"/>
+        <updated>2023-10-12T11:27:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind ShellBot are leveraging IP addresses transformed into their hexadecimal notation to infiltrate poorly managed Linux SSH servers and deploy the DDoS malware.
+"The overall flow remains the same, but the download URL used by the threat actor to install ShellBot has changed from a regular IP address to a hexadecimal value," the AhnLab Security Emergency response Center (ASEC]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Guard Your Data from Exposure in ChatGPT]]></title>
+        <id>https://thehackernews.com/2023/10/how-to-guard-your-data-from-exposure-in.html</id>
+        <link href="https://thehackernews.com/2023/10/how-to-guard-your-data-from-exposure-in.html"/>
+        <updated>2023-10-12T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT has transformed the way businesses generate textual content, which can potentially result in a quantum leap in productivity. However, Generative AI innovation also introduces a new dimension of data exposure risk, when employees inadvertently type or paste sensitive business data into ChatGPT, or similar applications. DLP solutions, the go-to solution for similar challenges, are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Defender Thwarts Large-Scale Akira Ransomware Attack]]></title>
+        <id>https://thehackernews.com/2023/10/microsoft-defender-thwarts-akira.html</id>
+        <link href="https://thehackernews.com/2023/10/microsoft-defender-thwarts-akira.html"/>
+        <updated>2023-10-12T10:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Wednesday said that a user containment feature in Microsoft Defender for Endpoint helped thwart a "large-scale remote encryption attempt" made by Akira ransomware actors targeting an unknown industrial organization in early June 2023.
+The tech giant's threat intelligence team is tracking the operator as Storm-1567.
+The attack leveraged devices that were not onboarded to Microsoft]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Malware Posing as WordPress Caching Plugin]]></title>
+        <id>https://thehackernews.com/2023/10/researchers-uncover-malware-posing-as.html</id>
+        <link href="https://thehackernews.com/2023/10/researchers-uncover-malware-posing-as.html"/>
+        <updated>2023-10-12T09:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a new sophisticated strain of malware that masquerades as a WordPress plugin to stealthily create administrator accounts and remotely control a compromised site.
+"Complete with a professional looking opening comment implying it is a caching plugin, this rogue code contains numerous functions, adds filters to prevent itself from being included in the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
