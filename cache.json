@@ -2044,6 +2044,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/10/act-now-vmware-releases-patch-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "VMware has released security updates to address a critical flaw in the vCenter Server that could result in remote code execution on affected systems.\nThe issue, tracked as CVE-2023-34048 (CVSS score: 9.8), has been described as an out-of-bounds write vulnerability in the implementation of the DCE/RPC protocol.\n\"A malicious actor with network access to vCenter Server may trigger an out-of-bounds",
+          "link": "https://thehackernews.com/2023/10/act-now-vmware-releases-patch-for.html",
+          "publishedOn": "2023-10-25T10:11:00.000Z",
+          "wordCount": null,
+          "title": "Act Now: VMware Releases Patch for Critical vCenter Server RCE Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXqKwLhbe0od6IDn2CoDpP_cNFZ5qSvZrPKlPaeUdOdm598VFLh9OaMU2_MGTT6WCDpN87vBavgGVpEzNxHLaL2oAjvbZqK6Awt_Ia7MTsvKRFcB3pCJL38ZgTyiSn5a9hhn5G3vX3tmjzksWGcfLHBOZ-7_i_vPi3OLpfwOeGtjSQOoe9bTxC5BUx_BkI/s1600/hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXqKwLhbe0od6IDn2CoDpP_cNFZ5qSvZrPKlPaeUdOdm598VFLh9OaMU2_MGTT6WCDpN87vBavgGVpEzNxHLaL2oAjvbZqK6Awt_Ia7MTsvKRFcB3pCJL38ZgTyiSn5a9hhn5G3vX3tmjzksWGcfLHBOZ-7_i_vPi3OLpfwOeGtjSQOoe9bTxC5BUx_BkI/s1600/hacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/10/malvertising-campaign-targets-brazils.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The popularity of Brazil's PIX instant payment system has made it a lucrative target for threat actors looking to generate illicit profits using a new malware called GoPIX.\nKaspersky, which has been tracking the active campaign since December 2022, said the attacks are pulled off using malicious ads that are served when potential victims search for \"WhatsApp web\" on search engines.\n\"The",
@@ -2930,6 +2946,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=309768",
+          "author": "Ian Chee",
+          "description": "In addition to its Snapdragon 8 Gen 3 mobile chipsets, Qualcomm also announced its new additions to its Snapdragon Sound platform. They are the Qualcomm S7 and S7 Pro, with the latter being the star of the show, as adds WiFi into wireless audio tech. For the longest time, wireless audio involved Bluetooth codecs like […]\nThe post Qualcomm S7 Pro Chip To Use WiFi For Lossless Wireless Audio appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2023/309768/qualcomm-s7-pro-use-wifi-wireless-audio/",
+          "publishedOn": "2023-10-25T11:00:41.000Z",
+          "wordCount": 5117,
+          "title": "Qualcomm S7 Pro Chip To Use WiFi For Lossless Wireless Audio",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/10/Qualcomm-Sound-Platform.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=309165",
           "author": "Ikmal Rozlan",
