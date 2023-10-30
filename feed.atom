@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2023-10-30T16:39:38.027Z</updated>
+    <updated>2023-10-30T17:03:20.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pro-Hamas Hacktivists Targeting Israeli Entities with Wiper Malware]]></title>
+        <id>https://thehackernews.com/2023/10/pro-hamas-hacktivists-targeting-israeli.html</id>
+        <link href="https://thehackernews.com/2023/10/pro-hamas-hacktivists-targeting-israeli.html"/>
+        <updated>2023-10-30T16:25:00.000Z</updated>
+        <summary type="html"><![CDATA[A pro-Hamas hacktivist group has been observed using a new Linux-based wiper malware dubbed BiBi-Linux Wiper, targeting Israeli entities amidst the ongoing Israeli-Hamas war.
+"This malware is an x64 ELF executable, lacking obfuscation or protective measures," Security Joes said in a new report published today. "It allows attackers to specify target folders and can potentially destroy an entire]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mangsa banjir di Perak meningkat kepada 312 orang]]></title>
         <id>443992</id>
@@ -9526,18 +9537,6 @@ Besides requesting invasive permissions to access call logs, camera, SMS message
         <updated>2023-10-16T09:31:00.000Z</updated>
         <summary type="html"><![CDATA[Encrypted messaging app Signal has pushed back against "viral reports" of an alleged zero-day flaw in its software, stating it found no evidence to support the claim.
 "After responsible investigation *we have no evidence that suggests this vulnerability is real* nor has any additional info been shared via our official reporting channels," it said in a series of messages posted in X (formerly]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance's Smart Chain Exploited in New 'EtherHiding' Malware Campaign]]></title>
-        <id>https://thehackernews.com/2023/10/binances-smart-chain-exploited-in-new.html</id>
-        <link href="https://thehackernews.com/2023/10/binances-smart-chain-exploited-in-new.html"/>
-        <updated>2023-10-16T04:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed serving malicious code by utilizing Binance's Smart Chain (BSC) contracts in what has been described as the "next level of bulletproof hosting."
-The campaign, detected two months ago, has been codenamed EtherHiding by Guardio Labs.
-The novel twist marks the latest iteration in an ongoing malware campaign that leverages compromised WordPress sites to serve]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
