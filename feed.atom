@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2023-10-31T17:36:34.607Z</updated>
+    <updated>2023-10-31T18:07:29.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Prolific Puma' Hacker Gives Cybercriminals Access to .us Domains]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/prolific-puma-hacker-gives-cybercriminals-access-to-us-domains</id>
+        <link href="https://www.darkreading.com/threat-intelligence/prolific-puma-hacker-gives-cybercriminals-access-to-us-domains"/>
+        <updated>2023-10-31T17:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals are upping their phishing with shortened links and showing that coveted, regulated top-level domains aren't as exclusive as you'd think.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arid Viper Camouflages Malware in Knockoff Dating App]]></title>
+        <id>https://www.darkreading.com/dr-global/arid-viper-camouflages-malware-in-knockoff-dating-app</id>
+        <link href="https://www.darkreading.com/dr-global/arid-viper-camouflages-malware-in-knockoff-dating-app"/>
+        <updated>2023-10-31T17:44:00.000Z</updated>
+        <summary type="html"><![CDATA[The APT group uses updates from the app to get the user to download the malware.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Survey: AppSec Maturity Hindered by Staffing, Budgets, Vulnerabilities]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/survey-appsec-maturity-hindered-by-staffing-budgets-vulnerabilities</id>
@@ -11021,18 +11041,6 @@ A security breach not only puts customers' personal information in jeopardy but 
         <updated>2023-10-17T10:16:00.000Z</updated>
         <summary type="html"><![CDATA[A severity flaw impacting industrial cellular routers from Milesight may have been actively exploited in real-world attacks, new findings from VulnCheck reveal.
 Tracked as CVE-2023-43261 (CVSS score: 7.5), the vulnerability has been described as a case of information disclosure that affects UR5X, UR32L, UR32, UR35, and UR41 routers before version 35.3.0.7 that could enable attackers to access]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERT-UA Reports: 11 Ukrainian Telecom Providers Hit by Cyberattacks]]></title>
-        <id>https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html</id>
-        <link href="https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html"/>
-        <updated>2023-10-17T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has revealed that threat actors "interfered" with at least 11 telecommunication service providers in the country between May and September 2023.
-The agency is tracking the activity under the name UAC-0165, stating the intrusions led to service interruptions for customers.
-The starting point of the attacks is a reconnaissance phase in]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
