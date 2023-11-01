@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2023-11-01T18:37:11.977Z</updated>
+    <updated>2023-11-01T19:02:57.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -12379,17 +12379,6 @@ Dubbed Qubitstrike by Cado, the intrusion set utilizes Telegram API to exfiltr
         <updated>2023-10-18T09:11:00.000Z</updated>
         <summary type="html"><![CDATA[Government entities in the Asia-Pacific (APAC) region are the target of a long-running cyber espionage campaign dubbed TetrisPhantom.
 "The attacker covertly spied on and harvested sensitive data from APAC government entities by exploiting a particular type of secure USB drive, protected by hardware encryption to ensure the secure storage and transfer of data between computer systems," Kaspersky]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Admin Takeover Vulnerability Exposed in Synology's DiskStation Manager]]></title>
-        <id>https://thehackernews.com/2023/10/new-admin-takeover-vulnerability.html</id>
-        <link href="https://thehackernews.com/2023/10/new-admin-takeover-vulnerability.html"/>
-        <updated>2023-10-18T06:48:00.000Z</updated>
-        <summary type="html"><![CDATA[A medium-severity flaw has been discovered in Synology's DiskStation Manager (DSM) that could be exploited to decipher an administrator's password and remotely hijack the account.
-"Under some rare conditions, an attacker could leak enough information to restore the seed of the pseudorandom number generator (PRNG), reconstruct the admin password, and remotely take over the admin account,"]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
