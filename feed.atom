@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2023-11-06T21:35:57.666Z</updated>
+    <updated>2023-11-06T22:04:14.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gootloader Aims Malicious, Custom Bot Army at Enterprise Networks]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/gootloader-malicious-custom-bot-army-enterprise-networks</id>
+        <link href="https://www.darkreading.com/attacks-breaches/gootloader-malicious-custom-bot-army-enterprise-networks"/>
+        <updated>2023-11-06T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Previously limited to initial access brokering, the Gootloader group has pivoted to a nasty post-compromise "GootBot" attack, each implant with its own C2.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Kidnapping: AI Tools Are Enabling IRL Extortion Scams]]></title>
+        <id>https://www.darkreading.com/black-hat/virtual-kidnapping-ai-tools-enabling-irl-extortion-scams</id>
+        <link href="https://www.darkreading.com/black-hat/virtual-kidnapping-ai-tools-enabling-irl-extortion-scams"/>
+        <updated>2023-11-06T21:35:00.000Z</updated>
+        <summary type="html"><![CDATA[With AI and publicly available data, cybercriminals have the resources they need to fake a real-life kidnapping and make you believe it.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Novel Google Cloud RAT Uses Calendar Events for C2]]></title>
         <id>https://www.darkreading.com/cloud/google-cloud-rat-calendar-events-command-and-control</id>
