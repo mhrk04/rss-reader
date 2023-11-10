@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2023-11-10T16:07:11.118Z</updated>
+    <updated>2023-11-10T16:39:14.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: Iran's Cyberattacks on Israel Exaggerated & Fabricated]]></title>
+        <id>https://www.darkreading.com/dr-global/microsoft-iran-cyberattacks-israel-exaggerated-fabricated</id>
+        <link href="https://www.darkreading.com/dr-global/microsoft-iran-cyberattacks-israel-exaggerated-fabricated"/>
+        <updated>2023-11-10T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite claims to the contrary, Iranian cyberattackers have been less strategic and more opportunistic over the last month as the Israel-Hamas war continues.]]></summary>
+        <author>
+            <name>Dan Raywood, Senior Editor, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berita tempatan pilihan sepanjang hari ini]]></title>
         <id>445478</id>
@@ -27,11 +37,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Malaysia juarai pertandingan antarabangsa World Robot Olympiad 2023]]></title>
+        <id>445582</id>
+        <link href="https://www.astroawani.com/berita-malaysia/malaysia-juarai-pertandingan-antarabangsa-world-robot-olympiad-2023-445582"/>
+        <updated>2023-11-10T15:52:05.000Z</updated>
+        <summary type="html"><![CDATA[Pasukan KPM berjaya muncul Juara Keseluruhan Pertandingan Antarabangsa World Robot Olympiad (WRO) 2023 yang berlangsung di Panama City, Panama, bermula 7 Nov hingga semalam.]]></summary>
+        <author>
+            <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nga Kor Ming sumbang sebulan gaji kepada pemenang Anugerah AiPSA]]></title>
         <id>445580</id>
         <link href="https://www.astroawani.com/berita-malaysia/nga-kor-ming-sumbang-sebulan-gaji-kepada-pemenang-anugerah-aipsa-445580"/>
         <updated>2023-11-10T15:38:36.000Z</updated>
         <summary type="html"><![CDATA[Ia sebagai pengiktirafan atas jasa dan bakti mereka melalui inovasi yang disampaikan.]]></summary>
+        <author>
+            <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penghantaran kedua barangan ke Gaza selamat berlepas pada 10.55 malam]]></title>
+        <id>445581</id>
+        <link href="https://www.astroawani.com/berita-malaysia/penghantaran-kedua-barangan-ke-gaza-selamat-berlepas-pada-10-55-malam-445581"/>
+        <updated>2023-11-10T15:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Penerbangan kargo sewaan khas itu membawa muatan sebanyak 20 tan barangan keperluan perubatan, barangan bayi, pakaian dan makanan yang diuruskan melalui Ops Ihsan.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
         </author>
@@ -19519,69 +19549,6 @@ The post Maxis Opens Updated Fibre Prices Up To All Customers appeared first on 
         <summary type="html"><![CDATA[Gigi beberapa minggu lalu dengan lantang mengutuk tindakan kejam rejim Zionis yang membedil dan membunuh ribuan nyawa rakyat Palestin yang tidak berdosa.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['False Start' jejaskan aksi terakhir Dekwan di APG]]></title>
-        <id>443545</id>
-        <link href="https://www.astroawani.com/berita-sukan/false-start-jejaskan-aksi-terakhir-dekwan-di-apg-443545"/>
-        <updated>2023-10-27T04:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Mohamad Ridzuan Mohamad Puzi terlepas peluang mempertahankan pingat emas acara 100m lelaki T36 pada Sukan Para Asia (APG) 2022 Hangzhou.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hurricane Otis kills at least 27, hammers Acapulco as damage seen in billions]]></title>
-        <id>443553</id>
-        <link href="https://english.astroawani.com/world-news/hurricane-otis-kills-least-27-hammers-acapulco-damage-seen-billions-443553"/>
-        <updated>2023-10-27T04:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Hammering the beach resort of Acapulco, the damage from Hurricane Otis has run into billions of dollars.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F5 Issues Warning: BIG-IP Vulnerability Allows Remote Code Execution]]></title>
-        <id>https://thehackernews.com/2023/10/f5-issues-warning-big-ip-vulnerability.html</id>
-        <link href="https://thehackernews.com/2023/10/f5-issues-warning-big-ip-vulnerability.html"/>
-        <updated>2023-10-27T04:23:00.000Z</updated>
-        <summary type="html"><![CDATA[F5 has alerted customers of a critical security vulnerability impacting BIG-IP that could result in unauthenticated remote code execution.
-The issue, rooted in the configuration utility component, has been assigned the CVE identifier CVE-2023-46747, and carries a CVSS score of 9.8 out of a maximum of 10.
-"This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 negara Arab gesa Majlis Keselamatan PBB kuat kuasa gencatan senjata di Gaza]]></title>
-        <id>443556</id>
-        <link href="https://www.astroawani.com/berita-dunia/9-negara-arab-gesa-majlis-keselamatan-pbb-kuat-kuasa-gencatan-senjata-di-gaza-443556"/>
-        <updated>2023-10-27T04:20:57.000Z</updated>
-        <summary type="html"><![CDATA[Sembilan negara Arab menuntut Majlis Keselamatan Pertubuhan Bangsa-Bangsa Bersatu segera menguatkuasakan gencatan senjata di Semenanjung Gaza.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gencatan senjata perlu jadi matlamat utama - Duta Palestin ke PBB]]></title>
-        <id>443558</id>
-        <link href="https://www.astroawani.com/berita-dunia/gencatan-senjata-perlu-jadi-matlamat-utama-duta-palestin-ke-pbb-443558"/>
-        <updated>2023-10-27T04:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Duta Palestin ke PBB Ibrahim Khraishi berkata gencatan senjata dengan kadar segera mesti menjadi "matlamat utama kita semua" di tengah-tengah konflik Palestin-Israel.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tune Talk Introduces New Pek Epik! Prepaid Plans]]></title>
-        <id>https://www.lowyat.net/?p=309893</id>
-        <link href="https://www.lowyat.net/2023/309893/tune-talk-new-pek-epik-prepaid-plans/"/>
-        <updated>2023-10-27T04:14:58.000Z</updated>
-        <summary type="html"><![CDATA[Tune Talk has introduced Pek Epik!, its latest mobile prepaid plans which includes its first-ever 5G-enabled offering. These consist of four new packages with varying data quotas and special bonuses, and are available across the nation starting today. First we have Tune Talk’s EpikCall 20 plan which, as implied by its name, primarily focuses on […]
-The post Tune Talk Introduces New Pek Epik! Prepaid Plans appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
         </author>
     </entry>
 </feed>
