@@ -12,6 +12,51 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "448005",
+          "author": null,
+          "description": "Perdana Menteri Datuk Seri Anwar Ibrahim memberi jaminan bahawa aspek keselamatan negara tidak akan diabaikan susulan pengumuman kerajaan mengenai pengecualian visa kepada beberapa negara.",
+          "link": "https://www.astroawani.com/berita-malaysia/pengecualian-visa-aspek-keselamatan-negara-tidak-diabaikan-anwar-448005",
+          "publishedOn": "2023-11-29T05:30:28.000Z",
+          "wordCount": 11016,
+          "title": "Pengecualian visa: Aspek keselamatan negara tidak diabaikan - Anwar",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2023-11/61701235751_AnwarIbrahim.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2023-11/61701235751_AnwarIbrahim.jpg"
+        },
+        {
+          "id": "448001",
+          "author": null,
+          "description": "Remaja lelaki berusia 13 tahun yang direman pada Selasa kerana mengacu pisau di dada pemandu kenderaan e-hailing di Taman Keladi.",
+          "link": "https://www.astroawani.com/berita-malaysia/remaja-acu-pisau-terhadap-pemandu-e-hailing-dibebas-dengan-jaminan-polis-448001",
+          "publishedOn": "2023-11-29T05:20:00.000Z",
+          "wordCount": 11016,
+          "title": "Remaja acu pisau terhadap pemandu e-hailing dibebas dengan jaminan polis",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2023-11/61701235004_remajasamun.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2023-11/61701235004_remajasamun.jpg"
+        },
+        {
+          "id": "447975",
+          "author": null,
+          "description": "Seorang pekerja di tapak pembinaan gudang logistik yang runtuh di Batu Maung, Bayan Lepas malam tadi, terselamat apabila turun lebih awal untuk berehat, beberapa minit sebelum kejadian.",
+          "link": "https://www.astroawani.com/berita-malaysia/runtuhan-gudang-syukur-saya-turun-awal-pekerja-tapak-pembinaan-447975",
+          "publishedOn": "2023-11-29T05:10:27.000Z",
+          "wordCount": 11016,
+          "title": "Runtuhan gudang: \"Syukur saya turun awal\" - Pekerja tapak pembinaan",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2023-11/71701231694_TBRuntuh.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2023-11/71701231694_TBRuntuh.jpg"
+        },
+        {
           "id": "447982",
           "author": null,
           "description": "Tiga lelaki didakwa di Mahkamah Sesyen Kuala Kangsar pada Rabu atas tuduhan melakukan rompakan barang kemas, menyebabkan kerugian RM1.4 juta, tiga minggu lalu.",
@@ -27348,6 +27393,38 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The recently disclosed critical security flaw impacting Apache ActiveMQ is being actively exploited by threat actors to distribute a new Go-based botnet called GoTitan as well as a .NET program known as PrCtrl Rat that's capable of remotely commandeering the infected hosts.\nThe attacks involve the exploitation of a remote code execution bug (CVE-2023-46604, CVSS score: 10.0) that has been",
+          "link": "https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html",
+          "publishedOn": "2023-11-29T05:07:00.000Z",
+          "wordCount": null,
+          "title": "GoTitan Botnet Spotted Exploiting Recent Apache ActiveMQ Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9HJ1TpsGoYbEpSxWe02ODflU3GV58Aku4MYFO1e9us1YSk5QNwRYdlMPuay5SyG8zCemAYHrM9xVuGZ3wmeDMe3h_iROpOcEKJ2gfS3bUwCD798XkJhkuHyJDq5DpuxKxuyUZHubDG9nDNPJaOn9ebQ-tFCMZemZ3K4zgJPK05I7jPA9i2C5z_fSo1C5X/s1600/server.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9HJ1TpsGoYbEpSxWe02ODflU3GV58Aku4MYFO1e9us1YSk5QNwRYdlMPuay5SyG8zCemAYHrM9xVuGZ3wmeDMe3h_iROpOcEKJ2gfS3bUwCD798XkJhkuHyJDq5DpuxKxuyUZHubDG9nDNPJaOn9ebQ-tFCMZemZ3K4zgJPK05I7jPA9i2C5z_fSo1C5X/s1600/server.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/11/zero-day-alert-google-chrome-under.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has rolled out security updates to fix seven security issues in its Chrome browser, including a zero-day that has come under active exploitation in the wild.\nTracked as CVE-2023-6345, the high-severity vulnerability has been described as an integer overflow bug in Skia, an open source 2D graphics library.\nBenoît Sevens and Clément Lecigne of Google's Threat Analysis Group (TAG) have been",
+          "link": "https://thehackernews.com/2023/11/zero-day-alert-google-chrome-under.html",
+          "publishedOn": "2023-11-29T04:27:00.000Z",
+          "wordCount": null,
+          "title": "Zero-Day Alert: Google Chrome Under Active Attack, Exploiting New Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHX877wLdUAFAa1nKccS4AY0HpORrdH6nWyJwFKyv8NcR6fHrnyHLBE0KzN7GC-v9i-Hl1pdZtSU2-MI5wZZatLvWiy78r_VRcjSZWurOcimNHNECGFB-Itmz5dpAdRjHMy4YWfKJJFk7WxmEBhnm5texNsjjDYxA7rJdnWofI_gQAjfKb_ds6DX49K9xs/s1600/chrome.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHX877wLdUAFAa1nKccS4AY0HpORrdH6nWyJwFKyv8NcR6fHrnyHLBE0KzN7GC-v9i-Hl1pdZtSU2-MI5wZZatLvWiy78r_VRcjSZWurOcimNHNECGFB-Itmz5dpAdRjHMy4YWfKJJFk7WxmEBhnm5texNsjjDYxA7rJdnWofI_gQAjfKb_ds6DX49K9xs/s1600/chrome.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/11/transform-your-data-security-posture.html",
           "author": "info@thehackernews.com (The Hacker News)",
