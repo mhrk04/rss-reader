@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2023-12-22T17:36:13.305Z</updated>
+    <updated>2023-12-22T18:07:35.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Releases Eighth Zero-Day Patch of 2023 for Chrome]]></title>
+        <id>https://www.darkreading.com/cloud-security/google-eighth-zero-day-patch-2023-chrome</id>
+        <link href="https://www.darkreading.com/cloud-security/google-eighth-zero-day-patch-2023-chrome"/>
+        <updated>2023-12-22T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2023-7024, exploited in the wild prior to patching, is a Chrome vulnerability that allows remote code execution within the browser's WebRTC component.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strengthening Resilience: Navigating the Cybersecurity Landscape]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/strengthening-resilience-navigating-the-cybersecurity-landscape</id>
@@ -14,6 +24,18 @@
         <summary type="html"><![CDATA[The significance of cybersecurity resilience has never been higher as we grow more reliant on digital infrastructure.]]></summary>
         <author>
             <name>David Molony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rogue WordPress Plugin Exposes E-Commerce Sites to Credit Card Theft]]></title>
+        <id>https://thehackernews.com/2023/12/rogue-wordpress-plugin-exposes-e.html</id>
+        <link href="https://thehackernews.com/2023/12/rogue-wordpress-plugin-exposes-e.html"/>
+        <updated>2023-12-22T16:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat hunters have discovered a rogue WordPress plugin that's capable of creating bogus administrator users and injecting malicious JavaScript code to steal credit card information.
+The skimming activity is part of a Magecart campaign targeting e-commerce websites, according to Sucuri.
+"As with many other malicious or fake WordPress plugins it contains some deceptive information at]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -22238,27 +22260,6 @@ The post Tecno Spark 20 Now Official; Priced At RM499 appeared first on Lowyat.N
         <summary type="html"><![CDATA[Kementerian Pertanian dan Keterjaminan Makanan (KPKM) sedang mengumpul maklumat mengenai golongan petani yang terkesan akibat banjir yang berlaku baru-baru ini.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ringgit diunjur terus mengukuh, pelabur asing kembali pada November - Kenanga]]></title>
-        <id>449260</id>
-        <link href="https://www.astroawani.com/berita-bisnes/ringgit-diunjur-terus-mengukuh-pelabur-asing-kembali-pada-november-kenanga-449260"/>
-        <updated>2023-12-08T06:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Ringgit dijangka terus mengukuh berbanding dolar Amerika Syarikat (AS) pada bulan ini.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Founder of Bitzlato Cryptocurrency Exchange Pleads Guilty in Money-Laundering Scheme]]></title>
-        <id>https://thehackernews.com/2023/12/founder-of-bitzlato-cryptocurrency.html</id>
-        <link href="https://thehackernews.com/2023/12/founder-of-bitzlato-cryptocurrency.html"/>
-        <updated>2023-12-08T05:41:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russian founder of the now-defunct Bitzlato cryptocurrency exchange has pleaded guilty, nearly 11 months after he was arrested in Miami earlier this year.
-Anatoly Legkodymov (aka Anatolii Legkodymov, Gandalf, and Tolik), according to the U.S. Justice Department, admitted to operating an unlicensed money-transmitting business that enabled other criminal actors to launder their]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
