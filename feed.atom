@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2023-12-28T06:37:15.613Z</updated>
+    <updated>2023-12-28T07:04:37.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -34,6 +34,18 @@
         <summary type="html"><![CDATA[Jumlah mangsa banjir di Kelantan, Terengganu, Pahang, Johor dan Sabah mencatatkan penurunan kepada 26,914 orang tengah hari ini.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Rugmi Malware Loader Surges with Hundreds of Daily Detections]]></title>
+        <id>https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html</id>
+        <link href="https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html"/>
+        <updated>2023-12-28T05:56:00.000Z</updated>
+        <summary type="html"><![CDATA[A new malware loader is being used by threat actors to deliver a wide range of information stealers such as Lumma Stealer (aka LummaC2), Vidar, RecordBreaker (aka Raccoon Stealer V2), and Rescoms.
+Cybersecurity firm ESET is tracking the trojan under the name Win/TrojanDownloader.Rugmi.
+"This malware is a loader with three types of components: a downloader that downloads an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -20402,16 +20414,6 @@ The post Apple Now Sells The AirPods Pro Charging Case With USB-C Separately For
         <summary type="html"><![CDATA[Metrics have a place when it comes to reporting on organizational security and risk management, but effectively communicating their relevance to the board in the context of the overall security story is more important than simply reporting on the raw numbers.]]></summary>
         <author>
             <name>Alicja Cade, Marina Kaganovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Target Microsoft Accounts to Weaponize OAuth Apps]]></title>
-        <id>https://www.darkreading.com/cloud-security/attackers-target-microsoft-accounts-weaponize-oauth-apps</id>
-        <link href="https://www.darkreading.com/cloud-security/attackers-target-microsoft-accounts-weaponize-oauth-apps"/>
-        <updated>2023-12-13T18:45:00.000Z</updated>
-        <summary type="html"><![CDATA[After compromising Azure and Outlook user accounts, threat actors are creating malicious apps with high privileges to conduct cryptomining, phishing, and password spraying.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
         </author>
     </entry>
 </feed>

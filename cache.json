@@ -26914,6 +26914,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new malware loader is being used by threat actors to deliver a wide range of information stealers such as Lumma Stealer (aka LummaC2), Vidar, RecordBreaker (aka Raccoon Stealer V2), and Rescoms.\nCybersecurity firm ESET is tracking the trojan under the name Win/TrojanDownloader.Rugmi.\n\"This malware is a loader with three types of components: a downloader that downloads an",
+          "link": "https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html",
+          "publishedOn": "2023-12-28T05:56:00.000Z",
+          "wordCount": null,
+          "title": "New Rugmi Malware Loader Surges with Hundreds of Daily Detections",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDC7bOP0IOLlWLJoFkvQGLaYku-ENhqa3f1ejlxrHzIvgibT6FkTRCiP7LocFmgdfEZO-XNcwTcAZBhNe_yNMaVG7uEMKW8UrpFia0HvEUP1hHOAnYjmoNq4-3g1nXf5cH7VGBRaS17fc7UtQ09zdzHDkLDTus0VtuRGW9XqPQLEBAb3hlWjwox1SR1L6j/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDC7bOP0IOLlWLJoFkvQGLaYku-ENhqa3f1ejlxrHzIvgibT6FkTRCiP7LocFmgdfEZO-XNcwTcAZBhNe_yNMaVG7uEMKW8UrpFia0HvEUP1hHOAnYjmoNq4-3g1nXf5cH7VGBRaS17fc7UtQ09zdzHDkLDTus0VtuRGW9XqPQLEBAb3hlWjwox1SR1L6j/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new zero-day security flaw has been discovered in the Apache OfBiz, an open-source Enterprise Resource Planning (ERP) system that could be exploited to bypass authentication protections.\nThe vulnerability, tracked as CVE-2023-51467, resides in the login functionality and is the result of an incomplete patch for another critical vulnerability (CVE-2023-49070, CVSS score: 9.8) that was",
@@ -29562,16 +29578,6 @@
           "wordCount": 5881,
           "title": "Communicating with Impact: Tips for Discussing Cybersecurity Metrics with Boards",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt008d36490528eeae/657b3f74b40a58040a309529/metrics-meeting-ronaldcandonga-pixabay.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/attackers-target-microsoft-accounts-weaponize-oauth-apps",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "After compromising Azure and Outlook user accounts, threat actors are creating malicious apps with high privileges to conduct cryptomining, phishing, and password spraying.",
-          "link": "https://www.darkreading.com/cloud-security/attackers-target-microsoft-accounts-weaponize-oauth-apps",
-          "publishedOn": "2023-12-13T18:45:00.000Z",
-          "wordCount": 6218,
-          "title": "Attackers Target Microsoft Accounts to Weaponize OAuth Apps",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ab58b3ac1a70bc2/64f1070562a009ad7fc019c1/multifactor-authentication-jirsak-AdobeStock_323251862CP.jpeg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
