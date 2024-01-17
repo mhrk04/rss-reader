@@ -12,6 +12,21 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "454376",
+          "author": null,
+          "description": "Bill Gates percaya sejarah menunjukkan setiap teknologi baharu hadir ketakutan dan menyusul dengan peluang baharu.",
+          "link": "https://www.astroawani.com/berita-dunia/ai-akan-ubah-kehidupan-manusia-dalam-masa-lima-tahun-kata-bill-gates-454376",
+          "publishedOn": "2024-01-17T02:30:42.000Z",
+          "wordCount": 11016,
+          "title": "AI akan ubah kehidupan manusia dalam masa lima tahun, kata Bill Gates",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2023-06/51686895515_billgates.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2023-06/51686895515_billgates.jpg"
+        },
+        {
           "id": "454374",
           "author": null,
           "description": "Imbuhan yang bakal menanti skuad bola sepak negara yang beraksi di Piala Asia 2023 di Qatar masih menjadi teka-teki.",
@@ -28390,36 +28405,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-01/71704209948_TBtanahruntuh.jpg"
-        },
-        {
-          "id": "452433",
-          "author": null,
-          "description": "Penasihat Menteri (Hal Ehwal Ekonomi) di Kedutaan Malaysia di Bangkok Fadzilah Abu Hasan meninggal dunia pada Isnin (1 Jan).",
-          "link": "https://www.astroawani.com/berita-dunia/pegawai-di-kedutaan-malaysia-di-bangkok-meninggal-dunia-452433",
-          "publishedOn": "2024-01-02T15:06:43.000Z",
-          "wordCount": 11016,
-          "title": "Pegawai di Kedutaan Malaysia di Bangkok meninggal dunia",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-01/61704207967_TBBelasungkawaMusl.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-01/61704207967_TBBelasungkawaMusl.jpg"
-        },
-        {
-          "id": "452434",
-          "author": null,
-          "description": "Bedah siasat turut mengesahkan bahawa punca kematian mangsa adalah kecederaan parah pada leher disebabkan oleh objek tajam.",
-          "link": "https://www.astroawani.com/berita-malaysia/pemandu-e-hailing-diumpan-keluar-dari-hotel-ke-ladang-kelapa-sawit-sebelum-dibunuh-pendakwaan-452434",
-          "publishedOn": "2024-01-02T14:43:07.000Z",
-          "wordCount": 11016,
-          "title": "Pemandu e-hailing diumpan keluar dari hotel ke ladang kelapa sawit sebelum dibunuh - Pendakwaan",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2023-03/81679546899_JudgeGavel.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2023-03/81679546899_JudgeGavel.jpg"
         }
       ]
     },
@@ -28428,6 +28413,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Tuesday released updates to fix four security issues in its Chrome browser, including an actively exploited zero-day flaw.\nThe issue, tracked as CVE-2024-0519, concerns an out-of-bounds memory access in the V8 JavaScript and WebAssembly engine, which can be weaponized by threat actors to trigger a crash.\n\"By reading out-of-bounds memory, an attacker might be able to get secret values,",
+          "link": "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html",
+          "publishedOn": "2024-01-17T02:20:00.000Z",
+          "wordCount": null,
+          "title": "Zero-Day Alert: Update Chrome Now to Fix New Actively Exploited Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwn1FAAK_8xGkSlHJhK7BHDotaQAXejK01nHL7x726OMiuyRpt0QBSe3BZ7Zyv76o1GFMPqNIkh66V1FS7HGuzJnmW01kGxQDnWwB2OFnfj3N8F6LBqWepZXSwpD3Kl4mZugYWju9XQv8ANjMwOaQWzLl4c7-uC8SzNh4VKJZyR25FzyCU1KxAmcjc0yS3/s1600/chrome-0day.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwn1FAAK_8xGkSlHJhK7BHDotaQAXejK01nHL7x726OMiuyRpt0QBSe3BZ7Zyv76o1GFMPqNIkh66V1FS7HGuzJnmW01kGxQDnWwB2OFnfj3N8F6LBqWepZXSwpD3Kl4mZugYWju9XQv8ANjMwOaQWzLl4c7-uC8SzNh4VKJZyR25FzyCU1KxAmcjc0yS3/s1600/chrome-0day.jpg"
+        },
         {
           "id": "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -31421,26 +31422,6 @@
           "wordCount": 6141,
           "title": "Localization Mandates, AI Regs to Pose Major Data Challenges in 2024",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf912988b1c5cd82f/64f179196b0c52c34e585ca1/HRdataconcept_ArtemisDiana-AlamyStockPhoto.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/attackers-abuse-google-oauth-endpoint-hijack-user-sessions",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "Infostealers such as Lumma and Rhadamanthys have integrated the generation of persistent Google cookies through token manipulation.",
-          "link": "https://www.darkreading.com/cloud-security/attackers-abuse-google-oauth-endpoint-hijack-user-sessions",
-          "publishedOn": "2024-01-02T15:05:00.000Z",
-          "wordCount": 6008,
-          "title": "Attackers Abuse Google OAuth Endpoint to Hijack User Sessions",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt43fcc3f6e1575d63/64f170461f28926b0be31688/GoogleChrome-imageBROKER-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/startups-scramble-to-build-immediate-ai-security",
-          "author": "Paul Shomo",
-          "description": "AI may be inherently insecure, but only a handful of startups have put forward real visions to mitigate AI's threats and keep data private.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/startups-scramble-to-build-immediate-ai-security",
-          "publishedOn": "2024-01-02T15:00:00.000Z",
-          "wordCount": 5882,
-          "title": "Startups Scramble to Build Immediate AI Security",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e4ae90dc103e84c/64f15493331d047697792998/lightbulb_Andrii_Yalanskyi_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
