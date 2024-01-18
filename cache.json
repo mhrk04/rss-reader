@@ -12,6 +12,21 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "454643",
+          "author": null,
+          "description": "Menurut sumber ketiga-tiga lelaki berusia dalam lingkungan 28 hingga 47 tahun tersebut ditahan di Pejabat SPRM Johor kira-kira 6 petang tadi.",
+          "link": "https://www.astroawani.com/berita-malaysia/tiga-lelaki-dipercayai-dalang-kepada-kartel-perolehan-tldm-ditahan-454643",
+          "publishedOn": "2024-01-18T12:43:08.000Z",
+          "wordCount": 11016,
+          "title": "Tiga lelaki dipercayai dalang kepada 'kartel perolehan' TLDM ditahan",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2023-06/61687947535_SPRMlogo.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2023-06/61687947535_SPRMlogo.jpg"
+        },
+        {
           "id": "454635",
           "author": null,
           "description": "Menteri Besar Datuk Seri Amirudin Shari berkata kos tanggungan kerajaan negeri akan meningkat daripada RM31.8 juta kepada anggaran RM37.3 juta setahun bagi skim berkenaan.",
@@ -28975,21 +28990,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-01/71704330437_pasukanMuayThai.jpg"
-        },
-        {
-          "id": "452598",
-          "author": null,
-          "description": "\"Saya beri amaran kepada rejim Zionis. Jangan ragu-ragu bahawa kamu akan membayar harga yang tinggi untuk jenayah ini dan jenayah yang telah anda lakukan.\"",
-          "link": "https://www.astroawani.com/berita-dunia/presiden-iran-beri-amaran-kepada-israel-452598",
-          "publishedOn": "2024-01-04T01:00:56.000Z",
-          "wordCount": 11016,
-          "title": "Presiden Iran beri amaran kepada Israel",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2023-03/81679270984_TBEBRAHIM.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2023-03/81679270984_TBEBRAHIM.jpg"
         }
       ]
     },
@@ -28998,6 +28998,38 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Continuous integration and continuous delivery (CI/CD) misconfigurations discovered in the open-source TensorFlow machine learning framework could have been exploited to orchestrate supply chain attacks.\nThe misconfigurations could be abused by an attacker to \"conduct a supply chain compromise of TensorFlow releases on GitHub and PyPi by compromising TensorFlow's build agents via",
+          "link": "https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html",
+          "publishedOn": "2024-01-18T12:34:00.000Z",
+          "wordCount": null,
+          "title": "TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1J7gsmqZyYmsz2yqeBAyrS2BAExXMneFkenNBZqgzBzX5AQRnjN-6WcT8O2xGCzI6RW_WVh4Wr2a6_tKbeZ6lEE5WM9DdHMV3sPbg2VZ1FmeeM6uZSUiAphyhe2rOniOTwAF6hFH4ibltX8nC13bUDLBBgfEzUvWOHrWbJnV7usjwFknDwZ4AKpcqeFPA/s1600/ml-ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1J7gsmqZyYmsz2yqeBAyrS2BAExXMneFkenNBZqgzBzX5AQRnjN-6WcT8O2xGCzI6RW_WVh4Wr2a6_tKbeZ6lEE5WM9DdHMV3sPbg2VZ1FmeeM6uZSUiAphyhe2rOniOTwAF6hFH4ibltX8nC13bUDLBBgfEzUvWOHrWbJnV7usjwFknDwZ4AKpcqeFPA/s1600/ml-ai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In today's digital landscape, traditional password-only authentication systems have proven to be vulnerable to a wide range of cyberattacks. To safeguard critical business resources, organizations are increasingly turning to multi-factor authentication (MFA) as a more robust security measure. MFA requires users to provide multiple authentication factors to verify their identity, providing an",
+          "link": "https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html",
+          "publishedOn": "2024-01-18T12:02:00.000Z",
+          "wordCount": null,
+          "title": "MFA Spamming and Fatigue: When Security Measures Go Wrong",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKL85jOjYEFu3DlZX5INS2o2qOINhQISeSFcio_cSTMKRD-Y27gG2tB81w3F3hsMJAP6N5-pE0LT6jz5sFRRUuzDV_ypYPXvNNfsn-_FI_rLEjfA5pPxrIFblcJprkEZEyLuy9TfctVVptIo-wOSygEVBWVcA-8x0U5iTrAQQVK2o_VIv1SId-4k8WBtA/s1600/password.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKL85jOjYEFu3DlZX5INS2o2qOINhQISeSFcio_cSTMKRD-Y27gG2tB81w3F3hsMJAP6N5-pE0LT6jz5sFRRUuzDV_ypYPXvNNfsn-_FI_rLEjfA5pPxrIFblcJprkEZEyLuy9TfctVVptIo-wOSygEVBWVcA-8x0U5iTrAQQVK2o_VIv1SId-4k8WBtA/s1600/password.jpg"
+        },
         {
           "id": "https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -32197,26 +32229,6 @@
           "wordCount": 5451,
           "title": "'Cyber Toufan' Hacktivists Leaked 100-Plus Israeli Orgs in One Month",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt00793bd03ba9c3bb/655e1b9868d08d040ad0904f/Israel_Palestine-issam_elhafti-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/is-the-vciso-model-right-for-your-organization",
-          "author": "Karen D. Schwartz, Contributing Writer",
-          "description": "More and more organizations are working with virtual CISOs to handle security-related responsibilities. Here are tips on how to find the right fit.",
-          "link": "https://www.darkreading.com/cyber-risk/is-the-vciso-model-right-for-your-organization",
-          "publishedOn": "2024-01-04T01:00:00.000Z",
-          "wordCount": 6134,
-          "title": "Is the vCISO Model Right for Your Organization?",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcf364790bc90ad65/64f1524e62a009b942c01b31/virtualpartnerships-KaterynaOnyshchuk-alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/identity-access-management-security/how-to-get-started-using-passkeys",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "Passkeys help do away with passwords for logging into websites and cloud services. This Tech Tip outlines ways to get started.",
-          "link": "https://www.darkreading.com/identity-access-management-security/how-to-get-started-using-passkeys",
-          "publishedOn": "2024-01-04T01:00:00.000Z",
-          "wordCount": 6352,
-          "title": "Getting Started With Passkeys, One Service at a Time",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfba762d19b583280/64f17633bab19d2309061c48/passkey-ArtemisDiana-alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
