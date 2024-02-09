@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-02-09T05:36:12.645Z</updated>
+    <updated>2024-02-09T06:07:53.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Warns of Critical FortiOS SSL VPN Vulnerability Under Active Exploitation]]></title>
+        <id>https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html</id>
+        <link href="https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html"/>
+        <updated>2024-02-09T05:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet has disclosed a new critical security flaw in FortiOS SSL VPN that it said is likely being exploited in the wild.
+The vulnerability, CVE-2024-21762 (CVSS score: 9.6), allows for the execution of arbitrary code and commands.
+"A out-of-bounds write vulnerability [CWE-787] in FortiOS may allow a remote unauthenticated attacker to execute arbitrary code or command via specially]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saya buat ini untuk semua - Nik Elin Zurina]]></title>
         <id>457575</id>
@@ -17237,46 +17249,6 @@ The post Apple Loosens App Store Restrictions; Allows Apps To Feature Streaming 
         <updated>2024-01-25T19:00:00.000Z</updated>
         <author>
             <name>darkreading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abu Dhabi Investment Firm Warns About Scam Efforts]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/abu-dhabi-investment-firm-warns-scam-efforts</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/abu-dhabi-investment-firm-warns-scam-efforts"/>
-        <updated>2024-01-25T18:04:00.000Z</updated>
-        <summary type="html"><![CDATA[A top financial entity warned that its brand is being used to spread cyber scams, as fraud efforts persist throughout the country.]]></summary>
-        <author>
-            <name>Dark Reading Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting Children's Data Needs to Be a Priority for All]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/protecting-childrens-data-needs-priority-for-all</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/protecting-childrens-data-needs-priority-for-all"/>
-        <updated>2024-01-25T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With rampant K-12 breaches fueling a fraud epidemic, cooperation and resolve are needed for progress.]]></summary>
-        <author>
-            <name>Steve Yin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Cisco Unified Communications RCE Bug Allows Root Access]]></title>
-        <id>https://www.darkreading.com/remote-workforce/critical-cisco-unified-communications-rce-bug-root-access</id>
-        <link href="https://www.darkreading.com/remote-workforce/critical-cisco-unified-communications-rce-bug-root-access"/>
-        <updated>2024-01-25T17:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The vulnerability, tracked as CVE-2024-20253, makes enterprise communications infrastructure and customer service call centers sitting ducks for unauthenticated cyberattackers.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['CherryLoader' Malware Allows Serious Privilege Execution]]></title>
-        <id>https://www.darkreading.com/endpoint-security/cherryloader-downloader-serious-privilege-execution</id>
-        <link href="https://www.darkreading.com/endpoint-security/cherryloader-downloader-serious-privilege-execution"/>
-        <updated>2024-01-25T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[A sporty, modular downloader allows hackers to cherry-pick their exploits — in this case, two powerful tools for gaining admin access in a Windows system.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer</name>
         </author>
     </entry>
 </feed>
