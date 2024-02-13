@@ -25300,51 +25300,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2023-07/41690789637_RahmadMariman.jpg"
-        },
-        {
-          "id": "456083",
-          "author": null,
-          "description": "Angka menakjubkan itu mengatasi rekod kehadiran sebelum ini iaitu 1.04 juta yang dicatatkan semasa edisi 2004 di China.",
-          "link": "https://www.astroawani.com/berita-sukan/piala-asia-2023-pecah-rekod-jumlah-kehadiran-penonton-456083",
-          "publishedOn": "2024-01-30T03:00:00.000Z",
-          "wordCount": 1310,
-          "title": "Piala Asia 2023 pecah rekod jumlah kehadiran penonton",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-01/41706582341_TBharimaumalaya.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-01/41706582341_TBharimaumalaya.jpg"
-        },
-        {
-          "id": "456089",
-          "author": null,
-          "description": "Liputan media arus perdana dan alternatif serta media sosial bantu pamer keunikan adat istiadat serta sistem Raja Berperlembagaan di Malaysia.",
-          "link": "https://www.astroawani.com/berita-malaysia/liputan-media-menyeluruh-pamer-keunikan-adat-sistem-raja-berperlembagaan-fahmi-456089",
-          "publishedOn": "2024-01-30T03:00:00.000Z",
-          "wordCount": 1310,
-          "title": "Liputan media menyeluruh, pamer keunikan adat, sistem Raja Berperlembagaan - Fahmi",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-01/81706583545_Agong.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-01/81706583545_Agong.jpg"
-        },
-        {
-          "id": "456084",
-          "author": null,
-          "description": "Satu PPS terakhir yang menempatkan 29 mangsa banjir daripada sembilan keluarga di Kota Tinggi, Johor ditutup.",
-          "link": "https://www.astroawani.com/berita-malaysia/pps-di-johor-tutup-mangsa-di-dua-negeri-tidak-berubah-456084",
-          "publishedOn": "2024-01-30T02:45:00.000Z",
-          "wordCount": 1310,
-          "title": "PPS di Johor tutup, mangsa di dua negeri tidak berubah",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-01/61706582267_TBPASCABANJIRj.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-01/61706582267_TBPASCABANJIRj.jpg"
         }
       ]
     },
@@ -25353,6 +25308,38 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/02/glupteba-botnet-evades-detection-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Glupteba botnet has been found to incorporate a previously undocumented Unified Extensible Firmware Interface (UEFI) bootkit feature, adding another layer of sophistication and stealth to the malware.\n\"This bootkit can intervene and control the [operating system] boot process, enabling Glupteba to hide itself and create a stealthy persistence that can be extremely difficult to",
+          "link": "https://thehackernews.com/2024/02/glupteba-botnet-evades-detection-with.html",
+          "publishedOn": "2024-02-13T14:37:00.000Z",
+          "wordCount": null,
+          "title": "Glupteba Botnet Evades Detection with Undocumented UEFI Bootkit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE8jbbC8uG_yDCMb48V7p7Zsa7ihnET2dR6U-0vMJEz2zeZU4BGpFZN2QS_koBi-dbggx0z4wjGsgD9b0fELDAF52KYPmIAzg-ZBDfPn3WHWrjr4wQ-yZbur8WzEpV2ZHHKXFospLl8M1F7RlPJLfAAEWnp2RapqaAV0fD54Ps8hEZpg86Jmk6fUQDeeFw/s1600/bootkit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE8jbbC8uG_yDCMb48V7p7Zsa7ihnET2dR6U-0vMJEz2zeZU4BGpFZN2QS_koBi-dbggx0z4wjGsgD9b0fELDAF52KYPmIAzg-ZBDfPn3WHWrjr4wQ-yZbur8WzEpV2ZHHKXFospLl8M1F7RlPJLfAAEWnp2RapqaAV0fD54Ps8hEZpg86Jmk6fUQDeeFw/s1600/bootkit.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/02/pikabot-resurfaces-with-streamlined.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the PikaBot malware have made significant changes to the malware in what has been described as a case of \"devolution.\"\n\"Although it appears to be in a new development cycle and testing phase, the developers have reduced the complexity of the code by removing advanced obfuscation techniques and changing the network communications,\" Zscaler ThreatLabz researcher Nikolaos",
+          "link": "https://thehackernews.com/2024/02/pikabot-resurfaces-with-streamlined.html",
+          "publishedOn": "2024-02-13T14:07:00.000Z",
+          "wordCount": null,
+          "title": "PikaBot Resurfaces with Streamlined Code and Deceptive Tactics",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEGlDqZcgeRAmew-8bJBWceZgjM__D8GkR8A3YU2ofJoXTPq5hbv38DDwbD2YmpASWS7PnP8U9rE6QXh-LEJ1E66i4Seia0EAt0yuX-5Zq1nx36kOQ1nZqmk1yBLa69CaPvGuTECesDG6ZMTbOb1wp6dymCNIPbEgq50WJU0JbcsMyMpC653dpH8wxdwBF/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEGlDqZcgeRAmew-8bJBWceZgjM__D8GkR8A3YU2ofJoXTPq5hbv38DDwbD2YmpASWS7PnP8U9rE6QXh-LEJ1E66i4Seia0EAt0yuX-5Zq1nx36kOQ1nZqmk1yBLa69CaPvGuTECesDG6ZMTbOb1wp6dymCNIPbEgq50WJU0JbcsMyMpC653dpH8wxdwBF/s1600/malware.jpg"
+        },
         {
           "id": "https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -27495,6 +27482,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/ciso-cio-convergence-ready-or-not-here-it-comes",
+          "author": "Arthur Lozinski",
+          "description": "Recent shifts underscore the importance of collaboration and alignment between these two IT leaders for successful digital transformation.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/ciso-cio-convergence-ready-or-not-here-it-comes",
+          "publishedOn": "2024-02-13T15:00:00.000Z",
+          "wordCount": 5505,
+          "title": "CISO and CIO Convergence: Ready or Not, Here It Comes",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0eb5f78c0ad0757e/64f152183a17dec5e88a47e2/Security_vska_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/application-security/raspberry-robin-1-days-escalate-unpatched-networks",
           "author": "Nate Nelson, Contributing Writer",
