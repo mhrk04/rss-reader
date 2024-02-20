@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-02-20T09:06:36.735Z</updated>
+    <updated>2024-02-20T09:36:11.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress Bricks Theme Under Active Attack: Critical Flaw Impacts 25,000+ Sites]]></title>
+        <id>https://thehackernews.com/2024/02/wordpress-bricks-theme-under-active.html</id>
+        <link href="https://thehackernews.com/2024/02/wordpress-bricks-theme-under-active.html"/>
+        <updated>2024-02-20T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw in the Bricks theme for WordPress is being actively exploited by threat actors to run arbitrary PHP code on susceptible installations.
+The flaw, tracked as CVE-2024-25600 (CVSS score: 9.8), enables unauthenticated attackers to achieve remote code execution. It impacts all versions of the Bricks up to and including 1.9.6.
+It has been addressed by the theme developers in&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlayStation Pulse Explore, Pulse Elite To Be Available Starting 8 March]]></title>
         <id>https://www.lowyat.net/?p=316787</id>
@@ -15,6 +27,16 @@
 The post PlayStation Pulse Explore, Pulse Elite To Be Available Starting 8 March appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PKR rombak kepimpinan di enam negeri]]></title>
+        <id>459067</id>
+        <link href="https://www.astroawani.com/berita-politik/pkr-rombak-kepimpinan-di-enam-negeri-459067"/>
+        <updated>2024-02-20T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Parti Keadilan Rakyat (PKR) melakukan rombakan terhadap Majlis Pimpinan Negeri di enam negeri berkuat kuasa serta-merta.]]></summary>
+        <author>
+            <name>Terkini - Astro Awani</name>
         </author>
     </entry>
     <entry>
@@ -20633,26 +20655,6 @@ The post OnePlus 11 And 12 Series Gets New AI Features In China appeared first o
         <summary type="html"><![CDATA[Production systems at the remote access company were breached, leading AnyDesk to revoke code signing certificate and reset Web portal credentials as part of its incident response.]]></summary>
         <author>
             <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPT perlu kaji keperluan wujud jabatan, program baharu - Zambry]]></title>
-        <id>456946</id>
-        <link href="https://www.astroawani.com/berita-malaysia/ipt-perlu-kaji-keperluan-wujud-jabatan-program-baharu-zambry-456946"/>
-        <updated>2024-02-05T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Jelas Zambry, teknologi berkembang semakin pesat pasca pandemik, menyebabkan sektor pendidikan juga perlu bergerak pantas.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pelan induk pengurusan, penyuraian trafik di Johor Bahru perlu dirangka - MB]]></title>
-        <id>456980</id>
-        <link href="https://www.astroawani.com/berita-malaysia/pelan-induk-pengurusan-penyuraian-trafik-di-johor-bahru-perlu-dirangka-mb-456980"/>
-        <updated>2024-02-05T21:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Mereka setuju satu pelan induk pengurusan dan penyuraian trafik di Johor Bahru perlu diwujudkan melalui pasukan khas yang bakal ditubuhkan.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
         </author>
     </entry>
 </feed>
