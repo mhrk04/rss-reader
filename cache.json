@@ -24895,21 +24895,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-02/71707460781_sekatanjalanraya.jpg"
-        },
-        {
-          "id": "457553",
-          "author": null,
-          "description": "Pada usia 36 tahun, Alif Jasni bukan sahaja sudah memiliki dua PhD malah empat ijazah sarjana (Master) dan kini sedang menyambung penyelidikan PhD ketiganya.",
-          "link": "https://www.astroawani.com/berita-malaysia/kejar-phd-ketiga-pada-usia-36-alif-jasni-lawan-sakit-arnolds-chiari-malformation-457553",
-          "publishedOn": "2024-02-09T06:00:09.000Z",
-          "wordCount": 1310,
-          "title": "Kejar PhD ketiga pada usia 36, Alif Jasni lawan sakit 'Arnolds Chiari Malformation'",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-02/81707451768_alifjasni.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-02/81707451768_alifjasni.jpg"
         }
       ]
     },
@@ -24918,6 +24903,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A dormant package available on the Python Package Index (PyPI) repository was updated nearly after two years to propagate an information stealer malware called Nova Sentinel.\nThe package, named django-log-tracker, was first published to PyPI in April 2022, according to software supply chain security firm Phylum, which detected an anomalous update to the library on February 21,",
+          "link": "https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html",
+          "publishedOn": "2024-02-23T17:08:00.000Z",
+          "wordCount": null,
+          "title": "Dormant PyPI Package Compromised to Spread Nova Sentinel Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFThBVEc7CSkilijAy01RzPcy-KuZVYP2Uu4dm5_MwYrxGsBelJIvWvuUFOCPRkO8m03vzQONeH69uCB2PVekPn9-ADPNae8kgsHU7JEvnaE1IJ6GHJD0RwaWByeSENRv5R07-Goc-UZHmFLv6475qDYy0FCtW7dzxkXtIoPQ9HR_ZywWEs2tTSAmc5OA/s1600/sython.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFThBVEc7CSkilijAy01RzPcy-KuZVYP2Uu4dm5_MwYrxGsBelJIvWvuUFOCPRkO8m03vzQONeH69uCB2PVekPn9-ADPNae8kgsHU7JEvnaE1IJ6GHJD0RwaWByeSENRv5R07-Goc-UZHmFLv6475qDYy0FCtW7dzxkXtIoPQ9HR_ZywWEs2tTSAmc5OA/s1600/sython.jpg"
+        },
         {
           "id": "https://thehackernews.com/2024/02/microsoft-releases-pyrit-red-teaming.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -26053,22 +26054,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeEBKWJ4rXJt7j128mhy9BR4McypW_9nzD1KNTIsZ9GV6WnV8nf1CVi0WJevtMtMLQpYT5RjDtxuHNlnJEvGFwy7y2u6c3IrfYSOJRg7HiQ7mHpm-HrN7k_7x8Jv4eeVojlJkhmsunfRnj6qh5OagvHnBf0SNDHFem1GMdJ_hbYDBNDmogbCS0nd1uhHDE/s1600/malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeEBKWJ4rXJt7j128mhy9BR4McypW_9nzD1KNTIsZ9GV6WnV8nf1CVi0WJevtMtMLQpYT5RjDtxuHNlnJEvGFwy7y2u6c3IrfYSOJRg7HiQ7mHpm-HrN7k_7x8Jv4eeVojlJkhmsunfRnj6qh5OagvHnBf0SNDHFem1GMdJ_hbYDBNDmogbCS0nd1uhHDE/s1600/malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Fortinet has disclosed a new critical security flaw in FortiOS SSL VPN that it said is likely being exploited in the wild.\nThe vulnerability, CVE-2024-21762 (CVSS score: 9.6), allows for the execution of arbitrary code and commands.\n\"A out-of-bounds write vulnerability [CWE-787] in FortiOS may allow a remote unauthenticated attacker to execute arbitrary code or command via specially",
-          "link": "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html",
-          "publishedOn": "2024-02-09T05:36:00.000Z",
-          "wordCount": null,
-          "title": "Fortinet Warns of Critical FortiOS SSL VPN Vulnerability Under Active Exploitation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGxTOBgF6Bi44j7sKEGC_J_kP-WBGVzjpwy4zI4Nkl5945Uk2gwiBVkDN89bnIiWfmgKZ_saciZ78tiwRB9ub7vv3CJuOoykCRwfQ9j8pvE1DabQ_pEnv11k06lX6pR22w87lsGKRzRfkuDnDFAnyZW3fM-R0K6aIQ0TMkK0pTfWYyiO4SLgtsMTrwp1h/s1600/Fortinet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGxTOBgF6Bi44j7sKEGC_J_kP-WBGVzjpwy4zI4Nkl5945Uk2gwiBVkDN89bnIiWfmgKZ_saciZ78tiwRB9ub7vv3CJuOoykCRwfQ9j8pvE1DabQ_pEnv11k06lX6pR22w87lsGKRzRfkuDnDFAnyZW3fM-R0K6aIQ0TMkK0pTfWYyiO4SLgtsMTrwp1h/s1600/Fortinet.jpg"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-02-23T17:35:58.748Z</updated>
+    <updated>2024-02-23T18:08:22.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -24,6 +24,17 @@
         <summary type="html"><![CDATA[The FTC found that Avast collected reams of personal data through its antivirus product, then sold it to more than 100 third parties without disclosing its practices.]]></summary>
         <author>
             <name>Dark Reading Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dormant PyPI Package Compromised to Spread Nova Sentinel Malware]]></title>
+        <id>https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html</id>
+        <link href="https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html"/>
+        <updated>2024-02-23T17:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A dormant package available on the Python Package Index (PyPI) repository was updated nearly after two years to propagate an information stealer malware called Nova Sentinel.
+The package, named django-log-tracker, was first published to PyPI in April 2022, according to software supply chain security firm Phylum, which detected an anomalous update to the library on February 21,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -19548,28 +19559,6 @@ Cisco Talos, which discovered the activity in May 2023, said the campaign has li
         <summary type="html"><![CDATA[Seorang penunggang motosikal yang cuba melarikan diri ketika sekatan jalan raya di susur masuk Jambatan Pulau Pinang malam tadi, didapati positif dadah jenis ganja.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kejar PhD ketiga pada usia 36, Alif Jasni lawan sakit 'Arnolds Chiari Malformation']]></title>
-        <id>457553</id>
-        <link href="https://www.astroawani.com/berita-malaysia/kejar-phd-ketiga-pada-usia-36-alif-jasni-lawan-sakit-arnolds-chiari-malformation-457553"/>
-        <updated>2024-02-09T06:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Pada usia 36 tahun, Alif Jasni bukan sahaja sudah memiliki dua PhD malah empat ijazah sarjana (Master) dan kini sedang menyambung penyelidikan PhD ketiganya.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortinet Warns of Critical FortiOS SSL VPN Vulnerability Under Active Exploitation]]></title>
-        <id>https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html</id>
-        <link href="https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html"/>
-        <updated>2024-02-09T05:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortinet has disclosed a new critical security flaw in FortiOS SSL VPN that it said is likely being exploited in the wild.
-The vulnerability, CVE-2024-21762 (CVSS score: 9.6), allows for the execution of arbitrary code and commands.
-"A out-of-bounds write vulnerability [CWE-787] in FortiOS may allow a remote unauthenticated attacker to execute arbitrary code or command via specially]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
