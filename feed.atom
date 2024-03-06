@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-03-06T17:03:32.353Z</updated>
+    <updated>2024-03-06T17:36:34.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Misconfigured YARN, Docker, Confluence, Redis Servers for Crypto Mining]]></title>
+        <id>https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html</id>
+        <link href="https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html"/>
+        <updated>2024-03-06T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are targeting misconfigured and vulnerable servers running Apache Hadoop YARN, Docker, Atlassian Confluence, and Redis services as part of an emerging malware campaign designed to deliver a cryptocurrency miner and spawn a reverse shell for persistent remote access.
+“The attackers leverage these tools to issue exploit code, taking advantage of common misconfigurations and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berita tempatan pilihan sepanjang hari ini]]></title>
         <id>460890</id>
@@ -19428,69 +19439,6 @@ The activity has been linked to Russia-aligned threat actors by Slovak cybersecu
         <link href="https://www.astroawani.com/berita-malaysia/ambil-teladan-dari-negara-progresif-seperti-jepun-456585"/>
         <updated>2024-02-21T05:39:50.000Z</updated>
         <summary type="html"><![CDATA[Dalam tempoh tujuh tahun, 73,826 perokok menyertai program berhenti merokok dan hanya 16,930 atau 23 peratus berjaya berhenti selepas enam bulan.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Alert: Uninstall EAP Now - Critical Flaw Puts Active Directory at Risk]]></title>
-        <id>https://thehackernews.com/2024/02/vmware-alert-uninstall-eap-now-critical.html</id>
-        <link href="https://thehackernews.com/2024/02/vmware-alert-uninstall-eap-now-critical.html"/>
-        <updated>2024-02-21T05:34:00.000Z</updated>
-        <summary type="html"><![CDATA[VMware is urging users to uninstall the deprecated Enhanced Authentication Plugin (EAP) following the discovery of a critical security flaw.
-Tracked as CVE-2024-22245 (CVSS score: 9.6), the vulnerability has been described as an arbitrary authentication relay bug.
-"A malicious actor could trick a target domain user with EAP installed in their web browser into requesting and relaying]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPRM tahan dua pengurus IT disyaki terima suapan]]></title>
-        <id>459201</id>
-        <link href="https://www.astroawani.com/berita-malaysia/sprm-tahan-dua-pengurus-it-disyaki-terima-suapan-459201"/>
-        <updated>2024-02-21T05:27:28.000Z</updated>
-        <summary type="html"><![CDATA[Suruhanjaya Pencegahan Rasuah Malaysia (SPRM) menahan dua orang pengurus syarikat IT kerana disyaki menerima suapan berupa tiket penerbangan dan penginapan di Bangkok, Thailand.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sultan Selangor pengerusikan Mesyuarat Majlis Raja-Raja ke-265]]></title>
-        <id>459213</id>
-        <link href="https://www.astroawani.com/berita-malaysia/sultan-selangor-pengerusikan-mesyuarat-majlis-raja-raja-ke-265-459213"/>
-        <updated>2024-02-21T05:18:43.000Z</updated>
-        <summary type="html"><![CDATA[Sultan Selangor Sultan Sharafuddin Idris Shah hari ini mempengerusikan Mesyuarat Majlis Raja-Raja ke-265 di Istana Negara.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starfield Finally Supports AMD FSR3 And Intel XeSS]]></title>
-        <id>https://www.lowyat.net/?p=316842</id>
-        <link href="https://www.lowyat.net/2024/316842/starfield-fsr3-official/"/>
-        <updated>2024-02-21T05:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Starfield recently released a patch, bringing support for AMD’s FidelityFX Super Resolution 3 (FSR3) and Intel’s XeSS technology out of the beta and officially into the game. The former upscaling technology, in particular, is a long-awaited feature that its developer and publisher, Bethesda, had promised since the launch of the title in September last year. […]
-The post Starfield Finally Supports AMD FSR3 And Intel XeSS appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helikopter terputus hubungan di timur Indonesia]]></title>
-        <id>459216</id>
-        <link href="https://www.astroawani.com/berita-dunia/helikopter-terputus-hubungan-di-timur-indonesia-459216"/>
-        <updated>2024-02-21T05:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Operasi mencari dan menyelamat melibatkan 300 anggota daripada pelbagai agensi sedang dijalankan di lokasi terakhir pesawat itu dilaporkan.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afrika Selatan bakal adakan pilihan raya umum pada 29 Mei]]></title>
-        <id>459190</id>
-        <link href="https://www.astroawani.com/berita-dunia/afrika-selatan-bakal-adakan-pilihan-raya-umum-pada-29-mei-459190"/>
-        <updated>2024-02-21T05:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Presiden Cyril Ramaphosa telah pun mengadakan pertemuan dengan menteri-menteri yang berkaitan dan Suruhanjaya Pilihan Raya Bebas untuk membincangkan mengenai perkara itu.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
         </author>
