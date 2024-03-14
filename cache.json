@@ -12,6 +12,36 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "462376",
+          "author": null,
+          "description": "Tiga remaja perempuan yang mendakwa mereka daripada 'kelab motosikal Awek Melaka' ditahan kerana menunggang motosikal secara berbahaya di Lebuhraya Utara Selatan (PLUS).",
+          "link": "https://www.astroawani.com/berita-malaysia/tiga-remaja-perempuan-ditahan-tunggang-motosikal-secara-berbahaya-462376",
+          "publishedOn": "2024-03-14T12:35:19.000Z",
+          "wordCount": 11016,
+          "title": "Tiga remaja perempuan ditahan tunggang motosikal secara berbahaya",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-03/41710418190_rempit.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-03/41710418190_rempit.jpg"
+        },
+        {
+          "id": "462380",
+          "author": null,
+          "description": "Cadangan penambahbaikan bagi Akta 711 yang antara lain melibatkan mekanisme pemusatan penerimaan aduan kelakuan tidak wajar, dijadual untuk dibentangkan di Dewan Rakyat pada tahun ini.",
+          "link": "https://www.astroawani.com/berita-malaysia/cadangan-penambahbaikan-akta-711-dijangka-dibentang-di-parlimen-tahun-ini-azalina-462380",
+          "publishedOn": "2024-03-14T12:15:00.000Z",
+          "wordCount": 11016,
+          "title": "Cadangan penambahbaikan Akta 711 dijangka dibentang di Parlimen tahun ini - Azalina",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2023-12/71701684783_AzalinaOthmanSaid.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2023-12/71701684783_AzalinaOthmanSaid.jpg"
+        },
+        {
           "id": "462379",
           "author": null,
           "description": "Sebanyak 33,000 lagi pek makanan telah berjaya dihantar ke Semenanjung Gaza menerusi Ops Ihsan, kata Timbalan Menteri Luar Datuk Mohamad Alamin.",
@@ -26920,51 +26950,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2023-12/41703636365_CristianoRonaldo.jpg"
-        },
-        {
-          "id": "460213",
-          "author": null,
-          "description": "Lim Guan Eng tanya Menteri Kewangan faktor-faktor menyebabkan penurunan nilai mata wang ringgit pada sesi Waktu Pertanyaan-pertanyaan Menteri.",
-          "link": "https://www.astroawani.com/berita-malaysia/nilai-ringgit-turun-simpanan-kwsp-antara-tumpuan-dewan-rakyat-hari-ini-460213",
-          "publishedOn": "2024-02-29T00:40:03.000Z",
-          "wordCount": 11016,
-          "title": "Nilai ringgit turun, simpanan KWSP antara tumpuan Dewan Rakyat hari ini",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-02/61709167362_TBDEWANRAKYAT.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-02/61709167362_TBDEWANRAKYAT.jpg"
-        },
-        {
-          "id": "460203",
-          "author": null,
-          "description": "Thinaah mengikuti pengajian Ijazah Sarjana Muda Pendidikan (Pengajaran Bahasa Inggeris sebagai Bahasa Kedua - TESL) di OUM sejak Mei 2020.",
-          "link": "https://www.astroawani.com/berita-sukan/biasiswa-oum-bakar-semangat-thinaah-di-terbuka-perancis-460203",
-          "publishedOn": "2024-02-29T00:30:13.000Z",
-          "wordCount": 11016,
-          "title": "Biasiswa OUM bakar semangat Thinaah di Terbuka Perancis",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-02/51709159795_biasiswaOUMThina.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-02/51709159795_biasiswaOUMThina.jpg"
-        },
-        {
-          "id": "460206",
-          "author": null,
-          "description": "Pang akan menerajui pertumbuhan di Zon Asia Timur dengan tumpuan kepada kemampanan, pengurusan tenaga dan automasi generasi akan datang.",
-          "link": "https://www.astroawani.com/berita-bisnes/schneider-electric-lantik-pang-xingjian-presiden-zon-asia-timur-baharu-460206",
-          "publishedOn": "2024-02-29T00:20:27.000Z",
-          "wordCount": 11016,
-          "title": "Schneider Electric lantik Pang Xingjian Presiden Zon Asia Timur baharu",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-02/81709162424_PangXingjian.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-02/81709162424_PangXingjian.jpg"
         }
       ]
     },
@@ -26973,6 +26958,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Details have been made public about a now-patched high-severity flaw in Kubernetes that could allow a malicious attacker to achieve remote code execution with elevated privileges under specific circumstances.\n“The vulnerability allows remote code execution with SYSTEM privileges on all Windows endpoints within a Kubernetes cluster,” Akamai security researcher Tomer Peled said. “To exploit",
+          "link": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
+          "publishedOn": "2024-03-14T11:59:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTspi3kr5h5tZ2IxCOQxXDT3uPIPYcXgHNTmhywnWauGiXrA5QmqDfXYANQvG45FP9Zy6eb9FcNJPOW7TOf2CV1z-5FbpPmAlOE2cvH702rhQf_162lBmUmzL-eNoQo0ZVw2Gyd1S7ppfw5nSGAhA6iMI_NFmTXpNKs4HNhA6jYNP4mOzYhKnE3YNslC5i/s1600/flaws.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTspi3kr5h5tZ2IxCOQxXDT3uPIPYcXgHNTmhywnWauGiXrA5QmqDfXYANQvG45FP9Zy6eb9FcNJPOW7TOf2CV1z-5FbpPmAlOE2cvH702rhQf_162lBmUmzL-eNoQo0ZVw2Gyd1S7ppfw5nSGAhA6iMI_NFmTXpNKs4HNhA6jYNP4mOzYhKnE3YNslC5i/s1600/flaws.jpg"
+        },
         {
           "id": "https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -29408,6 +29409,16 @@
           "wordCount": 5372,
           "title": "Claroty Launches Advanced Anomaly Threat Detection for Medigate",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-analytics/10-tips-for-better-security-data-management",
+          "author": "Ericka Chickowski, Contributing Writer",
+          "description": "CISOs must build out their security data management and security data architecture to get the most out of their security data for the least amount of investment.",
+          "link": "https://www.darkreading.com/cybersecurity-analytics/10-tips-for-better-security-data-management",
+          "publishedOn": "2024-03-13T22:31:00.000Z",
+          "wordCount": 7992,
+          "title": "10 Tips for Better Security Data Management",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt891791eac1d6b8c6/655f46ea3866cf040a76ea06/Data_Robert_Eastman_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         },
         {
           "id": "https://www.darkreading.com/cyber-risk/researchers-develop-new-attack-for-extracting-secrets-from-chatgpt-other-genai-tools",
