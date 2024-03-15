@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-03-15T17:36:00.722Z</updated>
+    <updated>2024-03-15T18:09:00.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GhostRace – New Data Leak Vulnerability Affects Modern CPUs]]></title>
+        <id>https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html</id>
+        <link href="https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html"/>
+        <updated>2024-03-15T17:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A group of researchers has discovered a new data leakage attack impacting modern CPU architectures supporting speculative execution.
+Dubbed GhostRace (CVE-2024-2193), it is a variation of the transient execution CPU vulnerability known as Spectre v1 (CVE-2017-5753). The approach combines speculative execution and race conditions.
+"All the common synchronization primitives implemented]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Md Arif Mahmood letak jawatan sebagai Pengerusi KPJ Healthcare]]></title>
         <id>462549</id>
@@ -20935,38 +20947,6 @@ The post Meizu 21 Pro Now Official With Snapdragon 8 Gen 3, 3x Telephoto Lens ap
 "Ivanti ICT is not sufficient to detect compromise and that a cyber threat actor may be able]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrastructure Cyberattacks, AI-Powered Threats Pummel Africa]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/ai-powered-threats-cyberattacks-on-infrastructure-pummel-africa</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/ai-powered-threats-cyberattacks-on-infrastructure-pummel-africa"/>
-        <updated>2024-03-01T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Convincing phishing emails, synthetic identities, and deepfakes all have been spotted in cyberattacks on the continent.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CelcomDigi Signs MOU With SES To Explore Satellite Connectivity Services Across Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=317616</id>
-        <link href="https://www.lowyat.net/2024/317616/celcomdigi-signs-mou-with-ses/"/>
-        <updated>2024-03-01T05:51:47.000Z</updated>
-        <summary type="html"><![CDATA[CelcomDigi today has inked a Memorandum of Understanding (MOU) with satellite solutions provider SES at Mobile World Congress (MWC) 2024 in Barcelona, Spain. Its aim is to explore a strategic partnership to provide connectivity using the latter’s Medium-Earth-Orbit (MEO) and Geosynchronous Equatorial Orbit (GEO) satellites for businesses and communities in Malaysia. The telco, along with […]
-The post CelcomDigi Signs MOU With SES To Explore Satellite Connectivity Services Across Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reminder: 8% SST Kicks In Today With A Few Exceptions]]></title>
-        <id>https://www.lowyat.net/?p=317580</id>
-        <link href="https://www.lowyat.net/2024/317580/reminder-8-sst-kicks-in-today/"/>
-        <updated>2024-03-01T05:40:01.000Z</updated>
-        <summary type="html"><![CDATA[During the tabling of Budget 2024 last October, prime minister and finance minister Anwar Ibrahim announced that the sales and service tax (SST) rate will be increased from 6% to 8%. This was announce to be effective starting 1 March, which is today, so expect most things to see a small jump in price moving […]
-The post Reminder: 8% SST Kicks In Today With A Few Exceptions appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
         </author>
     </entry>
 </feed>
