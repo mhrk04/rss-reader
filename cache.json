@@ -26584,6 +26584,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti has disclosed details of a critical remote code execution flaw impacting Standalone Sentry, urging customers to apply the fixes immediately to stay protected against potential cyber threats.\nTracked as CVE-2023-41724, the vulnerability carries a CVSS score of 9.6.\n\"An unauthenticated threat actor can execute arbitrary commands on the underlying operating system of the appliance",
+          "link": "https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
+          "publishedOn": "2024-03-21T03:55:00.000Z",
+          "wordCount": null,
+          "title": "Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEy3qnXBnPKqoS4jynsJ3InXl0ssDuzvMu4kMuSj_41pyYBSd-UcSjPb7D1WkWy6j4qrl3iRWD350wGjy8YKZRgDsQnv11iHuKRojxS2Qp75bkSP12rToUz4xGkWXdmhnlxoYGRHVBmVUZD8oaiCgd_EN2Blk3loDKUwVD84vGyXRsiIXHw5w-UVRi6lQ/s1600/ivanti.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEy3qnXBnPKqoS4jynsJ3InXl0ssDuzvMu4kMuSj_41pyYBSd-UcSjPb7D1WkWy6j4qrl3iRWD350wGjy8YKZRgDsQnv11iHuKRojxS2Qp75bkSP12rToUz4xGkWXdmhnlxoYGRHVBmVUZD8oaiCgd_EN2Blk3loDKUwVD84vGyXRsiIXHw5w-UVRi6lQ/s1600/ivanti.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Atlassian has released patches for more than two dozen security flaws, including a critical bug impacting Bamboo Data Center and Server that could be exploited without requiring user interaction.\nTracked as CVE-2024-1597, the vulnerability carries a CVSS score of 10.0, indicating maximum severity.\nDescribed as an SQL injection flaw, it's rooted in a dependency called org.postgresql:",
@@ -27526,22 +27542,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCi_H20nS576k3q78QWmVMAgrWSb613iOR0LpFqeGY-8zMVVsI289Qre__izgDAUAQ8d-GWVebNjZLcx3lua_Nc2rhGP4r9mhXd2XeEHGydnW4cUbR0znWiflWpAJGQarOIQyzB-C1bE_cIiZ393KaXIU3YqwptuAtXgUXk2uRn55CgBjKwAfqjC2LQDOj/s1600/cyberattack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCi_H20nS576k3q78QWmVMAgrWSb613iOR0LpFqeGY-8zMVVsI289Qre__izgDAUAQ8d-GWVebNjZLcx3lua_Nc2rhGP4r9mhXd2XeEHGydnW4cUbR0znWiflWpAJGQarOIQyzB-C1bE_cIiZ393KaXIU3YqwptuAtXgUXk2uRn55CgBjKwAfqjC2LQDOj/s1600/cyberattack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are targeting misconfigured and vulnerable servers running Apache Hadoop YARN, Docker, Atlassian Confluence, and Redis services as part of an emerging malware campaign designed to deliver a cryptocurrency miner and spawn a reverse shell for persistent remote access.\n“The attackers leverage these tools to issue exploit code, taking advantage of common misconfigurations and",
-          "link": "https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html",
-          "publishedOn": "2024-03-06T16:58:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit Misconfigured YARN, Docker, Confluence, Redis Servers for Crypto Mining",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7kq42_lq7n1fbHCLEArzr_jriYdmeKRHeR_oa5LvDBN5C5FvYbfdyF7SgNWU1VnhHVG70EnkA-vRJ_oUwLJXmwl6jSEnCLVnRWWPK6C6AUsEg1DDOLPQmApes86pcWaU3oBaumKj52iv5u46QMK08-qDeqrEtL6BmdRNYPIp6frAQU8JYlmpYBj4SXb7/s1600/server-security.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7kq42_lq7n1fbHCLEArzr_jriYdmeKRHeR_oa5LvDBN5C5FvYbfdyF7SgNWU1VnhHVG70EnkA-vRJ_oUwLJXmwl6jSEnCLVnRWWPK6C6AUsEg1DDOLPQmApes86pcWaU3oBaumKj52iv5u46QMK08-qDeqrEtL6BmdRNYPIp6frAQU8JYlmpYBj4SXb7/s1600/server-security.jpg"
         }
       ]
     },
@@ -28807,6 +28807,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyber-risk/united-arab-emirates-faces-intensified-cyber-risk",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "The UAE leads the Middle East in digital-transformation efforts, but slow patching and legacy technology continue to thwart its security posture.",
+          "link": "https://www.darkreading.com/cyber-risk/united-arab-emirates-faces-intensified-cyber-risk",
+          "publishedOn": "2024-03-21T05:00:00.000Z",
+          "wordCount": 6342,
+          "title": "United Arab Emirates Faces Intensified Cyber-Risk",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta598001d36b2f6f1/65fb097dd4f967040a4b970d/AbuDhabiUAE_Kevpix_AlamyStockPhoto.jpeg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/ics-ot-security/new-us-warning-highlights-vulnerability-of-us-water-systems-to-cyberattacks",
           "author": "Jai Vijayan, Contributing Writer",
