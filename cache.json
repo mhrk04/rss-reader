@@ -12,6 +12,51 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "463840",
+          "author": null,
+          "description": "Jasad ADUN Kuala Kubu Baharu Lee Kee Hiong yang meninggal dunia Khamis lepas selamat disemadikan hari ini.",
+          "link": "https://www.astroawani.com/berita-malaysia/jasad-adun-kuala-kubu-baharu-selamat-disemadikan-463840",
+          "publishedOn": "2024-03-25T09:24:07.000Z",
+          "wordCount": 11016,
+          "title": "Jasad ADUN Kuala Kubu Baharu selamat disemadikan",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-03/81711358580_TBLeeKeeHion.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-03/81711358580_TBLeeKeeHion.jpg"
+        },
+        {
+          "id": "463823",
+          "author": null,
+          "description": "Polis Johor telah menerima 25 laporan daripada pelbagai pihak berhubung isu kalimah Allah tertera pada stoking setakat ini.",
+          "link": "https://www.astroawani.com/berita-malaysia/isu-stoking-tertera-kalimah-allah-polis-johor-terima-25-laporan-setakat-ini-463823",
+          "publishedOn": "2024-03-25T09:15:01.000Z",
+          "wordCount": 11016,
+          "title": "Isu stoking tertera kalimah Allah: Polis Johor terima 25 laporan setakat ini",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-03/61710083508_MKumar.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-03/61710083508_MKumar.jpg"
+        },
+        {
+          "id": "463657",
+          "author": null,
+          "description": "Niat mahu berniaga sambil beramal membuatkan seorang pengusaha apam balik di Pasar Besar Tampin menganjurkan program infak untuk orang ramai sepanjang bulan Ramadan, sejak lima tahun lalu.",
+          "link": "https://www.astroawani.com/gaya-hidup/mahu-kongsi-amal-usahawan-anjur-infak-apam-balik-sepanjang-ramadan-463657",
+          "publishedOn": "2024-03-25T09:00:22.000Z",
+          "wordCount": 11016,
+          "title": "Mahu kongsi amal, usahawan anjur infak apam balik sepanjang Ramadan",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-03/51711345634_TBSyahrinaAhmad.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-03/51711345634_TBSyahrinaAhmad.jpg"
+        },
+        {
           "id": "463832",
           "author": null,
           "description": "Caj penggunaan elektrik masih dikenakan berdasarkan jumlah penggunaan bulanan dan bukannya nilai rumah.",
@@ -25690,36 +25735,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-03/51710106271_Botbocortenggelam.jpg"
-        },
-        {
-          "id": "461760",
-          "author": null,
-          "description": "Reims terlebih dahulu mengejutkan pasukan tuan rumah apabila Marshall Munetsi menyudahkan umpanan Oumar Diakite pada minit keenam.",
-          "link": "https://www.astroawani.com/berita-sukan/mbappe-gagal-beri-psg-impak-di-paris-461760",
-          "publishedOn": "2024-03-10T21:30:50.000Z",
-          "wordCount": 11016,
-          "title": "Mbappe gagal beri PSG impak di Paris",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-03/71710105960_PSGKylianMbappe.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-03/71710105960_PSGKylianMbappe.jpg"
-        },
-        {
-          "id": "461757",
-          "author": null,
-          "description": "Runtuhan pertama pada 10.35 malam melibatkan dinding atas sebelah kanan pasar raya berkenaan.",
-          "link": "https://www.astroawani.com/berita-malaysia/struktur-pasar-raya-mydin-manjoi-tidak-stabil-461757",
-          "publishedOn": "2024-03-10T21:15:24.000Z",
-          "wordCount": 11016,
-          "title": "Struktur pasar raya Mydin Manjoi tidak stabil",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-03/61710105083_kebakaransebuahpas.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-03/61710105083_kebakaransebuahpas.jpg"
         }
       ]
     },
@@ -25728,6 +25743,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new security shortcoming discovered in Apple M-series chips could be exploited to extract secret keys used during cryptographic operations.\nDubbed GoFetch, the vulnerability relates to a microarchitectural side-channel attack that takes advantage of a feature known as data memory-dependent prefetcher (DMP) to target constant-time cryptographic implementations and capture sensitive data",
+          "link": "https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html",
+          "publishedOn": "2024-03-25T09:02:00.000Z",
+          "wordCount": null,
+          "title": "New \"GoFetch\" Vulnerability in Apple M-Series Chips Leaks Secret Encryption Keys",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Jd_9DlB_CJCoc5dHa_Pw-Ia7TKLNXbrMA6_EzWEFRx37fvSjSiXaS9C9Tw25gr_VcA4R-1jYBhfhdLoVgS71aTan2xsijv8gfHDwvA5a8ojUt1cwe88jQfCHEZP73rpQlKH_IJXTIwsvxbKddu-fs_g-upj63u8S8sUq04Jr_3Ko6GJIu7AOYYYot0Gw/s1600/apple.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Jd_9DlB_CJCoc5dHa_Pw-Ia7TKLNXbrMA6_EzWEFRx37fvSjSiXaS9C9Tw25gr_VcA4R-1jYBhfhdLoVgS71aTan2xsijv8gfHDwvA5a8ojUt1cwe88jQfCHEZP73rpQlKH_IJXTIwsvxbKddu-fs_g-upj63u8S8sUq04Jr_3Ko6GJIu7AOYYYot0Gw/s1600/apple.jpg"
+        },
         {
           "id": "https://thehackernews.com/2024/03/iran-linked-muddywater-deploys-atera.html",
           "author": "info@thehackernews.com (The Hacker News)",
