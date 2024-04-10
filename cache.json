@@ -12,6 +12,36 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "465897",
+          "author": null,
+          "description": "Seorang lelaki warga emas maut manakala adiknya terselamat dalam kebakaran melibatkan sebuah rumah Kelas C, di Jalan Kereta Api Lama Batu 9, Klang, Selangor malam tadi.",
+          "link": "https://www.astroawani.com/berita-malaysia/lelaki-warga-emas-maut-dalam-kebakaran-di-klang-465897",
+          "publishedOn": "2024-04-10T03:20:47.000Z",
+          "wordCount": 11016,
+          "title": "Lelaki warga emas maut dalam kebakaran di Klang",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-04/51712718912_Kebakaran.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-04/51712718912_Kebakaran.jpg"
+        },
+        {
+          "id": "465899",
+          "author": null,
+          "description": "Turut berangkat, Raja Muda Perak, Raja Jaafar Raja Muda Musa dan Raja Dihilir Perak, Raja Iskandar Dzulkarnain Sultan Idris Shah.",
+          "link": "https://www.astroawani.com/berita-malaysia/sultan-perak-solat-sunat-aidilfitri-di-masjid-ubudiah-465899",
+          "publishedOn": "2024-04-10T03:10:01.000Z",
+          "wordCount": 11016,
+          "title": "Sultan Perak solat sunat Aidilfitri di Masjid Ubudiah",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-04/81712719639_SultanNazrin.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-04/81712719639_SultanNazrin.jpg"
+        },
+        {
           "id": "465794",
           "author": null,
           "description": "Pemakaian busana tradisional sudah mula diamalkan Marina Ahmad sekeluarga sejak sembilan tahun lalu.",
@@ -23659,6 +23689,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw in the Rust standard library could be exploited to target Windows users and stage command injection attacks.\nThe vulnerability, tracked as CVE-2024-24576, has a CVSS score of 10.0, indicating maximum severity. That said, it only impacts scenarios where batch files are invoked on Windows with untrusted arguments.\n\"The Rust standard library did not properly escape",
+          "link": "https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html",
+          "publishedOn": "2024-04-10T03:05:00.000Z",
+          "wordCount": null,
+          "title": "Critical 'BatBadBut' Rust Vulnerability Exposes Windows Systems to Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzj_pqPJa5YYNmBX9he6QAHf__vFlVYf7UbkLqYZwfGJ674gE1pamccawLRFMSWxm0IW9uXncZrpX8jkc-v3IfOh0wEgzM9KRNlLrvN1l7nYX6JUzjepsn3PPVSzlO6UYtamM3II697lUxzqM1XlFMjDakJY3l0kqEiXDYLiHiHnVx9fsv9t0ud6CSQ8NV/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzj_pqPJa5YYNmBX9he6QAHf__vFlVYf7UbkLqYZwfGJ674gE1pamccawLRFMSWxm0IW9uXncZrpX8jkc-v3IfOh0wEgzM9KRNlLrvN1l7nYX6JUzjepsn3PPVSzlO6UYtamM3II697lUxzqM1XlFMjDakJY3l0kqEiXDYLiHiHnVx9fsv9t0ud6CSQ8NV/s1600/hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A threat group of suspected Romanian origin called RUBYCARP has been observed maintaining a long-running botnet for carrying out crypto mining, distributed denial-of-service (DDoS), and phishing attacks.\nThe group, believed to be active for at least 10 years, employs the botnet for financial gain, Sysdig said in a report shared with The Hacker News.\n\"Its primary method of operation",
@@ -26701,16 +26747,6 @@
           "wordCount": 5422,
           "title": "Apple Security Bug Opens iPhone, iPad to RCE",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte2ca5d34d7862957/66032651f4f50c040a7d2cb9/apple_Tada_Images_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/patch-critical-fortinet-rce-bug-active-attack",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "A proof-of-concept exploit released last week has spurred attacks on the vulnerability, which the CISA has flagged as an urgent patch priority.",
-          "link": "https://www.darkreading.com/cloud-security/patch-critical-fortinet-rce-bug-active-attack",
-          "publishedOn": "2024-03-26T15:13:15.000Z",
-          "wordCount": 5897,
-          "title": "Patch Now: Critical Fortinet RCE Bug Under Active Attack",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt763dac3aada28de5/65f352166c9f9b040a4d50cd/fortinet_Postmodern_Studio_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }

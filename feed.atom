@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-04-10T03:08:48.017Z</updated>
+    <updated>2024-04-10T03:37:31.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lelaki warga emas maut dalam kebakaran di Klang]]></title>
+        <id>465897</id>
+        <link href="https://www.astroawani.com/berita-malaysia/lelaki-warga-emas-maut-dalam-kebakaran-di-klang-465897"/>
+        <updated>2024-04-10T03:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Seorang lelaki warga emas maut manakala adiknya terselamat dalam kebakaran melibatkan sebuah rumah Kelas C, di Jalan Kereta Api Lama Batu 9, Klang, Selangor malam tadi.]]></summary>
+        <author>
+            <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sultan Perak solat sunat Aidilfitri di Masjid Ubudiah]]></title>
+        <id>465899</id>
+        <link href="https://www.astroawani.com/berita-malaysia/sultan-perak-solat-sunat-aidilfitri-di-masjid-ubudiah-465899"/>
+        <updated>2024-04-10T03:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Turut berangkat, Raja Muda Perak, Raja Jaafar Raja Muda Musa dan Raja Dihilir Perak, Raja Iskandar Dzulkarnain Sultan Idris Shah.]]></summary>
+        <author>
+            <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical 'BatBadBut' Rust Vulnerability Exposes Windows Systems to Attacks]]></title>
+        <id>https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html</id>
+        <link href="https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html"/>
+        <updated>2024-04-10T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw in the Rust standard library could be exploited to target Windows users and stage command injection attacks.
+The vulnerability, tracked as CVE-2024-24576, has a CVSS score of 10.0, indicating maximum severity. That said, it only impacts scenarios where batch files are invoked on Windows with untrusted arguments.
+"The Rust standard library did not properly escape]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Capal dan tanjak jadi pilihan di Aidilfitri]]></title>
         <id>465794</id>
@@ -18603,16 +18635,6 @@ The package in question is SqzrFramework480, which ReversingLabs said was first
         <summary type="html"><![CDATA[Spotify kini terus mempelbagaikan penawaran kandungan melalui platform mereka, dengan penambahan kandungan pembelajaran berasaskan video.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patch Now: Critical Fortinet RCE Bug Under Active Attack]]></title>
-        <id>https://www.darkreading.com/cloud-security/patch-critical-fortinet-rce-bug-active-attack</id>
-        <link href="https://www.darkreading.com/cloud-security/patch-critical-fortinet-rce-bug-active-attack"/>
-        <updated>2024-03-26T15:13:15.000Z</updated>
-        <summary type="html"><![CDATA[A proof-of-concept exploit released last week has spurred attacks on the vulnerability, which the CISA has flagged as an urgent patch priority.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
         </author>
     </entry>
 </feed>
