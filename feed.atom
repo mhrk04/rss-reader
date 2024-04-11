@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-04-11T20:06:36.133Z</updated>
+    <updated>2024-04-11T20:37:20.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Rust Flaw Poses Exploit Threat in Specific Windows Use Cases]]></title>
+        <id>https://www.darkreading.com/application-security/critical-rust-flaw-poses-exploit-threat-in-specific-windows-use-cases</id>
+        <link href="https://www.darkreading.com/application-security/critical-rust-flaw-poses-exploit-threat-in-specific-windows-use-cases"/>
+        <updated>2024-04-11T20:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Project behind the Rust programming language asserted that any calls to a specific API would be made safe, even with unsafe inputs, but researchers found ways to circumvent the protections.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DPRK Exploits 2 New MITRE Techniques: Phantom DLL Hijacking, TCC Abuse]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/dprk-exploits-new-mitre-techniques-phantom-dll-hijacking-tcc-abuse</id>
@@ -17736,37 +17746,6 @@ Amidst this backdrop, a critical aspect subtly weaves into the]]></summary>
         <summary type="html"><![CDATA[Aksi bertenaga mereka mendapat sambutan hangat daripada penonton di negara itu, menandakan langkah berani Dolla keluar dari zon selesa di negara ini mula menampakkan hasil.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bedah siasat: PSM libatkan jururunding, kontraktor padang SNBJ]]></title>
-        <id>464280</id>
-        <link href="https://www.astroawani.com/berita-sukan/bedah-siasat-psm-libatkan-jururunding-kontraktor-padang-snbj-464280"/>
-        <updated>2024-03-28T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Perbadanan Stadium Malaysia akan mengadakan mesyuarat 'post mortem' bersama juruperunding dan kontraktor padang Stadium Nasional Bukit Jalil (SNBJ) minggu hadapan.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pelapor Khas PBB kumpul bukti genosid Israel diugut]]></title>
-        <id>464279</id>
-        <link href="https://www.astroawani.com/berita-dunia/pelapor-khas-pbb-kumpul-bukti-genosid-israel-diugut-464279"/>
-        <updated>2024-03-28T08:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Pelapor Khas PBB mendedahkan beliau menerima ugutan ketika cuba mengumpulkan bukti genosid dilakukan Israel di Genting Gaza.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram Offers Premium Subscription in Exchange for Using Your Number to Send OTPs]]></title>
-        <id>https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html</id>
-        <link href="https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html"/>
-        <updated>2024-03-28T08:07:00.000Z</updated>
-        <summary type="html"><![CDATA[In June 2017, a study of more than 3,000 Massachusetts Institute of Technology (MIT) students published by the National Bureau for Economic Research (NBER) found that 98% of them were willing to give away their friends' email addresses in exchange for free pizza.
-"Whereas people say they care about privacy, they are willing to relinquish private data quite easily when]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
