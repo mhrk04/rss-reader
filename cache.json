@@ -12,6 +12,21 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "466623",
+          "author": null,
+          "description": "Menteri Besar Kedah, Datuk Seri Muhammad Sanusi Md Nor menafikan dakwaan beliau berkahwin lain seperti yang tular di media sosial sejak kebelakangan ini.",
+          "link": "https://www.astroawani.com/berita-malaysia/sanusi-nafi-berpoligami-466623",
+          "publishedOn": "2024-04-16T11:05:30.000Z",
+          "wordCount": 11016,
+          "title": "Sanusi nafi berpoligami",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-04/41713266020_TBSANUSIKEDAH.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-04/41713266020_TBSANUSIKEDAH.jpg"
+        },
+        {
           "id": "466607",
           "author": null,
           "description": "Kerajaan Johor telah mengarahkan Jabatan Agama Islam Negeri Johor (JAINJ) untuk menyediakan draf khutbah solat Jumaat khas berhubung pengisian tanggungjawab mendoakan sesama muslim.",
@@ -40,6 +55,21 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-04/51713263710_TBDaudKilau.jpg"
+        },
+        {
+          "id": "466616",
+          "author": null,
+          "description": "Syarikat penerbangan Qatar itu menggantung penerbangannya ke Iran sejak Sabtu setelah Iran bertindak balas terhadap serangan Israel.",
+          "link": "https://www.astroawani.com/berita-dunia/qatar-airways-sambung-semula-penerbangan-ke-iran-466616",
+          "publishedOn": "2024-04-16T10:38:42.000Z",
+          "wordCount": 11016,
+          "title": "Qatar Airways sambung semula penerbangan ke Iran",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-04/81713266000_QatarQatarAirways.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-04/81713266000_QatarQatarAirways.jpg"
         },
         {
           "id": "466542",
@@ -21850,51 +21880,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-04/81712017748_tbSivasangari.jpg"
-        },
-        {
-          "id": "464839",
-          "author": null,
-          "description": "Walaupun bukan rumah baharu, namun bantuan baik pulih ini sangat bermakna berbanding situasi sebelumnya, yang sungguh tidak layak dihuni manusia.",
-          "link": "https://www.astroawani.com/berita-malaysia/hadiah-aidilfitri-untuk-erwan-rumah-penuh-sampah-sudah-dibaik-pulih-464839",
-          "publishedOn": "2024-04-01T23:30:00.000Z",
-          "wordCount": 11016,
-          "title": "Hadiah Aidilfitri untuk Erwan, rumah penuh sampah sudah dibaik pulih",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-04/71712013479_Erwan.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-04/71712013479_Erwan.jpg"
-        },
-        {
-          "id": "464841",
-          "author": null,
-          "description": "Ia berikutan hasil tindakan segera pihak berwajib menyelesaikan masalah tersebut.",
-          "link": "https://www.astroawani.com/berita-malaysia/gangguan-bekalan-air-di-pasir-mas-tumpat-semakin-pulih-exco-464841",
-          "publishedOn": "2024-04-01T23:20:59.000Z",
-          "wordCount": 11016,
-          "title": "Gangguan bekalan air di Pasir Mas, Tumpat semakin pulih - Exco",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-04/51712013685_tbAirKelantan.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-04/51712013685_tbAirKelantan.jpg"
-        },
-        {
-          "id": "464836",
-          "author": null,
-          "description": "Kejadian kira-kira 3 pagi itu disedari penduduk kampung setelah mendengar dentuman kuat sebelum bekalan elektrik terputus.",
-          "link": "https://www.astroawani.com/berita-malaysia/lelaki-melecur-terkena-renjatan-elektrik-dipercayai-cuba-curi-kabel-464836",
-          "publishedOn": "2024-04-01T23:10:51.000Z",
-          "wordCount": 11016,
-          "title": "Lelaki melecur terkena renjatan elektrik dipercayai cuba curi kabel",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-04/81712012809_pecawangelektrik.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-04/81712012809_pecawangelektrik.jpg"
         }
       ]
     },
@@ -21903,6 +21888,38 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The maintainers of the PuTTY Secure Shell (SSH) and Telnet client are alerting users of a critical vulnerability impacting versions from 0.68 through 0.80 that could be exploited to achieve full recovery of NIST P-521 (ecdsa-sha2-nistp521) private keys.\nThe flaw has been assigned the CVE identifier CVE-2024-31497, with the discovery credited to researchers Fabian Bäumer and Marcus",
+          "link": "https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html",
+          "publishedOn": "2024-04-16T11:14:00.000Z",
+          "wordCount": null,
+          "title": "Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMmsWxG-iiKSMtt4ml4JrmYmFKnKqX7IXYieNLcJxWMaNeYM8hoQI9GsfnCNwXRg0Pamr_tPRp4G8EplBXVQoeWrx2PG-HBARn4EqybK8Q4k-Srse6rFe1T35Fs5Vt5UOi4DqYCaamwo4r4nfL6_1v1Ie0YwkQ1L5IV-xDpTIt2yW9Eifl6Z-5Ac_qAO8/s1600/putty.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMmsWxG-iiKSMtt4ml4JrmYmFKnKqX7IXYieNLcJxWMaNeYM8hoQI9GsfnCNwXRg0Pamr_tPRp4G8EplBXVQoeWrx2PG-HBARn4EqybK8Q4k-Srse6rFe1T35Fs5Vt5UOi4DqYCaamwo4r4nfL6_1v1Ie0YwkQ1L5IV-xDpTIt2yW9Eifl6Z-5Ac_qAO8/s1600/putty.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/identity-in-shadows-shedding-light-on.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In today's rapidly evolving digital landscape, organizations face an increasingly complex array of cybersecurity threats. The proliferation of cloud services and remote work arrangements has heightened the vulnerability of digital identities to exploitation, making it imperative for businesses to fortify their identity security measures.\nOur recent research report, The Identity Underground",
+          "link": "https://thehackernews.com/2024/04/identity-in-shadows-shedding-light-on.html",
+          "publishedOn": "2024-04-16T11:10:00.000Z",
+          "wordCount": null,
+          "title": "Identity in the Shadows: Shedding Light on Cybersecurity's Unseen Threats",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN60ahvPWiEy_xGWgklhUBWXvA-oaOfnzI6zZvumNozUDN6L2NIN_zwfqt2nEmZJEyDtkUsIQbFqX31xFHIcpuSR4YcbJA6QYhvpW4T47hAUWBj0s_hD0YVVkmIuw8LSUK5MK9eofaYLTx_LQqzb_RjIuwLrtYyyrH-lpQlgBZql_DFFKGyz-HmQ8HaZk/s1600/silverfort.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN60ahvPWiEy_xGWgklhUBWXvA-oaOfnzI6zZvumNozUDN6L2NIN_zwfqt2nEmZJEyDtkUsIQbFqX31xFHIcpuSR4YcbJA6QYhvpW4T47hAUWBj0s_hD0YVVkmIuw8LSUK5MK9eofaYLTx_LQqzb_RjIuwLrtYyyrH-lpQlgBZql_DFFKGyz-HmQ8HaZk/s1600/silverfort.png"
+        },
         {
           "id": "https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html",
           "author": "info@thehackernews.com (The Hacker News)",
