@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-04-29T13:36:02.732Z</updated>
+    <updated>2024-04-29T14:07:36.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Addressing Risk Caused by Innovation]]></title>
+        <id>https://www.darkreading.com/cyber-risk/addressing-risk-caused-by-innovation</id>
+        <link href="https://www.darkreading.com/cyber-risk/addressing-risk-caused-by-innovation"/>
+        <updated>2024-04-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By embracing a proactive approach to cyber-risk management, companies can better detect, prevent, and mitigate cyber threats while integrating the latest state-of-the-art technology.]]></summary>
+        <author>
+            <name>Steve Soukup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Red Team GenAI: Challenges, Best Practices, and Learnings]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/how-to-red-team-genai-challenges-best-practices-and-learnings</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/how-to-red-team-genai-challenges-best-practices-and-learnings"/>
+        <updated>2024-04-29T13:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Red teaming is a crucial part of proactive GenAI security that helps map and measure AI risks.]]></summary>
+        <author>
+            <name>Microsoft Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Linked 'Muddling Meerkat' Hijacks DNS to Map Internet on Global Scale]]></title>
+        <id>https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html</id>
+        <link href="https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html"/>
+        <updated>2024-04-29T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented cyber threat dubbed Muddling Meerkat has been observed undertaking sophisticated domain name system (DNS) activities in a likely effort to evade security measures and conduct reconnaissance of networks across the world since October 2019.
+Cloud security firm Infoblox described the threat actor as likely affiliated with the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDN muktamad pembelian empat helikopter untuk APMM bernilai RM600 juta]]></title>
+        <id>468471</id>
+        <link href="https://www.astroawani.com/berita-malaysia/kdn-muktamad-pembelian-empat-helikopter-untuk-apmm-bernilai-rm600-juta-468471"/>
+        <updated>2024-04-29T13:42:55.000Z</updated>
+        <summary type="html"><![CDATA[Kertas kerja bagi perolehan aset itu sudah diserahkan kepada Kementerian Kewangan untuk keputusan akhir.]]></summary>
+        <author>
+            <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kempen PRK KKB lancar setakat ini - Polis Selangor]]></title>
+        <id>468446</id>
+        <link href="https://www.astroawani.com/berita-malaysia/kempen-prk-kkb-lancar-setakat-ini-polis-selangor-468446"/>
+        <updated>2024-04-29T13:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Kempen PRK DUN KKB yang memasuki hari ketiga hari ini berjalan lancar dan tiada sebarang insiden tidak diingini dilaporkan setakat ini.]]></summary>
+        <author>
+            <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kilang cat terbakar, dua sekolah di Meru diarah ditutup]]></title>
         <id>468459</id>
@@ -172,6 +223,17 @@
         <link href="https://thehackernews.com/2024/04/navigating-threat-landscape.html"/>
         <updated>2024-04-29T10:54:00.000Z</updated>
         <summary type="html"><![CDATA[It comes as no surprise that today's cyber threats are orders of magnitude more complex than those of the past. And the ever-evolving tactics that attackers use demand the adoption of better, more holistic and consolidated ways to meet this non-stop challenge. Security teams constantly look for ways to reduce risk while improving security posture, but many]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New R Programming Vulnerability Exposes Projects to Supply Chain Attacks]]></title>
+        <id>https://thehackernews.com/2024/04/new-r-programming-vulnerability-exposes.html</id>
+        <link href="https://thehackernews.com/2024/04/new-r-programming-vulnerability-exposes.html"/>
+        <updated>2024-04-29T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[A security vulnerability has been discovered in the R programming language that could be exploited by a threat actor to create a malicious RDS (R Data Serialization) file such that it results in code execution when loaded and referenced.
+The flaw, assigned the CVE identifier CVE-2024-27322, "involves the use of promise objects and lazy evaluation in R," AI application security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
@@ -20148,57 +20210,6 @@ The post DJI Avata 2 Now Official; Starts From RM1,999 appeared first on Lowyat.
         <summary type="html"><![CDATA[Satu PPS dibuka di daerah Melaka Tengah iaitu di Japerun Ayer Keroh pada 11 malam tadi yang menempatkan 12 mangsa daripada dua keluarga.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skuad berbasikal trek pulang tangan kosong dari Kanada]]></title>
-        <id>466393</id>
-        <link href="https://www.astroawani.com/berita-sukan/skuad-berbasikal-trek-pulang-tangan-kosong-dari-kanada-466393"/>
-        <updated>2024-04-15T02:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Muhammad Ridwan Sahrom menamatkan saingan di tempat ke-29 selepas tersingkir awal pada pusingan kelayakan.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[LAPOR LANGSUNG] China gesa elak konflik, anggap sudah selesai]]></title>
-        <id>466274</id>
-        <link href="https://www.astroawani.com/berita-dunia/lapor-langsung-china-gesa-elak-konflik-anggap-sudah-selesai-466274"/>
-        <updated>2024-04-15T02:05:07.000Z</updated>
-        <summary type="html"><![CDATA[China mendapati tindakan ketenteraan Iran sebagai respon terhadap serangan Israel terhadap konsulat mereka di Damsyik.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China gesa elak konflik, anggap sudah selesai]]></title>
-        <id>466387</id>
-        <link href="https://www.astroawani.com/berita-dunia/china-gesa-elak-konflik-anggap-sudah-selesai-466387"/>
-        <updated>2024-04-15T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[China menggesa semua pihak mengelak konflik susulan tindakan serangan Iran ke atas Israel serta menganggap perkara itu sudah selesai.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jangan pandang mudah kes psikososial di tempat kerja]]></title>
-        <id>466382</id>
-        <link href="https://www.astroawani.com/gaya-hidup/jangan-pandang-mudah-kes-psikososial-di-tempat-kerja-466382"/>
-        <updated>2024-04-15T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Stigma 'orang gila' sering dikaitkan dengan individu yang berhadapan dengan masalah kesihatan mental ini.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JBL Bar 1000 Lightning Review: Impressive But Gimmicky Soundbar]]></title>
-        <id>https://www.lowyat.net/?p=319990</id>
-        <link href="https://www.lowyat.net/2024/319990/jbl-bar-1000-lightning-review/"/>
-        <updated>2024-04-15T01:36:14.000Z</updated>
-        <summary type="html"><![CDATA[If you’re in the market for a soundbar and you’re looking outside the boundaries of Samsung, Sony, and LG, then you may wish to cast your gaze over to the JBL Bar 1000. Laced with a couple of special physical features, it’s a home entertainment system trying to be more unique and less a “cut […]
-The post JBL Bar 1000 Lightning Review: Impressive But Gimmicky Soundbar appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
         </author>
     </entry>
 </feed>
