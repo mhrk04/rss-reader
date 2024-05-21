@@ -27565,51 +27565,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-05/41715051572_TBpenang.jpg"
-        },
-        {
-          "id": "469448",
-          "author": null,
-          "description": "Menurut Sock Tao, dengan proses yang lancar itu secara langsung dapat memastikan ramai keluar mengundi.",
-          "link": "https://www.astroawani.com/berita-politik/prk-kkb-calon-ph-puas-hati-proses-undi-awal-berjalan-lancar-469448",
-          "publishedOn": "2024-05-07T02:50:52.000Z",
-          "wordCount": 79,
-          "title": "PRK KKB: Calon PH puas hati proses undi awal berjalan lancar",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-05/41715050907_PRKKKBjpg.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-05/41715050907_PRKKKBjpg.jpg"
-        },
-        {
-          "id": "469449",
-          "author": null,
-          "description": "Allahyarham Hail Amir yang dikenali sejak zaman bujang seorang yang disayangi ramai sahabat, kongsi Ahmad Tarmimi.",
-          "link": "https://www.astroawani.com/berita-hiburan/tarmimi-pasti-merindui-gurauan-hail-amir-469449",
-          "publishedOn": "2024-05-07T02:45:10.000Z",
-          "wordCount": 79,
-          "title": "Tarmimi pasti merindui gurauan Hail Amir",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-05/41715050405_TBHailAmir.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-05/41715050405_TBHailAmir.jpg"
-        },
-        {
-          "id": "469450",
-          "author": null,
-          "description": "Muhammad Firdaus Mohamad, beralamat di Sungai Panching Timur disahkan meninggal dunia di tempat kejadian.",
-          "link": "https://www.astroawani.com/berita-malaysia/cef-maut-motosikal-langgar-kerbau-469450",
-          "publishedOn": "2024-05-07T02:40:35.000Z",
-          "wordCount": 79,
-          "title": "Cef maut motosikal langgar kerbau",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-05/71715050988_Cefmautjpg.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-05/71715050988_Cefmautjpg.jpg"
         }
       ]
     },
@@ -27618,6 +27573,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/05/malware-delivery-via-cloud-services.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new attack campaign dubbed CLOUD#REVERSER has been observed leveraging legitimate cloud storage services like Google Drive and Dropbox to stage malicious payloads.\n\"The VBScript and PowerShell scripts in the CLOUD#REVERSER inherently involves command-and-control-like activities by using Google Drive and Dropbox as staging platforms to manage file uploads and downloads,\" Securonix",
+          "link": "https://thehackernews.com/2024/05/malware-delivery-via-cloud-services.html",
+          "publishedOn": "2024-05-21T14:19:00.000Z",
+          "wordCount": null,
+          "title": "Malware Delivery via Cloud Services Exploits Unicode Trick to Deceive Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTnZmiFKh2JLfZDTfrFq34naZPdVFoyrtHkUV3fN_KU9PLcaqhKUj7hlpFmzSfs4VGslRhei0qYvvVzkQ_F05jK9VrR7HGTryCM3jEPGNAdHDpxDJ7IPaot2VYw2i8h-g8IW9UVYVNcn2H57FzXhus20cO151d2FSvXeNbclAg7TYtydG6DD4hHJFXNlM/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTnZmiFKh2JLfZDTfrFq34naZPdVFoyrtHkUV3fN_KU9PLcaqhKUj7hlpFmzSfs4VGslRhei0qYvvVzkQ_F05jK9VrR7HGTryCM3jEPGNAdHDpxDJ7IPaot2VYw2i8h-g8IW9UVYVNcn2H57FzXhus20cO151d2FSvXeNbclAg7TYtydG6DD4hHJFXNlM/s1600/code.png"
+        },
         {
           "id": "https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -30175,6 +30146,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/russia-turla-apt-msbuild-tinyturla-backdoor",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "A threat campaign luring users with malicious documents related to human rights and public notices is aimed at giving the Russia-backed threat group access to victims' systems for cyber-espionage purposes.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/russia-turla-apt-msbuild-tinyturla-backdoor",
+          "publishedOn": "2024-05-21T14:43:37.000Z",
+          "wordCount": 6041,
+          "title": "Russia&amp;apos;s Turla APT Abuses MSBuild to Deliver TinyTurla Backdoor",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb14c0d2c67b918b0/64f15ab30e69a0a7de8e33d6/backdoor-agefotostock-alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-operations/can-cybersecurity-be-unifying-factor-in-digital-trade-negotiations-",
           "author": "Alex Botting",
