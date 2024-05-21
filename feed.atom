@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-05-21T17:04:42.255Z</updated>
+    <updated>2024-05-21T17:36:12.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EPA Puts Teeth Into Water Sector Cyber Efforts]]></title>
+        <id>https://www.darkreading.com/ics-ot-security/epa-water-sector-cyber-efforts</id>
+        <link href="https://www.darkreading.com/ics-ot-security/epa-water-sector-cyber-efforts"/>
+        <updated>2024-05-21T17:29:45.000Z</updated>
+        <summary type="html"><![CDATA[The agency plans to get more serious about enforcement as Iran and Russia step up the volume of cyberattacks on water systems nationwide.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Name That Toon: Buzz Kill]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-buzz-kill</id>
@@ -14,6 +24,18 @@
         <summary type="html"><![CDATA[Feeling creative? Submit your caption and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
         <author>
             <name>John Klossner, Cartoonist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical GitHub Enterprise Server Flaw Allows Authentication Bypass]]></title>
+        <id>https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html</id>
+        <link href="https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html"/>
+        <updated>2024-05-21T16:16:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub has rolled out fixes to address a maximum severity flaw in the GitHub Enterprise Server (GHES) that could allow an attacker to bypass authentication protections.
+Tracked as CVE-2024-4985 (CVSS score: 10.0), the issue could permit unauthorized access to an instance without requiring prior authentication.
+"On instances that use SAML single sign-on (SSO) authentication with the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -21486,77 +21508,6 @@ The post Apple Pencil Pro Appears In Code Of Brand’s Japanese Site appeared fi
         <link href="https://www.astroawani.com/berita-sukan/aksi-sumbangsih-jdt-selangor-fc-kekal-jumaat-ini-469483"/>
         <updated>2024-05-07T05:40:47.000Z</updated>
         <summary type="html"><![CDATA[Perlawanan Sumbangsih musim 2024/2025 bagi merebut Piala Sultan Haji Ahmad Shah antara JDT dan Selangor FC kekal Jumaat ini.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kes serangan Akhyar, Faisal tiada kaitan - Polis]]></title>
-        <id>469491</id>
-        <link href="https://www.astroawani.com/berita-malaysia/kes-serangan-akhyar-faisal-tiada-kaitan-polis-469491"/>
-        <updated>2024-05-07T05:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Polis berkata, tidak ada hubung kait antara kes samun Akhyar dan Faisal Halim yang disimbah asid.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kes simbah asid: Tindakan melampau, tidak beradab jangan dibiarkan berulang]]></title>
-        <id>469470</id>
-        <link href="https://www.astroawani.com/berita-malaysia/kes-simbah-asid-tindakan-melampau-tidak-beradab-jangan-dibiarkan-berulang-469470"/>
-        <updated>2024-05-07T05:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Tindakan melampau dan tidak beradab pihak yang terlibat menyimbah asid ke pemain bola sepak kebangsaan, Faisal Halim sepatutnya jangan dibiarkan berulang lagi.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pengundian awal PRK KKB rekod 90 peratus setakat 1 tengah hari - SPR]]></title>
-        <id>469506</id>
-        <link href="https://www.astroawani.com/berita-malaysia/pengundian-awal-prk-kkb-rekod-90-peratus-setakat-1-tengah-hari-spr-469506"/>
-        <updated>2024-05-07T05:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Proses pengundian awal itu yang melibatkan seramai 625 anggota polis serta 238 anggota tentera dan pasangan, berlangsung dalam keadaan cuaca baik.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remaja putus kaki nahas depan sekolah]]></title>
-        <id>469473</id>
-        <link href="https://www.astroawani.com/berita-malaysia/remaja-putus-kaki-nahas-depan-sekolah-469473"/>
-        <updated>2024-05-07T05:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Seorang remaja lelaki putus kaki kirinya selepas terlibat dalam kemalangan dengan sebuah kereta di Jalan Budiman di hadapan Sekolah Menengah Kebangsaan Agama Sheikh Abdul Malek, pada Isnin.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keadaan Faisal kritikal, tangan kiri sukar bergerak]]></title>
-        <id>469487</id>
-        <link href="https://www.astroawani.com/berita-sukan/keadaan-faisal-kritikal-tangan-kiri-sukar-bergerak-469487"/>
-        <updated>2024-05-07T05:18:03.000Z</updated>
-        <summary type="html"><![CDATA[KEADAAN pemain sayap kebangsaan, Faisal Halim dilaporkan berada dalam keadaan kritikal susulan kesan asid yang disimbah kepadanya dalam kejadian di sebuah pusat beli belah di Petaling Jaya.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redmi Pad Pro Local Launch Likely Soon With Keyboard SIRIM Listing]]></title>
-        <id>https://www.lowyat.net/?p=321845</id>
-        <link href="https://www.lowyat.net/2024/321845/redmi-pad-pro-sirim/"/>
-        <updated>2024-05-07T05:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Xiaomi introduced a new mid-range tablet under its Redmi sub-brand last month called the Pad Pro. While the brand has yet to announce a local launch, a recent listing of one of its accessories hints that it will be making its way to the Malaysian market soon. The Pad Pro keyboard received SIRIM certification on […]
-The post Redmi Pad Pro Local Launch Likely Soon With Keyboard SIRIM Listing appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ikmal Rozlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isu tanah kubur Selat Klang: Waris, ahli keluarga mohon tangguh lagi]]></title>
-        <id>469465</id>
-        <link href="https://www.astroawani.com/berita-malaysia/isu-tanah-kubur-selat-klang-waris-ahli-keluarga-mohon-tangguh-lagi-469465"/>
-        <updated>2024-05-07T05:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Waris dan ahli keluarga mendakwa tiada kata sepakat dicapai pada perjumpaan tertutup bagi membincangkan isu pengalihan tanah kubur di Selat Klang pada Ahad lalu.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
         </author>
