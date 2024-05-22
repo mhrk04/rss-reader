@@ -12,6 +12,51 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "471729",
+          "author": null,
+          "description": "Polis sedang menyiasat seorang wanita yang mendakwa dirinya sebagai Imam Mahdi seperti tular di media sosial sejak semalam.",
+          "link": "https://www.astroawani.com/berita-malaysia/polis-siasat-wanita-dakwa-diri-imam-mahdi-471729",
+          "publishedOn": "2024-05-22T10:00:00.000Z",
+          "wordCount": 79,
+          "title": "Polis siasat wanita dakwa diri Imam Mahdi",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-05/61715672549_TBLOGOPDRM.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-05/61715672549_TBLOGOPDRM.jpg"
+        },
+        {
+          "id": "471720",
+          "author": null,
+          "description": "Kementerian Sumber Asli dan Kelestarian Alam (NRES) bertekad untuk mengukuhkan agenda pemuliharaan biodiversiti di negara ini.",
+          "link": "https://www.astroawani.com/berita-malaysia/nres-tekad-kukuh-agenda-pemuliharaan-biodiversiti-471720",
+          "publishedOn": "2024-05-22T09:45:01.000Z",
+          "wordCount": 79,
+          "title": "NRES tekad kukuh agenda pemuliharaan biodiversiti",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2023-12/61701594806_NikNazmiNikAhmad.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2023-12/61701594806_NikNazmiNikAhmad.jpg"
+        },
+        {
+          "id": "471733",
+          "author": null,
+          "description": "Syafiq juga menyenaraikan dua pelakon wanita yang paling dia suka bekerjasama iaitu Elizabeth Tan dan Azira Shafinaz.",
+          "link": "https://www.astroawani.com/berita-hiburan/sheriff-watak-dia-sebenarnya-tak-kelakar-syafiq-yusof-dedah-sisi-lain-zul-ariffin-471733",
+          "publishedOn": "2024-05-22T09:36:54.000Z",
+          "wordCount": 79,
+          "title": "Sheriff: 'Watak dia sebenarnya tak kelakar' - Syafiq Yusof dedah sisi lain Zul Ariffin",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-05/61716370436_tbsheriff.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-05/61716370436_tbsheriff.jpg"
+        },
+        {
           "id": "471727",
           "author": null,
           "description": "Kedutaan Besar Malaysia sedang memudah cara dan membantu sembilan rakyat Malaysia yang cedera ssusulan insiden gelora udara penerbangan SQ321 Singapore Airlines.",
@@ -27145,36 +27190,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-05/41715058027_TBFAISALHALIM.jpg"
-        },
-        {
-          "id": "469597",
-          "author": null,
-          "description": "Perdana Menteri titip doa agar Faisal dikurniakan afiyah sesegera mungkin dan kembali meneruskan perjuangannya dalam sukan bola sepak.",
-          "link": "https://www.astroawani.com/berita-sukan/pm-doakan-faisal-halim-segera-sembuh-469597",
-          "publishedOn": "2024-05-07T22:00:00.000Z",
-          "wordCount": 79,
-          "title": "PM doakan Faisal Halim segera sembuh",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-05/81715116745_AhmadFarhanFauzi.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-05/81715116745_AhmadFarhanFauzi.jpg"
-        },
-        {
-          "id": "469532",
-          "author": null,
-          "description": "Kerajaan akan melaksanakan kaedah tanaman padi menggunakan sistem air bawah tanah sebagai persediaan menghadapi cuaca panas yang dijangka lebih buruk tahun hadapan.",
-          "link": "https://www.astroawani.com/berita-malaysia/tanam-padi-guna-sistem-air-bawah-tanah-akan-dilaksana-atasi-kesan-kemarau-469532",
-          "publishedOn": "2024-05-07T21:45:00.000Z",
-          "wordCount": 79,
-          "title": "Tanam padi guna sistem air bawah tanah akan dilaksana atasi kesan kemarau",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-01/61706323098_TBHasilpadi.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-01/61706323098_TBHasilpadi.jpg"
         }
       ]
     },
@@ -27183,6 +27198,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new cryptojacking campaign that employs vulnerable drivers to disable known security solutions (EDRs) and thwart detection in what's called a Bring Your Own Vulnerable Driver (BYOVD) attack.\nElastic Security Labs is tracking the campaign under the name REF4578 and the primary payload as GHOSTENGINE. Previous research from Chinese",
+          "link": "https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html",
+          "publishedOn": "2024-05-22T08:57:00.000Z",
+          "wordCount": null,
+          "title": "GHOSTENGINE Exploits Vulnerable Drivers to Disable EDRs in Cryptojacking Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpO0fXo_l1wNBmNdjsT-Ec0GymVUtBx7JFCV-5EpgBNUBofiO9QAaORQlVJ16cQpM7AWFI-RNlW4S9QJKimnT1UWajxND12eQpcfQPST1ySneL5altHruvqmdWMP_x2m9BC98QYG1rDR0pqQGhk2wNbYif1tt0-MhywRtg8VWcU3tm55SVYxze0KwuefRW/s1600/crypto-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpO0fXo_l1wNBmNdjsT-Ec0GymVUtBx7JFCV-5EpgBNUBofiO9QAaORQlVJ16cQpM7AWFI-RNlW4S9QJKimnT1UWajxND12eQpcfQPST1ySneL5altHruvqmdWMP_x2m9BC98QYG1rDR0pqQGhk2wNbYif1tt0-MhywRtg8VWcU3tm55SVYxze0KwuefRW/s1600/crypto-malware.png"
+        },
         {
           "id": "https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -30599,26 +30630,6 @@
           "wordCount": 5361,
           "title": "LockBit Honcho Faces Sanctions, With Aussie Org Ramifications",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c734c10520b1fc9/65a93790706a01040a10b37b/_australia_keyboard_Bonaventura_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/chinese-hackers-deployed-backdoor-quintet-to-down-mitre",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "MITRE's hackers made use of at least five different Web shells and backdoors as part of their attack chain.",
-          "link": "https://www.darkreading.com/cloud-security/chinese-hackers-deployed-backdoor-quintet-to-down-mitre",
-          "publishedOn": "2024-05-07T21:51:18.000Z",
-          "wordCount": 5315,
-          "title": "Chinese Hackers Deployed Backdoor Quintet to Down MITRE",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt955f21a36eff7cb9/64f1544bd2ba770a6a459f75/MITRE_KristofferTripplaar_AlamyStockPhoto.jpeg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/wiz-announces-1b-funding-round-will-be-used-to-further-m-a-efforts",
-          "author": "Dark Reading Staff",
-          "description": "Much of the funding will be used for product development and talent acquisition to cover more ground as the cybersecurity industry continues to evolve.",
-          "link": "https://www.darkreading.com/cloud-security/wiz-announces-1b-funding-round-will-be-used-to-further-m-a-efforts",
-          "publishedOn": "2024-05-07T21:41:22.000Z",
-          "wordCount": 4642,
-          "title": "Wiz Announces $1B Funding Round, Plans More M&amp;A",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltedd76273af92edbb/64f16e1b5d831102465936c3/Money-pixabay.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
