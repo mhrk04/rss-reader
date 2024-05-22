@@ -59,11 +59,85 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-22 datetime="2024-05-22T12:42:56.000Z">2024-05-22</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-22 datetime="2024-05-22T12:42:56.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-22 datetime="2024-05-22T13:00:00.000Z">2024-05-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-22 datetime="2024-05-22T13:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >darkreading</button>
+                  <a class="source-heading__link" href="https://www.darkreading.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.darkreading.com/application-security/netflix-fixes-critical-vulnerability-on-big-data-orchestration-service"
+                        open
+                      >
+                        <summary class="article-expander__title">Critical Netflix Genie Bug Opens Big Data Orchestration to RCE</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.darkreading.com/application-security/netflix-fixes-critical-vulnerability-on-big-data-orchestration-service">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt41e578c468911fb6/664ce623403476ea6b9be376/api_batjaket_shutterstock.jpg?disable&#x3D;upscale&amp;width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The severe security vulnerability (CVE-2024-4701, CVSS 9.9) gives remote attackers a way to burrow into Netflix&#x27;s Genie open source platform, which is a treasure trove of information and connections to other internal services.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;20
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.darkreading.com/cloud-security/witnessai-launches-with-guardrails-for-ai"
+                        open
+                      >
+                        <summary class="article-expander__title">WitnessAI Launches With Guardrails for AI</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.darkreading.com/cloud-security/witnessai-launches-with-guardrails-for-ai">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcf813c0a50d3552c/65b0203a829e00040a3278c3/krot_studio-generative-AI-shutterstock.jpg?disable&#x3D;upscale&amp;width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>AI safety platform startup WitnessAI claims to help enterprises use AI safely and effectively with its platform addressing AI privacy, governance, and security.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.darkreading.com/cybersecurity-operations/sage-cyber-launches-ciso-planning-tool"
+                        open
+                      >
+                        <summary class="article-expander__title">SAGE Cyber Launches CISO Planning Tool</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.darkreading.com/cybersecurity-operations/sage-cyber-launches-ciso-planning-tool">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfc7a2d4aae315bc4/65eb7c3704bbac040a60900a/CISO-ronstik-Alamy.jpg?disable&#x3D;upscale&amp;width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>As a newly independent company, SAGE Cyber will offer a platform that helps CISOs make data-driven decisions and optimize their security defenses.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -1588,60 +1662,6 @@ CVE-2024-21902 - An incorrect permission assignment for critical resource</span
                             <span class="media-object__text">
                               <span>Users of Veeam Backup Enterprise Manager are being urged to update to the latest version following the discovery of a critical security flaw that could permit an adversary to bypass authentication protections.
 Tracked as CVE-2024-29849 (CVSS score: 9.8), the vulnerability could allow an unauthenticated attacker to log in to the Veeam Backup Enterprise Manager web interface as</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >darkreading</button>
-                  <a class="source-heading__link" href="https://www.darkreading.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.darkreading.com/cloud-security/witnessai-launches-with-guardrails-for-ai"
-                        open
-                      >
-                        <summary class="article-expander__title">WitnessAI Launches With Guardrails for AI</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.darkreading.com/cloud-security/witnessai-launches-with-guardrails-for-ai">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcf813c0a50d3552c/65b0203a829e00040a3278c3/krot_studio-generative-AI-shutterstock.jpg?disable&#x3D;upscale&amp;width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>AI safety platform startup WitnessAI claims to help enterprises use AI safely and effectively with its platform addressing AI privacy, governance, and security.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.darkreading.com/cybersecurity-operations/sage-cyber-launches-ciso-planning-tool"
-                        open
-                      >
-                        <summary class="article-expander__title">SAGE Cyber Launches CISO Planning Tool</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.darkreading.com/cybersecurity-operations/sage-cyber-launches-ciso-planning-tool">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfc7a2d4aae315bc4/65eb7c3704bbac040a60900a/CISO-ronstik-Alamy.jpg?disable&#x3D;upscale&amp;width&#x3D;1200&amp;height&#x3D;630&amp;fit&#x3D;crop" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>As a newly independent company, SAGE Cyber will offer a platform that helps CISOs make data-driven decisions and optimize their security defenses.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
@@ -39145,24 +39165,6 @@ The post HMD Unveils Nokia 3210 Reboot appeared first on Lowyat.NET.</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="469610"
-                        open
-                      >
-                        <summary class="article-expander__title">Selangor lancar kempen &#x27;Stand With Faisal Halim. Stop The Violence!&#x27;</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.astroawani.com/berita-sukan/selangor-lancar-kempen-stand-faisal-halim-stop-violence-469610">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://img.astroawani.com/2024-05/81715129048_kempensolidariti.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Faisal Halim hanya seorang insan kecil dari Pulau Pinang yang mempunyai impian besar.</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -39739,8 +39741,8 @@ The post Huawei Watch Fit 3 Goes Official; Coming To Malaysia Soon appeared firs
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/mhrk04/rss-reader/actions/runs/9191631617">
-        <time id="build-timestamp" datetime="2024-05-22T12:51:39.268Z">2024-05-22T12:51:39.268Z</time>
+      <a class="footer-link" href="https://github.com/mhrk04/rss-reader/actions/runs/9191922846">
+        <time id="build-timestamp" datetime="2024-05-22T13:08:54.635Z">2024-05-22T13:08:54.635Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
