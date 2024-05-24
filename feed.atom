@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-05-24T05:36:02.773Z</updated>
+    <updated>2024-05-24T06:08:57.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA, Dell Could Have AI PC Chips In The Works]]></title>
+        <id>https://www.lowyat.net/?p=323101</id>
+        <link href="https://www.lowyat.net/2024/323101/nvidia-dell-ai-pc-chips-in-the-works/"/>
+        <updated>2024-05-24T05:42:34.000Z</updated>
+        <summary type="html"><![CDATA[During an interview with Bloomberg, Jen-Hsun Huang, CEO of NVIDIA, and Michael Dell, CEO of Dell, alluded to the possibility that both companies were working together to create their own version of AI chips. The goal, then, is for both entities to compete with what is currently the fastest growing market in the tech world. […]
+The post NVIDIA, Dell Could Have AI PC Chips In The Works appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Galaxy Buds 3 May Sport A Redesign To Include A Stem]]></title>
         <id>https://www.lowyat.net/?p=323084</id>
@@ -21140,17 +21151,6 @@ The post WhatsApp Gives Its Android And iOS Apps A New, Unified Design Update ap
         <summary type="html"><![CDATA[The city is still investigating the attack, and neither the group nor city officials have offered details about the ransomware demands.]]></summary>
         <author>
             <name>Dark Reading Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation]]></title>
-        <id>https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html</id>
-        <link href="https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html"/>
-        <updated>2024-05-09T17:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have detailed a Virtual Private Network (VPN) bypass technique dubbed TunnelVision that allows threat actors to snoop on victim's network traffic by just being on the same local network.
-The "decloaking" method has been assigned the CVE identifier CVE-2024-3661 (CVSS score: 7.6). It impacts all operating systems that implement a DHCP client and has]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
