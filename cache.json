@@ -12,6 +12,21 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "473318",
+          "author": null,
+          "description": "Perdana Menteri Mesir, Mostafa Madbouly telah menyerahkan surat peletakan jawatan Kabinetnya pada Isnin.",
+          "link": "https://www.astroawani.com/berita-dunia/kabinet-mesir-letak-jawatan-pm-mesir-dilantik-semula-untuk-bentuk-kerajaan-baharu-473318",
+          "publishedOn": "2024-06-03T14:19:29.000Z",
+          "wordCount": 79,
+          "title": "Kabinet Mesir letak jawatan, PM Mesir dilantik semula untuk bentuk kerajaan baharu",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-06/61717424340_TBEGYPT.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-06/61717424340_TBEGYPT.jpg"
+        },
+        {
           "id": "473316",
           "author": null,
           "description": "Seorang pelajar Institut Pengajian Tinggi Awam (IPTA) di daerah ini ditemukan lemas selepas mandi di kolam ternakan ikan di tapak perkhemahan Aminah Rahmat Agrofarm di sini, hari in.",
@@ -24355,66 +24370,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-05/61716173202_tbEriktenHag.jpg"
-        },
-        {
-          "id": "471336",
-          "author": null,
-          "description": "Kemalangan melibatkan kereta jenis Proton Saga, Honda City, Perodua Alza dan sebuah motosikal.",
-          "link": "https://www.astroawani.com/berita-malaysia/lima-cedera-nahas-empat-kenderaan-di-lpt1-471336",
-          "publishedOn": "2024-05-20T02:35:30.000Z",
-          "wordCount": 79,
-          "title": "Lima cedera, nahas empat kenderaan di LPT1",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-05/41716172582_kemalangancedera.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-05/41716172582_kemalangancedera.jpg"
-        },
-        {
-          "id": "471335",
-          "author": null,
-          "description": "Arsenal di bawah kendalian Mikel Arteta telah beraksi cemerlang sepanjang musim tetapi terpaksa menelan hempedu di penghujung jalan.",
-          "link": "https://www.astroawani.com/berita-sukan/alamak-arsenal-kempunan-lagi-471335",
-          "publishedOn": "2024-05-20T02:25:12.000Z",
-          "wordCount": 79,
-          "title": "Alamak! Arsenal kempunan lagi!",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-05/61716171848_tbMikelArteta.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-05/61716171848_tbMikelArteta.jpg"
-        },
-        {
-          "id": "471299",
-          "author": null,
-          "description": "Dron berkenaan mengesan satu kawasan di Wilayah Azerbaijan Timur yang mengeluarkan haba.",
-          "link": "https://www.astroawani.com/berita-dunia/lapor-langsung-dron-turki-mungkin-kesan-tapak-nahas-helikopter-471299",
-          "publishedOn": "2024-05-20T02:22:27.000Z",
-          "wordCount": 79,
-          "title": "[LAPOR LANGSUNG] Dron Turki mungkin kesan tapak nahas helikopter",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-05/51716162382_helicoptercrash.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-05/51716162382_helicoptercrash.jpg"
-        },
-        {
-          "id": "471334",
-          "author": null,
-          "description": "Persatuan Bulan Sabit Merah Iran memaklumkan, tapak nahas berkenaan dikesan dron milik Turki.",
-          "link": "https://www.astroawani.com/berita-dunia/dron-turki-mungkin-kesan-tapak-nahas-helikopter-73-pasukan-sar-dikerah-471334",
-          "publishedOn": "2024-05-20T02:15:00.000Z",
-          "wordCount": 79,
-          "title": "Dron Turki mungkin kesan tapak nahas helikopter, 73 pasukan SAR dikerah",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-05/81716171424_TBAKINCIUAV.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-05/81716171424_TBAKINCIUAV.jpg"
         }
       ]
     },
@@ -24423,6 +24378,38 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/06/researchers-uncover-rat-dropping-npm.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a new suspicious package uploaded to the npm package registry that's designed to drop a remote access trojan (RAT) on compromised systems.\nThe package in question is glup-debugger-log, which targets users of the gulp toolkit by masquerading as a \"logger for gulp and gulp plugins.\" It has been downloaded 175 times to date.\nSoftware supply chain security",
+          "link": "https://thehackernews.com/2024/06/researchers-uncover-rat-dropping-npm.html",
+          "publishedOn": "2024-06-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover RAT-Dropping npm Package Targeting Gulp Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5U5y3W4Hkt5kVRqqv6S1In4tHdVHpg24UrDa-GDG236_3aAOi09j3yARqQ47FUA23W_tUVBOOtK8e3H9oZl15mHQ7LTX1oR4_aHCv5e-xV8hDcpaYFDQTA3X7jg34i-imn_jXccLQa-O1JKWdlSozlL9wi4x6d6Aqgae7_z85jZn-JlQlRFppjxk8uyev/s1600/npm.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5U5y3W4Hkt5kVRqqv6S1In4tHdVHpg24UrDa-GDG236_3aAOi09j3yARqQ47FUA23W_tUVBOOtK8e3H9oZl15mHQ7LTX1oR4_aHCv5e-xV8hDcpaYFDQTA3X7jg34i-imn_jXccLQa-O1JKWdlSozlL9wi4x6d6Aqgae7_z85jZn-JlQlRFppjxk8uyev/s1600/npm.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/06/authorities-ramp-up-efforts-to-capture.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Law enforcement authorities behind Operation Endgame are seeking information related to an individual who goes by the name Odd and is allegedly the mastermind behind the Emotet malware. \nOdd is also said to go by the nicknames Aron, C700, Cbd748, Ivanov Odd, Mors, Morse, Veron over the past few years, according to a video released by the agencies.\n\"Who is he working with? What is his",
+          "link": "https://thehackernews.com/2024/06/authorities-ramp-up-efforts-to-capture.html",
+          "publishedOn": "2024-06-03T13:45:00.000Z",
+          "wordCount": null,
+          "title": "Authorities Ramp Up Efforts to Capture the Mastermind Behind Emotet",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKruqP8bX-Vx1XbA7b2TGBuyjs3zUvZ1kMNMFICcS5BUmumpA7Aj31q9MT-gcKPx7QdwSRdkkXrC2P2P45KJUsLgoOmPNo0lcAUv9_CwAM4u5LTmxR4daXo22Y1TkuvOIckGctKng-LSBJXTdH-pRPalEtHXIwdGQChx7_wFreAo9esUdJMDFTQu_Ru3Y8/s1600/hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKruqP8bX-Vx1XbA7b2TGBuyjs3zUvZ1kMNMFICcS5BUmumpA7Aj31q9MT-gcKPx7QdwSRdkkXrC2P2P45KJUsLgoOmPNo0lcAUv9_CwAM4u5LTmxR4daXo22Y1TkuvOIckGctKng-LSBJXTdH-pRPalEtHXIwdGQChx7_wFreAo9esUdJMDFTQu_Ru3Y8/s1600/hacker.png"
+        },
         {
           "id": "https://thehackernews.com/2024/06/sase-threat-report-8-key-findings-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
