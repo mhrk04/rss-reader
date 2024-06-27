@@ -12,6 +12,51 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "476630",
+          "author": null,
+          "description": "Pesuruhjaya Kehakiman, Roz Mawar Rozain memutuskan bahawa, Ahli Parlimen Gua Musang ini tidak berdepan kesulitan jika PRK dijalankan semula.",
+          "link": "https://www.astroawani.com/berita-malaysia/mohd-azizi-gagal-hentikan-prk-dun-nenggiri-476630",
+          "publishedOn": "2024-06-27T14:34:59.000Z",
+          "wordCount": 79,
+          "title": "Mohd Azizi gagal hentikan PRK DUN Nenggiri",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-06/41719406939_MohdAziziAbuNaim.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-06/41719406939_MohdAziziAbuNaim.jpg"
+        },
+        {
+          "id": "476626",
+          "author": null,
+          "description": "Hakim membuat keputusan itu selepas mendapati dua wanita berkenaan berjaya membuktikan kes mereka mengenai imbangan kebarangkalian terhadap Hazrul Hizham Ghazali.",
+          "link": "https://www.astroawani.com/berita-malaysia/persetubuhan-tanpa-kerelaan-bekas-polis-diperintah-bayar-rm820-000-kepada-dua-wanita-mongolia-476626",
+          "publishedOn": "2024-06-27T14:27:34.000Z",
+          "wordCount": 79,
+          "title": "Persetubuhan tanpa kerelaan: Bekas polis diperintah bayar RM820,000 kepada dua wanita Mongolia",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-06/51719498399_HazrulHizham.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-06/51719498399_HazrulHizham.jpg"
+        },
+        {
+          "id": "476605",
+          "author": null,
+          "description": "Menteri Pembangunan Usahawan dan Koperasi Datuk Ewon Benedick hari ini dimasyhurkan sebagai Canselor pertama Universiti Keusahawanan Koperasi Malaysia (UKKM).",
+          "link": "https://www.astroawani.com/berita-malaysia/ewon-benedick-dimasyhur-canselor-pertama-ukkm-476605",
+          "publishedOn": "2024-06-27T14:15:00.000Z",
+          "wordCount": 79,
+          "title": "Ewon Benedick dimasyhur Canselor pertama UKKM",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-06/61719494563_MajlisPermasyhuran.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-06/61719494563_MajlisPermasyhuran.jpg"
+        },
+        {
           "id": "476615",
           "author": null,
           "description": "XPDC Kita Pengyu menganggap kehadiran band tiruan yang menggunakan nama dan lagu mereka tidak seharusnya dilayan bahkan jauh sekali tidak layak untuk bersaing dalam industri muzik tanah air.",
@@ -24820,36 +24865,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-02/61707175328_TBringgitmalaysia.jpg"
-        },
-        {
-          "id": "474654",
-          "author": null,
-          "description": "Setelah mendengar permohonan, mahkamah hanya membenarkan perintah larangan itu terhadap pihak-pihak yang terlibat dalam kes ini sahaja.",
-          "link": "https://www.astroawani.com/berita-malaysia/peguam-mohon-perintah-larangan-bersuara-kes-zayn-rayyan-474654",
-          "publishedOn": "2024-06-13T03:00:12.000Z",
-          "wordCount": 79,
-          "title": "Peguam mohon perintah larangan bersuara kes Zayn Rayyan",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-06/71718253866_MahmudAbdulJumaat.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-06/71718253866_MahmudAbdulJumaat.jpg"
-        },
-        {
-          "id": "474625",
-          "author": null,
-          "description": "Suspek berusia 25 tahun itu ditahan kira-kira 9 pagi di hadapan sebuah rumah di Taman Kok Liang, Kuala Lumpur.",
-          "link": "https://www.astroawani.com/berita-malaysia/lelaki-ambil-upah-baling-bom-petrol-di-melaka-ditahan-474625",
-          "publishedOn": "2024-06-13T02:45:26.000Z",
-          "wordCount": 79,
-          "title": "Lelaki ambil upah baling bom petrol di Melaka ditahan",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-05/71715825810_ZainolSamahketua.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-05/71715825810_ZainolSamahketua.jpg"
         }
       ]
     },
@@ -24858,6 +24873,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The peer-to-peer malware botnet known as P2PInfect has been found targeting misconfigured Redis servers with ransomware and cryptocurrency miners.\nThe development marks the threat's transition from what appeared to be a dormant botnet with unclear motives to a financially motivated operation.\n\"With its latest updates to the crypto miner, ransomware payload, and rootkit elements, it demonstrates",
+          "link": "https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html",
+          "publishedOn": "2024-06-27T14:31:00.000Z",
+          "wordCount": null,
+          "title": "Rust-Based P2PInfect Botnet Evolves with Miner and Ransomware Payloads",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi56V_GGsq2WoLqpNDvCvck4OQWUed9D-9bSfjHbcEiN3-IYXI8JZUMp-X55zNGyQ6it9tGkaadcBdqNj9TPnRjwhIMMP4kkKjCJyuXQG6scs8DDqUAv4CRuJH5D-wHBWs15wTNASUL1L-MXSrYL4bIk1RYMKxVlFeTEvVmWKjuBT6UfsfRIaMBFwjJkEie/s1600/botnet.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi56V_GGsq2WoLqpNDvCvck4OQWUed9D-9bSfjHbcEiN3-IYXI8JZUMp-X55zNGyQ6it9tGkaadcBdqNj9TPnRjwhIMMP4kkKjCJyuXQG6scs8DDqUAv4CRuJH5D-wHBWs15wTNASUL1L-MXSrYL4bIk1RYMKxVlFeTEvVmWKjuBT6UfsfRIaMBFwjJkEie/s1600/botnet.png"
+        },
         {
           "id": "https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html",
           "author": "info@thehackernews.com (The Hacker News)",
