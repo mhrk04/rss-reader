@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-07-01T17:06:47.781Z</updated>
+    <updated>2024-07-01T17:36:08.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Flaws in CocoaPods Expose iOS and macOS Apps to Supply Chain Attacks]]></title>
+        <id>https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html</id>
+        <link href="https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html"/>
+        <updated>2024-07-01T16:12:00.000Z</updated>
+        <summary type="html"><![CDATA[A trio of security flaws has been uncovered in the CocoaPods dependency manager for Swift and Objective-C Cocoa projects that could be exploited to stage software supply chain attacks, putting downstream customers at severe risks.
+The vulnerabilities allow "any malicious actor to claim ownership over thousands of unclaimed pods and insert malicious code into many of the most popular iOS and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berita tempatan pilihan sepanjang hari ini]]></title>
         <id>477061</id>
@@ -20004,38 +20015,6 @@ Cybersecurity company Sygnia, which responded to]]></summary>
         <summary type="html"><![CDATA[Rata-rata pengguna lebuh raya berkenaan terkejut apabila dua ekor lembu berada di laluan itu semasa aliran trafik sedang sibuk.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threads integrasi skor masa nyata untuk EURO 2024]]></title>
-        <id>475118</id>
-        <link href="https://www.astroawani.com/berita-malaysia/threads-integrasi-skor-masa-nyata-untuk-euro-2024-475118"/>
-        <updated>2024-06-17T05:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Selain EURO 2024, Threads juga dilihat telah mula menambah skor masa nyata untuk beberapa perlawanan bola keranjang sebelum ini.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hijab di Olimpik: Perancis dituduh diskriminasi atlet sendiri]]></title>
-        <id>475129</id>
-        <link href="https://www.astroawani.com/berita-sukan/hijab-di-olimpik-perancis-dituduh-diskriminasi-atlet-sendiri-475129"/>
-        <updated>2024-06-17T05:15:49.000Z</updated>
-        <summary type="html"><![CDATA[Perancis didakwa mendiskriminasikan atletnya sendiri yang akan dihalang daripada memakai hijab di temasya Sukan Olimpik Paris, bermula dari 26 Julai hingga 11 Ogos ini.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NiceRAT Malware Targets South Korean Users via Cracked Software]]></title>
-        <id>https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html</id>
-        <link href="https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html"/>
-        <updated>2024-06-17T05:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed deploying a malware called NiceRAT to co-opt infected devices into a botnet.
-The attacks, which target South Korean users, are designed to propagate the malware under the guise of cracked software, such as Microsoft Windows, or tools that purport to offer license verification for Microsoft Office.
-"Due to the nature of crack programs, information sharing amongst]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
