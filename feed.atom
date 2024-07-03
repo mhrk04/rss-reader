@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-07-03T04:08:58.961Z</updated>
+    <updated>2024-07-03T04:38:05.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Israeli Entities Targeted by Cyberattack Using Donut and Sliver Frameworks]]></title>
+        <id>https://thehackernews.com/2024/07/israeli-entities-targeted-by.html</id>
+        <link href="https://thehackernews.com/2024/07/israeli-entities-targeted-by.html"/>
+        <updated>2024-07-03T03:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an attack campaign that targets various Israeli entities with publicly-available frameworks like Donut and Sliver.
+The campaign, believed to be highly targeted in nature, "leverage target-specific infrastructure and custom WordPress websites as a payload delivery mechanism, but affect a variety of entities across unrelated verticals, and rely on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PADU To Reopen For Second Phase Of Registrations]]></title>
         <id>https://www.lowyat.net/?p=325840</id>
@@ -56,6 +67,17 @@ The post Samsung Galaxy Watch7, Watch Ultra Specs Appear Online appeared first o
         <summary type="html"><![CDATA[Bursa Malaysia memulakan dagangan Rabu dengan lebih positif, menjejaki prestasi peningkatan semalaman di Wall Street.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korean ERP Vendor's Server Hacked to Spread Xctdoor Malware]]></title>
+        <id>https://thehackernews.com/2024/07/south-korean-erp-vendors-server-hacked.html</id>
+        <link href="https://thehackernews.com/2024/07/south-korean-erp-vendors-server-hacked.html"/>
+        <updated>2024-07-03T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[An unnamed South Korean enterprise resource planning (ERP) vendor's product update server has been found to be compromised to deliver a Go-based backdoor dubbed Xctdoor.
+The AhnLab Security Intelligence Center (ASEC), which identified the attack in May 2024, did not attribute it to a known threat actor or group, but noted that the tactics overlap with that of Andariel, a sub-cluster within the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -20299,17 +20321,6 @@ The post Fahmi: Malaysia Ready To Roll Out Dual 5G Network appeared first on Low
         <summary type="html"><![CDATA["ClearFake" and "ClickFix" attackers are tricking people into cutting and pasting malicious PowerShell scripts to infect their own machines with RATs and infostealers.]]></summary>
         <author>
             <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signal Foundation Warns Against EU's Plan to Scan Private Messages for CSAM]]></title>
-        <id>https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html</id>
-        <link href="https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html"/>
-        <updated>2024-06-18T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[A controversial proposal put forth by the European Union to scan users' private messages for detection child sexual abuse material (CSAM) poses severe risks to end-to-end encryption (E2EE), warned Meredith Whittaker, president of the Signal Foundation, which maintains the privacy-focused messaging service of the same name.
-"Mandating mass scanning of private communications fundamentally]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
