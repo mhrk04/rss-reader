@@ -12,6 +12,51 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "478319",
+          "author": null,
+          "description": "Empangan Muda di Kedah dan Empangan Bukit Merah, Perak menunjukkan penyusutan baki simpanan semasa air mentah berada pada paras bahaya iaitu masing-masing 18.37 peratus dan 19.97 peratus.",
+          "link": "https://www.astroawani.com/berita-malaysia/simpanan-air-mentah-empangan-muda-bukit-merah-di-paras-bahaya-nadma-478319",
+          "publishedOn": "2024-07-09T13:15:00.000Z",
+          "wordCount": 79,
+          "title": "Simpanan air mentah Empangan Muda, Bukit Merah di paras bahaya - NADMA",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-07/61720530545_EmpanganMUDA.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-07/61720530545_EmpanganMUDA.jpg"
+        },
+        {
+          "id": "478325",
+          "author": null,
+          "description": "Datuk Seri Mohd Shuhaily Mohd Zain berkata biarpun tanpa perkembangan terkini, pihaknya sentiasa giat dan tidak berhenti menjalankan siasatan terhadap kes berkenaan.",
+          "link": "https://www.astroawani.com/berita-malaysia/tiada-perkembangan-terbaru-kes-simbah-asid-faisal-halim-mohd-shuhaily-478325",
+          "publishedOn": "2024-07-09T13:04:21.000Z",
+          "wordCount": 79,
+          "title": "Tiada perkembangan terbaru kes simbah asid Faisal Halim - Mohd Shuhaily",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-07/61720530400_TBMohdShuhaily.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-07/61720530400_TBMohdShuhaily.jpg"
+        },
+        {
+          "id": "478316",
+          "author": null,
+          "description": "Enam orang maut akibat strok haba pada hujung minggu di Tokyo, menurut pihak berkuasa perubatan tempatan pada Selasa.",
+          "link": "https://www.astroawani.com/berita-dunia/tokyo-lapor-enam-kematian-akibat-strok-haba-478316",
+          "publishedOn": "2024-07-09T13:00:00.000Z",
+          "wordCount": 79,
+          "title": "Tokyo lapor enam kematian akibat strok haba",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-07/81720516537_heatstrokealert.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-07/81720516537_heatstrokealert.jpg"
+        },
+        {
           "id": "478324",
           "author": null,
           "description": "Joko Widodo dijadual melawat Abu Dhabi minggu hadapan untuk mempertingkatkan perbincangan mengenai potensi pelaburan di Nusantara.",
@@ -26965,36 +27010,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2017-10/61508926718_KahwinMuda.jpg"
-        },
-        {
-          "id": "476180",
-          "author": null,
-          "description": "Al Khairi Insurance Limited tawar perlindungan takaful kepada jemaah Malaysia, Indonesia, Brunei, Singapura serta Bangladesh.",
-          "link": "https://www.astroawani.com/berita-malaysia/urus-perlindungan-takaful-jemaah-haji-5-negara-476180",
-          "publishedOn": "2024-06-25T01:30:35.000Z",
-          "wordCount": 79,
-          "title": "Urus perlindungan takaful jemaah haji 5 negara",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-06/71719279389_TuankuSyedFaizuddi.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-06/71719279389_TuankuSyedFaizuddi.jpg"
-        },
-        {
-          "id": "476179",
-          "author": null,
-          "description": "Lelaki berusia 34 tahun itu dibawa turun oleh MOSAR dari Panalaban selepas turut mengalami simptom muntah-muntah.",
-          "link": "https://www.astroawani.com/berita-malaysia/pendaki-alami-sejuk-melampau-diusung-sejauh-8-5km-untuk-dapat-rawatan-476179",
-          "publishedOn": "2024-06-25T01:15:54.000Z",
-          "wordCount": 79,
-          "title": "Pendaki alami sejuk melampau diusung sejauh 8.5km untuk dapat rawatan",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-06/71719278156_tbpendaki.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-06/71719278156_tbpendaki.jpg"
         }
       ]
     },
@@ -27003,6 +27018,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a security vulnerability in the RADIUS network authentication protocol called BlastRADIUS that could be exploited by an attacker to stage Mallory-in-the-middle (MitM) attacks and bypass integrity checks under certain circumstances.\n\"The RADIUS protocol allows certain Access-Request messages to have no integrity or authentication checks,\" InkBridge",
+          "link": "https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html",
+          "publishedOn": "2024-07-09T12:39:00.000Z",
+          "wordCount": null,
+          "title": "RADIUS Protocol Vulnerability Exposes Networks to MitM Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2ZeBvytYv3LL8G8ibYplzi4TDY7hr59hq-llaz6I2d9Fipfm-rhlFLdO8ogpvXilORThcV2Yw1yJP0Tf7Li__tGfdXbZxQnAam-VMaHsIQpGkxx3JbGA5TUaZXoHCXbRrbMcYMRrG7Zx5hqmEuiPYU6Vgk0XAIPQIDtZa_KmXUHjvwm5KtWBOSxDSAiB/s1600/network.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2ZeBvytYv3LL8G8ibYplzi4TDY7hr59hq-llaz6I2d9Fipfm-rhlFLdO8ogpvXilORThcV2Yw1yJP0Tf7Li__tGfdXbZxQnAam-VMaHsIQpGkxx3JbGA5TUaZXoHCXbRrbMcYMRrG7Zx5hqmEuiPYU6Vgk0XAIPQIDtZa_KmXUHjvwm5KtWBOSxDSAiB/s1600/network.png"
+        },
         {
           "id": "https://thehackernews.com/2024/07/hackers-exploiting-jenkins-script.html",
           "author": "info@thehackernews.com (The Hacker News)",
