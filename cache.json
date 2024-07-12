@@ -12,6 +12,51 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "478823",
+          "author": null,
+          "description": "Suruhanjaya Pencegahan Rasuah Malaysia (SPRM) menahan seorang pegawai dan dua anggota penguat kuasa yang disyaki meminta serta menerima rasuah sebagai balasan untuk menggugurkan satu kes penipuan.",
+          "link": "https://www.astroawani.com/berita-malaysia/gugur-kes-penipuan-sprm-tahan-pegawai-anggota-penguat-kuasa-disyaki-terima-rm20-000-478823",
+          "publishedOn": "2024-07-12T15:09:05.000Z",
+          "wordCount": 79,
+          "title": "Gugur kes penipuan: SPRM tahan pegawai, anggota penguat kuasa disyaki terima RM20,000",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-07/41720796921_TBsprm.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-07/41720796921_TBsprm.jpg"
+        },
+        {
+          "id": "478781",
+          "author": null,
+          "description": "APMM Selangor menahan sebuah bot nelayan tempatan kelas C bersama empat kru warga asing kerana melanggar syarat sah lesen di sekitar perairan Sekinchan, Selangor, semalam.",
+          "link": "https://www.astroawani.com/berita-malaysia/apmm-selangor-tahan-bot-empat-kru-warga-asing-langgar-syarat-sah-lesen-478781",
+          "publishedOn": "2024-07-12T15:00:48.000Z",
+          "wordCount": 79,
+          "title": "APMM Selangor tahan bot, empat kru warga asing langgar syarat sah lesen",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-07/51720779114_TBwargaasing.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-07/51720779114_TBwargaasing.jpg"
+        },
+        {
+          "id": "478825",
+          "author": null,
+          "description": "Toh Puan Raghad Kurdi Taib membuat laporan polis selepas mendakwa dihalang memasuki kediamannya di Kuching, Sarawak, minggu lalu.",
+          "link": "https://www.astroawani.com/berita-malaysia/dihalang-masuk-rumah-isteri-bekas-tyt-sarawak-buat-laporan-polis-478825",
+          "publishedOn": "2024-07-12T14:58:19.000Z",
+          "wordCount": 79,
+          "title": "Dihalang masuk rumah, isteri bekas TYT Sarawak buat laporan polis",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-07/81720795271_TBRaghad.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-07/81720795271_TBRaghad.jpg"
+        },
+        {
           "id": "478824",
           "author": null,
           "description": "Polis menahan seorang wanita yang disyaki menjadi \"keldai akaun\" kepada sindiket penipuan tawaran kerja secara dalam talian yang tidak wujud menyebabkan mangsa kerugian RM213,200.",
@@ -27115,36 +27160,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-06/61719548642_giantpanda.jpg"
-        },
-        {
-          "id": "476662",
-          "author": null,
-          "description": "Beliau memaklumkan sudah berlari sejauh 20km dengan jumlah dana sebanyak RM10,000 berjaya diraih setakat jam 10 pagi tadi.",
-          "link": "https://www.astroawani.com/berita-malaysia/syed-saddiq-mulakan-langkah-muar-selesaikan-larian-20km-pagi-ini-476662",
-          "publishedOn": "2024-06-28T03:30:49.000Z",
-          "wordCount": 79,
-          "title": "Syed Saddiq mulakan 'Langkah Muar', selesaikan larian 20km pagi ini",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-06/71719543829_SyedSaddiq.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-06/71719543829_SyedSaddiq.jpg"
-        },
-        {
-          "id": "476661",
-          "author": null,
-          "description": "Pada 9.17 pagi, ringgit diniagakan rendah kepada 4.7200/7250 berbanding dolar AS daripada 4.7160/7190 pada Khamis.",
-          "link": "https://www.astroawani.com/berita-bisnes/ringgit-rendah-berbanding-dolar-dalam-dagangan-awal-476661",
-          "publishedOn": "2024-06-28T03:20:26.000Z",
-          "wordCount": 79,
-          "title": "Ringgit rendah berbanding dolar AS dalam dagangan awal",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-04/41713876066_TBringgitmalaysia.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-04/41713876066_TBringgitmalaysia.jpg"
         }
       ]
     },
@@ -27153,6 +27168,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed light on a short-lived DarkGate malware campaign that leveraged Samba file shares to initiate the infections.\nPalo Alto Networks Unit 42 said the activity spanned the months of March and April 2024, with the infection chains using servers running public-facing Samba file shares hosting Visual Basic Script (VBS) and JavaScript files. Targets included North",
+          "link": "https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html",
+          "publishedOn": "2024-07-12T14:51:00.000Z",
+          "wordCount": null,
+          "title": "DarkGate Malware Exploits Samba File Shares in Short-Lived Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2YM098jH9jlu5MTcWltRXuIu-USu3n58nkC9RqdMwN7KnD1YhuunAyJozVeftzP2CIjs6uYncwRgnPQebAtVHDDA3sSbiVakWo8mlw990a1OUvCcgAXCIQjgHx6X0AZcDpQlpmgo-Ge71vEFCn8KJ9oa6bhYU2mYA1Vtf-P1O-kALKMToApkktc49O-oK/s1600/cybersecurity.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2YM098jH9jlu5MTcWltRXuIu-USu3n58nkC9RqdMwN7KnD1YhuunAyJozVeftzP2CIjs6uYncwRgnPQebAtVHDDA3sSbiVakWo8mlw990a1OUvCcgAXCIQjgHx6X0AZcDpQlpmgo-Ge71vEFCn8KJ9oa6bhYU2mYA1Vtf-P1O-kALKMToApkktc49O-oK/s1600/cybersecurity.jpg"
+        },
         {
           "id": "https://thehackernews.com/2024/07/australian-defence-force-private-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
