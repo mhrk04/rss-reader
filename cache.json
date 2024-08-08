@@ -26695,36 +26695,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-07/41721869359_GobindSinghDeo.jpg"
-        },
-        {
-          "id": "480527",
-          "author": null,
-          "description": "Siasatan dalaman telah dijalankan dan sehingga hari ini pihaknya tidak mendapati berlaku perkara yang membimbangkan atau merisaukan.",
-          "link": "https://www.astroawani.com/berita-malaysia/dakwaan-salah-guna-kuasa-di-sebuah-jabatan-tidak-berlaku-perkara-membimbangkan-fahmi-480527",
-          "publishedOn": "2024-07-25T00:00:14.000Z",
-          "wordCount": 79,
-          "title": "Dakwaan salah guna kuasa di sebuah jabatan: tidak berlaku perkara membimbangkan - Fahmi",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-07/41721808891_TBFahmi.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-07/41721808891_TBFahmi.jpg"
-        },
-        {
-          "id": "480522",
-          "author": null,
-          "description": "Sebahagian besar daripada lapan hartanah milik dana amanah pelaburan hartanah itu menyaksikan lonjakan pendapatan bersih.",
-          "link": "https://www.astroawani.com/berita-bisnes/capitaland-malaysia-trust-catat-keuntungan-bersih-rm33-47-juta-480522",
-          "publishedOn": "2024-07-24T23:45:56.000Z",
-          "wordCount": 79,
-          "title": "CapitaLand Malaysia Trust catat keuntungan bersih RM33.47 juta",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2023-07/41690327190_CapitaLand.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2023-07/41690327190_CapitaLand.jpg"
         }
       ]
     },
@@ -26733,6 +26703,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/08/automated-security-validation-one-very.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The last few years have seen more than a few new categories of security solutions arise in hopes of stemming a never-ending tidal wave of risks. One of these categories is Automated Security Validation (ASV), which provides the attacker’s perspective of exposures and equips security teams to continuously validate exposures, security measures, and remediation at scale. ASV is an important element",
+          "link": "https://thehackernews.com/2024/08/automated-security-validation-one-very.html",
+          "publishedOn": "2024-08-08T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Automated Security Validation: One (Very Important) Part of a Complete CTEM Framework",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jluJPsZ9rQAbj3OlMMjArTSstiM7pvcOZpd4CoKcQfd5xps2vxKiGXE_paB1Hu5LUZdz2qPoUfG8cPQxPp-DstLuxkI6cfI6u-NJgvi_NTwymOS10Ae76cyJnZ1RFVPC9A_RaY5QSy4k8tUiGo1MFBGckylbr6rGe-padbxBhWBEaL6ip_r7LHJljh8/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jluJPsZ9rQAbj3OlMMjArTSstiM7pvcOZpd4CoKcQfd5xps2vxKiGXE_paB1Hu5LUZdz2qPoUfG8cPQxPp-DstLuxkI6cfI6u-NJgvi_NTwymOS10Ae76cyJnZ1RFVPC9A_RaY5QSy4k8tUiGo1MFBGckylbr6rGe-padbxBhWBEaL6ip_r7LHJljh8/s1600/main.png"
+        },
         {
           "id": "https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -29476,6 +29462,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza",
+          "author": "Jeffrey Schwartz, Contributing Writer",
+          "description": "Researchers at Aqua Security discovered the \"Shadow Resource\" attack vector and the \"Bucket Monopoly\" problem, where threat actors can guess the name of S3 buckets based on their public account IDs.",
+          "link": "https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza",
+          "publishedOn": "2024-08-08T12:00:00.000Z",
+          "wordCount": 5832,
+          "title": "Critical AWS Vulnerabilities Allow S3 Attack Bonanza",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9a2ebccfc67fde6/66b3fbe9de1eb545d04c0bd6/dark_cloud-Holger_Burmeister-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/application-security/hazy-issue-entra-id-privileged-users-become-global-admins",
           "author": "Nate Nelson, Contributing Writer",
