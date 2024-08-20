@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-08-20T06:10:10.630Z</updated>
+    <updated>2024-08-20T06:41:58.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,18 @@
         <summary type="html"><![CDATA[By moving beyond guidelines and enforcing accountability, encouraging innovation, and prioritizing the safety and well-being of our communities in the digital age, we can build a more secure software future.]]></summary>
         <author>
             <name>Brian Fox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind Eagle Hackers Exploit Spear-Phishing to Deploy RATs in Latin America]]></title>
+        <id>https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html</id>
+        <link href="https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html"/>
+        <updated>2024-08-20T06:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a threat actor known as Blind Eagle that has persistently targeted entities and individuals in Colombia, Ecuador, Chile, Panama, and other Latin American nations.
+Targets of these attacks span several sectors, including governmental institutions, financial companies, energy and oil and gas companies.
+"Blind Eagle has demonstrated adaptability in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -15707,16 +15719,6 @@ The post Samsung Chairman Furious Over Companyâ€™s Alleged Plagiarism Of Appleâ€
         <summary type="html"><![CDATA[The enterprise resource planning platform bug CVE-2024-38856 has a vulnerability-severity score of 9.8 out of 10 on the CVSS scale and offers a wide avenue into enterprise applications for cyberattackers.]]></summary>
         <author>
             <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Evasive Panda Attacks ISP to Send Malicious Software Updates]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/chinas-evasive-panda-attacks-isp-to-send-malicious-software-updates</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/chinas-evasive-panda-attacks-isp-to-send-malicious-software-updates"/>
-        <updated>2024-08-05T18:33:46.000Z</updated>
-        <summary type="html"><![CDATA[The APT used DNS poisoning to install the Macma backdoor on targeted networks and then deliver malware to steal data via post-exploitation activity.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
         </author>
     </entry>
 </feed>
