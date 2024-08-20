@@ -18079,6 +18079,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are warning about the discovery of thousands of externally-facing Oracle NetSuite e-commerce sites that have been found susceptible to leaking sensitive customer information.\n\"A potential issue in NetSuite's SuiteCommerce platform could allow attackers to access sensitive data due to misconfigured access controls on custom record types (CRTs),\" AppOmni's Aaron Costello",
+          "link": "https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html",
+          "publishedOn": "2024-08-20T05:27:00.000Z",
+          "wordCount": null,
+          "title": "Thousands of Oracle NetSuite Sites at Risk of Exposing Customer Information",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4s-cid3VsxVmEYlGPKkLJXI6iwtQ0-xtNnf2fXxzP0FTXoedzXMQtL4Cw-HDYqDB1bAnaiiAA2HMSXP-VHjnaOGqfvGVm6hweYuYlbJq1WjWhn1eum43xhOhOWI-9dQW4lsbkm0MIZGY0e2ueGY71Kwx9eOE9Cak20LTU2aOQkZVaDlVy6vaLINPchJSS/s1600/oracle.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4s-cid3VsxVmEYlGPKkLJXI6iwtQ0-xtNnf2fXxzP0FTXoedzXMQtL4Cw-HDYqDB1bAnaiiAA2HMSXP-VHjnaOGqfvGVm6hweYuYlbJq1WjWhn1eum43xhOhOWI-9dQW4lsbkm0MIZGY0e2ueGY71Kwx9eOE9Cak20LTU2aOQkZVaDlVy6vaLINPchJSS/s1600/oracle.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical security flaw impacting Jenkins to its Known Exploited Vulnerabilities (KEV) catalog, following its exploitation in ransomware attacks.\nThe vulnerability, tracked as CVE-2024-23897 (CVSS score: 9.8), is a path traversal flaw that could lead to code execution.\n\"Jenkins Command Line Interface (CLI) contains a",
+          "link": "https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html",
+          "publishedOn": "2024-08-20T04:53:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Critical Jenkins Vulnerability Exploited in Ransomware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnZmTHpxloKcJO06yzh7h0iUH9sfV6cHsFvb6lMhI5f6I-6o_HBWhT-HvntmAUhO47HnBgteP_L58h_BdghIJ4WJLuj3pPgbeIQzCZ9qN8gyHn8FILIMTXuBtm4ub3pQQhyxtRqSnij22wXKc9ebXe4GNFasrzsSaNnPK6-wdB6fUiZ5c4inQ1R3tzEoE/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnZmTHpxloKcJO06yzh7h0iUH9sfV6cHsFvb6lMhI5f6I-6o_HBWhT-HvntmAUhO47HnBgteP_L58h_BdghIJ4WJLuj3pPgbeIQzCZ9qN8gyHn8FILIMTXuBtm4ub3pQQhyxtRqSnij22wXKc9ebXe4GNFasrzsSaNnPK6-wdB6fUiZ5c4inQ1R3tzEoE/s1600/ransomware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new type of malware called UULoader is being used by threat actors to deliver next-stage payloads like Gh0st RAT and Mimikatz.\nThe Cyberint Research Team, which discovered the malware, said it's distributed in the form of malicious installers for legitimate applications targeting Korean and Chinese speakers.\nThere is evidence pointing to UULoader being the work of a Chinese speaker due to the",
