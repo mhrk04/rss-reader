@@ -17539,6 +17539,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has rolled out security fixes to address a high-severity security flaw in its Chrome browser that it said has come under active exploitation in the wild.\nTracked as CVE-2024-7971, the vulnerability has been described as a type confusion bug in the V8 JavaScript and WebAssembly engine.\n\"Type confusion in V8 in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to exploit heap",
+          "link": "https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html",
+          "publishedOn": "2024-08-22T05:19:00.000Z",
+          "wordCount": null,
+          "title": "Google Fixes High-Severity Chrome Flaw Actively Exploited in the Wild",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAa438cNI-kWRUazsdQsCFYzJHBvtDGViCVLxQMwWs3S9TQvl4rodqbv_bJpC5ASdjZGmlfi0canStydrfK3riuNCHw20xH09i3yKj8UCl9SFGlOQ99dzoDIACsRpbgUFLsR7FFsmkQE1bBS0XA-ZqTbJOXJkidiiEEo6RlbGJ-SkkhBZpBvzDhxoyYsud/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAa438cNI-kWRUazsdQsCFYzJHBvtDGViCVLxQMwWs3S9TQvl4rodqbv_bJpC5ASdjZGmlfi0canStydrfK3riuNCHw20xH09i3yKj8UCl9SFGlOQ99dzoDIACsRpbgUFLsR7FFsmkQE1bBS0XA-ZqTbJOXJkidiiEEo6RlbGJ-SkkhBZpBvzDhxoyYsud/s1600/chrome.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a critical security flaw in the LiteSpeed Cache plugin for WordPress that could permit unauthenticated users to gain administrator privileges.\n\"The plugin suffers from an unauthenticated privilege escalation vulnerability which allows any unauthenticated visitor to gain Administrator level access after which malicious plugins could be uploaded and",
+          "link": "https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html",
+          "publishedOn": "2024-08-22T05:02:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaw in WordPress LiteSpeed Cache Plugin Allows Hackers Admin Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC4VaEpXvhgtiTQOZrNw36La9zBa2LcQ16J8JNqX_FJypvKE6BVcb20LUfhq96UNDS55UE4QUb2ZQwa839LSjufUU76c9xPv91BUZrWT2NY0oUTetjQyh-AKdKXcg_TXUykKKKUTJixr4CV1pt9J4Bld-wYDu1IoeTCvNQWBXZdww4dqZ_N3J057_riF-/s1600/wordpress.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC4VaEpXvhgtiTQOZrNw36La9zBa2LcQ16J8JNqX_FJypvKE6BVcb20LUfhq96UNDS55UE4QUb2ZQwa839LSjufUU76c9xPv91BUZrWT2NY0oUTetjQyh-AKdKXcg_TXUykKKKUTJixr4CV1pt9J4Bld-wYDu1IoeTCvNQWBXZdww4dqZ_N3J057_riF-/s1600/wordpress.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/github-patches-critical-security-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitHub has released fixes to address a set of three security flaws impacting its Enterprise Server product, including one critical bug that could be abused to gain site administrator privileges.\nThe most severe of the shortcomings has been assigned the CVE identifier CVE-2024-6800, and carries a CVSS score of 9.5.\n\"On GitHub Enterprise Server instances that use SAML single sign-on (SSO)",
+          "link": "https://thehackernews.com/2024/08/github-patches-critical-security-flaw.html",
+          "publishedOn": "2024-08-22T04:48:00.000Z",
+          "wordCount": null,
+          "title": "GitHub Patches Critical Security Flaw in Enterprise Server Granting Admin Privileges",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNnktu2dkih-ZVhlXFG4RXBDXmXve7McO8uOuTbdLbDFz7IC4TccrtdO-cZtcFI5sqWkldfQUVtl_6KdIyPAXs2M83vsro0tdwnKd-8Mfcqw8dDbKPv6jPkI-mtCD09z0dqMA-Vw80JuVlHJXRUFnE6dQRPRjfrpeAuNMHfVg6OqeLO0goaOmDxEyPf0y/s1600/github.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNnktu2dkih-ZVhlXFG4RXBDXmXve7McO8uOuTbdLbDFz7IC4TccrtdO-cZtcFI5sqWkldfQUVtl_6KdIyPAXs2M83vsro0tdwnKd-8Mfcqw8dDbKPv6jPkI-mtCD09z0dqMA-Vw80JuVlHJXRUFnE6dQRPRjfrpeAuNMHfVg6OqeLO0goaOmDxEyPf0y/s1600/github.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-malware-pgmem-targets-postgresql.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have unpacked a new malware strain dubbed PG_MEM that's designed to mine cryptocurrency after brute-forcing their way into PostgreSQL database instances.\n\"Brute-force attacks on Postgres involve repeatedly attempting to guess the database credentials until access is gained, exploiting weak passwords,\" Aqua security researcher Assaf Morag said in a technical report.\n\"",
