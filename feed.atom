@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-08-27T06:10:58.052Z</updated>
+    <updated>2024-08-27T06:42:16.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sony PS5 Pro Could Make Debut Before The End Of 2024]]></title>
+        <id>https://www.lowyat.net/?p=330507</id>
+        <link href="https://www.lowyat.net/2024/330507/sony-ps5-pro-rumoured-to-be-revealed/"/>
+        <updated>2024-08-27T06:12:16.000Z</updated>
+        <summary type="html"><![CDATA[Rumours suggest that an upgraded PlayStation 5, possibly the PS5 Pro, is set to be released by the end of this year. Jeff Grub from Giant Bomb mentioned the imminent arrival of the new console, may be featured at the brand’s upcoming State of Play event, which is expected to take place sometime in September. […]
+The post Sony PS5 Pro Could Make Debut Before The End Of 2024 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Haikal Nazri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot]]></title>
+        <id>https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html</id>
+        <link href="https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html"/>
+        <updated>2024-08-27T06:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Details have emerged about a now-patched vulnerability in Microsoft 365 Copilot that could enable the theft of sensitive user information using a technique called ASCII smuggling.
+"ASCII Smuggling is a novel technique that uses special Unicode characters that mirror ASCII but are actually not visible in the user interface," security researcher Johann Rehberger said.
+"This means that an attacker]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony WF-C510 Launches With Transparency Mode For RM299]]></title>
         <id>https://www.lowyat.net/?p=330523</id>
@@ -15,6 +38,18 @@
 The post Sony WF-C510 Launches With Transparency Mode For RM299 appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Warns of CVE-2024-7965 Chrome Security Flaw Under Active Exploitation]]></title>
+        <id>https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html</id>
+        <link href="https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html"/>
+        <updated>2024-08-27T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has revealed that a security flaw that was patched as part of a security update rolled out last week to its Chrome browser has come under active exploitation in the wild.
+Tracked as CVE-2024-7965, the vulnerability has been described as an inappropriate implementation bug in the V8 JavaScript and WebAssembly engine.
+"Inappropriate implementation in V8 in Google Chrome prior to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -18533,16 +18568,6 @@ The post Redmi Pad SE 8.7 Gets SIRIM Approval; Malaysian Launch Imminent appeare
         <summary type="html"><![CDATA[The vulnerability has been around for nearly 20 years and gives sophisticated attackers a way to bury virtually undetectable bootkits on devices with EPYC and Ryzen microprocessors.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine CERT: Mass Phishing Campaign Poses as Nation's Security Service]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service"/>
-        <updated>2024-08-12T18:25:00.000Z</updated>
-        <summary type="html"><![CDATA[More than 100 Ukrainian government devices have been affected by the threat that is being tracked as UAC-0198.]]></summary>
-        <author>
-            <name>Dark Reading Staff</name>
         </author>
     </entry>
 </feed>

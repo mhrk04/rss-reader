@@ -22594,6 +22594,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Details have emerged about a now-patched vulnerability in Microsoft 365 Copilot that could enable the theft of sensitive user information using a technique called ASCII smuggling.\n\"ASCII Smuggling is a novel technique that uses special Unicode characters that mirror ASCII but are actually not visible in the user interface,\" security researcher Johann Rehberger said.\n\"This means that an attacker",
+          "link": "https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html",
+          "publishedOn": "2024-08-27T06:09:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIxxfhgvEbEYDG3wHQ2eKqzhAqQ6QYBSgpg5F4fNXxf3N_OUK6wVpDby0mrHMMk89hVFAbePc8wJo_yt-NyNLTIexlKrKZ5e1vPOUQwWbzCgixXsOzFkD6-cTfHIh0ExIj-yeH0DoVcyLlWxNgyft-L_BWAyjZgJ6JSRzVVM7ncNvc0nDAUiGvO2F9PGu/s1600/ms.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIxxfhgvEbEYDG3wHQ2eKqzhAqQ6QYBSgpg5F4fNXxf3N_OUK6wVpDby0mrHMMk89hVFAbePc8wJo_yt-NyNLTIexlKrKZ5e1vPOUQwWbzCgixXsOzFkD6-cTfHIh0ExIj-yeH0DoVcyLlWxNgyft-L_BWAyjZgJ6JSRzVVM7ncNvc0nDAUiGvO2F9PGu/s1600/ms.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has revealed that a security flaw that was patched as part of a security update rolled out last week to its Chrome browser has come under active exploitation in the wild.\nTracked as CVE-2024-7965, the vulnerability has been described as an inappropriate implementation bug in the V8 JavaScript and WebAssembly engine.\n\"Inappropriate implementation in V8 in Google Chrome prior to",
+          "link": "https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html",
+          "publishedOn": "2024-08-27T04:45:00.000Z",
+          "wordCount": null,
+          "title": "Google Warns of CVE-2024-7965 Chrome Security Flaw Under Active Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje0lWT5FYYzNQnVockdk1Qi0mOVU7eB18sCSs5myIa1bh9-_kvxcc99hGZUyCAMiua4RT-nViXwpaNQAND1WPmoqqqWUfW85r8x-3PMzm1EHajUW8rQTDC9C7a_54drmTdaAx0nRujIEGpbq_8ORZgc1vUNtpuDB9jVh6tFpdJlSHEfYf_fD_hVNyuAVjv/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje0lWT5FYYzNQnVockdk1Qi0mOVU7eB18sCSs5myIa1bh9-_kvxcc99hGZUyCAMiua4RT-nViXwpaNQAND1WPmoqqqWUfW85r8x-3PMzm1EHajUW8rQTDC9C7a_54drmTdaAx0nRujIEGpbq_8ORZgc1vUNtpuDB9jVh6tFpdJlSHEfYf_fD_hVNyuAVjv/s1600/chrome.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "SonicWall has released security updates to address a critical flaw impacting its firewalls that, if successfully exploited, could grant malicious actors unauthorized access to the devices.\nThe vulnerability, tracked as CVE-2024-40766 (CVSS score: 9.3), has been described as an improper access control bug.\n\"An improper access control vulnerability has been identified in the SonicWall SonicOS",
@@ -23784,6 +23816,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=330507",
+          "author": "Haikal Nazri",
+          "description": "Rumours suggest that an upgraded PlayStation 5, possibly the PS5 Pro, is set to be released by the end of this year. Jeff Grub from Giant Bomb mentioned the imminent arrival of the new console, may be featured at the brand’s upcoming State of Play event, which is expected to take place sometime in September. […]\nThe post Sony PS5 Pro Could Make Debut Before The End Of 2024 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/330507/sony-ps5-pro-rumoured-to-be-revealed/",
+          "publishedOn": "2024-08-27T06:12:16.000Z",
+          "wordCount": 4906,
+          "title": "Sony PS5 Pro Could Make Debut Before The End Of 2024",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/08/NEW-PS5-Rumoured-Release-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=330523",
           "author": "Ian Chee",
@@ -26280,16 +26322,6 @@
           "wordCount": 5458,
           "title": "AMD Issues Updates for Silicon-Level 'SinkClose' Processor Flaw",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt766079a26ab506e2/66ba61172463586736fb9000/amd_JHVEPhoto_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service",
-          "author": "Dark Reading Staff",
-          "description": "More than 100 Ukrainian government devices have been affected by the threat that is being tracked as UAC-0198.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service",
-          "publishedOn": "2024-08-12T18:25:00.000Z",
-          "wordCount": 4046,
-          "title": "Ukraine CERT: Mass Phishing Campaign Poses as Nation's Security Service",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt483f011036db21f8/66ba488df9b09cfb14f2b975/fishhook1800_Feng_Yu_alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
