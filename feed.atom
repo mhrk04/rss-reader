@@ -2,16 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-08-28T16:44:16.786Z</updated>
+    <updated>2024-08-28T17:06:20.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html</id>
+        <link href="https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html"/>
+        <updated>2024-08-28T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortra has addressed a critical security flaw impacting FileCatalyst Workflow that could be abused by a remote attacker to gain administrative access.
+The vulnerability, tracked as CVE-2024-6633, carries a CVSS score of 9.8, and stems from the use of a static password to connect to a HSQL database.
+"The default credentials for the setup HSQL database (HSQLDB) for FileCatalyst Workflow are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berita tempatan pilihan sepanjang hari ini]]></title>
         <id>485425</id>
         <link href="https://www.astroawani.com/berita-malaysia/berita-tempatan-pilihan-sepanjang-hari-ini-485425"/>
         <updated>2024-08-28T15:59:59.000Z</updated>
         <summary type="html"><![CDATA[Berikut adalah berita yang paling menjadi tumpuan sepanjang Rabu, 28 Ogos 2024.]]></summary>
+        <author>
+            <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DBKL batal sambutan Ambang Merdeka 2024]]></title>
+        <id>485548</id>
+        <link href="https://www.astroawani.com/berita-malaysia/dbkl-batal-sambutan-ambang-merdeka-2024-485548"/>
+        <updated>2024-08-28T15:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Pembatalan itu adalah bagi menghormati mangsa beberapa insiden yang berlaku di sekitar Kuala Lumpur baru-baru ini.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
         </author>
@@ -19918,37 +19940,6 @@ The vulnerability, tracked as CVE-2024-7593, has a CVSS score of 9.8 out of a ma
 The post CelcomDigi Introduces 670GB Streaming Pass In Honour Of Merdeka appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ikmal Rozlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China-Backed Earth Baku Expands Cyber Attacks to Europe, Middle East, and Africa]]></title>
-        <id>https://thehackernews.com/2024/08/china-backed-earth-baku-expands-cyber.html</id>
-        <link href="https://thehackernews.com/2024/08/china-backed-earth-baku-expands-cyber.html"/>
-        <updated>2024-08-14T05:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The China-backed threat actor known as Earth Baku has diversified its targeting footprint beyond the Indo-Pacific region to include Europe, the Middle East, and Africa starting in late 2022.
-Newly targeted countries as part of the activity include Italy, Germany, the U.A.E., and Qatar, with suspected attacks also detected in Georgia and Romania. Governments, media and communications, telecoms,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piala Super UEFA: Ancelotti tidak jamin beri Mbappe penampilan pertama]]></title>
-        <id>483437</id>
-        <link href="https://www.astroawani.com/berita-sukan/piala-super-uefa-ancelotti-tidak-jamin-beri-mbappe-penampilan-pertama-483437"/>
-        <updated>2024-08-14T05:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Ancelotti kekal berahsia mengenai peluang Kylian Mbappe untuk membuat penampilan sulung bersama Real Madrid pada Piala Super UEFA.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxis, Singtel perkenal platform semua dalam satu rangkaian 5G pertama Malaysia]]></title>
-        <id>483438</id>
-        <link href="https://www.astroawani.com/berita-bisnes/maxis-singtel-perkenal-platform-semua-dalam-satu-rangkaian-5g-pertama-malaysia-483438"/>
-        <updated>2024-08-14T04:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Rangkaian 5G itu akan meliputi pengkomputeran pinggir (edge computing), awan dan perkhidmatan, berasaskan platform Paragon oleh Singtel yang disediakan untuk rangkaian telekomunikasi.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
         </author>
     </entry>
 </feed>
