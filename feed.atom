@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-09-12T17:07:04.812Z</updated>
+    <updated>2024-09-12T17:37:44.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Android Malware 'Ajina.Banker' Steals Financial Data and Bypasses 2FA via Telegram]]></title>
+        <id>https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html</id>
+        <link href="https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html"/>
+        <updated>2024-09-12T16:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Bank customers in the Central Asia region have been targeted by a new strain of Android malware codenamed Ajina.Banker since at least November 2024 with the goal of harvesting financial information and intercepting two-factor authentication (2FA) messages.
+Singapore-headquartered Group-IB, which discovered the threat in May 2024, said the malware is propagated via a network of Telegram channels]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berita tempatan pilihan sepanjang hari ini]]></title>
         <id>487541</id>
@@ -24,6 +35,18 @@
         <summary type="html"><![CDATA[Antara pelbagai berita luar negara yang disiarkan di Astro AWANI, berikut adalah yang paling menjadi tumpuan sepanjang hari ini.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urgent: GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Job Execution]]></title>
+        <id>https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html</id>
+        <link href="https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html"/>
+        <updated>2024-09-12T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[GitLab on Wednesday released security updates to address 17 security vulnerabilities, including a critical flaw that allows an attacker to run pipeline jobs as an arbitrary user.
+The issue, tracked as CVE-2024-6678, carries a CVSS score of 9.9 out of a maximum of 10.0
+"An issue was discovered in GitLab CE/EE affecting all versions starting from 8.14 prior to 17.1.7, starting from 17.2 prior to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -18649,16 +18672,6 @@ The post NVIDIA GeForce RTX 50 Series Laptop GPUs Could Get GDDR7 Memory appeare
         <link href="https://www.astroawani.com/berita-hiburan/thor-buat-kejutan-muncul-di-konsert-ed-sheeran-main-dram-depan-70-000-penonton-485596"/>
         <updated>2024-08-29T05:45:35.000Z</updated>
         <summary type="html"><![CDATA[Aktor terkenal Chris Hemsworth muncul di konsert Ed Sheeran di Bucharest, Romania, pada malam Sabtu.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohd Ali Tamby dilantik sebagai pemangku Ketua Polis Kelantan]]></title>
-        <id>485589</id>
-        <link href="https://www.astroawani.com/berita-malaysia/mohd-ali-tamby-dilantik-sebagai-pemangku-ketua-polis-kelantan-485589"/>
-        <updated>2024-08-29T05:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Timbalan Ketua Polis Kelantan DCP Mohd Ali Tamby dilantik sebagai pemangku Ketua Polis Kelantan berkuat kuasa hari ini.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
         </author>
