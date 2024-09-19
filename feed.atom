@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-09-19T19:36:50.368Z</updated>
+    <updated>2024-09-19T20:08:26.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1 PoC Exploit for Critical RCE Flaw, but 2 Patches From Veeam]]></title>
+        <id>https://www.darkreading.com/application-security/poc-exploit-for-rce-flaw-but-patches-from-veeam</id>
+        <link href="https://www.darkreading.com/application-security/poc-exploit-for-rce-flaw-but-patches-from-veeam"/>
+        <updated>2024-09-19T19:57:21.000Z</updated>
+        <summary type="html"><![CDATA[The first patch lets threat actors with low-level credentials still exploit the vulnerability, while the second fully resolves the flaw.]]></summary>
+        <author>
+            <name>Dark Reading Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wherever There's Ransomware, There's Service Account Compromise. Are You Protected?]]></title>
         <id>https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html</id>
@@ -19124,58 +19134,6 @@ The post MSI Officially Launches Stealth A16 AI+ Laptop With Ryzen AI appeared f
         <summary type="html"><![CDATA[Beliau telah mengarahkan Ibu Pejabat Polis Daerah Dang Wangi untuk menempatkan anggota berkawal di kawasan terbabit supaya kerja-kerja agensi lain tidak terganggu.]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNM kekalkan OPR pada 3.0 peratus]]></title>
-        <id>486586</id>
-        <link href="https://www.astroawani.com/berita-bisnes/bnm-kekalkan-opr-pada-3-0-peratus-486586"/>
-        <updated>2024-09-05T08:04:46.000Z</updated>
-        <summary type="html"><![CDATA[BNM berkata inflasi keseluruhan dan inflasi teras berpurata pada 1.8% pada separuh pertama tahun 2024.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungkusan 'misteri' dipercayai punca pencemaran bau dijumpai di anak Sungai Pandan]]></title>
-        <id>486590</id>
-        <link href="https://www.astroawani.com/berita-malaysia/bungkusan-misteri-dipercayai-punca-pencemaran-bau-dijumpai-di-anak-sungai-pandan-486590"/>
-        <updated>2024-09-05T07:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Bungkusan putih lut sinar yang ditemui oleh Jabatan Alam Sekitar (JAS) Johor kira-kira jam 10 pagi itu mempunyai bau yang sama seperti di Kampung Melayu Pandan sebelum ini.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulan Sabit Merah Malaysia derma RM306,000 untuk pembangunan semula Palu]]></title>
-        <id>486588</id>
-        <link href="https://www.astroawani.com/berita-malaysia/bulan-sabit-merah-malaysia-derma-rm306-000-untuk-pembangunan-semula-palu-486588"/>
-        <updated>2024-09-05T07:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Bulan Sabit Merah Malaysia (BSMM) akan menderma sebanyak RM306,000 kepada Palang Merah Indonesia (PMI) dalam usaha memulihkan beberapa pusat pembelajaran dan fasiliti awam di Palu.]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ratu Maori New Zealand yang baharu dimasyhurkan menjelang pemakaman ayahanda]]></title>
-        <id>486572</id>
-        <link href="https://www.astroawani.com/berita-dunia/ratu-maori-new-zealand-yang-baharu-dimasyhurkan-menjelang-pemakaman-ayahanda-486572"/>
-        <updated>2024-09-05T07:45:56.000Z</updated>
-        <summary type="html"><![CDATA[Anak bongsu dan anak perempuan tunggal Raja Maori New Zealand dimasyhurkan sebagai Ratu Maori yang baharu pada Khamis, lapor Agensi Berita Jerman (dpa).]]></summary>
-        <author>
-            <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malware Attackers Using MacroPack to Deliver Havoc, Brute Ratel, and PhantomCore]]></title>
-        <id>https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html</id>
-        <link href="https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html"/>
-        <updated>2024-09-05T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are likely employing a tool designated for red teaming exercises to serve malware, according to new findings from Cisco Talos.
-
-The program in question is a payload generation framework called MacroPack, which is used to generate Office documents, Visual Basic scripts, Windows shortcuts, and other formats for penetration testing and social engineering assessments. It was developed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
