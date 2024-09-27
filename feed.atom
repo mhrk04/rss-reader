@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-09-27T06:12:16.974Z</updated>
+    <updated>2024-09-27T06:46:00.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical NVIDIA Container Toolkit Vulnerability Could Grant Full Host Access to Attackers]]></title>
+        <id>https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html</id>
+        <link href="https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html"/>
+        <updated>2024-09-27T05:54:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the NVIDIA Container Toolkit that, if successfully exploited, could allow threat actors to break out of the confines of a container and gain full access to the underlying host.
+The vulnerability, tracked as CVE-2024-0132, carries a CVSS score of 9.0 out of a maximum of 10.0. It has been addressed in NVIDIA Container Toolkit version v1.16.2 and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semua pihak perlu kerjasama atasi masalah keciciran pelajar - PM Anwar]]></title>
+        <id>489513</id>
+        <link href="https://www.astroawani.com/berita-malaysia/semua-pihak-perlu-kerjasama-atasi-masalah-keciciran-pelajar-pm-anwar-489513"/>
+        <updated>2024-09-27T05:13:16.000Z</updated>
+        <summary type="html"><![CDATA[Sektor swasta dan masyarakat sivil perlu bergabung tenaga, memberi sokongan sebaiknya termasuk dalam aspek teknologi maklumat.]]></summary>
+        <author>
+            <name>Terkini - Astro Awani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Redmi Note 14 Pro Series Goes Official; Pro Plus Gets Snapdragon 7s Gen 3, 6,200mAh Battery]]></title>
         <id>https://www.lowyat.net/?p=333497</id>
@@ -19158,33 +19179,6 @@ The post All iPhone 16 Models Support 45W Charging, According To Chinese Regulat
         <summary type="html"><![CDATA[Most investors aren't demanding cybersecurity preparedness from startups, but founders should still be worried about the risks.]]></summary>
         <author>
             <name>Nate Nelson, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Army Selects QuSecure Solution for 'Enhanced Post-Quantum Cryptography Suite for Tactical Networks' Project]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/us-army-selects-qusecure-solution-for-enhanced-post-quantum-cryptography-suite-for-tactical-networks-project</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/us-army-selects-qusecure-solution-for-enhanced-post-quantum-cryptography-suite-for-tactical-networks-project"/>
-        <updated>2024-09-12T18:37:52.000Z</updated>
-        <author>
-            <name>darkreading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Testing Market Worth $43.9B by 2029]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/security-testing-market-worth-43-9b-by-2029</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/security-testing-market-worth-43-9b-by-2029"/>
-        <updated>2024-09-12T18:33:06.000Z</updated>
-        <author>
-            <name>darkreading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SCADA Market Is Set to Reach $18.7B by 2031]]></title>
-        <id>https://www.darkreading.com/ics-ot-security/scada-market-is-set-to-reach-18-7b-by-2031</id>
-        <link href="https://www.darkreading.com/ics-ot-security/scada-market-is-set-to-reach-18-7b-by-2031"/>
-        <updated>2024-09-12T18:21:19.000Z</updated>
-        <author>
-            <name>darkreading</name>
         </author>
     </entry>
 </feed>
