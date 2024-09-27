@@ -12,6 +12,36 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "489560",
+          "author": null,
+          "description": "SPRM dalam kenyataan memaklumkan setiap tindakan penguatkuasaan yang dijalankan adalah tanpa rasa takut atau pilih kasih.",
+          "link": "https://www.astroawani.com/berita-malaysia/sprm-bertindak-tanpa-rasa-takut-pilih-kasih-489560",
+          "publishedOn": "2024-09-27T13:14:49.000Z",
+          "wordCount": 79,
+          "title": "SPRM bertindak tanpa rasa takut, pilih kasih",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-08/81724922901_tbSPRM.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-08/81724922901_tbSPRM.jpg"
+        },
+        {
+          "id": "489561",
+          "author": null,
+          "description": "Ini merupakan representasi kedua Ahli Dewan Undangan Negeri Jeneri, Kedah itu selepas yang pertama ditolak oleh AGC pada Mei lepas.",
+          "link": "https://www.astroawani.com/berita-malaysia/agc-belum-putuskan-representasi-kedua-sanusi-agar-pertuduhan-menghasut-ditarik-balik-489561",
+          "publishedOn": "2024-09-27T13:05:00.000Z",
+          "wordCount": 79,
+          "title": "AGC belum putuskan representasi kedua Sanusi agar pertuduhan menghasut ditarik balik",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-09/61727441666_MuhammadSanusiMdN.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-09/61727441666_MuhammadSanusiMdN.jpg"
+        },
+        {
           "id": "489562",
           "author": null,
           "description": "Ketiga-tiga beradik itu yang tidak diwakili peguam merayu hukuman ringan dengan alasan menanggung ibu bapa mereka.",
@@ -175,6 +205,21 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-09/41727434697_TaufanHelene.jpg"
+        },
+        {
+          "id": "489552",
+          "author": null,
+          "description": "MDEC menjelaskan ini didorong oleh kos perniagaan yang rendah, kumpulan bakat mahir, rangkaian studio Malaysia yang mantap dan sokongan kukuh daripada kerajaan.",
+          "link": "https://www.astroawani.com/gaya-hidup/industri-permainan-video-malaysia-dijangka-raih-peningkatan-pelaburan-dari-jepun-489552",
+          "publishedOn": "2024-09-27T10:41:42.000Z",
+          "wordCount": 79,
+          "title": "Industri permainan video Malaysia dijangka raih peningkatan pelaburan dari Jepun",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-09/61727441740_Russiaonlinegames.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-09/61727441740_Russiaonlinegames.jpg"
         },
         {
           "id": "489553",
@@ -24145,36 +24190,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-08/61723871460_medicalinstrument.jpg"
-        },
-        {
-          "id": "487650",
-          "author": null,
-          "description": "Mohd Azizee berkata, tindakan ke atas guru terlibat tidak dilakukan secara tergesa-tergesa dan dengan mudah, sebaliknya telah melalui SOP ketat.",
-          "link": "https://www.astroawani.com/berita-malaysia/kongres-tidak-setuju-guru-tegur-sistem-pendidikan-kembali-berkhidmat-487650",
-          "publishedOn": "2024-09-13T01:15:03.000Z",
-          "wordCount": 79,
-          "title": "Kongres tidak setuju guru tegur sistem pendidikan kembali berkhidmat",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-09/51726190949_Logo.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-09/51726190949_Logo.jpg"
-        },
-        {
-          "id": "487649",
-          "author": null,
-          "description": "Arsenal mengesahkan dia telah menandatangani kontrak baru semalam, dengan pengerusi bersama, Josh Kroenke memberitahu laman web kelab.",
-          "link": "https://www.astroawani.com/berita-sukan/epl-arteta-tandatangani-kontrak-jangka-masa-panjang-bersama-arsenal-487649",
-          "publishedOn": "2024-09-13T01:00:00.000Z",
-          "wordCount": 79,
-          "title": "EPL: Arteta tandatangani kontrak jangka masa panjang bersama Arsenal",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-09/81726188623_MikelArteta.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-09/81726188623_MikelArteta.jpg"
         }
       ]
     },
@@ -24183,6 +24198,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new set of security vulnerabilities has been disclosed in the OpenPrinting Common Unix Printing System (CUPS) on Linux systems that could permit remote command execution under certain conditions.\n\"A remote unauthenticated attacker can silently replace existing printers' (or install new ones) IPP urls with a malicious one, resulting in arbitrary command execution (on the computer) when a print",
+          "link": "https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html",
+          "publishedOn": "2024-09-27T12:33:00.000Z",
+          "wordCount": null,
+          "title": "Critical Linux CUPS Printing System Flaws Could Allow Remote Command Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfw61OcqJmIxtfVOx_GGXRPn4z5_xvpDi3FhDM6NcPa915RqdOGjpFno7B7DKNRT6QiwIcWgWZg72sidA6r0tuqAsVfnBeLRZ3g0VC8yikw0sGEQLovz21BG4fBqfAc_e9TCZP47MFLloAreLHMsMnfl6P8HYW6g6UhkgGGI19AiBRnv7DWkvw0wc5RrKt/s1600/linux-printer.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfw61OcqJmIxtfVOx_GGXRPn4z5_xvpDi3FhDM6NcPa915RqdOGjpFno7B7DKNRT6QiwIcWgWZg72sidA6r0tuqAsVfnBeLRZ3g0VC8yikw0sGEQLovz21BG4fBqfAc_e9TCZP47MFLloAreLHMsMnfl6P8HYW6g6UhkgGGI19AiBRnv7DWkvw0wc5RrKt/s1600/linux-printer.png"
+        },
         {
           "id": "https://thehackernews.com/2024/09/how-to-plan-and-prepare-for-penetration.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -26759,16 +26790,6 @@
           "wordCount": 4952,
           "title": "OPPO A3 Officially Launches In Malaysia",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/09/OPPO-A3-IP54.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=332196",
-          "author": "Ian Chee",
-          "description": "Apple traditionally doesn’t reveal the wired charging rates of iPhones, and whether it is fast or slow depends on who you ask. But it looks like there may be concrete figures for the iPhone 16 family, if a listing that has appeared online is to be believed. This listing comes from the Weibo account of […]\nThe post All iPhone 16 Models Support 45W Charging, According To Chinese Regulatory Listing appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2024/332196/all-iphone-16-support-45w-charging/",
-          "publishedOn": "2024-09-13T01:00:11.000Z",
-          "wordCount": 4809,
-          "title": "All iPhone 16 Models Support 45W Charging, According To Chinese Regulatory Listing",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/09/iPhone-16-Pro-Series-launch-msia-price-8.jpg"
         }
       ]
     },
@@ -27716,16 +27737,6 @@
           "wordCount": 5687,
           "title": "Hardware Supply Chain Threats Can Undermine Endpoint Infrastructure",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt71a16214dedc935b/66e3523b6a1a0409e719e0bc/Udate(1800)_NicoElNino_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/microsoft-vs-code-undermined-in-asian-spy-attack",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "A technique to abuse Microsoft's built-in source code editor has finally made it into the wild, thanks to China's Mustang Panda APT.",
-          "link": "https://www.darkreading.com/application-security/microsoft-vs-code-undermined-in-asian-spy-attack",
-          "publishedOn": "2024-09-13T01:00:00.000Z",
-          "wordCount": 5569,
-          "title": "Microsoft VS Code Undermined in Asian Spy Attack",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd58af1a3e7239d7c/66e0c78bc72450b6cd165fa1/VS_Code-Postmodern_Studio-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
