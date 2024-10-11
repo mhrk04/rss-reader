@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-10-11T17:38:31.617Z</updated>
+    <updated>2024-10-11T18:10:17.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub, Telegram Bots, and QR Codes Abused in New Wave of Phishing Attacks]]></title>
+        <id>https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html</id>
+        <link href="https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html"/>
+        <updated>2024-10-11T17:13:00.000Z</updated>
+        <summary type="html"><![CDATA[A new tax-themed malware campaign targeting insurance and finance sectors has been observed leveraging GitHub links in phishing email messages as a way to bypass security measures and deliver Remcos RAT, indicating that the method is gaining traction among threat actors.
+"In this campaign, legitimate repositories such as the open-source tax filing software, UsTaxes, HMRC, and InlandRevenue were]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berita tempatan pilihan sepanjang hari ini]]></title>
         <id>491305</id>
@@ -19796,17 +19807,6 @@ The virtual currency exchanges, Cryptex and PM2BTC, have been alleged to facilit
         <summary type="html"><![CDATA[Beliau bersama jemaah lain diperdengarkan bacaan khutbah Jumaat bertajuk Kenapa GISB buat begini kepada Kanak-Kanak?]]></summary>
         <author>
             <name>Terkini - Astro Awani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical NVIDIA Container Toolkit Vulnerability Could Grant Full Host Access to Attackers]]></title>
-        <id>https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html</id>
-        <link href="https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html"/>
-        <updated>2024-09-27T05:54:00.000Z</updated>
-        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the NVIDIA Container Toolkit that, if successfully exploited, could allow threat actors to break out of the confines of a container and gain full access to the underlying host.
-The vulnerability, tracked as CVE-2024-0132, carries a CVSS score of 9.0 out of a maximum of 10.0. It has been addressed in NVIDIA Container Toolkit version v1.16.2 and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

@@ -24574,6 +24574,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new tax-themed malware campaign targeting insurance and finance sectors has been observed leveraging GitHub links in phishing email messages as a way to bypass security measures and deliver Remcos RAT, indicating that the method is gaining traction among threat actors.\n\"In this campaign, legitimate repositories such as the open-source tax filing software, UsTaxes, HMRC, and InlandRevenue were",
+          "link": "https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html",
+          "publishedOn": "2024-10-11T17:13:00.000Z",
+          "wordCount": null,
+          "title": "GitHub, Telegram Bots, and QR Codes Abused in New Wave of Phishing Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqGAFhKOnkwzltNIgfGrMZZnuSNZOXOM6x1N5y6ZGHCCRyVF52VKe3tqOZT3luAmpoqTggBjmOkBUvgJ7mCpip44rDs_YiW9OvqLGfv-eVgDiOEiNtsCgjP-N8UJw12C48QoDSseF3-PZlp8iNniJXycG08s2UV8B6ke47FnEsMjCFhbe6dqVSzfLuiMtj/s1600/phishing.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqGAFhKOnkwzltNIgfGrMZZnuSNZOXOM6x1N5y6ZGHCCRyVF52VKe3tqOZT3luAmpoqTggBjmOkBUvgJ7mCpip44rDs_YiW9OvqLGfv-eVgDiOEiNtsCgjP-N8UJw12C48QoDSseF3-PZlp8iNniJXycG08s2UV8B6ke47FnEsMjCFhbe6dqVSzfLuiMtj/s1600/phishing.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/how-hybrid-password-attacks-work-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors constantly change tactics to bypass cybersecurity measures, developing innovative methods to steal user credentials. Hybrid password attacks merge multiple cracking techniques to amplify their effectiveness. These combined approaches exploit the strengths of various methods, accelerating the password-cracking process. \nIn this post, we’ll explore hybrid attacks — what they are",
@@ -25708,22 +25724,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3AxVqZ3fcZTYfpt4wh5RAR14s0G2CgFrUYwNF7tw-SnzDhYpALD0Hxqb4iEBkym4MzcEQXsqepqYDOwR4gE5WYMw6_5k3ulSuv9dhG1OzNKjpfxszEZKxycJVV6tk-WXP6g3UliINztYgNsKvPdbgrR1KBR-LTDT7kn5z4ILNvma4DHi9Yyty3zF1Jssh/s1600/hackers.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3AxVqZ3fcZTYfpt4wh5RAR14s0G2CgFrUYwNF7tw-SnzDhYpALD0Hxqb4iEBkym4MzcEQXsqepqYDOwR4gE5WYMw6_5k3ulSuv9dhG1OzNKjpfxszEZKxycJVV6tk-WXP6g3UliINztYgNsKvPdbgrR1KBR-LTDT7kn5z4ILNvma4DHi9Yyty3zF1Jssh/s1600/hackers.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical security flaw has been disclosed in the NVIDIA Container Toolkit that, if successfully exploited, could allow threat actors to break out of the confines of a container and gain full access to the underlying host.\nThe vulnerability, tracked as CVE-2024-0132, carries a CVSS score of 9.0 out of a maximum of 10.0. It has been addressed in NVIDIA Container Toolkit version v1.16.2 and",
-          "link": "https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html",
-          "publishedOn": "2024-09-27T05:54:00.000Z",
-          "wordCount": null,
-          "title": "Critical NVIDIA Container Toolkit Vulnerability Could Grant Full Host Access to Attackers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCr2s6fTSUPeq884_63zsPZ6NGwOSLCScpb28GXhzljaaBgDVPHa8KwWKpU3CnzD-dDG-0AzZNhjf1twSUyOeDp3DE1YF4IZdq7bIpfAz_xkdVEaFpGapVZA6aFG9XAsusQx55uhpCUSX5d7WK747ievLs1PAQdGsd924QNA5d0nmRWYXsmC2_BhKjVbQC/s1600/nvidia.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCr2s6fTSUPeq884_63zsPZ6NGwOSLCScpb28GXhzljaaBgDVPHa8KwWKpU3CnzD-dDG-0AzZNhjf1twSUyOeDp3DE1YF4IZdq7bIpfAz_xkdVEaFpGapVZA6aFG9XAsusQx55uhpCUSX5d7WK747ievLs1PAQdGsd924QNA5d0nmRWYXsmC2_BhKjVbQC/s1600/nvidia.png"
         }
       ]
     },
