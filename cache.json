@@ -12,6 +12,51 @@
       "siteUrl": "https://www.astroawani.com/",
       "articles": [
         {
+          "id": "494783",
+          "author": null,
+          "description": "Dua beradik warga India terlepas tali gantung apabila Mahkamah Rayuan membebaskan mereka daripada pertuduhan membunuh sepasang suami isteri.",
+          "link": "https://www.astroawani.com/berita-malaysia/dua-beradik-warga-india-bebas-pertuduhan-bunuh-suami-isteri-494783",
+          "publishedOn": "2024-11-04T14:58:45.000Z",
+          "wordCount": 79,
+          "title": "Dua beradik warga India bebas pertuduhan bunuh suami isteri",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-10/61729581448_courtgavelmahkam.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-10/61729581448_courtgavelmahkam.jpg"
+        },
+        {
+          "id": "494810",
+          "author": null,
+          "description": "Pihak polis akan rakam keterangan suspek dalam masa terdekat memandangkan lelaki itu sedang dapatkan rawatan kesihatan mental di sebuah hospital.",
+          "link": "https://www.astroawani.com/berita-malaysia/tular-hina-islam-polis-kenal-pasti-identiti-suspek-494810",
+          "publishedOn": "2024-11-04T14:51:18.000Z",
+          "wordCount": 79,
+          "title": "Tular hina Islam: Polis kenal pasti identiti suspek",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-11/71730732157_RusdiMohdIsa.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-11/71730732157_RusdiMohdIsa.jpg"
+        },
+        {
+          "id": "494807",
+          "author": null,
+          "description": "Untuk rekod, 50 penyenaraian IPO bakal menandakan angka terbesar bagi Malaysia, yang kali terakhir dicapai pada tahun 2005.",
+          "link": "https://www.astroawani.com/berita-bisnes/aktiviti-ipo-malaysia-dijangka-lebih-rancak-pada-2025-494807",
+          "publishedOn": "2024-11-04T14:43:36.000Z",
+          "wordCount": 79,
+          "title": "Aktiviti IPO Malaysia dijangka lebih rancak pada 2025",
+          "enclosure": {
+            "url": "https://img.astroawani.com/2024-09/81726743122_BursaMalaysia.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://img.astroawani.com/2024-09/81726743122_BursaMalaysia.jpg"
+        },
+        {
           "id": "494782",
           "author": null,
           "description": "Kerajaan Kelantan sudah bersedia untuk menghadapi segala kemungkinan bakal berlaku sepanjang musim Monsun Timur Laut (MTL) yang dijangka bermula esok hingga Mac 2025.",
@@ -24745,36 +24790,6 @@
             "length": "0"
           },
           "imageUrl": "https://img.astroawani.com/2024-10/81729088608_Mangsabanjir.jpg"
-        },
-        {
-          "id": "492695",
-          "author": null,
-          "description": "KWSP menyokong agenda reformasi untuk membina sebuah negara yang inklusif dan makmur yang mengutamakan kesejahteraan masyarakat.",
-          "link": "https://www.astroawani.com/berita-malaysia/belanjawan-2025-memperkukuh-kesejahteraan-persaraan-492695",
-          "publishedOn": "2024-10-21T03:00:00.000Z",
-          "wordCount": 79,
-          "title": "Belanjawan 2025 memperkukuh kesejahteraan persaraan",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-02/41707109587_KWSPLogo.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-02/41707109587_KWSPLogo.jpg"
-        },
-        {
-          "id": "492693",
-          "author": null,
-          "description": "Seorang lelaki warganegara asing berusia 25 tahun ditahan kerana melakukan khianat terhadap beberapa kenderaan yang diparkir berhampiran Terminal Bas Batu Pahat semalam.",
-          "link": "https://www.astroawani.com/berita-malaysia/lelaki-asing-ditahan-lakukan-khianat-kenderaan-berhampiran-terminal-bas-batu-pahat-492693",
-          "publishedOn": "2024-10-21T02:45:07.000Z",
-          "wordCount": 79,
-          "title": "Lelaki asing ditahan lakukan khianat kenderaan berhampiran Terminal Bas Batu Pahat",
-          "enclosure": {
-            "url": "https://img.astroawani.com/2024-10/71729478708_TBkhianat.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://img.astroawani.com/2024-10/71729478708_TBkhianat.jpg"
         }
       ]
     },
@@ -24783,6 +24798,22 @@
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed six security flaws in the Ollama artificial intelligence (AI) framework that could be exploited by a malicious actor to perform various actions, including denial-of-service, model poisoning, and model theft.\n\"Collectively, the vulnerabilities could allow an attacker to carry out a wide-range of malicious actions with a single HTTP request, including",
+          "link": "https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html",
+          "publishedOn": "2024-11-04T14:08:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaws in Ollama AI Framework Could Enable DoS, Model Theft, and Poisoning",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8FRy4wQ1bWDdcWY23WuBNE0AHcxnPTCeidTtUXfmDHmK62fFOm0PZdQiNxGlhxh5B3UqM_pSbG7BegSyTEoTT57gjjObtr8YjBZtw-4XMiypdlmlg7wnzTKUhPNqLdWti6KcshPDnV8i2rkF78JJTG1kFu7tZFoOTH_n3p76-nBw8Da1M0LlFUVr8eee2/s1600/ai.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8FRy4wQ1bWDdcWY23WuBNE0AHcxnPTCeidTtUXfmDHmK62fFOm0PZdQiNxGlhxh5B3UqM_pSbG7BegSyTEoTT57gjjObtr8YjBZtw-4XMiypdlmlg7wnzTKUhPNqLdWti6KcshPDnV8i2rkF78JJTG1kFu7tZFoOTH_n3p76-nBw8Da1M0LlFUVr8eee2/s1600/ai.png"
+        },
         {
           "id": "https://thehackernews.com/2024/11/german-police-disrupt-ddos-for-hire.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -27107,6 +27138,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/can-automatic-updates-critical-infrastructure-be-trusted",
+          "author": "John Paul Cunningham",
+          "description": "The true measure of our cybersecurity prowess lies in our capacity to endure.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/can-automatic-updates-critical-infrastructure-be-trusted",
+          "publishedOn": "2024-11-04T14:00:00.000Z",
+          "wordCount": 5654,
+          "title": "Can Automatic Updates for Critical Infrastructure Be Trusted?",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt37596f28eb32b4ca/6728e09ca41d7fedf62bf964/Update(1800)_Lasse_Kristensen_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/cloud-security/emeraldwhale-massive-git-breach-config-gaps",
           "author": "Kristina Beek, Associate Editor, Dark Reading",
