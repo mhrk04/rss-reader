@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-11-07T09:37:49.648Z</updated>
+    <updated>2024-11-07T10:08:28.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Most Common Malware Techniques in 2024]]></title>
+        <id>https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html</id>
+        <link href="https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html"/>
+        <updated>2024-11-07T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Tactics, techniques, and procedures (TTPs) form the foundation of modern defense strategies. Unlike indicators of compromise (IOCs), TTPs are more stable, making them a reliable way to identify specific cyber threats. Here are some of the most commonly used techniques, according to ANY.RUN's Q3 2024 report on malware trends, complete with real-world examples.
+Disabling of Windows Event Logging]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteelFox and Rhadamanthys Malware Use Copyright Scams, Driver Exploits to Target Victims]]></title>
+        <id>https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html</id>
+        <link href="https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html"/>
+        <updated>2024-11-07T09:42:00.000Z</updated>
+        <summary type="html"><![CDATA[An ongoing phishing campaign is employing copyright infringement-related themes to trick victims into downloading a newer version of the Rhadamanthys information stealer since July 2024.
+Cybersecurity firm Check Point is tracking the large-scale campaign under the name CopyRh(ight)adamantys. Targeted regions include the United States, Europe, East Asia, and South America.
+"The campaign]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anker Launches MagGo And Zolo Series Power Banks In Malaysia; Starts From RM169]]></title>
         <id>https://www.lowyat.net/?p=336990</id>
@@ -26,6 +49,17 @@ The post Anker Launches MagGo And Zolo Series Power Banks In Malaysia; Starts Fr
 The post Enjoy Lowest Price Guaranteed At The Shopee 11.11 Big Sale: The Ultimate Sale Even Of The Year! appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious PyPI Package ‘Fabrice’ Found Stealing AWS Keys from Thousands of Developers]]></title>
+        <id>https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html</id>
+        <link href="https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html"/>
+        <updated>2024-11-07T09:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) that has racked up thousands of downloads for over three years while stealthily exfiltrating developers' Amazon Web Services (AWS) credentials.
+The package in question is "fabrice," which typosquats a popular Python library known as "fabric," which is designed to execute shell commands remotely over]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
