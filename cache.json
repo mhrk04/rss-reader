@@ -24109,6 +24109,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/11/new-crontrap-malware-infects-windows-by.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have flagged a new malware campaign that infects Windows systems with a Linux virtual instance containing a backdoor capable of establishing remote access to the compromised hosts.\nThe \"intriguing\" campaign, codenamed CRON#TRAP, starts with a malicious Windows shortcut (LNK) file likely distributed in the form of a ZIP archive via a phishing email.\n\"What makes the CRON#",
+          "link": "https://thehackernews.com/2024/11/new-crontrap-malware-infects-windows-by.html",
+          "publishedOn": "2024-11-08T07:15:00.000Z",
+          "wordCount": null,
+          "title": "New CRON#TRAP Malware Infects Windows by Hiding in Linux VM to Evade Antivirus",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguM-veLj4HPyIAZYY4A0QOw5gipN7wus1g-5ipcZ34IJigyGxMk506FntZIOb2fVsNWTPX0lf4xRUiCF8gMU1SAdMq7RaX7WrQksHcojcggI_B-H83DtWyF6ErZkJzgSWjyHLneJc8uIT97_kf7acnOakfySmlmO4YzK5Wyl96tTI05i9fCsBfCBTqfXDT/s1600/windows-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguM-veLj4HPyIAZYY4A0QOw5gipN7wus1g-5ipcZ34IJigyGxMk506FntZIOb2fVsNWTPX0lf4xRUiCF8gMU1SAdMq7RaX7WrQksHcojcggI_B-H83DtWyF6ErZkJzgSWjyHLneJc8uIT97_kf7acnOakfySmlmO4YzK5Wyl96tTI05i9fCsBfCBTqfXDT/s1600/windows-malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/11/cisa-alerts-to-active-exploitation-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a now-patched critical security flaw impacting Palo Alto Networks Expedition to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2024-5910 (CVSS score: 9.3), concerns a case of missing authentication in the Expedition migration tool that",
