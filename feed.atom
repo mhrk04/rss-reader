@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-11-08T05:39:33.555Z</updated>
+    <updated>2024-11-08T06:11:32.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Alerts to Active Exploitation of Critical Palo Alto Networks Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/11/cisa-alerts-to-active-exploitation-of.html</id>
+        <link href="https://thehackernews.com/2024/11/cisa-alerts-to-active-exploitation-of.html"/>
+        <updated>2024-11-08T05:17:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a now-patched critical security flaw impacting Palo Alto Networks Expedition to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerability, tracked as CVE-2024-5910 (CVSS score: 9.3), concerns a case of missing authentication in the Expedition migration tool that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APAD Temporarily Bans Socket Use In Express Buses]]></title>
         <id>https://www.lowyat.net/?p=337035</id>
