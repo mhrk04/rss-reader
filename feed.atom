@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-11-11T17:37:23.244Z</updated>
+    <updated>2024-11-11T18:10:09.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flexible Structure of Zip Archives Exploited to Hide Malware Undetected]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/flexible-structure-zip-archives-exploited-hide-malware-undetected</id>
+        <link href="https://www.darkreading.com/threat-intelligence/flexible-structure-zip-archives-exploited-hide-malware-undetected"/>
+        <updated>2024-11-11T17:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Attackers abuse concatenation, a method that involves appending multiple zip archives into a single file, to deliver a variant of the SmokeLoader Trojan hidden in malicious attachments delivered via phishing]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook Asks Supreme Court to Dismiss Cambridge Analytica Lawsuit]]></title>
         <id>https://www.darkreading.com/application-security/facebook-supreme-court-dismiss-cambridge-analytica-lawsuit</id>
