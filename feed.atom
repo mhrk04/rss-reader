@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-11-12T15:08:02.402Z</updated>
+    <updated>2024-11-12T15:39:16.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Citrix 'Recording Manager' Zero-Day Bug Allows Unauthenticated RCE]]></title>
+        <id>https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce</id>
+        <link href="https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce"/>
+        <updated>2024-11-12T15:09:12.000Z</updated>
+        <summary type="html"><![CDATA[The unpatched security vulnerability, which doesn't have a CVE yet, is due to an exposed Microsoft Message Queuing (MSMQ) instance and the use of the insecure BinaryFormatter.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Power of the Purse: How to Ensure Security by Design]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/power-purse-ensure-security-by-design</id>
@@ -14,6 +24,28 @@
         <summary type="html"><![CDATA[CISA should make its recommended goals mandatory and perform audits to ensure compliance.]]></summary>
         <author>
             <name>Gary Barlet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Flaws in Citrix Virtual Apps Enable RCE Attacks via MSMQ Misconfiguration]]></title>
+        <id>https://thehackernews.com/2024/11/new-flaws-in-citrix-virtual-apps-enable.html</id>
+        <link href="https://thehackernews.com/2024/11/new-flaws-in-citrix-virtual-apps-enable.html"/>
+        <updated>2024-11-12T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed new security flaws impacting Citrix Virtual Apps and Desktop that could be exploited to achieve unauthenticated remote code execution (RCE)
+The issue, per findings from watchTowr, is rooted in the Session Recording component that allows system administrators to capture user activity, and record keyboard and mouse input, along with a video stream of the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Phishing Tool GoIssue Targets GitHub Developers in Bulk Email Campaigns]]></title>
+        <id>https://thehackernews.com/2024/11/new-phishing-tool-goissue-targets.html</id>
+        <link href="https://thehackernews.com/2024/11/new-phishing-tool-goissue-targets.html"/>
+        <updated>2024-11-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are calling attention to a new sophisticated tool called GoIssue that can be used to send phishing messages at scale targeting GitHub users.
+The program, first marketed by a threat actor named cyberdluffy (aka Cyber D' Luffy) on the Runion forum earlier this August, is advertised as a tool that allows criminal actors to extract email addresses from public GitHub]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>

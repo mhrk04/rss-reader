@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/11/new-flaws-in-citrix-virtual-apps-enable.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed new security flaws impacting Citrix Virtual Apps and Desktop that could be exploited to achieve unauthenticated remote code execution (RCE)\nThe issue, per findings from watchTowr, is rooted in the Session Recording component that allows system administrators to capture user activity, and record keyboard and mouse input, along with a video stream of the",
+          "link": "https://thehackernews.com/2024/11/new-flaws-in-citrix-virtual-apps-enable.html",
+          "publishedOn": "2024-11-12T14:01:00.000Z",
+          "wordCount": null,
+          "title": "New Flaws in Citrix Virtual Apps Enable RCE Attacks via MSMQ Misconfiguration",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq7SNebIkx5doAxhdvWr7bZeK75RnVZtpFrsPNyspZ6QJU7dLjYWwHHTxTRaWr9VzLbyVT1A9AhoDFDlcyzEfDdkDeHnf2Yv8sTVn5SDgW1wDSMrVvooob0lOKQ1HTLUXVk81nCEZZAKqbiT5-1F7v61N0SvOJcqiVj0te7ix88Mg5OW6ponjVX-PyJZMe/s1600/expoit.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq7SNebIkx5doAxhdvWr7bZeK75RnVZtpFrsPNyspZ6QJU7dLjYWwHHTxTRaWr9VzLbyVT1A9AhoDFDlcyzEfDdkDeHnf2Yv8sTVn5SDgW1wDSMrVvooob0lOKQ1HTLUXVk81nCEZZAKqbiT5-1F7v61N0SvOJcqiVj0te7ix88Mg5OW6ponjVX-PyJZMe/s1600/expoit.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/11/new-phishing-tool-goissue-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are calling attention to a new sophisticated tool called GoIssue that can be used to send phishing messages at scale targeting GitHub users.\nThe program, first marketed by a threat actor named cyberdluffy (aka Cyber D' Luffy) on the Runion forum earlier this August, is advertised as a tool that allows criminal actors to extract email addresses from public GitHub",
+          "link": "https://thehackernews.com/2024/11/new-phishing-tool-goissue-targets.html",
+          "publishedOn": "2024-11-12T14:00:00.000Z",
+          "wordCount": null,
+          "title": "New Phishing Tool GoIssue Targets GitHub Developers in Bulk Email Campaigns",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJIxgVlEBGE-FlStO-bFz1JV3E4V7h4cZAfs7UbS0KLXRPhdwFkO4TrBWw5Tr3lg_sDuP6OJWMfof8tSEY-Z7w613eTCL89XW8FrQE9qq04BK-MQfVf-O9jet9culEVzAau9riEHc6AeaeROdSsi9rlDwsLyGZq-LzvekDIWiGZTBhPL-JAmGN02LdDTA/s1600/phishing.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJIxgVlEBGE-FlStO-bFz1JV3E4V7h4cZAfs7UbS0KLXRPhdwFkO4TrBWw5Tr3lg_sDuP6OJWMfof8tSEY-Z7w613eTCL89XW8FrQE9qq04BK-MQfVf-O9jet9culEVzAau9riEHc6AeaeROdSsi9rlDwsLyGZq-LzvekDIWiGZTBhPL-JAmGN02LdDTA/s1600/phishing.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/11/north-korean-hackers-target-macos-using.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK aka North Korea) have been found embedding malware within Flutter applications, marking the first time this tactic has been adopted by the adversary to infect Apple macOS devices.\nJamf Threat Labs, which made the discovery based on artifacts uploaded to the VirusTotal platform earlier this month, said the Flutter-built",
@@ -21653,6 +21685,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The unpatched security vulnerability, which doesn't have a CVE yet, is due to an exposed Microsoft Message Queuing (MSMQ) instance and the use of the insecure BinaryFormatter.",
+          "link": "https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce",
+          "publishedOn": "2024-11-12T15:09:12.000Z",
+          "wordCount": 4555,
+          "title": "Citrix 'Recording Manager' Zero-Day Bug Allows Unauthenticated RCE",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt43c820f749b62939/66a8efffeb73913797469d0b/thief-Brian_Jackson-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/power-purse-ensure-security-by-design",
           "author": "Gary Barlet",
