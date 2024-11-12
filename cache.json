@@ -20364,22 +20364,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV7grp2X2cc5GcnNyrkqwbYKXx6MZ03zR6UNbSRe046_KJj5KzDyYdd5k7j4f84NTmtZ5DZU6xvl1W7CdCvY4AvDKPFEtBfNIXjFcjRfwFl31PjRuhYBIKvk5gaKI-No3EYHpsjHe__pic4_h7DwlhiAmf1anPhWWelFTU1lX-K_AOj8XesvKFiB1HqneV/s1600/white-house.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV7grp2X2cc5GcnNyrkqwbYKXx6MZ03zR6UNbSRe046_KJj5KzDyYdd5k7j4f84NTmtZ5DZU6xvl1W7CdCvY4AvDKPFEtBfNIXjFcjRfwFl31PjRuhYBIKvk5gaKI-No3EYHpsjHe__pic4_h7DwlhiAmf1anPhWWelFTU1lX-K_AOj8XesvKFiB1HqneV/s1600/white-house.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/10/new-research-reveals-spectre.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "More than six years after the Spectre security flaw impacting modern CPU processors came to light, new research has found that the latest AMD and Intel processors are still susceptible to speculative execution attacks.\nThe attack, disclosed by ETH Zürich researchers Johannes Wikner and Kaveh Razavi, aims to undermine the Indirect Branch Predictor Barrier (IBPB) on x86 chips, a crucial mitigation",
-          "link": "https://thehackernews.com/2024/10/new-research-reveals-spectre.html",
-          "publishedOn": "2024-10-29T05:53:00.000Z",
-          "wordCount": null,
-          "title": "New Research Reveals Spectre Vulnerability Persists in Latest AMD and Intel Processors",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1JYYf2L9g5X82pcCJkw_SWECoTaY7Z0OXzY7VUpKrIgb1Ha_YFQmqicyZL08S41unyr7CLWWUVlmMYVGkTff6d4Ke9sC7cnsicVD_XSZaP_6Xkr5ymVKyoJ4m5rbeFJmjQOGd3HSq__qkoILAvpTkyQvcwufWizvCrBLyNbjuvckFx-gYlLRKy14GP0gL/s1600/intel.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1JYYf2L9g5X82pcCJkw_SWECoTaY7Z0OXzY7VUpKrIgb1Ha_YFQmqicyZL08S41unyr7CLWWUVlmMYVGkTff6d4Ke9sC7cnsicVD_XSZaP_6Xkr5ymVKyoJ4m5rbeFJmjQOGd3HSq__qkoILAvpTkyQvcwufWizvCrBLyNbjuvckFx-gYlLRKy14GP0gL/s1600/intel.png"
         }
       ]
     },
@@ -21637,16 +21621,6 @@
           "wordCount": 4843,
           "title": "Nokia 125 4G, 108 4G Quietly Arrive In Malaysia; Starts From RM284.90",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/10/Nokia-125-5G-1024x768.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=336253",
-          "author": "John Law",
-          "description": "The Indonesian government is blocking the sale of Apple’s latest iPhone 16 models, citing a failure by the fruit company to meet local investment requirements. The country claims that the company has only invested 1.5 trillion rupiah or US$95 million (~RM415 million), 200 billion rupiah short its required 1.7 trillion rupiah or US$107 million (~RM467 […]\nThe post Indonesia Blocks Sale Of Apple iPhone 16 Series appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2024/336253/indonesia-blocks-sale-of-apple-iphone-16-series/",
-          "publishedOn": "2024-10-29T05:51:06.000Z",
-          "wordCount": 4661,
-          "title": "Indonesia Blocks Sale Of Apple iPhone 16 Series",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/10/Apple-iPhone-16-Pro-Max-review_04.jpg"
         }
       ]
     },
@@ -21655,6 +21629,26 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud-security/goissue-cybercrime-tool-github-developers-en-masse",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "Marketed on a cybercriminal forum, the $700 tool harvests email addresses from public GitHub profiles, priming cyberattackers for further credential theft, malware delivery, OAuth subversion, supply chain attacks, and other corporate breaches.",
+          "link": "https://www.darkreading.com/cloud-security/goissue-cybercrime-tool-github-developers-en-masse",
+          "publishedOn": "2024-11-12T17:44:24.000Z",
+          "wordCount": 5477,
+          "title": "'GoIssue' Cybercrime Tool Targets GitHub Developers En Masse",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaec841f391fbbf4b/6733933e7045c698901b2ea8/Github_(1800)_Piotr_Swat_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud-security/citrix-patches-zero-day-recording-manager-bugs",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "There is some disagreement over whether the remote code execution (RCE) security flaws allow for unauthenticated exploitation or not. Citrix says no, but researchers say the company is downplaying a \"good old unauthenticated RCE.\"",
+          "link": "https://www.darkreading.com/cloud-security/citrix-patches-zero-day-recording-manager-bugs",
+          "publishedOn": "2024-11-12T16:31:25.000Z",
+          "wordCount": 5883,
+          "title": "Citrix Issues Patches for Zero-Day Recording Manager Bugs",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6453d57e1ee6274/673382eb8c23e46d03adac32/citrix_JHVEPhoto_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce",
           "author": "Tara Seals, Managing Editor, News, Dark Reading",
