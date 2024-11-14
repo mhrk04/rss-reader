@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/11/russian-hackers-exploit-new-ntlm-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly patched security flaw impacting Windows NT LAN Manager (NTLM) was exploited as a zero-day by a suspected Russia-linked actor as part of cyber attacks targeting Ukraine.\nThe vulnerability in question, CVE-2024-43451 (CVSS score: 6.5), refers to an NTLM hash disclosure spoofing vulnerability that could be exploited to steal a user's NTLMv2 hash. It was patched by Microsoft earlier this",
+          "link": "https://thehackernews.com/2024/11/russian-hackers-exploit-new-ntlm-flaw.html",
+          "publishedOn": "2024-11-14T05:43:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hackers Exploit New NTLM Flaw to Deploy RAT Malware via Phishing Emails",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaUtbznCX7hoxo_zg_8FmVf-bmHWLFv7k8xRL06GbF-nDsWc-3hW2W8DSrQ_2vuMOqIpoqRJxcMaxYQvG-G16Tt1wFVP-gcCWfmYKlxCihB14c-wJoWKKKv2hs8LK8lEQXXcvoZx0DcUFCwXmY6JNdD_w3x5ziWb-dzDnGpkUR_ytoaRJQDH4-x72JG4EE/s1600/attack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaUtbznCX7hoxo_zg_8FmVf-bmHWLFv7k8xRL06GbF-nDsWc-3hW2W8DSrQ_2vuMOqIpoqRJxcMaxYQvG-G16Tt1wFVP-gcCWfmYKlxCihB14c-wJoWKKKv2hs8LK8lEQXXcvoZx0DcUFCwXmY6JNdD_w3x5ziWb-dzDnGpkUR_ytoaRJQDH4-x72JG4EE/s1600/attack.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/11/hamas-affiliated-wirte-employs-samecoin.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A threat actor affiliated with Hamas has expanded its malicious cyber operations beyond espionage to carry out disruptive attacks that exclusively target Israeli entities.\nThe activity, linked to a group called WIRTE, has also targeted the Palestinian Authority, Jordan, Iraq, Saudi Arabia, and Egypt, Check Point said in an analysis.\n\"The [Israel-Hamas] conflict has not disrupted the WIRTE's",
@@ -20324,6 +20340,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=337360",
+          "author": "Ian Chee",
+          "description": "Following the launch of the BYD M6 last month, the Chinese EV brands has another electric car to launch today. It’s the Sealion 7, which should be no surprise as the company already announced the the launch last week. But today, the company says that Malaysia is the first country in the region to get […]\nThe post BYD Sealion 7 Now Official In Malaysia; Starts From RM183,800 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/337360/byd-sealion7-official-malaysia-rm183800/",
+          "publishedOn": "2024-11-14T06:30:24.000Z",
+          "wordCount": 5389,
+          "title": "BYD Sealion 7 Now Official In Malaysia; Starts From RM183,800",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/11/BYD-Sealion-7.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=337358",
           "author": "Heirul Kamel",
