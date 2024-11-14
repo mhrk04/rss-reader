@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/11/new-rustyattr-malware-targets-macos.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been found leveraging a new technique that abuses extended attributes for macOS files to smuggle a new malware called RustyAttr.\nThe Singaporean cybersecurity company has attributed the novel activity with moderate confidence to the infamous North Korea-linked Lazarus Group, citing infrastructure and tactical overlaps observed in connection with prior campaigns, including",
+          "link": "https://thehackernews.com/2024/11/new-rustyattr-malware-targets-macos.html",
+          "publishedOn": "2024-11-14T09:51:00.000Z",
+          "wordCount": null,
+          "title": "New RustyAttr Malware Targets macOS Through Extended Attribute Abuse",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSzovqeCpzQzg69WpLFg99KDuObtJBKeKzb6MHyL4evk3nZ-IGa75lDDzJm3hoz-xt32TYzGaMit50EFCHsJZzyUzaOaZGoX2cOotUpb9wj3bjX157vFkg5WJLhb0VoTEgLVntGCpUaX6_RF8DvUQo8_PSKMwVlfKB2QOjAKQR7RyNiSAxKK94kWWTI0vZ/s1600/gib.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSzovqeCpzQzg69WpLFg99KDuObtJBKeKzb6MHyL4evk3nZ-IGa75lDDzJm3hoz-xt32TYzGaMit50EFCHsJZzyUzaOaZGoX2cOotUpb9wj3bjX157vFkg5WJLhb0VoTEgLVntGCpUaX6_RF8DvUQo8_PSKMwVlfKB2QOjAKQR7RyNiSAxKK94kWWTI0vZ/s1600/gib.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/11/russian-hackers-exploit-new-ntlm-flaw.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A newly patched security flaw impacting Windows NT LAN Manager (NTLM) was exploited as a zero-day by a suspected Russia-linked actor as part of cyber attacks targeting Ukraine.\nThe vulnerability in question, CVE-2024-43451 (CVSS score: 6.5), refers to an NTLM hash disclosure spoofing vulnerability that could be exploited to steal a user's NTLMv2 hash. It was patched by Microsoft earlier this",
@@ -20340,6 +20356,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=337389",
+          "author": "Ian Chee",
+          "description": "Earlier in the week, we saw the Google Gemini standalone app, which gave direct access to Gemini Live, making an appearance in the Apple App Store in the Philippines. It didn’t take long before the app was also made available in Malaysia, as we were able to download and make use of the app as […]\nThe post Google Gemini For iOS Now Available In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/337389/google-gemini-ios-available-in-malaysia/",
+          "publishedOn": "2024-11-14T09:40:31.000Z",
+          "wordCount": 4727,
+          "title": "Google Gemini For iOS Now Available In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/11/Google-Gemini-iOS-Malaysia.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=337390",
           "author": "Heirul Kamel",
