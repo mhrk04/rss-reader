@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/11/warning-deepdata-malware-exploiting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A threat actor known as BrazenBamboo has exploited an unresolved security flaw in Fortinet's FortiClient for Windows to extract VPN credentials as part of a modular framework called DEEPDATA.\nVolexity, which disclosed the findings Friday, said it identified the zero-day exploitation of the credential disclosure vulnerability in July 2024, describing BrazenBamboo as the developer behind DEEPDATA,",
+          "link": "https://thehackernews.com/2024/11/warning-deepdata-malware-exploiting.html",
+          "publishedOn": "2024-11-16T06:25:00.000Z",
+          "wordCount": null,
+          "title": "Warning: DEEPDATA Malware Exploiting Unpatched Fortinet Flaw to Steal VPN Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg4oSUXW9XivWsSuq2nS5Vy0eqAXRrYFFk4K8l4LENM-mnTP539s4abVsHFiXTPxqgE733f6Zwv4zfnNRPJmnMSeeNiury-45AeAFT9BVRJA54z1EkKHm-ycqOGtjs6-5i6kVnt15ElNhE_Degdrbwzv1mnt6a-ICEwlTBuAEZxVhA1jKv58hONtiYtvJF/s1600/lock.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg4oSUXW9XivWsSuq2nS5Vy0eqAXRrYFFk4K8l4LENM-mnTP539s4abVsHFiXTPxqgE733f6Zwv4zfnNRPJmnMSeeNiury-45AeAFT9BVRJA54z1EkKHm-ycqOGtjs6-5i6kVnt15ElNhE_Degdrbwzv1mnt6a-ICEwlTBuAEZxVhA1jKv58hONtiYtvJF/s1600/lock.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/11/researchers-warn-of-privilege.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed two security flaws in Google's Vertex machine learning (ML) platform that, if successfully exploited, could allow malicious actors to escalate privileges and exfiltrate models from the cloud.\n\"By exploiting custom job permissions, we were able to escalate our privileges and gain unauthorized access to all data services in the project,\" Palo Alto Networks",
@@ -22608,16 +22624,6 @@
           "wordCount": 5421,
           "title": "Chinese APTs Cash In on Years of Edge Device Attacks",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt52c248b1aa1a896d/6725196e477840011c08de48/Pacific_Rim-Cinematic-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/main-api-security-risks-manage",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "Misconfigurations, weak authentication and logic flaws are among the main drivers of API security risks at many organizations.",
-          "link": "https://www.darkreading.com/application-security/main-api-security-risks-manage",
-          "publishedOn": "2024-11-01T19:19:17.000Z",
-          "wordCount": 6284,
-          "title": "4 Main API Security Risks Organizations Need to Address",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt556bb85fc0185f9f/672408bc3d7a4f4b033b6058/api_Who_is_Danny_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
