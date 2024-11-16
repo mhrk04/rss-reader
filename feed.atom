@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-11-16T08:42:06.051Z</updated>
+    <updated>2024-11-16T09:07:36.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PAN-OS Firewall Vulnerability Under Active Exploitation – IoCs Released]]></title>
+        <id>https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html</id>
+        <link href="https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html"/>
+        <updated>2024-11-16T08:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Palo Alto Networks has released new indicators of compromise (IoCs) a day after the network security vendor confirmed that a new zero-day vulnerability impacting its PAN-OS firewall management interface has been actively exploited in the wild.
+To that end, the company said it observed malicious activity originating from below IP addresses and targeting PAN-OS management web interface IP]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warning: DEEPDATA Malware Exploiting Unpatched Fortinet Flaw to Steal VPN Credentials]]></title>
         <id>https://thehackernews.com/2024/11/warning-deepdata-malware-exploiting.html</id>
