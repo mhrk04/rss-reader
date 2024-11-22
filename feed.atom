@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-11-22T06:46:28.062Z</updated>
+    <updated>2024-11-22T07:08:39.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -15,6 +15,17 @@
 The post OpenAI May Be Considering Developing Its Own Browser appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries]]></title>
+        <id>https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html</id>
+        <link href="https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html"/>
+        <updated>2024-11-22T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered two malicious packages uploaded to the Python Package Index (PyPI) repository that impersonated popular artificial intelligence (AI) models like OpenAI ChatGPT and Anthropic Claude to deliver an information stealer called JarkaStealer.
+The packages, named gptplus and claudeai-eng, were uploaded by a user named "Xeroline" in November 2023, attracting]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
