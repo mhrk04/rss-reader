@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched critical security flaw impacting Array Networks AG and vxAG secure access gateways to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\nThe vulnerability, tracked as CVE-2023-28461 (CVSS score: 9.8), concerns a case of missing authentication that",
+          "link": "https://thehackernews.com/2024/11/cisa-urges-agencies-to-patch-critical.html",
+          "publishedOn": "2024-11-26T05:03:00.000Z",
+          "wordCount": null,
+          "title": "CISA Urges Agencies to Patch Critical \"Array Networks\" Flaw Amid Active Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGw9PLkP03h0CHyfIxCupgh2wgjnl8hlM7C3oTSs6sdiricozqr2Brcqhg_kFVNBuoqMOCo5sQN6qrdmjFOGEjozX1nnlIf-hYR_0RKk0HaSGEqlmhFqlc-9F2dMGchxCZxb2iZwo3uVhp0g5qwQQFXzookFNYkQVPxCPqP5OBTffr8vNG3mdKhF8vP_a/s1600/array-networks.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGw9PLkP03h0CHyfIxCupgh2wgjnl8hlM7C3oTSs6sdiricozqr2Brcqhg_kFVNBuoqMOCo5sQN6qrdmjFOGEjozX1nnlIf-hYR_0RKk0HaSGEqlmhFqlc-9F2dMGchxCZxb2iZwo3uVhp0g5qwQQFXzookFNYkQVPxCPqP5OBTffr8vNG3mdKhF8vP_a/s1600/array-networks.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/11/googles-new-restore-credentials-tool.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has introduced a new feature called Restore Credentials to help users restore their account access to third-party apps securely after migrating to a new Android device.\nPart of Android's Credential Manager API, the feature aims to reduce the hassle of re-entering the login credentials for every app during the handset replacement.\n\"With Restore Credentials, apps can seamlessly onboard",
@@ -22808,26 +22824,6 @@
           "wordCount": 4996,
           "title": "Revamped Remcos RAT Deployed Against Microsoft Windows Users",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1eea6bf0fd13768/67325b70a93ac6b3888987d2/hand_imageBROKER.com_GmbH_&_Co._KG_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/what-listening-to-my-father-taught-me-about-cybersecurity",
-          "author": "Joshua Goldfarb",
-          "description": "It's polite to listen to advice that people are willing to share, but not all of it will be useful for you. Here's how to separate the wheat from the chaff.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/what-listening-to-my-father-taught-me-about-cybersecurity",
-          "publishedOn": "2024-11-11T18:00:00.000Z",
-          "wordCount": 5316,
-          "title": "What Listening to My Father Taught Me About Cybersecurity",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ad70c5e1eb1451c/672bef40736ca6b3099ade7b/fatheradvice-Westend61_GmbH-alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/flexible-structure-zip-archives-exploited-hide-malware-undetected",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "Attackers abuse concatenation, a method that involves appending multiple zip archives into a single file, to deliver a variant of the SmokeLoader Trojan hidden in malicious attachments delivered via phishing",
-          "link": "https://www.darkreading.com/threat-intelligence/flexible-structure-zip-archives-exploited-hide-malware-undetected",
-          "publishedOn": "2024-11-11T17:54:49.000Z",
-          "wordCount": 5576,
-          "title": "Flexible Structure of Zip Archives Exploited to Hide Malware Undetected",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca8e9b9227df8130/6731f9f08689d85c377b9ca1/phishingthreat_Rawpixel.com_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
