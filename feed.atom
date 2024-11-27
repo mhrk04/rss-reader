@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-11-27T12:16:07.717Z</updated>
+    <updated>2024-11-27T13:02:50.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Discover "Bootkitty" – First UEFI Bootkit Targeting Linux Kernels]]></title>
+        <id>https://thehackernews.com/2024/11/researchers-discover-bootkitty-first.html</id>
+        <link href="https://thehackernews.com/2024/11/researchers-discover-bootkitty-first.html"/>
+        <updated>2024-11-27T11:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on what has been described as the first Unified Extensible Firmware Interface (UEFI) bootkit designed for Linux systems.
+Dubbed Bootkitty by its creators who go by the name BlackCat, the bootkit is assessed to be a proof-of-concept (PoC) and there is no evidence that it has been put to use in real-world attacks. Also tracked as IranuKit, it was uploaded]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest Multi-Stage Attack Scenarios with Real-World Examples]]></title>
+        <id>https://thehackernews.com/2024/11/latest-multi-stage-attack-scenarios.html</id>
+        <link href="https://thehackernews.com/2024/11/latest-multi-stage-attack-scenarios.html"/>
+        <updated>2024-11-27T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Multi-stage cyber attacks, characterized by their complex execution chains, are designed to avoid detection and trick victims into a false sense of security. Knowing how they operate is the first step to building a solid defense strategy against them. Let's examine real-world examples of some of the most common multi-stage attack scenarios that are active right now.
+URLs and Other Embedded]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APT-C-60 Exploits WPS Office Vulnerability to Deploy SpyGlace Backdoor]]></title>
         <id>https://thehackernews.com/2024/11/apt-c-60-exploits-wps-office.html</id>
