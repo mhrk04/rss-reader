@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/11/xmlrpc-npm-library-turns-malicious.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a software supply chain attack that has remained active for over a year on the npm package registry by starting off as an innocuous library and later adding malicious code to steal sensitive data and mine cryptocurrency on infected systems.\nThe package, named @0xengine/xmlrpc, was originally published on October 2, 2023 as a JavaScript-based XML-RPC",
+          "link": "https://thehackernews.com/2024/11/xmlrpc-npm-library-turns-malicious.html",
+          "publishedOn": "2024-11-28T10:48:00.000Z",
+          "wordCount": null,
+          "title": "XMLRPC npm Library Turns Malicious, Steals Data, Deploys Crypto Miner",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgazBLQRVDnI_M15Ojsym2zwzxW84l7OUzCX2Xxs1un10J_YMIq7ei7etcSZ9cyu9Mle78BUSf0k9bmTHZo6QOrEmZA9UOUeGvWHyvourzTZ-4c4wNxmesiszozQP5782Tcwl5SHRzwxtyZ5-zduSlUMzcBOiwe47sM8jHf7biLwUV9V8SIQUV_DCzv0_vs/s1600/pipy.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgazBLQRVDnI_M15Ojsym2zwzxW84l7OUzCX2Xxs1un10J_YMIq7ei7etcSZ9cyu9Mle78BUSf0k9bmTHZo6QOrEmZA9UOUeGvWHyvourzTZ-4c4wNxmesiszozQP5782Tcwl5SHRzwxtyZ5-zduSlUMzcBOiwe47sM8jHf7biLwUV9V8SIQUV_DCzv0_vs/s1600/pipy.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/11/cybercriminals-exploit-popular-game.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A popular open-source game engine called Godot Engine is being misused as part of a new GodLoader malware campaign, infecting over 17,000 systems since at least June 2024.\n\"Cybercriminals have been taking advantage of Godot Engine to execute crafted GDScript code which triggers malicious commands and delivers malware,\" Check Point said in a new analysis published Wednesday. \"The technique",
@@ -22870,16 +22886,6 @@
           "wordCount": 4881,
           "title": "Cloud Ransomware Flexes Fresh Scripts Against Web Apps",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte8505221704a8b7f/673630f33c9050590cb5aad8/cloud_ransomware_meme_meme_generator.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/opentext-cybersecurity-unveils-2024-s-nastiest-malware",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/opentext-cybersecurity-unveils-2024-s-nastiest-malware",
-          "publishedOn": "2024-11-13T22:46:14.000Z",
-          "wordCount": 5370,
-          "title": "OpenText Cybersecurity Unveils 2024's Nastiest Malware",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
