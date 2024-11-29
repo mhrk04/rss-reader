@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-11-29T10:09:19.137Z</updated>
+    <updated>2024-11-29T10:44:03.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phishing-as-a-Service "Rockstar 2FA" Targets Microsoft 365 Users with AiTM Attacks]]></title>
+        <id>https://thehackernews.com/2024/11/phishing-as-service-rockstar-2fa.html</id>
+        <link href="https://thehackernews.com/2024/11/phishing-as-service-rockstar-2fa.html"/>
+        <updated>2024-11-29T10:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning about malicious email campaigns leveraging a phishing-as-a-service (PhaaS) toolkit called Rockstar 2FA with an aim to steal Microsoft 365 account credentials.
+"This campaign employs an AitM [adversary-in-the-middle] attack, allowing attackers to intercept user credentials and session cookies, which means that even users with multi-factor authentication (MFA)]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fixes AI, Cloud, and ERP Security Flaws; One Exploited in Active Attacks]]></title>
+        <id>https://thehackernews.com/2024/11/microsoft-fixes-ai-cloud-and-erp.html</id>
+        <link href="https://thehackernews.com/2024/11/microsoft-fixes-ai-cloud-and-erp.html"/>
+        <updated>2024-11-29T09:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has addressed four security flaws impacting its artificial intelligence (AI), cloud, enterprise resource planning, and Partner Center offerings, including one that it said has been exploited in the wild.
+The vulnerability that has been tagged with an "Exploitation Detected" assessment is CVE-2024-49035 (CVSS score: 8.7), a privilege escalation flaw in partner.microsoft[.]com.
+"An]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Sets Its Sights On “Switch Piracy” Subreddit]]></title>
         <id>https://www.lowyat.net/?p=338473</id>
