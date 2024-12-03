@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-03T10:45:42.374Z</updated>
+    <updated>2024-12-03T11:07:14.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NachoVPN Tool Exploits Flaws in Popular VPN Clients for System Compromise]]></title>
+        <id>https://thehackernews.com/2024/12/nachovpn-tool-exploits-flaws-in-popular.html</id>
+        <link href="https://thehackernews.com/2024/12/nachovpn-tool-exploits-flaws-in-popular.html"/>
+        <updated>2024-12-03T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a set of flaws impacting Palo Alto Networks and SonicWall virtual private network (VPN) clients that could be potentially exploited to gain remote code execution on Windows and macOS systems.
+"By targeting the implicit trust VPN clients place in servers, attackers can manipulate client behaviours, execute arbitrary commands, and gain high levels of access]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft Attacks]]></title>
         <id>https://thehackernews.com/2024/12/north-korean-kimsuky-hackers-use.html</id>
