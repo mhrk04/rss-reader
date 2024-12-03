@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-03T13:44:03.793Z</updated>
+    <updated>2024-12-03T14:08:20.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Note From the Editor-in-Chief]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/note-from-editor-in-chief</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/note-from-editor-in-chief"/>
+        <updated>2024-12-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A change in ownership and what it means for our readers.]]></summary>
+        <author>
+            <name>Kelly Jackson Higgins, Editor-in-Chief, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['White FAANG' Data Export Attack: A Gold Mine for PII Threats]]></title>
         <id>https://www.darkreading.com/cyber-risk/white-faang-data-export-attack-pii-threats</id>
@@ -25,6 +35,17 @@
 The post Razer Kraken V4 X Lightning Review: These Are Surprisingly Good appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Warns of Exploitation of Decade-Old ASA WebVPN Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/12/cisco-warns-of-exploitation-of-decade.html</id>
+        <link href="https://thehackernews.com/2024/12/cisco-warns-of-exploitation-of-decade.html"/>
+        <updated>2024-12-03T12:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco on Monday updated an advisory to warn customers of active exploitation of a decade-old security flaw impacting its Adaptive Security Appliance (ASA).
+The vulnerability, tracked as CVE-2014-2120 (CVSS score: 4.3), concerns a case of insufficient input validation in ASA's WebVPN login page that could allow an unauthenticated, remote attacker to conduct a cross-site scripting (XSS) attack]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>

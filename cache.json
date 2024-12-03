@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/cisco-warns-of-exploitation-of-decade.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco on Monday updated an advisory to warn customers of active exploitation of a decade-old security flaw impacting its Adaptive Security Appliance (ASA).\nThe vulnerability, tracked as CVE-2014-2120 (CVSS score: 4.3), concerns a case of insufficient input validation in ASA's WebVPN login page that could allow an unauthenticated, remote attacker to conduct a cross-site scripting (XSS) attack",
+          "link": "https://thehackernews.com/2024/12/cisco-warns-of-exploitation-of-decade.html",
+          "publishedOn": "2024-12-03T12:51:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Warns of Exploitation of Decade-Old ASA WebVPN Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd4NqjzePuCXa-QmDbyGkW4PyFXFEO-6JnB_ZV1trYN5AX7hiGm2gw4ONBhxUKjS23nKN3-Mb6l0Lvx_hCEaQs28C-4eleKo2uW2JsrI25eoWBhFmbxdQXvaJ6EEFNmcWCJTtu6YFHkGFxSivfKX6vDIFQ0KhdAeVeRU5ImxlYLMAUeSXFO6DrH5Jv2PLd/s1600/cisco.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd4NqjzePuCXa-QmDbyGkW4PyFXFEO-6JnB_ZV1trYN5AX7hiGm2gw4ONBhxUKjS23nKN3-Mb6l0Lvx_hCEaQs28C-4eleKo2uW2JsrI25eoWBhFmbxdQXvaJ6EEFNmcWCJTtu6YFHkGFxSivfKX6vDIFQ0KhdAeVeRU5ImxlYLMAUeSXFO6DrH5Jv2PLd/s1600/cisco.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/nachovpn-tool-exploits-flaws-in-popular.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed a set of flaws impacting Palo Alto Networks and SonicWall virtual private network (VPN) clients that could be potentially exploited to gain remote code execution on Windows and macOS systems.\n\"By targeting the implicit trust VPN clients place in servers, attackers can manipulate client behaviours, execute arbitrary commands, and gain high levels of access",
@@ -21863,6 +21879,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/note-from-editor-in-chief",
+          "author": "Kelly Jackson Higgins, Editor-in-Chief, Dark Reading",
+          "description": "A change in ownership and what it means for our readers.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/note-from-editor-in-chief",
+          "publishedOn": "2024-12-03T14:00:00.000Z",
+          "wordCount": 4123,
+          "title": "Note From the Editor-in-Chief",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a526ca01cdd1b57/674e22807b74332e0c257f9e/iTT_accelerating-growth_2000_copy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/white-faang-data-export-attack-pii-threats",
           "author": "Nate Nelson, Contributing Writer",
