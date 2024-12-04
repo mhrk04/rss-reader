@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-04T05:09:01.935Z</updated>
+    <updated>2024-12-04T05:41:05.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veeam Issues Patch for Critical RCE Vulnerability in Service Provider Console]]></title>
+        <id>https://thehackernews.com/2024/12/veeam-issues-patch-for-critical-rce.html</id>
+        <link href="https://thehackernews.com/2024/12/veeam-issues-patch-for-critical-rce.html"/>
+        <updated>2024-12-04T05:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Veeam has released security updates to address a critical flaw impacting Service Provider Console (VSPC) that could pave the way for remote code execution on susceptible instances.
+The vulnerability, tracked as CVE-2024-42448, carries a CVSS score of 9.9 out of a maximum of 10.0. The company noted that the bug was identified during internal testing.
+"From the VSPC management agent machine, under]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical SailPoint IdentityIQ Vulnerability Exposes Files to Unauthorized Access]]></title>
+        <id>https://thehackernews.com/2024/12/critical-sailpoint-identityiq.html</id>
+        <link href="https://thehackernews.com/2024/12/critical-sailpoint-identityiq.html"/>
+        <updated>2024-12-04T05:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security vulnerability has been disclosed in SailPoint's IdentityIQ identity and access management (IAM) software that allows unauthorized access to content stored within the application directory.
+The flaw, tracked as CVE-2024-10905, has a CVSS score of 10.0, indicating maximum severity. It affects IdentityIQ versions 8.2. 8.3, 8.4, and other previous versions.
+IdentityIQ "allows]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Use Corrupted ZIPs and Office Docs to Evade Antivirus and Email Defenses]]></title>
+        <id>https://thehackernews.com/2024/12/hackers-use-corrupted-zips-and-office.html</id>
+        <link href="https://thehackernews.com/2024/12/hackers-use-corrupted-zips-and-office.html"/>
+        <updated>2024-12-04T04:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have called attention to a novel phishing campaign that leverages corrupted Microsoft Office documents and ZIP archives as a way to bypass email defenses.
+"The ongoing attack evades #antivirus software, prevents uploads to sandboxes, and bypasses Outlook's spam filters, allowing the malicious emails to reach your inbox," ANY.RUN said in a series of posts on X.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grab Extends Hours Of GrabCar Saver Feature]]></title>
         <id>https://www.lowyat.net/?p=338675</id>
