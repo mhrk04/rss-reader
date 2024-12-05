@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/this-3000-android-trojan-targeting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As many as 77 banking institutions, cryptocurrency exchanges, and national organizations have become the target of a newly discovered Android remote access trojan (RAT) called DroidBot.\n\"DroidBot is a modern RAT that combines hidden VNC and overlay attack techniques with spyware-like capabilities, such as keylogging and user interface monitoring,\" Cleafy researchers Simone Mattia, Alessandro",
+          "link": "https://thehackernews.com/2024/12/this-3000-android-trojan-targeting.html",
+          "publishedOn": "2024-12-05T15:58:00.000Z",
+          "wordCount": null,
+          "title": "This $3,000 Android Trojan Targeting Banks and Cryptocurrency Exchanges",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbPZP74p5tgDHJM3FLaCd3WuHGJn-xRnKy1I2scD0ZD5sF1gr75IG1XmH4ZjtHIdk-Hfekbx8ODv6aJ9zG7N3Y2bMRHNFrxVZCIr3QoCDk2-pJYpSv7b-ezN-zHn0661uvBFyfB7Wx8q1mteQwqBxg9WBe0RXOdIk5At-gv87ylfQKQz1pyKLBxDccbJeJ/s1600/android.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbPZP74p5tgDHJM3FLaCd3WuHGJn-xRnKy1I2scD0ZD5sF1gr75IG1XmH4ZjtHIdk-Hfekbx8ODv6aJ9zG7N3Y2bMRHNFrxVZCIr3QoCDk2-pJYpSv7b-ezN-zHn0661uvBFyfB7Wx8q1mteQwqBxg9WBe0RXOdIk5At-gv87ylfQKQz1pyKLBxDccbJeJ/s1600/android.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/critical-mitel-micollab-flaw-exposes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit that strings together a now-patched critical security flaw impacting Mitel MiCollab with an arbitrary file read zero-day, granting an attacker the ability to access files from susceptible instances.\nThe critical vulnerability in question is CVE-2024-41713 (CVSS score: 9.8), which relates to a case of insufficient input",
@@ -21903,6 +21919,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/earth-minotaur-exploits-wechat-bugs-spyware-uyghurs",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "The emerging threat actor, potentially a Chinese state-sponsored APT, is using the known exploit kit Moonshine in cross-platform attacks that deliver a previously undisclosed backdoor called \"DarkNimbus\" to ethnic minorities, including Tibetans.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/earth-minotaur-exploits-wechat-bugs-spyware-uyghurs",
+          "publishedOn": "2024-12-05T15:58:36.000Z",
+          "wordCount": 4961,
+          "title": "'Earth Minotaur' Exploits WeChat Bugs, Sends Spyware to Uyghurs",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteee85674853bdcb9/6751936e9156dc0d82d3fd65/chinaspying_BeeBright_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/vulnerability-management-challenges-iot-ot-environments",
           "author": "Malleswar Reddy Yerabolu",
