@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/hackers-leveraging-cloudflare-tunnels.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as Gamaredon has been observed leveraging Cloudflare Tunnels as a tactic to conceal its staging infrastructure hosting a malware called GammaDrop.\nThe activity is part of an ongoing spear-phishing campaign targeting Ukrainian entities since at least early 2024 that's designed to drop the Visual Basic Script malware, Recorded Future's Insikt Group said in a new analysis.",
+          "link": "https://thehackernews.com/2024/12/hackers-leveraging-cloudflare-tunnels.html",
+          "publishedOn": "2024-12-06T07:03:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Leveraging Cloudflare Tunnels, DNS Fast-Flux to Hide GammaDrop Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiv26ODGftkoQZDbBiIMSZr8PHkem3wc0UYRC-iPA7bxr0tOR_G14lolghwGFif-DdCIVff5MCMWRdDZi0snz0GSWOkOvFDQ2cGopVoALWbhLEnIhPkgfb1qm5Jj5BtgFVO208_fH7ENrpgriCxzw3ChobY2zmjSMqsCt86sMPhF3Jh5WicBkUrj7tFyQ/s1600/cyberattack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiv26ODGftkoQZDbBiIMSZr8PHkem3wc0UYRC-iPA7bxr0tOR_G14lolghwGFif-DdCIVff5MCMWRdDZi0snz0GSWOkOvFDQ2cGopVoALWbhLEnIhPkgfb1qm5Jj5BtgFVO208_fH7ENrpgriCxzw3ChobY2zmjSMqsCt86sMPhF3Jh5WicBkUrj7tFyQ/s1600/cyberattack.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/this-3000-android-trojan-targeting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As many as 77 banking institutions, cryptocurrency exchanges, and national organizations have become the target of a newly discovered Android remote access trojan (RAT) called DroidBot.\n\"DroidBot is a modern RAT that combines hidden VNC and overlay attack techniques with spyware-like capabilities, such as keylogging and user interface monitoring,\" Cleafy researchers Simone Mattia, Alessandro",
@@ -20308,6 +20324,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=338894",
+          "author": "John Law",
+          "description": "Meta is actually considering using nuclear energy to further its AI ambitions. The parent company of Facebook, Instagram, and WhatsApp announced that it will be releasing a request for proposals (RFP) to help it identify nuclear energy developers that could potentially help. “As new innovations bring impactful technological advancements across sectors and support economic growth, […]\nThe post Meta Considering Nuclear Power To Meet AI Ambitions appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/338894/meta-considering-nuclear-power-to-meet-ai-ambitions/",
+          "publishedOn": "2024-12-06T08:10:25.000Z",
+          "wordCount": 4558,
+          "title": "Meta Considering Nuclear Power To Meet AI Ambitions",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/10/Meta-logo.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=338882",
           "author": "Newsdesk",
@@ -22494,16 +22520,6 @@
           "wordCount": 3886,
           "title": "Cloud Security Startup Wiz to Acquire Dazz in Risk Management Play",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt65a16548ab4f4863/66fea28f3b9eea4d4ab5da42/Cloud(1800)_John_Williams_RF_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/chinese-apt-gelsemium-wolfsbane-linux-variant",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "In a sign of the times, a backdoor malware whose ancestors date back to 2005 has morphed to target Linux systems.",
-          "link": "https://www.darkreading.com/threat-intelligence/chinese-apt-gelsemium-wolfsbane-linux-variant",
-          "publishedOn": "2024-11-21T20:02:21.000Z",
-          "wordCount": 4827,
-          "title": "Chinese APT Gelsemium Deploys 'Wolfsbane' Linux Variant",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa0cab49644247af/673f8988df95886c1d5545b2/Wolfsbane-Imagebroker-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
