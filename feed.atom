@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-11T14:08:32.112Z</updated>
+    <updated>2024-12-11T14:43:08.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts]]></title>
+        <id>https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html</id>
+        <link href="https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html"/>
+        <updated>2024-12-11T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have flagged a "critical" security vulnerability in Microsoft's multi-factor authentication (MFA) implementation that allows an attacker to trivially sidestep the protection and gain unauthorized access to a victim's account.
+"The bypass was simple: it took around an hour to execute, required no user interaction and did not generate any notification or provide the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZLoader Malware Returns With DNS Tunneling to Stealthily Mask C2 Comms]]></title>
+        <id>https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html</id>
+        <link href="https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html"/>
+        <updated>2024-12-11T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new version of the ZLoader malware that employs a Domain Name System (DNS) tunnel for command-and-control (C2) communications, indicating that the threat actors are continuing to refine the tool after resurfacing a year ago.
+"Zloader 2.9.4.0 adds notable improvements including a custom DNS tunnel protocol for C2 communications and an interactive shell]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Ryzen AI Max+ Pro 395 Strix Halo APU Appears On Geekbench]]></title>
         <id>https://www.lowyat.net/?p=339138</id>
@@ -2978,17 +3000,6 @@ The post Huawei Mate70 Flagship Smartphone Series Launches In China appeared fir
 The post Prototype NVIDIA GeForce RTX 4090 Ti Found Chucked In The Bin appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bang & Olufsen Beoplay Eleven Are TWS Buds With Replaceable Batteries]]></title>
-        <id>https://www.lowyat.net/?p=338220</id>
-        <link href="https://www.lowyat.net/2024/338220/bang-olufsen-beoplay-eleven-batteries/"/>
-        <updated>2024-11-27T02:38:26.000Z</updated>
-        <summary type="html"><![CDATA[Premium audio brand Bang & Olufsen has announced a new pair of TWS bids called the Beoplay Eleven. While not exactly a name that’s indicative of what it is, it does feature something that most other TWS buds don’t, which are replaceable batteries. As per its press release, “the design of the earbuds allows for […]
-The post Bang & Olufsen Beoplay Eleven Are TWS Buds With Replaceable Batteries appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
         </author>
     </entry>
     <entry>
