@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russian nation-state actor tracked as Secret Blizzard has been observed leveraging malware associated with other threat actors to deploy a known backdoor called Kazuar on target devices located in Ukraine.\nThe new findings come from the Microsoft threat intelligence team, which said it observed the adversary leveraging the Amadey bot malware to download custom malware onto \"specifically",
+          "link": "https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html",
+          "publishedOn": "2024-12-11T18:02:00.000Z",
+          "wordCount": null,
+          "title": "Secret Blizzard Deploys Kazuar Backdoor in Ukraine Using Amadey Malware-as-a-Service",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRMW2Jh3nLQ1mave4kVwSz9DW4xllPnrN3Phb7v5K-siy0qr_WlL4_w3Dv3PWyQup_YHM0GkBKDLNxh8nn2SjJQCv4StuaAC7a5rAvR2FkytrxGBtfyz1GVzTvOJboMNcWX8Y4ARuI3Zby3oe6C9w20HR0f-S-0eY3KnHYH97ob2AGbN9v8wSHkhvf-6Xg/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRMW2Jh3nLQ1mave4kVwSz9DW4xllPnrN3Phb7v5K-siy0qr_WlL4_w3Dv3PWyQup_YHM0GkBKDLNxh8nn2SjJQCv4StuaAC7a5rAvR2FkytrxGBtfyz1GVzTvOJboMNcWX8Y4ARuI3Zby3oe6C9w20HR0f-S-0eY3KnHYH97ob2AGbN9v8wSHkhvf-6Xg/s1600/hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A newly devised technique leverages a Windows accessibility framework called UI Automation (UIA) to perform a wide range of malicious activities without tipping off endpoint detection and response (EDR) solutions.\n\"To exploit this technique, a user must be convinced to run a program that uses UI Automation,\" Akamai security researcher Tomer Peled said in a report shared with The Hacker News. \"",
