@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-11T15:08:57.671Z</updated>
+    <updated>2024-12-11T15:41:50.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Malware Technique Could Exploit Windows UI Framework to Evade EDR Tools]]></title>
+        <id>https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html</id>
+        <link href="https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html"/>
+        <updated>2024-12-11T15:13:00.000Z</updated>
+        <summary type="html"><![CDATA[A newly devised technique leverages a Windows accessibility framework called UI Automation (UIA) to perform a wide range of malicious activities without tipping off endpoint detection and response (EDR) solutions.
+"To exploit this technique, a user must be convinced to run a program that uses UI Automation," Akamai security researcher Tomer Peled said in a report shared with The Hacker News. "]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tips for Preventing Breaches in 2025]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/tips-preventing-breaches-2025</id>
@@ -2986,17 +2997,6 @@ The post Huawei Mate X6 Unveiled With HarmonyOS NEXT, Bigger Displays appeared f
         <updated>2024-11-27T04:40:07.000Z</updated>
         <summary type="html"><![CDATA[Gentari has announced a partnership with Mastercard to drive electric vehicle (EV) adoption in the Asia Pacific region. Through a newly inked Memorandum of Understanding (MOU), the companies aim to enhance EV infrastructure with secure digital payment solutions, advertising, and marketing campaigns. This collaboration also focuses on inclusive EV adoption in public transport and supports […]
 The post Gentari And Mastercard Announce Partnership To Accelerate EV Adoption appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei Mate70 Flagship Smartphone Series Launches In China]]></title>
-        <id>https://www.lowyat.net/?p=338232</id>
-        <link href="https://www.lowyat.net/2024/338232/huawei-mate70-series-launch-china/"/>
-        <updated>2024-11-27T03:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Huawei has recently launched the latest generation of its Mate flagship smartphone series in China. It consists of a number of different models, namely the Mate70, Mate70 Pro, and Mate70 Pro+. All of which currently come with Harmony OS 4.3, but the brand promises that an upcoming software upgrade will introduce the newer, fully in-house […]
-The post Huawei Mate70 Flagship Smartphone Series Launches In China appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
         </author>

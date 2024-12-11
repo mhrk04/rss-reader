@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly devised technique leverages a Windows accessibility framework called UI Automation (UIA) to perform a wide range of malicious activities without tipping off endpoint detection and response (EDR) solutions.\n\"To exploit this technique, a user must be convinced to run a program that uses UI Automation,\" Akamai security researcher Tomer Peled said in a report shared with The Hacker News. \"",
+          "link": "https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html",
+          "publishedOn": "2024-12-11T15:13:00.000Z",
+          "wordCount": null,
+          "title": "New Malware Technique Could Exploit Windows UI Framework to Evade EDR Tools",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF2pKkxA0HOrAaH9gF-Unjn8wIAabqSSWKzdbl36rLSzNUZBrymS-35Zj9FUKoFLd62HTBpXUVJFBnDTEsV1Gi_QqnPRsbNxo9dTp2dCN4X1ZcaNONe_qMB34GKNyIkvj-rjMJ6sZL5k4DJEUPJCAGA62kUuADWER3SRTj862YXGyyIs6xD3adWgUKi_Uz/s1600/exploit.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF2pKkxA0HOrAaH9gF-Unjn8wIAabqSSWKzdbl36rLSzNUZBrymS-35Zj9FUKoFLd62HTBpXUVJFBnDTEsV1Gi_QqnPRsbNxo9dTp2dCN4X1ZcaNONe_qMB34GKNyIkvj-rjMJ6sZL5k4DJEUPJCAGA62kUuADWER3SRTj862YXGyyIs6xD3adWgUKi_Uz/s1600/exploit.gif"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have flagged a \"critical\" security vulnerability in Microsoft's multi-factor authentication (MFA) implementation that allows an attacker to trivially sidestep the protection and gain unauthorized access to a victim's account.\n\"The bypass was simple: it took around an hour to execute, required no user interaction and did not generate any notification or provide the",
@@ -21837,16 +21853,6 @@
           "wordCount": 4550,
           "title": "Gentari And Mastercard Announce Partnership To Accelerate EV Adoption",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/11/Gentari-and-mastercard-announce-partnership-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=338232",
-          "author": "Heirul Kamel",
-          "description": "Huawei has recently launched the latest generation of its Mate flagship smartphone series in China. It consists of a number of different models, namely the Mate70, Mate70 Pro, and Mate70 Pro+. All of which currently come with Harmony OS 4.3, but the brand promises that an upcoming software upgrade will introduce the newer, fully in-house […]\nThe post Huawei Mate70 Flagship Smartphone Series Launches In China appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2024/338232/huawei-mate70-series-launch-china/",
-          "publishedOn": "2024-11-27T03:41:42.000Z",
-          "wordCount": 5484,
-          "title": "Huawei Mate70 Flagship Smartphone Series Launches In China",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/11/Huawei-Mate70-series-launch-china-1.jpg"
         }
       ]
     },
