@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-12T14:42:45.042Z</updated>
+    <updated>2024-12-12T15:09:02.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cultivating a Hacker Mindset in Cybersecurity Defense]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/cultivating-hacker-mindset-cybersecurity-defense</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/cultivating-hacker-mindset-cybersecurity-defense"/>
+        <updated>2024-12-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security isn't just about tools — it's about understanding how the enemy thinks and why they make certain choices.]]></summary>
+        <author>
+            <name>Roei Sherman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 300K Prometheus Instances Exposed: Credentials and API Keys Leaking Online]]></title>
+        <id>https://thehackernews.com/2024/12/296000-prometheus-instances-exposed.html</id>
+        <link href="https://thehackernews.com/2024/12/296000-prometheus-instances-exposed.html"/>
+        <updated>2024-12-12T14:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning that thousands of servers hosting the Prometheus monitoring and alerting toolkit are at risk of information leakage and exposure to denial-of-service (DoS) as well as remote code execution (RCE) attacks.
+"Prometheus servers or exporters, often lacking proper authentication, allowed attackers to easily gather sensitive information, such as credentials and API]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gamaredon Deploys Android Spyware "BoneSpy" and "PlainGnome" in Former Soviet States]]></title>
+        <id>https://thehackernews.com/2024/12/gamaredon-deploys-android-spyware.html</id>
+        <link href="https://thehackernews.com/2024/12/gamaredon-deploys-android-spyware.html"/>
+        <updated>2024-12-12T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-linked state-sponsored threat actor tracked as Gamaredon has been attributed to two new Android spyware tools called BoneSpy and PlainGnome, marking the first time the adversary has been discovered using mobile-only malware families in its attack campaigns.
+"BoneSpy and PlainGnome target former Soviet states and focus on Russian-speaking victims," Lookout said in an analysis. "Both]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Unlikely To Supply NVIDIA With HBM3E Memory This Year]]></title>
         <id>https://www.lowyat.net/?p=339213</id>
@@ -2945,17 +2977,6 @@ These intrusion attempts "originated from a wireline provider's network that was
         <updated>2024-11-28T04:11:13.000Z</updated>
         <summary type="html"><![CDATA[Honda Malaysia has announced that it will be showcasing two products during the Kuala Lumpur International Mobility Show (KLIMS) 2024 event that’s happening next week. Making a first appearance outside of its initial reveal during the Japan Mobility Show last year is the Prelude Concept car, while joining it is the automaker’s Motocompacto foldable electric […]
 The post Honda To Showcase Prelude Concept, Motocompacto At KLIMS 2024 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Autumn Sale 2024 Kicks Off Until 4 December]]></title>
-        <id>https://www.lowyat.net/?p=338321</id>
-        <link href="https://www.lowyat.net/2024/338321/steam-autumn-sale-2024-kicks-off/"/>
-        <updated>2024-11-28T02:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Steam’s annual Autumn Sale has begun, bringing thousands of games on discount – some even reaching over 90% of their original prices. This promo only lasts a week though, slated to end on 4 December 2024 at 2pm local time. You’ll be glad to know that the list also includes recently released titles, including Final […]
-The post Steam Autumn Sale 2024 Kicks Off Until 4 December appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
         </author>
