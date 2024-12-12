@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/wordpress-hunk-companion-plugin-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious actors are exploiting a critical vulnerability in the Hunk Companion plugin for WordPress to install other vulnerable plugins that could open the door to a variety of attacks.\nThe flaw, tracked as CVE-2024-11972 (CVSS score: 9.8), affects all versions of the plugin prior to 1.9.0. The plugin has over 10,000 active installations.\n\"This flaw poses a significant security risk, as it",
+          "link": "https://thehackernews.com/2024/12/wordpress-hunk-companion-plugin-flaw.html",
+          "publishedOn": "2024-12-12T09:18:00.000Z",
+          "wordCount": null,
+          "title": "WordPress Hunk Companion Plugin Flaw Exploited to Silently Install Vulnerable Plugins",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnnTjPSBb9ahzIxw715VOCljB3uV6zda7xJXreuvjFHVZIKCkoAwJrvZF-se8Q_K0exMgm64qaSkDhfm-ARr5kgLwfxgN-U0nbWqUiU0eNTdHbagzdE1Td312e8xUA6Pa-4PhgPSiJA9ZYVjar0GzhZfqiX9aXQqRGHjxCs3TjCJvJubQcpuOycn1VlgoI/s1600/wordpress.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnnTjPSBb9ahzIxw715VOCljB3uV6zda7xJXreuvjFHVZIKCkoAwJrvZF-se8Q_K0exMgm64qaSkDhfm-ARr5kgLwfxgN-U0nbWqUiU0eNTdHbagzdE1Td312e8xUA6Pa-4PhgPSiJA9ZYVjar0GzhZfqiX9aXQqRGHjxCs3TjCJvJubQcpuOycn1VlgoI/s1600/wordpress.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/europol-dismantles-27-ddos-attack.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A global law enforcement operation has failed 27 stresser services that were used to conduct distributed denial-of-service (DDoS) attacks and took them offline as part of a multi-year international exercise called PowerOFF.\nThe effort, coordinated by Europol and involving 15 countries, dismantled several booter and stresser websites, including zdstresser.net, orbitalstress.net, and",
