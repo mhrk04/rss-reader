@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-13T17:40:03.369Z</updated>
+    <updated>2024-12-13T18:11:35.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection]]></title>
+        <id>https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html</id>
+        <link href="https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html"/>
+        <updated>2024-12-13T16:48:00.000Z</updated>
+        <summary type="html"><![CDATA[A security flaw has been disclosed in OpenWrt's Attended Sysupgrade (ASU) feature that, if successfully exploited, could have been abused to distribute malicious firmware packages.
+The vulnerability, tracked as CVE-2024-54143, carries a CVSS score of 9.3 out of a maximum of 10, indicating critical severity. Flatt Security researcher RyotaK has been credited with discovering and reporting the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DoJ Indicts 14 North Koreans for $88M IT Worker Fraud Scheme Over Six Years]]></title>
         <id>https://thehackernews.com/2024/12/doj-indicts-14-north-koreans-for-88m-it.html</id>
@@ -2983,17 +2994,6 @@ The post Astro To Give Free Astro Box Upgrades, Up To 17 Additional Channels To 
 The post Apple M4 Mac mini, iMac And MacBook Pro Arriving In Malaysia This December appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Google Engineer Is Being Sued For Allegedly Leaking Secrets Of Pixel Chip]]></title>
-        <id>https://www.lowyat.net/?p=338455</id>
-        <link href="https://www.lowyat.net/2024/338455/ex-google-engineer-is-being-sued-for-allegedly-leaking-secrets-of-pixel-chip/"/>
-        <updated>2024-11-29T06:09:41.000Z</updated>
-        <summary type="html"><![CDATA[Google is currently pursuing a lawsuit against a former engineer that they allege had posted confidential documents regarding the design of its latest Pixel chip. Not only that, they also say that the individual had made some threatening comments towards them. Harshit Roy, the individual in question, worked as a semiconductor engineer at Google in […]
-The post Ex-Google Engineer Is Being Sued For Allegedly Leaking Secrets Of Pixel Chip appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
         </author>
     </entry>
     <entry>
