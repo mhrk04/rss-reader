@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-13T20:09:52.205Z</updated>
+    <updated>2024-12-13T20:40:39.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[390,000+ WordPress Credentials Stolen via Malicious GitHub Repository Hosting PoC Exploits]]></title>
+        <id>https://thehackernews.com/2024/12/390000-wordpress-credentials-stolen-via.html</id>
+        <link href="https://thehackernews.com/2024/12/390000-wordpress-credentials-stolen-via.html"/>
+        <updated>2024-12-13T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-removed GitHub repository that advertised a WordPress tool to publish posts to the online content management system (CMS) is estimated to have enabled the exfiltration of over 390,000 credentials.
+The malicious activity is part of a broader attack campaign undertaken by a threat actor, dubbed MUT-1244 (where MUT refers to "mysterious unattributed threat") by Datadog Security Labs, that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection]]></title>
         <id>https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html</id>
