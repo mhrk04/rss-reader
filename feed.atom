@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-13T21:40:21.497Z</updated>
+    <updated>2024-12-13T22:07:22.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[With 'TPUXtract,' Attackers Can Steal Orgs' AI Models]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models"/>
+        <updated>2024-12-13T21:34:21.000Z</updated>
+        <summary type="html"><![CDATA[A new side-channel attack method is a computationally practical way to infer the structure of a convolutional neural network — meaning that cyberattackers or rival companies can plagiarize AI models and take their data for themselves.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Test Your Cyber Skills With the SANS Holiday Hack Challenge]]></title>
         <id>https://www.darkreading.com/endpoint-security/test-your-cyber-skills-with-the-sans-holiday-hack-challenge</id>
@@ -2967,17 +2977,6 @@ The post Tencent Has a New Game That Looks Like A Carbon Copy Of Guerilla’s Ho
         <link href="https://thehackernews.com/2024/11/protecting-tomorrows-world-shaping.html"/>
         <updated>2024-11-29T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[The lines between digital and physical realms increasingly blur. While this opens countless opportunities for businesses, it also brings numerous challenges. In our recent webinar, Shaping the Cyber-Physical Future: Trends, Challenges, and Opportunities for 2025, we explored the different factors shaping the cyber-physical future. In an insightful conversation with industry experts, we discussed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing-as-a-Service "Rockstar 2FA" Targets Microsoft 365 Users with AiTM Attacks]]></title>
-        <id>https://thehackernews.com/2024/11/phishing-as-service-rockstar-2fa.html</id>
-        <link href="https://thehackernews.com/2024/11/phishing-as-service-rockstar-2fa.html"/>
-        <updated>2024-11-29T10:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers are warning about malicious email campaigns leveraging a phishing-as-a-service (PhaaS) toolkit called Rockstar 2FA with an aim to steal Microsoft 365 account credentials.
-"This campaign employs an AitM [adversary-in-the-middle] attack, allowing attackers to intercept user credentials and session cookies, which means that even users with multi-factor authentication (MFA)]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

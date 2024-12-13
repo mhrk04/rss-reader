@@ -20476,22 +20476,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmIzWZQkcY0g-9wUc7qNzSGNx0IDGhlOSrQlVD6TzVqY9rPk8aFq6icEWmcssNawQWpBcKd5EE_XJkilR1DPGIP6NyBZCZ1Li6eQCUDab9w0-mbPy9KnGh_z0uz_o0dyLUVvYmwbEExj2M1d2KKkZFeTBK7SXsU2lr2aHoYXAIMO2dN8Kg74sdUL9FixA/s1600/main.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmIzWZQkcY0g-9wUc7qNzSGNx0IDGhlOSrQlVD6TzVqY9rPk8aFq6icEWmcssNawQWpBcKd5EE_XJkilR1DPGIP6NyBZCZ1Li6eQCUDab9w0-mbPy9KnGh_z0uz_o0dyLUVvYmwbEExj2M1d2KKkZFeTBK7SXsU2lr2aHoYXAIMO2dN8Kg74sdUL9FixA/s1600/main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/11/phishing-as-service-rockstar-2fa.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are warning about malicious email campaigns leveraging a phishing-as-a-service (PhaaS) toolkit called Rockstar 2FA with an aim to steal Microsoft 365 account credentials.\n\"This campaign employs an AitM [adversary-in-the-middle] attack, allowing attackers to intercept user credentials and session cookies, which means that even users with multi-factor authentication (MFA)",
-          "link": "https://thehackernews.com/2024/11/phishing-as-service-rockstar-2fa.html",
-          "publishedOn": "2024-11-29T10:06:00.000Z",
-          "wordCount": null,
-          "title": "Phishing-as-a-Service \"Rockstar 2FA\" Targets Microsoft 365 Users with AiTM Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxzgJ8MxkpuN59qlFiI44tB0LQRet2hTZo9q4vBoyYD7RkE749685kKkQbzCd7hws4YWaP36cyUXF3L1mHKenGH6LqY9hoapzkJ8wX1xqKjozRDddh8tOMGWeBe4OFpt-vg6_N26GHZttGcJYwm3aiglUBraF4tYdaIrSxNavD6RCkgyy0QQBABCmZE8g1/s1600/aitm.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxzgJ8MxkpuN59qlFiI44tB0LQRet2hTZo9q4vBoyYD7RkE749685kKkQbzCd7hws4YWaP36cyUXF3L1mHKenGH6LqY9hoapzkJ8wX1xqKjozRDddh8tOMGWeBe4OFpt-vg6_N26GHZttGcJYwm3aiglUBraF4tYdaIrSxNavD6RCkgyy0QQBABCmZE8g1/s1600/aitm.png"
         }
       ]
     },
@@ -21782,6 +21766,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "A new side-channel attack method is a computationally practical way to infer the structure of a convolutional neural network — meaning that cyberattackers or rival companies can plagiarize AI models and take their data for themselves.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models",
+          "publishedOn": "2024-12-13T21:34:21.000Z",
+          "wordCount": 5589,
+          "title": "With 'TPUXtract,' Attackers Can Steal Orgs' AI Models",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebd916c1d3d9badd/675ca6518adfae97715f0ff0/ai_chip-Daniel_Chetroni-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/endpoint-security/test-your-cyber-skills-with-the-sans-holiday-hack-challenge",
           "author": "Jennifer Lawinski",
