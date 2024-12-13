@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-13T21:07:35.062Z</updated>
+    <updated>2024-12-13T21:40:21.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -274,6 +274,16 @@ The post Huawei Mate X6, nova 13 Series To Launch In Malaysia On 18 December app
         <summary type="html"><![CDATA[Open source Prometheus servers and exporters are leaking plaintext passwords and tokens, along with API addresses of internal locations.]]></summary>
         <author>
             <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative AI Security Tools Go Open Source]]></title>
+        <id>https://www.darkreading.com/application-security/generative-ai-breaking-tools-go-open-source</id>
+        <link href="https://www.darkreading.com/application-security/generative-ai-breaking-tools-go-open-source"/>
+        <updated>2024-12-12T21:29:37.000Z</updated>
+        <summary type="html"><![CDATA[Businesses deploying large language models and other GenAI systems have a growing collection of open source tools for testing AI security.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer</name>
         </author>
     </entry>
     <entry>
@@ -2968,18 +2978,6 @@ The post Tencent Has a New Game That Looks Like A Carbon Copy Of Guerilla’s Ho
         <updated>2024-11-29T10:06:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers are warning about malicious email campaigns leveraging a phishing-as-a-service (PhaaS) toolkit called Rockstar 2FA with an aim to steal Microsoft 365 account credentials.
 "This campaign employs an AitM [adversary-in-the-middle] attack, allowing attackers to intercept user credentials and session cookies, which means that even users with multi-factor authentication (MFA)]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Fixes AI, Cloud, and ERP Security Flaws; One Exploited in Active Attacks]]></title>
-        <id>https://thehackernews.com/2024/11/microsoft-fixes-ai-cloud-and-erp.html</id>
-        <link href="https://thehackernews.com/2024/11/microsoft-fixes-ai-cloud-and-erp.html"/>
-        <updated>2024-11-29T09:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has addressed four security flaws impacting its artificial intelligence (AI), cloud, enterprise resource planning, and Partner Center offerings, including one that it said has been exploited in the wild.
-The vulnerability that has been tagged with an "Exploitation Detected" assessment is CVE-2024-49035 (CVSS score: 8.7), a privilege escalation flaw in partner.microsoft[.]com.
-"An]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
