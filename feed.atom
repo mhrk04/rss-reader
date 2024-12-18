@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-18T05:40:08.090Z</updated>
+    <updated>2024-12-18T06:12:10.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Fined €251 Million for 2018 Data Breach Impacting 29 Million Accounts]]></title>
+        <id>https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html</id>
+        <link href="https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html"/>
+        <updated>2024-12-18T05:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta Platforms, the parent company of Facebook, Instagram, WhatsApp, and Threads, has been fined €251 million (around $263 million) for a 2018 data breach that impacted millions of users in the bloc, in what's the latest financial hit the company has taken for flouting stringent privacy laws.
+The Irish Data Protection Commission (DPC) said the data breach impacted approximately 29 million]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ASUS Zenbook S14 Lunar Lake Review: Peak Performance, Really Long Battery Life]]></title>
         <id>https://www.lowyat.net/?p=337190</id>
@@ -26,6 +37,17 @@ The post ASUS Zenbook S14 Lunar Lake Review: Peak Performance, Really Long Batte
 The post Tune Talk Completes Migration To AWS; Claims First Fully Cloud-Enabled Telco In Malaysia appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected]]></title>
+        <id>https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html</id>
+        <link href="https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html"/>
+        <updated>2024-12-18T04:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are attempting to exploit a recently disclosed security flaw impacting Apache Struts that could pave the way for remote code execution.
+The issue, tracked as CVE-2024-53677, carries a CVSS score of 9.5 out of 10.0, indicating critical severity. The vulnerability shares similarities with another critical bug the project maintainers addressed in December 2023 (CVE-2023-50164, CVSS]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -3120,16 +3142,6 @@ The post Anwar: Banks Should Reimburse Scam Victims appeared first on Lowyat.NET
         <link href="https://www.darkreading.com/vulnerabilities-threats/decade-old-cisco-vulnerability-exploit"/>
         <updated>2024-12-03T20:25:34.000Z</updated>
         <summary type="html"><![CDATA[Cisco encourages users to update to an unaffected version of its Adaptive Security Appliance (ASA) software since there are no workarounds for the 2014 vulnerability.]]></summary>
-        <author>
-            <name>Kristina Beek, Associate Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber-Unsafe Employees Increasingly Put Orgs at Risk]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cyber-unsafe-employees-orgs-risk</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cyber-unsafe-employees-orgs-risk"/>
-        <updated>2024-12-03T17:50:47.000Z</updated>
-        <summary type="html"><![CDATA[Too much access and privilege, plus a host of unsafe cyber practices, plague most workplaces, and the introduction of tools like GenAI will only make things worse.]]></summary>
         <author>
             <name>Kristina Beek, Associate Editor, Dark Reading</name>
         </author>
