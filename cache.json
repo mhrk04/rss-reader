@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Fortinet has issued an advisory for a now-patched critical security flaw impacting Wireless LAN Manager (FortiWLM) that could lead to disclosure of sensitive information.\nThe vulnerability, tracked as CVE-2023-34990, carries a CVSS score of 9.6 out of a maximum of 10.0.\n\"A relative path traversal [CWE-23] in FortiWLM may allow a remote unauthenticated attacker to read sensitive files,\" the",
+          "link": "https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html",
+          "publishedOn": "2024-12-19T10:31:00.000Z",
+          "wordCount": null,
+          "title": "Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORvlQAOjjqgvQG42F1htK-CmzeDf6QEf0w0C3QFKkTStlxi8sNFme4Vds8__iQWh1kiG5j75cST215HMMjyK2YiHtUriRtyaIszTxNeobP-26DU-SUHWo7EGrq9zzwzRpbSTGyJGKZ_ljyeELVkuRO9ubsYm0NH4ZDJc6PyzK308R7Rye23SyR0FP2x6l/s1600/Fortinet-zero-day.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORvlQAOjjqgvQG42F1htK-CmzeDf6QEf0w0C3QFKkTStlxi8sNFme4Vds8__iQWh1kiG5j75cST215HMMjyK2YiHtUriRtyaIszTxNeobP-26DU-SUHWo7EGrq9zzwzRpbSTGyJGKZ_ljyeELVkuRO9ubsYm0NH4ZDJc6PyzK308R7Rye23SyR0FP2x6l/s1600/Fortinet-zero-day.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/cisa-mandates-cloud-security-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued Binding Operational Directive (BOD) 25-01, ordering federal civilian agencies to secure their cloud environments and abide by Secure Cloud Business Applications (SCuBA) secure configuration baselines.\n\"Recent cybersecurity incidents highlight the significant risks posed by misconfigurations and weak security controls,",
