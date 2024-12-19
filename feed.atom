@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-19T14:41:23.532Z</updated>
+    <updated>2024-12-19T15:08:34.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,28 @@
         <summary type="html"><![CDATA[The draft of the long-awaited update to the NCIRP outlines the efforts, mechanisms, involved parties, and decisions the US government will use in response to a large-scale cyber incident.]]></summary>
         <author>
             <name>Jennifer Lawinski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply Chain Risk Mitigation Must Be a Priority in 2025]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/supply-chain-risk-mitigation-priority-2025</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/supply-chain-risk-mitigation-priority-2025"/>
+        <updated>2024-12-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A balance of rigorous supplier validation, purposeful data exposure, and meticulous preparation is key to managing and mitigating risk.]]></summary>
+        <author>
+            <name>Rob T. Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thousands Download Malicious npm Libraries Impersonating Legitimate Tools]]></title>
+        <id>https://thehackernews.com/2024/12/thousands-download-malicious-npm.html</id>
+        <link href="https://thehackernews.com/2024/12/thousands-download-malicious-npm.html"/>
+        <updated>2024-12-19T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed uploading malicious typosquats of legitimate npm packages such as typescript-eslint and @types/node that have racked up thousands of downloads on the package registry.
+The counterfeit versions, named @typescript_eslinter/eslint and types-node, are engineered to download a trojan and retrieve second-stage payloads, respectively.
+"While typosquatting attacks are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>

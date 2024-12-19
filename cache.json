@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/thousands-download-malicious-npm.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed uploading malicious typosquats of legitimate npm packages such as typescript-eslint and @types/node that have racked up thousands of downloads on the package registry.\nThe counterfeit versions, named @typescript_eslinter/eslint and types-node, are engineered to download a trojan and retrieve second-stage payloads, respectively.\n\"While typosquatting attacks are",
+          "link": "https://thehackernews.com/2024/12/thousands-download-malicious-npm.html",
+          "publishedOn": "2024-12-19T13:56:00.000Z",
+          "wordCount": null,
+          "title": "Thousands Download Malicious npm Libraries Impersonating Legitimate Tools",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_AszE3pXQcN5IuqH8Hb3rt_tQkJgjVr7F3SnMmDIm7I0Sn2OEZh9rFLyg0_OGCIo4ooNLuCImn8FxXgx9lcREIaH3INHQQ4bRUcvredJNa15yMzMTQedhKSz8osRSEsd55atYTfmsuKJeKbFUwFq0sLQeW7hKkIQ8er_F18gRvHFYZDu_z4cpqZAsJ1V/s1600/npm.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_AszE3pXQcN5IuqH8Hb3rt_tQkJgjVr7F3SnMmDIm7I0Sn2OEZh9rFLyg0_OGCIo4ooNLuCImn8FxXgx9lcREIaH3INHQQ4bRUcvredJNa15yMzMTQedhKSz8osRSEsd55atYTfmsuKJeKbFUwFq0sLQeW7hKkIQ8er_F18gRvHFYZDu_z4cpqZAsJ1V/s1600/npm.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Juniper Networks is warning that Session Smart Router (SSR) products with default passwords are being targeted as part of a malicious campaign that deploys the Mirai botnet malware.\nThe company said it's issuing the advisory after \"several customers\" reported anomalous behavior on their Session Smart Network (SSN) platforms on December 11, 2024.\n\"These systems have been infected with the Mirai",
@@ -22039,6 +22055,16 @@
           "wordCount": 4263,
           "title": "CISA Releases Draft of National Cyber Incident Response Plan",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3e4316c284911760/66a2c643f07695c1e51c3500/Responsibilities(1800_Andrii_Yalanskyi_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/supply-chain-risk-mitigation-priority-2025",
+          "author": "Rob T. Lee",
+          "description": "A balance of rigorous supplier validation, purposeful data exposure, and meticulous preparation is key to managing and mitigating risk.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/supply-chain-risk-mitigation-priority-2025",
+          "publishedOn": "2024-12-19T15:00:00.000Z",
+          "wordCount": 6007,
+          "title": "Supply Chain Risk Mitigation Must Be a Priority in 2025",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b92804ec1a52924/676432222aabff0d4e94e38d/Chain_(1800)_Michael_Burrell_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         },
         {
           "id": "https://www.darkreading.com/identity-access-management-security/vendors-attackers-chase-potential-of-non-human-identities",
