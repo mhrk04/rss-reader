@@ -21879,6 +21879,16 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/fortinet-addresses-unpatched-critical-rce-vector",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Fortinet has patched CVE-2023-34990 in its Wireless LAN Manager (FortiWLM), which combined with CVE-2023-48782 could allow for unauthenticated remote code execution (RCE) and the ability to read all log files.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-addresses-unpatched-critical-rce-vector",
+          "publishedOn": "2024-12-19T22:29:13.000Z",
+          "wordCount": 4591,
+          "title": "Fortinet Addresses Unpatched Critical RCE Vector",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt054b1687ee5adf29/67649deaf75d35532d5fdebf/Bug_(1800)_KonstantinNechaev-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
           "id": "https://www.darkreading.com/application-security/actively-exploited-bug-struts-2",
           "author": "Nate Nelson, Contributing Writer",
           "description": "A newly discovered vulnerability, CVE-2024-53677, in the aging Apache framework is going to cause major headaches for IT teams, since patching isn't enough to fix it.",
