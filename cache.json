@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/cisa-adds-critical-flaw-in-beyondtrust.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) products to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability, tracked as CVE-2024-12356 (CVSS score: 9.8), is a command injection flaw that",
+          "link": "https://thehackernews.com/2024/12/cisa-adds-critical-flaw-in-beyondtrust.html",
+          "publishedOn": "2024-12-20T04:30:00.000Z",
+          "wordCount": null,
+          "title": "CISA Adds Critical Flaw in BeyondTrust Software to Exploited Vulnerabilities List",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5D7EpeDN-CFTcSFZ_YCswm9WrYbS_KhGBOH99bEmGuJI3GQXkGIThUM7-oBOQ_uL9_z6xzMH_mj9YAlXlfTh-I8dWBs0hingLFLg-ePsqQpiVFIkmW5QDX_H_g5DVPjqtrSZkqAedF05QZZN27w6yZCTXZ0xhsl_RnFy2czmRb9FeKRswHvHmGDdsttWD/s1600/cisa.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5D7EpeDN-CFTcSFZ_YCswm9WrYbS_KhGBOH99bEmGuJI3GQXkGIThUM7-oBOQ_uL9_z6xzMH_mj9YAlXlfTh-I8dWBs0hingLFLg-ePsqQpiVFIkmW5QDX_H_g5DVPjqtrSZkqAedF05QZZN27w6yZCTXZ0xhsl_RnFy2czmRb9FeKRswHvHmGDdsttWD/s1600/cisa.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/thousands-download-malicious-npm.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors have been observed uploading malicious typosquats of legitimate npm packages such as typescript-eslint and @types/node that have racked up thousands of downloads on the package registry.\nThe counterfeit versions, named @typescript_eslinter/eslint and types-node, are engineered to download a trojan and retrieve second-stage payloads, respectively.\n\"While typosquatting attacks are",
@@ -20500,6 +20516,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=339746",
+          "author": "Heirul Kamel",
+          "description": "It looks like Lenovo may finally release a retail version of its laptop prototype from 2022, which features a unique rollable display. According to leakster Evan Blass (aka @evleaks on X), the device is believed to be the brand’s sixth-generation ThinkBook Plus, and is expected to be officially announced at the Consumer Electronics Show (CES) […]\nThe post Lenovo’s Laptop With A Rollable Display Leaks Ahead Of Launch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/339746/lenovo-laptop-rollable-display-leak/",
+          "publishedOn": "2024-12-20T05:33:12.000Z",
+          "wordCount": 4729,
+          "title": "Lenovo’s Laptop With A Rollable Display Leaks Ahead Of Launch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/12/Lenovo-laptop-rollable-display-leak-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=339742",
+          "author": "John Law",
+          "description": "Intel is no longer working on the x86S specification. The chipmaker confirmed its decision to Tom’s Hardware, and comes just a months after it formed the x86 Ecosystem Advisory Group with AMD, Google, and other titans of industry. Intel’s original plan was to de-bloat the x86 instruction set by developing a simplified 64-bit mode-only x86S […]\nThe post Intel No Longer Working On x86S Specification appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/339742/intel-no-longer-working-on-x86s-specification/",
+          "publishedOn": "2024-12-20T05:18:15.000Z",
+          "wordCount": 4564,
+          "title": "Intel No Longer Working On x86S Specification",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/12/Intel-Logo-Dec-2024-1-1024x768.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=339738",
           "author": "Ikmal Rozlan",
