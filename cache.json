@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Lazarus Group, an infamous threat actor linked to the Democratic People's Republic of Korea (DPRK), has been observed leveraging a \"complex infection chain\" targeting at least two employees belonging to an unnamed nuclear-related organization within the span of one month in January 2024.\nThe attacks, which culminated in the deployment of a new modular backdoor referred to as CookiePlus, are",
+          "link": "https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html",
+          "publishedOn": "2024-12-20T10:44:00.000Z",
+          "wordCount": null,
+          "title": "Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhblmMwsassaFD6IZFbb6ZTpi33tAfrqUHu_gGQuE18oCuetQ3l8ZnFmvIvjyktR2ipdfnTk4t1iIE3VAhjF-Oa698WEDTesYcMUpBt_5t2pwXyT2g2AfjQjHIX4dlGdNpCV2glvNzKh9lZwoQWmh8ynP8tubJbY7GlvjQ7joCFUGkPYAmFf3jUZfyj8h5q/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhblmMwsassaFD6IZFbb6ZTpi33tAfrqUHu_gGQuE18oCuetQ3l8ZnFmvIvjyktR2ipdfnTk4t1iIE3VAhjF-Oa698WEDTesYcMUpBt_5t2pwXyT2g2AfjQjHIX4dlGdNpCV2glvNzKh9lZwoQWmh8ynP8tubJbY7GlvjQ7joCFUGkPYAmFf3jUZfyj8h5q/s1600/chrome.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The developers of Rspack have revealed that two of their npm packages, @rspack/core and @rspack/cli, were compromised in a software supply chain attack that allowed a malicious actor to publish malicious versions to the official package registry with cryptocurrency mining malware.\nFollowing the discovery, versions 1.1.7 of both libraries have been unpublished from the npm registry. The latest",
