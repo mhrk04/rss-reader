@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The developers of Rspack have revealed that two of their npm packages, @rspack/core and @rspack/cli, were compromised in a software supply chain attack that allowed a malicious actor to publish malicious versions to the official package registry with cryptocurrency mining malware.\nFollowing the discovery, versions 1.1.7 of both libraries have been unpublished from the npm registry. The latest",
+          "link": "https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html",
+          "publishedOn": "2024-12-20T08:39:00.000Z",
+          "wordCount": null,
+          "title": "Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcKkDagQtBIsRJWR-vJAFwn4ljkwmV8QRL-BOkyZu2yQzpXNMPv0lEE-spsW8PfbznGbyrLFmGMevrd1_aSVKbO5AXepvXgJQj-sWf6vTiNXsdfPWZEtzZ6KJ_XLt3jOGh5I56rWr5K4PaUIBIQ8a1ifk-AOQ4LRXl1oXMFCcaNYA1K9hMovpWSFWqm_i/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcKkDagQtBIsRJWR-vJAFwn4ljkwmV8QRL-BOkyZu2yQzpXNMPv0lEE-spsW8PfbznGbyrLFmGMevrd1_aSVKbO5AXepvXgJQj-sWf6vTiNXsdfPWZEtzZ6KJ_XLt3jOGh5I56rWr5K4PaUIBIQ8a1ifk-AOQ4LRXl1oXMFCcaNYA1K9hMovpWSFWqm_i/s1600/code.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Sophos has released hotfixes to address three security flaws in Sophos Firewall products that could be exploited to achieve remote code execution and allow privileged system access under certain conditions.\nOf the three, two are rated Critical in severity. There is currently no evidence that the shortcomings have been exploited in the wild. The list of vulnerabilities is as follows -",
+          "link": "https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html",
+          "publishedOn": "2024-12-20T08:13:00.000Z",
+          "wordCount": null,
+          "title": "Sophos Issues Hotfixes for Critical Firewall Flaws: Update to Prevent Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYq_XBqs2-sy6w-OAmQw2InKF53_YrQJvcwZ1BFTiXuLc2Rt9rlgjqUBGhiz9aI6D-hxDusgT5DTQagdNz4X8AW2Ccrv948x6hAcORT64ESQUxjHHg7yOspVo7d3AmYUzbtNdr4XevnVbiAx3sA9VJ9BHe1Q-UVlQmIWJWbAUaETnO_sq2OONS1-QrWSW0/s1600/firewall.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYq_XBqs2-sy6w-OAmQw2InKF53_YrQJvcwZ1BFTiXuLc2Rt9rlgjqUBGhiz9aI6D-hxDusgT5DTQagdNz4X8AW2Ccrv948x6hAcORT64ESQUxjHHg7yOspVo7d3AmYUzbtNdr4XevnVbiAx3sA9VJ9BHe1Q-UVlQmIWJWbAUaETnO_sq2OONS1-QrWSW0/s1600/firewall.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/hackers-exploiting-critical-fortinet.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A now-patched critical security flaw impacting Fortinet FortiClient EMS is being exploited by malicious actors as part of a cyber campaign that installed remote desktop software such as AnyDesk and ScreenConnect. \nThe vulnerability in question is CVE-2023-48788 (CVSS score: 9.3), an SQL injection bug that allows attackers to execute unauthorized code or commands by sending specially crafted",
@@ -20532,6 +20564,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=339757",
+          "author": "John Law",
+          "description": "Details allegedly belonging to Intel’s future Wildcat Lake CPU have seemingly come to light. According to a post by X86 is dead&back, they claim to have discovered a shipping manifest containing information about the next generation socket. The shipping manifest reportedly first appeared back in 30 October this year, with the listing mentioning CPU reball […]\nThe post Intel 18A Wildcat Lake CPU Tooling Appears On Shipping Manifest appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/339757/intel-18a-wildcat-lake/",
+          "publishedOn": "2024-12-20T09:28:11.000Z",
+          "wordCount": 4566,
+          "title": "Intel 18A Wildcat Lake CPU Tooling Appears On Shipping Manifest",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/10/Intel-Core-Ultra-9-285K-3-1024x768.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=339759",
+          "author": "Heirul Kamel",
+          "description": "Apple is under fire after its AI-powered notification summary feature generated a false headline about a high-profile murder case. Paris-based journalist group Reporters Without Borders (RSF) has called for the company to disable the feature, which was introduced globally in the iOS 18.2 update last week. The controversy began when the notification system attributed a […]\nThe post Apple Faces Criticism Over False Headlines From Its AI Notification Feature appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/339759/apple-notification-false-headline/",
+          "publishedOn": "2024-12-20T09:16:18.000Z",
+          "wordCount": 4955,
+          "title": "Apple Faces Criticism Over False Headlines From Its AI Notification Feature",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/06/apple_Apple-reportedly-in-talks-with-Meta-AI-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=339743",
           "author": "Ian Chee",
@@ -22583,16 +22635,6 @@
           "wordCount": 4377,
           "title": "Russia's 'BlueAlpha' APT Hides in Cloudflare Tunnels",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a5bfeaa660cbace/675221269156dc2f14d3ffda/tunnels-Classic_Image-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/bypass-bug-critical-n-day-mitel-micollab",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "A single barrier prevented attackers from exploiting a critical vulnerability in an enterprise collaboration platform. Now there's a workaround.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/bypass-bug-critical-n-day-mitel-micollab",
-          "publishedOn": "2024-12-05T21:13:03.000Z",
-          "wordCount": 5077,
-          "title": "Bypass Bug Revives Critical N-Day in Mitel MiCollab",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf491a27738b56da/67520b03e914956c1715c180/Mitel-Kristoffer_Tripplaar-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }

@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-20T09:08:19.976Z</updated>
+    <updated>2024-12-20T09:37:56.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel 18A Wildcat Lake CPU Tooling Appears On Shipping Manifest]]></title>
+        <id>https://www.lowyat.net/?p=339757</id>
+        <link href="https://www.lowyat.net/2024/339757/intel-18a-wildcat-lake/"/>
+        <updated>2024-12-20T09:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Details allegedly belonging to Intel’s future Wildcat Lake CPU have seemingly come to light. According to a post by X86 is dead&back, they claim to have discovered a shipping manifest containing information about the next generation socket. The shipping manifest reportedly first appeared back in 30 October this year, with the listing mentioning CPU reball […]
+The post Intel 18A Wildcat Lake CPU Tooling Appears On Shipping Manifest appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Faces Criticism Over False Headlines From Its AI Notification Feature]]></title>
+        <id>https://www.lowyat.net/?p=339759</id>
+        <link href="https://www.lowyat.net/2024/339759/apple-notification-false-headline/"/>
+        <updated>2024-12-20T09:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Apple is under fire after its AI-powered notification summary feature generated a false headline about a high-profile murder case. Paris-based journalist group Reporters Without Borders (RSF) has called for the company to disable the feature, which was introduced globally in the iOS 18.2 update last week. The controversy began when the notification system attributed a […]
+The post Apple Faces Criticism Over False Headlines From Its AI Notification Feature appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain Attack]]></title>
+        <id>https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html</id>
+        <link href="https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html"/>
+        <updated>2024-12-20T08:39:00.000Z</updated>
+        <summary type="html"><![CDATA[The developers of Rspack have revealed that two of their npm packages, @rspack/core and @rspack/cli, were compromised in a software supply chain attack that allowed a malicious actor to publish malicious versions to the official package registry with cryptocurrency mining malware.
+Following the discovery, versions 1.1.7 of both libraries have been unpublished from the npm registry. The latest]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophos Issues Hotfixes for Critical Firewall Flaws: Update to Prevent Exploitation]]></title>
+        <id>https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html</id>
+        <link href="https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html"/>
+        <updated>2024-12-20T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Sophos has released hotfixes to address three security flaws in Sophos Firewall products that could be exploited to achieve remote code execution and allow privileged system access under certain conditions.
+Of the three, two are rated Critical in severity. There is currently no evidence that the shortcomings have been exploited in the wild. The list of vulnerabilities is as follows -]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Exploiting Critical Fortinet EMS Vulnerability to Deploy Remote Access Tools]]></title>
         <id>https://thehackernews.com/2024/12/hackers-exploiting-critical-fortinet.html</id>
@@ -3038,16 +3082,6 @@ The post MOT Expands Flight Fare Subsidy For Festive Seasons; One-Way Ticket Cap
         <summary type="html"><![CDATA[Cloudflare Tunnels is just the latest legitimate cloud service that cybercriminals and state-sponsored threat actors are abusing to hide their tracks.]]></summary>
         <author>
             <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bypass Bug Revives Critical N-Day in Mitel MiCollab]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/bypass-bug-critical-n-day-mitel-micollab</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/bypass-bug-critical-n-day-mitel-micollab"/>
-        <updated>2024-12-05T21:13:03.000Z</updated>
-        <summary type="html"><![CDATA[A single barrier prevented attackers from exploiting a critical vulnerability in an enterprise collaboration platform. Now there's a workaround.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer</name>
         </author>
     </entry>
     <entry>
