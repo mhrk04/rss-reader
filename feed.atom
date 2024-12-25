@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-25T14:38:16.948Z</updated>
+    <updated>2024-12-25T15:07:35.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ruijie Networks' Cloud Platform Flaws Could Expose 50,000 Devices to Remote Attacks]]></title>
+        <id>https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html</id>
+        <link href="https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html"/>
+        <updated>2024-12-25T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered several security flaws in the cloud management platform developed by Ruijie Networks that could permit an attacker to take control of the network appliances.
+"These vulnerabilities affect both the Reyee platform, as well as Reyee OS network devices," Claroty researchers Noam Moshe and Tomer Goldschmidt said in a recent analysis. "The vulnerabilities, if]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical SQL Injection Vulnerability in Apache Traffic Control Rated 9.9 CVSS — Patch Now]]></title>
+        <id>https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html</id>
+        <link href="https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html"/>
+        <updated>2024-12-25T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Apache Software Foundation (ASF) has shipped security updates to address a critical security flaw in Traffic Control that, if successfully exploited, could allow an attacker to execute arbitrary Structured Query Language (SQL) commands in the database.
+The SQL injection vulnerability, tracked as CVE-2024-45387, is rated 9.9 out of 10.0 on the CVSS scoring system.
+"An SQL injection]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iran's Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware]]></title>
         <id>https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html</id>
@@ -2719,30 +2742,6 @@ The post Upcoming Zombie Flick “28 Years Later” Reportedly Shot On iPhone 15
 The post MyDigital ID Aims to Become Malaysia’s Super App appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ivanti Issues Critical Security Updates for CSA and Connect Secure Vulnerabilities]]></title>
-        <id>https://thehackernews.com/2024/12/ivanti-issues-critical-security-updates.html</id>
-        <link href="https://thehackernews.com/2024/12/ivanti-issues-critical-security-updates.html"/>
-        <updated>2024-12-11T02:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Ivanti has released security updates to address multiple critical flaws in its Cloud Services Application (CSA) and Connect Secure products that could lead to privilege escalation and code execution.
-The list of vulnerabilities is as follows -
-
-CVE-2024-11639 (CVSS score: 10.0) - An authentication bypass vulnerability in the admin web console of Ivanti CSA before 5.0.3 that allows a remote]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCL NXTPAPER 14 Officially Arrives In Malaysia At RM1,749]]></title>
-        <id>https://www.lowyat.net/?p=339093</id>
-        <link href="https://www.lowyat.net/2024/339093/tcl-nxtpaper-14/"/>
-        <updated>2024-12-11T02:44:55.000Z</updated>
-        <summary type="html"><![CDATA[As previously promised, TCL has officially brought over its NXTPAPER 14 tablet to Malaysia. The tablet comes with the company’s anti-glare NXTPAPER 3.0 technology, which claims to minimise blue light and offers a paper-like display with a dedicated physical key to switch regular, colour paper, and ink paper modes. The NXTPAPER 14 sports a large […]
-The post TCL NXTPAPER 14 Officially Arrives In Malaysia At RM1,749 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ikmal Rozlan</name>
         </author>
     </entry>
     <entry>
