@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-26T02:09:05.518Z</updated>
+    <updated>2024-12-26T03:00:50.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Reveals Why It Won’t Make Its Own Search Engine]]></title>
+        <id>https://www.lowyat.net/?p=339913</id>
+        <link href="https://www.lowyat.net/2024/339913/apple-why-it-wont-make-search-engine/"/>
+        <updated>2024-12-26T02:38:07.000Z</updated>
+        <summary type="html"><![CDATA[For the longest time, Apple, a brand that has seemingly taken upon itself to either make or be involved in the making of nearly everything it markets, hasn’t had the same zeal for an internet search engine. As it turns out, there are three reasons for it, as revealed in the ongoing legal battle between […]
+The post Apple Reveals Why It Won’t Make Its Own Search Engine appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ruijie Networks' Cloud Platform Flaws Could Expose 50,000 Devices to Remote Attacks]]></title>
         <id>https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html</id>
@@ -2533,27 +2544,6 @@ The new findings come from the Microsoft threat intelligence team, which said it
         <updated>2024-12-11T15:13:00.000Z</updated>
         <summary type="html"><![CDATA[A newly devised technique leverages a Windows accessibility framework called UI Automation (UIA) to perform a wide range of malicious activities without tipping off endpoint detection and response (EDR) solutions.
 "To exploit this technique, a user must be convinced to run a program that uses UI Automation," Akamai security researcher Tomer Peled said in a report shared with The Hacker News. "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tips for Preventing Breaches in 2025]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/tips-preventing-breaches-2025</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/tips-preventing-breaches-2025"/>
-        <updated>2024-12-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hackers are constantly evolving, and so too should our security protocols.]]></summary>
-        <author>
-            <name>Pukar C. Hamal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts]]></title>
-        <id>https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html</id>
-        <link href="https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html"/>
-        <updated>2024-12-11T14:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have flagged a "critical" security vulnerability in Microsoft's multi-factor authentication (MFA) implementation that allows an attacker to trivially sidestep the protection and gain unauthorized access to a victim's account.
-"The bypass was simple: it took around an hour to execute, required no user interaction and did not generate any notification or provide the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
