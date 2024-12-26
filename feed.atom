@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2024-12-26T00:38:48.391Z</updated>
+    <updated>2024-12-26T02:09:05.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -2554,17 +2554,6 @@ The new findings come from the Microsoft threat intelligence team, which said it
         <updated>2024-12-11T14:32:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have flagged a "critical" security vulnerability in Microsoft's multi-factor authentication (MFA) implementation that allows an attacker to trivially sidestep the protection and gain unauthorized access to a victim's account.
 "The bypass was simple: it took around an hour to execute, required no user interaction and did not generate any notification or provide the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZLoader Malware Returns With DNS Tunneling to Stealthily Mask C2 Comms]]></title>
-        <id>https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html</id>
-        <link href="https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html"/>
-        <updated>2024-12-11T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new version of the ZLoader malware that employs a Domain Name System (DNS) tunnel for command-and-control (C2) communications, indicating that the threat actors are continuing to refine the tool after resurfacing a year ago.
-"Zloader 2.9.4.0 adds notable improvements including a custom DNS tunnel protocol for C2 communications and an interactive shell]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
