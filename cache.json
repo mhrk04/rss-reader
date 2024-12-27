@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Palo Alto Networks has disclosed a high-severity vulnerability impacting PAN-OS software that could cause a denial-of-service (DoS) condition on susceptible devices.\nThe flaw, tracked as CVE-2024-3393 (CVSS score: 8.7), impacts PAN-OS versions 10.X and 11.X, as well as Prisma Access running PAN-OS versions. It has been addressed in PAN-OS 10.1.14-h8, PAN-OS 10.2.10-h12, PAN-OS 11.1.5, PAN-OS",
+          "link": "https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html",
+          "publishedOn": "2024-12-27T07:34:00.000Z",
+          "wordCount": null,
+          "title": "Palo Alto Releases Patch for PAN-OS DoS Flaw — Update Immediately",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFUBddpk9ocXHlSGvUq9dfD8SDNLMC8JbBs1XjmLxS2IAqkniWDoE7Yw5U5Mq45AXx5jqiGNukZ5tHaSPqVrmr4I1ZXM8zZ69nceuv1lr_v7UllOVUYAyWSM6HISGyaG_dwCy8IKNgP2JN8hzAEY_TjOT-AJGU9z7HgiDkYoRL43K18uqXM381n713dTY/s1600/palo.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFUBddpk9ocXHlSGvUq9dfD8SDNLMC8JbBs1XjmLxS2IAqkniWDoE7Yw5U5Mq45AXx5jqiGNukZ5tHaSPqVrmr4I1ZXM8zZ69nceuv1lr_v7UllOVUYAyWSM6HISGyaG_dwCy8IKNgP2JN8hzAEY_TjOT-AJGU9z7HgiDkYoRL43K18uqXM381n713dTY/s1600/palo.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are warning about a spike in malicious activity that involves roping vulnerable D-Link routers into two different botnets, a Mirai variant dubbed FICORA and a Kaiten (aka Tsunami) variant called CAPSAICIN.\n\"These botnets are frequently spread through documented D-Link vulnerabilities that allow remote attackers to execute malicious commands via a GetDeviceSettings",
+          "link": "https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html",
+          "publishedOn": "2024-12-27T07:11:00.000Z",
+          "wordCount": null,
+          "title": "FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQIv1DE04JbZFZe-ocsLLDeKiOSZPg7KE8HyGebKlXtKPTeBSUJnAs_lLGgfuMBtV__U2gj_fOTK2rQoGyhPmksWQb4G89S4MaGSfuSN0FtSDKmH37b8O2xE2IZX6Ls1CgpCQV4LXftNfEK75mMAVRubho1sFnbI324jQar9HTQPIiQLGRqzHhT2bZnKv/s1600/botnet.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQIv1DE04JbZFZe-ocsLLDeKiOSZPg7KE8HyGebKlXtKPTeBSUJnAs_lLGgfuMBtV__U2gj_fOTK2rQoGyhPmksWQb4G89S4MaGSfuSN0FtSDKmH37b8O2xE2IZX6Ls1CgpCQV4LXftNfEK75mMAVRubho1sFnbI324jQar9HTQPIiQLGRqzHhT2bZnKv/s1600/botnet.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Apache Software Foundation (ASF) has released patches to address a maximum severity vulnerability in the MINA Java network application framework that could result in remote code execution under specific conditions.\nTracked as CVE-2024-52046, the vulnerability carries a CVSS score of 10.0. It affects versions 2.0.X, 2.1.X, and 2.2.X.\n\"The ObjectSerializationDecoder in Apache MINA uses Java's",
@@ -20244,6 +20276,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=340009",
+          "author": "Ian Chee",
+          "description": "Last month, YouTube added a range of features that makes watching videos on the platform a better experience. Now, it looks like the Google subsidiary is testing a feature that encourages the use of the newly added features, somewhat. Or it’s just something to keep you on the platform, even when you’ve run out of […]\nThe post YouTube Experiments Floating Action Button That Plays A Random Video appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/340009/youtube-button-plays-random-video/",
+          "publishedOn": "2024-12-27T07:58:48.000Z",
+          "wordCount": 4688,
+          "title": "YouTube Experiments Floating Action Button That Plays A Random Video",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/12/YouTube-Play-something.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=340007",
+          "author": "John Law",
+          "description": "xAI reported that it had successfully raised US$6 billion (~RM26.88 billion) in funding during a recent Series C funding campaign. Investors that gave money to the startup including tech giants NVIDIA and AMD. “The funds from this financing round will be used to further accelerate our advanced infrastructure, ship groundbreaking products that will be used […]\nThe post Elon Musk’s xAI Raises US$6 Billion In Funding From NVIDIA, AMD appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2024/340007/elon-musks-xai-raises-us6-billion-in-funding-from-nvidia-amd/",
+          "publishedOn": "2024-12-27T07:45:19.000Z",
+          "wordCount": 4590,
+          "title": "Elon Musk’s xAI Raises US$6 Billion In Funding From NVIDIA, AMD",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/04/elon-musk-3.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=340003",
           "author": "Ian Chee",
@@ -21895,16 +21947,6 @@
           "wordCount": 4868,
           "title": "IoT Cloud Cracked by 'Open Sesame' Over-the-Air Attack",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte3ed615a58a2fb4d/675b3c4dc139cad75004a248/airport_wifi_Hilke_Maunder_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/europol-holiday-ddos-attacks",
-          "author": "Kristina Beek, Associate Editor, Dark Reading",
-          "description": "In Operation PowerOFF, global authorities aim to deter individuals from engaging in malicious cyber acts.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/europol-holiday-ddos-attacks",
-          "publishedOn": "2024-12-12T19:57:24.000Z",
-          "wordCount": 4055,
-          "title": "Europol Cracks Down on Holiday DDoS Attacks",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt988215287b433fa1/66fc35ff7ff204163489e542/europol1800_M4OS_Photos_alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
