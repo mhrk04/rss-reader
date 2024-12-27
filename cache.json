@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Apache Software Foundation (ASF) has released patches to address a maximum severity vulnerability in the MINA Java network application framework that could result in remote code execution under specific conditions.\nTracked as CVE-2024-52046, the vulnerability carries a CVSS score of 10.0. It affects versions 2.0.X, 2.1.X, and 2.2.X.\n\"The ObjectSerializationDecoder in Apache MINA uses Java's",
+          "link": "https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html",
+          "publishedOn": "2024-12-27T06:46:00.000Z",
+          "wordCount": null,
+          "title": "Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi57grjBxRdOKTcw2Zw4biBr0ScKT1tKkWSUAkl7Ivh1dinneR9JnBw6wi6eH33cKzptjP32C4lbaUn5AitkvbtW0D38k_wVjhsvOw_QBezoLiyGN7zi0SbkqGhb3J_Of6GD9-TLWpFNazyyJBYM1y_gh4WYgbKB7breimh-NL5GCzVgr3ovMcV7jJ4hgSa/s1600/apache-mina.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi57grjBxRdOKTcw2Zw4biBr0ScKT1tKkWSUAkl7Ivh1dinneR9JnBw6wi6eH33cKzptjP32C4lbaUn5AitkvbtW0D38k_wVjhsvOw_QBezoLiyGN7zi0SbkqGhb3J_Of6GD9-TLWpFNazyyJBYM1y_gh4WYgbKB7breimh-NL5GCzVgr3ovMcV7jJ4hgSa/s1600/apache-mina.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/12/brazilian-hacker-charged-for-extorting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A Brazilian citizen has been charged in the United States for allegedly threatening to release data stolen by hacking into a company's network in March 2020.\nJunior Barros De Oliveira, 29, of Curitiba, Brazil has been charged with four counts of extortionate threats involving information obtained from protected computers and four counts of threatening communications, the U.S. Department of",
@@ -21889,16 +21905,6 @@
           "wordCount": 4055,
           "title": "Europol Cracks Down on Holiday DDoS Attacks",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt988215287b433fa1/66fc35ff7ff204163489e542/europol1800_M4OS_Photos_alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/efforts-secure-us-telcos-salt-typhoon",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "The rules necessary to secure US communications have already been in place for 30 years, argues Sen. Wyden, the FCC just hasn't enforced them. It's unclear if they will help.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/efforts-secure-us-telcos-salt-typhoon",
-          "publishedOn": "2024-12-12T18:51:21.000Z",
-          "wordCount": 5362,
-          "title": "Efforts to Secure US Telcos Beset by Salt Typhoon Might Fall Flat",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ddd4aba87389b6b/66f46bf09469e1e28aed95a2/salt-BSIP_SA-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
