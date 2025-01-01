@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-01T17:06:51.748Z</updated>
+    <updated>2025-01-01T17:36:36.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -1744,6 +1744,17 @@ The campaign has been codenamed HubPhish by Palo Alto Networks Unit 42 owing to 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected]]></title>
+        <id>https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html</id>
+        <link href="https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html"/>
+        <updated>2024-12-18T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are attempting to exploit a recently disclosed security flaw impacting Apache Struts that could pave the way for remote code execution.
+The issue, tracked as CVE-2024-53677, carries a CVSS score of 9.5 out of 10.0, indicating critical severity. The vulnerability shares similarities with another critical bug the project maintainers addressed in December 2023 (CVE-2023-50164, CVSS]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Not Your Old ActiveState: Introducing our End-to-End OS Platform]]></title>
         <id>https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html</id>
         <link href="https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html"/>
@@ -1872,28 +1883,6 @@ The post HONOR Magic V3: Malaysia’s Top-Selling Foldable Phone appeared first 
 The Irish Data Protection Commission (DPC) said the data breach impacted approximately 29 million]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUS Zenbook S14 Lunar Lake Review: Peak Performance, Really Long Battery Life]]></title>
-        <id>https://www.lowyat.net/?p=337190</id>
-        <link href="https://www.lowyat.net/2024/337190/asus-zenbook-s14-lunar-lake-review/"/>
-        <updated>2024-12-18T05:31:58.000Z</updated>
-        <summary type="html"><![CDATA[It’s been close to a year since I last tested ASUS’ Meteor Lake-powered Zenbook 14 OLED, and right now, I’m about to break down my experience with the Lunar Lake-powered Zenbook S14. It’s been a tumultuous year for Intel, and despite having said that Lunar Lake is going to be a one-off in terms of […]
-The post ASUS Zenbook S14 Lunar Lake Review: Peak Performance, Really Long Battery Life appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tune Talk Completes Migration To AWS; Claims First Fully Cloud-Enabled Telco In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=339599</id>
-        <link href="https://www.lowyat.net/2024/339599/tune-talk-first-cloud-telco-malaysia/"/>
-        <updated>2024-12-18T05:08:07.000Z</updated>
-        <summary type="html"><![CDATA[Having pretty recently revamped plans, Tune Talk has announced that it will now be able to also launch new prepaid plans at a rapid pace. This is thanks to the completion of its migration process to the cloud, or more specifically Amazon Web Services (AWS). With this, Tune Talk also claims that it is the […]
-The post Tune Talk Completes Migration To AWS; Claims First Fully Cloud-Enabled Telco In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
         </author>
     </entry>
     <entry>
