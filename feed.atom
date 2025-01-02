@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-02T20:38:18.367Z</updated>
+    <updated>2025-01-02T21:07:08.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VicOne and Zero Day Initiative (ZDI) to Lead Pwn2Own Automotive]]></title>
+        <id>https://www.darkreading.com/application-security/vicone-and-zero-day-initiative-zdi-to-lead-pwn2own-automotive</id>
+        <link href="https://www.darkreading.com/application-security/vicone-and-zero-day-initiative-zdi-to-lead-pwn2own-automotive"/>
+        <updated>2025-01-02T20:53:57.000Z</updated>
+        <author>
+            <name>darkreading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Soldier Arrested in Verizon, AT&amp;T Hacks]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/us-soldier-arrested-in-verizon-at-t-hack</id>
@@ -14,6 +23,16 @@
         <summary type="html"><![CDATA[Wagenius posted about hacking more than 15 telecom providers on the Telegram messaging service.]]></summary>
         <author>
             <name>Kristina Beek, Associate Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpatched Active Directory Flaw Can Crash Any Microsoft Server]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/active-directory-flaw-can-crash-any-microsoft-server-connected-to-the-internet</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/active-directory-flaw-can-crash-any-microsoft-server-connected-to-the-internet"/>
+        <updated>2025-01-02T16:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Windows servers are vulnerable to a dangerous LDAP vulnerability that could be used to crash multiple servers at once and should be patched immediately.]]></summary>
+        <author>
+            <name>Becky Bracken, Senior Editor, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -1712,28 +1731,6 @@ An investigation launched by the DPA in 2019 found that the tech giant did not i
 The post AMD Radeon RX 7900 GRE Is Reportedly Being Discontinued appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Acer Swift Go 14 AI: Your Next Productivity Bestie]]></title>
-        <id>https://www.lowyat.net/?p=339711</id>
-        <link href="https://www.lowyat.net/2024/339711/meet-the-acer-swift-go-14-ai/"/>
-        <updated>2024-12-19T09:06:19.000Z</updated>
-        <summary type="html"><![CDATA[The Acer Swift Go 14 AI is a sleek, next-gen laptop designed for those who need power, portability, and smart AI features for their daily tasks. Whether you’re working, creating or just going through your usual routine, this laptop offers a mix of performance and convenience that may appeal to a range of users. Strong […]
-The post Meet the Acer Swift Go 14 AI: Your Next Productivity Bestie appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Newsdesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App]]></title>
-        <id>https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html</id>
-        <link href="https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html"/>
-        <updated>2024-12-19T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed that a threat actor it tracks as UAC-0125 is leveraging Cloudflare Workers service to trick military personnel in the country into downloading malware disguised as Army+, a mobile app that was introduced by the Ministry of Defence back in August 2024 in an effort to make the armed forces go paperless.
-Users who visit the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
