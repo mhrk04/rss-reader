@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-03T18:10:51.823Z</updated>
+    <updated>2025-01-03T18:43:18.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -1716,17 +1716,6 @@ Following the discovery, versions 1.1.7 of both libraries have been unpublished 
         <updated>2024-12-20T08:13:00.000Z</updated>
         <summary type="html"><![CDATA[Sophos has released hotfixes to address three security flaws in Sophos Firewall products that could be exploited to achieve remote code execution and allow privileged system access under certain conditions.
 Of the three, two are rated Critical in severity. There is currently no evidence that the shortcomings have been exploited in the wild. The list of vulnerabilities is as follows -]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploiting Critical Fortinet EMS Vulnerability to Deploy Remote Access Tools]]></title>
-        <id>https://thehackernews.com/2024/12/hackers-exploiting-critical-fortinet.html</id>
-        <link href="https://thehackernews.com/2024/12/hackers-exploiting-critical-fortinet.html"/>
-        <updated>2024-12-20T06:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A now-patched critical security flaw impacting Fortinet FortiClient EMS is being exploited by malicious actors as part of a cyber campaign that installed remote desktop software such as AnyDesk and ScreenConnect. 
-The vulnerability in question is CVE-2023-48788 (CVSS score: 9.3), an SQL injection bug that allows attackers to execute unauthorized code or commands by sending specially crafted]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
