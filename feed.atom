@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-03T08:10:51.779Z</updated>
+    <updated>2025-01-03T08:41:51.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers]]></title>
+        <id>https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html</id>
+        <link href="https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html"/>
+        <updated>2025-01-03T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[A proof-of-concept (PoC) exploit has been released for a now-patched security flaw impacting Windows Lightweight Directory Access Protocol (LDAP) that could trigger a denial-of-service (DoS) condition.
+The out-of-bounds reads vulnerability is tracked as CVE-2024-49113 (CVSS score: 7.5). It was addressed by Microsoft as part of Patch Tuesday updates for December 2024, alongside CVE-2024-49112 (]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSI GeForce RTX 5080 Gaming Trio Packaging Leaks]]></title>
         <id>https://www.lowyat.net/?p=340255</id>
