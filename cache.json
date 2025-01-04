@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/01/researchers-uncover-nuclei.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A high-severity security flaw has been disclosed in ProjectDiscovery's Nuclei, a widely-used open-source vulnerability scanner that, if successfully exploited, could allow attackers to bypass signature checks and potentially execute malicious code.\nTracked as CVE-2024-43405, it carries a CVSS score of 7.4 out of a maximum of 10.0. It impacts all versions of Nuclei later than 3.0.0.\n\"The",
+          "link": "https://thehackernews.com/2025/01/researchers-uncover-nuclei.html",
+          "publishedOn": "2025-01-04T14:29:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover Nuclei Vulnerability Enabling Signature Bypass and Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir3o9j_YWWCSniM87Jro_iVjNXcZqFYb8NhLcxmgExmTaKp_GJaWxXTdsA-irDOtzsNVUEsNe7nA9y86fzT-4ZqIT1Mg3hF5tjaLC3Nwk2B6biNloAiiyKQQindOdAMmyoaBQMC7hTtEU2VspsnIUBvUygqNo93kxOiPLJQjPLkpHihCAL0swV27eWU3SK/s1600/attack.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir3o9j_YWWCSniM87Jro_iVjNXcZqFYb8NhLcxmgExmTaKp_GJaWxXTdsA-irDOtzsNVUEsNe7nA9y86fzT-4ZqIT1Mg3hF5tjaLC3Nwk2B6biNloAiiyKQQindOdAMmyoaBQMC7hTtEU2VspsnIUBvUygqNo93kxOiPLJQjPLkpHihCAL0swV27eWU3SK/s1600/attack.gif"
+        },
+        {
           "id": "https://thehackernews.com/2025/01/playfulghost-delivered-via-phishing-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have flagged a new malware called PLAYFULGHOST that comes with a wide range of information-gathering features like keylogging, screen capture, audio capture, remote shell, and file transfer/execution.\nThe backdoor, according to Google's Managed Defense team, shares functional overlaps with a known remote administration tool referred to as Gh0st RAT, which had its source",
