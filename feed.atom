@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-07T17:38:26.035Z</updated>
+    <updated>2025-01-07T18:11:07.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA: Third-Party Data Breach Limited to Treasury Dept.]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/cisa-third-party-data-breach-limited-treasury-dept</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/cisa-third-party-data-breach-limited-treasury-dept"/>
+        <updated>2025-01-07T17:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The breach was carried out by exploiting CVE-2024-12356 in BeyondTrust cybersecurity company, just last week.]]></summary>
+        <author>
+            <name>Kristina Beek, Associate Editor, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PhishWP Plug-in Hijacks WordPress E-Commerce Checkouts]]></title>
         <id>https://www.darkreading.com/threat-intelligence/phishwp-plugin-hijacks-wordpress-e-commerce-checkouts</id>
@@ -1784,17 +1794,6 @@ The post Sega Mulls Over Creating Its Own Games Subscription Service appeared fi
 The post Apple May Launch M4 MacBook Air Ahead Of iPhone SE 4, Upcoming iPads appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks]]></title>
-        <id>https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html</id>
-        <link href="https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html"/>
-        <updated>2024-12-24T06:06:00.000Z</updated>
-        <summary type="html"><![CDATA[The Apache Software Foundation (ASF) has released a security update to address an important vulnerability in its Tomcat server software that could result in remote code execution (RCE) under certain conditions.
-The vulnerability, tracked as CVE-2024-56337, has been described as an incomplete mitigation for CVE-2024-50379 (CVSS score: 9.8), another critical security flaw in the same product that]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
