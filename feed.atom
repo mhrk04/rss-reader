@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-10T18:44:05.915Z</updated>
+    <updated>2025-01-10T19:06:20.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -2282,18 +2282,6 @@ The flaw, tracked as CVE-2024-3393 (CVSS score: 8.7), impacts PAN-OS versions 10
         <updated>2024-12-27T07:11:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers are warning about a spike in malicious activity that involves roping vulnerable D-Link routers into two different botnets, a Mirai variant dubbed FICORA and a Kaiten (aka Tsunami) variant called CAPSAICIN.
 "These botnets are frequently spread through documented D-Link vulnerabilities that allow remote attackers to execute malicious commands via a GetDeviceSettings]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization]]></title>
-        <id>https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html</id>
-        <link href="https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html"/>
-        <updated>2024-12-27T06:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The Apache Software Foundation (ASF) has released patches to address a maximum severity vulnerability in the MINA Java network application framework that could result in remote code execution under specific conditions.
-Tracked as CVE-2024-52046, the vulnerability carries a CVSS score of 10.0. It affects versions 2.0.X, 2.1.X, and 2.2.X.
-"The ObjectSerializationDecoder in Apache MINA uses Java's]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
