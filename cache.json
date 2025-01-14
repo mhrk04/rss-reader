@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has shed light on a now-patched security flaw impacting Apple macOS that, if successfully exploited, could have allowed an attacker running as \"root\" to bypass the operating system's System Integrity Protection (SIP) and install malicious kernel drivers by loading third-party kernel extensions.\nThe vulnerability in question is CVE-2024-44243 (CVSS score: 5.5), a medium-severity bug",
+          "link": "https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html",
+          "publishedOn": "2025-01-14T16:53:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Uncovers macOS Vulnerability CVE-2024-44243 Allowing Rootkit Installation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHoNAwg0QD3kCZJ26-sOd41RZJ2gZwGikcH-Q_0-Fir3zXfMIrW5g1tYsrNEfvZo1KXOWn5yzJvyo8QD7e8oJA3w46gF4VSgMGBfP9fPtrOzucYn4BbYVvZAGaqy7SOE9E55QVa3eYd1UexO_B0K55PAS0SfovuhWVeJfgGSc4ZwW8wmxNC4zjBy-mcOZG/s1600/apple.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHoNAwg0QD3kCZJ26-sOd41RZJ2gZwGikcH-Q_0-Fir3zXfMIrW5g1tYsrNEfvZo1KXOWn5yzJvyo8QD7e8oJA3w46gF4VSgMGBfP9fPtrOzucYn4BbYVvZAGaqy7SOE9E55QVa3eYd1UexO_B0K55PAS0SfovuhWVeJfgGSc4ZwW8wmxNC4zjBy-mcOZG/s1600/apple.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/01/google-oauth-vulnerability-exposes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "New research has pulled back the curtain on a \"deficiency\" in Google's \"Sign in with Google\" authentication flow that exploits a quirk in domain ownership to gain access to sensitive data.\n\"Google's OAuth login doesn't protect against someone purchasing a failed startup's domain and using it to re-create email accounts for former employees,\" Truffle Security co-founder and CEO Dylan Ayrey said",
+          "link": "https://thehackernews.com/2025/01/google-oauth-vulnerability-exposes.html",
+          "publishedOn": "2025-01-14T16:38:00.000Z",
+          "wordCount": null,
+          "title": "Google OAuth Vulnerability Exposes Millions via Failed Startup Domains",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw6JL17XxT5IbACWee3LpfrgwerCgKNdqZWNWB59OAYXjidLrY9u7chbYEWS73WZyzJvgJDKXDBsQZHyiw74gLLhsv8wEhNvjFx5wBWwBfb8thVaeR9cebrRY4k0fvtlgZw3Dn1jcJg_Mx892qPesDPUFXVww_8aY5j2nApc1F0TymAgXQskHiZYE5PtZl/s1600/google.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw6JL17XxT5IbACWee3LpfrgwerCgKNdqZWNWB59OAYXjidLrY9u7chbYEWS73WZyzJvgJDKXDBsQZHyiw74gLLhsv8wEhNvjFx5wBWwBfb8thVaeR9cebrRY4k0fvtlgZw3Dn1jcJg_Mx892qPesDPUFXVww_8aY5j2nApc1F0TymAgXQskHiZYE5PtZl/s1600/google.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/01/4-reasons-your-saas-attack-surface-can.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "What do identity risks, data security risks and third-party risks all have in common? They are all made much worse by SaaS sprawl. Every new SaaS account adds a new identity to secure, a new place where sensitive data can end up, and a new source of third party risk. Learn how you can protect this sprawling attack surface in 2025.\n\nWhat do identity risks, data security risks and third-party",
