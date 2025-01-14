@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-14T17:37:16.606Z</updated>
+    <updated>2025-01-14T18:10:31.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zero-Day Security Bug Likely Fueling Fortinet Firewall Attacks]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/zero-day-security-bug-fortinet-firewall-attacks</id>
+        <link href="https://www.darkreading.com/threat-intelligence/zero-day-security-bug-fortinet-firewall-attacks"/>
+        <updated>2025-01-14T17:50:24.000Z</updated>
+        <summary type="html"><![CDATA[An ongoing campaign targeting FortiGate devices with management interfaces exposed on the public Internet is leading to unauthorized administrative logins and configuration changes, creating new accounts, and performing SSL VPN authentication.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Uncovers macOS Vulnerability CVE-2024-44243 Allowing Rootkit Installation]]></title>
         <id>https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html</id>
@@ -2464,28 +2474,6 @@ The post US Treasury Claims Network Was Attacked By Chinese Hackers appeared fir
 The post Samsung Galaxy S25 Series May Google Gemini Advanced For Free appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zotac Reportedly Preparing To Announce New Gaming Zone Handheld At CES 2025]]></title>
-        <id>https://www.lowyat.net/?p=340125</id>
-        <link href="https://www.lowyat.net/2024/340125/zotac-reportedly-preparing-to-announce-new-gaming-zone-handheld-at-ces-2025/"/>
-        <updated>2024-12-31T05:43:09.000Z</updated>
-        <summary type="html"><![CDATA[We first saw the Zotac Gaming Zone back at Computex 2024 with the gaming handheld officially going on sale earlier this month. Now it appears that the brand is planning on launching a new version of the console next month, during CES 2025. According to TPU, Zotac plans on giving the media a “sneak peek” […]
-The post Zotac Reportedly Preparing To Announce New Gaming Zone Handheld At CES 2025 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents]]></title>
-        <id>https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html</id>
-        <link href="https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html"/>
-        <updated>2024-12-31T05:42:00.000Z</updated>
-        <summary type="html"><![CDATA[The United States Treasury Department said it suffered a "major cybersecurity incident" that allowed suspected Chinese threat actors to remotely access some computers and unclassified documents. 
-"On December 8, 2024, Treasury was notified by a third-party software service provider, BeyondTrust, that a threat actor had gained access to a key used by the vendor to secure a cloud-based]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
