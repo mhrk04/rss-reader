@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft kicked off 2025 with a new set of patches for a total of 161 security vulnerabilities across its software portfolio, including three zero-days that have been actively exploited in attacks.\nOf the 161 flaws, 11 are rated Critical, and 149 are rated Important in severity. One other flaw, a non-Microsoft CVE related to a Windows Secure Boot bypass (CVE-2024-7344), has not been assigned",
+          "link": "https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html",
+          "publishedOn": "2025-01-15T05:15:00.000Z",
+          "wordCount": null,
+          "title": "3 Actively Exploited Zero-Day Flaws Patched in Microsoft's Latest Security Update",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkiott94715VCAoAs203Jb1LQ5uaRVEz0tRIIupDtvMEQ5mNPY3eeJusJPb9QZd1JgBLZj4gXTrQJWiTBVd5PaXzfqB95I8pSVsOh2Kfm-QVAvzKiO9LSrCmMyNk4twpvw14gqEHgJzBOPa8rbp75Sc6tZxCcmz5e76RlXuOh2ZkmSI4fX1k9sdeM_43LS/s1600/windows.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkiott94715VCAoAs203Jb1LQ5uaRVEz0tRIIupDtvMEQ5mNPY3eeJusJPb9QZd1JgBLZj4gXTrQJWiTBVd5PaXzfqB95I8pSVsOh2Kfm-QVAvzKiO9LSrCmMyNk4twpvw14gqEHgJzBOPa8rbp75Sc6tZxCcmz5e76RlXuOh2ZkmSI4fX1k9sdeM_43LS/s1600/windows.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed multiple security flaws in SimpleHelp remote access software that could lead to information disclosure, privilege escalation, and remote code execution.\nHorizon3.ai researcher Naveen Sunkavally, in a technical report detailing the findings, said the \"vulnerabilities are trivial to reverse and exploit.\"\nThe list of identified flaws is as follows -",
+          "link": "https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html",
+          "publishedOn": "2025-01-15T05:10:00.000Z",
+          "wordCount": null,
+          "title": "Critical SimpleHelp Flaws Allow File Theft, Privilege Escalation, and RCE Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSpnxlWbTDq4IaFE8_ROHY9JHZ71pHmcabqaATIn5PCDOetgN6oQbkcxmJKWnmo9wVfYeQMVH5wY9nek_aAUhFsDtvEVEoU047Rd-rKH1sBdr0Rq1QwLFXJAfH9Sm4-7p77e8PcCsO-5LmiMpohh9m7mYd4XpNqyUl4niXYOC1Offp61Dz9IyeAgB4NgN/s1600/exploit.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSpnxlWbTDq4IaFE8_ROHY9JHZ71pHmcabqaATIn5PCDOetgN6oQbkcxmJKWnmo9wVfYeQMVH5wY9nek_aAUhFsDtvEVEoU047Rd-rKH1sBdr0Rq1QwLFXJAfH9Sm4-7p77e8PcCsO-5LmiMpohh9m7mYd4XpNqyUl4niXYOC1Offp61Dz9IyeAgB4NgN/s1600/exploit.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft has shed light on a now-patched security flaw impacting Apple macOS that, if successfully exploited, could have allowed an attacker running as \"root\" to bypass the operating system's System Integrity Protection (SIP) and install malicious kernel drivers by loading third-party kernel extensions.\nThe vulnerability in question is CVE-2024-44243 (CVSS score: 5.5), a medium-severity bug",
@@ -20212,6 +20244,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=340937",
+          "author": "Ian Chee",
+          "description": "If your work heavily involves working with others and involving Adobe Photoshop in the process, there’s some potentially good news for you. The company has announced a private beta testing for live co-editing within Photoshop, letting multiple people to work on the same file from different computers at the same time. The feature sounds as […]\nThe post Adobe Photoshop Gets Live Co-Editing Beta appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/340937/adobe-photoshop-live-co-editing-beta/",
+          "publishedOn": "2025-01-15T05:46:38.000Z",
+          "wordCount": 4561,
+          "title": "Adobe Photoshop Gets Live Co-Editing Beta",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/01/Adobe-Photoshop-live-co-editing-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=340932",
           "author": "Ikmal Rozlan",
