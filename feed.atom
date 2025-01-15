@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-15T15:38:05.728Z</updated>
+    <updated>2025-01-15T16:09:24.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea's Lazarus APT Evolves Developer-Recruitment Attacks]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/north-korea-lazarus-apt-developer-recruitment-attacks</id>
+        <link href="https://www.darkreading.com/threat-intelligence/north-korea-lazarus-apt-developer-recruitment-attacks"/>
+        <updated>2025-01-15T16:02:08.000Z</updated>
+        <summary type="html"><![CDATA["Operation 99" uses job postings to lure freelance software developers into downloading malicious Git repositories. From there, malware infiltrates developer projects to steal source code, secrets, and cryptocurrency.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OWASP's New LLM Top 10 Shows Emerging AI Threats]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/owasps-llm-top-10-shows-emerging-ai-threats</id>
