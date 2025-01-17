@@ -20412,22 +20412,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh53on30HjbmoMag2FnIBQ5wzXH0y4kLfUZdnc5lyayjbSzYsHJAkQO-d2HYrjngF4ljiKz5edAHMKfkTsqmJ2fwXkxKUainRP2ppXjfxlF7tn-kaPTKQZnivateDHl-eOSSLvbEQjRLXy7wofsXCGGTbcZAykum_p3Iuah1aT1bQ1L_Cy4rXLh1tPdDmjo/s1600/ai-jailbreak.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh53on30HjbmoMag2FnIBQ5wzXH0y4kLfUZdnc5lyayjbSzYsHJAkQO-d2HYrjngF4ljiKz5edAHMKfkTsqmJ2fwXkxKUainRP2ppXjfxlF7tn-kaPTKQZnivateDHl-eOSSLvbEQjRLXy7wofsXCGGTbcZAykum_p3Iuah1aT1bQ1L_Cy4rXLh1tPdDmjo/s1600/ai-jailbreak.png"
-        },
-        {
-          "id": "https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A proof-of-concept (PoC) exploit has been released for a now-patched security flaw impacting Windows Lightweight Directory Access Protocol (LDAP) that could trigger a denial-of-service (DoS) condition.\nThe out-of-bounds reads vulnerability is tracked as CVE-2024-49113 (CVSS score: 7.5). It was addressed by Microsoft as part of Patch Tuesday updates for December 2024, alongside CVE-2024-49112 (",
-          "link": "https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html",
-          "publishedOn": "2025-01-03T08:16:00.000Z",
-          "wordCount": null,
-          "title": "LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIUfKtlV9e5GmPANDTC9yX-qIuGbG2OZYeIXKQEBg1WHpNb9OIeCo7N24GBpULqQzu2s_ftAvOYNEBtllenXATtElKJoYTytHc2oMWSQyh0f-SLjy-WzoA-qmdS4UrNpLgORvFd8S7gWZMXy5Q1i1OhRUpwyNwcKRA6E0NK8ffVd1sV7OlF74l_dIrUDPv/s1600/exploit-poc.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIUfKtlV9e5GmPANDTC9yX-qIuGbG2OZYeIXKQEBg1WHpNb9OIeCo7N24GBpULqQzu2s_ftAvOYNEBtllenXATtElKJoYTytHc2oMWSQyh0f-SLjy-WzoA-qmdS4UrNpLgORvFd8S7gWZMXy5Q1i1OhRUpwyNwcKRA6E0NK8ffVd1sV7OlF74l_dIrUDPv/s1600/exploit-poc.png"
         }
       ]
     },
@@ -21693,6 +21677,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint-security/15k-fortinet-device-configs-leaked-dark-web",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "The stolen firewall data is thorough but more than 2 years old now, meaning that most organizations following even basic security practices face minimal risk, hopefully.",
+          "link": "https://www.darkreading.com/endpoint-security/15k-fortinet-device-configs-leaked-dark-web",
+          "publishedOn": "2025-01-17T19:44:31.000Z",
+          "wordCount": 5317,
+          "title": "15K Fortinet Device Configs Leaked to the Dark Web",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcf3fddce2861c6c4/678aac5068b10fae3fe375d1/Fortinet-JHVEPhoto-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/leveraging-behavioral-insights-counter-llm-enabled-hacking",
           "author": "Aybars Tuncdogan, Oguz A. Acar",

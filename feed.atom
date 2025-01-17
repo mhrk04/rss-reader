@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-17T20:08:54.026Z</updated>
+    <updated>2025-01-17T20:37:04.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[15K Fortinet Device Configs Leaked to the Dark Web]]></title>
+        <id>https://www.darkreading.com/endpoint-security/15k-fortinet-device-configs-leaked-dark-web</id>
+        <link href="https://www.darkreading.com/endpoint-security/15k-fortinet-device-configs-leaked-dark-web"/>
+        <updated>2025-01-17T19:44:31.000Z</updated>
+        <summary type="html"><![CDATA[The stolen firewall data is thorough but more than 2 years old now, meaning that most organizations following even basic security practices face minimal risk, hopefully.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leveraging Behavioral Insights to Counter LLM-Enabled Hacking]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/leveraging-behavioral-insights-counter-llm-enabled-hacking</id>
@@ -2871,17 +2881,6 @@ The multi-turn (aka many-shot) attack strategy has been codenamed Bad Likert Jud
 The post Boost Bank, Alliance Bank Get Google Wallet Support appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers]]></title>
-        <id>https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html</id>
-        <link href="https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html"/>
-        <updated>2025-01-03T08:16:00.000Z</updated>
-        <summary type="html"><![CDATA[A proof-of-concept (PoC) exploit has been released for a now-patched security flaw impacting Windows Lightweight Directory Access Protocol (LDAP) that could trigger a denial-of-service (DoS) condition.
-The out-of-bounds reads vulnerability is tracked as CVE-2024-49113 (CVSS score: 7.5). It was addressed by Microsoft as part of Patch Tuesday updates for December 2024, alongside CVE-2024-49112 (]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
