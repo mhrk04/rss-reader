@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-20T05:38:32.580Z</updated>
+    <updated>2025-01-20T06:11:55.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Deploy Malicious npm Packages to Steal Solana Wallet Keys via Gmail SMTP]]></title>
+        <id>https://thehackernews.com/2025/01/hackers-deploy-malicious-npm-packages.html</id>
+        <link href="https://thehackernews.com/2025/01/hackers-deploy-malicious-npm-packages.html"/>
+        <updated>2025-01-20T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have identified three sets of malicious packages across the npm and Python Package Index (PyPI) repository that come with capabilities to steal data and even delete sensitive data from infected systems.
+The list of identified packages is below -
+
+@async-mutex/mutex, a typosquat of async-mute (npm)
+dexscreener, which masquerades as a library for accessing liquidity pool]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony LinkBuds Speaker Now Available At RM899]]></title>
         <id>https://www.lowyat.net/?p=341254</id>
