@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-23T17:07:21.409Z</updated>
+    <updated>2025-01-23T17:37:50.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -47,6 +47,18 @@
         <summary type="html"><![CDATA[Such routers typically lack endpoint detection and response protection, are in front of a firewall, and don't run monitoring software like Sysmon, making the attacks harder to detect.]]></summary>
         <author>
             <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Backdoor Exploiting Magic Packet Vulnerability in Juniper Routers]]></title>
+        <id>https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html</id>
+        <link href="https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html"/>
+        <updated>2025-01-23T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise-grade Juniper Networks routers have become the target of a custom backdoor as part of a campaign dubbed J-magic.
+According to the Black Lotus Labs team at Lumen Technologies, the activity is so named for the fact that the backdoor continuously monitors for a "magic packet" sent by the threat actor in TCP traffic. 
+"J-magic campaign marks the rare occasion of malware designed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
