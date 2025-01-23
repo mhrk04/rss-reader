@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-23T15:08:10.355Z</updated>
+    <updated>2025-01-23T15:38:51.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Firewalls Found Vulnerable to Secure Boot Bypass and Firmware Exploits]]></title>
+        <id>https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html</id>
+        <link href="https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html"/>
+        <updated>2025-01-23T15:13:00.000Z</updated>
+        <summary type="html"><![CDATA[An exhaustive evaluation of three firewall models from Palo Alto Networks has uncovered a host of known security flaws impacting the devices' firmware as well as misconfigured security features.
+"These weren't obscure, corner-case vulnerabilities," security vendor Eclypsium said in a report shared with The Hacker News.
+"Instead these were very well-known issues that we wouldn't expect to see]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware: Fake CAPTCHA Campaign Spreads Lumma Stealer in Multi-Industry Attacks]]></title>
+        <id>https://thehackernews.com/2025/01/beware-fake-captcha-campaign-spreads.html</id>
+        <link href="https://thehackernews.com/2025/01/beware-fake-captcha-campaign-spreads.html"/>
+        <updated>2025-01-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are calling attention to a new malware campaign that leverages fake CAPTCHA verification checks to deliver the infamous Lumma information stealer.
+"The campaign is global, with Netskope Threat Labs tracking victims targeted in Argentina, Colombia, the United States, the Philippines, and other countries around the world," Leandro Fróes, senior threat research engineer at]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Security Risk of Rampant Shadow AI]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/security-risk-rampant-shadow-ai</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/security-risk-rampant-shadow-ai"/>
+        <updated>2025-01-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While employees want to take advantage of the increased efficiency of GenAI and LLMs, CISOs and IT teams must be diligent and stay on top of the most up-to-date security regulations.]]></summary>
+        <author>
+            <name>Anuj Jaiswal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black 'Magic' Targets Enterprise Juniper Routers With Backdoor]]></title>
         <id>https://www.darkreading.com/endpoint-security/black-magic-enterprise-juniper-routers-backdoor</id>
