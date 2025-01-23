@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/01/qakbot-linked-bc-malware-adds-enhanced.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a new BackConnect (BC) malware that has been developed by threat actors linked to the infamous QakBot loader.\n\"BackConnect is a common feature or module utilized by threat actors to maintain persistence and perform tasks,\" Walmart's Cyber Intelligence team told The Hacker News. \"The BackConnect(s) in use were 'DarkVNC' alongside the IcedID",
+          "link": "https://thehackernews.com/2025/01/qakbot-linked-bc-malware-adds-enhanced.html",
+          "publishedOn": "2025-01-23T09:43:00.000Z",
+          "wordCount": null,
+          "title": "QakBot-Linked BC Malware Adds Enhanced DNS Tunneling and Remote Access Features",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRWkvZNxktgGTsWp4qPYKY1I5Wf1rqOl3ENY-arFcDUwnqCjsZq4v5lGkjTJmVlAz3RrWqPf5yFzvzMio2vGeAS1r1qQxpDwBou-ps2BbaNaDskOGjcc1dWalTtDJQbqWlPvAt2IralZGrVE4IF6q4YlaVxOTSr50Tamknk0q7uyROWtcPqah64e42Gkt/s1600/malware-attack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRWkvZNxktgGTsWp4qPYKY1I5Wf1rqOl3ENY-arFcDUwnqCjsZq4v5lGkjTJmVlAz3RrWqPf5yFzvzMio2vGeAS1r1qQxpDwBou-ps2BbaNaDskOGjcc1dWalTtDJQbqWlPvAt2IralZGrVE4IF6q4YlaVxOTSr50Tamknk0q7uyROWtcPqah64e42Gkt/s1600/malware-attack.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/01/cisco-fixes-critical-privilege.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cisco has released software updates to address a critical security flaw impacting Meeting Management that could permit a remote, authenticated attacker to gain administrator privileges on susceptible instances.\nThe vulnerability, tracked as CVE-2025-20156, carries a CVSS score of 9.9 out 10.0. It has been described as a privilege escalation flaw in the REST API of Cisco Meeting Management.\n\"This",
@@ -22418,36 +22434,6 @@
           "wordCount": 5429,
           "title": "India Readies Overhauled National Data Privacy Rules",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfd3e9f53ee8a35e6/677ea1e2827b1f6d4cab241a/India-Wavebreakmedia_Ltd_IFE-240405_3-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/white-house-launches-cyber-trust-mark-label-in-voluntary-cybersecurity-program",
-          "author": "Kristina Beek, Associate Editor, Dark Reading",
-          "description": "The voluntary program is intended to boost consumer confidence in vulnerable IoT devices, but experts want to see vendors held to a higher standard.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/white-house-launches-cyber-trust-mark-label-in-voluntary-cybersecurity-program",
-          "publishedOn": "2025-01-08T22:25:17.000Z",
-          "wordCount": 5072,
-          "title": "Fed 'Cyber Trust' Label: Good Intentions That Fall Short",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte8dcf10ec694a97b/66db3113455ec80083f767db/whitehouse1800_Prisma_by_Dukas_Presseagentur_GmbH_alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/crowdstrike-achieves-fedramp-authorization-for-new-modules",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/cyber-risk/crowdstrike-achieves-fedramp-authorization-for-new-modules",
-          "publishedOn": "2025-01-08T22:20:59.000Z",
-          "wordCount": 4412,
-          "title": "CrowdStrike Achieves FedRAMP Authorization for New Modules",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/trend-micro-and-intel-innovate-to-weed-out-covert-threats",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/endpoint-security/trend-micro-and-intel-innovate-to-weed-out-covert-threats",
-          "publishedOn": "2025-01-08T22:09:40.000Z",
-          "wordCount": 4852,
-          "title": "Trend Micro and Intel Innovate to Weed Out Covert Threats",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
