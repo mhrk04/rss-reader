@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-24T21:36:29.114Z</updated>
+    <updated>2025-01-24T22:07:14.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DoJ Busts Up Another Multinational DPRK IT Worker Scam]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/doj-multinational-dprk-it-worker-scam</id>
+        <link href="https://www.darkreading.com/threat-intelligence/doj-multinational-dprk-it-worker-scam"/>
+        <updated>2025-01-24T21:51:44.000Z</updated>
+        <summary type="html"><![CDATA[A departmentwide initiative has now led to five major law enforcement actions, in an attempt to curb the increasingly common trend of North Korean hackers posing as IT job applicants.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MITRE's Latest ATT&amp;CK Simulations Tackles Cloud Defenses]]></title>
         <id>https://www.darkreading.com/cybersecurity-operations/mitre-simuluations-shine-light-on-attackers-techniques</id>
@@ -2951,18 +2961,6 @@ The post Redmi Note 14 Series Officially Lands In Malaysia; Starts From RM699 ap
         <link href="https://thehackernews.com/2025/01/hands-on-walkthrough-microsegmentation.html"/>
         <updated>2025-01-10T10:22:00.000Z</updated>
         <summary type="html"><![CDATA[Network segmentation remains a critical security requirement, yet organizations struggle with traditional approaches that demand extensive hardware investments, complex policy management, and disruptive network changes. Healthcare and manufacturing sectors face particular challenges as they integrate diverse endpoints – from legacy medical devices to IoT sensors – onto their production networks.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices]]></title>
-        <id>https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html</id>
-        <link href="https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html"/>
-        <updated>2025-01-10T09:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have detailed a now-patched security flaw impacting Monkey's Audio (APE) decoder on Samsung smartphones that could lead to code execution.
-The high-severity vulnerability, tracked as CVE-2024-49415 (CVSS score: 8.1), affects Samsung devices running Android versions 12, 13, and 14.
-"Out-of-bounds write in libsaped.so prior to SMR Dec-2024 Release 1 allows remote]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
