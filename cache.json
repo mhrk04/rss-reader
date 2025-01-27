@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/01/mintsloader-delivers-stealc-malware-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat hunters have detailed an ongoing campaign that leverages a malware loader called MintsLoader to distribute secondary payloads such as the StealC information stealer and a legitimate open-source network computing platform called BOINC.\n\"MintsLoader is a PowerShell based malware loader that has been seen delivered via spam emails with a link to Kongtuke/ClickFix pages or a JScript file,\"",
+          "link": "https://thehackernews.com/2025/01/mintsloader-delivers-stealc-malware-and.html",
+          "publishedOn": "2025-01-27T07:16:00.000Z",
+          "wordCount": null,
+          "title": "MintsLoader Delivers StealC Malware and BOINC in Targeted Cyber Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-x4ljXIUi45NfulPn0nPZ9RXcPZ5L7n8yn-iXr_Zwp5z6hJ7lWMf2Kvq1iJyUxvl6lzQnhzITVKznVj7UKfB4n8E9_l_RJcHvtGMjg9lKJzaV_4rYxyhPHVq7RASufq4mSYu3_PeA2vwjPZNGHP5462azwvwPhDXZlEATr2pJ_Qc2pV9NSraYVKEhZCtf/s1600/malware-attacl.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-x4ljXIUi45NfulPn0nPZ9RXcPZ5L7n8yn-iXr_Zwp5z6hJ7lWMf2Kvq1iJyUxvl6lzQnhzITVKznVj7UKfB4n8E9_l_RJcHvtGMjg9lKJzaV_4rYxyhPHVq7RASufq4mSYu3_PeA2vwjPZNGHP5462azwvwPhDXZlEATr2pJ_Qc2pV9NSraYVKEhZCtf/s1600/malware-attacl.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A high-severity security flaw has been disclosed in Meta's Llama large language model (LLM) framework that, if successfully exploited, could allow an attacker to execute arbitrary code on the llama-stack inference server. \nThe vulnerability, tracked as CVE-2024-50050, has been assigned a CVSS score of 6.3 out of 10.0. Supply chain security firm Snyk, on the other hand, has assigned it a",
