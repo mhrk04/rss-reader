@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/01/apple-patches-actively-exploited-zero.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple has released software updates to address several security flaws across its portfolio, including a zero-day vulnerability that it said has been exploited in the wild.\nThe vulnerability, tracked as CVE-2025-24085, has been described as a use-after-free bug in the Core Media component that could permit a malicious application already installed on a device to elevate privileges.\n\"Apple is",
+          "link": "https://thehackernews.com/2025/01/apple-patches-actively-exploited-zero.html",
+          "publishedOn": "2025-01-28T03:23:00.000Z",
+          "wordCount": null,
+          "title": "Apple Patches Actively Exploited Zero-Day Affecting iPhones, Macs, and More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33T88lsVhxa4XrrH02qPJ5GN6Ls8iw0UEWeDANYOC7FdQpQQhPHfptxH9jPoaCtJT3Qvxih7IC7UE10hiWrWNcyzpY3CA8SMWPSg5ouWi83L0g9y08WQ-z_ytmLyM3OmDHwoMCjwLPg8qWf5bD-TVd28-iE7iJGyx8b0fz9u72Fhe4z4QZHW5-uWQs0t6/s1600/apple.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33T88lsVhxa4XrrH02qPJ5GN6Ls8iw0UEWeDANYOC7FdQpQQhPHfptxH9jPoaCtJT3Qvxih7IC7UE10hiWrWNcyzpY3CA8SMWPSg5ouWi83L0g9y08WQ-z_ytmLyM3OmDHwoMCjwLPg8qWf5bD-TVd28-iE7iJGyx8b0fz9u72Fhe4z4QZHW5-uWQs0t6/s1600/apple.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/01/github-desktop-vulnerability-risks.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Multiple security vulnerabilities have been disclosed in GitHub Desktop as well as other Git-related projects that, if successfully exploited, could permit an attacker to gain unauthorized access to a user's Git credentials.\n\"Git implements a protocol called Git Credential Protocol to retrieve credentials from the credential helper,\" GMO Flatt Security researcher Ry0taK, who discovered the flaws",
@@ -22466,16 +22482,6 @@
           "wordCount": 5407,
           "title": "Cyberattackers Hide Infostealers in YouTube Comments, Google Search Results",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt47b431db251791ad/6785297378edb52ecebf5ad8/infostealer_Bits_and_Splits_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/telefonica-breach-exposes-jira-tickets-customer-data",
-          "author": "Kristina Beek, Associate Editor, Dark Reading",
-          "description": "The Hellcat ransomware group has stolen roughly 5,000 documents, potentially containing confidential information, from the telecom giant's internal database.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/telefonica-breach-exposes-jira-tickets-customer-data",
-          "publishedOn": "2025-01-13T16:37:39.000Z",
-          "wordCount": 4209,
-          "title": "Telefonica Breach Exposes Jira Tickets, Customer Data",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf6bc25db5dc841bd/6785370dd9bc88f627659179/telefonica1800_Photo_Art_Lucas_alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
