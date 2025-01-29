@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-29T21:36:33.328Z</updated>
+    <updated>2025-01-29T22:07:34.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Lazarus Group Admin Layer for C2 Servers]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/researchers-uncover-lazarus-admin-layer-c2-servers</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/researchers-uncover-lazarus-admin-layer-c2-servers"/>
+        <updated>2025-01-29T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor is using a sophisticated network of VPNs and proxies to centrally manage command and control servers from Pyongyang.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unpatched Zyxel CPE Zero-Day Pummeled by Cyberattackers]]></title>
         <id>https://www.darkreading.com/endpoint-security/unpatched-zyxel-cpe-zero-day-cyberattackers</id>
