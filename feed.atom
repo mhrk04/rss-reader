@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-29T05:38:25.492Z</updated>
+    <updated>2025-01-29T06:11:37.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UAC-0063 Expands Cyber Attacks to European Embassies Using Stolen Documents]]></title>
+        <id>https://thehackernews.com/2025/01/uac-0063-expands-cyber-attacks-to.html</id>
+        <link href="https://thehackernews.com/2025/01/uac-0063-expands-cyber-attacks-to.html"/>
+        <updated>2025-01-29T05:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The advanced persistent threat (APT) group known as UAC-0063 has been observed leveraging legitimate documents obtained by infiltrating one victim to attack another target with the goal of delivering a known malware dubbed HATVIBE.
+"This research focuses on completing the picture of UAC-0063's operations, particularly documenting their expansion beyond their initial focus on Central Asia,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broadcom Warns of High-Severity SQL Injection Flaw in VMware Avi Load Balancer]]></title>
+        <id>https://thehackernews.com/2025/01/broadcom-warns-of-high-severity-sql.html</id>
+        <link href="https://thehackernews.com/2025/01/broadcom-warns-of-high-severity-sql.html"/>
+        <updated>2025-01-29T05:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Broadcom has alerted of a high-severity security flaw in VMware Avi Load Balancer that could be weaponized by malicious actors to gain entrenched database access.
+The vulnerability, tracked as CVE-2025-22217 (CVSS score: 8.6), has been described as an unauthenticated blind SQL injection.
+"A malicious user with network access may be able to use specially crafted SQL queries to gain database]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zyxel CPE Devices Face Active Exploitation Due to Unpatched CVE-2024-40891 Vulnerability]]></title>
+        <id>https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html</id>
+        <link href="https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html"/>
+        <updated>2025-01-29T05:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning that a critical zero-day vulnerability impacting Zyxel CPE Series devices is seeing active exploitation attempts in the wild.
+"Attackers can leverage this vulnerability to execute arbitrary commands on affected devices, leading to complete system compromise, data exfiltration, or network infiltration," GreyNoise researcher Glenn Thorpe said in an alert]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lynx Ransomware Group 'Industrializes' Cybercrime With Affiliates]]></title>
         <id>https://www.darkreading.com/threat-intelligence/lynx-raas-group-industrializes-cybercrime-with-affiliate-operations</id>
@@ -75,6 +109,16 @@ The attacks have led to the deployment of various payloads, such as Agent Tesla,
         <summary type="html"><![CDATA[Quantum computing will bring new security risks. Both professionals and legislators need to use this time to prepare.]]></summary>
         <author>
             <name>Keavy Murphy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Privacy Day 2025: Time for Data Destruction to Become Standard Business Practice]]></title>
+        <id>https://www.darkreading.com/data-privacy/data-privacy-day-2025-time-for-data-destruction-to-become-standard-business-practice</id>
+        <link href="https://www.darkreading.com/data-privacy/data-privacy-day-2025-time-for-data-destruction-to-become-standard-business-practice"/>
+        <updated>2025-01-28T14:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Compliance standards are mandating better data security. There are several ways to do this, but most organizations would admit that erasure is not one of them.]]></summary>
+        <author>
+            <name>Adam Strange</name>
         </author>
     </entry>
     <entry>
@@ -2854,16 +2898,6 @@ The post DJI Flip Folding Drone Now Official With RM1,679 Price Tag appeared fir
         <summary type="html"><![CDATA[Two hacker groups were paid to develop malware targeting victims in the US, Europe, and Asia, as well as various Chinese dissident groups.]]></summary>
         <author>
             <name>Kristina Beek, Associate Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Day Security Bug Likely Fueling Fortinet Firewall Attacks]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/zero-day-security-bug-fortinet-firewall-attacks</id>
-        <link href="https://www.darkreading.com/threat-intelligence/zero-day-security-bug-fortinet-firewall-attacks"/>
-        <updated>2025-01-14T17:50:24.000Z</updated>
-        <summary type="html"><![CDATA[An ongoing campaign targeting FortiGate devices with management interfaces exposed on the public Internet is leading to unauthorized administrative logins and configuration changes, creating new accounts, and performing SSL VPN authentication.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
         </author>
     </entry>
     <entry>
