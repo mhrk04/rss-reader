@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-01-31T06:43:40.347Z</updated>
+    <updated>2025-01-31T07:07:42.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Broadcom Patches VMware Aria Flaws – Exploits May Lead to Credential Theft]]></title>
+        <id>https://thehackernews.com/2025/01/broadcom-patches-vmware-aria-flaws.html</id>
+        <link href="https://thehackernews.com/2025/01/broadcom-patches-vmware-aria-flaws.html"/>
+        <updated>2025-01-31T05:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Broadcom has released security updates to patch five security flaws impacting VMware Aria Operations and Aria Operations for Logs, warning customers that attackers could exploit them to gain elevated access or obtain sensitive information.
+The list of identified flaws, which impact versions 8.x of the software, is below -
+
+CVE-2025-22218 (CVSS score: 8.5) - A malicious actor with View Only Admin]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Probes DeepSeek For Restricted AI Semiconductor Use]]></title>
         <id>https://www.lowyat.net/?p=341819</id>
