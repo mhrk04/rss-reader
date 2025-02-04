@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-04T09:37:39.190Z</updated>
+    <updated>2025-02-04T10:08:58.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Taiwan Bans DeepSeek AI Over National Security Concerns, Citing Data Leakage Risks]]></title>
+        <id>https://thehackernews.com/2025/02/taiwan-bans-deepseek-ai-over-national.html</id>
+        <link href="https://thehackernews.com/2025/02/taiwan-bans-deepseek-ai-over-national.html"/>
+        <updated>2025-02-04T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Taiwan has become the latest country to ban government agencies from using Chinese startup DeepSeek's Artificial Intelligence (AI) platform, citing security risks.
+"Government agencies and critical infrastructure should not use DeepSeek, because it endangers national information security," according to a statement released by Taiwan's Ministry of Digital Affairs, per Radio Free Asia.
+"DeepSeek]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD SEV-SNP Vulnerability Allows Malicious Microcode Injection with Admin Access]]></title>
+        <id>https://thehackernews.com/2025/02/amd-sev-snp-vulnerability-allows.html</id>
+        <link href="https://thehackernews.com/2025/02/amd-sev-snp-vulnerability-allows.html"/>
+        <updated>2025-02-04T08:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A security vulnerability has been disclosed in AMD's Secure Encrypted Virtualization (SEV) that could permit an attacker to load a malicious CPU microcode under specific conditions.
+The flaw, tracked as CVE-2024-56161, carries a CVSS score of 7.2 out of 10.0, indicating high severity.
+"Improper signature verification in AMD CPU ROM microcode patch loader may allow an attacker with local]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KTMB To Offer Free Komuter Rides On 10, 11 February For Thaipusam]]></title>
         <id>https://www.lowyat.net/?p=341996</id>
