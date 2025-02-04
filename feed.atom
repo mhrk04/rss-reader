@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-04T15:38:51.996Z</updated>
+    <updated>2025-02-04T16:09:46.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[Organizations and development teams need to evolve from "being prepared" to "managing the risk" of security breaches.]]></summary>
         <author>
             <name>Kirsten Newcomer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious Go Package Exploits Module Mirror Caching for Persistent Remote Access]]></title>
+        <id>https://thehackernews.com/2025/02/malicious-go-package-exploits-module.html</id>
+        <link href="https://thehackernews.com/2025/02/malicious-go-package-exploits-module.html"/>
+        <updated>2025-02-04T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have called attention to a software supply chain attack targeting the Go ecosystem that involves a malicious package capable of granting the adversary remote access to infected systems.
+The package, named github.com/boltdb-go/bolt, is a typosquat of the legitimate BoltDB database module (github.com/boltdb/bolt), per Socket. The malicious version (1.3.1) was published to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -2807,28 +2818,6 @@ The AnyDesk requests claim to be for conducting an audit to assess the "level of
         <updated>2025-01-21T04:52:29.000Z</updated>
         <summary type="html"><![CDATA[Over the years, we’ve seen the internet’s favourite past time of porting Doom over to unconventional and sometimes, inappropriate platforms. Continuing that tradition is Github user ading2210, who successfully managed to port the classic shooter into a PDF File. ading2210 describes themself as a high school student with an interest in programming, web programming, and […]
 The post Doom Has Been Ported Into A PDF File appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR Magic7 Pro Review: No More Curved Screens, Sort Of]]></title>
-        <id>https://www.lowyat.net/?p=340880</id>
-        <link href="https://www.lowyat.net/2025/340880/honor-magic7-pro-review/"/>
-        <updated>2025-01-21T04:08:36.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been reviewing HONOR’s flagship phones for about four years now and this time around, I think they finally got it right with the Magic7 Pro. Its previous iterations, while still top-tier, have always had at least one or two bad things going for it that made me hesitant to recommend it to anyone looking […]
-The post HONOR Magic7 Pro Review: No More Curved Screens, Sort Of appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ikmal Rozlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Breach US Treasury Secretary’s PC; Gained Access To Over 400 Other PCs]]></title>
-        <id>https://www.lowyat.net/?p=341290</id>
-        <link href="https://www.lowyat.net/2025/341290/chinese-hackers-breach-us-treasury-secretarys-pc-gained-access-to-over-400-other-pcs/"/>
-        <updated>2025-01-21T03:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Last month, reports came in that Chinese hackers had successfully infiltrated the US Treasury Department and gained access to several of its systems. Now, a recent report by Bloomberg revealed the depth and severity of the attack, and it doesn’t sound good. The Chinese hackers had managed to break past the US Treasury’s defenses by […]
-The post Chinese Hackers Breach US Treasury Secretary’s PC; Gained Access To Over 400 Other PCs appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
         </author>
