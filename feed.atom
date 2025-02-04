@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-04T05:38:43.719Z</updated>
+    <updated>2025-02-04T06:12:05.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score]]></title>
+        <id>https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html</id>
+        <link href="https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html"/>
+        <updated>2025-02-04T05:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released patches to address two Critical-rated security flaws impacting Azure AI Face Service and Microsoft Account that could allow a malicious actor to escalate their privileges under certain conditions.
+The flaws are listed below -
+
+CVE-2025-21396 (CVSS score: 7.5) - Microsoft Account Elevation of Privilege Vulnerability
+CVE-2025-21415 (CVSS score: 9.9) - Azure AI Face Service]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Patches 47 Android Security Flaws, Including Actively Exploited CVE-2024-53104]]></title>
+        <id>https://thehackernews.com/2025/02/google-patches-47-android-security.html</id>
+        <link href="https://thehackernews.com/2025/02/google-patches-47-android-security.html"/>
+        <updated>2025-02-04T04:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has shipped patches to address 47 security flaws in its Android operating system, including one it said has come under active exploitation in the wild.
+The vulnerability in question is CVE-2024-53104 (CVSS score: 7.8), which has been described as a case of privilege escalation in a kernel component known as the USB Video Class (UVC) driver.
+Successful exploitation of the flaw could lead]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft SharePoint Connector Flaw Could've Enabled Credential Theft Across Power Platform]]></title>
         <id>https://thehackernews.com/2025/02/microsoft-sharepoint-connector-flaw.html</id>
