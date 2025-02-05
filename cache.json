@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/cisa-adds-four-actively-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-45195 (CVSS score: 7.5/9.8) - A forced browsing vulnerability in Apache OFBiz that allows a remote attacker to obtain unauthorized",
+          "link": "https://thehackernews.com/2025/02/cisa-adds-four-actively-exploited.html",
+          "publishedOn": "2025-02-05T05:05:00.000Z",
+          "wordCount": null,
+          "title": "CISA Adds Four Actively Exploited Vulnerabilities to KEV Catalog, Urges Fixes by Feb 25",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRCw8EKpfY45DKbmFNayh4ChoHN2qbtk0HwmVWf07n3dKD3PoHfj4v2pH0VQ_fSA6rAbhm6BytxU8Y74eXGjgP8082S6tApI14Ddn1_tmjl8Ow5_MfjJ5Gen9Q9q5oUMc4MCq5yqoYzbIO6oCy7cHlbFFlllWkRDe6pOexUldcwTbqKVX4SSdhTuaboZtr/s1600/cisa.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRCw8EKpfY45DKbmFNayh4ChoHN2qbtk0HwmVWf07n3dKD3PoHfj4v2pH0VQ_fSA6rAbhm6BytxU8Y74eXGjgP8082S6tApI14Ddn1_tmjl8Ow5_MfjJ5Gen9Q9q5oUMc4MCq5yqoYzbIO6oCy7cHlbFFlllWkRDe6pOexUldcwTbqKVX4SSdhTuaboZtr/s1600/cisa.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/malicious-go-package-exploits-module.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have called attention to a software supply chain attack targeting the Go ecosystem that involves a malicious package capable of granting the adversary remote access to infected systems.\nThe package, named github.com/boltdb-go/bolt, is a typosquat of the legitimate BoltDB database module (github.com/boltdb/bolt), per Socket. The malicious version (1.3.1) was published to",
@@ -22356,16 +22372,6 @@
           "wordCount": 4365,
           "title": "HPE Investigates After Alleged Data Breach",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt501f301a9be95827/678fd96d7ef7bc51449e86c3/HPE1800_JHVEPhoto_alamyjpg.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/mirai-botnet-spinoffs-global-wave-ddos-attacks",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "Two separate campaigns are targeting flaws in various IoT devices globally, with the goal of compromising them and propagating malware worldwide.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/mirai-botnet-spinoffs-global-wave-ddos-attacks",
-          "publishedOn": "2025-01-21T18:09:18.000Z",
-          "wordCount": 5641,
-          "title": "Mirai Botnet Spinoffs Unleash Global Wave of DDoS Attacks",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9dbbec9e60f2645/678fb9b37ef7bc49079e85ca/DDoS(resize)_Aleksey_Funtap_Alamy.png?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }
