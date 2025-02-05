@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/cybercriminals-use-axios-and-node-fetch.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybercriminals are increasingly leveraging legitimate HTTP client tools to facilitate account takeover (ATO) attacks on Microsoft 365 environments.\nEnterprise security company Proofpoint said it observed campaigns using HTTP clients Axios and Node Fetch to send HTTP requests and receive HTTP responses from web servers with the goal of conducting ATO attacks.\n\"Originally sourced from public",
+          "link": "https://thehackernews.com/2025/02/cybercriminals-use-axios-and-node-fetch.html",
+          "publishedOn": "2025-02-05T13:03:00.000Z",
+          "wordCount": null,
+          "title": "Cybercriminals Use Go Resty and Node Fetch in 13 Million Password Spraying Attempts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYcB32bkzUF1AUr0lZ-QhdBoLLvnT73Shfa_xeGfbzGcBDUBqpyPKsM8S2JQTYp2QPGEz9VYJtSjJQyPoaq62xn45twN9602Yhyphenhyphen2oaCfmumyoGw_m7b9zmIzDVJ4rtwEIe7veBBkkObIMddQ2IOKjt81JpF3aCJmPHikqQqDQwGUOk2Z3KPxOrkKRfKHDg/s1600/pssword.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYcB32bkzUF1AUr0lZ-QhdBoLLvnT73Shfa_xeGfbzGcBDUBqpyPKsM8S2JQTYp2QPGEz9VYJtSjJQyPoaq62xn45twN9602Yhyphenhyphen2oaCfmumyoGw_m7b9zmIzDVJ4rtwEIe7veBBkkObIMddQ2IOKjt81JpF3aCJmPHikqQqDQwGUOk2Z3KPxOrkKRfKHDg/s1600/pssword.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/02/silent-lynx-using-powershell-golang-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor known as Silent Lynx has been linked to cyber attacks targeting various entities in Kyrgyzstan and Turkmenistan.\n\"This threat group has previously targeted entities around Eastern Europe and Central Asian government think tanks involved in economic decision making and banking sector,\" Seqrite Labs researcher Subhajeet Singha said in a technical report",
+          "link": "https://thehackernews.com/2025/02/silent-lynx-using-powershell-golang-and.html",
+          "publishedOn": "2025-02-05T12:46:00.000Z",
+          "wordCount": null,
+          "title": "Silent Lynx Using PowerShell, Golang, and C++ Loaders in Multi-Stage Cyberattacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1fPmPJRLqSkb80PZeZFaS74ZzuOkdMRmMRzBnV1mSf2wv2EVcLhaIzyuewmQTqTINBKrvuzJhP6FFPIWdX0Viwensz5FOmN4bnoqPZitCeTtT6rWL9bKq2LBh5Xu4q1KnD5AlvFbU1Jau_GX8YoTZmJgH_s90AhZS2dc4PgZvOroa4VaSrI5ApeVjMihX/s1600/cyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1fPmPJRLqSkb80PZeZFaS74ZzuOkdMRmMRzBnV1mSf2wv2EVcLhaIzyuewmQTqTINBKrvuzJhP6FFPIWdX0Viwensz5FOmN4bnoqPZitCeTtT6rWL9bKq2LBh5Xu4q1KnD5AlvFbU1Jau_GX8YoTZmJgH_s90AhZS2dc4PgZvOroa4VaSrI5ApeVjMihX/s1600/cyber.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/new-veeam-flaw-allows-arbitrary-code.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Veeam has released patches to address a critical security flaw impacting its Backup software that could allow an attacker to execute arbitrary code on susceptible systems.\nThe vulnerability, tracked as CVE-2025-23114, carries a CVSS score of 9.0 out of 10.0.\n\"A vulnerability within the Veeam Updater component that allows an attacker to utilize a Man-in-the-Middle attack to execute arbitrary code",

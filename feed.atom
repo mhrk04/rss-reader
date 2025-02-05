@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-05T13:38:41.158Z</updated>
+    <updated>2025-02-05T14:07:52.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Use Go Resty and Node Fetch in 13 Million Password Spraying Attempts]]></title>
+        <id>https://thehackernews.com/2025/02/cybercriminals-use-axios-and-node-fetch.html</id>
+        <link href="https://thehackernews.com/2025/02/cybercriminals-use-axios-and-node-fetch.html"/>
+        <updated>2025-02-05T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals are increasingly leveraging legitimate HTTP client tools to facilitate account takeover (ATO) attacks on Microsoft 365 environments.
+Enterprise security company Proofpoint said it observed campaigns using HTTP clients Axios and Node Fetch to send HTTP requests and receive HTTP responses from web servers with the goal of conducting ATO attacks.
+"Originally sourced from public]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Lynx Using PowerShell, Golang, and C++ Loaders in Multi-Stage Cyberattacks]]></title>
+        <id>https://thehackernews.com/2025/02/silent-lynx-using-powershell-golang-and.html</id>
+        <link href="https://thehackernews.com/2025/02/silent-lynx-using-powershell-golang-and.html"/>
+        <updated>2025-02-05T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented threat actor known as Silent Lynx has been linked to cyber attacks targeting various entities in Kyrgyzstan and Turkmenistan.
+"This threat group has previously targeted entities around Eastern Europe and Central Asian government think tanks involved in economic decision making and banking sector," Seqrite Labs researcher Subhajeet Singha said in a technical report]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Veeam Flaw Allows Arbitrary Code Execution via Man-in-the-Middle Attack]]></title>
         <id>https://thehackernews.com/2025/02/new-veeam-flaw-allows-arbitrary-code.html</id>
