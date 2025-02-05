@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/new-veeam-flaw-allows-arbitrary-code.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Veeam has released patches to address a critical security flaw impacting its Backup software that could allow an attacker to execute arbitrary code on susceptible systems.\nThe vulnerability, tracked as CVE-2025-23114, carries a CVSS score of 9.0 out of 10.0.\n\"A vulnerability within the Veeam Updater component that allows an attacker to utilize a Man-in-the-Middle attack to execute arbitrary code",
+          "link": "https://thehackernews.com/2025/02/new-veeam-flaw-allows-arbitrary-code.html",
+          "publishedOn": "2025-02-05T12:16:00.000Z",
+          "wordCount": null,
+          "title": "New Veeam Flaw Allows Arbitrary Code Execution via Man-in-the-Middle Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnk_lJPUS0BZwNO2mx9Vb4ppUN3ifSvJyWHtZEsMV-IeDiE3SlnZ9ZXTwkifc8es3msSjnCBpd2Qk2dVP3g5LrEld-diDiVvaLmwQvzeU9XmuJ_4ecSUIma-aq_AVts43QUj_6mG7VQiNMZEAe8pdkAL2vGl7gQWILWF0BerXRGAFv1Y1WfwlgDsideeS/s1600/veeam.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnk_lJPUS0BZwNO2mx9Vb4ppUN3ifSvJyWHtZEsMV-IeDiE3SlnZ9ZXTwkifc8es3msSjnCBpd2Qk2dVP3g5LrEld-diDiVvaLmwQvzeU9XmuJ_4ecSUIma-aq_AVts43QUj_6mG7VQiNMZEAe8pdkAL2vGl7gQWILWF0BerXRGAFv1Y1WfwlgDsideeS/s1600/veeam.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/navigating-future-key-it-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As the cybersecurity landscape continues to evolve, proactive vulnerability management has become a critical priority for managed service providers (MSPs) and IT teams. Recent trends indicate that organizations increasingly prioritize more frequent IT security vulnerability assessments to identify and address potential security flaws.\nStaying informed on these trends can help MSPs and IT teams",
@@ -21655,6 +21671,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/backline-tackles-enterprise-security-backlogs-with-ai",
+          "author": "Dark Reading Staff",
+          "description": "The security startup's autonomous security remediation platform uses off-the-shelf large language models (LLMs) to analyze security alerts and apply the fixes.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/backline-tackles-enterprise-security-backlogs-with-ai",
+          "publishedOn": "2025-02-04T22:42:18.000Z",
+          "wordCount": 4159,
+          "title": "Backline Tackles Enterprise Security Backlogs With AI",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb0802416cf275afe/67a35dea52c0eb3ab503f78e/bug_hunt_ronstik_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/credential-theft-cybercriminals-favorite-target",
           "author": "Kristina Beek, Associate Editor, Dark Reading",
