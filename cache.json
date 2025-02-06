@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/cisco-patches-critical-ise.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has released updates to address two critical security flaws Identity Services Engine (ISE) that could allow remote attackers to execute arbitrary commands and elevate privileges on susceptible devices.\nThe vulnerabilities are listed below -\n\nCVE-2025-20124 (CVSS score: 9.9) - An insecure Java deserialization vulnerability in an API of Cisco ISE that could permit an authenticated, remote",
+          "link": "https://thehackernews.com/2025/02/cisco-patches-critical-ise.html",
+          "publishedOn": "2025-02-06T07:40:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Patches Critical ISE Vulnerabilities Enabling Root CmdExec and PrivEsc",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIAMKVB1aaKFqo6-u_8XzIiAgUwmjj6aJ5qz5OlLcQ9_EzKggllKzZgH-i2pXiqta86unQU2jUnckgc9MaRHtjnFh4XZSbyBu0tdEeF-gY9pT-F-mqTXMbkymZdjSDDr21NCYB3bnJxT8KIZMoDlBSA_1F7uPdupn4F2KPCRhoNU_cMMM8dKWObSrxHhg/s1600/cisco.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIAMKVB1aaKFqo6-u_8XzIiAgUwmjj6aJ5qz5OlLcQ9_EzKggllKzZgH-i2pXiqta86unQU2jUnckgc9MaRHtjnFh4XZSbyBu0tdEeF-gY9pT-F-mqTXMbkymZdjSDDr21NCYB3bnJxT8KIZMoDlBSA_1F7uPdupn4F2KPCRhoNU_cMMM8dKWObSrxHhg/s1600/cisco.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/cross-platform-javascript-stealer.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The North Korea-linked Lazarus Group has been linked to an active campaign that leverages fake LinkedIn job offers in the cryptocurrency and travel sectors to deliver malware capable of infecting Windows, macOS, and Linux operating systems.\nAccording to cybersecurity company Bitdefender, the scam begins with a message sent on a professional social media network, enticing them with the promise of",
@@ -22416,16 +22432,6 @@
           "wordCount": 5214,
           "title": "Trump Overturns Biden Rules on AI Development, Security",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta945bc84fc2d3303/679161c100a21a44e4652766/AI_money_Andrey_Popov_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/chinese-cyberspies-target-south-korean-vpn-supply-chain-attack",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "Advanced persistent threat group PlushDaemon, active since 2019, is using a sophisticated modular backdoor to collect data from infected systems in South Korea.",
-          "link": "https://www.darkreading.com/threat-intelligence/chinese-cyberspies-target-south-korean-vpn-supply-chain-attack",
-          "publishedOn": "2025-01-22T20:49:41.000Z",
-          "wordCount": 5436,
-          "title": "Chinese Cyberspies Target South Korean VPN in Supply Chain Attack",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a804046f832729e/6790fd06295de09f35bff03b/chinaspying_BeeBright_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
         }
       ]
     }

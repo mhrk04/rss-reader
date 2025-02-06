@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-06T08:42:22.918Z</updated>
+    <updated>2025-02-06T09:08:43.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco Patches Critical ISE Vulnerabilities Enabling Root CmdExec and PrivEsc]]></title>
+        <id>https://thehackernews.com/2025/02/cisco-patches-critical-ise.html</id>
+        <link href="https://thehackernews.com/2025/02/cisco-patches-critical-ise.html"/>
+        <updated>2025-02-06T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has released updates to address two critical security flaws Identity Services Engine (ISE) that could allow remote attackers to execute arbitrary commands and elevate privileges on susceptible devices.
+The vulnerabilities are listed below -
+
+CVE-2025-20124 (CVSS score: 9.9) - An insecure Java deserialization vulnerability in an API of Cisco ISE that could permit an authenticated, remote]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MEASAT Partners With SPACESAIL For Low Earth Orbit Broadband]]></title>
         <id>https://www.lowyat.net/?p=342189</id>
@@ -2879,16 +2892,6 @@ The post Canon Unveils Record-Breaking 410MP 35mm Full-Frame Camera Sensor appea
         <summary type="html"><![CDATA[The new administration moved quickly to remove any constraints on AI development and collected $500 billion in investment pledges for an American-owned AI joint venture.]]></summary>
         <author>
             <name>Becky Bracken, Senior Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Cyberspies Target South Korean VPN in Supply Chain Attack]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/chinese-cyberspies-target-south-korean-vpn-supply-chain-attack</id>
-        <link href="https://www.darkreading.com/threat-intelligence/chinese-cyberspies-target-south-korean-vpn-supply-chain-attack"/>
-        <updated>2025-01-22T20:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Advanced persistent threat group PlushDaemon, active since 2019, is using a sophisticated modular backdoor to collect data from infected systems in South Korea.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
         </author>
     </entry>
     <entry>
