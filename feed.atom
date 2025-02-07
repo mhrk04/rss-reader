@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-07T15:37:43.551Z</updated>
+    <updated>2025-02-07T16:09:50.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[As the cost of data breaches continues to climb, the role of user and entity behavioral analytics (UEBA) has never been more important.]]></summary>
         <author>
             <name>Jackie Wyatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek App Transmits Sensitive User and Device Data Without Encryption]]></title>
+        <id>https://thehackernews.com/2025/02/deepseek-app-transmits-sensitive-user.html</id>
+        <link href="https://thehackernews.com/2025/02/deepseek-app-transmits-sensitive-user.html"/>
+        <updated>2025-02-07T14:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A new audit of DeepSeek's mobile app for the Apple iOS operating system has found glaring security issues, the foremost being that it sends sensitive data over the internet sans any encryption, exposing it to interception and manipulation attacks.
+The assessment comes from NowSecure, which also found that the app fails to adhere to best security practices and that it collects extensive user and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
