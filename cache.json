@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered two malicious machine learning (ML) models on Hugging Face that leveraged an unusual technique of \"broken\" pickle files to evade detection.\n\"The pickle files extracted from the mentioned PyTorch archives revealed the malicious Python content at the beginning of the file,\" ReversingLabs researcher Karlo Zanki said in a report shared with The Hacker News. \"",
+          "link": "https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html",
+          "publishedOn": "2025-02-08T06:17:00.000Z",
+          "wordCount": null,
+          "title": "Malicious ML Models on Hugging Face Leverage Broken Pickle Format to Evade Detection",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy9HRla2vCXTJvnM3vT93AmKbjqs9stovOJ537UUG3Uq_M-ZPX2Yd45EZH9mCfek0Mi11XBLVV5yZjxpHBmvUnWkaYjlRlG9ASGHpXTwjd40LkrKauR0WuaaH62q7x9en4RowtY8zBugXEBETIiT_PLPlhK8Czmz_V79IcsE5QCEE521sWAu16DrtsMn8R/s1600/hugging-face-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy9HRla2vCXTJvnM3vT93AmKbjqs9stovOJ537UUG3Uq_M-ZPX2Yd45EZH9mCfek0Mi11XBLVV5yZjxpHBmvUnWkaYjlRlG9ASGHpXTwjd40LkrKauR0WuaaH62q7x9en4RowtY8zBugXEBETIiT_PLPlhK8Czmz_V79IcsE5QCEE521sWAu16DrtsMn8R/s1600/hugging-face-malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/deepseek-app-transmits-sensitive-user.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new audit of DeepSeek's mobile app for the Apple iOS operating system has found glaring security issues, the foremost being that it sends sensitive data over the internet sans any encryption, exposing it to interception and manipulation attacks.\nThe assessment comes from NowSecure, which also found that the app fails to adhere to best security practices and that it collects extensive user and",
