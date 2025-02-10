@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/xe-hacker-group-exploits-veracore-zero.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed exploiting multiple security flaws in various software products, including Progress Telerik UI for ASP.NET AJAX and Advantive VeraCore, to drop reverse shells and web shells, and maintain persistent remote access to compromised systems.\nThe zero-day exploitation of security flaws in VeraCore has been attributed to a threat actor known as XE Group, a cybercrime",
+          "link": "https://thehackernews.com/2025/02/xe-hacker-group-exploits-veracore-zero.html",
+          "publishedOn": "2025-02-10T05:14:00.000Z",
+          "wordCount": null,
+          "title": "XE Hacker Group Exploits VeraCore Zero-Day to Deploy Persistent Web Shells",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuPQ8gQhQ76WkJdVkaZ-oj_lOiV9wgUabg5eV1tWN36Bur2pDBYFhIcx8eXObbTGq-lB5S5w_1_xqVMPg-XY6vUrSkWwbdQO70pVVUY22pIWRZPnSOmQwsQHMQEybvV2rL8EGMEJosciqa6-ciO_clAhv3r-6qEz3DSUwCY2tJZbSmeLOftfDI3SgaatMw/s1600/veracod.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuPQ8gQhQ76WkJdVkaZ-oj_lOiV9wgUabg5eV1tWN36Bur2pDBYFhIcx8eXObbTGq-lB5S5w_1_xqVMPg-XY6vUrSkWwbdQO70pVVUY22pIWRZPnSOmQwsQHMQEybvV2rL8EGMEJosciqa6-ciO_clAhv3r-6qEz3DSUwCY2tJZbSmeLOftfDI3SgaatMw/s1600/veracod.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered two malicious machine learning (ML) models on Hugging Face that leveraged an unusual technique of \"broken\" pickle files to evade detection.\n\"The pickle files extracted from the mentioned PyTorch archives revealed the malicious Python content at the beginning of the file,\" ReversingLabs researcher Karlo Zanki said in a report shared with The Hacker News. \"",
@@ -20468,6 +20484,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=342361",
+          "author": "Ian Chee",
+          "description": "The Chinese-developed AI model DeepSeek has been making the news, arguably for both right and wrong reasons. But it seems that it was been enough of an inspiration for the state of Sarawak to want to develop its own AI model. In fact, the inspiration goes as far as to determine name of said AI […]\nThe post Sarawak Looks To Develop Its Own AI Model Called DeepSar appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/342361/sarawak-to-develop-its-own-ai-deepsar/",
+          "publishedOn": "2025-02-10T06:36:32.000Z",
+          "wordCount": 4608,
+          "title": "Sarawak Looks To Develop Its Own AI Model Called DeepSar",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2021/07/sarawak-malaysia-flag.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=342363",
+          "author": "John Law",
+          "description": "We’re not trying to be spiteful but given NVIDIA’s track record, it was only a matter of time before reports of melting 12VHPWR power connectors on the new GeForce RTX 5090 cards appeared. The first report, or victim, involves an RTX 5090 FE. Redditor ivan6953 shared images of their RTX 5090 FE and where the […]\nThe post The First Reports Of Melted NVIDIA GeForce RTX 5090 FE 12VHPWR Power Connectors Have Arrived appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/342363/the-first-reports-of-melted-nvidia-geforce-rtx-5090-fe-12vhpwr-power-connectors-have-arrived/",
+          "publishedOn": "2025-02-10T06:29:03.000Z",
+          "wordCount": 4977,
+          "title": "The First Reports Of Melted NVIDIA GeForce RTX 5090 FE 12VHPWR Power Connectors Have Arrived",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/02/Melted-12VHPWR-RTX-5090-FE-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=342366",
           "author": "Heirul Kamel",
