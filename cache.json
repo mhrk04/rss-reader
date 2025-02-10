@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/dragonrank-exploits-iis-servers-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed targeting Internet Information Services (IIS) servers in Asia as part of a search engine optimization (SEO) manipulation campaign designed to install BadIIS malware.\n\"It is likely that the campaign is financially motivated since redirecting users to illegal gambling websites shows that attackers deploy BadIIS for profit,\" Trend Micro researchers Ted Lee and",
+          "link": "https://thehackernews.com/2025/02/dragonrank-exploits-iis-servers-with.html",
+          "publishedOn": "2025-02-10T09:44:00.000Z",
+          "wordCount": null,
+          "title": "DragonRank Exploits IIS Servers with BadIIS Malware for SEO Fraud and Gambling Redirects",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA3yHKIELAH0KuTQOsWI6RA1upzMgT0vHMJuSl7KfQ__VWfQaO3q5XUp4LKW42CbUWEmjfD_n-18XVUoP4iD9CMGAXDqeXp4mnfT8tQfJ6O8q_Fni8AMUEXiH49iBwkAQUqLg0jol0sERbiyvZnS45iyWlWRrYVcRs4eT76tV9lEnyxTuaSey8qxo8puAV/s1600/cybercrime.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA3yHKIELAH0KuTQOsWI6RA1upzMgT0vHMJuSl7KfQ__VWfQaO3q5XUp4LKW42CbUWEmjfD_n-18XVUoP4iD9CMGAXDqeXp4mnfT8tQfJ6O8q_Fni8AMUEXiH49iBwkAQUqLg0jol0sERbiyvZnS45iyWlWRrYVcRs4eT76tV9lEnyxTuaSey8qxo8puAV/s1600/cybercrime.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/zimbra-releases-security-updates-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Zimbra has released software updates to address critical security flaws in its Collaboration software that, if successfully exploited, could result in information disclosure under certain conditions.\nThe vulnerability, tracked as CVE-2025-25064, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described as an SQL injection bug in the ZimbraSync Service SOAP endpoint affecting",
