@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-10T16:09:58.165Z</updated>
+    <updated>2025-02-10T16:42:58.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,27 @@
         <summary type="html"><![CDATA[Attackers are smuggling payment card-skimming malicious code into checkout pages on Magento-based e-commerce sites by abusing the Google Tag Manager ad tool.]]></summary>
         <author>
             <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Google Tag Manager to Deploy Credit Card Skimmers on Magento Stores]]></title>
+        <id>https://thehackernews.com/2025/02/hackers-exploit-google-tag-manager-to.html</id>
+        <link href="https://thehackernews.com/2025/02/hackers-exploit-google-tag-manager-to.html"/>
+        <updated>2025-02-10T15:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed leveraging Google Tag Manager (GTM) to deliver credit card skimmer malware targeting Magento-based e-commerce websites.
+Website security company Sucuri said the code, while appearing to be a typical GTM and Google Analytics script used for website analytics and advertising purposes, contains an obfuscated backdoor capable of providing attackers with persistent]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyst Burnout Is an Advanced Persistent Threat]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/analyst-burnout-is-advanced-persistent-threat</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/analyst-burnout-is-advanced-persistent-threat"/>
+        <updated>2025-02-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For too long, we've treated our analysts as mere cogs in a machine, expecting them to conform to the limitations of our tools and processes. It's time to revolutionize security operations.]]></summary>
+        <author>
+            <name>William MacMillan</name>
         </author>
     </entry>
     <entry>

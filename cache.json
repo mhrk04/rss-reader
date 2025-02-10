@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/hackers-exploit-google-tag-manager-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed leveraging Google Tag Manager (GTM) to deliver credit card skimmer malware targeting Magento-based e-commerce websites.\nWebsite security company Sucuri said the code, while appearing to be a typical GTM and Google Analytics script used for website analytics and advertising purposes, contains an obfuscated backdoor capable of providing attackers with persistent",
+          "link": "https://thehackernews.com/2025/02/hackers-exploit-google-tag-manager-to.html",
+          "publishedOn": "2025-02-10T15:16:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Google Tag Manager to Deploy Credit Card Skimmers on Magento Stores",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2A8fvkQpyVDuFUfRnkoWtr68iIqRmt7NGIXCgcexftJEd6AWUlAFfQXZ1MpBkG2mISzQxxYbfjoAdqBIH5MOo2hS3fM4h01q87OrjBRfX43U3-WMl-sK5yku5rSUla4yPcxNaUYcYtUr5WWjZy7Je0d1CSs_4Qnsr2FAjuL_3TofvjoTxcQ2m2DSqY6QY/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2A8fvkQpyVDuFUfRnkoWtr68iIqRmt7NGIXCgcexftJEd6AWUlAFfQXZ1MpBkG2mISzQxxYbfjoAdqBIH5MOo2hS3fM4h01q87OrjBRfX43U3-WMl-sK5yku5rSUla4yPcxNaUYcYtUr5WWjZy7Je0d1CSs_4Qnsr2FAjuL_3TofvjoTxcQ2m2DSqY6QY/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/thn-weekly-recap-top-cybersecurity_10.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In cybersecurity, the smallest crack can lead to the biggest breaches. A leaked encryption key, an unpatched software bug, or an abandoned cloud storage bucket—each one seems minor until it becomes the entry point for an attack.\nThis week, we’ve seen cybercriminals turn overlooked weaknesses into major security threats, proving once again that no system is too small to be targeted. The question",
@@ -21724,6 +21740,16 @@
           "wordCount": 5545,
           "title": "Magecart Attackers Abuse Google Ad Tool to Steal Data",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1bf6f8c488d91108/67a9de157c6ab07e53a00d25/creditcard_Diana_Vyshniakova-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/analyst-burnout-is-advanced-persistent-threat",
+          "author": "William MacMillan",
+          "description": "For too long, we've treated our analysts as mere cogs in a machine, expecting them to conform to the limitations of our tools and processes. It's time to revolutionize security operations.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/analyst-burnout-is-advanced-persistent-threat",
+          "publishedOn": "2025-02-10T15:00:00.000Z",
+          "wordCount": 5850,
+          "title": "Analyst Burnout Is an Advanced Persistent Threat",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt93e0d32af05dcaee/67aa253b3e1cb2935af6a156/Burnout_(1800)_Brain_light_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         },
         {
           "id": "https://www.darkreading.com/application-security/llm-hijackers-deepseek-api-keys",
