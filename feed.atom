@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-11T04:40:26.423Z</updated>
+    <updated>2025-02-11T05:08:22.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Patches Actively Exploited iOS Zero-Day CVE-2025-24200 in Emergency Update]]></title>
+        <id>https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html</id>
+        <link href="https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html"/>
+        <updated>2025-02-11T04:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple on Monday released out-of-band security updates to address a security flaw in iOS and iPadOS that it said has been exploited in the wild.
+Assigned the CVE identifier CVE-2025-24200, the vulnerability has been described as an authorization issue that could make it possible for a malicious actor to disable USB Restricted Mode on a locked device as part of a cyber physical attack.
+This]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XE Group Shifts From Card Skimming to Supply Chain Attacks]]></title>
         <id>https://www.darkreading.com/cyber-risk/xe-group-shifts-card-skimming-supply-chain-attacks</id>

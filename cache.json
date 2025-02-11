@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple on Monday released out-of-band security updates to address a security flaw in iOS and iPadOS that it said has been exploited in the wild.\nAssigned the CVE identifier CVE-2025-24200, the vulnerability has been described as an authorization issue that could make it possible for a malicious actor to disable USB Restricted Mode on a locked device as part of a cyber physical attack.\nThis",
+          "link": "https://thehackernews.com/2025/02/apple-patches-actively-exploited-ios.html",
+          "publishedOn": "2025-02-11T04:32:00.000Z",
+          "wordCount": null,
+          "title": "Apple Patches Actively Exploited iOS Zero-Day CVE-2025-24200 in Emergency Update",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9_U0m5p1_iHJL5cDd5bwW6ToTFLohS0n8_uXmlAZBwsHJWBvdqk4un_XCrW6kKUVcn82YivPFVVWgF3_IaS2KbG6kkT-LjeiW3xbi0Tt7Rb-4S_T9IVI4qcuaa1omGwgLCYO69GGFXL4b_IqsVCbzOpcuykYi8ORwmvyJbP9QnWJZW_9izM5IFpTxRgOE/s1600/iphone.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9_U0m5p1_iHJL5cDd5bwW6ToTFLohS0n8_uXmlAZBwsHJWBvdqk4un_XCrW6kKUVcn82YivPFVVWgF3_IaS2KbG6kkT-LjeiW3xbi0Tt7Rb-4S_T9IVI4qcuaa1omGwgLCYO69GGFXL4b_IqsVCbzOpcuykYi8ORwmvyJbP9QnWJZW_9izM5IFpTxRgOE/s1600/iphone.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/hackers-exploit-google-tag-manager-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors have been observed leveraging Google Tag Manager (GTM) to deliver credit card skimmer malware targeting Magento-based e-commerce websites.\nWebsite security company Sucuri said the code, while appearing to be a typical GTM and Google Analytics script used for website analytics and advertising purposes, contains an obfuscated backdoor capable of providing attackers with persistent",
