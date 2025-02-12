@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/microsoft-uncovers-sandworm-subgroups.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A subgroup within the infamous Russian state-sponsored hacking group known as Sandworm has been attributed to a multi-year initial access operation dubbed BadPilot that stretched across the globe.\n\"This subgroup has conducted globally diverse compromises of Internet-facing infrastructure to enable Seashell Blizzard to persist on high-value targets and support tailored network operations,\" the",
+          "link": "https://thehackernews.com/2025/02/microsoft-uncovers-sandworm-subgroups.html",
+          "publishedOn": "2025-02-12T17:02:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Uncovers Sandworm Subgroup's Global Cyber Attacks Spanning 15+ Countries",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZsI-LyZ3xvgG46FsmwlkEPJpeh8LHZqrOmmeog3VvVHjfPSeek3L0GCkyt0qJDFEleyAmaQ6intzgKrR3Jab46EbX64nDyBFOmyp4zQjj9ErFSrIhwqWJ67kKh5juB7JMGZOPHbmkDgA0c0WjNQLp4k04Z2yoJX1LfZ5AWFdA8e-iYEdFd6IunplnOzlH/s1600/seashell.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZsI-LyZ3xvgG46FsmwlkEPJpeh8LHZqrOmmeog3VvVHjfPSeek3L0GCkyt0qJDFEleyAmaQ6intzgKrR3Jab46EbX64nDyBFOmyp4zQjj9ErFSrIhwqWJ67kKh5juB7JMGZOPHbmkDgA0c0WjNQLp4k04Z2yoJX1LfZ5AWFdA8e-iYEdFd6IunplnOzlH/s1600/seashell.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/researchers-find-new-exploit-bypassing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a bypass for a now-patched security vulnerability in the NVIDIA Container Toolkit that could be exploited to break out of a container's isolation protections and gain complete access to the underlying host.\nThe new vulnerability is being tracked as CVE-2025-23359 (CVSS score: 8.3). It affects the following versions -\n\nNVIDIA Container Toolkit (All",
@@ -20524,38 +20540,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidHFyDi2-hRFa-5P1oY8GchnEZcvErDgXCSY6-r4vEazNI4lYg27sLPLt5qAEQukB5gAaay7YvuFtj_bw_HfwaSFQoynstB97gz0mEn3l5_N7ORejb_btcs217-0dUr8JWf9Tahtx5CZ6ZAxU80MgH5S5sHSkmap-7Cj5cTbJeJTxtaUJNlOPeqP8xj52J/s1600/malware-attack.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidHFyDi2-hRFa-5P1oY8GchnEZcvErDgXCSY6-r4vEazNI4lYg27sLPLt5qAEQukB5gAaay7YvuFtj_bw_HfwaSFQoynstB97gz0mEn3l5_N7ORejb_btcs217-0dUr8JWf9Tahtx5CZ6ZAxU80MgH5S5sHSkmap-7Cj5cTbJeJTxtaUJNlOPeqP8xj52J/s1600/malware-attack.png"
-        },
-        {
-          "id": "https://thehackernews.com/2025/01/broadcom-warns-of-high-severity-sql.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Broadcom has alerted of a high-severity security flaw in VMware Avi Load Balancer that could be weaponized by malicious actors to gain entrenched database access.\nThe vulnerability, tracked as CVE-2025-22217 (CVSS score: 8.6), has been described as an unauthenticated blind SQL injection.\n\"A malicious user with network access may be able to use specially crafted SQL queries to gain database",
-          "link": "https://thehackernews.com/2025/01/broadcom-warns-of-high-severity-sql.html",
-          "publishedOn": "2025-01-29T05:29:00.000Z",
-          "wordCount": null,
-          "title": "Broadcom Warns of High-Severity SQL Injection Flaw in VMware Avi Load Balancer",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjptQFf-ACUGdZwWfIEHLT9KpTkeXgrzbIFbbbC0ncrmrsA36dR0iW-qGJMItS0bbujGQ_yVon7eBoQx8JhXu0cDpClNXbUBblitsOje3UoTTFaqSve0qCnb0vP_EkUoP1ghMNDT25HvQpKe37YjsNnSf-2MOzcjqUrqtU106neAEhs8FSGc2_6kSLoxZ0C/s1600/load-balancer.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjptQFf-ACUGdZwWfIEHLT9KpTkeXgrzbIFbbbC0ncrmrsA36dR0iW-qGJMItS0bbujGQ_yVon7eBoQx8JhXu0cDpClNXbUBblitsOje3UoTTFaqSve0qCnb0vP_EkUoP1ghMNDT25HvQpKe37YjsNnSf-2MOzcjqUrqtU106neAEhs8FSGc2_6kSLoxZ0C/s1600/load-balancer.png"
-        },
-        {
-          "id": "https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are warning that a critical zero-day vulnerability impacting Zyxel CPE Series devices is seeing active exploitation attempts in the wild.\n\"Attackers can leverage this vulnerability to execute arbitrary commands on affected devices, leading to complete system compromise, data exfiltration, or network infiltration,\" GreyNoise researcher Glenn Thorpe said in an alert",
-          "link": "https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html",
-          "publishedOn": "2025-01-29T05:11:00.000Z",
-          "wordCount": null,
-          "title": "Zyxel CPE Devices Face Active Exploitation Due to Unpatched CVE-2024-40891 Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL3h_DlAFfDqWj3NCEVbw6rWHIKO-ZYcT820PTVpaTK-mlEIYNLtEbddFEncv0ciY1veVWzBpBPjQ3pgwNsWJEzV3ugTTX46CkaOqFfqRwaSR26X6kjaN5cHyc5PGD-mWT8PTDyRwmfJH9fuAj-O6ROBSZk52fXv1efOsfLF4xnkhm6BKPzXc0iPxiiyD8/s1600/zyxel.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL3h_DlAFfDqWj3NCEVbw6rWHIKO-ZYcT820PTVpaTK-mlEIYNLtEbddFEncv0ciY1veVWzBpBPjQ3pgwNsWJEzV3ugTTX46CkaOqFfqRwaSR26X6kjaN5cHyc5PGD-mWT8PTDyRwmfJH9fuAj-O6ROBSZk52fXv1efOsfLF4xnkhm6BKPzXc0iPxiiyD8/s1600/zyxel.png"
         }
       ]
     },
