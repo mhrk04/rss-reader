@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-13T19:06:26.498Z</updated>
+    <updated>2025-02-13T19:37:00.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -3040,19 +3040,6 @@ The vulnerability, rated a CVSS score of 9.4, enables "attackers to potentially 
         <updated>2025-01-30T10:09:00.000Z</updated>
         <summary type="html"><![CDATA[Buzzy Chinese artificial intelligence (AI) startup DeepSeek, which has had a meteoric rise in popularity in recent days, left one of its databases exposed on the internet, which could have allowed malicious actors to gain access to sensitive data.
 The ClickHouse database "allows full control over database operations, including the ability to access internal data," Wiz security researcher Gal]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpatched PHP Voyager Flaws Leave Servers Open to One-Click RCE Exploits]]></title>
-        <id>https://thehackernews.com/2025/01/unpatched-php-voyager-flaws-leave.html</id>
-        <link href="https://thehackernews.com/2025/01/unpatched-php-voyager-flaws-leave.html"/>
-        <updated>2025-01-30T07:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Three security flaws have been disclosed in the open-source PHP package Voyager that could be exploited by an attacker to achieve one-click remote code execution on affected instances.
-"When an authenticated Voyager user clicks on a malicious link, attackers can execute arbitrary code on the server," Sonar researcher Yaniv Nizry said in a write-up published earlier this week.
-
-The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
