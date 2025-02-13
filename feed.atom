@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-13T22:07:40.146Z</updated>
+    <updated>2025-02-13T22:38:43.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roundtable: Is DOGE Flouting Cybersecurity for US Data?]]></title>
+        <id>https://www.darkreading.com/cyber-risk/doge-flouting-cybersecurity-us-data</id>
+        <link href="https://www.darkreading.com/cyber-risk/doge-flouting-cybersecurity-us-data"/>
+        <updated>2025-02-13T22:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity experts weigh in on the red flags flying around the new Department of Government Efficiency's handling of the mountains of US data it now has access to, potentially without basic information security protections in place.]]></summary>
+        <author>
+            <name>Becky Bracken, Senior Editor, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Public &amp; Private Sectors Can Better Align Cyber Defense]]></title>
         <id>https://www.darkreading.com/cyber-risk/how-public-private-sectors-better-align-cyber-defense</id>
@@ -3029,27 +3039,6 @@ Visitors to these websites are now greeted by a seizure banner that says they we
         <updated>2025-01-30T12:33:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a critical security flaw in the Lightning AI Studio development platform that, if successfully exploited, could allow for remote code execution.
 The vulnerability, rated a CVSS score of 9.4, enables "attackers to potentially execute arbitrary commands with root privileges" by exploiting a hidden URL parameter, application security firm Noma said in a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOC Analysts - Reimagining Their Role Using AI]]></title>
-        <id>https://thehackernews.com/2025/01/soc-analysts-reimagining-their-role.html</id>
-        <link href="https://thehackernews.com/2025/01/soc-analysts-reimagining-their-role.html"/>
-        <updated>2025-01-30T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The job of a SOC analyst has never been easy. Faced with an overwhelming flood of daily alerts, analysts (and sometimes IT teams who are doubling as SecOps) must try and triage thousands of security alerts—often false positives—just to identify a handful of real threats. This relentless, 24/7 work leads to alert fatigue, desensitization, and increased risk of missing critical security incidents.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek AI Database Exposed: Over 1 Million Log Lines, Secret Keys Leaked]]></title>
-        <id>https://thehackernews.com/2025/01/deepseek-ai-database-exposed-over-1.html</id>
-        <link href="https://thehackernews.com/2025/01/deepseek-ai-database-exposed-over-1.html"/>
-        <updated>2025-01-30T10:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Buzzy Chinese artificial intelligence (AI) startup DeepSeek, which has had a meteoric rise in popularity in recent days, left one of its databases exposed on the internet, which could have allowed malicious actors to gain access to sensitive data.
-The ClickHouse database "allows full control over database operations, including the ability to access internal data," Wiz security researcher Gal]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
