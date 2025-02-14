@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/new-whoami-attack-exploits-aws-ami-name.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a new type of name confusion attack called whoAMI that allows anyone who publishes an Amazon Machine Image (AMI) with a specific name to gain code execution within the Amazon Web Services (AWS) account.\n\"If executed at scale, this attack could be used to gain access to thousands of accounts,\" Datadog Security Labs researcher Seth Art said in a report",
+          "link": "https://thehackernews.com/2025/02/new-whoami-attack-exploits-aws-ami-name.html",
+          "publishedOn": "2025-02-14T18:42:00.000Z",
+          "wordCount": null,
+          "title": "New “whoAMI” Attack Exploits AWS AMI Name Confusion for Remote Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ6-Lt-TwBnhLVcwLcvvM4STMuSpq9We8Y7pLWdk_WqvgB6yH90grw-OU4vREhfmQ__p80wAEQDhmuTnLlz8yXkguqBjKEU9_BOjUHpWwUeelZLdTo7m0GlujkyXje1TpEcbWULfYzec3Vh8lzBWHABHcLPZvA8VUAakqW2pQuPQSR8XTH2X7Tbv5wXnoO/s1600/whoAMI.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ6-Lt-TwBnhLVcwLcvvM4STMuSpq9We8Y7pLWdk_WqvgB6yH90grw-OU4vREhfmQ__p80wAEQDhmuTnLlz8yXkguqBjKEU9_BOjUHpWwUeelZLdTo7m0GlujkyXje1TpEcbWULfYzec3Vh8lzBWHABHcLPZvA8VUAakqW2pQuPQSR8XTH2X7Tbv5wXnoO/s1600/whoAMI.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/lazarus-group-deploys-marstech1.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The North Korean threat actor known as the Lazarus Group has been linked to a previously undocumented JavaScript implant named Marstech1 as part of limited targeted attacks against developers.\nThe active operation has been dubbed Marstech Mayhem by SecurityScorecard, with the malware delivered by means of an open-source repository hosted on GitHub that's associated with a profile named \"",
