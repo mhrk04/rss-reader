@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/postgresql-vulnerability-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors who were behind the exploitation of a zero-day vulnerability in BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) products in December 2024 likely also exploited a previously unknown SQL injection flaw in PostgreSQL, according to findings from Rapid7.\nThe vulnerability, tracked as CVE-2025-1094 (CVSS score: 8.1), affects the PostgreSQL interactive tool psql.\n\"An",
+          "link": "https://thehackernews.com/2025/02/postgresql-vulnerability-exploited.html",
+          "publishedOn": "2025-02-14T05:03:00.000Z",
+          "wordCount": null,
+          "title": "PostgreSQL Vulnerability Exploited Alongside BeyondTrust Zero-Day in Targeted Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSsVzZMXE_YzNPyUX1Q0hPnz4RVdVaxj6x-DCGIcyLXfR1cRkaIHUcqr3ebiZ77EwqjgAYKfYlKZbT4dIs8ozRB2t2QK4JGEHtzzwS9f8ZRRhmzo_HJObKi8EaXfk_DpdXL4epfXXidevZocWqS0Zy6wZs_COxMIPDKdtVsWEibYa6EH7jiF8V6Kqf6qwv/s1600/PostgreSQL-zeroday.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSsVzZMXE_YzNPyUX1Q0hPnz4RVdVaxj6x-DCGIcyLXfR1cRkaIHUcqr3ebiZ77EwqjgAYKfYlKZbT4dIs8ozRB2t2QK4JGEHtzzwS9f8ZRRhmzo_HJObKi8EaXfk_DpdXL4epfXXidevZocWqS0Zy6wZs_COxMIPDKdtVsWEibYa6EH7jiF8V6Kqf6qwv/s1600/PostgreSQL-zeroday.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/hackers-use-captcha-trick-on-webflow.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A widespread phishing campaign has been observed leveraging bogus PDF documents hosted on the Webflow content delivery network (CDN) with an aim to steal credit card information and commit financial fraud.\n\"The attacker targets victims searching for documents on search engines, resulting in access to malicious PDF that contains a CAPTCHA image embedded with a phishing link, leading them to",
@@ -20452,6 +20468,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=342645",
+          "author": "Ian Chee",
+          "description": "Earlier in the month, digital minister Gobind Singh Deo said that the government is studying the impact of Chinese AI model DeepSeek on Malaysia. Things have taken quite the turn since then, as now Deputy Prime Minister Fadillah Yusof says that the AI model can both drive AI adoption locally as well as attract global […]\nThe post Fadillah: DeepSeek Can Drive AI Adoption, Attract Global Investors appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/342645/fadillah-deepseek-can-drive-ai-adoption-attract-global-investors/",
+          "publishedOn": "2025-02-14T05:24:35.000Z",
+          "wordCount": 4624,
+          "title": "Fadillah: DeepSeek Can Drive AI Adoption, Attract Global Investors",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/02/honor-deepseek-yoyo-ai-assistant_01.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=342636",
           "author": "Ian Chee",
