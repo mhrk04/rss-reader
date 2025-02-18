@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/new-openssh-flaws-enable-man-in-middle.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Two security vulnerabilities have been discovered in the OpenSSH secure networking utility suite that, if successfully exploited, could result in an active machine-in-the-middle (MitM) and a denial-of-service (DoS) attack, respectively, under certain conditions.\nThe vulnerabilities, detailed by the Qualys Threat Research Unit (TRU), are listed below -\n\nCVE-2025-26465 - The OpenSSH client",
+          "link": "https://thehackernews.com/2025/02/new-openssh-flaws-enable-man-in-middle.html",
+          "publishedOn": "2025-02-18T15:34:00.000Z",
+          "wordCount": null,
+          "title": "New OpenSSH Flaws Enable Man-in-the-Middle and DoS Attacks — Patch Now",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE70jiODdSyQ2yUz6vu1Nxs_xJ9WUOpw1IqiOiUH0-dgosq8JJbjCS3JJGMhl2PjNp2ZwrSYZE_iWapWN2tpd_z6PMC__mxw4QsLYESE6cma7gge5S6Oyn552CgolPzFnVqgWid9Bbl3l-XLYJUue7lu2YswJxXTnduNVxBNi9DbKRIaFhXo6_L_AjgnbE/s1600/ssh.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE70jiODdSyQ2yUz6vu1Nxs_xJ9WUOpw1IqiOiUH0-dgosq8JJbjCS3JJGMhl2PjNp2ZwrSYZE_iWapWN2tpd_z6PMC__mxw4QsLYESE6cma7gge5S6Oyn552CgolPzFnVqgWid9Bbl3l-XLYJUue7lu2YswJxXTnduNVxBNi9DbKRIaFhXo6_L_AjgnbE/s1600/ssh.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/chinese-hackers-exploit-mavinjectexe-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Chinese state-sponsored threat actor known as Mustang Panda has been observed employing a novel technique to evade detection and maintain control over infected systems.\nThis involves the use of a legitimate Microsoft Windows utility called Microsoft Application Virtualization Injector (MAVInject.exe) to inject the threat actor's malicious payload into an external process, waitfor.exe,",
@@ -20460,22 +20476,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhioFS_P1GtwtE1CIY3j_uiwFN4uBcJ4PXssvRxP_4K8ZEFe7nP81yWP3qyMF7ZvbbmCVdvP8CizF7C1tEcQuYPl3OoY61ZYWvkyuJoaFHkvRpQxOFY7z4eOaHsm4uFXgYcgjdVJkHng6vt0b2OrcoHpy2QSOkrNjhiiFV4hSfXI07Vv9sQXM3VvdnPMjeS/s1600/AMD.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhioFS_P1GtwtE1CIY3j_uiwFN4uBcJ4PXssvRxP_4K8ZEFe7nP81yWP3qyMF7ZvbbmCVdvP8CizF7C1tEcQuYPl3OoY61ZYWvkyuJoaFHkvRpQxOFY7z4eOaHsm4uFXgYcgjdVJkHng6vt0b2OrcoHpy2QSOkrNjhiiFV4hSfXI07Vv9sQXM3VvdnPMjeS/s1600/AMD.png"
-        },
-        {
-          "id": "https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft has released patches to address two Critical-rated security flaws impacting Azure AI Face Service and Microsoft Account that could allow a malicious actor to escalate their privileges under certain conditions.\nThe flaws are listed below -\n\nCVE-2025-21396 (CVSS score: 7.5) - Microsoft Account Elevation of Privilege Vulnerability\nCVE-2025-21415 (CVSS score: 9.9) - Azure AI Face Service",
-          "link": "https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html",
-          "publishedOn": "2025-02-04T05:08:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirFZkfpBrR0B-5ygBrUJU7QwN-JvyB908Iz9tLmuyGZvJyZ2Xh8QEDtjdXSXzVj0bx8fMnuUedpKxB1k3oR4eMZNvayU0HC9NYe7M3YALHFRHJKN-RGoWboh11oWZZ0trgU2yKWRltaVMRLtgBpr2KUFQET2jcrnAEgsvKQ0ScMY_KkxArRMfoumGSqMg/s1600/ms.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirFZkfpBrR0B-5ygBrUJU7QwN-JvyB908Iz9tLmuyGZvJyZ2Xh8QEDtjdXSXzVj0bx8fMnuUedpKxB1k3oR4eMZNvayU0HC9NYe7M3YALHFRHJKN-RGoWboh11oWZZ0trgU2yKWRltaVMRLtgBpr2KUFQET2jcrnAEgsvKQ0ScMY_KkxArRMfoumGSqMg/s1600/ms.png"
         }
       ]
     },

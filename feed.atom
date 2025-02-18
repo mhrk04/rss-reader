@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-18T17:07:39.786Z</updated>
+    <updated>2025-02-18T17:38:29.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New OpenSSH Flaws Enable Man-in-the-Middle and DoS Attacks — Patch Now]]></title>
+        <id>https://thehackernews.com/2025/02/new-openssh-flaws-enable-man-in-middle.html</id>
+        <link href="https://thehackernews.com/2025/02/new-openssh-flaws-enable-man-in-middle.html"/>
+        <updated>2025-02-18T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Two security vulnerabilities have been discovered in the OpenSSH secure networking utility suite that, if successfully exploited, could result in an active machine-in-the-middle (MitM) and a denial-of-service (DoS) attack, respectively, under certain conditions.
+The vulnerabilities, detailed by the Qualys Threat Research Unit (TRU), are listed below -
+
+CVE-2025-26465 - The OpenSSH client]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Hackers Exploit MAVInject.exe to Evade Detection in Targeted Cyber Attacks]]></title>
         <id>https://thehackernews.com/2025/02/chinese-hackers-exploit-mavinjectexe-to.html</id>
@@ -3143,20 +3156,6 @@ The post Japanese City Deploy Security Guards To Curb Over-Enthusiastic Selfie-T
 The post Apple Issues Statement Regarding Porn App Availability On iPhones In EU appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Patches Critical Azure AI Face Service Vulnerability with CVSS 9.9 Score]]></title>
-        <id>https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html</id>
-        <link href="https://thehackernews.com/2025/02/microsoft-patches-critical-azure-ai.html"/>
-        <updated>2025-02-04T05:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has released patches to address two Critical-rated security flaws impacting Azure AI Face Service and Microsoft Account that could allow a malicious actor to escalate their privileges under certain conditions.
-The flaws are listed below -
-
-CVE-2025-21396 (CVSS score: 7.5) - Microsoft Account Elevation of Privilege Vulnerability
-CVE-2025-21415 (CVSS score: 9.9) - Azure AI Face Service]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
