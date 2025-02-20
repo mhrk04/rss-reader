@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-20T11:37:17.269Z</updated>
+    <updated>2025-02-20T12:15:08.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PCI DSS 4.0 Mandates DMARC By 31st March 2025]]></title>
+        <id>https://thehackernews.com/2025/02/pci-dss-40-mandates-dmarc-by-31st-march.html</id>
+        <link href="https://thehackernews.com/2025/02/pci-dss-40-mandates-dmarc-by-31st-march.html"/>
+        <updated>2025-02-20T11:21:00.000Z</updated>
+        <summary type="html"><![CDATA[The payment card industry has set a critical deadline for businesses handling cardholder data or processing payments- by March 31, 2025, DMARC implementation will be mandatory! This requirement highlights the importance of preventative measures against email fraud, domain spoofing, and phishing in the financial space. This is not an optional requirement as non-compliance may result in monetary]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese-Linked Attackers Exploit Check Point Flaw to Deploy ShadowPad and Ransomware]]></title>
+        <id>https://thehackernews.com/2025/02/chinese-linked-attackers-exploit-check.html</id>
+        <link href="https://thehackernews.com/2025/02/chinese-linked-attackers-exploit-check.html"/>
+        <updated>2025-02-20T11:21:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously unknown threat activity cluster targeted European organizations, particularly those in the healthcare sector, to deploy PlugX and its successor, ShadowPad, with the intrusions ultimately leading to deployment of a ransomware called NailaoLocker in some cases.
+The campaign, codenamed Green Nailao by Orange Cyberdefense CERT, involved the exploitation of a new-patched security flaw]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Use Eclipse Jarsigner to Deploy XLoader Malware via ZIP Archives]]></title>
+        <id>https://thehackernews.com/2025/02/cybercriminals-use-eclipse-jarsigner-to.html</id>
+        <link href="https://thehackernews.com/2025/02/cybercriminals-use-eclipse-jarsigner-to.html"/>
+        <updated>2025-02-20T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[A malware campaign distributing the XLoader malware has been observed using the DLL side-loading technique by making use of a legitimate application associated with the Eclipse Foundation.
+"The legitimate application used in the attack, jarsigner, is a file created during the installation of the IDE package distributed by the Eclipse Foundation," the AhnLab SEcurity Intelligence Center (ASEC)]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Darcula' Phishing Kit Can Now Impersonate Any Brand]]></title>
         <id>https://www.darkreading.com/threat-intelligence/darcula-phishing-kit-impersonate-brand</id>
