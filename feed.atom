@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-24T17:07:31.233Z</updated>
+    <updated>2025-02-24T17:37:52.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Malware Campaign Uses Cracked Software to Spread Lumma and ACR Stealer]]></title>
+        <id>https://thehackernews.com/2025/02/new-malware-campaign-uses-cracked.html</id>
+        <link href="https://thehackernews.com/2025/02/new-malware-campaign-uses-cracked.html"/>
+        <updated>2025-02-24T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning of a new campaign that leverages cracked versions of software as a lure to distribute information stealers like Lumma and ACR Stealer.
+The AhnLab Security Intelligence Center (ASEC) said it has observed a spike in the distribution volume of ACR Stealer since January 2025.
+A notable aspect of the stealer malware is the use of a technique called dead drop]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How APT Naming Conventions Make Us Less Safe]]></title>
         <id>https://www.darkreading.com/cyber-risk/how-apt-naming-conventions-make-us-less-safe</id>
@@ -3132,17 +3144,6 @@ The post The First Reports Of Melted NVIDIA GeForce RTX 5090 FE 12VHPWR Power Co
 The post Nothing May Be Working On Its First Over-Ear Headphones appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XE Hacker Group Exploits VeraCore Zero-Day to Deploy Persistent Web Shells]]></title>
-        <id>https://thehackernews.com/2025/02/xe-hacker-group-exploits-veracore-zero.html</id>
-        <link href="https://thehackernews.com/2025/02/xe-hacker-group-exploits-veracore-zero.html"/>
-        <updated>2025-02-10T05:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed exploiting multiple security flaws in various software products, including Progress Telerik UI for ASP.NET AJAX and Advantive VeraCore, to drop reverse shells and web shells, and maintain persistent remote access to compromised systems.
-The zero-day exploitation of security flaws in VeraCore has been attributed to a threat actor known as XE Group, a cybercrime]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
