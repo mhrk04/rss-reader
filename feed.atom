@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-25T11:07:10.629Z</updated>
+    <updated>2025-02-25T11:37:17.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Active Malware Campaigns in Q1 2025]]></title>
+        <id>https://thehackernews.com/2025/02/5-active-malware-campaigns-in-q1-2025.html</id>
+        <link href="https://thehackernews.com/2025/02/5-active-malware-campaigns-in-q1-2025.html"/>
+        <updated>2025-02-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The first quarter of 2025 has been a battlefield in the world of cybersecurity. Cybercriminals continued launching aggressive new campaigns and refining their attack methods.
+Below is an overview of five notable malware families, accompanied by analyses conducted in controlled environments.
+NetSupport RAT Exploiting the ClickFix Technique
+In early 2025, threat actors began exploiting a technique]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Industrial System Cyberattacks Surge as OT Stays Vulnerable]]></title>
         <id>https://www.darkreading.com/cyber-risk/industrial-system-cyberattacks-surge-ot-vulnerable</id>
@@ -14,6 +27,29 @@
         <summary type="html"><![CDATA[Nearly a third of organizations have an operational system connected to the Internet with a known exploited vulnerability, as attacks by state and non-state actors increase.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2,500+ Truesight.sys Driver Variants Exploited to Bypass EDR and Deploy HiddenGh0st RAT]]></title>
+        <id>https://thehackernews.com/2025/02/2500-truesightsys-driver-variants.html</id>
+        <link href="https://thehackernews.com/2025/02/2500-truesightsys-driver-variants.html"/>
+        <updated>2025-02-25T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[A large-scale malware campaign has been found leveraging a vulnerable Windows driver associated with Adlice's product suite to sidestep detection efforts and deliver the Gh0st RAT malware.
+"To further evade detection, the attackers deliberately generated multiple variants (with different hashes) of the 2.0.2 driver by modifying specific PE parts while keeping the signature valid," Check Point]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitVenom Malware Steals $456K in Bitcoin Using Fake GitHub Projects to Hijack Wallets]]></title>
+        <id>https://thehackernews.com/2025/02/gitvenom-malware-steals-456k-in-bitcoin.html</id>
+        <link href="https://thehackernews.com/2025/02/gitvenom-malware-steals-456k-in-bitcoin.html"/>
+        <updated>2025-02-25T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are calling attention to an ongoing campaign that's targeting gamers and cryptocurrency investors under the guise of open-source projects hosted on GitHub.
+The campaign, which spans hundreds of repositories, has been dubbed GitVenom by Kaspersky.
+"The infected projects include an automation instrument for interacting with Instagram accounts, a Telegram bot that enables]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>

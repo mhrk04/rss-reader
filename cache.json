@@ -19294,6 +19294,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/02/5-active-malware-campaigns-in-q1-2025.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The first quarter of 2025 has been a battlefield in the world of cybersecurity. Cybercriminals continued launching aggressive new campaigns and refining their attack methods.\nBelow is an overview of five notable malware families, accompanied by analyses conducted in controlled environments.\nNetSupport RAT Exploiting the ClickFix Technique\nIn early 2025, threat actors began exploiting a technique",
+          "link": "https://thehackernews.com/2025/02/5-active-malware-campaigns-in-q1-2025.html",
+          "publishedOn": "2025-02-25T11:00:00.000Z",
+          "wordCount": null,
+          "title": "5 Active Malware Campaigns in Q1 2025",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsvgq9GXjqsCgMZ7OWjISqfAQ-w-Ft4rpNRyTTSYFXdtXfXYVAPNBTuq-8dHV1-Ch-ly4MrGMAJZJ5wL2i3QO1UJ7xa5ds72ISEHy6tb2zGXBSUp286XY3yiMWBrv9VFnKXkZ4Pckw9GLEmNK8K9gJT1IruJ7Vs5zJi2uomKVOyzjhBQhzYiqziCZ-6Jk/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsvgq9GXjqsCgMZ7OWjISqfAQ-w-Ft4rpNRyTTSYFXdtXfXYVAPNBTuq-8dHV1-Ch-ly4MrGMAJZJ5wL2i3QO1UJ7xa5ds72ISEHy6tb2zGXBSUp286XY3yiMWBrv9VFnKXkZ4Pckw9GLEmNK8K9gJT1IruJ7Vs5zJi2uomKVOyzjhBQhzYiqziCZ-6Jk/s1600/malware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/02/2500-truesightsys-driver-variants.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A large-scale malware campaign has been found leveraging a vulnerable Windows driver associated with Adlice's product suite to sidestep detection efforts and deliver the Gh0st RAT malware.\n\"To further evade detection, the attackers deliberately generated multiple variants (with different hashes) of the 2.0.2 driver by modifying specific PE parts while keeping the signature valid,\" Check Point",
+          "link": "https://thehackernews.com/2025/02/2500-truesightsys-driver-variants.html",
+          "publishedOn": "2025-02-25T10:22:00.000Z",
+          "wordCount": null,
+          "title": "2,500+ Truesight.sys Driver Variants Exploited to Bypass EDR and Deploy HiddenGh0st RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7R3Gk_B2TyWcilBdtM5oCX5LOZ_NAQezY50iY00wzobID6mXbyvRrrJp24gdySP8Q5Xn2IJcfOCdIxSqxtxWqqRvdRfrTm_uSgvSuPqdKgsqFxLScwfIqbUKY9JxLi85jOK58RVrwqFe2YxlhQpMDXCSgD9yifmIG-kPV55GmcOK-xwLIrBL4lueue7_w/s1600/driver.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7R3Gk_B2TyWcilBdtM5oCX5LOZ_NAQezY50iY00wzobID6mXbyvRrrJp24gdySP8Q5Xn2IJcfOCdIxSqxtxWqqRvdRfrTm_uSgvSuPqdKgsqFxLScwfIqbUKY9JxLi85jOK58RVrwqFe2YxlhQpMDXCSgD9yifmIG-kPV55GmcOK-xwLIrBL4lueue7_w/s1600/driver.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/02/gitvenom-malware-steals-456k-in-bitcoin.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are calling attention to an ongoing campaign that's targeting gamers and cryptocurrency investors under the guise of open-source projects hosted on GitHub.\nThe campaign, which spans hundreds of repositories, has been dubbed GitVenom by Kaspersky.\n\"The infected projects include an automation instrument for interacting with Instagram accounts, a Telegram bot that enables",
+          "link": "https://thehackernews.com/2025/02/gitvenom-malware-steals-456k-in-bitcoin.html",
+          "publishedOn": "2025-02-25T10:13:00.000Z",
+          "wordCount": null,
+          "title": "GitVenom Malware Steals $456K in Bitcoin Using Fake GitHub Projects to Hijack Wallets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho6-bzxtgrfR3XODsX6JbS-Nc5nAFjL9vHFfwY_7mmGTOo4R3FrApXI0zJnJZ1LDa5T-yqemNvVwv8E8KNpGctmNSzmFaeogEc1DWW3pTMxife02o7oMkKA6xP9EtTC77_5ABwsk1fKzqMwloGqqlWFsIaRxPt6OkrT1z0aZ1GfVPJ90qLyCJbN2HWJP__/s1600/bitcoin.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho6-bzxtgrfR3XODsX6JbS-Nc5nAFjL9vHFfwY_7mmGTOo4R3FrApXI0zJnJZ1LDa5T-yqemNvVwv8E8KNpGctmNSzmFaeogEc1DWW3pTMxife02o7oMkKA6xP9EtTC77_5ABwsk1fKzqMwloGqqlWFsIaRxPt6OkrT1z0aZ1GfVPJ90qLyCJbN2HWJP__/s1600/bitcoin.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/02/fatalrat-phishing-attacks-target-apac.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Various industrial organizations in the Asia-Pacific (APAC) region have been targeted as part of phishing attacks designed to deliver a known malware called FatalRAT.\n\"The threat was orchestrated by attackers using legitimate Chinese cloud content delivery network (CDN) myqcloud and the Youdao Cloud Notes service as part of their attack infrastructure,\" Kaspersky ICS CERT said in a Monday",
