@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-02-25T21:38:09.447Z</updated>
+    <updated>2025-02-25T22:07:52.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[The threat actors are exploiting non-interactive sign-ins, an authentication feature that security teams don't typically monitor.]]></summary>
         <author>
             <name>Kristina Beek, Associate Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Max Severity RCE Vuln in All Versions of MITRE Caldera]]></title>
+        <id>https://www.darkreading.com/application-security/max-severity-rce-vuln-all-versions-mitre-caldera</id>
+        <link href="https://www.darkreading.com/application-security/max-severity-rce-vuln-all-versions-mitre-caldera"/>
+        <updated>2025-02-25T21:42:48.000Z</updated>
+        <summary type="html"><![CDATA[In the wrong hands, the popular red-teaming tool can be made to access networks, escalate privileges, conduct reconnaissance, and disguise malicious activity as a simulated exercise.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer</name>
         </author>
     </entry>
     <entry>
@@ -3253,27 +3263,6 @@ Kemp LoadMaster is a high-performance application delivery controller (ADC) and 
         <link href="https://thehackernews.com/2025/02/gcore-ddos-radar-reveals-56-yoy.html"/>
         <updated>2025-02-11T11:25:00.000Z</updated>
         <summary type="html"><![CDATA[Gcore’s latest DDoS Radar report analyzes attack data from Q3–Q4 2024, revealing a 56% YoY rise in the total number of DDoS attacks with the largest attack peaking at a record 2 Tbps. The financial services sector saw the most dramatic increase, with a 117% rise in attacks, while gaming remained the most-targeted industry. This period’s findings emphasize the need for robust, adaptive DDoS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting Your Software Supply Chain: Assessing the Risks Before Deployment]]></title>
-        <id>https://thehackernews.com/2025/02/protecting-your-software-supply-chain.html</id>
-        <link href="https://thehackernews.com/2025/02/protecting-your-software-supply-chain.html"/>
-        <updated>2025-02-11T10:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're considering a new car for your family. Before making a purchase, you evaluate its safety ratings, fuel efficiency, and reliability. You might even take it for a test drive to ensure it meets your needs. The same approach should be applied to software and hardware products before integrating them into an organization's environment. Just as you wouldn’t buy a car without knowing its]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threat Actors Exploit ClickFix to Deploy NetSupport RAT in Latest Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2025/02/threat-actors-exploit-clickfix-to.html</id>
-        <link href="https://thehackernews.com/2025/02/threat-actors-exploit-clickfix-to.html"/>
-        <updated>2025-02-11T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have observed the increasingly common ClickFix technique to deliver a remote access trojan named NetSupport RAT since early January 2025.
-NetSupport RAT, typically propagated via bogus websites and fake browser updates, grants attackers full control over the victim's host, allowing them to monitor the device's screen in real-time, control the keyboard and mouse, upload and download]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
