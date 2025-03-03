@@ -19294,6 +19294,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/hackers-use-clickfix-trick-to-deploy.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are calling attention to a new phishing campaign that employs the ClickFix technique to deliver an open-source command-and-control (C2) framework called Havoc.\n\"The threat actor hides each malware stage behind a SharePoint site and uses a modified version of Havoc Demon in conjunction with the Microsoft Graph API to obscure C2 communications within trusted, well-known",
+          "link": "https://thehackernews.com/2025/03/hackers-use-clickfix-trick-to-deploy.html",
+          "publishedOn": "2025-03-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Use ClickFix Trick to Deploy PowerShell-Based Havoc C2 via SharePoint Sites",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9YGOrvQKStIPnKjBBKmZlK_VT2HG504nvl1wHPNAz4x2mhaUBr28QFe4i_fkbtEM5YEYUVjykK8Bn-W-aMXB9GzsxeFI1Npi72S3ihHcmqnfu9QzJ2a46pPNtf8ImEkcs9WrwYx9CNkAH5QzKPwYLKFDPqSoPg6VZdlcHkeMcN06LscXhCyJ5_LQWCQD/s1600/clickfix.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9YGOrvQKStIPnKjBBKmZlK_VT2HG504nvl1wHPNAz4x2mhaUBr28QFe4i_fkbtEM5YEYUVjykK8Bn-W-aMXB9GzsxeFI1Npi72S3ihHcmqnfu9QzJ2a46pPNtf8ImEkcs9WrwYx9CNkAH5QzKPwYLKFDPqSoPg6VZdlcHkeMcN06LscXhCyJ5_LQWCQD/s1600/clickfix.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/03/hackers-exploit-paragon-partition.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been exploiting a security vulnerability in Paragon Partition Manager's BioNTdrv.sys driver in ransomware attacks to escalate privileges and execute arbitrary code.\nThe zero-day flaw (CVE-2025-0289) is part of a set of five vulnerabilities that was discovered by Microsoft, according to the CERT Coordination Center (CERT/CC).\n\"These include arbitrary kernel memory mapping and",
+          "link": "https://thehackernews.com/2025/03/hackers-exploit-paragon-partition.html",
+          "publishedOn": "2025-03-03T13:56:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Paragon Partition Manager Driver Vulnerability in Ransomware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgncx0aYCeCR_D6Bc5zEcycX3z1pSK3NjrvsYDSV2BSg6YDzXlkIXUMlTyuYtyeiX_PNpQT-hkHalQWI58kKg4m8h0BIupK7fw9if2pRpTA_fnN_rcn2TDYrjvMG_47mADzCbAX6O_yTP6BfULamphOCUdxMUWhZ5bWdiTBL7-YArXcT8cg8W6TPKXFvhw8/s1600/ransomware-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgncx0aYCeCR_D6Bc5zEcycX3z1pSK3NjrvsYDSV2BSg6YDzXlkIXUMlTyuYtyeiX_PNpQT-hkHalQWI58kKg4m8h0BIupK7fw9if2pRpTA_fnN_rcn2TDYrjvMG_47mADzCbAX6O_yTP6BfULamphOCUdxMUWhZ5bWdiTBL7-YArXcT8cg8W6TPKXFvhw8/s1600/ransomware-malware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/03/uk-ico-investigates-tiktok-reddit-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.K.'s Information Commissioner's Office (ICO) has opened an investigation into online platforms TikTok, Reddit, and Imgur to assess the steps they are taking to protect children between the ages of 13 and 17 in the country.\nTo that end, the watchdog said it's probing how the ByteDance-owned video-sharing service uses the personal data of children in the age range to surface recommendations",
+          "link": "https://thehackernews.com/2025/03/uk-ico-investigates-tiktok-reddit-and.html",
+          "publishedOn": "2025-03-03T13:56:00.000Z",
+          "wordCount": null,
+          "title": "U.K. ICO Investigates TikTok, Reddit, and Imgur Over Children's Data Protection Practices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIwSLCRNvCEeRMoQrq_ZmHuQDYubOO5YJD69_8Z-mKIzELvneeaaKpPkFPVFecfULN4wF-DdsJCelgzBsA76P9HdwWe25Ga8Fv6vSA2skumS7LEiAsFbKyQcFb7YSAXKA-kgfvGjLLplKHZtVqgssv9HbvW6Z2tDk_nLgY6XioNahunbAfjtNVx-xWa0mk/s1600/tick.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIwSLCRNvCEeRMoQrq_ZmHuQDYubOO5YJD69_8Z-mKIzELvneeaaKpPkFPVFecfULN4wF-DdsJCelgzBsA76P9HdwWe25Ga8Fv6vSA2skumS7LEiAsFbKyQcFb7YSAXKA-kgfvGjLLplKHZtVqgssv9HbvW6Z2tDk_nLgY6XioNahunbAfjtNVx-xWa0mk/s1600/tick.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/thn-weekly-recap-alerts-on-zero-day.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "This week, a 23-year-old Serbian activist found themselves at the crossroads of digital danger when a sneaky zero-day exploit turned their Android device into a target. Meanwhile, Microsoft pulled back the curtain on a scheme where cybercriminals used AI tools for harmful pranks, and a massive trove of live secrets was discovered, reminding us that even the tools we rely on can hide risky",
@@ -22159,26 +22207,6 @@
           "wordCount": 4590,
           "title": "Shokz OpenFit 2 Arrives In Malaysia With RM899 Price Tag",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/02/Shokz-OpenFit-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=342761",
-          "author": "John Law",
-          "description": "Intel is reportedly mulling over the possibility of selling its chipmaking business either to TSMC or Broadcom, or both. According to the WSJ, TSMC is interested in the blue chipmaker’s factories, while Broadcom is eyeing its chip design business. Intel’s interim executive chairman, Frank Yeary, has been leading the discussions with possible suitors and Trump […]\nThe post Intel Could Sell Chip Manufacturing Business To TSMC And Broadcom appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/342761/intel-could-sell-chip-manufacturing-business-to-tsmc-and-broadcom/",
-          "publishedOn": "2025-02-17T02:00:19.000Z",
-          "wordCount": 4706,
-          "title": "Intel Could Sell Chip Manufacturing Business To TSMC And Broadcom",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/09/NEW-Intel-Asset-Clearence-Disinvestments-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=342774",
-          "author": "Heirul Kamel",
-          "description": "Maybank has issued a notice informing users that its MAE app will only support iPhones running iOS 14 and above starting from 31 March 2025. Users with devices operating on versions prior to it will no longer be able to use the app beyond this date. Additionally, from 31 March 2024, users on older iOS […]\nThe post Maybank MAE App To Drop Support For iOS 13 And Below By March 2025 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/342774/maybank-mae-app-ios-support-notice-2025/",
-          "publishedOn": "2025-02-17T01:49:57.000Z",
-          "wordCount": 4575,
-          "title": "Maybank MAE App To Drop Support For iOS 13 And Below By March 2025",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/06/maybank_maybank_maybank-discontinues-maybank2u-2.jpg"
         }
       ]
     },
