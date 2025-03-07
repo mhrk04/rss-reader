@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/php-cgi-rce-flaw-exploited-in-attacks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors of unknown provenance have been attributed to a malicious campaign predominantly targeting organizations in Japan since January 2025.\n\"The attacker has exploited the vulnerability CVE-2024-4577, a remote code execution (RCE) flaw in the PHP-CGI implementation of PHP on Windows, to gain initial access to victim machines,\" Cisco Talos researcher Chetan Raghuprasad said in a technical",
+          "link": "https://thehackernews.com/2025/03/php-cgi-rce-flaw-exploited-in-attacks.html",
+          "publishedOn": "2025-03-07T04:42:00.000Z",
+          "wordCount": null,
+          "title": "PHP-CGI RCE Flaw Exploited in Attacks on Japan's Tech, Telecom, and E-Commerce Sectors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKtzH5AboNNSuqsePkKKzBPnGG3UK0hqmsskIYkZIjj7eYtEXomup1qDmN-HOw-GHh8YvaqMmN31QauiGwvdODjDp5ktoHI48Kaod5NLjmZT9myzPypalPTD0mpAXhZ5Nhfgg84WnLAGtJgXF2AWTXx7-FC9CDL7aTJfQJ0QbHFoASz7Ip1buqlpHfSzKa/s1600/php-code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKtzH5AboNNSuqsePkKKzBPnGG3UK0hqmsskIYkZIjj7eYtEXomup1qDmN-HOw-GHh8YvaqMmN31QauiGwvdODjDp5ktoHI48Kaod5NLjmZT9myzPypalPTD0mpAXhZ5Nhfgg84WnLAGtJgXF2AWTXx7-FC9CDL7aTJfQJ0QbHFoASz7Ip1buqlpHfSzKa/s1600/php-code.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/elastic-releases-urgent-fix-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Elastic has rolled out security updates to address a critical security flaw impacting the Kibana data visualization dashboard software for Elasticsearch that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2025-25012, carries a CVSS score of 9.9 out of a maximum of 10.0. It has been described as a case of prototype pollution.\n\"Prototype pollution in Kibana leads to",
@@ -20404,6 +20420,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=344811",
+          "author": "Heirul Kamel",
+          "description": "Touch ‘n Go Digital has introduced a new travel eSIM service through its TnG eWallet app, offering users seamless connectivity in 149 countries, including Japan, South Korea, China and Singapore. The service, revealed to be a collaboration Airalo, allows users to purchase an eSIM and subscribe to a data plan directly within the app, eliminating […]\nThe post TnG eWallet Now Offers Travel eSIM Service appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/344811/tng-ewallet-travel-esim-service/",
+          "publishedOn": "2025-03-07T05:01:13.000Z",
+          "wordCount": 5139,
+          "title": "TnG eWallet Now Offers Travel eSIM Service",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/tng-ewallet-travel-esim-service_02.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=344787",
+          "author": "Ikmal Rozlan",
+          "description": "realme has officially launched the C75x, its latest entry-level smartphone from the C series. As expected from its earlier retail listings, the phone comes in a single configuration and is RM100 cheaper than the C75 at the cost of a smaller battery and a chip downgrade, but on the upside, it gets an improved display. […]\nThe post realme C75x Makes Its Debut With RM599 Price Tag appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/344787/realme-c75x-malaysia/",
+          "publishedOn": "2025-03-07T04:48:19.000Z",
+          "wordCount": 4603,
+          "title": "realme C75x Makes Its Debut With RM599 Price Tag",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/realme-C75x.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=344800",
           "author": "Ian Chee",
@@ -22839,16 +22875,6 @@
           "publishedOn": "2025-02-20T19:26:50.000Z",
           "wordCount": null,
           "title": "Ghost Ransomware Targets Orgs in 70+ Countries",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/google-quantum-resistant-digital-signatures-cloud-kms",
-          "author": "Jeffrey Schwartz",
-          "description": "The new Cloud Key Management Service is part of Google’s new roadmap for implementing the new NIST-based post-quantum cryptography (PQC) standards.",
-          "link": "https://www.darkreading.com/cloud-security/google-quantum-resistant-digital-signatures-cloud-kms",
-          "publishedOn": "2025-02-20T17:00:22.000Z",
-          "wordCount": null,
-          "title": "Google Adds Quantum-Resistant Digital Signatures to Cloud KMS",
           "imageUrl": null
         }
       ]
