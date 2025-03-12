@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-nexus cyber espionage group tracked as UNC3886 has been observed targeting end-of-life MX routers from Juniper Networks as part of a campaign designed to deploy custom backdoors, highlighting their ability to focus on internal networking infrastructure.\n\"The backdoors had varying custom capabilities, including active and passive backdoor functions, as well as an embedded script that",
+          "link": "https://thehackernews.com/2025/03/chinese-hackers-breach-juniper-networks.html",
+          "publishedOn": "2025-03-12T14:08:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Breach Juniper Networks Routers With Custom Backdoors and Rootkits",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYt8gkFijIDWQYmn5l4x68ND_evYbMyYX4SFwISlSEuuOHui4ZV0zBGXuQGBGt1K4DA3TDOY8Y0hujk4I_NeS-t-1O_TG3cPkQWQOzUJG270afcMPq-ndwOuFfZD64-kzripRzHaK1svKt6GL-t98e1Qe6CTUuZifSiPavFvpeczY00nEEdj5ptTYymCkD/s1600/chinese-hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYt8gkFijIDWQYmn5l4x68ND_evYbMyYX4SFwISlSEuuOHui4ZV0zBGXuQGBGt1K4DA3TDOY8Y0hujk4I_NeS-t-1O_TG3cPkQWQOzUJG270afcMPq-ndwOuFfZD64-kzripRzHaK1svKt6GL-t98e1Qe6CTUuZifSiPavFvpeczY00nEEdj5ptTYymCkD/s1600/chinese-hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/over-400-ips-exploiting-multiple-ssrf.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat intelligence firm GreyNoise is warning of a \"coordinated surge\" in the exploitation of Server-Side Request Forgery (SSRF) vulnerabilities spanning multiple platforms.\n\"At least 400 IPs have been seen actively exploiting multiple SSRF CVEs simultaneously, with notable overlap between attack attempts,\" the company said, adding it observed the activity on March 9, 2025.\nThe countries which",
@@ -22199,6 +22215,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/ballista-botnet-campaign-exploits-2023-vuln-tp-link-routers",
+          "author": "Kristina Beek, Associate Editor, Dark Reading",
+          "description": "In the past, the vulnerability was exploited to drop Mirai botnet malware. Today, it's being used once more for another botnet campaign with its own malware.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ballista-botnet-campaign-exploits-2023-vuln-tp-link-routers",
+          "publishedOn": "2025-03-12T15:36:53.000Z",
+          "wordCount": null,
+          "title": "'Ballista' Botnet Exploits 2023 Vulnerability in TP-Link Routers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/ciso-business-resilience-architect",
           "author": "Randolph Barr",
