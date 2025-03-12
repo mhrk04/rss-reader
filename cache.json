@@ -22170,6 +22170,16 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/volt-typhoon-strikes-massachusetts-power-utility",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "The prolonged attack, which lasted 300+ days, is the first known compromise of the US electric grid by the Voltzite subgroup of the Chinese APT; during it, the APT attempted to exfiltrate critical OT infrastructure data.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/volt-typhoon-strikes-massachusetts-power-utility",
+          "publishedOn": "2025-03-12T17:54:37.000Z",
+          "wordCount": null,
+          "title": "Volt Typhoon Strikes Massachusetts Power Utility",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/ballista-botnet-campaign-exploits-2023-vuln-tp-link-routers",
           "author": "Kristina Beek, Associate Editor, Dark Reading",
           "description": "In the past, the vulnerability was exploited to drop Mirai botnet malware. Today, it's being used once more for another botnet campaign with its own malware.",
@@ -22967,16 +22977,6 @@
           "publishedOn": "2025-02-26T10:18:02.000Z",
           "wordCount": null,
           "title": "Stealthy Linux 'Auto-color' Backdoor Paints US Institutions With Malware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/silver-fox-byovd-attack-windows-blocklist",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "There's an untapped universe of exploitable drivers in the wild today. By exploiting just one of them, attackers were able to defeat security tools and infect Asian citizens with Gh0stRAT.",
-          "link": "https://www.darkreading.com/cyber-risk/silver-fox-byovd-attack-windows-blocklist",
-          "publishedOn": "2025-02-26T06:03:27.000Z",
-          "wordCount": null,
-          "title": "'Silver Fox' APT Skirts Windows Blocklist in BYOVD Attack",
           "imageUrl": null
         }
       ]
