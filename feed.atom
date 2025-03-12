@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-03-12T22:07:51.512Z</updated>
+    <updated>2025-03-12T22:40:07.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Mandiant researchers found the routers of several unnamed organizations (likely telcos and ISPs) were hacked by UNC3886, and contained a custom backdoor called "TinyShell."]]></summary>
         <author>
             <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIST Finalizes Differential Privacy Rules to Protect Data]]></title>
+        <id>https://www.darkreading.com/data-privacy/nist-finalizes-differential-privacy-rules-to-protect-data</id>
+        <link href="https://www.darkreading.com/data-privacy/nist-finalizes-differential-privacy-rules-to-protect-data"/>
+        <updated>2025-03-12T20:52:33.000Z</updated>
+        <summary type="html"><![CDATA[The National Institute of Standards and Technology (NIST) released updated differential privacy guidelines for organizations to follow to protect personally identifiable information when sharing data.]]></summary>
+        <author>
+            <name>Arielle Waldman</name>
         </author>
     </entry>
     <entry>
@@ -3444,39 +3454,6 @@ The Ukrainian cybersecurity authority said it observed the latest attack wave st
 The post Xiaomi 15 Series Could Also Come With Gemini Advanced appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious PyPI Package "automslc" Enables 104K+ Unauthorized Deezer Music Downloads]]></title>
-        <id>https://thehackernews.com/2025/02/malicious-pypi-package-automslc-enables.html</id>
-        <link href="https://thehackernews.com/2025/02/malicious-pypi-package-automslc-enables.html"/>
-        <updated>2025-02-26T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have flagged a malicious Python library on the Python Package Index (PyPI) repository that facilitates unauthorized music downloads from music streaming service Deezer.
-The package in question is automslc, which has been downloaded over 104,000 times to date. First published in May 2019, it remains available on PyPI as of writing.
-"Although automslc, which has been]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stealthy Linux 'Auto-color' Backdoor Paints US Institutions With Malware]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/stealthy-linux-auto-color-backdoor-us-institutions-malware</id>
-        <link href="https://www.darkreading.com/threat-intelligence/stealthy-linux-auto-color-backdoor-us-institutions-malware"/>
-        <updated>2025-02-26T10:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are using a novel malware that takes on different file names each time it's deployed; it also boasts an anti-removal mechanism to target universities and government offices.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s Rumoured Face ID Doorbell May Feature MagSafe]]></title>
-        <id>https://www.lowyat.net/?p=343840</id>
-        <link href="https://www.lowyat.net/2025/343840/apple-face-id-doorbell-magsafe/"/>
-        <updated>2025-02-26T10:13:16.000Z</updated>
-        <summary type="html"><![CDATA[A few months back, Bloomberg’s Mark Gurman reported that Apple was working on a smart doorbell, similar to Amazon’s Ring (pictured above). The key difference is that it would allegedly feature the company’s Face ID technology for user verification. Now, a recent leak by X user Kosutami has shed new light on the device, suggesting […]
-The post Apple’s Rumoured Face ID Doorbell May Feature MagSafe appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Newsdesk</name>
         </author>
     </entry>
     <entry>
