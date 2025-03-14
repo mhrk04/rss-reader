@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/new-massjacker-malware-targets-piracy.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Users searching for pirated software are the target of a new malware campaign that delivers a previously undocumented clipper malware called MassJacker, according to findings from CyberArk.\nClipper malware is a type of cryware (as coined by Microsoft) that's designed to monitor a victim's clipboard content and facilitate cryptocurrency theft by substituting copied cryptocurrency wallet addresses",
+          "link": "https://thehackernews.com/2025/03/new-massjacker-malware-targets-piracy.html",
+          "publishedOn": "2025-03-14T06:08:00.000Z",
+          "wordCount": null,
+          "title": "New MassJacker Malware Targets Piracy Users, Hijacking Cryptocurrency Transactions",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7gubgaYvU6_gbFj_ymCDblWpvkPDwwTdvh2s9zeYisQepf5pFL6prK6Fr_MVYdmNzeJ2_mLYMQxw4xZWctxPoMMGvdC4Cgl6y85SY-Pp2AlpKUSaEiPh32PzVe5mATmDP9l_cwzpWdfKsTr094FJBQHNDGyR9NsU-Kb3kkkswMXYgcRiueD5yfRohbvNi/s1600/clipboard.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7gubgaYvU6_gbFj_ymCDblWpvkPDwwTdvh2s9zeYisQepf5pFL6prK6Fr_MVYdmNzeJ2_mLYMQxw4xZWctxPoMMGvdC4Cgl6y85SY-Pp2AlpKUSaEiPh32PzVe5mATmDP9l_cwzpWdfKsTr094FJBQHNDGyR9NsU-Kb3kkkswMXYgcRiueD5yfRohbvNi/s1600/clipboard.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/obscurebat-malware-uses-fake-captcha.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new malware campaign has been observed leveraging social engineering tactics to deliver an open-source rootkit called r77.\nThe activity, condemned OBSCURE#BAT by Securonix, enables threat actors to establish persistence and evade detection on compromised systems. It's currently not known who is behind the campaign.\nThe rootkit \"has the ability to cloak or mask any file, registry key or task",
@@ -20356,6 +20372,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=345488",
+          "author": "Ikmal Rozlan",
+          "description": "Google has officially started rolling out a new feature for its Find My Device app that allows you to share your real-time location with others. Similar to Apple’s Find My app, the new sharing feature lets Android users keep track of who has access to your location and how long they can access it. The […]\nThe post Google Find My Device Now Allows You To Share Your Location With Others appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/345488/google-find-my-device-share-location/",
+          "publishedOn": "2025-03-14T06:47:22.000Z",
+          "wordCount": 4621,
+          "title": "Google Find My Device Now Allows You To Share Your Location With Others",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/Google-Find-My-Device-location-sharing-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=345481",
           "author": "Newsdesk",
@@ -22911,16 +22937,6 @@
           "publishedOn": "2025-02-27T19:58:27.000Z",
           "wordCount": null,
           "title": "Microsoft Rolls Out Fresh Outlook Fix After Faulty Windows Update",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/3-things-about-ai-data-poisoning",
-          "author": "Arvind Nithrakashyap",
-          "description": "Data poisoning represents the next big existential cybersecurity threat — unless organizations can ensure their AI systems are safe and trustworthy.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/3-things-about-ai-data-poisoning",
-          "publishedOn": "2025-02-27T19:07:13.000Z",
-          "wordCount": null,
-          "title": "3 Things to Know About AI Data Poisoning",
           "imageUrl": null
         }
       ]
