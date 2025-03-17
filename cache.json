@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/github-action-compromise-puts-cicd.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are calling attention to an incident in which the popular GitHub Action tj-actions/changed-files was compromised to leak secrets from repositories using the continuous integration and continuous delivery (CI/CD) workflow.\nThe incident involved the tj-actions/changed-files GitHub Action, which is used in over 23,000 repositories. It's used to track and retrieve all",
+          "link": "https://thehackernews.com/2025/03/github-action-compromise-puts-cicd.html",
+          "publishedOn": "2025-03-17T10:11:00.000Z",
+          "wordCount": null,
+          "title": "GitHub Action Compromise Puts CI/CD Secrets at Risk in Over 23,000 Repositories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4uCoSeJGTGQHDHpY8aWzjTeRGWJdiDrNTvY3S3jUElG52fxb_2txsJoLoP_zZrZXmuvl2_ce3-11NSERhbnsDXuH7Sf2BZGKh6sf1ReTo6QvNuojoZmf_r1b6i8v-B4oBafqEqCbjGh55a09mQJYRF_nFxYe64K20xY_MSnM3iq01M-AIhC6UrhEJe7g6/s1600/github.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4uCoSeJGTGQHDHpY8aWzjTeRGWJdiDrNTvY3S3jUElG52fxb_2txsJoLoP_zZrZXmuvl2_ce3-11NSERhbnsDXuH7Sf2BZGKh6sf1ReTo6QvNuojoZmf_r1b6i8v-B4oBafqEqCbjGh55a09mQJYRF_nFxYe64K20xY_MSnM3iq01M-AIhC6UrhEJe7g6/s1600/github.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/malicious-pypi-packages-stole-cloud.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have warned of a malicious campaign targeting users of the Python Package Index (PyPI) repository with bogus libraries masquerading as \"time\" related utilities, but harboring hidden functionality to steal sensitive data such as cloud access tokens.\nSoftware supply chain security firm ReversingLabs said it discovered two sets of packages totaling 20 of them. The packages",

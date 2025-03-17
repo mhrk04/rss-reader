@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-03-17T10:09:48.072Z</updated>
+    <updated>2025-03-17T10:43:16.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Action Compromise Puts CI/CD Secrets at Risk in Over 23,000 Repositories]]></title>
+        <id>https://thehackernews.com/2025/03/github-action-compromise-puts-cicd.html</id>
+        <link href="https://thehackernews.com/2025/03/github-action-compromise-puts-cicd.html"/>
+        <updated>2025-03-17T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are calling attention to an incident in which the popular GitHub Action tj-actions/changed-files was compromised to leak secrets from repositories using the continuous integration and continuous delivery (CI/CD) workflow.
+The incident involved the tj-actions/changed-files GitHub Action, which is used in over 23,000 repositories. It's used to track and retrieve all]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Huawei Microsoft License To Expire; Company To Use HarmonyOS For PCs]]></title>
         <id>https://www.lowyat.net/?p=345652</id>
