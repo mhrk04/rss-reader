@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-03-18T07:38:51.707Z</updated>
+    <updated>2025-03-18T08:12:20.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of StilachiRAT: A Stealthy RAT Targeting Credentials and Crypto Wallets]]></title>
+        <id>https://thehackernews.com/2025/03/microsoft-warns-of-stilachirat-stealthy.html</id>
+        <link href="https://thehackernews.com/2025/03/microsoft-warns-of-stilachirat-stealthy.html"/>
+        <updated>2025-03-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is calling attention to a novel remote access trojan (RAT) named StilachiRAT that it said employs advanced techniques to sidestep detection and persist within target environments with an ultimate aim to steal sensitive data.
+The malware contains capabilities to "steal information from the target system, such as credentials stored in the browser, digital wallet information, data stored]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OAuth Attacks Target Microsoft 365, GitHub]]></title>
         <id>https://www.darkreading.com/application-security/oauth-attacks-target-microsoft-365-github</id>
@@ -3451,16 +3462,6 @@ The post Tim Cook Hints At New MacBook Air Unveiling This Week appeared first on
         <summary type="html"><![CDATA[The ransomware-as-a-service (RaaS) cybercrime group intends to leak the stolen information in just two days, it claims; but oddly, it doesn't seek a ransom payment from its victim.]]></summary>
         <author>
             <name>Kristina Beek, Associate Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishers Wreak 'Havoc,' Disguising Attack Inside SharePoint]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/phishers-wreak-havoc-disguising-attack-inside-sharepoint</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/phishers-wreak-havoc-disguising-attack-inside-sharepoint"/>
-        <updated>2025-03-03T20:02:24.000Z</updated>
-        <summary type="html"><![CDATA[A complex campaign allows cyberattackers to take over Windows systems by a combining a ClickFix-style attack and sophisticated obfuscation that abuses legitimate Microsoft services.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
         </author>
     </entry>
     <entry>

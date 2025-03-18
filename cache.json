@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/microsoft-warns-of-stilachirat-stealthy.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft is calling attention to a novel remote access trojan (RAT) named StilachiRAT that it said employs advanced techniques to sidestep detection and persist within target environments with an ultimate aim to steal sensitive data.\nThe malware contains capabilities to \"steal information from the target system, such as credentials stored in the browser, digital wallet information, data stored",
+          "link": "https://thehackernews.com/2025/03/microsoft-warns-of-stilachirat-stealthy.html",
+          "publishedOn": "2025-03-18T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Warns of StilachiRAT: A Stealthy RAT Targeting Credentials and Crypto Wallets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4UQvJMRpqbL6RzzQypEGHMxf74IOtKNCrYK853AToX1QIq0XRnS28nHFDbCPfjOLRThz37pTRPUTwsUlMKhr3FoEAPtpI-puHr-b2uyPE8OSp6cwiiGGAoPL8F-9sPASlvrpB8RXMcwa_vXiLReutIR1Pv80PiogITxsszkCpOvxCoDkDQ0HTK-i4cMUQ/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4UQvJMRpqbL6RzzQypEGHMxf74IOtKNCrYK853AToX1QIq0XRnS28nHFDbCPfjOLRThz37pTRPUTwsUlMKhr3FoEAPtpI-puHr-b2uyPE8OSp6cwiiGGAoPL8F-9sPASlvrpB8RXMcwa_vXiLReutIR1Pv80PiogITxsszkCpOvxCoDkDQ0HTK-i4cMUQ/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/apache-tomcat-vulnerability-comes-under.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A recently disclosed security flaw impacting Apache Tomcat has come under active exploitation in the wild following the release of a public proof-of-concept (PoC) a mere 30 hours after public disclosure.\nThe vulnerability, tracked as CVE-2025-24813, affects the below versions -\n\nApache Tomcat 11.0.0-M1 to 11.0.2\nApache Tomcat 10.1.0-M1 to 10.1.34\nApache Tomcat 9.0.0-M1 to 9.0.98\n\nIt concerns a",
@@ -22879,16 +22895,6 @@
           "publishedOn": "2025-03-03T20:29:43.000Z",
           "wordCount": null,
           "title": "Qilin Cybercrime Ring Claims Credit for Lee Newspaper Breach",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/phishers-wreak-havoc-disguising-attack-inside-sharepoint",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "A complex campaign allows cyberattackers to take over Windows systems by a combining a ClickFix-style attack and sophisticated obfuscation that abuses legitimate Microsoft services.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/phishers-wreak-havoc-disguising-attack-inside-sharepoint",
-          "publishedOn": "2025-03-03T20:02:24.000Z",
-          "wordCount": null,
-          "title": "Phishers Wreak 'Havoc,' Disguising Attack Inside SharePoint",
           "imageUrl": null
         }
       ]
