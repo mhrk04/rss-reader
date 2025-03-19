@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/hackers-exploit-severe-php-flaw-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are exploiting a severe security flaw in PHP to deliver cryptocurrency miners and remote access trojans (RATs) like Quasar RAT.\nThe vulnerability, assigned the CVE identifier CVE-2024-4577, refers to an argument injection vulnerability in PHP affecting Windows-based systems running in CGI mode that could allow remote attackers to run arbitrary code.\nCybersecurity company",
+          "link": "https://thehackernews.com/2025/03/hackers-exploit-severe-php-flaw-to.html",
+          "publishedOn": "2025-03-19T15:52:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Severe PHP Flaw to Deploy Quasar RAT and XMRig Miners",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuZMcFmCFMuQkbyqwO03W2wJ0RgWMbK8mSPowNfMuZIW5piz99ZShoCplzNC6u9FWEwhK4SeIuYcuyG1jGn6kMO2ozuFWG6rU6tXZv2zcnyodLIKEsPQn_6I-pjuyY4jRB02qcLZ__H_xvJMdDnIzw8aw8JQoYl4n0wpcsyND79yVszphqXN0WjBULXCLu/s1600/php.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuZMcFmCFMuQkbyqwO03W2wJ0RgWMbK8mSPowNfMuZIW5piz99ZShoCplzNC6u9FWEwhK4SeIuYcuyG1jGn6kMO2ozuFWG6rU6tXZv2zcnyodLIKEsPQn_6I-pjuyY4jRB02qcLZ__H_xvJMdDnIzw8aw8JQoYl4n0wpcsyND79yVszphqXN0WjBULXCLu/s1600/php.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/leaked-black-basta-chats-suggest.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The recently leaked trove of internal chat logs among members of the Black Basta ransomware operation has revealed possible connections between the e-crime gang and Russian authorities.\nThe leak, containing over 200,000 messages from September 2023 to September 2024, was published by a Telegram user @ExploitWhispers last month.\nAccording to an analysis of the messages by cybersecurity company",
@@ -22937,16 +22953,6 @@
           "publishedOn": "2025-03-05T14:00:00.000Z",
           "wordCount": null,
           "title": "Black Basta Pivots to Cactus Ransomware Group",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/thinking-outside-box-cyber-risk",
-          "author": "Richard Thurston",
-          "description": "CISOs should add more to their vision than technology as a global report published by the World Economic Forum identifies a closely interconnected cocktail of risk",
-          "link": "https://www.darkreading.com/cyber-risk/thinking-outside-box-cyber-risk",
-          "publishedOn": "2025-03-05T04:36:24.000Z",
-          "wordCount": null,
-          "title": "Thinking Outside the Box on Cyber Risk",
           "imageUrl": null
         }
       ]
