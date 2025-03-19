@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/cisa-warns-of-active-exploitation-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a vulnerability linked to the supply chain compromise of the GitHub Action, tj-actions/changed-files, to its Known Exploited Vulnerabilities (KEV) catalog.\nThe high-severity flaw, tracked as CVE-2025-30066 (CVSS score: 8.6), involves the breach of the GitHub Action to inject malicious code that enables a remote",
+          "link": "https://thehackernews.com/2025/03/cisa-warns-of-active-exploitation-in.html",
+          "publishedOn": "2025-03-19T05:05:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Active Exploitation in GitHub Action Supply Chain Compromise",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQ9wYFA_zdrURLdUdh5DOpLPG5Yuahw6xdHm_B5yhff1y8Hw9exy5tr-aH7bvLQ_CY478odKuNvx36PFoxYO5EGxOrtTLUulecnihkM0ZOtSmE5MDgh3oDUNGppvMy8jAXYs65kSE8Od6MazHKHQK3sJ8yN_EIj_x_98mOaN3Sy98Hn1yonVZWomsxndg/s1600/githun.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQ9wYFA_zdrURLdUdh5DOpLPG5Yuahw6xdHm_B5yhff1y8Hw9exy5tr-aH7bvLQ_CY478odKuNvx36PFoxYO5EGxOrtTLUulecnihkM0ZOtSmE5MDgh3oDUNGppvMy8jAXYs65kSE8Od6MazHKHQK3sJ8yN_EIj_x_98mOaN3Sy98Hn1yonVZWomsxndg/s1600/githun.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/new-rules-file-backdoor-attack-lets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed details of a new supply chain attack vector dubbed Rules File Backdoor that affects artificial intelligence (AI)-powered code editors like GitHub Copilot and Cursor, causing them to inject malicious code.\n\"This technique enables hackers to silently compromise AI-generated code by injecting hidden malicious instructions into seemingly innocent",
