@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/critical-ingress-nginx-controller.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A set of five critical security shortcomings have been disclosed in the Ingress NGINX Controller for Kubernetes that could result in unauthenticated remote code execution, putting over 6,500 clusters at immediate risk by exposing the component to the public internet.\nThe vulnerabilities (CVE-2025-24513, CVE-2025-24514, CVE-2025-1097, CVE-2025-1098, and CVE-2025-1974 ), assigned a CVSS score of",
+          "link": "https://thehackernews.com/2025/03/critical-ingress-nginx-controller.html",
+          "publishedOn": "2025-03-24T18:55:00.000Z",
+          "wordCount": null,
+          "title": "Critical Ingress NGINX Controller Vulnerability Allows RCE Without Authentication",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjHlwsnUepUlWpwFiKweqPP3vCKOcnbee6MnlDwVTWs_TYiFbWPIfYBJ0fN0x3HCC7hHcHeo4sFNLoWMce5ZM9-F16BeQ05Ol7yBhOP5v8hyPCJbY6DwPgEh1o-Ky3nszcSPE0s1XKxnRnGIpdixE4T4VFOpYrc4CedZ2xtSwVUNW3HBbvmYG6lFqlcMZ/s1600/cluster.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjHlwsnUepUlWpwFiKweqPP3vCKOcnbee6MnlDwVTWs_TYiFbWPIfYBJ0fN0x3HCC7hHcHeo4sFNLoWMce5ZM9-F16BeQ05Ol7yBhOP5v8hyPCJbY6DwPgEh1o-Ky3nszcSPE0s1XKxnRnGIpdixE4T4VFOpYrc4CedZ2xtSwVUNW3HBbvmYG6lFqlcMZ/s1600/cluster.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/microsoft-adds-inline-data-protection.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Monday announced a new feature called inline data protection for its enterprise-focused Edge for Business web browser.\nThe native data security control is designed to prevent employees from sharing sensitive company-related data into consumer generative artificial intelligence (GenAI) apps like OpenAI ChatGPT, Google Gemini, and DeepSeek. The list will be expanded over time to",
@@ -22101,16 +22117,6 @@
           "wordCount": 4646,
           "title": "Alleged NVIDIA GeForce RTX 5060 Ti Specs Leak; 16GB And 8GB GDDR7 Configurations",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/01/NVIDIA-GeForce-RTX-5080-FE-4.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=344979",
-          "author": "Keran Raj",
-          "description": "Nissan has been on a rollercoaster ride since last year, and the twists and turns just got even more intense. Reports are circulating that current CEO Makoto Uchida will be stepping down as soon as next week. This piece of information was first reported by Nikkei Business. It was also reported that Nissan’s nomination committee […]\nThe post Nissan CEO Makoto Uchida Could Step Down Soon appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/344979/nissan-ceo-makoto-uchida-could-step-down-soon/",
-          "publishedOn": "2025-03-10T07:11:53.000Z",
-          "wordCount": 4810,
-          "title": "Nissan CEO Makoto Uchida Could Step Down Soon",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/Nissan.jpg"
         }
       ]
     },
@@ -22119,6 +22125,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/critical-ingressnightmare-vulns-kubernetes-environments",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "More than 40% of all Internet-facing container orchestration clusters are at risk.",
+          "link": "https://www.darkreading.com/application-security/critical-ingressnightmare-vulns-kubernetes-environments",
+          "publishedOn": "2025-03-24T19:10:05.000Z",
+          "wordCount": null,
+          "title": "Critical 'IngressNightmare' Vulns Imperil Kubernetes Environments",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-apt-weaver-ant-caught-yearslong-web-shell-attack",
           "author": "Alexander Culafi, Senior News Writer, Dark Reading",

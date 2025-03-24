@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-03-24T19:06:49.874Z</updated>
+    <updated>2025-03-24T19:37:32.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical 'IngressNightmare' Vulns Imperil Kubernetes Environments]]></title>
+        <id>https://www.darkreading.com/application-security/critical-ingressnightmare-vulns-kubernetes-environments</id>
+        <link href="https://www.darkreading.com/application-security/critical-ingressnightmare-vulns-kubernetes-environments"/>
+        <updated>2025-03-24T19:10:05.000Z</updated>
+        <summary type="html"><![CDATA[More than 40% of all Internet-facing container orchestration clusters are at risk.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Ingress NGINX Controller Vulnerability Allows RCE Without Authentication]]></title>
+        <id>https://thehackernews.com/2025/03/critical-ingress-nginx-controller.html</id>
+        <link href="https://thehackernews.com/2025/03/critical-ingress-nginx-controller.html"/>
+        <updated>2025-03-24T18:55:00.000Z</updated>
+        <summary type="html"><![CDATA[A set of five critical security shortcomings have been disclosed in the Ingress NGINX Controller for Kubernetes that could result in unauthenticated remote code execution, putting over 6,500 clusters at immediate risk by exposing the component to the public internet.
+The vulnerabilities (CVE-2025-24513, CVE-2025-24514, CVE-2025-1097, CVE-2025-1098, and CVE-2025-1974 ), assigned a CVSS score of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China-Nexus APT 'Weaver Ant' Caught in Yearslong Web Shell Attack]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-apt-weaver-ant-caught-yearslong-web-shell-attack</id>
@@ -3426,17 +3447,6 @@ The post ASUS ROG Phone 9 FE Gets 19 March Launch Date appeared first on Lowyat.
 The post Alleged NVIDIA GeForce RTX 5060 Ti Specs Leak; 16GB And 8GB GDDR7 Configurations appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nissan CEO Makoto Uchida Could Step Down Soon]]></title>
-        <id>https://www.lowyat.net/?p=344979</id>
-        <link href="https://www.lowyat.net/2025/344979/nissan-ceo-makoto-uchida-could-step-down-soon/"/>
-        <updated>2025-03-10T07:11:53.000Z</updated>
-        <summary type="html"><![CDATA[Nissan has been on a rollercoaster ride since last year, and the twists and turns just got even more intense. Reports are circulating that current CEO Makoto Uchida will be stepping down as soon as next week. This piece of information was first reported by Nikkei Business. It was also reported that Nissan’s nomination committee […]
-The post Nissan CEO Makoto Uchida Could Step Down Soon appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran Raj</name>
         </author>
     </entry>
     <entry>
