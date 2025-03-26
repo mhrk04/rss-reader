@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-03-26T13:44:00.283Z</updated>
+    <updated>2025-03-26T14:09:19.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Lucid' Phishing-as-a-Service Exploits Faults in iMessage, Android RCS]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs</id>
+        <link href="https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs"/>
+        <updated>2025-03-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals in China have figured out how to undermine the strengths of mobile messaging protocols.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EncryptHub Exploits Windows Zero-Day to Deploy Rhadamanthys and StealC Malware]]></title>
+        <id>https://thehackernews.com/2025/03/encrypthub-exploits-windows-zero-day-to.html</id>
+        <link href="https://thehackernews.com/2025/03/encrypthub-exploits-windows-zero-day-to.html"/>
+        <updated>2025-03-26T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor known as EncryptHub exploited a recently-patched security vulnerability in Microsoft Windows as a zero-day to deliver a wide range of malware families, including backdoors and information stealers such as Rhadamanthys and StealC.
+"In this attack, the threat actor manipulates .msc files and the Multilingual User Interface Path (MUIPath) to download and execute malicious payload,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedCurl Shifts from Espionage to Ransomware with First-Ever QWCrypt Deployment]]></title>
+        <id>https://thehackernews.com/2025/03/redcurl-shifts-from-espionage-to.html</id>
+        <link href="https://thehackernews.com/2025/03/redcurl-shifts-from-espionage-to.html"/>
+        <updated>2025-03-26T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian-speaking hacking group called RedCurl has been linked to a ransomware campaign for the first time, marking a departure in the threat actor's tradecraft.
+The activity, observed by Romanian cybersecurity company Bitdefender, involves the deployment of a never-before-seen ransomware strain dubbed QWCrypt.
+RedCurl, also called Earth Kapre and Red Wolf, has a history of orchestrating]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Testing Framework Helps Evaluate Sandboxes]]></title>
         <id>https://www.darkreading.com/application-security/testing-framework-evaluate-sandbox</id>

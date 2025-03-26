@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/encrypthub-exploits-windows-zero-day-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as EncryptHub exploited a recently-patched security vulnerability in Microsoft Windows as a zero-day to deliver a wide range of malware families, including backdoors and information stealers such as Rhadamanthys and StealC.\n\"In this attack, the threat actor manipulates .msc files and the Multilingual User Interface Path (MUIPath) to download and execute malicious payload,",
+          "link": "https://thehackernews.com/2025/03/encrypthub-exploits-windows-zero-day-to.html",
+          "publishedOn": "2025-03-26T13:53:00.000Z",
+          "wordCount": null,
+          "title": "EncryptHub Exploits Windows Zero-Day to Deploy Rhadamanthys and StealC Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdim2aBaLm-GRHAstzSCydUUqjwLmAwo_G9eXFWUYyo58cO3IlBxUA2uzBhmKUZE8dzJmR5onxI1CFRqkfaBSjH3rmQr7rsi-Gb-wJVhQmxYUWyWm4JAog4bKxaVIA5h4ve4v3-WE9M_gvpe8nA0n66BjlYwUqXvvRjokBP3NAl_IOsPOe8UsRHKfbER_b/s1600/code-hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdim2aBaLm-GRHAstzSCydUUqjwLmAwo_G9eXFWUYyo58cO3IlBxUA2uzBhmKUZE8dzJmR5onxI1CFRqkfaBSjH3rmQr7rsi-Gb-wJVhQmxYUWyWm4JAog4bKxaVIA5h4ve4v3-WE9M_gvpe8nA0n66BjlYwUqXvvRjokBP3NAl_IOsPOe8UsRHKfbER_b/s1600/code-hackers.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/03/redcurl-shifts-from-espionage-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russian-speaking hacking group called RedCurl has been linked to a ransomware campaign for the first time, marking a departure in the threat actor's tradecraft.\nThe activity, observed by Romanian cybersecurity company Bitdefender, involves the deployment of a never-before-seen ransomware strain dubbed QWCrypt.\nRedCurl, also called Earth Kapre and Red Wolf, has a history of orchestrating",
+          "link": "https://thehackernews.com/2025/03/redcurl-shifts-from-espionage-to.html",
+          "publishedOn": "2025-03-26T13:43:00.000Z",
+          "wordCount": null,
+          "title": "RedCurl Shifts from Espionage to Ransomware with First-Ever QWCrypt Deployment",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDSlgGpi1BNEZAsNG3sDFa52tFQemuVPyYbQGYjUxlspSZGN0gfIMPVno_LyaemhbnHJhKoSshG05B0T39gVuep1h2O7DkdC1P7gEYFHsJvE0broM2Cz0E-vFfgLHlh6-UgN04aDYUCVtJZsFv765e5LjvLtg5jgYpPPO4r15y25pURxtCqdVwc7A5iDU/s1600/ransomware.-attacl.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDSlgGpi1BNEZAsNG3sDFa52tFQemuVPyYbQGYjUxlspSZGN0gfIMPVno_LyaemhbnHJhKoSshG05B0T39gVuep1h2O7DkdC1P7gEYFHsJvE0broM2Cz0E-vFfgLHlh6-UgN04aDYUCVtJZsFv765e5LjvLtg5jgYpPPO4r15y25pURxtCqdVwc7A5iDU/s1600/ransomware.-attacl.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/malicious-npm-package-modifies-local.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered two malicious packages on the npm registry that are designed to infect another locally installed package, underscoring the continued evolution of software supply chain attacks targeting the open-source ecosystem.\nThe packages in question are ethers-provider2 and ethers-providerz, with the former downloaded 73 times to date since it was published on",
@@ -22245,6 +22277,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "Cybercriminals in China have figured out how to undermine the strengths of mobile messaging protocols.",
+          "link": "https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs",
+          "publishedOn": "2025-03-26T14:00:00.000Z",
+          "wordCount": null,
+          "title": "'Lucid' Phishing-as-a-Service Exploits Faults in iMessage, Android RCS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/application-security/testing-framework-evaluate-sandbox",
           "author": "Arielle Waldman",
