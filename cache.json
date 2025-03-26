@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/zero-day-alert-google-releases-chrome.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has released out-of-band fixes to address a high-severity security flaw in its Chrome browser for Windows that it said has been exploited in the wild as part of attacks targeting organizations in Russia. \nThe vulnerability, tracked as CVE-2025-2783, has been described as a case of \"incorrect handle provided in unspecified circumstances in Mojo on Windows.\" Mojo refers to a",
+          "link": "https://thehackernews.com/2025/03/zero-day-alert-google-releases-chrome.html",
+          "publishedOn": "2025-03-26T04:56:00.000Z",
+          "wordCount": null,
+          "title": "Zero-Day Alert: Google Releases Chrome Patch for Exploit Used in Russian Espionage Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjVt8bRERjUwrg5DqCasG7dqttQ49Ed8nn0wFLmsdS2bpGmdm7AQpDOnrSve1vBVN_JS-oQXEkufDBjeQ0ZzkgN2S0f6R6rGCcl4SG_lT4pPPzfC6_Nc571xNujohkMMA1O3G1GV0eQ0HjA4yGp1vlKZwW0OmPCC53wWFTM2XIuJvsIbOZhetdYOiJoYu/s1600/chrome-hack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjVt8bRERjUwrg5DqCasG7dqttQ49Ed8nn0wFLmsdS2bpGmdm7AQpDOnrSve1vBVN_JS-oQXEkufDBjeQ0ZzkgN2S0f6R6rGCcl4SG_lT4pPPzfC6_Nc571xNujohkMMA1O3G1GV0eQ0HjA4yGp1vlKZwW0OmPCC53wWFTM2XIuJvsIbOZhetdYOiJoYu/s1600/chrome-hack.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/03/new-security-flaws-found-in-vmware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Broadcom has issued security patches to address a high-severity security flaw in VMware Tools for Windows that could lead to an authentication bypass.\nTracked as CVE-2025-22230, the vulnerability is rated 7.8 on the ten-point Common Vulnerability Scoring System (CVSS).\n\"VMware Tools for Windows contains an authentication bypass vulnerability due to improper access control,\" Broadcom said in an",
+          "link": "https://thehackernews.com/2025/03/new-security-flaws-found-in-vmware.html",
+          "publishedOn": "2025-03-26T04:20:00.000Z",
+          "wordCount": null,
+          "title": "New Security Flaws Found in VMware Tools and CrushFTP — High Risk, No Workaround",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp6nBG8alf9JGUpb2aR6tKQsufl-vKUdiMtcOSqzWvH-KH4qxAxT8g8KtMFM5vOKchKgG3WqqadVe98bVcFCX-DiLn5ULqzMcM-hjjfEiMUvWcWMLavj6oXSYUiZTSYL-LHtOjS440AokcZQ_Te_2N-sfSHlhnUnBEcIQ9PFKF9c7dUpz2UkYKkN6j943Y/s1600/vmware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp6nBG8alf9JGUpb2aR6tKQsufl-vKUdiMtcOSqzWvH-KH4qxAxT8g8KtMFM5vOKchKgG3WqqadVe98bVcFCX-DiLn5ULqzMcM-hjjfEiMUvWcWMLavj6oXSYUiZTSYL-LHtOjS440AokcZQ_Te_2N-sfSHlhnUnBEcIQ9PFKF9c7dUpz2UkYKkN6j943Y/s1600/vmware.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/researchers-uncover-200-unique-c2.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new investigation has unearthed nearly 200 unique command-and-control (C2) domains associated with a malware called Raspberry Robin.\n\"Raspberry Robin (also known as Roshtyak or Storm-0856) is a complex and evolving threat actor that provides initial access broker (IAB) services to numerous criminal groups, many of which have connections to Russia,\" Silent Push said in a report shared with The",
