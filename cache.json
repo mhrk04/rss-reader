@@ -20524,38 +20524,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCKNfJk3yE5KftrWQv6Cbr9HI4OCXZC-X7710pA3oPnxQsy_ey9wWlqnrtoDKqBnAQEaMmWfuWuxzF4e6QH_OrzqhSFQTuxUxA4lmZHV0sKbpu8zi3jbddXF7m5a1WtaCZ3Rx6MFooE4VS0VpX1IGd5xxq2CMYkM6ONGxa61Kkk3h8_Xo5O0fm9-pPzuY/s1600/dat.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCKNfJk3yE5KftrWQv6Cbr9HI4OCXZC-X7710pA3oPnxQsy_ey9wWlqnrtoDKqBnAQEaMmWfuWuxzF4e6QH_OrzqhSFQTuxUxA4lmZHV0sKbpu8zi3jbddXF7m5a1WtaCZ3Rx6MFooE4VS0VpX1IGd5xxq2CMYkM6ONGxa61Kkk3h8_Xo5O0fm9-pPzuY/s1600/dat.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/03/meta-warns-of-freetype-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Meta has warned that a security vulnerability impacting the FreeType open-source font rendering library may have been exploited in the wild.\nThe vulnerability has been assigned the CVE identifier CVE-2025-27363, and carries a CVSS score of 8.1, indicating high severity. Described as an out-of-bounds write flaw, it could be exploited to achieve remote code execution when parsing certain font",
-          "link": "https://thehackernews.com/2025/03/meta-warns-of-freetype-vulnerability.html",
-          "publishedOn": "2025-03-13T07:13:00.000Z",
-          "wordCount": null,
-          "title": "Meta Warns of FreeType Vulnerability (CVE-2025-27363) With Active Exploitation Risk",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8VCYE2CIAkcmVl3DcF-nTkO8Mo5A18CuIvlHTHgrXAE4LgOMM_3h-BQslWH4ekOvlkqCQKJ11q6sS8Spwgqs4bjfEfG0CK6EU4vbbT2CEOzdtiPaad7af6jDtLRQBJUh2lsfXHuy5k_jcGmBhlexU7Nubk24UBROLKhoRkxd3-lZrgfrBaTpM5dsOTAuQ/s1600/hackers.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8VCYE2CIAkcmVl3DcF-nTkO8Mo5A18CuIvlHTHgrXAE4LgOMM_3h-BQslWH4ekOvlkqCQKJ11q6sS8Spwgqs4bjfEfG0CK6EU4vbbT2CEOzdtiPaad7af6jDtLRQBJUh2lsfXHuy5k_jcGmBhlexU7Nubk24UBROLKhoRkxd3-lZrgfrBaTpM5dsOTAuQ/s1600/hackers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/03/warning-expiring-root-certificate-may.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Browser maker Mozilla is urging users to update their Firefox instances to the latest version to avoid facing issues with using add-ons due to the impending expiration of a root certificate.\n\"On March 14, 2025, a root certificate used to verify signed content and add-ons for various Mozilla projects, including Firefox, will expire,\" Mozilla said.\n\n\"Without updating to Firefox",
-          "link": "https://thehackernews.com/2025/03/warning-expiring-root-certificate-may.html",
-          "publishedOn": "2025-03-13T07:08:00.000Z",
-          "wordCount": null,
-          "title": "WARNING: Expiring Root Certificate May Disable Firefox Add-Ons, Security Features, and DRM Playback",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUn9gBNItdwJI_yM6bGZItiTAcKgUwehyphenhyphenq-bZhbzTS-JehK3DFgspFEEriS5GTrvEL-X0ypY6BJv3YcQCJgfnM0n6FOy5XR29AP0JDQTlo0_jXFxAsZ9tllyNYJmNflxvcOLxaZyc7gUEbZQTB7VCK0ck7lBVA93RTR6T4wWF3nUrx9sUsTmNCGBZwC2K/s1600/firefox.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUn9gBNItdwJI_yM6bGZItiTAcKgUwehyphenhyphenq-bZhbzTS-JehK3DFgspFEEriS5GTrvEL-X0ypY6BJv3YcQCJgfnM0n6FOy5XR29AP0JDQTlo0_jXFxAsZ9tllyNYJmNflxvcOLxaZyc7gUEbZQTB7VCK0ck7lBVA93RTR6T4wWF3nUrx9sUsTmNCGBZwC2K/s1600/firefox.png"
         }
       ]
     },
@@ -22241,6 +22209,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/dark-reading-confidential-hoff-rule-people-first",
+          "author": "Dark Reading Staff",
+          "description": "Dark Reading Confidential Episode 5: Christofer Hoff, chief secure technology officer at LastPass, shares the human side of the story of how he led his team through a major cyber incident and built from the ground up a security team and security culture.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/dark-reading-confidential-hoff-rule-people-first",
+          "publishedOn": "2025-03-27T21:43:28.000Z",
+          "wordCount": null,
+          "title": "Hoff's Rule: People First",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/doj-secures-5m-bec-fraud-workers-union",
           "author": "Kristina Beek, Associate Editor, Dark Reading",
