@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/russian-hackers-exploit-cve-2025-26633.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the zero-day exploitation of a recently-patched security vulnerability in Microsoft Windows have been found to deliver two new backdoors called SilentPrism and DarkWisp.\nThe activity has been attributed to a suspected Russian hacking group called Water Gamayun, which is also known as EncryptHub and LARVA-208.\n\"The threat actor deploys payloads primarily by means of",
+          "link": "https://thehackernews.com/2025/03/russian-hackers-exploit-cve-2025-26633.html",
+          "publishedOn": "2025-03-31T16:41:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hackers Exploit CVE-2025-26633 via MSC EvilTwin to Deploy SilentPrism and DarkWisp",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggJa6g8jKzDV-VfotzqyZ5WO-tp1kyFDPHglCvQQAobDG7YbsUkeaeLB-IlqxFysIaIMfeDpmipR_GzW_BWKg3RXjuFheMTgNFh1krGBB_GoQyeajOxttbr2qMqjCDaMqdNrg6iYldX-k6KjR5MyTUwCK-ucJ62_2xpamWvaNzADE9DS-iui-XnYwdW10P/s1600/russian-hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggJa6g8jKzDV-VfotzqyZ5WO-tp1kyFDPHglCvQQAobDG7YbsUkeaeLB-IlqxFysIaIMfeDpmipR_GzW_BWKg3RXjuFheMTgNFh1krGBB_GoQyeajOxttbr2qMqjCDaMqdNrg6iYldX-k6KjR5MyTUwCK-ucJ62_2xpamWvaNzADE9DS-iui-XnYwdW10P/s1600/russian-hackers.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/hackers-exploit-wordpress-mu-plugins-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are using the \"mu-plugins\" directory in WordPress sites to conceal malicious code with the goal of maintaining persistent remote access and redirecting site visitors to bogus sites.\nmu-plugins, short for must-use plugins, refers to plugins in a special directory (\"wp-content/mu-plugins\") that are automatically executed by WordPress without the need to enable them explicitly via the",
@@ -22053,16 +22069,6 @@
           "wordCount": 4608,
           "title": "Valve SteamOS Inches Closer To General Release With 3.7.0 Preview",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/11/Steam-Deck-OLED-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=345638",
-          "author": "John Law",
-          "description": "MSI confirmed to Tom’s Hardware that it won’t be pushing out any custom-cooled variations of AMD’s latest Radeon RX 9070 Series GPUs. That’s right, the PC brand is decidedly giving RDNA4 a miss. “Regarding your question, MSI is not manufacturing AMD GPUs this generation.” That’s the response the company gave to Tom’s Hardware when asked […]\nThe post MSI Confirms: Custom AMD Radeon RX 9070 Series Cards Not Happening appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/345638/msi-confirms-custom-amd-radeon-rx-9070-series-cards-not-happening/",
-          "publishedOn": "2025-03-17T05:33:29.000Z",
-          "wordCount": 4662,
-          "title": "MSI Confirms: Custom AMD Radeon RX 9070 Series Cards Not Happening",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/MSI-Suprim-Liquid-RTX-5090-10.jpg"
         }
       ]
     },

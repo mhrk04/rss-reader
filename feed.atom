@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-03-31T17:07:48.438Z</updated>
+    <updated>2025-03-31T17:39:31.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Hackers Exploit CVE-2025-26633 via MSC EvilTwin to Deploy SilentPrism and DarkWisp]]></title>
+        <id>https://thehackernews.com/2025/03/russian-hackers-exploit-cve-2025-26633.html</id>
+        <link href="https://thehackernews.com/2025/03/russian-hackers-exploit-cve-2025-26633.html"/>
+        <updated>2025-03-31T16:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the zero-day exploitation of a recently-patched security vulnerability in Microsoft Windows have been found to deliver two new backdoors called SilentPrism and DarkWisp.
+The activity has been attributed to a suspected Russian hacking group called Water Gamayun, which is also known as EncryptHub and LARVA-208.
+"The threat actor deploys payloads primarily by means of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bridging the Gap Between the CISO &amp; the Board of Directors]]></title>
         <id>https://www.darkreading.com/cybersecurity-operations/bridging-gap-between-ciso-board</id>
@@ -3388,17 +3400,6 @@ The post Apple Reportedly Replacing iPhone 17 Pro Max With New Ultra Variant app
         <updated>2025-03-17T06:18:35.000Z</updated>
         <summary type="html"><![CDATA[Valve promised earlier that SteamOS would be available to third-party handheld consoles. As of today, that goal inched closer to reality with the new SteamOS 3.7.0 Preview update. As per the official Steam website, Valve released SteamOS 3.7.0 for all testers to try, along with a note that reads “Beginnings of support for non-Steam Deck […]
 The post Valve SteamOS Inches Closer To General Release With 3.7.0 Preview appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI Confirms: Custom AMD Radeon RX 9070 Series Cards Not Happening]]></title>
-        <id>https://www.lowyat.net/?p=345638</id>
-        <link href="https://www.lowyat.net/2025/345638/msi-confirms-custom-amd-radeon-rx-9070-series-cards-not-happening/"/>
-        <updated>2025-03-17T05:33:29.000Z</updated>
-        <summary type="html"><![CDATA[MSI confirmed to Tom’s Hardware that it won’t be pushing out any custom-cooled variations of AMD’s latest Radeon RX 9070 Series GPUs. That’s right, the PC brand is decidedly giving RDNA4 a miss. “Regarding your question, MSI is not manufacturing AMD GPUs this generation.” That’s the response the company gave to Tom’s Hardware when asked […]
-The post MSI Confirms: Custom AMD Radeon RX 9070 Series Cards Not Happening appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
         </author>
