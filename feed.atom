@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-03-31T10:10:17.391Z</updated>
+    <updated>2025-03-31T10:44:59.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russia-Linked Gamaredon Uses Troop-Related Lures to Deploy Remcos RAT in Ukraine]]></title>
+        <id>https://thehackernews.com/2025/03/russia-linked-gamaredon-uses-troop.html</id>
+        <link href="https://thehackernews.com/2025/03/russia-linked-gamaredon-uses-troop.html"/>
+        <updated>2025-03-31T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Entities in Ukraine have been targeted as part of a phishing campaign designed to distribute a remote access trojan called Remcos RAT.
+"The file names use Russian words related to the movement of troops in Ukraine as a lure," Cisco Talos researcher Guilherme Venere said in a report published last week. "The PowerShell downloader contacts geo-fenced servers located in Russia and Germany to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RESURGE Malware Exploits Ivanti Flaw with Rootkit and Web Shell Features]]></title>
         <id>https://thehackernews.com/2025/03/resurge-malware-exploits-ivanti-flaw.html</id>
