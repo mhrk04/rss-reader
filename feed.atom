@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-03-31T13:44:29.168Z</updated>
+    <updated>2025-03-31T14:09:05.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qakbot Resurfaces in Fresh Wave of ClickFix Attacks]]></title>
+        <id>https://www.darkreading.com/endpoint-security/qakbot-resurfaces-fresh-wave-clickfix-attacks</id>
+        <link href="https://www.darkreading.com/endpoint-security/qakbot-resurfaces-fresh-wave-clickfix-attacks"/>
+        <updated>2025-03-31T13:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Attackers post links to fake websites on LinkedIn to ask people to complete malicious CAPTCHA challenges that install malware.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit WordPress mu-Plugins to Inject Spam and Hijack Site Images]]></title>
+        <id>https://thehackernews.com/2025/03/hackers-exploit-wordpress-mu-plugins-to.html</id>
+        <link href="https://thehackernews.com/2025/03/hackers-exploit-wordpress-mu-plugins-to.html"/>
+        <updated>2025-03-31T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are using the "mu-plugins" directory in WordPress sites to conceal malicious code with the goal of maintaining persistent remote access and redirecting site visitors to bogus sites.
+mu-plugins, short for must-use plugins, refers to plugins in a special directory ("wp-content/mu-plugins") that are automatically executed by WordPress without the need to enable them explicitly via the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚡ Weekly Recap: Chrome 0-Day, IngressNightmare, Solar Bugs, DNS Tactics, and More]]></title>
         <id>https://thehackernews.com/2025/03/weekly-recap-chrome-0-day.html</id>

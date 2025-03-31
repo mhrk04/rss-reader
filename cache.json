@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/03/hackers-exploit-wordpress-mu-plugins-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are using the \"mu-plugins\" directory in WordPress sites to conceal malicious code with the goal of maintaining persistent remote access and redirecting site visitors to bogus sites.\nmu-plugins, short for must-use plugins, refers to plugins in a special directory (\"wp-content/mu-plugins\") that are automatically executed by WordPress without the need to enable them explicitly via the",
+          "link": "https://thehackernews.com/2025/03/hackers-exploit-wordpress-mu-plugins-to.html",
+          "publishedOn": "2025-03-31T12:04:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit WordPress mu-Plugins to Inject Spam and Hijack Site Images",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPGs9FlgRjx323jLr6R1UyNy0lWWISc2edWq4imI_fj-_BJtcrFgd0R10xYSfN2fVkeJ8MqNhCrASXtLqY2uWCPikggp_hMXpRdwltBrTZmmKHIqnXAnyI39VE1XYijoqTZz5sHZ8wc40O1603uoxkgGtayMUg22MrEV30HVjAyB-PpJizNsEORBHOwAFs/s1600/wordpress.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPGs9FlgRjx323jLr6R1UyNy0lWWISc2edWq4imI_fj-_BJtcrFgd0R10xYSfN2fVkeJ8MqNhCrASXtLqY2uWCPikggp_hMXpRdwltBrTZmmKHIqnXAnyI39VE1XYijoqTZz5sHZ8wc40O1603uoxkgGtayMUg22MrEV30HVjAyB-PpJizNsEORBHOwAFs/s1600/wordpress.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/03/weekly-recap-chrome-0-day.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Every week, someone somewhere slips up—and threat actors slip in. A misconfigured setting, an overlooked vulnerability, or a too-convenient cloud tool becomes the perfect entry point. But what happens when the hunters become the hunted? Or when old malware resurfaces with new tricks?\nStep behind the curtain with us this week as we explore breaches born from routine oversights—and the unexpected",
@@ -22125,6 +22141,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint-security/qakbot-resurfaces-fresh-wave-clickfix-attacks",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "Attackers post links to fake websites on LinkedIn to ask people to complete malicious CAPTCHA challenges that install malware.",
+          "link": "https://www.darkreading.com/endpoint-security/qakbot-resurfaces-fresh-wave-clickfix-attacks",
+          "publishedOn": "2025-03-31T13:57:33.000Z",
+          "wordCount": null,
+          "title": "Qakbot Resurfaces in Fresh Wave of ClickFix Attacks",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cloud-security/gsa-plans-fedramp-revamp",
           "author": "Edge Editors",
