@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-01T11:07:46.699Z</updated>
+    <updated>2025-04-01T11:37:48.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Backports Critical Fixes for 3 Live Exploits Impacting iOS and macOS Legacy Devices]]></title>
+        <id>https://thehackernews.com/2025/04/apple-backports-critical-fixes-for-3.html</id>
+        <link href="https://thehackernews.com/2025/04/apple-backports-critical-fixes-for-3.html"/>
+        <updated>2025-04-01T11:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple on Monday backported fixes for three vulnerabilities that have come under active exploitation in the wild to older models and previous versions of the operating systems.
+The vulnerabilities in question are listed below -
+
+CVE-2025-24085 (CVSS score: 7.3) - A use-after-free bug in the Core Media component that could permit a malicious application already installed on a device to elevate]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly 24,000 IPs Target PAN-OS GlobalProtect in Coordinated Login Scan Campaign]]></title>
+        <id>https://thehackernews.com/2025/04/nearly-24000-ips-target-pan-os.html</id>
+        <link href="https://thehackernews.com/2025/04/nearly-24000-ips-target-pan-os.html"/>
+        <updated>2025-04-01T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning of a spike in suspicious login scanning activity targeting Palo Alto Networks PAN-OS GlobalProtect gateways, with nearly 24,000 unique IP addresses attempting to access these portals.
+"This pattern suggests a coordinated effort to probe network defenses and identify exposed or vulnerable systems, potentially as a precursor to targeted exploitation," threat]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Earth Alux Uses VARGEIT and COBEACON in Multi-Stage Cyber Intrusions]]></title>
+        <id>https://thehackernews.com/2025/04/china-linked-earth-alux-uses-vargeit.html</id>
+        <link href="https://thehackernews.com/2025/04/china-linked-earth-alux-uses-vargeit.html"/>
+        <updated>2025-04-01T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a new China-linked threat actor called Earth Alux that has targeted various key sectors such as government, technology, logistics, manufacturing, telecommunications, IT services, and retail in the Asia-Pacific (APAC) and Latin American (LATAM) regions.
+"The first sighting of its activity was in the second quarter of 2023; back then, it was]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Case Study: Global Retailer Overshares CSRF Tokens with Facebook]]></title>
+        <id>https://thehackernews.com/2025/04/new-case-study-global-retailer.html</id>
+        <link href="https://thehackernews.com/2025/04/new-case-study-global-retailer.html"/>
+        <updated>2025-04-01T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Are your security tokens truly secure?
+Explore how Reflectiz helped a giant retailer to expose a Facebook pixel that was covertly tracking sensitive CSRF tokens due to human error misconfigurations. Learn about the detection process, response strategies, and steps taken to mitigate this critical issue. Download the full case study here. 
+By implementing Reflectiz's recommendations, the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Fined €150 Million by French Regulator Over Discriminatory ATT Consent Practices]]></title>
         <id>https://thehackernews.com/2025/04/apple-fined-150-million-by-french.html</id>
