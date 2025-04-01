@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-01T13:45:06.618Z</updated>
+    <updated>2025-04-01T14:09:01.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FDA's Critical Role in Keeping Medical Devices Secure]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/fdas-critical-role-keeping-medical-devices-secure</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/fdas-critical-role-keeping-medical-devices-secure"/>
+        <updated>2025-04-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The FDA's regulations and guidance aim to strike a balance between ensuring rigorous oversight and enabling manufacturers to act swiftly when vulnerabilities are discovered.]]></summary>
+        <author>
+            <name>Morey J. Haber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 'ImageRunner' Bug Enabled Privilege Escalation]]></title>
+        <id>https://www.darkreading.com/cloud-security/google-imagerunner-bug-enabled-privilege-escalation</id>
+        <link href="https://www.darkreading.com/cloud-security/google-imagerunner-bug-enabled-privilege-escalation"/>
+        <updated>2025-04-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tenable released details of a Google Cloud Run flaw that prior to remediation allowed a threat actor to escalate privileges.]]></summary>
+        <author>
+            <name>Alexander Culafi, Senior News Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lazarus APT Jumps on ClickFix Bandwagon in Recent Attacks]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/lazarus-apt-clickfix-bandwagon-attacks</id>
