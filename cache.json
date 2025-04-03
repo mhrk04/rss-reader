@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/legacy-stripe-api-exploited-to-validate.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat hunters are warning of a sophisticated web skimmer campaign that leverages a legacy application programming interface (API) from payment processor Stripe to validate stolen payment information prior to exfiltration.\n\"This tactic ensures that only valid card data is sent to the attackers, making the operation more efficient and potentially harder to detect,\" Jscrambler researchers Pedro",
+          "link": "https://thehackernews.com/2025/04/legacy-stripe-api-exploited-to-validate.html",
+          "publishedOn": "2025-04-03T04:45:00.000Z",
+          "wordCount": null,
+          "title": "Legacy Stripe API Exploited to Validate Stolen Payment Cards in Web Skimmer Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGKPkCGAcRdk6A5JDQxFjzb0MJnptNLIougw5jjYG0L_h8PELRj371auFqpXF-2DouP6ZyqKWtamj7dMneIG-G0weJCifrvsF-fLIVVx2_rVvCtKHyXEnQ8vnUplzvwJyQej3HXvhTKItI8JoRrKjADM7gcBuh7DEtfmqE98AnnPrtqGAnIKXVCAtCW035/s1600/stripe-skimming.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGKPkCGAcRdk6A5JDQxFjzb0MJnptNLIougw5jjYG0L_h8PELRj371auFqpXF-2DouP6ZyqKWtamj7dMneIG-G0weJCifrvsF-fLIVVx2_rVvCtKHyXEnQ8vnUplzvwJyQej3HXvhTKItI8JoRrKjADM7gcBuh7DEtfmqE98AnnPrtqGAnIKXVCAtCW035/s1600/stripe-skimming.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/04/europol-dismantles-kidflix-with-72000.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In one of the largest coordinated law enforcement operations, authorities have dismantled Kidflix, a streaming platform that offered child sexual abuse material (CSAM).\n\"A total of 1.8 million users worldwide logged on to the platform between April 2022 and March 2025,\" Europol said in a statement. \"On March 11, 2025, the server, which contained around 72,000 videos at the time, was seized by",
+          "link": "https://thehackernews.com/2025/04/europol-dismantles-kidflix-with-72000.html",
+          "publishedOn": "2025-04-03T03:58:00.000Z",
+          "wordCount": null,
+          "title": "Europol Dismantles Kidflix With 72,000 CSAM Videos Seized in Major Operation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04ukptBlRS-AOYC-7b_LjWAP1HhMXr7ZX0c-5xOsAriUb4og9_iOYrAmbqEGoMxmOu1gjzxt18ZTlGd2xK4wMQQspWeSfrnyV7wftNTjLA4mW4qHfC1uhu0kfdOmGacDoVbKzDTd6vVfrsMFVq1uM-8chyz-dNU_B7h7AqBsjIB9cdpO5H4cwc4vqeucj/s1600/site.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04ukptBlRS-AOYC-7b_LjWAP1HhMXr7ZX0c-5xOsAriUb4og9_iOYrAmbqEGoMxmOu1gjzxt18ZTlGd2xK4wMQQspWeSfrnyV7wftNTjLA4mW4qHfC1uhu0kfdOmGacDoVbKzDTd6vVfrsMFVq1uM-8chyz-dNU_B7h7AqBsjIB9cdpO5H4cwc4vqeucj/s1600/site.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/google-fixed-cloud-run-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed details of a now-patched privilege escalation vulnerability in Google Cloud Platform (GCP) Cloud Run that could have allowed a malicious actor to access container images and even inject malicious code.\n\"The vulnerability could have allowed such an identity to abuse its Google Cloud Run revision edit permissions in order to pull private Google Artifact",
@@ -22747,16 +22779,6 @@
           "publishedOn": "2025-03-19T19:22:17.000Z",
           "wordCount": null,
           "title": "Women in CyberSecurity and ISC2 Announce the WiCyS + ISC2 Certified in CybersecuritySM Certification Spring Camp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/ai-cloud-adoption-cyber-mistakes",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "Research finds that organizations are granting root access by default and making other big missteps, including a Jenga-like building concept, in deploying and configuring AI services in cloud deployments.",
-          "link": "https://www.darkreading.com/cloud-security/ai-cloud-adoption-cyber-mistakes",
-          "publishedOn": "2025-03-19T17:05:03.000Z",
-          "wordCount": null,
-          "title": "AI Cloud Adoption Is Rife With Cyber Mistakes",
           "imageUrl": null
         }
       ]
