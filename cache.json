@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/critical-ivanti-flaw-actively-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti has disclosed details of a now-patched critical security vulnerability impacting its Connect Secure that has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2025-22457 (CVSS score: 9.0), concerns a case of a stack-based buffer overflow that could be exploited to execute arbitrary code on affected systems.\n\"A stack-based buffer overflow in Ivanti Connect",
+          "link": "https://thehackernews.com/2025/04/critical-ivanti-flaw-actively-exploited.html",
+          "publishedOn": "2025-04-04T06:07:00.000Z",
+          "wordCount": null,
+          "title": "Critical Ivanti Flaw Actively Exploited to Deploy TRAILBLAZE and BRUSHFIRE Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCltg902mTaOYxU2hZDJqQJhi9eJluvxfnbIAsb0TGxGbkPpcC2bFLnQmwCw0xC-ve4pgNLlSGzT1rUVmaIyWGodNQihyphenhyphenWcgsL9fUGrMAcfYJ-zz2XtKlN-7-L6WZF6Md48cG9sQYj_xsdC55um9N2jlmq-wKw5C3FeBC-IsEhCmuihjjNxXsFakuZOeyB/s1600/hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCltg902mTaOYxU2hZDJqQJhi9eJluvxfnbIAsb0TGxGbkPpcC2bFLnQmwCw0xC-ve4pgNLlSGzT1rUVmaIyWGodNQihyphenhyphenWcgsL9fUGrMAcfYJ-zz2XtKlN-7-L6WZF6Md48cG9sQYj_xsdC55um9N2jlmq-wKw5C3FeBC-IsEhCmuihjjNxXsFakuZOeyB/s1600/hackers.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/cert-ua-reports-cyberattacks-targeting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has revealed that no less than three cyber attacks were recorded against state administration bodies and critical infrastructure facilities in the country with an aim to steal sensitive data.\nThe campaign, the agency said, involved the use of compromised email accounts to send phishing messages containing links pointing to legitimate",
@@ -20500,6 +20516,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=347061",
+          "author": "Nurul Kamil",
+          "description": "It looks like Samsung might be working on yet another type of foldable phone, this time with four foldable panels. The company recently filed a patent titled “Electronic Device Including Bendable Display” on the World Intellectual Property Organization (WIPO) website. The patent features several design schematics for the quad-fold phone that show four panels connected […]\nThe post Samsung Could Be Working On A Quad-Fold Smartphone appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/347061/samsung-could-be-working-on-a-quad-fold-smartphone/",
+          "publishedOn": "2025-04-04T06:34:38.000Z",
+          "wordCount": 4502,
+          "title": "Samsung Could Be Working On A Quad-Fold Smartphone",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/Samsung-quad-fold-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=347068",
           "author": "Newsdesk",
@@ -22795,16 +22821,6 @@
           "publishedOn": "2025-03-20T20:01:08.000Z",
           "wordCount": null,
           "title": "University Competition Focuses on Solving Generative AI Challenges",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/why-hard-stop-rising-malicious-tds-traffic",
-          "author": "Rob Wright",
-          "description": "Cybersecurity vendors say threat actors' abuse of traffic distribution systems (TDS) is becoming more complex and sophisticated — and much harder to detect and block.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/why-hard-stop-rising-malicious-tds-traffic",
-          "publishedOn": "2025-03-20T18:40:40.000Z",
-          "wordCount": null,
-          "title": "Why It's So Hard to Stop Rising Malicious TDS Traffic",
           "imageUrl": null
         }
       ]
