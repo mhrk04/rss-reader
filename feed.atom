@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-05T14:38:29.779Z</updated>
+    <updated>2025-04-05T15:07:16.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Deploy BeaverTail Malware via 11 Malicious npm Packages]]></title>
+        <id>https://thehackernews.com/2025/04/north-korean-hackers-deploy-beavertail.html</id>
+        <link href="https://thehackernews.com/2025/04/north-korean-hackers-deploy-beavertail.html"/>
+        <updated>2025-04-05T14:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The North Korean threat actors behind the ongoing Contagious Interview campaign are spreading their tentacles on the npm ecosystem by publishing more malicious packages that deliver the BeaverTail malware, as well as a new remote access trojan (RAT) loader.
+"These latest samples employ hexadecimal string encoding to evade automated detection systems and manual code audits, signaling a variation]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vietnamese Shop Found Building AI Servers With Multiple RTX 5090 GPUs]]></title>
         <id>https://www.lowyat.net/?p=347135</id>
