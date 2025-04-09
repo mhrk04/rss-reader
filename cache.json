@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/pipemagic-trojan-exploits-windows-clfs.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has revealed that a now-patched security flaw impacting the Windows Common Log File System (CLFS) was exploited as a zero-day in ransomware attacks aimed at a small number of targets.\n\"The targets include organizations in the information technology (IT) and real estate sectors of the United States, the financial sector in Venezuela, a Spanish software company, and the retail sector in",
+          "link": "https://thehackernews.com/2025/04/pipemagic-trojan-exploits-windows-clfs.html",
+          "publishedOn": "2025-04-09T08:04:00.000Z",
+          "wordCount": null,
+          "title": "PipeMagic Trojan Exploits Windows Zero-Day Vulnerability to Deploy Ransomware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-OTpjyBb2Nu4iNnmTPpiOpg0yB8KzLe_tNoOBEP7MZQWpYrenr4CPHujexTAvU3h4fIaMJ2b5CPMO_7SnCFpF6w6bCIopR_4cgP6p5Pt_rcwVzQqMaVPcxWy06tTmm_RKf5nRliV7d4SDOFTgc9g45a_Mi_9eSjswz34Fntah7nvBVuR15APs0EOBWCqe/s1600/ransomware-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-OTpjyBb2Nu4iNnmTPpiOpg0yB8KzLe_tNoOBEP7MZQWpYrenr4CPHujexTAvU3h4fIaMJ2b5CPMO_7SnCFpF6w6bCIopR_4cgP6p5Pt_rcwVzQqMaVPcxWy06tTmm_RKf5nRliV7d4SDOFTgc9g45a_Mi_9eSjswz34Fntah7nvBVuR15APs0EOBWCqe/s1600/ransomware-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/04/cisa-warns-of-centrestacks-hard-coded.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Gladinet CentreStack to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability, tracked as CVE-2025-30406 (CVSS score: 9.0), concerns a case of a hard-coded cryptographic key that could be abused to achieve remote",
+          "link": "https://thehackernews.com/2025/04/cisa-warns-of-centrestacks-hard-coded.html",
+          "publishedOn": "2025-04-09T08:00:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of CentreStack's Hard-Coded MachineKey Vulnerability Enabling RCE Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4cwiSYb6_Oc_cGHcqsDuLyelaEkS5HJ7namfQTF3sLSToCNuhZtuluUU9BJ-GVr_6E2PT4Ug_8vlZEVP_Ko_x8SiaFXP7GOgJQZ5UOEdSyM54ze01xNeES4XxuMDg0n94-Admk5S1BCMBAEmPV_1WF9QMTLFm-NjIE4N7U1B8pDN9YgNm4777uFUIdBeg/s1600/cisa.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4cwiSYb6_Oc_cGHcqsDuLyelaEkS5HJ7namfQTF3sLSToCNuhZtuluUU9BJ-GVr_6E2PT4Ug_8vlZEVP_Ko_x8SiaFXP7GOgJQZ5UOEdSyM54ze01xNeES4XxuMDg0n94-Admk5S1BCMBAEmPV_1WF9QMTLFm-NjIE4N7U1B8pDN9YgNm4777uFUIdBeg/s1600/cisa.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/microsoft-patches-126-flaws-including.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft has released security fixes to address a massive set of 126 flaws affecting its software products, including one vulnerability that it said has been actively exploited in the wild.\nOf the 126 vulnerabilities, 11 are rated Critical, 112 are rated Important, and two are rated Low in severity. Forty-nine of these vulnerabilities are classified as privilege escalation, 34 as remote code",
@@ -22865,26 +22897,6 @@
           "publishedOn": "2025-03-26T07:00:00.000Z",
           "wordCount": null,
           "title": "Public-Private Ops Net Big Wins Against African Cybercrime",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/security-tech-make-difference-attack",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "The recent report of how Volt Typhoon compromised systems at a water utility highlight security technologies and processes that helped detect the compromise and clean up the network.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/security-tech-make-difference-attack",
-          "publishedOn": "2025-03-25T21:27:11.000Z",
-          "wordCount": null,
-          "title": "Security Tech That Can Make a Difference During an Attack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/east-west-monitoring-visibility-critical-apt-detection",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "The recent report of how Volt Typhoon compromised systems at a water utility highlight security technologies and processes that helped detect the compromise and clean up the network.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/east-west-monitoring-visibility-critical-apt-detection",
-          "publishedOn": "2025-03-25T21:27:11.000Z",
-          "wordCount": null,
-          "title": "Security Tech That Can Make a Difference During an Attack",
           "imageUrl": null
         }
       ]
