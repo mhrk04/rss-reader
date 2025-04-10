@@ -20508,22 +20508,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPfB5mSzg_6S-jTRJW-MG7KMYEcMcEAdsFjXOHnQJjQ4PTShcgNiCXvosCGyxZXGi1Y-xZWj2RIhF-CDnd-A_uKh8p9dVoPx1T0FQO7UzCGzG5FbVt374TjIQExJP5ARL7fWh2zB6u_2c5NimPrsVe-tP5CU1ARlku89VTWQbj9LTQxdFCRfqO1s55xck4/s1600/chinese-hackers.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPfB5mSzg_6S-jTRJW-MG7KMYEcMcEAdsFjXOHnQJjQ4PTShcgNiCXvosCGyxZXGi1Y-xZWj2RIhF-CDnd-A_uKh8p9dVoPx1T0FQO7UzCGzG5FbVt374TjIQExJP5ARL7fWh2zB6u_2c5NimPrsVe-tP5CU1ARlku89VTWQbj9LTQxdFCRfqO1s55xck4/s1600/chinese-hackers.png"
-        },
-        {
-          "id": "https://thehackernews.com/2025/03/cisa-flags-two-six-year-old-sitecore.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two six-year-old security flaws impacting Sitecore CMS and Experience Platform (XP) to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2019-9874 (CVSS score: 9.8) - A deserialization vulnerability in the Sitecore.Security.AntiCSRF",
-          "link": "https://thehackernews.com/2025/03/cisa-flags-two-six-year-old-sitecore.html",
-          "publishedOn": "2025-03-27T06:23:00.000Z",
-          "wordCount": null,
-          "title": "CISA Warns of Sitecore RCE Flaws; Active Exploits Hit Next.js and DrayTek Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1j3HrVjGIlv1z4x_VaWAEUGeMurZSzFYJvS0cVnI11C4LKtju0XpiPw-zjQzzpm7wq0zgvdYimX8oJr95f4asFOqc3s8yIQJrLevOcd_u0L1-xNfAhs6EWvH7fEZ8dagOn1yF6O1NuTH88GwlQaLriyHD3KLik-1eK_ntMAobutloDET8Qu4zSD68nR-/s1600/cisa.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1j3HrVjGIlv1z4x_VaWAEUGeMurZSzFYJvS0cVnI11C4LKtju0XpiPw-zjQzzpm7wq0zgvdYimX8oJr95f4asFOqc3s8yIQJrLevOcd_u0L1-xNfAhs6EWvH7fEZ8dagOn1yF6O1NuTH88GwlQaLriyHD3KLik-1eK_ntMAobutloDET8Qu4zSD68nR-/s1600/cisa.png"
         }
       ]
     },
@@ -22129,6 +22113,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud-security/open-source-poisoned-patches-infect-local-software",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "Malicious packages lurking on open source repositories like npm have become less effective, so cyberattackers are using a new strategy: offering \"patches\" for locally installed programs.",
+          "link": "https://www.darkreading.com/cloud-security/open-source-poisoned-patches-infect-local-software",
+          "publishedOn": "2025-04-10T18:10:10.000Z",
+          "wordCount": null,
+          "title": "Open Source Poisoned Patches Infect Local Software",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/data-privacy-versus-data-security",
           "author": "Chris Borkenhagen",

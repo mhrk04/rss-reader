@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-10T18:12:25.560Z</updated>
+    <updated>2025-04-10T18:45:43.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Source Poisoned Patches Infect Local Software]]></title>
+        <id>https://www.darkreading.com/cloud-security/open-source-poisoned-patches-infect-local-software</id>
+        <link href="https://www.darkreading.com/cloud-security/open-source-poisoned-patches-infect-local-software"/>
+        <updated>2025-04-10T18:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Malicious packages lurking on open source repositories like npm have become less effective, so cyberattackers are using a new strategy: offering "patches" for locally installed programs.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Incomplete Patch in NVIDIA Toolkit Leaves CVE-2024-0132 Open to Container Escapes]]></title>
         <id>https://thehackernews.com/2025/04/incomplete-patch-in-nvidia-toolkit.html</id>
@@ -3424,19 +3434,6 @@ The post iPhone 17 Series May Support 8K Video Recordings appeared first on Lowy
 The post PLUS To Activate Smartlanes At 28 Locations To Ease Hari Raya Traffic appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Warns of Sitecore RCE Flaws; Active Exploits Hit Next.js and DrayTek Devices]]></title>
-        <id>https://thehackernews.com/2025/03/cisa-flags-two-six-year-old-sitecore.html</id>
-        <link href="https://thehackernews.com/2025/03/cisa-flags-two-six-year-old-sitecore.html"/>
-        <updated>2025-03-27T06:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two six-year-old security flaws impacting Sitecore CMS and Experience Platform (XP) to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-The vulnerabilities are listed below -
-
-CVE-2019-9874 (CVSS score: 9.8) - A deserialization vulnerability in the Sitecore.Security.AntiCSRF]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
