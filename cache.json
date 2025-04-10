@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/incomplete-patch-in-nvidia-toolkit.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have detailed a case of an incomplete patch for a previously addressed security flaw impacting the NVIDIA Container Toolkit that, if successfully exploited, could put sensitive data at risk.\nThe original vulnerability CVE-2024-0132 (CVSS score: 9.0) is a Time-of-Check Time-of-Use (TOCTOU) vulnerability that could lead to a container escape attack and allow for",
+          "link": "https://thehackernews.com/2025/04/incomplete-patch-in-nvidia-toolkit.html",
+          "publishedOn": "2025-04-10T14:13:00.000Z",
+          "wordCount": null,
+          "title": "Incomplete Patch in NVIDIA Toolkit Leaves CVE-2024-0132 Open to Container Escapes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtnNgeG0vgQCQ-zvEuOCFEoOAIAeWIL16cI0kA2aeAf24pfm8cZdeHri6vMyk6Bu0pHyZ8rKjRxsKODCpZcmG6e7c-g26zOasUkY1J4xOcnhGhcfxxUPs67847K4R2FcSXCMk4oHyUmRtT3Z6Ou9kojteTJnKLCoGZ88HdbbIRYCCx2MCe_wSQB10kV_xu/s1600/nvidia.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtnNgeG0vgQCQ-zvEuOCFEoOAIAeWIL16cI0kA2aeAf24pfm8cZdeHri6vMyk6Bu0pHyZ8rKjRxsKODCpZcmG6e7c-g26zOasUkY1J4xOcnhGhcfxxUPs67847K4R2FcSXCMk4oHyUmRtT3Z6Ou9kojteTJnKLCoGZ88HdbbIRYCCx2MCe_wSQB10kV_xu/s1600/nvidia.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/malicious-npm-package-targets-atomic.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are continuing to upload malicious packages to the npm registry so as to tamper with already-installed local versions of legitimate libraries to execute malicious code in what's seen as a sneakier attempt to stage a software supply chain attack.\nThe newly discovered package, named pdf-to-office, masquerades as a utility for converting PDF files to Microsoft Word documents. But, in",
@@ -22151,16 +22167,6 @@
           "wordCount": 4589,
           "title": "Grok Becomes Available In Telegram, But Only For Premium Users",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/Grok-Telegram.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=346461",
-          "author": "Heirul Kamel",
-          "description": "Canon has announced that the PowerShot V1, which debuted globally last month, will be arriving in Malaysia soon. The company states that the new point-and-shoot camera will be available locally from April 2025 through its official e-store, Shopee store, and authorised resellers at a recommended retail price of RM3,999. To recap, the Canon PowerShot V1 […]\nThe post Canon PowerShot V1 Priced At RM3,999 In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/346461/canon-powershot-v1-rm3999-malaysia/",
-          "publishedOn": "2025-03-27T02:55:19.000Z",
-          "wordCount": 4812,
-          "title": "Canon PowerShot V1 Priced At RM3,999 In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/Canon-PowerShot-V1-Malaysia-price-1.jpeg"
         }
       ]
     },

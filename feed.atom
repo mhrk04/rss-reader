@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-10T14:41:59.368Z</updated>
+    <updated>2025-04-10T15:09:49.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Incomplete Patch in NVIDIA Toolkit Leaves CVE-2024-0132 Open to Container Escapes]]></title>
+        <id>https://thehackernews.com/2025/04/incomplete-patch-in-nvidia-toolkit.html</id>
+        <link href="https://thehackernews.com/2025/04/incomplete-patch-in-nvidia-toolkit.html"/>
+        <updated>2025-04-10T14:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have detailed a case of an incomplete patch for a previously addressed security flaw impacting the NVIDIA Container Toolkit that, if successfully exploited, could put sensitive data at risk.
+The original vulnerability CVE-2024-0132 (CVSS score: 9.0) is a Time-of-Check Time-of-Use (TOCTOU) vulnerability that could lead to a container escape attack and allow for]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Data Privacy Isn't the Same as Data Security]]></title>
         <id>https://www.darkreading.com/cyber-risk/data-privacy-versus-data-security</id>
@@ -3472,17 +3483,6 @@ The post Insta360 Introduces New Xplorer Grip Kit For Ace Pro 2 appeared first o
 The post Grok Becomes Available In Telegram, But Only For Premium Users appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canon PowerShot V1 Priced At RM3,999 In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=346461</id>
-        <link href="https://www.lowyat.net/2025/346461/canon-powershot-v1-rm3999-malaysia/"/>
-        <updated>2025-03-27T02:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Canon has announced that the PowerShot V1, which debuted globally last month, will be arriving in Malaysia soon. The company states that the new point-and-shoot camera will be available locally from April 2025 through its official e-store, Shopee store, and authorised resellers at a recommended retail price of RM3,999. To recap, the Canon PowerShot V1 […]
-The post Canon PowerShot V1 Priced At RM3,999 In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
         </author>
     </entry>
     <entry>
