@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Fortinet has revealed that threat actors have found a way to maintain read-only access to vulnerable FortiGate devices even after the initial access vector used to breach the devices was patched.\nThe attackers are believed to have leveraged known and now-patched security flaws, including, but not limited to, CVE-2022-42475, CVE-2023-27997, and CVE-2024-21762.\n\"A threat actor used a known",
+          "link": "https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html",
+          "publishedOn": "2025-04-11T17:55:00.000Z",
+          "wordCount": null,
+          "title": "Fortinet Warns Attackers Retain FortiGate Access Post-Patching via SSL-VPN Symlink Exploit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj665ioA1BI_NUmyvCD8cUQpH5PRTnM9SueXZbF2ZXNyujH3ynQRIWmYjcqkKvg1vBmYy9S268xYjHLWCSOEMD7UmiVjCtbIrmVuH7gEZqht9ODrByB2kZjvsCbkp-yNbdzaZFdrN5ubAlAXJIm-km5bWNX7WS9rPQErt0C1_GZoAvpEAvHwk4KRgnq8w-7/s1600/hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj665ioA1BI_NUmyvCD8cUQpH5PRTnM9SueXZbF2ZXNyujH3ynQRIWmYjcqkKvg1vBmYy9S268xYjHLWCSOEMD7UmiVjCtbIrmVuH7gEZqht9ODrByB2kZjvsCbkp-yNbdzaZFdrN5ubAlAXJIm-km5bWNX7WS9rPQErt0C1_GZoAvpEAvHwk4KRgnq8w-7/s1600/hack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/paper-werewolf-deploys-powermodul.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor known as Paper Werewolf has been observed exclusively targeting Russian entities with a new implant called PowerModul.\nThe activity, which took place between July and December 2024, singled out organizations in the mass media, telecommunications, construction, government entities, and energy sectors, Kaspersky said in a new report published Thursday.\nPaper Werewolf, also known",
@@ -20460,38 +20476,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxS100V1iLV4XtqrbMO4tYNdGGvaR4kE8i-9b_9tQDwxpCTpV0S48VdgwcmQnVW6gLZTIuGcrzUAkQQPwa3U7gY3wIW46YHq9jh8D9vg8A80_B2b-LkCY4CQbnsAPTmprv7EKsGTElfs4I4KRoXXlkjhslBFq3F0bKL82J3yLwC1vWQ9tuTPlhThmlcwF/s1600/spyware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxS100V1iLV4XtqrbMO4tYNdGGvaR4kE8i-9b_9tQDwxpCTpV0S48VdgwcmQnVW6gLZTIuGcrzUAkQQPwa3U7gY3wIW46YHq9jh8D9vg8A80_B2b-LkCY4CQbnsAPTmprv7EKsGTElfs4I4KRoXXlkjhslBFq3F0bKL82J3yLwC1vWQ9tuTPlhThmlcwF/s1600/spyware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/03/nine-year-old-npm-packages-hijacked-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered several cryptocurrency packages on the npm registry that have been hijacked to siphon sensitive information such as environment variables from compromised systems.\n\"Some of these packages have lived on npmjs.com for over 9 years, and provide legitimate functionality to blockchain developers,\" Sonatype researcher Ax Sharma said. \"However, [...] the latest",
-          "link": "https://thehackernews.com/2025/03/nine-year-old-npm-packages-hijacked-to.html",
-          "publishedOn": "2025-03-28T06:06:00.000Z",
-          "wordCount": null,
-          "title": "Nine-Year-Old npm Packages Hijacked to Exfiltrate API Keys via Obfuscated Scripts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRHyI7MCx5PPlx-4RJmmZ_JjNm0HjuU6dH_Qz9Y57-YDLO1T2dhmhyntIMJD9xLOgqaTyCk9VuHf7LTr7zubqnyMTCX-Ni2-GCsa_umDhc2BM8k2ER-jBiEp9xFAxYG_WGzdD8TAtA9MIgCcgTxsIG7Xg8weHTbNmTNOoFxvKT7aj2KITBArHEwpyTI1pW/s1600/npm-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRHyI7MCx5PPlx-4RJmmZ_JjNm0HjuU6dH_Qz9Y57-YDLO1T2dhmhyntIMJD9xLOgqaTyCk9VuHf7LTr7zubqnyMTCX-Ni2-GCsa_umDhc2BM8k2ER-jBiEp9xFAxYG_WGzdD8TAtA9MIgCcgTxsIG7Xg8weHTbNmTNOoFxvKT7aj2KITBArHEwpyTI1pW/s1600/npm-malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/03/mozilla-patches-critical-firefox-bug.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Mozilla has released updates to address a critical security flaw impacting its Firefox browser for Windows, merely days after Google patched a similar flaw in Chrome that came under active exploitation as a zero-day.\nThe security vulnerability, CVE-2025-2857, has been described as a case of an incorrect handle that could lead to a sandbox escape.\n\"Following the recent Chrome sandbox escape (",
-          "link": "https://thehackernews.com/2025/03/mozilla-patches-critical-firefox-bug.html",
-          "publishedOn": "2025-03-28T05:44:00.000Z",
-          "wordCount": null,
-          "title": "Mozilla Patches Critical Firefox Bug Similar to Chrome’s Recent Zero-Day Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5x0gk19bEnnDT4C5ZxgV1ih2o8uGpXZNhez0idrDLoV7Hx5Z0Iv68cu4Wf-5Zmj-eKwR_BlTLwETxsv4iOxhflrO0GA7lbxnKspHZVoUxTztcmhIxVjPPyMpSQgP5TOYhzZbuycNhpI8LOvX07gvoNTFWy2J1ZdBkmoS7iaIVBcjWza34EDVOLH4WIA5o/s1600/firefox.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5x0gk19bEnnDT4C5ZxgV1ih2o8uGpXZNhez0idrDLoV7Hx5Z0Iv68cu4Wf-5Zmj-eKwR_BlTLwETxsv4iOxhflrO0GA7lbxnKspHZVoUxTztcmhIxVjPPyMpSQgP5TOYhzZbuycNhpI8LOvX07gvoNTFWy2J1ZdBkmoS7iaIVBcjWza34EDVOLH4WIA5o/s1600/firefox.jpg"
         }
       ]
     },
@@ -22995,16 +22979,6 @@
           "publishedOn": "2025-03-28T14:00:00.000Z",
           "wordCount": null,
           "title": "Navigating Cyber-Risks and New Defenses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/irans-mois-linked-apt34-spies-allies-iraq-yemen",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "The Islamic Republic is keeping its enemies close and its friends closer, with espionage attacks aimed at nearby neighbors.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/irans-mois-linked-apt34-spies-allies-iraq-yemen",
-          "publishedOn": "2025-03-28T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Iran's MOIS-Linked APT34 Spies on Allies Iraq &amp; Yemen",
           "imageUrl": null
         }
       ]

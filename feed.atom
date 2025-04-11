@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-11T17:40:23.796Z</updated>
+    <updated>2025-04-11T18:12:24.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Warns Attackers Retain FortiGate Access Post-Patching via SSL-VPN Symlink Exploit]]></title>
+        <id>https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html</id>
+        <link href="https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html"/>
+        <updated>2025-04-11T17:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet has revealed that threat actors have found a way to maintain read-only access to vulnerable FortiGate devices even after the initial access vector used to breach the devices was patched.
+The attackers are believed to have leveraged known and now-patched security flaws, including, but not limited to, CVE-2022-42475, CVE-2023-27997, and CVE-2024-21762.
+"A threat actor used a known]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Financial Fraud, With a Third-Party Twist, Dominates Cyber Claims]]></title>
         <id>https://www.darkreading.com/threat-intelligence/financial-fraud-third-party-cyber-claims</id>
@@ -3475,39 +3487,6 @@ The post Struggling Nissan Seeks A Collaborator appeared first on Lowyat.NET.]]>
 The post Redmi A5 Goes Official With 5,200mAh Battery, Unisoc T7250 appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ikmal Rozlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nine-Year-Old npm Packages Hijacked to Exfiltrate API Keys via Obfuscated Scripts]]></title>
-        <id>https://thehackernews.com/2025/03/nine-year-old-npm-packages-hijacked-to.html</id>
-        <link href="https://thehackernews.com/2025/03/nine-year-old-npm-packages-hijacked-to.html"/>
-        <updated>2025-03-28T06:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered several cryptocurrency packages on the npm registry that have been hijacked to siphon sensitive information such as environment variables from compromised systems.
-"Some of these packages have lived on npmjs.com for over 9 years, and provide legitimate functionality to blockchain developers," Sonatype researcher Ax Sharma said. "However, [...] the latest]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran's MOIS-Linked APT34 Spies on Allies Iraq &amp; Yemen]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/irans-mois-linked-apt34-spies-allies-iraq-yemen</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/irans-mois-linked-apt34-spies-allies-iraq-yemen"/>
-        <updated>2025-03-28T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Islamic Republic is keeping its enemies close and its friends closer, with espionage attacks aimed at nearby neighbors.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Patches Critical Firefox Bug Similar to Chrome’s Recent Zero-Day Vulnerability]]></title>
-        <id>https://thehackernews.com/2025/03/mozilla-patches-critical-firefox-bug.html</id>
-        <link href="https://thehackernews.com/2025/03/mozilla-patches-critical-firefox-bug.html"/>
-        <updated>2025-03-28T05:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla has released updates to address a critical security flaw impacting its Firefox browser for Windows, merely days after Google patched a similar flaw in Chrome that came under active exploitation as a zero-day.
-The security vulnerability, CVE-2025-2857, has been described as a case of an incorrect handle that could lead to a sandbox escape.
-"Following the recent Chrome sandbox escape (]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
