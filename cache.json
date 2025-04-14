@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/resolverrat-campaign-targets-healthcare.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new, sophisticated remote access trojan called ResolverRAT that has been observed in attacks targeting healthcare and pharmaceutical sectors.\n\"The threat actor leverages fear-based lures delivered via phishing emails, designed to pressure recipients into clicking a malicious link,\" Morphisec Labs researcher Nadav Lorber said in a report shared with The",
+          "link": "https://thehackernews.com/2025/04/resolverrat-campaign-targets-healthcare.html",
+          "publishedOn": "2025-04-14T16:09:00.000Z",
+          "wordCount": null,
+          "title": "ResolverRAT Campaign Targets Healthcare, Pharma via Phishing and DLL Side-Loading",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgix_43i4U2O57aK8hiqnp67hzJV2T6PAAz3IOzHGgyhDGT_nxaXPUjVqTFcMmEQ7UG2Q_XUFFwf3bsMk5H8YadvlYuvivTJJIno6L-vwWncP8CXxv9uW2BelEIswXVU6oCe7GcYRTUxEEd5rx-MORiXEyFq0H5-K7nU-7kCX6qlEWRwmQWPHs1lvwkwg6D/s1600/healthcare-cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgix_43i4U2O57aK8hiqnp67hzJV2T6PAAz3IOzHGgyhDGT_nxaXPUjVqTFcMmEQ7UG2Q_XUFFwf3bsMk5H8YadvlYuvivTJJIno6L-vwWncP8CXxv9uW2BelEIswXVU6oCe7GcYRTUxEEd5rx-MORiXEyFq0H5-K7nU-7kCX6qlEWRwmQWPHs1lvwkwg6D/s1600/healthcare-cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/phishing-campaigns-use-real-time-checks.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are calling attention to a new type of credential phishing scheme that ensures that the stolen information is associated with valid online accounts.\nThe technique has been codenamed precision-validating phishing by Cofense, which it said employs real-time email validation so that only a select set of high-value targets are served the fake login screens.\n\"This tactic not",
@@ -22223,6 +22239,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/chinese-apt-exploit-edr-visibility-gap-cyber-espionage",
+          "author": "Becky Bracken, Senior Editor, Dark Reading",
+          "description": "Blind spots in network visibility, including in firewalls, IoT devices, and the cloud, are being exploited by Chinese state-backed threat actors with increasing success, according to new threat intelligence. Here's how experts say you can get eyes on it all.",
+          "link": "https://www.darkreading.com/threat-intelligence/chinese-apt-exploit-edr-visibility-gap-cyber-espionage",
+          "publishedOn": "2025-04-14T16:34:17.000Z",
+          "wordCount": null,
+          "title": "Chinese APTs Exploit EDR 'Visibility Gap' for Cyber Espionage",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cloud-security/it-rat-stealthy-resolver-malware",
           "author": "Nate Nelson, Contributing Writer",
