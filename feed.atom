@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-15T14:09:22.597Z</updated>
+    <updated>2025-04-15T14:44:02.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Target Linux Systems Using SNOWLIGHT Malware and VShell Tool]]></title>
+        <id>https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html</id>
+        <link href="https://thehackernews.com/2025/04/chinese-hackers-target-linux-systems.html"/>
+        <updated>2025-04-15T14:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-linked threat actor known as UNC5174 has been attributed to a new campaign that leverages a variant of a known malware dubbed SNOWLIGHT and a new open-source tool called VShell to infect Linux systems.
+"Threat actors are increasingly using open source tools in their arsenals for cost-effectiveness and obfuscation to save money and, in this case, plausibly blend in with the pool of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China-Backed Threat Actor 'UNC5174' Using Open Source Tools in Stealthy Attacks]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/china-threat-actor-unc5174-open-source-stealthy-attacks</id>
@@ -24,6 +35,28 @@
         <summary type="html"><![CDATA[True security isn't about meeting deadlines — it's about mitigating risk in a way that aligns with business objectives while protecting against real-world threats.]]></summary>
         <author>
             <name>Swati Babbar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Apache Roller Vulnerability (CVSS 10.0) Enables Unauthorized Session Persistence]]></title>
+        <id>https://thehackernews.com/2025/04/critical-apache-roller-vulnerability.html</id>
+        <link href="https://thehackernews.com/2025/04/critical-apache-roller-vulnerability.html"/>
+        <updated>2025-04-15T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security vulnerability has been disclosed in the Apache Roller open-source, Java-based blogging server software that could allow malicious actors to retain unauthorized access even after a password change.
+The flaw, assigned the CVE identifier CVE-2025-24859, carries a CVSS score of 10.0, indicating maximum severity. It affects all versions of Roller up to and including 6.1.4.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious PyPI Package Targets MEXC Trading API to Steal Credentials and Redirect Orders]]></title>
+        <id>https://thehackernews.com/2025/04/malicious-pypi-package-targets-mexc.html</id>
+        <link href="https://thehackernews.com/2025/04/malicious-pypi-package-targets-mexc.html"/>
+        <updated>2025-04-15T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a malicious package uploaded to the Python Package Index (PyPI) repository that's designed to reroute trading orders placed on the MEXC cryptocurrency exchange to a malicious server and steal tokens.
+The package, ccxt-mexc-futures, purports to be an extension built on top of a popular Python library named ccxt (short for CryptoCurrency eXchange Trading),]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
