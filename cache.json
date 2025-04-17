@@ -20380,22 +20380,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04ukptBlRS-AOYC-7b_LjWAP1HhMXr7ZX0c-5xOsAriUb4og9_iOYrAmbqEGoMxmOu1gjzxt18ZTlGd2xK4wMQQspWeSfrnyV7wftNTjLA4mW4qHfC1uhu0kfdOmGacDoVbKzDTd6vVfrsMFVq1uM-8chyz-dNU_B7h7AqBsjIB9cdpO5H4cwc4vqeucj/s1600/site.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04ukptBlRS-AOYC-7b_LjWAP1HhMXr7ZX0c-5xOsAriUb4og9_iOYrAmbqEGoMxmOu1gjzxt18ZTlGd2xK4wMQQspWeSfrnyV7wftNTjLA4mW4qHfC1uhu0kfdOmGacDoVbKzDTd6vVfrsMFVq1uM-8chyz-dNU_B7h7AqBsjIB9cdpO5H4cwc4vqeucj/s1600/site.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/04/google-fixed-cloud-run-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a now-patched privilege escalation vulnerability in Google Cloud Platform (GCP) Cloud Run that could have allowed a malicious actor to access container images and even inject malicious code.\n\"The vulnerability could have allowed such an identity to abuse its Google Cloud Run revision edit permissions in order to pull private Google Artifact",
-          "link": "https://thehackernews.com/2025/04/google-fixed-cloud-run-vulnerability.html",
-          "publishedOn": "2025-04-02T13:48:00.000Z",
-          "wordCount": null,
-          "title": "Google Fixed Cloud Run Vulnerability Allowing Unauthorized Image Access via IAM Misuse",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXHpZfMK9c_7qs10Nxs5C01t3Rrv9KfcCuKIcVIYr9bKIFY0blX0GW6PaAE9_MIiJiXJLo8O7-djZyzkO7HhG1b60Yr9-u5g_lG2DSPJFTlYeN6pKZOwvfewuy8Gj1RwDe9oeZzB4_RTOOTwvcvPOcCEr5khGOU7rUqbHOin25VbHlpUQmPgeKT8zKan0e/s1600/ImageRunner-vulnerability.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXHpZfMK9c_7qs10Nxs5C01t3Rrv9KfcCuKIcVIYr9bKIFY0blX0GW6PaAE9_MIiJiXJLo8O7-djZyzkO7HhG1b60Yr9-u5g_lG2DSPJFTlYeN6pKZOwvfewuy8Gj1RwDe9oeZzB4_RTOOTwvcvPOcCEr5khGOU7rUqbHOin25VbHlpUQmPgeKT8zKan0e/s1600/ImageRunner-vulnerability.gif"
         }
       ]
     },
@@ -20404,6 +20388,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=348389",
+          "author": "John Law",
+          "description": "The Cooler Master Shark X is a special casing designed and built by the Taiwanese brand known for its cooling solutions, and one of the very first units was sent to and assembled by local gaming PC builder, EMARQUE. Putting some obvious points down, the entire chassis is built to look like a shark – […]\nThe post First Cooler Master Shark X Assembled By Malaysian PC Builder EMARQUE appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/348389/first-cooler-master-shark-x-assembled-by-malaysian-pc-builder-emarque/",
+          "publishedOn": "2025-04-17T02:17:16.000Z",
+          "wordCount": 5064,
+          "title": "First Cooler Master Shark X Assembled By Malaysian PC Builder EMARQUE",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/Cooler-Master-Shark-X-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=348380",
+          "author": "Ian Chee",
+          "description": "Last month saw the launch of a couple of Acer phones in India, under the AcerPure brand. Recently, a couple more were unveiled in the same market, this time under the main brand. They are the Acer Super ZX and Super ZX Pro. Although, it’s worth mentioning before we go further that the Taiwanese company […]\nThe post Acer Smartphones Are Licensed; Company Has Limited Involvement appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/348380/acer-smartphones-licensed-company-has-limited-involvement/",
+          "publishedOn": "2025-04-17T02:00:43.000Z",
+          "wordCount": 4748,
+          "title": "Acer Smartphones Are Licensed; Company Has Limited Involvement",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/Acer-Super-ZX.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=348070",
           "author": "John Law",
@@ -23219,26 +23223,6 @@
           "publishedOn": "2025-04-02T19:19:32.000Z",
           "wordCount": null,
           "title": "New PCI DSS Rules Say Merchants on Hook for Compliance, Not Providers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/how-interdiction-mindset-cyberattacks",
-          "author": "Mike McNerney",
-          "description": "The US military and law enforcement learned to outthink insurgents. It's time for cybersecurity to learn to outsmart and outmaneuver threat actors with the same framework.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/how-interdiction-mindset-cyberattacks",
-          "publishedOn": "2025-04-02T14:00:00.000Z",
-          "wordCount": null,
-          "title": "How an Interdiction Mindset Can Help Win War on Cyberattacks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/gootloader-malware-google-ads-legal-docs",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "Attackers target a familiar industry, law professionals, by hiding the infostealer in ads delivered via Google-based malvertising.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/gootloader-malware-google-ads-legal-docs",
-          "publishedOn": "2025-04-02T13:22:44.000Z",
-          "wordCount": null,
-          "title": "Gootloader Malware Resurfaces in Google Ads for Legal Docs",
           "imageUrl": null
         }
       ]
