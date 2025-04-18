@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are warning of a \"widespread and ongoing\" SMS phishing campaign that's been targeting toll road users in the United States for financial theft since mid-October 2024.\n\"The toll road smishing attacks are being carried out by multiple financially motivated threat actors using the smishing kit developed by 'Wang Duo Yu,'\" Cisco Talos researchers Azim Khodjibaev, Chetan",
+          "link": "https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html",
+          "publishedOn": "2025-04-18T15:15:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTSFUr1LOmW273ZOVQRjrfUwSucPBc0LMRMS4l7mdYTxXLNPx-CbGJhJ_6FqNQamMtfdvDHg8jTDwC_2QBHVYZfU-5p_H9wxR5SQY4b2uBnhikXM6P9TsyzzI4SW3UU__EWK2MnGKeP9y-cdU1lku9l_zOjrGceurDqkr4Xb2BkKHbqcOGUGEgyBVScTFJ/s1600/phishing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTSFUr1LOmW273ZOVQRjrfUwSucPBc0LMRMS4l7mdYTxXLNPx-CbGJhJ_6FqNQamMtfdvDHg8jTDwC_2QBHVYZfU-5p_H9wxR5SQY4b2uBnhikXM6P9TsyzzI4SW3UU__EWK2MnGKeP9y-cdU1lku9l_zOjrGceurDqkr4Xb2BkKHbqcOGUGEgyBVScTFJ/s1600/phishing.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/multi-stage-malware-attack-uses-jse-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new multi-stage attack has been observed delivering malware families like Agent Tesla variants, Remcos RAT, and XLoader.\n\"Attackers increasingly rely on such complex delivery mechanisms to evade detection, bypass traditional sandboxes, and ensure successful payload delivery and execution,\" Palo Alto Networks Unit 42 researcher Saqib Khanzada said in a technical write-up of the campaign.\nThe",
@@ -20428,22 +20444,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMxvAwVD_wGKDTL5DasfV5uoYt8gqjhd6jismbKI0mAkH46-2RttjCnagGH4bUpmGOZe6Ijc6whb9u0iNcJh1yxsFFpVw75Tfj7fosyTmYnxyOV_EZy0Dy-7CIlzICWyLFwejIDhLIPYou7EM8BslM5H1bnQD1Btg_hTddOpgApGQDCrzawYTgTU1uNokp/s1600/cyberattacks.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMxvAwVD_wGKDTL5DasfV5uoYt8gqjhd6jismbKI0mAkH46-2RttjCnagGH4bUpmGOZe6Ijc6whb9u0iNcJh1yxsFFpVw75Tfj7fosyTmYnxyOV_EZy0Dy-7CIlzICWyLFwejIDhLIPYou7EM8BslM5H1bnQD1Btg_hTddOpgApGQDCrzawYTgTU1uNokp/s1600/cyberattacks.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/04/critical-flaw-in-apache-parquet-allows.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A maximum severity security vulnerability has been disclosed in Apache Parquet's Java Library that, if successfully exploited, could allow a remote attacker to execute arbitrary code on susceptible instances.\nApache Parquet is a free and open-source columnar data file format that's designed for efficient data processing and retrieval, providing support for complex data, high-performance",
-          "link": "https://thehackernews.com/2025/04/critical-flaw-in-apache-parquet-allows.html",
-          "publishedOn": "2025-04-04T03:38:00.000Z",
-          "wordCount": null,
-          "title": "Critical Flaw in Apache Parquet Allows Remote Attackers to Execute Arbitrary Code",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8SZm2bMnr5sNUMNrpVcl2Z6VCjSWYXv-MzAMnuywVJnQzC0XE_kAA7iyOHbhHif8FrVBbx3lYCnwzec0agkDYE66k-FVRJOECGH7ohydohuo55kepS81NIk63PLR7ZcShnHRTAb4dvGSsNMUyi_PVRrwgcpXVUw5bbc9t0bjggrtf0zQW8umDl_iHJGUE/s1600/apache.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8SZm2bMnr5sNUMNrpVcl2Z6VCjSWYXv-MzAMnuywVJnQzC0XE_kAA7iyOHbhHif8FrVBbx3lYCnwzec0agkDYE66k-FVRJOECGH7ohydohuo55kepS81NIk63PLR7ZcShnHRTAb4dvGSsNMUyi_PVRrwgcpXVUw5bbc9t0bjggrtf0zQW8umDl_iHJGUE/s1600/apache.jpg"
         }
       ]
     },
@@ -22671,16 +22671,6 @@
           "wordCount": 4737,
           "title": "Proton To Donate RM250,000, Free Vehicle Inspections For Pipeline Explosion Victims",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/1-Cover.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=347037",
-          "author": "Ian Chee",
-          "description": "OpenAI announced last week that it was rolling out GPT-4o image generation to ChatGPT, before delaying the feature for free users until earlier this week. But in the short time that it was available, the company claims that over 700 million images have been generated using the tool since last week. Or more specifically, since […]\nThe post OpenAI: Over 700 Million Images Generated With ChatGPT appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/347037/openai-over-700-million-images-generated-chatgpt/",
-          "publishedOn": "2025-04-04T03:36:12.000Z",
-          "wordCount": 4583,
-          "title": "OpenAI: Over 700 Million Images Generated With ChatGPT",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/03/openai-chatgpt-gpt-4-AI.jpg"
         }
       ]
     },
@@ -22689,6 +22679,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach",
+          "author": "Kristina Beek, Associate Editor, Dark Reading",
+          "description": "The agency is recommending that organizations and individuals implement its recommendations to prevent the misuse of stolen data, though Oracle has yet to publicly do the same for its customers.",
+          "link": "https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach",
+          "publishedOn": "2025-04-18T15:24:58.000Z",
+          "wordCount": null,
+          "title": "CISA Weighs In on Alleged Oracle Cloud Breach",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/ics-ot-security/boards-fix-ot-security-regulators",
           "author": "Warren O’Driscoll",

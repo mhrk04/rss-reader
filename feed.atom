@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-18T15:08:26.996Z</updated>
+    <updated>2025-04-18T15:40:14.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Weighs In on Alleged Oracle Cloud Breach]]></title>
+        <id>https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach</id>
+        <link href="https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach"/>
+        <updated>2025-04-18T15:24:58.000Z</updated>
+        <summary type="html"><![CDATA[The agency is recommending that organizations and individuals implement its recommendations to prevent the misuse of stolen data, though Oracle has yet to publicly do the same for its customers.]]></summary>
+        <author>
+            <name>Kristina Beek, Associate Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Smishing Kit Powers Widespread Toll Fraud Campaign Targeting U.S. Users in 8 States]]></title>
+        <id>https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html</id>
+        <link href="https://thehackernews.com/2025/04/chinese-smishing-kit-behind-widespread.html"/>
+        <updated>2025-04-18T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning of a "widespread and ongoing" SMS phishing campaign that's been targeting toll road users in the United States for financial theft since mid-October 2024.
+"The toll road smishing attacks are being carried out by multiple financially motivated threat actors using the smishing kit developed by 'Wang Duo Yu,'" Cisco Talos researchers Azim Khodjibaev, Chetan]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If Boards Don't Fix OT Security, Regulators Will]]></title>
         <id>https://www.darkreading.com/ics-ot-security/boards-fix-ot-security-regulators</id>
@@ -4013,28 +4034,6 @@ The post GXBank To Charge Fee For New Debit Cards Starting 17 April appeared fir
 The post Proton To Donate RM250,000, Free Vehicle Inspections For Pipeline Explosion Victims appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaw in Apache Parquet Allows Remote Attackers to Execute Arbitrary Code]]></title>
-        <id>https://thehackernews.com/2025/04/critical-flaw-in-apache-parquet-allows.html</id>
-        <link href="https://thehackernews.com/2025/04/critical-flaw-in-apache-parquet-allows.html"/>
-        <updated>2025-04-04T03:38:00.000Z</updated>
-        <summary type="html"><![CDATA[A maximum severity security vulnerability has been disclosed in Apache Parquet's Java Library that, if successfully exploited, could allow a remote attacker to execute arbitrary code on susceptible instances.
-Apache Parquet is a free and open-source columnar data file format that's designed for efficient data processing and retrieval, providing support for complex data, high-performance]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI: Over 700 Million Images Generated With ChatGPT]]></title>
-        <id>https://www.lowyat.net/?p=347037</id>
-        <link href="https://www.lowyat.net/2025/347037/openai-over-700-million-images-generated-chatgpt/"/>
-        <updated>2025-04-04T03:36:12.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI announced last week that it was rolling out GPT-4o image generation to ChatGPT, before delaying the feature for free users until earlier this week. But in the short time that it was available, the company claims that over 700 million images have been generated using the tool since last week. Or more specifically, since […]
-The post OpenAI: Over 700 Million Images Generated With ChatGPT appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
         </author>
     </entry>
     <entry>
