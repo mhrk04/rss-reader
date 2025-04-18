@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/cve-2025-24054-under-active.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a medium-severity security flaw impacting Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2025-24054 (CVSS score: 6.5), is a Windows New Technology LAN Manager (NTLM) hash disclosure",
+          "link": "https://thehackernews.com/2025/04/cve-2025-24054-under-active.html",
+          "publishedOn": "2025-04-18T04:29:00.000Z",
+          "wordCount": null,
+          "title": "CVE-2025-24054 Under Active Attack—Steals NTLM Credentials on File Download",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG8jijbmQyrpeLEOPBz-tcFXbEU0AicQ-G67Y5-iwMq4JsmLTjMRwgN09L-ufBpEuCJPlx-bTi1MtjfNS0n5B9PIVFnlIDyKCv-2AJl6dAewKqYbItiGH1RoOsSUr9UPHiRJpHdX_ZWD-3Yaemt8dbV-DBSn32Kxp7HX6UhIKCocfX6x30jLQypLlIhTlr/s1600/ntml.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG8jijbmQyrpeLEOPBz-tcFXbEU0AicQ-G67Y5-iwMq4JsmLTjMRwgN09L-ufBpEuCJPlx-bTi1MtjfNS0n5B9PIVFnlIDyKCv-2AJl6dAewKqYbItiGH1RoOsSUr9UPHiRJpHdX_ZWD-3Yaemt8dbV-DBSn32Kxp7HX6UhIKCocfX6x30jLQypLlIhTlr/s1600/ntml.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/mustang-panda-targets-myanmar-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The China-linked threat actor known as Mustang Panda has been attributed to a cyber attack targeting an unspecified organization in Myanmar with previously unreported tooling, highlighting continued effort by the threat actors to increase the sophistication and effectiveness of their malware.\nThis includes updated versions of a known backdoor called TONESHELL, as well as a new lateral movement",
