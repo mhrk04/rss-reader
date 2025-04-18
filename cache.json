@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are warning of continued risks posed by a distributed denial-of-service (DDoS) malware known as XorDDoS, with 71.3 percent of the attacks between November 2023 and February 2025 targeting the United States.\n\"From 2020 to 2023, the XorDDoS trojan has increased significantly in prevalence,\" Cisco Talos researcher Joey Chen said in a Thursday analysis.",
+          "link": "https://thehackernews.com/2025/04/experts-uncover-new-xorddos-controller.html",
+          "publishedOn": "2025-04-18T07:10:00.000Z",
+          "wordCount": null,
+          "title": "Experts Uncover New XorDDoS Controller, Infrastructure as Malware Expands to Docker, Linux, IoT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgeIxCUkUBBodt-US5OxFiEXNXcvXJAKafUYNQsVSg7k4yA8DlMxVKoNbad8ADqnrBMcKiJlkJa_vRQLzIapEdyZz-g70Flktqvi4MqwHGUvKg4OvM3r_CboTfJEL84VW7LbOEUSJ3qJmsdd1_-wjmMADlyT6ZmSKcLeMMlBStGU39fSaPJzhdlAQKiQ_8/s1600/ddos.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgeIxCUkUBBodt-US5OxFiEXNXcvXJAKafUYNQsVSg7k4yA8DlMxVKoNbad8ADqnrBMcKiJlkJa_vRQLzIapEdyZz-g70Flktqvi4MqwHGUvKg4OvM3r_CboTfJEL84VW7LbOEUSJ3qJmsdd1_-wjmMADlyT6ZmSKcLeMMlBStGU39fSaPJzhdlAQKiQ_8/s1600/ddos.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/cve-2025-24054-under-active.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a medium-severity security flaw impacting Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2025-24054 (CVSS score: 6.5), is a Windows New Technology LAN Manager (NTLM) hash disclosure",
@@ -23339,16 +23355,6 @@
           "publishedOn": "2025-04-03T20:14:04.000Z",
           "wordCount": null,
           "title": "China-Linked Threat Group Exploits Ivanti Bug",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/disclosure-drama-clouds-crushftp-vulnerability-exploitation",
-          "author": "Rob Wright",
-          "description": "CrushFTP CEO Ben Spink slammed several cybersecurity companies for creating confusion around a critical authentication bypass flaw that's currently under attack.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/disclosure-drama-clouds-crushftp-vulnerability-exploitation",
-          "publishedOn": "2025-04-03T19:51:25.000Z",
-          "wordCount": null,
-          "title": "Disclosure Drama Clouds CrushFTP Vulnerability Exploitation",
           "imageUrl": null
         }
       ]
