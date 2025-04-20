@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/04/apt29-deploys-grapeloader-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russian state-sponsored threat actor known as APT29 has been linked to an advanced phishing campaign that's targeting diplomatic entities across Europe with a new variant of WINELOADER and a previously unreported malware loader codenamed GRAPELOADER.\n\"While the improved WINELOADER variant is still a modular backdoor used in later stages, GRAPELOADER is a newly observed initial-stage tool",
+          "link": "https://thehackernews.com/2025/04/apt29-deploys-grapeloader-malware.html",
+          "publishedOn": "2025-04-20T04:58:00.000Z",
+          "wordCount": null,
+          "title": "APT29 Deploys GRAPELOADER Malware Targeting European Diplomats Through Wine-Tasting Lures",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLAt2rtqiDHm2utcwuJE86qkLnXeW7qZ3pUdeViUqYTM0VE89BQdFf_N9KhZVlMX-HjysBtD6EpQYCnxNpzozNx8vXlphMHY1G07TPNfLOfK4Nggz2yG9z3HeVTcxl-O6AAR_CyVIOwnBv9Z9jKCGck9Ces6kelT5APwIxOqRAstbnBHB3JCcKFTFJwdvb/s1600/euro-wine-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLAt2rtqiDHm2utcwuJE86qkLnXeW7qZ3pUdeViUqYTM0VE89BQdFf_N9KhZVlMX-HjysBtD6EpQYCnxNpzozNx8vXlphMHY1G07TPNfLOfK4Nggz2yG9z3HeVTcxl-O6AAR_CyVIOwnBv9Z9jKCGck9Ces6kelT5APwIxOqRAstbnBHB3JCcKFTFJwdvb/s1600/euro-wine-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/04/rogue-npm-packages-mimic-telegram-bot.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered three malicious packages in the npm registry that masquerade as a popular Telegram bot library but harbor SSH backdoors and data exfiltration capabilities.\nThe packages in question are listed below -\n\nnode-telegram-utils (132 downloads)\nnode-telegram-bots-api (82 downloads)\nnode-telegram-util (73 downloads)\n\n\nAccording to supply chain",
