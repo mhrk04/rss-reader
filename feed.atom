@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-22T16:46:49.765Z</updated>
+    <updated>2025-04-22T17:08:34.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Cookie Bite' Entra ID Attack Exposes Microsoft 365]]></title>
+        <id>https://www.darkreading.com/remote-workforce/cookie-bite-entra-id-attack-exposes-microsoft-365</id>
+        <link href="https://www.darkreading.com/remote-workforce/cookie-bite-entra-id-attack-exposes-microsoft-365"/>
+        <updated>2025-04-22T16:46:51.000Z</updated>
+        <summary type="html"><![CDATA[A proof-of-concept (PoC) attack vector exploits two Azure authentication tokens from within a browser, giving threat actors persistent access to key cloud services, including Microsoft 365 applications.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages]]></title>
         <id>https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html</id>
