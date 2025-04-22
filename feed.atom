@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-22T14:09:13.296Z</updated>
+    <updated>2025-04-22T14:43:49.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GCP Cloud Composer Bug Let Attackers Elevate Access via Malicious PyPI Packages]]></title>
+        <id>https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html</id>
+        <link href="https://thehackernews.com/2025/04/gcp-cloud-composer-bug-let-attackers.html"/>
+        <updated>2025-04-22T14:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have detailed a now-patched vulnerability in Google Cloud Platform (GCP) that could have enabled an attacker to elevate their privileges in the Cloud Composer workflow orchestration service that's based on Apache Airflow.
+"This vulnerability lets attackers with edit permissions in Cloud Composer to escalate their access to the default Cloud Build service account, which]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek Breach Opens Floodgates to Dark Web]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/deepseek-breach-opens-floodgates-dark-web</id>
@@ -4078,28 +4089,6 @@ The post Chinese Companies Reveal GPMI Standard To Rival HDMI And DisplayPort ap
 The post CMF Phone 2 Pro To Launch On 28 April Alongside Three Earbuds appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek’s AI Model Can Be Used For Crime, Experts Say]]></title>
-        <id>https://www.lowyat.net/?p=347293</id>
-        <link href="https://www.lowyat.net/2025/347293/deepseek-ai-model-potential-crime-misuse/"/>
-        <updated>2025-04-08T02:28:27.000Z</updated>
-        <summary type="html"><![CDATA[Separate analyses by Japanese and US security companies show that DeepSeek’s R1 AI model can be used for crimes such as creating malware and Molotov cocktails. This is reportedly due to the model’s lack of security measures. According to Takashi Yoshikawa of the Tokyo-based security company Mitsui Bussan Secure Directions, Inc., R1 generated source code […]
-The post DeepSeek’s AI Model Can Be Used For Crime, Experts Say appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alleged Pricing For Samsung Galaxy S25 Edge Leaks Online In Europe]]></title>
-        <id>https://www.lowyat.net/?p=347297</id>
-        <link href="https://www.lowyat.net/2025/347297/samsung-galaxy-s25-edge-europe-price-leak/"/>
-        <updated>2025-04-08T02:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Pricing for Samsung’s upcoming Galaxy S25 Edge has reportedly surfaced online, with European retailers revealing figures ahead of the phone’s official launch, according to GSMArena. If accurate, the phone will become the second most expensive device in the Galaxy S25 series, positioned between the Plus and the Ultra models. This arrangement mirrors earlier pricing reports […]
-The post Alleged Pricing For Samsung Galaxy S25 Edge Leaks Online In Europe appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
         </author>
     </entry>
     <entry>
