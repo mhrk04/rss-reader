@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-04-24T13:05:10.511Z</updated>
+    <updated>2025-04-24T13:46:30.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux io_uring PoC Rootkit Bypasses System Call-Based Threat Detection Tools]]></title>
+        <id>https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html</id>
+        <link href="https://thehackernews.com/2025/04/linux-iouring-poc-rootkit-bypasses.html"/>
+        <updated>2025-04-24T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have demonstrated a proof-of-concept (PoC) rootkit dubbed Curing that leverages a Linux asynchronous I/O mechanism called io_uring to bypass traditional system call monitoring.
+This causes a "major blind spot in Linux runtime security tools," ARMO said.
+"This mechanism allows a user application to perform various actions without using system calls," the company said in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[159 CVEs Exploited in Q1 2025 — 28.3% Within 24 Hours of Disclosure]]></title>
+        <id>https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html</id>
+        <link href="https://thehackernews.com/2025/04/159-cves-exploited-in-q1-2025-283.html"/>
+        <updated>2025-04-24T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[As many as 159 CVE identifiers have been flagged as exploited in the wild in the first quarter of 2025, up from 151 in Q4 2024.
+"We continue to see vulnerabilities being exploited at a fast pace with 28.3% of vulnerabilities being exploited within 1-day of their CVE disclosure," VulnCheck said in a report shared with The Hacker News.
+This translates to 45 security flaws that have been weaponized]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yet Another Jalur Gemilang Blunder Has Made National Headlines]]></title>
         <id>https://www.lowyat.net/?p=349459</id>
