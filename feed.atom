@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-03T15:38:40.978Z</updated>
+    <updated>2025-05-03T16:09:30.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply Chain Attack]]></title>
+        <id>https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html</id>
+        <link href="https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html"/>
+        <updated>2025-05-03T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered three malicious Go modules that include obfuscated code to fetch next-stage payloads that can irrevocably overwrite a Linux system's primary disk and render it unbootable.
+The names of the packages are listed below -
+
+github[.]com/truthfulpharm/prototransform
+github[.]com/blankloggia/go-mcp
+github[.]com/steelpoor/tlsproxy
+
+"Despite appearing legitimate,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iCaur Is Set To Launch Two Models At MAS 2025]]></title>
         <id>https://www.lowyat.net/?p=350372</id>
@@ -3731,17 +3748,6 @@ The vulnerability, tracked as CVE-2025-2492, has a CVSS score of 9.2 out of a ma
 The post Biwin Unveils New Fingernail-Sized SSD With PCIe 4.0 Speeds appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witcher 4 Beta Test Is A Scam, Developer Says]]></title>
-        <id>https://www.lowyat.net/?p=348698</id>
-        <link href="https://www.lowyat.net/2025/348698/the-witcher-4-beta-test-is-a-scam-developer-says/"/>
-        <updated>2025-04-19T04:00:06.000Z</updated>
-        <summary type="html"><![CDATA[The first trailer for The Witcher 4 was shown off to the world back in December of last year, and already there are claims around the internet that there will be beta tests for the game. Unfortunately for anyone hopeful that it’s real, it’s not, as confirmed by the developers of the game. CD Projekt […]
-The post The Witcher 4 Beta Test Is A Scam, Developer Says appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
         </author>
     </entry>
     <entry>
