@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-07T08:13:45.641Z</updated>
+    <updated>2025-05-07T08:48:51.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Malware in Fake Discord PyPI Package Downloaded 11,500+ Times]]></title>
+        <id>https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html</id>
+        <link href="https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html"/>
+        <updated>2025-05-07T07:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that masquerades as a seemingly harmless Discord-related utility but incorporates a remote access trojan.
+The package in question is discordpydebug, which was uploaded to PyPI on March 21, 2022. It has been downloaded 11,574 times and continues to be available on the open-source registry.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Expands Malaysian Data Centre Footprint With New Port Dickson Project]]></title>
         <id>https://www.lowyat.net/?p=350820</id>
@@ -3927,26 +3938,6 @@ The post Insta360 X5 Official Launches; Priced At RM2,499 appeared first on Lowy
         <summary type="html"><![CDATA[The tech giant is boosting Entra ID and MSA security as part of the wide-ranging Secure Future Initiative (SFI) that the company launched following a Chinese APT's breach of its Exchange Online environment in 2023.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[City of Abilene Goes Offline in Wake of Cyberattack]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/city-abilene-offline-after-cyberattack</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/city-abilene-offline-after-cyberattack"/>
-        <updated>2025-04-22T20:34:32.000Z</updated>
-        <summary type="html"><![CDATA[The Texas municipality is following its incident response playbook as it works with a third-party to investigate the scope and scale of the attack.]]></summary>
-        <author>
-            <name>Kristina Beek, Associate Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 More Healthcare Orgs Hit by Ransomware Attacks]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/healthcare-orgs-hit-ransomeware-attacks</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/healthcare-orgs-hit-ransomeware-attacks"/>
-        <updated>2025-04-22T20:28:48.000Z</updated>
-        <summary type="html"><![CDATA[Dialysis firm DaVita, Wisconsin-based Bell Ambulance, and Alabama Ophthalmology Associates all suffered apparent or confirmed ransomware attacks this month.]]></summary>
-        <author>
-            <name>Alexander Culafi, Senior News Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>
