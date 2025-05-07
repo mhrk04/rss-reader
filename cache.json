@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors with links to the Play ransomware family exploited a recently patched security flaw in Microsoft Windows as a zero-day as part of an attack targeting an unnamed organization in the United States.\nThe attack, per the Symantec Threat Hunter Team, part of Broadcom, leveraged CVE-2025-29824, a privilege escalation flaw in the Common Log File System (CLFS) driver. It was patched by",
+          "link": "https://thehackernews.com/2025/05/play-ransomware-exploited-windows-cve.html",
+          "publishedOn": "2025-05-07T10:44:00.000Z",
+          "wordCount": null,
+          "title": "Play Ransomware Exploited Windows CVE-2025-29824 as Zero-Day to Breach U.S. Organization",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6aNvkvpfvspGBVXWiABqaZSeFgnTKq1CHZvx_1BaE_8QfpREnLmNlVHYTYdwmtljBFj939Q9sADVf3O2feZxv-_qDmKNCRW8-heIVCqSbnqffnmAa4XKTBOBgnW3u6heAfqzHgzULosSG8x-M5QIewpFBaMvx6DGC58A-EjD-DlvdTajBZkqPsvvtowt/s1600/ransomware-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6aNvkvpfvspGBVXWiABqaZSeFgnTKq1CHZvx_1BaE_8QfpREnLmNlVHYTYdwmtljBFj939Q9sADVf3O2feZxv-_qDmKNCRW8-heIVCqSbnqffnmAa4XKTBOBgnW3u6heAfqzHgzULosSG8x-M5QIewpFBaMvx6DGC58A-EjD-DlvdTajBZkqPsvvtowt/s1600/ransomware-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/researchers-uncover-malware-in-fake.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that masquerades as a seemingly harmless Discord-related utility but incorporates a remote access trojan.\nThe package in question is discordpydebug, which was uploaded to PyPI on March 21, 2022. It has been downloaded 11,574 times and continues to be available on the open-source registry.",
