@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has released software fixes to address a maximum-severity security flaw in its IOS XE Wireless Controller that could enable an unauthenticated, remote attacker to upload arbitrary files to a susceptible system.\nThe vulnerability, tracked as CVE-2025-20188, has been rated 10.0 on the CVSS scoring system.\n\"This vulnerability is due to the presence of a hard-coded JSON Web Token (JWT) on an",
+          "link": "https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html",
+          "publishedOn": "2025-05-08T04:57:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Patches CVE-2025-20188 (10.0 CVSS) in IOS XE That Enables Root Exploits via JWT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92cib0dDV9Fw6RYhZV2gWh_gOqnCcgTxV6qZbqJPkpHQlNPSwGBpB5zo0Ln6_3sslAfm-j04tstprfSGhf64_GDzkyMzXyrJA1NpKsVthdBBXMX1DSYJ_mykSpQWqDRcfNfF0C03OaU37Q7D-IacTEF4ds28haxJFAUfVrjaGE8OrqvQJNAj5AYlcIjaN/s1600/ciso.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92cib0dDV9Fw6RYhZV2gWh_gOqnCcgTxV6qZbqJPkpHQlNPSwGBpB5zo0Ln6_3sslAfm-j04tstprfSGhf64_GDzkyMzXyrJA1NpKsVthdBBXMX1DSYJ_mykSpQWqDRcfNfF0C03OaU37Q7D-IacTEF4ds28haxJFAUfVrjaGE8OrqvQJNAj5AYlcIjaN/s1600/ciso.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/europol-shuts-down-six-ddos-for-hire.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Europol has announced the takedown of distributed denial of service (DDoS)-for-hire services that were used to launch thousands of cyber-attacks across the world.\nIn connection with the operation, Polish authorities have arrested four individuals and the United States has seized nine domains that are associated with the now-defunct platforms.\n\"The suspects are believed to be behind six separate",
@@ -20372,6 +20388,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=350931",
+          "author": "John Law",
+          "description": "Bowers & Wilkins‘ parent company, Masimo, announced that it is selling its audio business division to Samsung subsidiary Harman International. The deal is for US$350 million (~RM1.49 billion) in cash and will add several more audio brands under the latter’s audio umbrella. Specifically, the deal will see Masimo handing over Bowers & Wilkins, Denon, Polk […]\nThe post Harman To Acquire Bowers & Wilkins, Denon, And Polk Audio For US$350 Million appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/350931/harman-to-acquire-bowers-wilkins-denon-and-polk-audio-for-us350-million/",
+          "publishedOn": "2025-05-08T05:48:10.000Z",
+          "wordCount": 4630,
+          "title": "Harman To Acquire Bowers & Wilkins, Denon, And Polk Audio For US$350 Million",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/06/Bowers-Wilkins-Px8-10.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=350934",
           "author": "Ikmal Rozlan",
@@ -23217,16 +23243,6 @@
           "publishedOn": "2025-04-23T19:10:37.000Z",
           "wordCount": null,
           "title": "North Korean Operatives Use Deepfakes in IT Job Interviews",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/japan-unauthorized-stock-trading-stolen-credentials",
-          "author": "Kristina Beek, Associate Editor, Dark Reading",
-          "description": "Attackers are using credentials stolen via phishing websites that purport to be legitimate securities company homepages, duping victims and selling their stocks before they realize they've been hacked.",
-          "link": "https://www.darkreading.com/threat-intelligence/japan-unauthorized-stock-trading-stolen-credentials",
-          "publishedOn": "2025-04-23T17:43:44.000Z",
-          "wordCount": null,
-          "title": "Japan Warns on Unauthorized Stock Trading via Stolen Credentials",
           "imageUrl": null
         }
       ]
