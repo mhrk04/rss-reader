@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-12T15:10:13.060Z</updated>
+    <updated>2025-05-12T15:43:52.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[New research shows China is quickly catching up with the US in AI innovation. Experts weigh in on what it means for cyber defenders.]]></summary>
         <author>
             <name>Becky Bracken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS Patches DriverHub RCE Flaws Exploitable via HTTP and Crafted .ini Files]]></title>
+        <id>https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html</id>
+        <link href="https://thehackernews.com/2025/05/asus-patches-driverhub-rce-flaws.html"/>
+        <updated>2025-05-12T14:03:00.000Z</updated>
+        <summary type="html"><![CDATA[ASUS has released updates to address two security flaws impacting ASUS DriverHub that, if successfully exploited, could enable an attacker to leverage the software in order to achieve remote code execution.
+DriverHub is a tool that's designed to automatically detect the motherboard model of a computer and display necessary driver updates for subsequent installation by communicating with a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
