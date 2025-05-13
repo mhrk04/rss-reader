@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-13T15:09:07.364Z</updated>
+    <updated>2025-05-13T15:43:03.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,29 @@
         <summary type="html"><![CDATA[Capital One executives share insights on how organizations should design their security program, implement passwordless technologies, and reduce their attack surface.]]></summary>
         <author>
             <name>Arielle Waldman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Linked APTs Exploit SAP CVE-2025-31324 to Breach 581 Critical Systems Worldwide]]></title>
+        <id>https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html</id>
+        <link href="https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html"/>
+        <updated>2025-05-13T15:13:00.000Z</updated>
+        <summary type="html"><![CDATA[A recently disclosed critical security flaw impacting SAP NetWeaver is being exploited by multiple China-nexus nation-state actors to target critical infrastructure networks.
+"Actors leveraged CVE-2025-31324, an unauthenticated file upload vulnerability that enables remote code execution (RCE)," EclecticIQ researcher Arda Büyükkaya said in an analysis published today.
+Targets of the campaign]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious PyPI Package Posing as Solana Tool Stole Source Code in 761 Downloads]]></title>
+        <id>https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html</id>
+        <link href="https://thehackernews.com/2025/05/malicious-pypi-package-posing-as-solana.html"/>
+        <updated>2025-05-13T14:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that purports to be an application related to the Solana blockchain, but contains malicious functionality to steal source code and developer secrets.
+The package, named solana-token, is no longer available for download from PyPI, but not before it was downloaded 761 times. It was first]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -3737,39 +3760,6 @@ CVE-2025-1976 (CVSS score: 8.6) - A code injection flaw]]></summary>
 The post Samsung Galaxy S25 Edge May Get New Gorilla Glass Ceramic 2 appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iQOO Z10 Turbo And Turbo Pro Go Official With 144Hz Displays, Massive Batteries]]></title>
-        <id>https://www.lowyat.net/?p=349917</id>
-        <link href="https://www.lowyat.net/2025/349917/iqoo-z10-turbo-pro/"/>
-        <updated>2025-04-29T03:35:26.000Z</updated>
-        <summary type="html"><![CDATA[iQOO, a sub-brand of vivo, has launched a pair of upper mid-range smartphones called the Z10 Turbo and Turbo Pro. The latest addition to the Z10 series, the two Turbo models come with improved display, more powerful processors, and chunkier batteries. The Z10 Turbo sports a 6.78-inch 2800×1260 AMOLED display with a higher refresh rate […]
-The post iQOO Z10 Turbo And Turbo Pro Go Official With 144Hz Displays, Massive Batteries appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ikmal Rozlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Web To Get Voice And Video Calls]]></title>
-        <id>https://www.lowyat.net/?p=349901</id>
-        <link href="https://www.lowyat.net/2025/349901/whatsapp-web-to-get-voice-and-video-calls/"/>
-        <updated>2025-04-29T03:25:49.000Z</updated>
-        <summary type="html"><![CDATA[It looks like voice and video calls are coming to the browser version of WhatsApp. WABetaInfo reported the presence of new call buttons on the web client, indicating that the calling features will be accessible on all versions of WhatsApp in a future update. Currently, users who want to make voice and video calls on […]
-The post WhatsApp Web To Get Voice And Video Calls appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nubia Z70S Ultra Launched With Upgraded Sensor, Bigger Battery]]></title>
-        <id>https://www.lowyat.net/?p=349906</id>
-        <link href="https://www.lowyat.net/2025/349906/nubia-z70s-ultra/"/>
-        <updated>2025-04-29T03:11:43.000Z</updated>
-        <summary type="html"><![CDATA[ZTE’s Nubia sub-brand has officially launched a new flagship called the Z70S Ultra. A refresh of its current flagship, the “S” moniker sees the company cramming in an even larger battery as well as a bigger camera sensor. Just like the regular version, the Z70S Ultra sports a 6.85-inch 1.5K AMOLED display with a 144Hz […]
-The post Nubia Z70S Ultra Launched With Upgraded Sensor, Bigger Battery appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ikmal Rozlan</name>
         </author>
     </entry>
     <entry>
