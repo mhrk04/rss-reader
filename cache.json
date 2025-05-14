@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Fortinet has patched a critical security flaw that it said has been exploited as a zero-day in attacks targeting FortiVoice enterprise phone systems.\nThe vulnerability, tracked as CVE-2025-32756, carries a CVSS score of 9.6 out of 10.0.\n\"A stack-based overflow vulnerability [CWE-121] in FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera may allow a remote unauthenticated attacker to",
+          "link": "https://thehackernews.com/2025/05/fortinet-patches-cve-2025-32756-zero.html",
+          "publishedOn": "2025-05-14T04:21:00.000Z",
+          "wordCount": null,
+          "title": "Fortinet Patches CVE-2025-32756 Zero-Day RCE Flaw Exploited in FortiVoice Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmsGe9KbSNZ93s1ZDvMjTI3uJ3JZNeAR_xRJ-TEH_eUyvlfZDpWwYqBbg2kGVv88-uuRTyuMxYhvUavmCGf5aqeT5XcPhYO5vRvJ0ZYMU4ZhmXgGK5WqAgAIzstSkPN7Bq1tmj9OhrX76yia3GxPKSZehcvfe09xPoLvUikoG9aCJ25VumkXqMP2JVGmzr/s1600/fortinet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmsGe9KbSNZ93s1ZDvMjTI3uJ3JZNeAR_xRJ-TEH_eUyvlfZDpWwYqBbg2kGVv88-uuRTyuMxYhvUavmCGf5aqeT5XcPhYO5vRvJ0ZYMU4ZhmXgGK5WqAgAIzstSkPN7Bq1tmj9OhrX76yia3GxPKSZehcvfe09xPoLvUikoG9aCJ25VumkXqMP2JVGmzr/s1600/fortinet.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti has released security updates to address two security flaws in Endpoint Manager Mobile (EPMM) software that have been chained in attacks to gain remote code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-4427 (CVSS score: 5.3) - An authentication bypass in Ivanti Endpoint Manager Mobile allowing attackers to access protected resources without proper credentials",
+          "link": "https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html",
+          "publishedOn": "2025-05-14T04:00:00.000Z",
+          "wordCount": null,
+          "title": "Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcX1Iz39whGvFcuDXAUAxvNBUcS1KuS4S4kDctXiBzwuENE-_93pBCSh8Yi4KyMZfsN0MVLFuD6gBEdR-X0e-a3ug2DZylwkzoJrXU5gBZDwycT7S2BnNYZ7nkHe-JE73plLP7bCVK7KA8uBunOgImCc85pOyQCnCrpvzlK1ToFSqfqzMzGDR6lDsdbnGs/s1600/ivanti.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcX1Iz39whGvFcuDXAUAxvNBUcS1KuS4S4kDctXiBzwuENE-_93pBCSh8Yi4KyMZfsN0MVLFuD6gBEdR-X0e-a3ug2DZylwkzoJrXU5gBZDwycT7S2BnNYZ7nkHe-JE73plLP7bCVK7KA8uBunOgImCc85pOyQCnCrpvzlK1ToFSqfqzMzGDR6lDsdbnGs/s1600/ivanti.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/china-linked-apts-exploit-sap-cve-2025.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A recently disclosed critical security flaw impacting SAP NetWeaver is being exploited by multiple China-nexus nation-state actors to target critical infrastructure networks.\n\"Actors leveraged CVE-2025-31324, an unauthenticated file upload vulnerability that enables remote code execution (RCE),\" EclecticIQ researcher Arda Büyükkaya said in an analysis published today.\nTargets of the campaign",
@@ -20380,22 +20412,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDrYxVG3A_A9hb9xiC2PUgaW8evW63_x2ilCFBca4f8UCz43688avt-lO4nQS5gWO9NKnP9Urn8lE6YrlIFs18UG9_LJhwbY8DaEIbAUwJoOVNtGAqy6uT_jQmnumaodB_RWbO1tXzH0pFJCmbLrfmjj8GMsdyTnk1G-k_Ow9lcC8ej3xrewNhIax_lhub/s1600/proton-mail-banned.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDrYxVG3A_A9hb9xiC2PUgaW8evW63_x2ilCFBca4f8UCz43688avt-lO4nQS5gWO9NKnP9Urn8lE6YrlIFs18UG9_LJhwbY8DaEIbAUwJoOVNtGAqy6uT_jQmnumaodB_RWbO1tXzH0pFJCmbLrfmjj8GMsdyTnk1G-k_Ow9lcC8ej3xrewNhIax_lhub/s1600/proton-mail-banned.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Popular messaging app WhatsApp on Tuesday unveiled a new technology called Private Processing to enable artificial intelligence (AI) capabilities in a privacy-preserving manner.\n\"Private Processing will allow users to leverage powerful optional AI features – like summarizing unread messages or editing help – while preserving WhatsApp's core privacy promise,\" the Meta-owned service said in a",
-          "link": "https://thehackernews.com/2025/04/whatsapp-launches-private-processing-to.html",
-          "publishedOn": "2025-04-29T17:22:00.000Z",
-          "wordCount": null,
-          "title": "WhatsApp Launches Private Processing to Enable AI Features While Protecting Message Privacy",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfcw2wP2oQTe0N7dyUblwsIYeitRdkPuOatf036QBHIlqWdDWBjTAfyUE159EbMqw4xEMSoDTN5B1ZPnqSW_ykKvSHrvBAJqtg3vj72nZqAxKbh_xQ4j4EQR0DjI9Rp88Hj6AsHkRQ_LE_5Bzi1tmrxHtEpN226qSKrlGZWw-ozxch51BJml48zd8ApGWZ/s1600/whatsapp.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfcw2wP2oQTe0N7dyUblwsIYeitRdkPuOatf036QBHIlqWdDWBjTAfyUE159EbMqw4xEMSoDTN5B1ZPnqSW_ykKvSHrvBAJqtg3vj72nZqAxKbh_xQ4j4EQR0DjI9Rp88Hj6AsHkRQ_LE_5Bzi1tmrxHtEpN226qSKrlGZWw-ozxch51BJml48zd8ApGWZ/s1600/whatsapp.jpg"
         }
       ]
     },
@@ -20404,6 +20420,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=351561",
+          "author": "Ikmal Rozlan",
+          "description": "After two years, DJI has finally updated its premium consumer drone offering with the new Mavic 4 Pro. The company packed the updated drone with a 360-degree rotating gimbal, a longer battery life, and bigger sensors, all with a lower base price compared to the Mavic 3 Pro. To start with, the new rotating gimbal […]\nThe post DJI Mavic 4 Pro Officially Hits The Shelves At RM9,599 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/351561/dji-mavic-4-pro/",
+          "publishedOn": "2025-05-14T05:17:26.000Z",
+          "wordCount": 4809,
+          "title": "DJI Mavic 4 Pro Officially Hits The Shelves At RM9,599",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/DJI-Mavic-4-Pro.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=351579",
+          "author": "Heirul Kamel",
+          "description": "Ever wanted to create something cool based on whatever LEGO bricks that you currently have, but stumped on ideas? Researchers at Carnegie Mellon University have you covered. The team, which is made up of six individuals, has created an AI tool aptly called LegoGPT,  which can generate complete LEGO designs based on text descriptions. The […]\nThe post LegoGPT: An AI Tool That Creates LEGO Designs From Scratch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/351579/legogpt-ai-lego-design-tool/",
+          "publishedOn": "2025-05-14T05:09:43.000Z",
+          "wordCount": 4913,
+          "title": "LegoGPT: An AI Tool That Creates LEGO Designs From Scratch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/LegoGPT-AI-tool-Lego_01.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=351579",
           "author": "Heirul Kamel",
