@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Wednesday released updates to address four security issues in its Chrome web browser, including one for which it said there exists an exploit in the wild.\nThe high-severity vulnerability, tracked as CVE-2025-4664 (CVSS score: 4.3), has been characterized as a case of insufficient policy enforcement in a component called Loader.\n\"Insufficient policy enforcement in Loader in Google",
+          "link": "https://thehackernews.com/2025/05/new-chrome-vulnerability-enables-cross.html",
+          "publishedOn": "2025-05-15T06:15:00.000Z",
+          "wordCount": null,
+          "title": "New Chrome Vulnerability Enables Cross-Origin Data Leak via Loader Referrer Policy",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXw1xC9EO5yYpl-F2qtW0nNZRVQcddB9hrVa4G5vtW1VGE7-btdYljqxc2LmnD7C1KQCXZJcnFXEgSr5-pM8_MDspU1FizVFvULtAiXmygkRShNXvaUkn0wLocqzlBJGI0m1kg7ZNkA28tqPn1VqTEUHpoMyHwlWkZCQfSk8wy60DGsV5U-5MQfewfRA_Q/s1600/chrome-update.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXw1xC9EO5yYpl-F2qtW0nNZRVQcddB9hrVa4G5vtW1VGE7-btdYljqxc2LmnD7C1KQCXZJcnFXEgSr5-pM8_MDspU1FizVFvULtAiXmygkRShNXvaUkn0wLocqzlBJGI0m1kg7ZNkA28tqPn1VqTEUHpoMyHwlWkZCQfSk8wy60DGsV5U-5MQfewfRA_Q/s1600/chrome-update.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/samsung-patches-cve-2025-4632-used-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Samsung has released software updates to address a critical security flaw in MagicINFO 9 Server that has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-4632 (CVSS score: 9.8), has been described as a path traversal flaw.\n\"Improper limitation of a pathname to a restricted directory vulnerability in Samsung MagicINFO 9 Server version before 21.1052 allows attackers to",
