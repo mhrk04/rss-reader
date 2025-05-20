@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-20T12:18:00.778Z</updated>
+    <updated>2025-05-20T13:08:02.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware]]></title>
+        <id>https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html</id>
+        <link href="https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html"/>
+        <updated>2025-05-20T12:57:00.000Z</updated>
+        <summary type="html"><![CDATA[High-level government institutions in Sri Lanka, Bangladesh, and Pakistan have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder.
+"The attackers used spear phishing emails paired with geofenced payloads to ensure that only victims in specific countries received the malicious content," Acronis researchers Santiago Pontiroli, Jozsef Gegeny, and Prakas]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation]]></title>
+        <id>https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html</id>
+        <link href="https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html"/>
+        <updated>2025-05-20T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered risky default identity and access management (IAM) roles impacting Amazon Web Services that could open the door for attackers to escalate privileges, manipulate other AWS services, and, in some cases, even fully compromise AWS accounts.
+"These roles, often created automatically or recommended during setup, grant overly broad permissions, such as full S3]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Galaxy Watch8 Series Receive 3C Certification]]></title>
         <id>https://www.lowyat.net/?p=352343</id>
