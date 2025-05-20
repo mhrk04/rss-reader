@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-20T16:48:36.013Z</updated>
+    <updated>2025-05-20T17:08:16.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[An employee inadvertently downloaded a malicious version of the legitimate RVTools utility, which launched an investigation into an attempted supply chain attack aimed at delivering the recently revived initial-access loader.]]></summary>
         <author>
             <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery]]></title>
+        <id>https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html</id>
+        <link href="https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html"/>
+        <updated>2025-05-20T15:53:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor known as Hazy Hawk has been observed hijacking abandoned cloud resources of high-profile organizations, including Amazon S3 buckets and Microsoft Azure endpoints, by leveraging misconfigurations in the Domain Name System (DNS) records.
+The hijacked domains are then used to host URLs that direct users to scams and malware via traffic distribution systems (TDSes), according to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>

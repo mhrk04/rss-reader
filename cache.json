@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A threat actor known as Hazy Hawk has been observed hijacking abandoned cloud resources of high-profile organizations, including Amazon S3 buckets and Microsoft Azure endpoints, by leveraging misconfigurations in the Domain Name System (DNS) records.\nThe hijacked domains are then used to host URLs that direct users to scams and malware via traffic distribution systems (TDSes), according to",
+          "link": "https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html",
+          "publishedOn": "2025-05-20T15:53:00.000Z",
+          "wordCount": null,
+          "title": "Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyk6P-djEjGb8cbs7pi3QNbC3ZJ1Y3HDVuOcMjzYWbOJOGeID6p_gvH2AE4347i84HNZvPZzu-nWbAwKuMccQMTm_cvflVgNmuhKmUPzpR13EpeebV53nTWypARFOzOk06uDoGmPIRSRJL7B_lM5RwvyvsewjY2fx1pIt-RdXm98vC9v8DoVM-f5TkFUP/s1600/info.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyk6P-djEjGb8cbs7pi3QNbC3ZJ1Y3HDVuOcMjzYWbOJOGeID6p_gvH2AE4347i84HNZvPZzu-nWbAwKuMccQMTm_cvflVgNmuhKmUPzpR13EpeebV53nTWypARFOzOk06uDoGmPIRSRJL7B_lM5RwvyvsewjY2fx1pIt-RdXm98vC9v8DoVM-f5TkFUP/s1600/info.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An unknown threat actor has been attributed to creating several malicious Chrome Browser extensions since February 2024 that masquerade as seemingly benign utilities but incorporate covert functionality to exfiltrate data, receive commands, and execute arbitrary code.\n\"The actor creates websites that masquerade as legitimate services, productivity tools, ad and media creation or analysis",
