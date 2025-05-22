@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Chinese-speaking threat actor tracked as UAT-6382 has been linked to the exploitation of a now-patched remote-code-execution vulnerability in Trimble Cityworks to deliver Cobalt Strike and VShell.\n\"UAT-6382 successfully exploited CVE-2025-0944, conducted reconnaissance, and rapidly deployed a variety of web shells and custom-made malware to maintain long-term access,\" Cisco Talos researchers",
+          "link": "https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html",
+          "publishedOn": "2025-05-22T15:06:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVgEFVfpOSg0NCq-gdPZae9Ko-dhaKczlQltFIxpHJ3eXsftwOCZjeOCFi1BQOdQX47py-8fAQx2U-L27tdtsZ8I_YEtUiZetZ-sAMdV1b1nDvLXXuPPWn7ZEzzCxOgHXkpDqeUCuXBjq7xJTzcJleY1xk7o9KXgYEaMuI-BLA0Sc6SUyj-MkZ49qJPLGz/s1600/chinese-hackers-attacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVgEFVfpOSg0NCq-gdPZae9Ko-dhaKczlQltFIxpHJ3eXsftwOCZjeOCFi1BQOdQX47py-8fAQx2U-L27tdtsZ8I_YEtUiZetZ-sAMdV1b1nDvLXXuPPWn7ZEzzCxOgHXkpDqeUCuXBjq7xJTzcJleY1xk7o9KXgYEaMuI-BLA0Sc6SUyj-MkZ49qJPLGz/s1600/chinese-hackers-attacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A privilege escalation flaw has been demonstrated in Windows Server 2025 that makes it possible for attackers to compromise any user in Active Directory (AD).\n\"The attack exploits the delegated Managed Service Account (dMSA) feature that was introduced in Windows Server 2025, works with the default configuration, and is trivial to implement,\" Akamai security researcher Yuval Gordon said in a",
@@ -22749,26 +22765,6 @@
           "wordCount": 9051,
           "title": "Assassin’s Creed Shadows Review: Outsider Contrivance",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/Assassins-Creed-Shadows-Yasuke-Naoe-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=350919",
-          "author": "Ikmal Rozlan",
-          "description": "TNG Digital has announced that its e-wallet platform, TNG eWallet, now enables international tourists to sign up for an account and make cashless transactions. This allows foreigners to easily make QR payments to local vendors and even reload their enhanced Touch ‘n Go cards. To sign up for the e-wallet as a foreigner, you only […]\nThe post TNG eWallet Now Allows Tourists To Register And Use QR Payments In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/350919/tng-ewallet-tourists/",
-          "publishedOn": "2025-05-08T03:28:22.000Z",
-          "wordCount": 4707,
-          "title": "TNG eWallet Now Allows Tourists To Register And Use QR Payments In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/01/Rapid-KL-My50-Touch-n-Go-eWallet-TnG.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=350911",
-          "author": "Nurul Kamil",
-          "description": "After teasing the launch of its GT 7 series of smartphones in Malaysia, realme has unveiled the GT 10,000mAh, a prototype smartphone with a massive battery. As its name suggests, the concept phone packs a 10,000mAh battery and is designed to address users’ battery woes. The prototype features a slim body that is less than […]\nThe post realme Introduces 10,000mAh Concept Phone appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/350911/realme-introduces-10000mah-concept-phone/",
-          "publishedOn": "2025-05-08T03:13:13.000Z",
-          "wordCount": 4522,
-          "title": "realme Introduces 10,000mAh Concept Phone",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/realme-gt-10000mah-1.jpg"
         }
       ]
     },

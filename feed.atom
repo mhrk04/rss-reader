@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-22T15:09:56.008Z</updated>
+    <updated>2025-05-22T15:42:36.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks]]></title>
+        <id>https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html</id>
+        <link href="https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html"/>
+        <updated>2025-05-22T15:06:00.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese-speaking threat actor tracked as UAT-6382 has been linked to the exploitation of a now-patched remote-code-execution vulnerability in Trimble Cityworks to deliver Cobalt Strike and VShell.
+"UAT-6382 successfully exploited CVE-2025-0944, conducted reconnaissance, and rapidly deployed a variety of web shells and custom-made malware to maintain long-term access," Cisco Talos researchers]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security Threats of Open Source AI Exposed by DeepSeek]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/security-threats-open-source-ai-deepseek</id>
@@ -4126,28 +4137,6 @@ The vulnerability, tracked as CVE-2025-20188, has been rated 10.0 on the CVSS sc
 The post Assassin’s Creed Shadows Review: Outsider Contrivance appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNG eWallet Now Allows Tourists To Register And Use QR Payments In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=350919</id>
-        <link href="https://www.lowyat.net/2025/350919/tng-ewallet-tourists/"/>
-        <updated>2025-05-08T03:28:22.000Z</updated>
-        <summary type="html"><![CDATA[TNG Digital has announced that its e-wallet platform, TNG eWallet, now enables international tourists to sign up for an account and make cashless transactions. This allows foreigners to easily make QR payments to local vendors and even reload their enhanced Touch ‘n Go cards. To sign up for the e-wallet as a foreigner, you only […]
-The post TNG eWallet Now Allows Tourists To Register And Use QR Payments In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ikmal Rozlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[realme Introduces 10,000mAh Concept Phone]]></title>
-        <id>https://www.lowyat.net/?p=350911</id>
-        <link href="https://www.lowyat.net/2025/350911/realme-introduces-10000mah-concept-phone/"/>
-        <updated>2025-05-08T03:13:13.000Z</updated>
-        <summary type="html"><![CDATA[After teasing the launch of its GT 7 series of smartphones in Malaysia, realme has unveiled the GT 10,000mAh, a prototype smartphone with a massive battery. As its name suggests, the concept phone packs a 10,000mAh battery and is designed to address users’ battery woes. The prototype features a slim body that is less than […]
-The post realme Introduces 10,000mAh Concept Phone appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
         </author>
     </entry>
     <entry>
