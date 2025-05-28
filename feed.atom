@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-28T14:47:00.190Z</updated>
+    <updated>2025-05-28T15:08:42.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[The latest cybersecurity awareness campaign asks users to pause for nine seconds before clicking — but this approach misplaces responsibility and ignores the real problems of system design.]]></summary>
         <author>
             <name>Bruce Schneier, Arun Vishwanath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File]]></title>
+        <id>https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html</id>
+        <link href="https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html"/>
+        <updated>2025-05-28T13:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a security flaw in Microsoft's OneDrive File Picker that, if successfully exploited, could allow websites to access a user's entire cloud storage content, as opposed to just the files selected for upload via the tool.
+"This stems from overly broad OAuth scopes and misleading consent screens that fail to clearly explain the extent of access being granted,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -4328,17 +4339,6 @@ The post Google Reveals “Material 3 Expressive” Design Refresh For Android 1
         <summary type="html"><![CDATA[While hacktivists claimed more than 100 successful attacks against Indian government, education, and military targets, the attacks were overblown in most cases and often did not even happen.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U Mobile To Divest Its Entire Stake In DNB Ahead Of Second 5G Network Rollout]]></title>
-        <id>https://www.lowyat.net/?p=351521</id>
-        <link href="https://www.lowyat.net/2025/351521/u-mobile-dnb-divest/"/>
-        <updated>2025-05-14T02:50:11.000Z</updated>
-        <summary type="html"><![CDATA[U Mobile, which has been appointed to deploy the country’s second 5G network, has agreed to sell its entire stake in Digital Nasional Berhad (DNB). The orange telco’s stake will be taken over by rivals CelcomDigi, Maxis, and Yes 5G, as well as the Ministry of Finance (MOF). Both CelcomDigi and Maxis have filings with […]
-The post U Mobile To Divest Its Entire Stake In DNB Ahead Of Second 5G Network Rollout appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ikmal Rozlan</name>
         </author>
     </entry>
     <entry>

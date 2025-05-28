@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a security flaw in Microsoft's OneDrive File Picker that, if successfully exploited, could allow websites to access a user's entire cloud storage content, as opposed to just the files selected for upload via the tool.\n\"This stems from overly broad OAuth scopes and misleading consent screens that fail to clearly explain the extent of access being granted,",
+          "link": "https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html",
+          "publishedOn": "2025-05-28T13:41:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPLbR4sH-j7QtWZbtLY4GhFAJgtNF5VNOsBIaiY5hoyukMHq_rrwX0GWbElmoKW7qxikNJYSeJpWJui7mT2_PEdoheEqj3-rt8W0yK10sxD8D3dWH8FYAP3jwgFcNzdchoR9J6yL0fJGyn_p3gzh7oISMLTEjYOSaGKVRy7H5yP4CWXgOX-UCl6-s6zSBr/s1600/drive.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPLbR4sH-j7QtWZbtLY4GhFAJgtNF5VNOsBIaiY5hoyukMHq_rrwX0GWbElmoKW7qxikNJYSeJpWJui7mT2_PEdoheEqj3-rt8W0yK10sxD8D3dWH8FYAP3jwgFcNzdchoR9J6yL0fJGyn_p3gzh7oISMLTEjYOSaGKVRy7H5yP4CWXgOX-UCl6-s6zSBr/s1600/drive.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Embedded Linux-based Internet of Things (IoT) devices have become the target of a new botnet dubbed PumaBot.\nWritten in Go, the botnet is designed to conduct brute-force attacks against SSH instances to expand in size and scale and deliver additional malware to the infected hosts.\n\"Rather than scanning the internet, the malware retrieves a list of targets from a command-and-control (C2) server",
@@ -22947,16 +22963,6 @@
           "wordCount": 4821,
           "title": "Google Reveals “Material 3 Expressive” Design Refresh For Android 16, Wear OS",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/google-material-3-expressive3.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=351521",
-          "author": "Ikmal Rozlan",
-          "description": "U Mobile, which has been appointed to deploy the country’s second 5G network, has agreed to sell its entire stake in Digital Nasional Berhad (DNB). The orange telco’s stake will be taken over by rivals CelcomDigi, Maxis, and Yes 5G, as well as the Ministry of Finance (MOF). Both CelcomDigi and Maxis have filings with […]\nThe post U Mobile To Divest Its Entire Stake In DNB Ahead Of Second 5G Network Rollout appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/351521/u-mobile-dnb-divest/",
-          "publishedOn": "2025-05-14T02:50:11.000Z",
-          "wordCount": 4633,
-          "title": "U Mobile To Divest Its Entire Stake In DNB Ahead Of Second 5G Network Rollout",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/u-mobile-zte-huawei-next-gen-5g-coverage_02.jpg"
         }
       ]
     },
