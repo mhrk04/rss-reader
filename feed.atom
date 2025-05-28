@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-28T15:43:07.405Z</updated>
+    <updated>2025-05-28T16:10:18.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cellcom Restores Regional Mobile Services After Cyberattack]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/cellcom-restores-regional-mobile-services-cyberattack</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/cellcom-restores-regional-mobile-services-cyberattack"/>
+        <updated>2025-05-28T15:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Customers in parts of Wisconsin and Michigan could not make calls or send text messages for nearly a week after an incident on May 14, and service is still intermittent in some areas.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Take9 Won't Improve Cybersecurity]]></title>
         <id>https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-cybersecurity</id>
@@ -4303,19 +4313,6 @@ The post US Lifts Malaysia AI Chip Export Restrictions appeared first on Lowyat.
         <summary type="html"><![CDATA[Fortinet has patched a critical security flaw that it said has been exploited as a zero-day in attacks targeting FortiVoice enterprise phone systems.
 The vulnerability, tracked as CVE-2025-32756, carries a CVSS score of 9.6 out of 10.0.
 "A stack-based overflow vulnerability [CWE-121] in FortiVoice, FortiMail, FortiNDR, FortiRecorder, and FortiCamera may allow a remote unauthenticated attacker to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ivanti Patches EPMM Vulnerabilities Exploited for Remote Code Execution in Limited Attacks]]></title>
-        <id>https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html</id>
-        <link href="https://thehackernews.com/2025/05/ivanti-patches-epmm-vulnerabilities.html"/>
-        <updated>2025-05-14T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ivanti has released security updates to address two security flaws in Endpoint Manager Mobile (EPMM) software that have been chained in attacks to gain remote code execution.
-The vulnerabilities in question are listed below -
-
-CVE-2025-4427 (CVSS score: 5.3) - An authentication bypass in Ivanti Endpoint Manager Mobile allowing attackers to access protected resources without proper credentials]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
