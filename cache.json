@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the DragonForce ransomware gained access to an unnamed Managed Service Provider's (MSP) SimpleHelp remote monitoring and management (RMM) tool, and then leveraged it to exfiltrate data and drop the locker on multiple endpoints.\nIt's believed that the attackers exploited a trio of security flaws in SimpleHelp (CVE-2024-57727, CVE-2024-57728, and CVE-2024-57726) that were",
+          "link": "https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html",
+          "publishedOn": "2025-05-29T10:34:00.000Z",
+          "wordCount": null,
+          "title": "DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer Endpoints",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyexvSCpDHDJ2Z6T2cz4OD064ThZckicBE5PVv-f4N6lPOY1lo0PVLxLmgTTGeNcPYLmOQtDdRDxL10zbykiwHUi31qW39_A-E6SGxbb85_xpw9aRfXkAL4bTsfSeqmsxLmw6-9WhKQfeT0QDaEK5bDqYKvweXWv9x2zY_MPXKEE-wih8YEAvMoi37Id2G/s1600/ransomware-lock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyexvSCpDHDJ2Z6T2cz4OD064ThZckicBE5PVv-f4N6lPOY1lo0PVLxLmgTTGeNcPYLmOQtDdRDxL10zbykiwHUi31qW39_A-E6SGxbb85_xpw9aRfXkAL4bTsfSeqmsxLmw6-9WhKQfeT0QDaEK5bDqYKvweXWv9x2zY_MPXKEE-wih8YEAvMoi37Id2G/s1600/ransomware-lock.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google on Wednesday disclosed that the Chinese state-sponsored threat actor known as APT41 leveraged a malware called TOUGHPROGRESS that uses Google Calendar for command-and-control (C2).\nThe tech giant, which discovered the activity in late October 2024, said the malware was hosted on a compromised government website and was used to target multiple other government entities.\n\"Misuse of cloud",
