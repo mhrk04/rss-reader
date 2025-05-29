@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have taken the wraps off an unusual cyber attack that leveraged malware with corrupted DOS and PE headers, according to new findings from Fortinet.\nThe DOS (Disk Operating System) and PE (Portable Executable) headers are essential parts of a Windows PE file, providing information about the executable.\nWhile the DOS header makes the executable file backward compatible",
+          "link": "https://thehackernews.com/2025/05/new-windows-rat-evades-detection-for.html",
+          "publishedOn": "2025-05-29T13:16:00.000Z",
+          "wordCount": null,
+          "title": "New Windows RAT Evades Detection for Weeks Using Corrupted DOS and PE Headers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9YukymDpffFTdGngx2h9PdI4_IKR-DGLB_ySx6QNIQakfcbQpVNf32aN3wHSPrIXJ0R_o3ZLrs8Jcgn2aVULrIzXfY36PAr5DdYCFtHkfbO6MrXbyueniFw21PFW0pOnILaCfGYdSdK5Fw6p6kCMbhHevCNqEQzk4kCcfJ5X_QtzsDh1zUOHvHPTG9jr/s1600/windows-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9YukymDpffFTdGngx2h9PdI4_IKR-DGLB_ySx6QNIQakfcbQpVNf32aN3wHSPrIXJ0R_o3ZLrs8Jcgn2aVULrIzXfY36PAr5DdYCFtHkfbO6MrXbyueniFw21PFW0pOnILaCfGYdSdK5Fw6p6kCMbhHevCNqEQzk4kCcfJ5X_QtzsDh1zUOHvHPTG9jr/s1600/windows-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actors behind the DragonForce ransomware gained access to an unnamed Managed Service Provider's (MSP) SimpleHelp remote monitoring and management (RMM) tool, and then leveraged it to exfiltrate data and drop the locker on multiple endpoints.\nIt's believed that the attackers exploited a trio of security flaws in SimpleHelp (CVE-2024-57727, CVE-2024-57728, and CVE-2024-57726) that were",
