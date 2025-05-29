@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-29T21:39:03.030Z</updated>
+    <updated>2025-05-29T22:08:33.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[Red Canary's MDR portfolio complements Zscaler's purchase last year of Israeli startup Avalor, which automates collection, curation, and enrichment of security data.]]></summary>
         <author>
             <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APT41 Uses Google Calendar Events for C2]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2</id>
+        <link href="https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2"/>
+        <updated>2025-05-29T20:10:15.000Z</updated>
+        <summary type="html"><![CDATA[APT41, a Chinese state-sponsored threat actor also known as "Double Dragon," used Google Calendar as command-and-control infrastructure during a campaign last fall.]]></summary>
+        <author>
+            <name>Alexander Culafi, Senior News Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -4133,50 +4143,6 @@ The post Proton Launches Xchange Programme For 15-Year-Old Vehicles appeared fir
 The post Asus Launches New MD101 Fragrance Mouse And KW100 Marshmallow Keyboard appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple May Make Bezel-Less 20th Anniversary iPhone]]></title>
-        <id>https://www.lowyat.net/?p=351784</id>
-        <link href="https://www.lowyat.net/2025/351784/apple-bezel-less-20th-anniversary-iphone/"/>
-        <updated>2025-05-15T10:07:47.000Z</updated>
-        <summary type="html"><![CDATA[In preparation for the 20th anniversary since its first release of the iPhone, Apple is planning to launch a redesigned model in 2027. As per a machine translation of a report by ETNews, the upcoming phone may feature a full screen without a bezel, and a display that is curved on all four edges. According […]
-The post Apple May Make Bezel-Less 20th Anniversary iPhone appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Linked APT28 Exploited MDaemon Zero-Day to Hack Government Webmail Servers]]></title>
-        <id>https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html</id>
-        <link href="https://thehackernews.com/2025/05/russia-linked-apt28-exploited-mdaemon.html"/>
-        <updated>2025-05-15T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[A Russia-linked threat actor has been attributed to a cyber espionage operation targeting webmail servers such as Roundcube, Horde, MDaemon, and Zimbra via cross-site scripting (XSS) vulnerabilities, including a then-zero-day in MDaemon, according to new findings from ESET.
-The activity, which commenced in 2023, has been codenamed Operation RoundPress by the Slovak cybersecurity company. It has]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious npm Package Leverages Unicode Steganography, Google Calendar as C2 Dropper]]></title>
-        <id>https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html</id>
-        <link href="https://thehackernews.com/2025/05/malicious-npm-package-leverages-unicode.html"/>
-        <updated>2025-05-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a malicious package named "os-info-checker-es6" that disguises itself as an operating system information utility to stealthily drop a next-stage payload onto compromised systems.
-"This campaign employs clever Unicode-based steganography to hide its initial malicious code and utilizes a Google Calendar event short link as a dynamic dropper for its final]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MediaTek Officially Launches Dimensity 9400e Chipset]]></title>
-        <id>https://www.lowyat.net/?p=351754</id>
-        <link href="https://www.lowyat.net/2025/351754/mediatek-officially-launches-dimensity-9400e-chipset/"/>
-        <updated>2025-05-15T09:50:58.000Z</updated>
-        <summary type="html"><![CDATA[The current batch of flagship MediaTek mobile chipsets include the base Dimensity 9400 as well as a Plus variant. But it looks like the company is adding one more variant that sits below the existing two in terms of raw number-crunching performance, called the Dimensity 9400e. As with the other variants, the MediaTek Dimensity 9400e […]
-The post MediaTek Officially Launches Dimensity 9400e Chipset appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
         </author>
     </entry>
     <entry>
