@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new malware campaign is distributing a novel Rust-based information stealer dubbed EDDIESTEALER using the popular ClickFix social engineering tactic initiated via fake CAPTCHA verification pages.\n\"This campaign leverages deceptive CAPTCHA verification pages that trick users into executing a malicious PowerShell script, which ultimately deploys the infostealer, harvesting sensitive data such as",
+          "link": "https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html",
+          "publishedOn": "2025-05-30T14:14:00.000Z",
+          "wordCount": null,
+          "title": "New EDDIESTEALER Malware Bypasses Chrome's App-Bound Encryption to Steal Browser Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE9eOa9usUz_hVDXQ-uo3reXJcu4oBZ4YrIC591ZN4_KckeCft26Z9nCgBtkvplrlE2ANiFllzesbtZ2lHicO-WstrmOS_O27MJ6_oT6n2QoAo6q-MAOo9_aeeJfH7XwKQjPQO4SjRNEreUV20o99TybjBmOpH1_0JG5rKSd7K7tTsGdC5KmSbZrolQaXw/s1600/clickfix.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE9eOa9usUz_hVDXQ-uo3reXJcu4oBZ4YrIC591ZN4_KckeCft26Z9nCgBtkvplrlE2ANiFllzesbtZ2lHicO-WstrmOS_O27MJ6_oT6n2QoAo6q-MAOo9_aeeJfH7XwKQjPQO4SjRNEreUV20o99TybjBmOpH1_0JG5rKSd7K7tTsGdC5KmSbZrolQaXw/s1600/clickfix.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The China-linked threat actor behind the recent in-the-wild exploitation of a critical security flaw in SAP NetWeaver has been attributed to a broader set of attacks targeting organizations in Brazil, India, and Southeast Asia since 2023.\n\"The threat actor mainly targets the SQL injection vulnerabilities discovered on web applications to access the SQL servers of targeted organizations,\" Trend",
@@ -22803,16 +22819,6 @@
           "wordCount": 4639,
           "title": "Huawei To Introduce Its First-Ever Foldable Display Laptop",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/Huawei-To-Introduce-First-Ever-Foldable-Laptop-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=351840",
-          "author": "Nurul Kamil",
-          "description": "Qualcomm has officially announced the latest addition to its mid-range 7 series lineup, the Snapdragon 7 Gen 4. Compared to its predecessor, it delivers a better performance in terms of CPU, GPU, and AI capabilities while introducing some new features. The new chipset is powered by a Kryo CPU with a Prime core clocked at […]\nThe post Qualcomm Launches Snapdragon 7 Gen 4 Chipset appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/351840/qualcomm-launches-snapdragon-7-gen-4-chipset/",
-          "publishedOn": "2025-05-16T03:02:33.000Z",
-          "wordCount": 4753,
-          "title": "Qualcomm Launches Snapdragon 7 Gen 4 Chipset",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/qualcomm-snapdragon-7-gen-42.jpg"
         }
       ]
     },
@@ -22821,6 +22827,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/vibe-coding-changed-development-process",
+          "author": "Michael Nov",
+          "description": "AI tools shook up development. Now, product security must change too.",
+          "link": "https://www.darkreading.com/application-security/vibe-coding-changed-development-process",
+          "publishedOn": "2025-05-30T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Vibe Coding Changed the Development Process",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/tenable-acquire-ai-security-apex",
           "author": "Jeffrey Schwartz",

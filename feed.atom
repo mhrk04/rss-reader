@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-30T14:43:56.780Z</updated>
+    <updated>2025-05-30T15:09:24.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New EDDIESTEALER Malware Bypasses Chrome's App-Bound Encryption to Steal Browser Data]]></title>
+        <id>https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html</id>
+        <link href="https://thehackernews.com/2025/05/eddiestealer-malware-uses-clickfix.html"/>
+        <updated>2025-05-30T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[A new malware campaign is distributing a novel Rust-based information stealer dubbed EDDIESTEALER using the popular ClickFix social engineering tactic initiated via fake CAPTCHA verification pages.
+"This campaign leverages deceptive CAPTCHA verification pages that trick users into executing a malicious PowerShell script, which ultimately deploys the infostealer, harvesting sensitive data such as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe Coding Changed the Development Process]]></title>
+        <id>https://www.darkreading.com/application-security/vibe-coding-changed-development-process</id>
+        <link href="https://www.darkreading.com/application-security/vibe-coding-changed-development-process"/>
+        <updated>2025-05-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI tools shook up development. Now, product security must change too.]]></summary>
+        <author>
+            <name>Michael Nov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tenable to Acquire AI Security Startup Apex]]></title>
         <id>https://www.darkreading.com/cyber-risk/tenable-acquire-ai-security-apex</id>
@@ -4227,17 +4248,6 @@ The post OPPO Reno14 Series Introduced With Dimensity 8450, Larger Batteries app
 The post Huawei To Introduce Its First-Ever Foldable Display Laptop appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qualcomm Launches Snapdragon 7 Gen 4 Chipset]]></title>
-        <id>https://www.lowyat.net/?p=351840</id>
-        <link href="https://www.lowyat.net/2025/351840/qualcomm-launches-snapdragon-7-gen-4-chipset/"/>
-        <updated>2025-05-16T03:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Qualcomm has officially announced the latest addition to its mid-range 7 series lineup, the Snapdragon 7 Gen 4. Compared to its predecessor, it delivers a better performance in terms of CPU, GPU, and AI capabilities while introducing some new features. The new chipset is powered by a Kryo CPU with a Prime core clocked at […]
-The post Qualcomm Launches Snapdragon 7 Gen 4 Chipset appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
         </author>
     </entry>
     <entry>
