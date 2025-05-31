@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-05-31T10:08:50.306Z</updated>
+    <updated>2025-05-31T10:42:08.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora]]></title>
+        <id>https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html</id>
+        <link href="https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html"/>
+        <updated>2025-05-31T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Two information disclosure flaws have been identified in apport and systemd-coredump, the core dump handlers in Ubuntu, Red Hat Enterprise Linux, and Fedora, according to the Qualys Threat Research Unit (TRU).
+Tracked as CVE-2025-5054 and CVE-2025-4598, both vulnerabilities are race condition bugs that could enable a local attacker to obtain access to access sensitive information. Tools like]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alleged ARM-Based NVIDIA APU With 120W TDP Leaks]]></title>
         <id>https://www.lowyat.net/?p=354554</id>
