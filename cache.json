@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat hunters are alerting to a new campaign that employs deceptive websites to trick unsuspecting users into executing malicious PowerShell scripts on their machines and infect them with the NetSupport RAT malware.\nThe DomainTools Investigations (DTI) team said it identified \"malicious multi-stage downloader Powershell scripts\" hosted on lure websites that masquerade as Gitcode and DocuSign.\n\"",
+          "link": "https://thehackernews.com/2025/06/fake-docusign-gitcode-sites-spread.html",
+          "publishedOn": "2025-06-03T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Fake DocuSign, Gitcode Sites Spread NetSupport RAT via Multi-Stage PowerShell Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLNENpdsB0Pqp0I5iQ4s5zrozDrgByxfk-yDFOxmin2fclguJsn69wAWQONtUhmISdg7jRUl3qbe1GUexK4oCgYLswA9D29DPhnGNRf5JTeusPsnG0qoguazIjK2YpfLROoDyYpbR8DEKvaRBqIN8O9joqY3zC_yTJz4q2ZGW7mZW4fW-kheuCGsQrKizo/s1600/power.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLNENpdsB0Pqp0I5iQ4s5zrozDrgByxfk-yDFOxmin2fclguJsn69wAWQONtUhmISdg7jRUl3qbe1GUexK4oCgYLswA9D29DPhnGNRf5JTeusPsnG0qoguazIjK2YpfLROoDyYpbR8DEKvaRBqIN8O9joqY3zC_yTJz4q2ZGW7mZW4fW-kheuCGsQrKizo/s1600/power.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/critical-10-year-old-roundcube-webmail.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed details of a critical security flaw in the Roundcube webmail software that has gone unnoticed for a decade and could be exploited to take over susceptible systems and execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-49113, carries a CVSS score of 9.9 out of 10.0. It has been described as a case of post-authenticated remote code execution via",
