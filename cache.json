@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Monday released out-of-band fixes to address three security issues in its Chrome browser, including one that it said has come under active exploitation in the wild.\nThe high-severity flaw is being tracked as CVE-2025-5419, and has been flagged as an out-of-bounds read and write vulnerability in the V8 JavaScript and WebAssembly engine.\n\"Out of bounds read and write in V8 in Google",
+          "link": "https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html",
+          "publishedOn": "2025-06-03T04:22:00.000Z",
+          "wordCount": null,
+          "title": "New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPGJQHeFBRIJ2wpbRVwzhAjV5wIvtEO_2oEL3dif8_V4WIW4ktgrF9Y2qI4skVtHYyII_sBAUe7NgHOgIx67IvPA6BlZg-T_4Gn4S_0UuZq62dXiFhvbkiyolAkfBoigKcbpaCAv9rWHvVgcb8prmJdN_RlnlVztgiT4SyjPeczYd0cZNSKeW2EfjDw-F/s1600/chrome.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPGJQHeFBRIJ2wpbRVwzhAjV5wIvtEO_2oEL3dif8_V4WIW4ktgrF9Y2qI4skVtHYyII_sBAUe7NgHOgIx67IvPA6BlZg-T_4Gn4S_0UuZq62dXiFhvbkiyolAkfBoigKcbpaCAv9rWHvVgcb8prmJdN_RlnlVztgiT4SyjPeczYd0cZNSKeW2EfjDw-F/s1600/chrome.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a new cryptojacking campaign that's targeting publicly accessible DevOps web servers such as those associated with Docker, Gitea, and HashiCorp Consul and Nomad to illicitly mine cryptocurrencies.\nCloud security firm Wiz, which is tracking the activity under the name JINX-0132, said the attackers are exploiting a wide range of known misconfigurations and",
@@ -20388,6 +20404,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=354571",
+          "author": "John Law",
+          "description": "Rumour has it that AMD is working on an enthusiast-class Radeon RX 9080 XT GPU. If true, then this is perhaps one of the chipmaker’s first major U-turns on its decision not to compete with NVIDIA in the category. In a video by popular leakster and rumour monger Moore’s Law is Dead (MLID), the channel […]\nThe post AMD Rumoured To Be Working A Radeon RX 9080 XT With 32GB GDDR7 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/354571/amd-rumour-radeon-9080-xt/",
+          "publishedOn": "2025-06-03T04:17:56.000Z",
+          "wordCount": 9951,
+          "title": "AMD Rumoured To Be Working A Radeon RX 9080 XT With 32GB GDDR7",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/03/AMD-Radeon-RX-7900-XT-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=354606",
           "author": "Ian Chee",
