@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Several malicious packages have been uncovered across the npm, Python, and Ruby package repositories that drain funds from cryptocurrency wallets, erase entire codebases after installation, and exfiltrate Telegram API tokens, once again demonstrating the variety of supply chain threats lurking in open-source ecosystems.\nThe findings come from multiple reports published by Checkmarx,",
+          "link": "https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html",
+          "publishedOn": "2025-06-04T10:11:00.000Z",
+          "wordCount": null,
+          "title": "Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply Chain Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZztju6ez3Z6vi2hVgf1-yFV_pgSSnK-IMpZ6QnW8yIE2CIQcmuju6ZbYl7P96afEmJWMKn74XA6FI2Sr7mR6Nwdnrk7_9VJFP4ZHh4e3gmTS_vfDbtVow_ml02lE1HI-htzCLguFqfuB3zg-ROJ6UQ0Dbg9d3a7-KB4oxS_bJz_NszEPxchcw61U44GCQ/s1600/SOFTWARE.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZztju6ez3Z6vi2hVgf1-yFV_pgSSnK-IMpZ6QnW8yIE2CIQcmuju6ZbYl7P96afEmJWMKn74XA6FI2Sr7mR6Nwdnrk7_9VJFP4ZHh4e3gmTS_vfDbtVow_ml02lE1HI-htzCLguFqfuB3zg-ROJ6UQ0Dbg9d3a7-KB4oxS_bJz_NszEPxchcw61U44GCQ/s1600/SOFTWARE.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Hewlett Packard Enterprise (HPE) has released security updates to address as many as eight vulnerabilities in its StoreOnce data backup and deduplication solution that could result in an authentication bypass and remote code execution.\n\"These vulnerabilities could be remotely exploited to allow remote code execution, disclosure of information, server-side request forgery, authentication bypass,",
