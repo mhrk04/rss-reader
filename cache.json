@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat hunters are calling attention to a new variant of a remote access trojan (RAT) called Chaos RAT that has been used in recent attacks targeting Windows and Linux systems.\nAccording to findings from Acronis, the malware artifact may have been distributed by tricking victims into downloading a network troubleshooting utility for Linux environments.\n\"Chaos RAT is an open-source RAT written in",
+          "link": "https://thehackernews.com/2025/06/chaos-rat-malware-targets-windows-and.html",
+          "publishedOn": "2025-06-04T12:55:00.000Z",
+          "wordCount": null,
+          "title": "Chaos RAT Malware Targets Windows and Linux via Fake Network Tool Downloads",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1WqnPcDyWJ3uiAN4a2ONPR4vLEQfXtL4EdsoAr3Z5feXnDzi9c0FyIoDGrNJfVGLe31ff0_bv0IUywyit7MSjzvRKaoHT2ZXU4v4FoJjlsihJLiF7V92SMuJRB28RqgcR95O75cf4zoJPQhzbxLriyqWTfDuTGoU_jI8qzqZjD04Lyeiy55q8tgWGShTw/s1600/xm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1WqnPcDyWJ3uiAN4a2ONPR4vLEQfXtL4EdsoAr3Z5feXnDzi9c0FyIoDGrNJfVGLe31ff0_bv0IUywyit7MSjzvRKaoHT2ZXU4v4FoJjlsihJLiF7V92SMuJRB28RqgcR95O75cf4zoJPQhzbxLriyqWTfDuTGoU_jI8qzqZjD04Lyeiy55q8tgWGShTw/s1600/xm.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/your-saas-data-isnt-safe-why.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Traditional data leakage prevention (DLP) tools aren't keeping pace with the realities of how modern businesses use SaaS applications.\nCompanies today rely heavily on SaaS platforms like Google Workspace, Salesforce, Slack, and generative AI tools, significantly altering the way sensitive information is handled. In these environments, data rarely appears as traditional files or crosses networks",
@@ -22544,16 +22560,6 @@
           "wordCount": 4640,
           "title": "Google Launches Flow, An AI Filmmaking Tool",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/Google-Flow.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=352388",
-          "author": "Ikmal Rozlan",
-          "description": "At this year’s Google I/O event, the tech giant announced a major overhaul of its search engine with a wider release of its AI Mode feature. First revealed as an experimental tool earlier this year, the feature will now be rolling it out for all users in the U.S., but it is unknown if or […]\nThe post Google Starts Rolling Out AI Mode In Search appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/352388/google-ai-mode-search/",
-          "publishedOn": "2025-05-21T03:04:21.000Z",
-          "wordCount": 4843,
-          "title": "Google Starts Rolling Out AI Mode In Search",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/Google-AI-Mode.jpg"
         }
       ]
     },
@@ -22562,6 +22568,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/beware-device-code-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "Hackers are exploiting trusted authentication flows — like Microsoft Teams and IoT logins — to trick users into handing over access tokens, bypassing MFA and slipping undetected into corporate networks.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/beware-device-code-phishing",
+          "publishedOn": "2025-06-04T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Beware of Device Code Phishing",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/how-to-approach-security-era-ai-agents",
           "author": "Chris Betz",
