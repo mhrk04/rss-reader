@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-05T20:09:04.969Z</updated>
+    <updated>2025-06-05T20:37:23.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco Warns of Credential Vuln on AWS, Azure, Oracle Cloud]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability"/>
+        <updated>2025-06-05T20:29:49.000Z</updated>
+        <summary type="html"><![CDATA[The vulnerability, with a 9.9 CVSS score on a 10-point scale, results in different Cisco ISE deployments all sharing the same credentials as long as the software release and cloud platform remain the same.]]></summary>
+        <author>
+            <name>Kristina Beek, Associate Editor, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Backdoored Malware Reels in Newbie Cybercriminals]]></title>
         <id>https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals</id>
@@ -3819,17 +3829,6 @@ Core workflows, like]]></summary>
 The post HONOR 400 Series Now Official In Malaysia; Starts From RM1,899 appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections]]></title>
-        <id>https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html</id>
-        <link href="https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html"/>
-        <updated>2025-05-22T08:24:00.000Z</updated>
-        <summary type="html"><![CDATA[A sprawling operation undertaken by global law enforcement agencies and a consortium of private sector firms has disrupted the online infrastructure associated with a commodity information stealer known as Lumma (aka LummaC or LummaC2), seizing 2,300 domains that acted as the command-and-control (C2) backbone to commandeer infected Windows systems.
-"Malware like LummaC2 is deployed to steal]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>

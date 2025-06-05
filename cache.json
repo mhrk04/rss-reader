@@ -20412,22 +20412,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz1i_SJod2N1IIJAbqTIPQONEfYiGbRoZEts5Z2nm2KEfvsHjE_eM3-ifq7iv8k3CfEkcVzfr1XWsImOMKAZqLzomD9C3ODqUkMUKzaYz9ucsulxuQod8u4PmSWTOdV4jAOqX9iihPTQ5rNm61Nu3Df0C5RwsKqEQXhVUsWu_HeqW_rKCa9Bx5xXoZAKCI/s1600/main.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz1i_SJod2N1IIJAbqTIPQONEfYiGbRoZEts5Z2nm2KEfvsHjE_eM3-ifq7iv8k3CfEkcVzfr1XWsImOMKAZqLzomD9C3ODqUkMUKzaYz9ucsulxuQod8u4PmSWTOdV4jAOqX9iihPTQ5rNm61Nu3Df0C5RwsKqEQXhVUsWu_HeqW_rKCa9Bx5xXoZAKCI/s1600/main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A sprawling operation undertaken by global law enforcement agencies and a consortium of private sector firms has disrupted the online infrastructure associated with a commodity information stealer known as Lumma (aka LummaC or LummaC2), seizing 2,300 domains that acted as the command-and-control (C2) backbone to commandeer infected Windows systems.\n\"Malware like LummaC2 is deployed to steal",
-          "link": "https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html",
-          "publishedOn": "2025-05-22T08:24:00.000Z",
-          "wordCount": null,
-          "title": "FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikGCPlUk-rEpenfZk9s43VI3ICWl_UMBo7oHVNcA7Oe3QJx05-Ol8m6vaYYfye9SDBP3vvrgaS61XGKDA1x298KvH4TCjBd5qSf9CF5zj_PAp2pA7rynRcKA7J2Eb_iWDKDuICw9rcMd4uxRfFlE1ixZrAqUCcmU5V8aAgDMArW4q1PkBLWEYYjMWUZ-63/s1600/lumma-stealer.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikGCPlUk-rEpenfZk9s43VI3ICWl_UMBo7oHVNcA7Oe3QJx05-Ol8m6vaYYfye9SDBP3vvrgaS61XGKDA1x298KvH4TCjBd5qSf9CF5zj_PAp2pA7rynRcKA7J2Eb_iWDKDuICw9rcMd4uxRfFlE1ixZrAqUCcmU5V8aAgDMArW4q1PkBLWEYYjMWUZ-63/s1600/lumma-stealer.jpg"
         }
       ]
     },
@@ -22448,6 +22432,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability",
+          "author": "Kristina Beek, Associate Editor, Dark Reading",
+          "description": "The vulnerability, with a 9.9 CVSS score on a 10-point scale, results in different Cisco ISE deployments all sharing the same credentials as long as the software release and cloud platform remain the same.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability",
+          "publishedOn": "2025-06-05T20:29:49.000Z",
+          "wordCount": null,
+          "title": "Cisco Warns of Credential Vuln on AWS, Azure, Oracle Cloud",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals",
           "author": "Kristina Beek, Associate Editor, Dark Reading",
