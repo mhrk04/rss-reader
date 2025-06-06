@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical infrastructure entity within Ukraine was targeted by a previously unseen data wiper malware named PathWiper, according to new findings from Cisco Talos.\n\"The attack was instrumented via a legitimate endpoint administration framework, indicating that the attackers likely had access to the administrative console, that was then used to issue malicious commands and deploy PathWiper across",
+          "link": "https://thehackernews.com/2025/06/new-pathwiper-data-wiper-malware.html",
+          "publishedOn": "2025-06-06T08:35:00.000Z",
+          "wordCount": null,
+          "title": "New PathWiper Data Wiper Malware Disrupts Ukrainian Critical Infrastructure in 2025 Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg88cM56QO2lu5tuNi1VH5RdDz3kCwV6QiLvk5nb2IwtEGWC4MELJVr-Y8i3h-7g4Od8Qf1I_3UAVeQQMCYAZCmJB2ftkC2I4Jk4GfNfIVS-BDZq6HWxwx-d1VA5aiAxWPpGm1oBMzruIbnprTqOUb1CYjQffSz3dmNeCW3tp7A5Xw_MAatNfRPki7iT5oW/s1600/critical.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg88cM56QO2lu5tuNi1VH5RdDz3kCwV6QiLvk5nb2IwtEGWC4MELJVr-Y8i3h-7g4Od8Qf1I_3UAVeQQMCYAZCmJB2ftkC2I4Jk4GfNfIVS-BDZq6HWxwx-d1VA5aiAxWPpGm1oBMzruIbnprTqOUb1CYjQffSz3dmNeCW3tp7A5Xw_MAatNfRPki7iT5oW/s1600/critical.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have flagged several popular Google Chrome extensions that have been found to transmit data in HTTP and hard-code secrets in their code, exposing users to privacy and security risks.\n\n\"Several widely used extensions [...] unintentionally transmit sensitive data over simple HTTP,\" Yuanjing Guo, a security researcher in the Symantec's Security Technology and Response",
@@ -23134,26 +23150,6 @@
           "publishedOn": "2025-05-22T21:22:00.000Z",
           "wordCount": null,
           "title": "Picus Launches Exposure Validation to Safely Deprioritize CVEs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/following-data-breach-stalkerware-apps-offline",
-          "author": "Kristina Beek, Associate Editor, Dark Reading",
-          "description": "The same easily exploitable vulnerability was found in three of the apps that led to the compromise of victims' data.",
-          "link": "https://www.darkreading.com/threat-intelligence/following-data-breach-stalkerware-apps-offline",
-          "publishedOn": "2025-05-22T20:59:32.000Z",
-          "wordCount": null,
-          "title": "Following Data Breach, Multiple Stalkerware Apps Go Offline",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/russian-threat-actor-tag-110-phishing-tajikistan",
-          "author": "Alexander Culafi, Senior News Writer, Dark Reading",
-          "description": "While Ukraine remains Russia's major target for cyberattacks, TAG-110 is part of a strategy to preserve \"a post-Soviet sphere of influence\" by embedding itself in other countries' infrastructures.",
-          "link": "https://www.darkreading.com/threat-intelligence/russian-threat-actor-tag-110-phishing-tajikistan",
-          "publishedOn": "2025-05-22T20:53:11.000Z",
-          "wordCount": null,
-          "title": "Russian Threat Actor TAG-110 Goes Phishing in Tajikistan",
           "imageUrl": null
         }
       ]
