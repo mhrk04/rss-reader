@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-08T13:42:34.789Z</updated>
+    <updated>2025-06-08T14:07:36.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally]]></title>
+        <id>https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html</id>
+        <link href="https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html"/>
+        <updated>2025-06-08T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have flagged a supply chain attack targeting over a dozen packages associated with GlueStack to deliver malware.
+The malware, introduced via a change to "lib/commonjs/index.js," allows an attacker to run shell commands, take screenshots, and upload files to infected machines, Aikido Security told The Hacker News, stating these packages collectively account for nearly 1]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious Browser Extensions Infect 722 Users Across Latin America Since Early 2025]]></title>
         <id>https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html</id>
