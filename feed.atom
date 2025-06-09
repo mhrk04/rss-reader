@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-09T15:09:53.806Z</updated>
+    <updated>2025-06-09T15:43:17.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks]]></title>
+        <id>https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html</id>
+        <link href="https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html"/>
+        <updated>2025-06-09T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-patched critical security flaw in the Wazur Server is being exploited by threat actors to drop two different Mirai botnet variants and use them to conduct distributed denial-of-service (DDoS) attacks.
+Akamai, which first discovered the exploitation efforts in late March 2025, said the malicious campaign targets CVE-2025-24016 (CVSS score: 9.9), an unsafe deserialization vulnerability that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next-Gen Developers Are a Cybersecurity Powder Keg]]></title>
         <id>https://www.darkreading.com/application-security/next-gen-developers-cybersecurity-powder-keg</id>

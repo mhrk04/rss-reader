@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A now-patched critical security flaw in the Wazur Server is being exploited by threat actors to drop two different Mirai botnet variants and use them to conduct distributed denial-of-service (DDoS) attacks.\nAkamai, which first discovered the exploitation efforts in late March 2025, said the malicious campaign targets CVE-2025-24016 (CVSS score: 9.9), an unsafe deserialization vulnerability that",
+          "link": "https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html",
+          "publishedOn": "2025-06-09T14:46:00.000Z",
+          "wordCount": null,
+          "title": "Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfDPMX7yuptzb1FaCcJOmGr-IX_KdY_F3MpkRw4OScUqv2SHA8WQu6Uc2oLFbtCqxMD6UAMNrJBM-MqOZrpMvaEwFLbJIZRy7rCXXDEN3pHU7PQCvhghbmcU9vFK4xQ5VdA4rlOOsxEoES6YxF4OYSelt3yt7lmIuf5TrPFwdbXEN7gObcbwwpE-3sz4/s1600/botnet-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfDPMX7yuptzb1FaCcJOmGr-IX_KdY_F3MpkRw4OScUqv2SHA8WQu6Uc2oLFbtCqxMD6UAMNrJBM-MqOZrpMvaEwFLbJIZRy7rCXXDEN3pHU7PQCvhghbmcU9vFK4xQ5VdA4rlOOsxEoES6YxF4OYSelt3yt7lmIuf5TrPFwdbXEN7gObcbwwpE-3sz4/s1600/botnet-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/weekly-recap-chrome-0-day-data-wipers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Behind every security alert is a bigger story. Sometimes it’s a system being tested. Sometimes it’s trust being lost in quiet ways—through delays, odd behavior, or subtle gaps in control.\nThis week, we’re looking beyond the surface to spot what really matters. Whether it’s poor design, hidden access, or silent misuse, knowing where to look can make all the difference.\nIf you're responsible for",
