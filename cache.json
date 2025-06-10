@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The financially motivated threat actor known as FIN6 has been observed leveraging fake resumes hosted on Amazon Web Services (AWS) infrastructure to deliver a malware family called More_eggs.\n\"By posing as job seekers and initiating conversations through platforms like LinkedIn and Indeed, the group builds rapport with recruiters before delivering phishing messages that lead to malware,\" the",
+          "link": "https://thehackernews.com/2025/06/fin6-uses-aws-hosted-fake-resumes-on.html",
+          "publishedOn": "2025-06-10T16:46:00.000Z",
+          "wordCount": null,
+          "title": "FIN6 Uses AWS-Hosted Fake Resumes on LinkedIn to Deliver More_eggs Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1aIew0dMzgVR43OtsOhmtOrdh4QEeeUAbm583fCPfGDZjH-i35l0ttZ0mUNtC3XXGRnQQgJDO3-_rfIMw_ZWgqIaG2t0xzCXzzIRqFKwN5V4wRmNCvQiOnVvCC9S-MTmcgM_cEN8lHj0RQJXEiA5bQ55jEzgxeRzwoKSy9_6pWApC0VRrBILCKTxoqbt/s1600/resume.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1aIew0dMzgVR43OtsOhmtOrdh4QEeeUAbm583fCPfGDZjH-i35l0ttZ0mUNtC3XXGRnQQgJDO3-_rfIMw_ZWgqIaG2t0xzCXzzIRqFKwN5V4wRmNCvQiOnVvCC9S-MTmcgM_cEN8lHj0RQJXEiA5bQ55jEzgxeRzwoKSy9_6pWApC0VRrBILCKTxoqbt/s1600/resume.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/rust-based-myth-stealer-malware-spread.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have shed light on a previously undocumented Rust-based information stealer called Myth Stealer that's being propagated via fraudulent gaming websites.\n\"Upon execution, the malware displays a fake window to appear legitimate while simultaneously decrypting and executing malicious code in the background,\" Trellix security researchers Niranjan Hegde, Vasantha Lakshmanan",
@@ -22382,6 +22398,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/united-natural-foods-operations-cybersecurity-incident",
+          "author": "Kristina Beek, Associate Editor, Dark Reading",
+          "description": "It's unclear what kind of cyberattack occurred, but UNFI proactively took certain systems offline, which has disrupted the company's operations.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/united-natural-foods-operations-cybersecurity-incident",
+          "publishedOn": "2025-06-10T17:35:04.000Z",
+          "wordCount": null,
+          "title": "United Natural Food's Operations Limp Through Cybersecurity Incident",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/application-security/poisoned-npm-packages-disguised-utilities-system-wipeout",
           "author": "Elizabeth Montalbano, Contributing Writer",
