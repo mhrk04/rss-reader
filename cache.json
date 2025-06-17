@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a now-patched security flaw in LangChain's LangSmith platform that could be exploited to capture sensitive data, including API keys and user prompts.\nThe vulnerability, which carries a CVSS score of 8.8 out of a maximum of 10.0, has been codenamed AgentSmith by Noma Security.\nLangSmith is an observability and evaluation platform that allows users to",
+          "link": "https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html",
+          "publishedOn": "2025-06-17T17:33:00.000Z",
+          "wordCount": null,
+          "title": "LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjboK04qae6ROmN9SvuTL_L1nGVKtTigCYzX3Ll3qKNosiQRK2GZG6vVpHiDE1DjH2cAxEM9cjlJy8pJpXVjzlMdqZIc1tDnviG7V8lJcNvlvTszq6tqL5SEa37ADwNlgmUCmvr2O8Iu4s0hIcAzyio97RBgQVwPWH5kmpIvFDB8rxN_K1r9v8S_j9BxN0O/s1600/ai-security.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjboK04qae6ROmN9SvuTL_L1nGVKtTigCYzX3Ll3qKNosiQRK2GZG6vVpHiDE1DjH2cAxEM9cjlJy8pJpXVjzlMdqZIc1tDnviG7V8lJcNvlvTszq6tqL5SEa37ADwNlgmUCmvr2O8Iu4s0hIcAzyio97RBgQVwPWH5kmpIvFDB8rxN_K1r9v8S_j9BxN0O/s1600/ai-security.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are warning of a new phishing campaign that's targeting users in Taiwan with malware families such as HoldingHands RAT and Gh0stCringe.\nThe activity is part of a broader campaign that delivered the Winos 4.0 malware framework earlier this January by sending phishing messages impersonating Taiwan's National Taxation Bureau, Fortinet FortiGuard Labs said in a report",
