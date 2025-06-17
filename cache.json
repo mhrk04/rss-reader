@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have called attention to a new campaign that's actively exploiting a recently disclosed critical security flaw in Langflow to deliver the Flodrix botnet malware.\n\"Attackers use the vulnerability to execute downloader scripts on compromised Langflow servers, which in turn fetch and install the Flodrix malware,\" Trend Micro researchers Aliakbar Zahravi, Ahmed Mohamed",
+          "link": "https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html",
+          "publishedOn": "2025-06-17T09:32:00.000Z",
+          "wordCount": null,
+          "title": "New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch DDoS Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFZVmzcURB7mnjZ-xuTUrHVdYczMEBFSNw3b-PXGY0C57BX-c4ApOoudwQyEvnzH1BXtHwT3UPiKLzMvDJvKPOdvUSHEpObkex0BJIHmCBxYW_fygHd1FelmqWlg_3CeuxPQDIyL3LeaHfHWU7cQ8Fx69cipwpwszsdFSSDPemhJwwEhdnSzyy6TV2MJYn/s1600/Langflow-AI.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFZVmzcURB7mnjZ-xuTUrHVdYczMEBFSNw3b-PXGY0C57BX-c4ApOoudwQyEvnzH1BXtHwT3UPiKLzMvDJvKPOdvUSHEpObkex0BJIHmCBxYW_fygHd1FelmqWlg_3CeuxPQDIyL3LeaHfHWU7cQ8Fx69cipwpwszsdFSSDPemhJwwEhdnSzyy6TV2MJYn/s1600/Langflow-AI.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/tp-link-router-flaw-cve-2023-33538.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw in TP-Link wireless routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. \nThe vulnerability in question is CVE-2023-33538 (CVSS score: 8.8), a command injection bug that could result in the execution of arbitrary system commands when",
@@ -20324,6 +20340,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=356134",
+          "author": "Keran",
+          "description": "Audi has recently revealed the third generation of its bestselling SUV, the Q3. The car comes in three variants – two being mild-hybrid system and the other being an e-hybrid. Before we indulge in what’s under the hood of the Q3, lets take a look at its design. Since the SUV is built on the […]\nThe post Audi Reveals All-New Third Generation Q3 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/356134/audi-reveals-all-new-third-generation-q3/",
+          "publishedOn": "2025-06-17T10:29:04.000Z",
+          "wordCount": 11107,
+          "title": "Audi Reveals All-New Third Generation Q3",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/Audi-Q3-A250797_large-1024x768.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=356120",
           "author": "Nurul Kamil",
@@ -23114,16 +23140,6 @@
           "publishedOn": "2025-06-03T14:00:00.000Z",
           "wordCount": null,
           "title": "Is Your CISO Navigating Your Flight Path?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/open-weight-chinese-ai-models-drive-privacy-innovation-llm",
-          "author": "Laura Koetzle, Omer Akgul",
-          "description": "Edge computing and stricter regulations may usher in a new era of AI privacy.",
-          "link": "https://www.darkreading.com/cyber-risk/open-weight-chinese-ai-models-drive-privacy-innovation-llm",
-          "publishedOn": "2025-06-02T22:22:22.000Z",
-          "wordCount": null,
-          "title": "Open-Weight Chinese AI Models Drive Privacy Innovation in LLMs",
           "imageUrl": null
         }
       ]
