@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-17T19:07:16.353Z</updated>
+    <updated>2025-06-17T19:46:13.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor]]></title>
+        <id>https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html</id>
+        <link href="https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html"/>
+        <updated>2025-06-17T19:16:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-patched security flaw in Google Chrome was exploited as a zero-day by a threat actor known as TaxOff to deploy a backdoor codenamed Trinper.
+The attack, observed in mid-March 2025 by Positive Technologies, involved the use of a sandbox escape vulnerability tracked as CVE-2025-2783 (CVSS score: 8.3).
+Google addressed the flaw later that month after Kaspersky reported in-the-wild]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents]]></title>
         <id>https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html</id>
@@ -3723,28 +3735,6 @@ The post Malaysia To Tackle EV Battery Waste With Responsibility Policy appeared
         <summary type="html"><![CDATA[Google has revealed that it will no longer trust digital certificates issued by Chunghwa Telecom and Netlock citing "patterns of concerning behavior observed over the past year."
 The changes are expected to be introduced in Chrome 139, which is scheduled for public release in early August 2025. The current major version is 137. 
 The update will affect all Transport Layer Security (TLS)]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qualcomm Snapdragon X2 Elite May Get 18 Cores, 64GB RAM]]></title>
-        <id>https://www.lowyat.net/?p=354613</id>
-        <link href="https://www.lowyat.net/2025/354613/qualcomm-snapdragon-x2-elite-18-cores-64gb-ram/"/>
-        <updated>2025-06-03T07:45:57.000Z</updated>
-        <summary type="html"><![CDATA[The Qualcomm Snapdragon X Elite kicked off the wave of ARM-based Windows laptops. It’s no real surprise that the company is working on the next generation of laptop chips, and thanks to serial leakster Roland Quandt, we now know a bit of what it entails. This includes a simple, but maybe not necessarily as intuitive, […]
-The post Qualcomm Snapdragon X2 Elite May Get 18 Cores, 64GB RAM appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft and CrowdStrike Launch Shared Threat Actor Glossary to Cut Attribution Confusion]]></title>
-        <id>https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html</id>
-        <link href="https://thehackernews.com/2025/06/microsoft-and-crowdstrike-launch-shared.html"/>
-        <updated>2025-06-03T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft and CrowdStrike have announced that they are teaming up to align their individual threat actor taxonomies by publishing a new joint threat actor mapping.
-"By mapping where our knowledge of these actors align, we will provide security professionals with the ability to connect insights faster and make decisions with greater confidence," Vasu Jakkal, corporate vice president at Microsoft]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
