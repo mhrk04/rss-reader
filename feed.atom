@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-18T16:50:59.014Z</updated>
+    <updated>2025-06-18T17:10:37.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains]]></title>
+        <id>https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html</id>
+        <link href="https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html"/>
+        <updated>2025-06-18T15:41:00.000Z</updated>
+        <summary type="html"><![CDATA[A new campaign is making use of Cloudflare Tunnel subdomains to host malicious payloads and deliver them via malicious attachments embedded in phishing emails.
+The ongoing campaign has been codenamed SERPENTINE#CLOUD by Securonix.
+It leverages "the Cloudflare Tunnel infrastructure and Python-based loaders to deliver memory-injected payloads through a chain of shortcut files and obfuscated]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub]]></title>
         <id>https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html</id>

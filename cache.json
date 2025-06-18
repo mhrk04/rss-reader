@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new campaign is making use of Cloudflare Tunnel subdomains to host malicious payloads and deliver them via malicious attachments embedded in phishing emails.\nThe ongoing campaign has been codenamed SERPENTINE#CLOUD by Securonix.\nIt leverages \"the Cloudflare Tunnel infrastructure and Python-based loaders to deliver memory-injected payloads through a chain of shortcut files and obfuscated",
+          "link": "https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html",
+          "publishedOn": "2025-06-18T15:41:00.000Z",
+          "wordCount": null,
+          "title": "New Malware Campaign Uses Cloudflare Tunnels to Deliver RATs via Phishing Chains",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxbiXHon_ArATPX2DpSiGenkdx_6HfDPiS2s5ll3MYDTw3o9ujGhPuV-rgzlIkfMN7PWWupt3xojQ7fLXxz8YOavdbxae28I2ENSa4G83FEpSy1jGxMxKSbxXD2dNyLy8c2_W0gM7fTBY6STTMnE_HhbAbAVyeFEc3ua_2eDrUZf0YRhsHoMzCueSGRpz/s1600/cmd.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxbiXHon_ArATPX2DpSiGenkdx_6HfDPiS2s5ll3MYDTw3o9ujGhPuV-rgzlIkfMN7PWWupt3xojQ7fLXxz8YOavdbxae28I2ENSa4G83FEpSy1jGxMxKSbxXD2dNyLy8c2_W0gM7fTBY6STTMnE_HhbAbAVyeFEc3ua_2eDrUZf0YRhsHoMzCueSGRpz/s1600/cmd.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new multi-stage malware campaign is targeting Minecraft users with a Java-based malware that employs a distribution-as-service (DaaS) offering called Stargazers Ghost Network.\n\"The campaigns resulted in a multi-stage attack chain targeting Minecraft users specifically,\" Check Point researchers Jaromír Hořejší and Antonis Terefos said in a report shared with The Hacker News.\n\"The malware was",
