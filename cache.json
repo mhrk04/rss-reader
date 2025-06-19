@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered two local privilege escalation (LPE) flaws that could be exploited to gain root privileges on machines running major Linux distributions.\nThe vulnerabilities, discovered by Qualys, are listed below -\n\nCVE-2025-6018 - LPE from unprivileged to allow_active in SUSE 15's Pluggable Authentication Modules (PAM)\nCVE-2025-6019 - LPE from allow_active to root in",
+          "link": "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html",
+          "publishedOn": "2025-06-19T03:33:00.000Z",
+          "wordCount": null,
+          "title": "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXov8Cx_igQW4qij-AsFmuK3PvE_68RZF_35cguvWlQV8pWKAVOOf1DIWk6ZpL8eriWkF1Pdwlkx7GmolL2yQeknbGs1F7QwEdF6Bu3dvIl6t7CatxuL7USxwGjM166GTEcOq-XK3g_bteqdnY27DijtddyJhVZ3M8PVBoXN5cqb7_h9UVwKBs0h1O3omK/s1600/Linux-LPE.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXov8Cx_igQW4qij-AsFmuK3PvE_68RZF_35cguvWlQV8pWKAVOOf1DIWk6ZpL8eriWkF1Pdwlkx7GmolL2yQeknbGs1F7QwEdF6Bu3dvIl6t7CatxuL7USxwGjM166GTEcOq-XK3g_bteqdnY27DijtddyJhVZ3M8PVBoXN5cqb7_h9UVwKBs0h1O3omK/s1600/Linux-LPE.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/new-malware-campaign-uses-cloudflare.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new campaign is making use of Cloudflare Tunnel subdomains to host malicious payloads and deliver them via malicious attachments embedded in phishing emails.\nThe ongoing campaign has been codenamed SERPENTINE#CLOUD by Securonix.\nIt leverages \"the Cloudflare Tunnel infrastructure and Python-based loaders to deliver memory-injected payloads through a chain of shortcut files and obfuscated",
@@ -20388,6 +20404,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=356306",
+          "author": "Ian Chee",
+          "description": "HP has introduced two products for its workstation catalogue, and while one is a laptop and another is, technically speaking, a desktop, both are fairly portable if you choose to use them that way. Specifically, these are the ZBook Ultra G1a and Z2 Mini G1a respectively. Beyond the G1a in their names, another thing they […]\nThe post HP Launches ZBook Ultra G1a Laptop, Z2 Mini G1a Desktop Workstations appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/356306/hp-zbook-ultra-g1a-z2-mini-g1a-workstations/",
+          "publishedOn": "2025-06-19T04:15:57.000Z",
+          "wordCount": 10721,
+          "title": "HP Launches ZBook Ultra G1a Laptop, Z2 Mini G1a Desktop Workstations",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/HP-ZBook-Ultra-G1a.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=356313",
+          "author": "Nurul Kamil",
+          "description": "Ahead of the launch of the Nothing Phone (3), the company has been inundating us with teaser after teaser to build hype around the phone. A recent post confirmed that the device will be running on a Snapdragon 8s Gen 4 chipset, and Nothing has now revealed that software support timelines were one of the […]\nThe post Nothing Phone (3) To Get Seven Years Of Software Support appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/356313/nothing-phone-3-to-get-seven-years-of-software-support/",
+          "publishedOn": "2025-06-19T04:10:33.000Z",
+          "wordCount": 10400,
+          "title": "Nothing Phone (3) To Get Seven Years Of Software Support",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/nothing-phone-3-chipset-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=356301",
           "author": "Heirul Kamel",
