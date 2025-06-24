@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-24T02:41:31.977Z</updated>
+    <updated>2025-06-24T03:42:12.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China-linked Salt Typhoon Exploits Critical Cisco Vulnerability to Target Canadian Telecom]]></title>
+        <id>https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html</id>
+        <link href="https://thehackernews.com/2025/06/china-linked-salt-typhoon-exploits.html"/>
+        <updated>2025-06-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Canadian Centre for Cyber Security and the U.S. Federal Bureau of Investigation (FBI) have issued an advisory warning of cyber attacks mounted by the China-linked Salt Typhoon actors to breach major global telecommunications providers as part of a cyber espionage campaign.
+The attackers exploited a critical Cisco IOS XE software (CVE-2023-20198, CVSS score: 10.0) to access configuration]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next Samsung Unpacked Taking Place On 9 July 2025]]></title>
         <id>https://www.lowyat.net/?p=356707</id>
@@ -3426,28 +3437,6 @@ The post Apple Introduces New Studio-Quality Audio Recording, Camera Remote Feat
 The post Apple Unveils New “Liquid Glass” Redesign, Year-Based Naming For All Platforms appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 70 Organizations Across Multiple Sectors Targeted by China-Linked Cyber Espionage Group]]></title>
-        <id>https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html</id>
-        <link href="https://thehackernews.com/2025/06/over-70-organizations-across-multiple.html"/>
-        <updated>2025-06-09T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The reconnaissance activity targeting American cybersecurity company SentinelOne was part of a broader set of partially-related intrusions into several targets between July 2024 and March 2025.
-"The victimology includes a South Asian government entity, a European media organization, and more than 70 organizations across a wide range of sectors," security researchers Aleksandar Milenkoski and Tom]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Distinct Botnets Exploit Wazuh Server Vulnerability to Launch Mirai-Based Attacks]]></title>
-        <id>https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html</id>
-        <link href="https://thehackernews.com/2025/06/botnet-wazuh-server-vulnerability.html"/>
-        <updated>2025-06-09T14:46:00.000Z</updated>
-        <summary type="html"><![CDATA[A now-patched critical security flaw in the Wazur Server is being exploited by threat actors to drop two different Mirai botnet variants and use them to conduct distributed denial-of-service (DDoS) attacks.
-Akamai, which first discovered the exploitation efforts in late March 2025, said the malicious campaign targets CVE-2025-24016 (CVSS score: 9.9), an unsafe deserialization vulnerability that]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
