@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-24T14:09:55.988Z</updated>
+    <updated>2025-06-24T14:45:24.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Find Way to Shut Down Cryptominer Campaigns Using Bad Shares and XMRogue]]></title>
+        <id>https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html</id>
+        <link href="https://thehackernews.com/2025/06/researchers-find-way-to-shut-down.html"/>
+        <updated>2025-06-24T14:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have detailed two novel methods that can be used to disrupt cryptocurrency mining botnets.
+The methods take advantage of the design of various common mining topologies in order to shut down the mining process, Akamai said in a new report published today.
+"We developed two techniques by leveraging the mining topologies and pool policies that enable us to reduce a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the US Military Is Redefining Zero Trust]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/how-us-military-redefining-zero-trust</id>
@@ -14,6 +26,19 @@
         <summary type="html"><![CDATA[Trust no longer comes from network boundaries alone but from continuously validating and protecting data and identities at every interaction.]]></summary>
         <author>
             <name>Kelly Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers]]></title>
+        <id>https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html</id>
+        <link href="https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html"/>
+        <updated>2025-06-24T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Unidentified threat actors have been observed targeting publicly exposed Microsoft Exchange servers to inject malicious code into the login pages that harvest their credentials.
+Positive Technologies, in a new analysis published last week, said it identified two different kinds of keylogger code written in JavaScript on the Outlook login page -
+
+Those that save collected data to a local file]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
