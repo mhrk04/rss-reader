@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "New research has uncovered continued risk from a known security weakness in Microsoft's Entra ID, potentially enabling malicious actors to achieve account takeovers in susceptible software-as-a-service (SaaS) applications.\nIdentity security company Semperis, in an analysis of 104 SaaS applications, found nine of them to be vulnerable to Entra ID cross-tenant nOAuth abuse.\nFirst disclosed by",
+          "link": "https://thehackernews.com/2025/06/noauth-vulnerability-still-affects-9-of.html",
+          "publishedOn": "2025-06-25T16:56:00.000Z",
+          "wordCount": null,
+          "title": "nOAuth Vulnerability Still Affects 9% of Microsoft Entra SaaS Apps Two Years After Discovery",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGYncjvO0vJFI8sTRcrFdOcYGrVJkd3hRVzA7bdG6bPHEupmoScTm-p2EDTJPl5xTk_QVnUVzhzx-ecDzEDRvw_RmUULMrEJ9vNX19y_03bdGHBfM-xoemhrvxKmk4Vn0ggN_APP0nizU7eoirtFeMIo5mpvx7-wPX9q3RRSwKb61TkH-iSr_TFjgy-B74/s1600/ms-entra.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGYncjvO0vJFI8sTRcrFdOcYGrVJkd3hRVzA7bdG6bPHEupmoScTm-p2EDTJPl5xTk_QVnUVzhzx-ecDzEDRvw_RmUULMrEJ9vNX19y_03bdGHBfM-xoemhrvxKmk4Vn0ggN_APP0nizU7eoirtFeMIo5mpvx7-wPX9q3RRSwKb61TkH-iSr_TFjgy-B74/s1600/ms-entra.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Citrix has released security updates to address a critical flaw affecting NetScaler ADC that it said has been exploited in the wild.\nThe vulnerability, tracked as CVE-2025-6543, carries a CVSS score of 9.2 out of a maximum of 10.0.\nIt has been described as a case of memory overflow that could result in unintended control flow and denial-of-service. However, successful exploitation requires the",
@@ -22245,16 +22261,6 @@
           "wordCount": 10036,
           "title": "vivo Claims Upcoming X Fold5 Will Work With Apple Watch",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/vivo-Fold-X5-Apple-Watch-Series-9.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=355502",
-          "author": "Ikmal Rozlan",
-          "description": "Last month, Infinix introduced the XPAD 20, a more affordable alternative to its gaming tablet, the XPAD GT. And while the brand has not announced the availability of the new tablet in Malaysia yet, it has made its way to the SIRIM database, indicating that it will be sold here soon. The XPAD 20 was […]\nThe post Infinix XPAD 20 Gets SIRIM Certification; Malaysian Arrival Imminent appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/355502/infinix-xpad-20-sirim/",
-          "publishedOn": "2025-06-11T05:03:07.000Z",
-          "wordCount": 9887,
-          "title": "Infinix XPAD 20 Gets SIRIM Certification; Malaysian Arrival Imminent",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/Infinix-XPAD-20.jpg"
         }
       ]
     },
