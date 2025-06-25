@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a fresh batch of malicious npm packages linked to the ongoing Contagious Interview operation originating from North Korea.\nAccording to Socket, the ongoing supply chain attack involves 35 malicious packages that were uploaded from 24 npm accounts. These packages have been collectively downloaded over 4,000 times. The complete list of the JavaScript",
+          "link": "https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html",
+          "publishedOn": "2025-06-25T08:12:00.000Z",
+          "wordCount": null,
+          "title": "North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgad7RITmYNALavN0pIhYVtIXUMEcvoQClnk3Zi2gP7Ot9JPI9SPMcOVaWI5M3UDkU1DEgsfi6GUFbjr-cSfMD5Z8jPlXlERCa9TidmOQxwo48NYsOU1iBfQAV111FNzWoTfM1rg0Cem7C6h7dt0I8zQFTsEhYqPxxJ7oYtuqEUwJFJJdUMVK6NwmD7CdAH/s1600/npm-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgad7RITmYNALavN0pIhYVtIXUMEcvoQClnk3Zi2gP7Ot9JPI9SPMcOVaWI5M3UDkU1DEgsfi6GUFbjr-cSfMD5Z8jPlXlERCa9TidmOQxwo48NYsOU1iBfQAV111FNzWoTfM1rg0Cem7C6h7dt0I8zQFTsEhYqPxxJ7oYtuqEUwJFJJdUMVK6NwmD7CdAH/s1600/npm-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/microsoft-extends-windows-10-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Tuesday announced that it's extending Windows 10 Extended Security Updates (ESU) for an extra year by letting users either pay a small fee of $30 or by sync their PC settings to the cloud.\nThe development comes ahead of the tech giant's upcoming October 14, 2025, deadline, when it plans to officially end support and stop providing security updates for devices running Windows 10. The",
@@ -22795,16 +22811,6 @@
           "publishedOn": "2025-06-10T21:56:46.000Z",
           "wordCount": null,
           "title": "Stealth Falcon APT Exploits Microsoft RCE Zero-Day in Mideast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "The flaw allows an authenticated attacker to gain complete control over a Roundcube webmail server.",
-          "link": "https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat",
-          "publishedOn": "2025-06-10T20:52:42.000Z",
-          "wordCount": null,
-          "title": "PoC Code Escalates Roundcube Vuln Threat",
           "imageUrl": null
         }
       ]

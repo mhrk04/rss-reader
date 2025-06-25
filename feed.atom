@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-25T08:14:07.275Z</updated>
+    <updated>2025-06-25T08:52:46.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea-linked Supply Chain Attack Targets Developers with 35 Malicious npm Packages]]></title>
+        <id>https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html</id>
+        <link href="https://thehackernews.com/2025/06/north-korea-linked-supply-chain-attack.html"/>
+        <updated>2025-06-25T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a fresh batch of malicious npm packages linked to the ongoing Contagious Interview operation originating from North Korea.
+According to Socket, the ongoing supply chain attack involves 35 malicious packages that were uploaded from 24 npm accounts. These packages have been collectively downloaded over 4,000 times. The complete list of the JavaScript]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Africa Sees Surge in Cybercrime as Law Enforcement Struggles]]></title>
         <id>https://www.darkreading.com/cyber-risk/africa-surge-cybercrime-law-enforcement-struggles</id>
@@ -3347,16 +3358,6 @@ The post Alleged Nothing Phone (3) Render Appears Online appeared first on Lowya
         <summary type="html"><![CDATA[The bug is one of 66 disclosed and patched today by Microsoft as part of its June 2025 Patch Tuesday set of security vulnerability fixes.]]></summary>
         <author>
             <name>Tara Seals</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PoC Code Escalates Roundcube Vuln Threat]]></title>
-        <id>https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat</id>
-        <link href="https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat"/>
-        <updated>2025-06-10T20:52:42.000Z</updated>
-        <summary type="html"><![CDATA[The flaw allows an authenticated attacker to gain complete control over a Roundcube webmail server.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer</name>
         </author>
     </entry>
     <entry>
