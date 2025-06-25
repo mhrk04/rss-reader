@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-25T16:12:02.620Z</updated>
+    <updated>2025-06-25T16:50:50.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dire Wolf Ransomware Comes Out Snarling, Bites Technology, Manufacturing]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/dire-wolf-ransomware-manufacturing-technology</id>
+        <link href="https://www.darkreading.com/threat-intelligence/dire-wolf-ransomware-manufacturing-technology"/>
+        <updated>2025-06-25T16:27:19.000Z</updated>
+        <summary type="html"><![CDATA[The emerging group has already gotten its teeth into 16 victims since May with its double extortion tactics, claiming victims in 11 countries, including the US, Thailand, and Taiwan.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hundreds of MCP Servers Expose AI Models to Abuse, RCE]]></title>
         <id>https://www.darkreading.com/cloud-security/hundreds-mcp-servers-ai-models-abuse-rce</id>
@@ -14,6 +24,18 @@
         <summary type="html"><![CDATA[The servers that connect AI with real-world data are occasionally wide-open channels for cyberattacks.]]></summary>
         <author>
             <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citrix Releases Emergency Patches for Actively Exploited CVE-2025-6543 in NetScaler ADC]]></title>
+        <id>https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html</id>
+        <link href="https://thehackernews.com/2025/06/citrix-releases-emergency-patches-for.html"/>
+        <updated>2025-06-25T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Citrix has released security updates to address a critical flaw affecting NetScaler ADC that it said has been exploited in the wild.
+The vulnerability, tracked as CVE-2025-6543, carries a CVSS score of 9.2 out of a maximum of 10.0.
+It has been described as a case of memory overflow that could result in unintended control flow and denial-of-service. However, successful exploitation requires the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
