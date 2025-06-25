@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-06-25T13:09:31.938Z</updated>
+    <updated>2025-06-25T13:52:14.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure]]></title>
+        <id>https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html</id>
+        <link href="https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html"/>
+        <updated>2025-06-25T13:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have detailed two now-patched security flaws in SAP Graphical User Interface (GUI) for Windows and Java that, if successfully exploited, could have enabled attackers to access sensitive information under certain conditions.
+The vulnerabilities, tracked as CVE-2025-0055 and CVE-2025-0056 (CVSS scores: 6.0), were patched by SAP as part of its monthly updates for January]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XOR Marks the Flaw in SAP GUI]]></title>
         <id>https://www.darkreading.com/cloud-security/xor-flaw-sap-gui</id>
