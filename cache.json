@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a critical vulnerability in the Open VSX Registry (\"open-vsx[.]org\") that, if successfully exploited, could have enabled attackers to take control of the entire Visual Studio Code extensions marketplace, posing a severe supply chain risk.\n\"This vulnerability provides attackers full control over the entire extensions marketplace, and in turn, full control",
+          "link": "https://thehackernews.com/2025/06/critical-open-vsx-registry-flaw-exposes.html",
+          "publishedOn": "2025-06-26T16:46:00.000Z",
+          "wordCount": null,
+          "title": "Critical Open VSX Registry Flaw Exposes Millions of Developers to Supply Chain Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEHqPrHq7VmKAMERwPU9ds2PToOWXTPMLkzIZ3Or4-l3pIxtUnHLaajhJccDlqLZ91_9S7Np90S2W7dJibBBGcTUqmBeVo5WJoJlHcfB_W9oPMoqedq0gi3iPdKGWNSPb3TAlrBqk0KSLXUzI6aCTiNUlLyheRA7TG_nUUjXuTrEJse0LIiuPMRfF9xsV/s1600/openvsx.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEHqPrHq7VmKAMERwPU9ds2PToOWXTPMLkzIZ3Or4-l3pIxtUnHLaajhJccDlqLZ91_9S7Np90S2W7dJibBBGcTUqmBeVo5WJoJlHcfB_W9oPMoqedq0gi3iPdKGWNSPb3TAlrBqk0KSLXUzI6aCTiNUlLyheRA7TG_nUUjXuTrEJse0LIiuPMRfF9xsV/s1600/openvsx.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/06/critical-rce-flaws-in-cisco-ise-and-ise.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cisco has released updates to address two maximum-severity security flaws in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) that could permit an unauthenticated attacker to execute arbitrary commands as the root user.\nThe vulnerabilities, assigned the CVE identifiers CVE-2025-20281 and CVE-2025-20282, carry a CVSS score of 10.0 each. A description of the defects is",
@@ -22155,26 +22171,6 @@
           "wordCount": 10423,
           "title": "BMW Malaysia Launches New M5 G90 Hybrid For RM1,188,800",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/BMW-M5-Hybrid-photo_2025-06-12_11-29-38-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=355661",
-          "author": "John Law",
-          "description": "ASUS Malaysia announced the availability of its new TUF Gaming laptops. These laptops are refreshes of the existing range, with the main refreshed component being the NVIDIA GeForce RTX 50 Series laptop GPUs. In total, The new TUF Gaming series comprises three SKUs: the F16, A16, and A14. Starting with the F16, this model is […]\nThe post ASUS Malaysia Launches New TUF Gaming Laptops With NVIDIA RTX 50 Series appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/355661/asus-tuf-gaming-laptops-rtx-50-series/",
-          "publishedOn": "2025-06-12T06:48:41.000Z",
-          "wordCount": 10293,
-          "title": "ASUS Malaysia Launches New TUF Gaming Laptops With NVIDIA RTX 50 Series",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/ASUS-TUF-Gaming-RTX-50-Series-Launch-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=355690",
-          "author": "Nurul Kamil",
-          "description": "Nubia sub-brand Redmagic has officially launched its newest premium tablet, the Redmagic Gaming Tablet 3 Pro. Currently, the tablet is only available for the Chinese market, but the company has confirmed that it is releasing a global version in a few weeks. That said, at the moment it is uncertain whether the tablet will make […]\nThe post Redmagic Gaming Tablet 3 Pro Launches In China appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/355690/redmagic-gaming-tablet-3-pro-launches-in-china/",
-          "publishedOn": "2025-06-12T06:42:13.000Z",
-          "wordCount": 10175,
-          "title": "Redmagic Gaming Tablet 3 Pro Launches In China",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/redmagic-gaming-tablet-3-pro-4.jpg"
         }
       ]
     },
