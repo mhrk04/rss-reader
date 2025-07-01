@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-01T09:12:38.813Z</updated>
+    <updated>2025-07-01T09:45:13.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Patches Critical Zero-Day Flaw in Chrome’s V8 Engine After Active Exploitation]]></title>
+        <id>https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html</id>
+        <link href="https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html"/>
+        <updated>2025-07-01T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has released security updates to address a vulnerability in its Chrome browser for which an exploit exists in the wild.
+The zero-day vulnerability, tracked as CVE-2025-6554 (CVSS score: N/A), has been described as a type confusing flaw in the V8 JavaScript and WebAssembly engine.
+"Type confusion in V8 in Google Chrome prior to 138.0.7204.96 allowed a remote attacker to perform arbitrary]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Arrests Key Facilitator in North Korean IT Worker Scheme, Seizes $7.74 Million]]></title>
         <id>https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html</id>
