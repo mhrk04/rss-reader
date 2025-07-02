@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors with ties to North Korea have been observed targeting Web3 and cryptocurrency-related businesses with malware written in the Nim programming language, underscoring a constant evolution of their tactics.\n\"Unusually for macOS malware, the threat actors employ a process injection technique and remote communications via wss, the TLS-encrypted version of the WebSocket protocol,\"",
+          "link": "https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html",
+          "publishedOn": "2025-07-02T17:09:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyYZAr54elU-Z76djgWJmGN3wQO1bGkHghXmAPGjRWXDXtVIb8LSOknNNKtrHIkFDS2mPL2BnUQcIhHS5blZdO8hSWnclRJ64hhCLuF6EIIztB6aXQQQjiLPrwRg8ve-6dUWyZzoIqRI7WhFihMlxyXONLULK6MiprFnfLvrsDxAjmqiwh67WcT6dA0TD4/s1600/northkorean-hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyYZAr54elU-Z76djgWJmGN3wQO1bGkHghXmAPGjRWXDXtVIb8LSOknNNKtrHIkFDS2mPL2BnUQcIhHS5blZdO8hSWnclRJ64hhCLuF6EIIztB6aXQQQjiLPrwRg8ve-6dUWyZzoIqRI7WhFihMlxyXONLULK6MiprFnfLvrsDxAjmqiwh67WcT6dA0TD4/s1600/northkorean-hackers.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "With nearly 80% of cyber threats now mimicking legitimate user behavior, how are top SOCs determining what’s legitimate traffic and what is potentially dangerous?\nWhere do you turn when firewalls and endpoint detection and response (EDR) fall short at detecting the most important threats to your organization? Breaches at edge devices and VPN gateways have risen from 3% to 22%, according to",
@@ -20444,38 +20460,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivcxodMTmYUkrCeU_rEjUIhP_MyVylcULtqEJKgt7vvYx7IKgLJ64rLJyYfSGx2V9-3cE0hKh9YpUDLtTIPeU89iD5bI4wiDS5msIOqytoq979IClSRCcIpwKJM_K3jwmz3CHH4bvFzGGfqPWJkfpPSHWrx4u1v1z_XPVAO9c9q6mial50F9DF36Ob7RB0/s1600/github-trojan.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivcxodMTmYUkrCeU_rEjUIhP_MyVylcULtqEJKgt7vvYx7IKgLJ64rLJyYfSGx2V9-3cE0hKh9YpUDLtTIPeU89iD5bI4wiDS5msIOqytoq979IClSRCcIpwKJM_K3jwmz3CHH4bvFzGGfqPWJkfpPSHWrx4u1v1z_XPVAO9c9q6mial50F9DF36Ob7RB0/s1600/github-trojan.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday placed a security flaw impacting the Linux kernel in its Known Exploited Vulnerabilities (KEV) catalog, stating it has been actively exploited in the wild.\nThe vulnerability, CVE-2023-0386 (CVSS score: 7.8), is an improper ownership bug in the Linux kernel that could be exploited to escalate privileges on susceptible",
-          "link": "https://thehackernews.com/2025/06/cisa-warns-of-active-exploitation-of.html",
-          "publishedOn": "2025-06-18T06:43:00.000Z",
-          "wordCount": null,
-          "title": "CISA Warns of Active Exploitation of Linux Kernel Privilege Escalation Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLeHx1PBqUOOY6yZdqU5k5NOXyVL3tBd5pfVa7wZnok4nWRgDKyMxDO3xwMCLTh7sVoLCjOZ8h2KyIyejwjMZ1iUCY38DVrzPdW_YeG5wwm2Y_vixQHtzZmj0vCQx4pxdrXBiu_DSMTamRU4jDV_zXwaHZdSPiQ6GBZwBchacgT-v53YdtiWHrguu_BhCH/s1600/linux.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLeHx1PBqUOOY6yZdqU5k5NOXyVL3tBd5pfVa7wZnok4nWRgDKyMxDO3xwMCLTh7sVoLCjOZ8h2KyIyejwjMZ1iUCY38DVrzPdW_YeG5wwm2Y_vixQHtzZmj0vCQx4pxdrXBiu_DSMTamRU4jDV_zXwaHZdSPiQ6GBZwBchacgT-v53YdtiWHrguu_BhCH/s1600/linux.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A former U.S. Central Intelligence Agency (CIA) analyst has been sentenced to little more than three years in prison for unlawfully retaining and transmitting top secret National Defense Information (NDI) to people who were not entitled to receive them and for attempting to cover up the malicious activity.\nAsif William Rahman, 34, of Vienna, has been sentenced today to 37 months on charges of",
-          "link": "https://thehackernews.com/2025/06/ex-cia-analyst-sentenced-to-37-months.html",
-          "publishedOn": "2025-06-18T06:43:00.000Z",
-          "wordCount": null,
-          "title": "Ex-CIA Analyst Sentenced to 37 Months for Leaking Top Secret National Defense Documents",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKPhnNG_dPR7ag4ZCV7BIE7DJhmabj3E85Fy1rX-ROUbzJqTjVHs8GS8XT53kvioznqqUPQ6y1GSSPJwasNsX0cPVs8SydoX-tztiN64SiIFSU-3GwZ4YuL3aIUxTDngHPjqcc_jfQtN2Fq29MxVs6trLOIpIAyHX6L8VFg679x8Uzj-vtl2O7mIng12o4/s1600/cia.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKPhnNG_dPR7ag4ZCV7BIE7DJhmabj3E85Fy1rX-ROUbzJqTjVHs8GS8XT53kvioznqqUPQ6y1GSSPJwasNsX0cPVs8SydoX-tztiN64SiIFSU-3GwZ4YuL3aIUxTDngHPjqcc_jfQtN2Fq29MxVs6trLOIpIAyHX6L8VFg679x8Uzj-vtl2O7mIng12o4/s1600/cia.jpg"
         }
       ]
     },
@@ -21843,16 +21827,6 @@
           "wordCount": 10280,
           "title": "New Lossless Scaling 3.1 Update Offers 2x GPU Load Reduction",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/Lossless-Scaling-Update-3.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=356209",
-          "author": "Nurul Kamil",
-          "description": "TNG Digital has officially launched the TNG Digital Business Account, which is designed to help micro, small, and medium enterprises (MSMEs) and gig workers to manage their operations. The launch took place at the Hilton Petaling Jaya today and was officiated by Deputy Minister of Domestic Trade and Cost of Living YB Senator Dr. Hajah […]\nThe post TNG Digital Launches Business Account For MSMEs And Gig Workers appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/356209/tng-digital-business-accounts-msmes-gig-workers/",
-          "publishedOn": "2025-06-18T06:32:41.000Z",
-          "wordCount": 10369,
-          "title": "TNG Digital Launches Business Account For MSMEs And Gig Workers",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/tng-buisness-account-2.jpg"
         }
       ]
     },
