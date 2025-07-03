@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-03T15:10:10.039Z</updated>
+    <updated>2025-07-03T15:43:24.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[As attacks on software supply chains and third parties increase, more data on critical software and infrastructure services is being advertised and sold on the Dark Web.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Criminals Sending QR Codes in Phishing, Malware Campaigns]]></title>
+        <id>https://www.darkreading.com/endpoint-security/criminals-send-qr-codes-phishing</id>
+        <link href="https://www.darkreading.com/endpoint-security/criminals-send-qr-codes-phishing"/>
+        <updated>2025-07-03T13:23:44.000Z</updated>
+        <summary type="html"><![CDATA[The Anti-Phishing Working Group observed how attackers are increasingly abusing QR codes to conduct phishing attacks or to trick users into downloading malware.]]></summary>
+        <author>
+            <name>Arielle Waldman</name>
         </author>
     </entry>
     <entry>
@@ -2989,42 +2999,6 @@ The post HP Launches ZBook Ultra G1a Laptop, Z2 Mini G1a Desktop Workstations ap
 The post Nothing Phone (3) To Get Seven Years Of Software Support appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MITI Looking Into Reports Of Chinese AI Model Training In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=356301</id>
-        <link href="https://www.lowyat.net/2025/356301/miti-looking-into-reports-of-chinese-ai-model-training-in-malaysia/"/>
-        <updated>2025-06-19T03:35:15.000Z</updated>
-        <summary type="html"><![CDATA[The Ministry of Investment, Trade and Industry (MITI) has revealed that it is in the process of verifying recent reports alleging that a Chinese company used servers in Malaysia equipped with NVIDIA chips to train artificial intelligence (AI) models. The development follows a Wall Street Journal article which reported that Chinese engineers transported 80 terabytes […]
-The post MITI Looking Into Reports Of Chinese AI Model Training In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions]]></title>
-        <id>https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html</id>
-        <link href="https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html"/>
-        <updated>2025-06-19T03:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered two local privilege escalation (LPE) flaws that could be exploited to gain root privileges on machines running major Linux distributions.
-The vulnerabilities, discovered by Qualys, are listed below -
-
-CVE-2025-6018 - LPE from unprivileged to allow_active in SUSE 15's Pluggable Authentication Modules (PAM)
-CVE-2025-6019 - LPE from allow_active to root in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCMC Takes Legal Action Against Two Telegram Channels Over Harmful Content]]></title>
-        <id>https://www.lowyat.net/?p=356308</id>
-        <link href="https://www.lowyat.net/2025/356308/mcmc-legal-action-against-two-telegram-channels/"/>
-        <updated>2025-06-19T03:22:47.000Z</updated>
-        <summary type="html"><![CDATA[The Malaysian Communications and Multimedia Commission (MCMC) has launched civil court proceedings against two Telegram channels, “Edisi Siasat” and “Edisi Khas”, over alleged dissemination of content considered harmful and in violation of the Communications and Multimedia Act 1998. The regulator said the materials posted by both channels could potentially undermine public trust in national institutions […]
-The post MCMC Takes Legal Action Against Two Telegram Channels Over Harmful Content appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
         </author>
     </entry>
     <entry>
