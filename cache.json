@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Initial Access Broker (IAB) known as Gold Melody has been attributed to a campaign that exploits leaked ASP.NET machine keys to obtain unauthorized access to organizations and peddle that access to other threat actors.\nThe activity is being tracked by Palo Alto Networks Unit 42 under the moniker TGR-CRI-0045, where \"TGR\" stands for \"temporary group\" and \"CRI\" refers to criminal motivation.",
+          "link": "https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html",
+          "publishedOn": "2025-07-09T16:26:00.000Z",
+          "wordCount": null,
+          "title": "Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbnHkkhrcKaM2SSriDWC3-VJ-tr8NoRpc1XMdAremyOXlh3y_FTQAUbYGhbeM5k6m8Mlpx6e0XguB9qL9HT12P-mXWALcSBU0C9CNA8cbS_Fy0zAMqx1ikfKDxfZKRayG39BzrEq5YPHliYNB2UiOkkyDaLbLlmx_r8fS4tHB3mwn5AWZPhj_32e7r0LGq/s1600/machine-key.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbnHkkhrcKaM2SSriDWC3-VJ-tr8NoRpc1XMdAremyOXlh3y_FTQAUbYGhbeM5k6m8Mlpx6e0XguB9qL9HT12P-mXWALcSBU0C9CNA8cbS_Fy0zAMqx1ikfKDxfZKRayG39BzrEq5YPHliYNB2UiOkkyDaLbLlmx_r8fS4tHB3mwn5AWZPhj_32e7r0LGq/s1600/machine-key.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/donot-apt-expands-operations-targets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A threat actor with suspected ties to India has been observed targeting a European foreign affairs ministry with malware capable of harvesting sensitive data from compromised hosts.\nThe activity has been attributed by Trellix Advanced Research Center to an advanced persistent threat (APT) group called DoNot Team, which is also known as APT-C-35, Mint Tempest, Origami Elephant, SECTOR02, and",
@@ -21936,6 +21952,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes",
+          "author": "Alexander Culafi",
+          "description": "A container escape flaw involving the NVIDIA Container Toolkit could have enabled a threat actor to access AI datasets across tenants.",
+          "link": "https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes",
+          "publishedOn": "2025-07-09T19:07:39.000Z",
+          "wordCount": null,
+          "title": "A NVIDIA Container Bug &amp; Chance to Harden Kubernetes",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/endpoint-security/ai-malware-poc-evades-microsoft-defender",
           "author": "Nate Nelson, Contributing Writer",
