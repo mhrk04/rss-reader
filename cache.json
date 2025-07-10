@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a critical vulnerability in the open-source mcp-remote project that could result in the execution of arbitrary operating system (OS) commands.\nThe vulnerability, tracked as CVE-2025-6514, carries a CVSS score of 9.6 out of 10.0.\n\"The vulnerability allows attackers to trigger arbitrary OS command execution on the machine running mcp-remote when it",
+          "link": "https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html",
+          "publishedOn": "2025-07-10T17:03:00.000Z",
+          "wordCount": null,
+          "title": "Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_ne1qb2wVeVopwUzIqe6gZUOnM98DAxSfvEB2rSD4yxAQzeMRtq-8FDTwjlpbw9ZWqwtOISGcXyLCcPvmXglvPMXWGz_g-NBSR_lcz8mJsLwfsrmvchFR5x0ev4Mc9YcfFgzN5ziymACbinfLN3g8yPAdT-6Gk82_sbp0jB4ivjLCry0hKQgXArhGIiI_/s1600/mcp.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_ne1qb2wVeVopwUzIqe6gZUOnM98DAxSfvEB2rSD4yxAQzeMRtq-8FDTwjlpbw9ZWqwtOISGcXyLCcPvmXglvPMXWGz_g-NBSR_lcz8mJsLwfsrmvchFR5x0ev4Mc9YcfFgzN5ziymACbinfLN3g8yPAdT-6Gk82_sbp0jB4ivjLCry0hKQgXArhGIiI_/s1600/mcp.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cryptocurrency users are the target of an ongoing social engineering campaign that employs fake startup companies to trick users into downloading malware that can drain digital assets from both Windows and macOS systems.\n\"These malicious operations impersonate AI, gaming, and Web3 firms using spoofed social media accounts and project documentation hosted on legitimate platforms like Notion and",
@@ -20364,22 +20380,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwqEMXnJPN9ikn8KbQc7t12bBQpXeyhczXTnij6E2ADvDXORfUWxLmv6FKKnGCDevWxNQpqCQspMY2QsiQmSi64V0_gOtgtAkWY75sqSGmjSpxV7u08jDLkdHZwzLSQnXrhfTuVH6vLcGB44AV_FIZY2kXSLd9IMPhnbO3xWEcXPqJAavvU2HkWeLHu_Ss/s1600/attacker.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwqEMXnJPN9ikn8KbQc7t12bBQpXeyhczXTnij6E2ADvDXORfUWxLmv6FKKnGCDevWxNQpqCQspMY2QsiQmSi64V0_gOtgtAkWY75sqSGmjSpxV7u08jDLkdHZwzLSQnXrhfTuVH6vLcGB44AV_FIZY2kXSLd9IMPhnbO3xWEcXPqJAavvU2HkWeLHu_Ss/s1600/attacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three security flaws, each impacting AMI MegaRAC, D-Link DIR-859 router, and Fortinet FortiOS, to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-54085 (CVSS score: 10.0) - An authentication bypass by spoofing",
-          "link": "https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html",
-          "publishedOn": "2025-06-26T06:02:00.000Z",
-          "wordCount": null,
-          "title": "CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijp39CQ4QvYNQilrTuHyGLxEn9OG3fRwBM7zxOOd9OvTmV-wJWZUyYeQ-edA6sY1rT61Q9PlQCd0GZTvUANSDPSl6KMXJdxJwlsazabUhzmPDI3a3fkKpqvargYp9UzaZvs1HpT1Vmdie8DU3Wt9aTgDepQ-QmjMbhTb22IOqATFngE1zo5l3UTY0QNyJ-/s1600/cisa.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijp39CQ4QvYNQilrTuHyGLxEn9OG3fRwBM7zxOOd9OvTmV-wJWZUyYeQ-edA6sY1rT61Q9PlQCd0GZTvUANSDPSl6KMXJdxJwlsazabUhzmPDI3a3fkKpqvargYp9UzaZvs1HpT1Vmdie8DU3Wt9aTgDepQ-QmjMbhTb22IOqATFngE1zo5l3UTY0QNyJ-/s1600/cisa.jpg"
         }
       ]
     },
@@ -22658,16 +22658,6 @@
           "publishedOn": "2025-06-26T12:02:51.000Z",
           "wordCount": null,
           "title": "Taming Agentic AI Risks Requires Securing Non-Human Identities",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/iran-apt-spying-israeli-cybersecurity-experts",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "Israel's cyber pros are having to put theory into practice, as a notorious nation-state APT sponsored by Iran targets them with spear-phishing attacks.",
-          "link": "https://www.darkreading.com/threat-intelligence/iran-apt-spying-israeli-cybersecurity-experts",
-          "publishedOn": "2025-06-26T06:00:00.000Z",
-          "wordCount": null,
-          "title": "Charming Kitten APT Tries Spying on Israeli Cybersecurity Experts",
           "imageUrl": null
         }
       ]

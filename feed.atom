@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-10T17:44:30.208Z</updated>
+    <updated>2025-07-10T18:13:48.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical mcp-remote Vulnerability Enables Remote Code Execution, Impacting 437,000+ Downloads]]></title>
+        <id>https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html</id>
+        <link href="https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html"/>
+        <updated>2025-07-10T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a critical vulnerability in the open-source mcp-remote project that could result in the execution of arbitrary operating system (OS) commands.
+The vulnerability, tracked as CVE-2025-6514, carries a CVSS score of 9.6 out of 10.0.
+"The vulnerability allows attackers to trigger arbitrary OS command execution on the machine running mcp-remote when it]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fake Gaming and AI Firms Push Malware on Cryptocurrency Users via Telegram and Discord]]></title>
         <id>https://thehackernews.com/2025/07/fake-gaming-and-ai-firms-push-malware.html</id>
@@ -3177,29 +3189,6 @@ The post My50 Implementation Coming To TnG NFC Cards On 1 July 2025 appeared fir
 The post Mercedes G580 Debuts In Malaysia; Starts From RM958,888 appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet]]></title>
-        <id>https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html</id>
-        <link href="https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html"/>
-        <updated>2025-06-26T06:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three security flaws, each impacting AMI MegaRAC, D-Link DIR-859 router, and Fortinet FortiOS, to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-The list of vulnerabilities is as follows -
-
-CVE-2024-54085 (CVSS score: 10.0) - An authentication bypass by spoofing]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charming Kitten APT Tries Spying on Israeli Cybersecurity Experts]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/iran-apt-spying-israeli-cybersecurity-experts</id>
-        <link href="https://www.darkreading.com/threat-intelligence/iran-apt-spying-israeli-cybersecurity-experts"/>
-        <updated>2025-06-26T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Israel's cyber pros are having to put theory into practice, as a notorious nation-state APT sponsored by Iran targets them with spear-phishing attacks.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer</name>
         </author>
     </entry>
     <entry>
