@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-10T00:49:02.145Z</updated>
+    <updated>2025-07-10T02:44:46.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dyson OnTrac Lightning Review: Mostly On Track]]></title>
+        <id>https://www.lowyat.net/?p=358399</id>
+        <link href="https://www.lowyat.net/2025/358399/dyson-ontrac-lightning-review/"/>
+        <updated>2025-07-10T02:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Premium home appliance brand Dyson launched the OnTrac headphones last year, before quietly bringing it into the local market a couple of months ago. It is technically the brand’s second foray into the personal audio space, the first being the Zone that never made it here. On one hand, it’s probably not unfair to expect […]
+The post Dyson OnTrac Lightning Review: Mostly On Track appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North American APT Uses Exchange Zero-Day to Attack China]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china"/>
+        <updated>2025-07-10T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stories about Chinese APTs attacking the US and Canada are plentiful. In a turnabout, researchers found what they believe is a North American entity attacking a Chinese entity, thanks to a mysterious issue in Microsoft Exchange.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A NVIDIA Container Bug &amp; Chance to Harden Kubernetes]]></title>
         <id>https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes</id>
@@ -3046,37 +3067,6 @@ The vulnerability, tracked as CVE-2025-6543, carries a CVSS score of 9.2 out of 
 It has been described as a case of memory overflow that could result in unintended control flow and denial-of-service. However, successful exploitation requires the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI Exacerbates Software Supply Chain Risks]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/generative-ai-exacerbates-software-supply-chain-risks</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/generative-ai-exacerbates-software-supply-chain-risks"/>
-        <updated>2025-06-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Malicious actors are exploiting AI-fabricated software components — presenting a major challenge for securing software supply chains.]]></summary>
-        <author>
-            <name>Georgianna Shea, Elaine Ly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure]]></title>
-        <id>https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html</id>
-        <link href="https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html"/>
-        <updated>2025-06-25T13:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have detailed two now-patched security flaws in SAP Graphical User Interface (GUI) for Windows and Java that, if successfully exploited, could have enabled attackers to access sensitive information under certain conditions.
-The vulnerabilities, tracked as CVE-2025-0055 and CVE-2025-0056 (CVSS scores: 6.0), were patched by SAP as part of its monthly updates for January]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XOR Marks the Flaw in SAP GUI]]></title>
-        <id>https://www.darkreading.com/cloud-security/xor-flaw-sap-gui</id>
-        <link href="https://www.darkreading.com/cloud-security/xor-flaw-sap-gui"/>
-        <updated>2025-06-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The company has patched two vulnerabilities in its Graphical User Interface that would have allowed attackers to grab data from a user's input history feature.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer</name>
         </author>
     </entry>
     <entry>

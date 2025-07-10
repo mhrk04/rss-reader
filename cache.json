@@ -20332,22 +20332,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipLFt7vvVWEAYhYhatLmX3e6loWqb234F_W-IzS3_ppLUCpLCpyrJWovEXVcapEdyIdB_FZExFVgkrgjhOjpZ9rsHOjdDw-epr6ONTn8v6MCHbpbcIVFBmWR5-bgfQrWfYDqcPhCTeK59lo0KN5QYf6VN4vxCMMPNYsV-UILNRaIFEIHAdtUNAhSfNYYKG/s1600/citrix.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipLFt7vvVWEAYhYhatLmX3e6loWqb234F_W-IzS3_ppLUCpLCpyrJWovEXVcapEdyIdB_FZExFVgkrgjhOjpZ9rsHOjdDw-epr6ONTn8v6MCHbpbcIVFBmWR5-bgfQrWfYDqcPhCTeK59lo0KN5QYf6VN4vxCMMPNYsV-UILNRaIFEIHAdtUNAhSfNYYKG/s1600/citrix.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have detailed two now-patched security flaws in SAP Graphical User Interface (GUI) for Windows and Java that, if successfully exploited, could have enabled attackers to access sensitive information under certain conditions.\nThe vulnerabilities, tracked as CVE-2025-0055 and CVE-2025-0056 (CVSS scores: 6.0), were patched by SAP as part of its monthly updates for January",
-          "link": "https://thehackernews.com/2025/06/citrix-bleed-2-flaw-enables-token-theft.html",
-          "publishedOn": "2025-06-25T13:37:00.000Z",
-          "wordCount": null,
-          "title": "Citrix Bleed 2 Flaw Enables Token Theft; SAP GUI Flaws Risk Sensitive Data Exposure",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hWG2QFXy25EJg7fwCJuaBN77GZKrc3dfykmDL7vyHsN3MLxpMwUDM6UtYSBBkYD9hEbt8SZYBwxVMz9R4ZR9gCHgFZYdA6cH-i1gsF_fs9z2Tm0nqbtpdYFrDp9luBRWPbRY7kSiO-4tJIx8MpgLDNIwaQR5z-GTTdaV4Ju6aXvKj8CueuCfuJRHTPku/s1600/update.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0hWG2QFXy25EJg7fwCJuaBN77GZKrc3dfykmDL7vyHsN3MLxpMwUDM6UtYSBBkYD9hEbt8SZYBwxVMz9R4ZR9gCHgFZYdA6cH-i1gsF_fs9z2Tm0nqbtpdYFrDp9luBRWPbRY7kSiO-4tJIx8MpgLDNIwaQR5z-GTTdaV4Ju6aXvKj8CueuCfuJRHTPku/s1600/update.jpg"
         }
       ]
     },
@@ -20356,6 +20340,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=358399",
+          "author": "Ian Chee",
+          "description": "Premium home appliance brand Dyson launched the OnTrac headphones last year, before quietly bringing it into the local market a couple of months ago. It is technically the brand’s second foray into the personal audio space, the first being the Zone that never made it here. On one hand, it’s probably not unfair to expect […]\nThe post Dyson OnTrac Lightning Review: Mostly On Track appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/358399/dyson-ontrac-lightning-review/",
+          "publishedOn": "2025-07-10T02:00:23.000Z",
+          "wordCount": 12376,
+          "title": "Dyson OnTrac Lightning Review: Mostly On Track",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Dyson-OnTrac.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=358806",
           "author": "Nurul Kamil",
@@ -21859,6 +21853,16 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "Stories about Chinese APTs attacking the US and Canada are plentiful. In a turnabout, researchers found what they believe is a North American entity attacking a Chinese entity, thanks to a mysterious issue in Microsoft Exchange.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china",
+          "publishedOn": "2025-07-10T01:00:00.000Z",
+          "wordCount": null,
+          "title": "North American APT Uses Exchange Zero-Day to Attack China",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes",
           "author": "Alexander Culafi",
           "description": "A container escape flaw involving the NVIDIA Container Toolkit could have enabled a threat actor to access AI datasets across tenants.",
@@ -22526,26 +22530,6 @@
           "publishedOn": "2025-06-25T15:23:04.000Z",
           "wordCount": null,
           "title": "Hundreds of MCP Servers Expose AI Models to Abuse, RCE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/generative-ai-exacerbates-software-supply-chain-risks",
-          "author": "Georgianna Shea, Elaine Ly",
-          "description": "Malicious actors are exploiting AI-fabricated software components — presenting a major challenge for securing software supply chains.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/generative-ai-exacerbates-software-supply-chain-risks",
-          "publishedOn": "2025-06-25T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Generative AI Exacerbates Software Supply Chain Risks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/xor-flaw-sap-gui",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "The company has patched two vulnerabilities in its Graphical User Interface that would have allowed attackers to grab data from a user's input history feature.",
-          "link": "https://www.darkreading.com/cloud-security/xor-flaw-sap-gui",
-          "publishedOn": "2025-06-25T13:00:00.000Z",
-          "wordCount": null,
-          "title": "XOR Marks the Flaw in SAP GUI",
           "imageUrl": null
         }
       ]
