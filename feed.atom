@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-11T15:10:05.846Z</updated>
+    <updated>2025-07-11T15:43:56.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)]]></title>
+        <id>https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html</id>
+        <link href="https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html"/>
+        <updated>2025-07-11T14:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet has released fixes for a critical security flaw impacting FortiWeb that could enable an unauthenticated attacker to run arbitrary database commands on susceptible instances.
+Tracked as CVE-2025-25257, the vulnerability carries a CVSS score of 9.6 out of a maximum of 10.0.
+"An improper neutralization of special elements used in an SQL command ('SQL Injection') vulnerability [CWE-89] in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Factoring Cybersecurity Into Finance's Digital Strategy]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/factoring-cybersecurity-finances-digital-strategy</id>
