@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting Citrix NetScaler ADC and Gateway to its Known Exploited Vulnerabilities (KEV) catalog, officially confirming the vulnerability has been weaponized in the wild.\nThe shortcoming in question is CVE-2025-5777 (CVSS score: 9.3), an instance of insufficient input validation that",
+          "link": "https://thehackernews.com/2025/07/cisa-adds-citrix-netscaler-cve-2025.html",
+          "publishedOn": "2025-07-11T04:25:00.000Z",
+          "wordCount": null,
+          "title": "CISA Adds Citrix NetScaler CVE-2025-5777 to KEV Catalog as Active Exploits Target Enterprises",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8wz6vhiz4wCDQeUpupxtuME04GV0R7P2t9b3SSHMAY9wnme39-EPC3ENmTZpk4UHKg74IGvHVoMCzj4MpR7-cH6f0wOaLMdSM-7wY0rymjpdd_FK1Q4gAMLy7f63z5IJgnBZ-gwge5Lq_v5DAmAqxCbMBeqSKZ6dIH8e4NDB9Edn6dNCnM2XT9pxwA2m6/s1600/cc.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8wz6vhiz4wCDQeUpupxtuME04GV0R7P2t9b3SSHMAY9wnme39-EPC3ENmTZpk4UHKg74IGvHVoMCzj4MpR7-cH6f0wOaLMdSM-7wY0rymjpdd_FK1Q4gAMLy7f63z5IJgnBZ-gwge5Lq_v5DAmAqxCbMBeqSKZ6dIH8e4NDB9Edn6dNCnM2XT9pxwA2m6/s1600/cc.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/critical-mcp-remote-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a critical vulnerability in the open-source mcp-remote project that could result in the execution of arbitrary operating system (OS) commands.\nThe vulnerability, tracked as CVE-2025-6514, carries a CVSS score of 9.6 out of 10.0.\n\"The vulnerability allows attackers to trigger arbitrary OS command execution on the machine running mcp-remote when it",
@@ -20292,6 +20308,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=359214",
+          "author": "Ian Chee",
+          "description": "Maybank previously announced that it will be carrying out maintenance on selected services from midnight to 8AM tomorrow. Now, it looks like the bank has another one scheduled for the Saturday after, and with partially the same time window. At the time of writing, it doesn’t look like Maybank has announced this new maintenance window […]\nThe post Maybank: Several Services Unavailable On 19 July appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/359214/maybank-several-services-unavailable-19-july/",
+          "publishedOn": "2025-07-11T05:46:25.000Z",
+          "wordCount": 9922,
+          "title": "Maybank: Several Services Unavailable On 19 July",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/06/maybank_maybank_maybank-discontinues-maybank2u-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=359191",
           "author": "Ian Chee",
