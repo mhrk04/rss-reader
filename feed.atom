@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-11T19:39:39.284Z</updated>
+    <updated>2025-07-11T20:10:39.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[350M Cars, 1B Devices Exposed to 1-Click Bluetooth RCE]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/350m-cars-1b-devices-1-click-bluetooth-rce</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/350m-cars-1b-devices-1-click-bluetooth-rce"/>
+        <updated>2025-07-11T19:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Mercedes, Skoda, and Volkswagen vehicles, as well as untold industrial, medical, mobile, and consumer devices, may be exposed to a vulnerable Bluetooth implementation called "PerfektBlue."]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[As Cyber-Insurance Premiums Drop, Coverage Is Key to Resilience]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/cyber-insurance-premiums-drop-coverage-key-resilience</id>
@@ -3295,16 +3305,6 @@ At the same time, SOC inefficiencies are draining resources. Studies show that u
         <updated>2025-06-27T10:25:00.000Z</updated>
         <summary type="html"><![CDATA[A new campaign has been observed leveraging fake websites advertising popular software such as WPS Office, Sogou, and DeepSeek to deliver Sainbox RAT and the open-source Hidden rootkit.
 The activity has been attributed with medium confidence to a Chinese hacking group called Silver Fox (aka Void Arachne), citing similarities in tradecraft with previous campaigns attributed to the threat actor.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOVEit Transfer Faces Increased Threats as Scanning Surges and CVE Flaws Are Targeted]]></title>
-        <id>https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html</id>
-        <link href="https://thehackernews.com/2025/06/moveit-transfer-faces-increased-threats.html"/>
-        <updated>2025-06-27T07:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat intelligence firm GreyNoise is warning of a "notable surge" in scanning activity targeting Progress MOVEit Transfer systems starting May 27, 2025—suggesting that attackers may be preparing for another mass exploitation campaign or probing for unpatched systems.MOVEit Transfer is a popular managed file transfer solution used by businesses and government agencies to share sensitive data]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
