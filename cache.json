@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a serious security issue that allows leaked Laravel APP_KEYs to be weaponized to gain remote code execution capabilities on hundreds of applications.\n\"Laravel's APP_KEY, essential for encrypting sensitive data, is often leaked publicly (e.g., on GitHub),\" GitGuardian said. \"If attackers get access to this key, they can exploit a deserialization flaw to",
+          "link": "https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html",
+          "publishedOn": "2025-07-12T12:45:00.000Z",
+          "wordCount": null,
+          "title": "Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfdA6QsvuPxcwfuhho78-AdWIi2mTQlw20yMyWMCaOJPXEkdKCKRm_cD_WLkKXW94HavjzeTGeGyHQdciWtqFdeXO4wT-MrqFvPM_7XGHZdatVITkbZ01zfRSycL8Ch4L30-45niDTNYbpZNeFtcPuamQDLFNxwW6n102EF9dO2bysoCk_nVmT9LrBVjN6/s1600/lara.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfdA6QsvuPxcwfuhho78-AdWIi2mTQlw20yMyWMCaOJPXEkdKCKRm_cD_WLkKXW94HavjzeTGeGyHQdciWtqFdeXO4wT-MrqFvPM_7XGHZdatVITkbZ01zfRSycL8Ch4L30-45niDTNYbpZNeFtcPuamQDLFNxwW6n102EF9dO2bysoCk_nVmT9LrBVjN6/s1600/lara.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Fortinet has released fixes for a critical security flaw impacting FortiWeb that could enable an unauthenticated attacker to run arbitrary database commands on susceptible instances.\nTracked as CVE-2025-25257, the vulnerability carries a CVSS score of 9.6 out of a maximum of 10.0.\n\"An improper neutralization of special elements used in an SQL command ('SQL Injection') vulnerability [CWE-89] in",

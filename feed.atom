@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-12T13:04:42.721Z</updated>
+    <updated>2025-07-12T13:45:16.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -15,6 +15,17 @@
 The post Former ASML Staff Gets Three Years Jail For Sharing Secrets With Russia appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 600 Laravel Apps Exposed to Remote Code Execution Due to Leaked APP_KEYs on GitHub]]></title>
+        <id>https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html</id>
+        <link href="https://thehackernews.com/2025/07/over-600-laravel-apps-exposed-to-remote.html"/>
+        <updated>2025-07-12T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a serious security issue that allows leaked Laravel APP_KEYs to be weaponized to gain remote code execution capabilities on hundreds of applications.
+"Laravel's APP_KEY, essential for encrypting sensitive data, is often leaked publicly (e.g., on GitHub)," GitGuardian said. "If attackers get access to this key, they can exploit a deserialization flaw to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
