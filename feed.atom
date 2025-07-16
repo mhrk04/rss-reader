@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-16T11:41:04.546Z</updated>
+    <updated>2025-07-16T12:19:07.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Golden dMSA Attack in Windows Server 2025 Enables Cross-Domain Attacks and Persistent Access]]></title>
+        <id>https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html</id>
+        <link href="https://thehackernews.com/2025/07/critical-golden-dmsa-attack-in-windows.html"/>
+        <updated>2025-07-16T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed what they say is a "critical design flaw" in delegated Managed Service Accounts (dMSAs) introduced in Windows Server 2025.
+"The flaw can result in high-impact attacks, enabling cross-domain lateral movement and persistent access to all managed service accounts and their resources across Active Directory indefinitely," Semperis said in a report shared with]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA ARM CPU Development Reportedly Hits A Snag; Delayed Until 2026]]></title>
         <id>https://www.lowyat.net/?p=359738</id>
@@ -15,6 +26,21 @@
 The post NVIDIA ARM CPU Development Reportedly Hits A Snag; Delayed Until 2026 appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Act Like Employees With Root Access—Here's How to Regain Control]]></title>
+        <id>https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html</id>
+        <link href="https://thehackernews.com/2025/07/ai-agents-act-like-employees-with-root.html"/>
+        <updated>2025-07-16T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The AI gold rush is on. But without identity-first security, every deployment becomes an open door. Most organizations secure native AI like a web app, but it behaves more like a junior employee with root access and no manager.
+From Hype to High Stakes
+Generative AI has moved beyond the hype cycle. Enterprises are:
+
+Deploying LLM copilots to accelerate software development
+Automating customer]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
