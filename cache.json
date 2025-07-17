@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are leveraging public GitHub repositories to host malicious payloads and distribute them via Amadey as part of a campaign observed in April 2025.\n\"The MaaS [malware-as-a-service] operators used fake GitHub accounts to host payloads, tools, and Amadey plug-ins, likely as an attempt to bypass web filtering and for ease of use,\" Cisco Talos researchers Chris Neal and Craig Jackson",
+          "link": "https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html",
+          "publishedOn": "2025-07-17T17:40:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq-4YVitEZDY7cy5-PfxL_JKrsomuJdL6IAQHMP9HZDpkudW3TWq9G1KF2dwTPxsZ45pbPOE6pNwmg0rnqShW9wWy3ruOitJqOdjztC1kSU-IaGqdjhrq7voF49D-7VZcWeroSrmtDZVhQ_zOjFf37_VG-5oZWImHKjBtEtU_LgzM4ZmCev1Hld1VWE0BA/s1600/github-trojan.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq-4YVitEZDY7cy5-PfxL_JKrsomuJdL6IAQHMP9HZDpkudW3TWq9G1KF2dwTPxsZ45pbPOE6pNwmg0rnqShW9wWy3ruOitJqOdjztC1kSU-IaGqdjhrq7voF49D-7VZcWeroSrmtDZVhQ_zOjFf37_VG-5oZWImHKjBtEtU_LgzM4ZmCev1Hld1VWE0BA/s1600/github-trojan.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a new campaign that exploits a known security flaw impacting Apache HTTP Server to deliver a cryptocurrency miner called Linuxsys.\nThe vulnerability in question is CVE-2021-41773 (CVSS score: 7.5), a high-severity path traversal vulnerability in Apache HTTP Server version 2.4.49 that could result in remote code execution.\n\"The attacker leverages",
