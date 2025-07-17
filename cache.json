@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has disclosed a new maximum-severity security vulnerability impacting Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) that could permit an attacker to execute arbitrary code on the underlying operating system with elevated privileges.\nTracked as CVE-2025-20337, the shortcoming carries a CVSS score of 10.0 and is similar to CVE-2025-20281, which was patched",
+          "link": "https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html",
+          "publishedOn": "2025-07-17T05:37:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRCiH6eZrjSn9ryr5SGE90dJtEGicGevcdJ1otagCN-nKe86YcCiTUYs6e-w-nK2hscnVrRetOjt7vni-TTH4oBJwg5v1olyJtnXbiFZOfQVbEsWkAU1ebQP6FevCpRnahMTaCQasHNIdCDKxFwWL7Oo5XTpclSi9eaPjYudEVTqgz8e-VYEct4myG-2Ik/s1600/cisco.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRCiH6eZrjSn9ryr5SGE90dJtEGicGevcdJ1otagCN-nKe86YcCiTUYs6e-w-nK2hscnVrRetOjt7vni-TTH4oBJwg5v1olyJtnXbiFZOfQVbEsWkAU1ebQP6FevCpRnahMTaCQasHNIdCDKxFwWL7Oo5XTpclSi9eaPjYudEVTqgz8e-VYEct4myG-2Ik/s1600/cisco.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/hackers-leverage-microsoft-teams-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have flagged a new variant of a known malware loader called Matanbuchus that packs in significant features to enhance its stealth and evade detection.\nMatanbuchus is the name given to a malware-as-a-service (MaaS) offering that can act as a conduit for next-stage payloads, including Cobalt Strike beacons and ransomware.\nFirst advertised in February 2021 on",
@@ -22818,16 +22834,6 @@
           "publishedOn": "2025-07-02T19:52:33.000Z",
           "wordCount": null,
           "title": "Russian APT 'Gamaredon' Hits Ukraine With Fierce Phishing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/clickfix-spin-off-bypassing-key-browser-safeguards",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "A new threat vector exploits how modern browsers save HTML files, bypassing Mark of the Web and giving attackers another social-engineering attack for delivering malware.",
-          "link": "https://www.darkreading.com/endpoint-security/clickfix-spin-off-bypassing-key-browser-safeguards",
-          "publishedOn": "2025-07-02T18:00:16.000Z",
-          "wordCount": null,
-          "title": "ClickFix Spin-off Attack Bypasses Key Browser Safeguards",
           "imageUrl": null
         }
       ]

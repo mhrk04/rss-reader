@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-17T05:49:05.136Z</updated>
+    <updated>2025-07-17T06:15:12.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code]]></title>
+        <id>https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html</id>
+        <link href="https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html"/>
+        <updated>2025-07-17T05:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has disclosed a new maximum-severity security vulnerability impacting Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) that could permit an attacker to execute arbitrary code on the underlying operating system with elevated privileges.
+Tracked as CVE-2025-20337, the shortcoming carries a CVSS score of 10.0 and is similar to CVE-2025-20281, which was patched]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xAI Starts Hiring Engineers To Build “Waifus”]]></title>
         <id>https://www.lowyat.net/?p=359793</id>
@@ -3405,16 +3416,6 @@ The post Mercedes-Benz EQV 300 Debuts In Malaysia; Priced At RM450,000 appeared 
         <summary type="html"><![CDATA[A Russian APT known as "Gamaredon" is using spear-phishing attacks and network-drive weaponization to target government entities in Ukraine.]]></summary>
         <author>
             <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClickFix Spin-off Attack Bypasses Key Browser Safeguards]]></title>
-        <id>https://www.darkreading.com/endpoint-security/clickfix-spin-off-bypassing-key-browser-safeguards</id>
-        <link href="https://www.darkreading.com/endpoint-security/clickfix-spin-off-bypassing-key-browser-safeguards"/>
-        <updated>2025-07-02T18:00:16.000Z</updated>
-        <summary type="html"><![CDATA[A new threat vector exploits how modern browsers save HTML files, bypassing Mark of the Web and giving attackers another social-engineering attack for delivering malware.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
         </author>
     </entry>
     <entry>
