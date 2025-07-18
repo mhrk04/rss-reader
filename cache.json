@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a phishing campaign that's designed to deliver a malware codenamed LAMEHUG.\n\"An obvious feature of LAMEHUG is the use of LLM (large language model), used to generate commands based on their textual representation (description),\" CERT-UA said in a Thursday advisory.\nThe activity has been attributed with medium",
+          "link": "https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html",
+          "publishedOn": "2025-07-18T11:32:00.000Z",
+          "wordCount": null,
+          "title": "CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7aC3ptxTmxfnRxkDvpEq5X5V-ebmyytwsBBo6EjjzaS2Ud3yd5BRPyTtnNK-eEVZQjqm4f68podDtI3pl8qtSmB0Dgsro2h6hcwy4RyOkk96ZyGVMgJ49VgkUscRD-Y4MfQOMBcxqqzj-w0Tpwd3KWFyKfcbynSum5dIASXOdWpvSmYFRy8JI8ulp96is/s1600/1000114308.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7aC3ptxTmxfnRxkDvpEq5X5V-ebmyytwsBBo6EjjzaS2Ud3yd5BRPyTtnNK-eEVZQjqm4f68podDtI3pl8qtSmB0Dgsro2h6hcwy4RyOkk96ZyGVMgJ49VgkUscRD-Y4MfQOMBcxqqzj-w0Tpwd3KWFyKfcbynSum5dIASXOdWpvSmYFRy8JI8ulp96is/s1600/1000114308.png"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google on Thursday revealed it's pursuing legal action in New York federal court against 25 unnamed individuals or entities in China for allegedly operating BADBOX 2.0 botnet and residential proxy infrastructure.\n\"The BADBOX 2.0 botnet compromised over 10 million uncertified devices running Android's open-source software (Android Open Source Project), which lacks Google's security protections,\"",
@@ -22424,6 +22440,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/firmware-vulnerabilities-plague-supply-chain",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "Four flaws in the basic software for Gigabyte motherboards could allow persistent implants, underscoring problems in the ways firmware is developed and updated.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/firmware-vulnerabilities-plague-supply-chain",
+          "publishedOn": "2025-07-18T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Firmware Vulnerabilities Continue to Plague Supply Chain",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/4-chinese-apts-taiwan-semiconductor-industry",
           "author": "Nate Nelson, Contributing Writer",
