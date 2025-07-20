@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly disclosed critical security flaw in CrushFTP has come under active exploitation in the wild. Assigned the CVE identifier CVE-2025-54309, the vulnerability carries a CVSS score of 9.0.\n\"CrushFTP 10 before 10.8.5 and 11 before 11.3.4_23, when the DMZ proxy feature is not used, mishandles AS2 validation and consequently allows remote attackers to obtain admin access via HTTPS,\" according to",
+          "link": "https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html",
+          "publishedOn": "2025-07-20T07:35:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD__PhSU4itvZmgY79eBkPPev7TF5wkVqKOahUvAPoN3BKF0xo8vwJq87L1U55zc4mU22vV58IbngZJDei4fg2N-sKMIpb8DvUwMWQPzkfuV7VnQFHXoayYM5BmjXvjSM-yw9VGhnvFjQoU8OPiEqKe4qJX7c2pBR2DHc7itY1nEYoSW0D-2OiCkt3L6gM/s1600/crushftp.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD__PhSU4itvZmgY79eBkPPev7TF5wkVqKOahUvAPoN3BKF0xo8vwJq87L1U55zc4mU22vV58IbngZJDei4fg2N-sKMIpb8DvUwMWQPzkfuV7VnQFHXoayYM5BmjXvjSM-yw9VGhnvFjQoU8OPiEqKe4qJX7c2pBR2DHc7itY1nEYoSW0D-2OiCkt3L6gM/s1600/crushftp.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have shed light on a mobile forensics tool called Massistant that's used by law enforcement authorities in China to gather information from seized mobile devices.\nThe hacking tool, believed to be a successor of MFSocket, is developed by a Chinese company named SDIC Intelligence Xiamen Information Co., Ltd., which was formerly known as Meiya Pico. It specializes in the",
