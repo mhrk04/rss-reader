@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-21T17:46:38.266Z</updated>
+    <updated>2025-07-21T18:14:25.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents]]></title>
+        <id>https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html</id>
+        <link href="https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html"/>
+        <updated>2025-07-21T17:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have unearthed new Android spyware artifacts that are likely affiliated with the Iranian Ministry of Intelligence and Security (MOIS) and have been distributed to targets by masquerading as VPN apps and Starlink, a satellite internet connection service offered by SpaceX.
+Mobile security vendor Lookout said it discovered four samples of a surveillanceware tool it tracks]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Hackers Launch Targeted Espionage Campaign on African IT Infrastructure]]></title>
+        <id>https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html</id>
+        <link href="https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html"/>
+        <updated>2025-07-21T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-linked cyber espionage group tracked as APT41 has been attributed to a new campaign targeting government IT services in the African region.
+"The attackers used hardcoded names of internal services, IP addresses, and proxy servers embedded within their malware," Kaspersky researchers Denis Kulik and Daniil Pogorelov said. "One of the C2s [command-and-control servers] was a captive]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Rushes Emergency Patch for Actively Exploited SharePoint 'ToolShell' Bug]]></title>
         <id>https://www.darkreading.com/remote-workforce/microsoft-rushes-emergency-fix-exploited-sharepoint-toolshell-flaw</id>
