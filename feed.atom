@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-23T11:41:57.664Z</updated>
+    <updated>2025-07-23T12:19:19.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -15,6 +15,16 @@
 The post Mastermind Of Escobar-Branded Tech Scam Faces Up To 30 Years In Prison appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kerberoasting Detections: A New Approach to a Decade-Old Challenge]]></title>
+        <id>https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html</id>
+        <link href="https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html"/>
+        <updated>2025-07-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security experts have been talking about Kerberoasting for over a decade, yet this attack continues to evade typical defense methods. Why? It’s because existing detections rely on brittle heuristics and static rules, which don’t hold up for detecting potential attack patterns in highly variable Kerberos traffic. They frequently generate false positives or miss “low-and-slow” attacks altogether.&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>

@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security experts have been talking about Kerberoasting for over a decade, yet this attack continues to evade typical defense methods. Why? It’s because existing detections rely on brittle heuristics and static rules, which don’t hold up for detecting potential attack patterns in highly variable Kerberos traffic. They frequently generate false positives or miss “low-and-slow” attacks altogether.&",
+          "link": "https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html",
+          "publishedOn": "2025-07-23T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Kerberoasting Detections: A New Approach to a Decade-Old Challenge",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRqRK8FI49st9Cgvx9KkoNxlFIlZBIgLnC8BjxbtOasCLnTWeDeOxV1GQQrs1SH9YqnvGDzS5mtJTJtCQSN2iKGpxuHsWK5zOOeGy6wnCVDXG3SdNj1VAPYLVnU3A1G7oLbBe63qRGa0hUk5yYLUefPDMHEmKSM-On77FHqXwEdSPem0go_9ZmvJMmlc/s1600/Kerberoasting.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRqRK8FI49st9Cgvx9KkoNxlFIlZBIgLnC8BjxbtOasCLnTWeDeOxV1GQQrs1SH9YqnvGDzS5mtJTJtCQSN2iKGpxuHsWK5zOOeGy6wnCVDXG3SdNj1VAPYLVnU3A1G7oLbBe63qRGa0hUk5yYLUefPDMHEmKSM-On77FHqXwEdSPem0go_9ZmvJMmlc/s1600/Kerberoasting.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has announced the launch of a new initiative called OSS Rebuild to bolster the security of the open-source package ecosystems and prevent software supply chain attacks.\n\"As supply chain attacks continue to target widely-used dependencies, OSS Rebuild gives security teams powerful data to avoid compromise without burden on upstream maintainers,\" Matthew Suozzo, Google Open Source Security",
