@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Windows banking trojan known as Coyote has become the first known malware strain to exploit the Windows accessibility framework called UI Automation (UIA) to harvest sensitive information.\n\"The new Coyote variant is targeting Brazilian users, and uses UIA to extract credentials linked to 75 banking institutes' web addresses and cryptocurrency exchanges,\" Akamai security researcher Tomer",
+          "link": "https://thehackernews.com/2025/07/new-coyote-malware-variant-exploits.html",
+          "publishedOn": "2025-07-23T12:58:00.000Z",
+          "wordCount": null,
+          "title": "New Coyote Malware Variant Exploits Windows UI Automation to Steal Banking Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipddwfmbgaIrSXbnjLuoZuxFfJssWWebxwu3HLZCJiBiNgy34RE0ZrvUFjAXiXPLN4xLXBrJ91ALthZvtQwNDosefq-c_p2y9p81yXZW9C0MziFMdokw2np8R6aj-oIdfAFwpAglqxzuaS3ZgV7UQDFZGXHQcpQbdXawezbUYYbpoQBHcEZQIRnaVSnfeC/s1600/windows-ui-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipddwfmbgaIrSXbnjLuoZuxFfJssWWebxwu3HLZCJiBiNgy34RE0ZrvUFjAXiXPLN4xLXBrJ91ALthZvtQwNDosefq-c_p2y9p81yXZW9C0MziFMdokw2np8R6aj-oIdfAFwpAglqxzuaS3ZgV7UQDFZGXHQcpQbdXawezbUYYbpoQBHcEZQIRnaVSnfeC/s1600/windows-ui-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Security experts have been talking about Kerberoasting for over a decade, yet this attack continues to evade typical defense methods. Why? It’s because existing detections rely on brittle heuristics and static rules, which don’t hold up for detecting potential attack patterns in highly variable Kerberos traffic. They frequently generate false positives or miss “low-and-slow” attacks altogether.&",
@@ -20484,6 +20500,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=360506",
+          "author": "John Law",
+          "description": "The AMD Radeon RX 9000 Series and its RDNA4 architecture has proven that the red chipmaker is still able to give NVIDIA and its Blackwell architecture a run for its money, as evidenced especially by the 9070 XT and the 9060 XT that we reviewed not long ago. Now, it seems that the CPU and […]\nThe post Next Generation AMD RDNA5 GPU Could Offer RTX 5080 Performance appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/360506/amd-next-gen-rdna5/",
+          "publishedOn": "2025-07-23T13:35:05.000Z",
+          "wordCount": 10458,
+          "title": "Next Generation AMD RDNA5 GPU Could Offer RTX 5080 Performance",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/02/AMD-Radeon-RX-9070-XT-Gigabyte-Scalper-early-release-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=360503",
           "author": "Heirul Kamel",
