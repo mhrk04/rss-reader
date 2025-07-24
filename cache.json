@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a new stealthy backdoor concealed within the \"mu-plugins\" directory in WordPress sites to grant threat actors persistent access and allow them to perform arbitrary actions.\nMust-use plugins (aka mu-plugins) are special plugins that are automatically activated on all WordPress sites in the installation. They are located in the \"wp-content/mu-plugins\"",
+          "link": "https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html",
+          "publishedOn": "2025-07-24T05:11:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi32X_LS5gqdsd_K9A_mm4w6k0aHQK1bd0RJHLt2kRkNQDSE7V8qwPEaQc1nTuYek34jHjaKqxY6IYtwV7FzxK5Z6HYlPBTx2UMjTxXJG0ZIHIyWAv_mJ9BA2xRHRw8lvmh3zyeIUWLuMVkxNAYoJ4_AhNvUTlD3SNhJEtmEEWegNJR3OPV0UJzX2w7zqvH/s1600/WordPress.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi32X_LS5gqdsd_K9A_mm4w6k0aHQK1bd0RJHLt2kRkNQDSE7V8qwPEaQc1nTuYek34jHjaKqxY6IYtwV7FzxK5Z6HYlPBTx2UMjTxXJG0ZIHIyWAv_mJ9BA2xRHRw8lvmh3zyeIUWLuMVkxNAYoJ4_AhNvUTlD3SNhJEtmEEWegNJR3OPV0UJzX2w7zqvH/s1600/WordPress.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/07/threat-actor-mimo-targets-magento-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor behind the exploitation of vulnerable Craft Content Management System (CMS) instances has shifted its tactics to target Magento CMS and misconfigured Docker instances.\nThe activity has been attributed to a threat actor tracked as Mimo (aka Hezb), which has a long history of leveraging N-day security flaws in various web applications to deploy cryptocurrency miners.\n\"Although",
