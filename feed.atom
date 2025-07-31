@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-07-31T16:53:29.062Z</updated>
+    <updated>2025-07-31T17:12:34.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[An ongoing AitM campaign by the infamous Moscow-sponsored cyber threat actor has widened its scope, dropping the dangerous ApolloShadow custom backdoor malware thanks to lawful intercept systems.]]></summary>
         <author>
             <name>Tara Seals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Detect Multi-Layer Redirect Tactic Used to Steal Microsoft 365 Login Credentials]]></title>
+        <id>https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html</id>
+        <link href="https://thehackernews.com/2025/07/experts-detect-multi-layer-redirect.html"/>
+        <updated>2025-07-31T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a new phishing campaign that conceals malicious payloads by abusing link wrapping services from Proofpoint and Intermedia to bypass defenses.
+"Link wrapping is designed by vendors like Proofpoint to protect users by routing all clicked URLs through a scanning service, allowing them to block known malicious destinations at the moment of click,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
