@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-04T14:52:43.416Z</updated>
+    <updated>2025-08-04T15:11:18.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Turning Human Vulnerability Into Organizational Strength]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/human-vulnerability-organizational-strength</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/human-vulnerability-organizational-strength"/>
+        <updated>2025-08-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Investing in building a human-centric defense involves a combination of adaptive security awareness training, a vigilant and skeptical culture, and the deployment of layered technical controls.]]></summary>
+        <author>
+            <name>Erich Kron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnamese Hackers Use PXA Stealer, Hit 4,000 IPs and Steal 200,000 Passwords Globally]]></title>
+        <id>https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html</id>
+        <link href="https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html"/>
+        <updated>2025-08-04T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are calling attention to a new wave of campaigns distributing a Python-based information stealer called PXA Stealer.
+The malicious activity has been assessed to be the work of Vietnamese-speaking cybercriminals who monetize the stolen data through a subscription-based underground ecosystem that automates the resale and reuse via Telegram APIs, according to a joint]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚡ Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack & More]]></title>
         <id>https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html</id>
@@ -3713,17 +3734,6 @@ The tech giant acknowledged it's "aware of active attacks targeting on-premises 
         <summary type="html"><![CDATA[Hewlett-Packard Enterprise (HPE) has released security updates to address a critical security flaw affecting Instant On Access Points that could allow an attacker to bypass authentication and gain administrative access to susceptible systems.
 The vulnerability, tracked as CVE-2025-37103, carries a CVSS score of 9.8 out of a maximum of 10.0.
 "Hard-coded login credentials were found in HPE]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics]]></title>
-        <id>https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html</id>
-        <link href="https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html"/>
-        <updated>2025-07-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new attack campaign has compromised more than 3,500 websites worldwide with JavaScript cryptocurrency miners, marking the return of browser-based cryptojacking attacks once popularized by the likes of CoinHive. 
-Although the service has since shuttered after browser makers took steps to ban miner-related apps and add-ons, researchers from the c/side said they found evidence of a stealthy]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
