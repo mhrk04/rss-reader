@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-04T16:13:54.309Z</updated>
+    <updated>2025-08-04T16:56:03.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers]]></title>
+        <id>https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html</id>
+        <link href="https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html"/>
+        <updated>2025-08-04T16:06:00.000Z</updated>
+        <summary type="html"><![CDATA[A newly disclosed set of security flaws in NVIDIA's Triton Inference Server for Windows and Linux, an open-source platform for running artificial intelligence (AI) models at scale, could be exploited to take over susceptible servers.
+"When chained together, these flaws can potentially allow a remote, unauthenticated attacker to gain complete control of the server, achieving remote code execution]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akira Ramps Up Assault on SonicWall Firewalls, Suggesting Zero-Day]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/akira-sonicwall-firewalls-zero-day</id>
+        <link href="https://www.darkreading.com/threat-intelligence/akira-sonicwall-firewalls-zero-day"/>
+        <updated>2025-08-04T14:34:58.000Z</updated>
+        <summary type="html"><![CDATA[An uptick of ransomware activity by the group in late July that uses the vendor's SSL VPN devices for initial intrusion shows evidence of an as-yet-undisclosed flaw under exploitation.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turning Human Vulnerability Into Organizational Strength]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/human-vulnerability-organizational-strength</id>
