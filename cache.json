@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "SonicWall said it's actively investigating reports to determine if there is a new zero-day vulnerability following reports of a spike in Akira ransomware actors in late July 2025.\n\"Over the past 72 hours, there has been a notable increase in both internally and externally reported cyber incidents involving Gen 7 SonicWall firewalls where SSLVPN is enabled,\" the network security vendor said in a",
+          "link": "https://thehackernews.com/2025/08/sonicwall-investigating-potential-ssl.html",
+          "publishedOn": "2025-08-05T05:18:00.000Z",
+          "wordCount": null,
+          "title": "SonicWall Investigating Potential SSL VPN Zero-Day After 20+ Targeted Attacks Reported",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPdVjhWPgKWUoYvWQ6R5WXi3t3dfVBkEM1DVg2y0k9Vj48_JSc0dBUh6RmFidVrDQoIWxIlOKIA-q0lCFtVxxe4n4-25jZKeqlEcD_eG0F7dzPyX_tQfGUfHKl6oGpmXLgWPaPJ31_FvWkUi2usxk2ZtE-LMd_MAzc5BVyGrjCdWMNGjn5Q_d4acmWBkzC/s1600/sonicwall-zero-day.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPdVjhWPgKWUoYvWQ6R5WXi3t3dfVBkEM1DVg2y0k9Vj48_JSc0dBUh6RmFidVrDQoIWxIlOKIA-q0lCFtVxxe4n4-25jZKeqlEcD_eG0F7dzPyX_tQfGUfHKl6oGpmXLgWPaPJ31_FvWkUi2usxk2ZtE-LMd_MAzc5BVyGrjCdWMNGjn5Q_d4acmWBkzC/s1600/sonicwall-zero-day.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A newly disclosed set of security flaws in NVIDIA's Triton Inference Server for Windows and Linux, an open-source platform for running artificial intelligence (AI) models at scale, could be exploited to take over susceptible servers.\n\"When chained together, these flaws can potentially allow a remote, unauthenticated attacker to gain complete control of the server, achieving remote code execution",
@@ -20388,6 +20404,36 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=361663",
+          "author": "Kiran Ganesan",
+          "description": "vivo has recently launched the Y400 5G in India. Although it shares similarities with the previously launched 4G model from last week, this particular variant comes with various upgrades to its internal components, giving it an additional kick. The vivo Y400 5G comes equipped with a 6.67-inch AMOLED display with a Full HD+ (1,080 x […]\nThe post vivo Y400 5G Launches In India appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/361663/vivo-y400-5g-launches-in-india/",
+          "publishedOn": "2025-08-05T06:56:43.000Z",
+          "wordCount": 9965,
+          "title": "vivo Y400 5G Launches In India",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/vivo-Y400-5G-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=361665",
+          "author": "Heirul Kamel",
+          "description": "The National Cyber Security Agency (NACSA) revealed that it has launched an investigation into a recent post made on a hacker forum that allegedly offers live access to Malaysian government systems and data for sale. In a statement to The Star, the agency confirmed that it is aware of the situation and has escalated the […]\nThe post NACSA: Investigations On Alleged Breach Of Govt Websites Currently Underway appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/361665/nacsa-breach-govt-websites-investigations-underway/",
+          "publishedOn": "2025-08-05T06:35:04.000Z",
+          "wordCount": 10047,
+          "title": "NACSA: Investigations On Alleged Breach Of Govt Websites Currently Underway",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/nacsa-logo-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=361647",
+          "author": "John Law",
+          "description": "It’s not every day that a tech company bursts into the GPU ring and declares is supremacy over giants like NVIDIA. But that’s exactly what Bolt Graphics, a California-based startup, did when it revealed its Zeus architecture GPU. Bolt Graphics claims that its Zeus architecture GPU is more than capable of beating NVIDIA’s RTX 5090, […]\nThe post Startup Bolt Graphics Claims Its GPU Outperforms NVIDIA’s RTX 5090 With Less Power appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/361647/bolt-graphics-gpu-outperform-rtx-5090/",
+          "publishedOn": "2025-08-05T06:19:06.000Z",
+          "wordCount": 10643,
+          "title": "Startup Bolt Graphics Claims Its GPU Outperforms NVIDIA’s RTX 5090 With Less Power",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/Bolt-Graphics-Zeus-1-scaled.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=361598",
           "author": "Kiran Ganesan",
@@ -23118,16 +23164,6 @@
           "publishedOn": "2025-07-21T20:51:13.000Z",
           "wordCount": null,
           "title": "Malicious Implants Are Coming to AI Components, Applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/europol-sting-russian-cybercrime-noname05716",
-          "author": "Kristina Beek",
-          "description": "National authorities have issued seven arrest warrants in total relating to the cybercrime collective known as NoName057(16), which recruits followers to carry out DDoS attacks on perceived enemies of Russia.",
-          "link": "https://www.darkreading.com/threat-intelligence/europol-sting-russian-cybercrime-noname05716",
-          "publishedOn": "2025-07-21T18:27:45.000Z",
-          "wordCount": null,
-          "title": "Europol Sting Leaves Russian Cybercrime's 'NoName057(16)' Group Fractured",
           "imageUrl": null
         }
       ]
