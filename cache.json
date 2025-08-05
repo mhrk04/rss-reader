@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has released security updates to address multiple security flaws in Android, including fixes for two Qualcomm bugs that were flagged as actively exploited in the wild.\nThe vulnerabilities include CVE-2025-21479 (CVSS score: 8.6) and CVE-2025-27038 (CVSS score: 7.5), both of which were disclosed alongside CVE-2025-21480 (CVSS score: 8.6), by the chipmaker back in June 2025.\nCVE-2025-21479",
+          "link": "https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html",
+          "publishedOn": "2025-08-05T13:59:00.000Z",
+          "wordCount": null,
+          "title": "Google’s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwWOaWdIBWpmq5W3G2XLOA7DYt9rrcSZFMq8LWo6zRHVvUS-Kqjd6gRCwYY6W9IkT2UfovQIVKCWR5EsMlwd7HyrHtGyPKvPX3WfN42o_IL2vYJXHCD1jbDMWtvD2mzhLgIbbTcmX7CMU5CWPvFmUcB71wmUSrRTuPYud0_Zc_xSeG_t8j0bImSvQEtirX/s1600/android-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwWOaWdIBWpmq5W3G2XLOA7DYt9rrcSZFMq8LWo6zRHVvUS-Kqjd6gRCwYY6W9IkT2UfovQIVKCWR5EsMlwd7HyrHtGyPKvPX3WfN42o_IL2vYJXHCD1jbDMWtvD2mzhLgIbbTcmX7CMU5CWPvFmUcB71wmUSrRTuPYud0_Zc_xSeG_t8j0bImSvQEtirX/s1600/android-hack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a high-severity security flaw in the artificial intelligence (AI)-powered code editor Cursor that could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-54136 (CVSS score: 7.2), has been codenamed MCPoison by Check Point Research, owing to the fact that it exploits a quirk in the way the software handles modifications to Model",
+          "link": "https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html",
+          "publishedOn": "2025-08-05T13:01:00.000Z",
+          "wordCount": null,
+          "title": "Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVOn2Wkr1XGr4icocN1kfY6i4kd4o8tmyGNy6Z2XIAkoipTt8d_uh8d1ejUqe3IPyEGX0oQaHwfuE_nX9PfJtRpujCMvRk3C4hqrcxDZ1ZiThdv4MhvjN3uPg7T9l3yuGhtIs0jUgv7aoZaJj1-gd_Nxqdz6vF32ABwqvoZLjl3E-Co7DWKlP_r2SqWcZ_/s1600/ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVOn2Wkr1XGr4icocN1kfY6i4kd4o8tmyGNy6Z2XIAkoipTt8d_uh8d1ejUqe3IPyEGX0oQaHwfuE_nX9PfJtRpujCMvRk3C4hqrcxDZ1ZiThdv4MhvjN3uPg7T9l3yuGhtIs0jUgv7aoZaJj1-gd_Nxqdz6vF32ABwqvoZLjl3E-Co7DWKlP_r2SqWcZ_/s1600/ai.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/misconfigurations-are-not.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In SaaS security conversations, “misconfiguration” and “vulnerability” are often used interchangeably. But they’re not the same thing. And misunderstanding that distinction can quietly create real exposure.\nThis confusion isn’t just semantics. It reflects a deeper misunderstanding of the shared responsibility model, particularly in SaaS environments where the line between vendor and customer",
@@ -22451,31 +22483,6 @@
           "wordCount": 10014,
           "title": "Nokia May Be Looking For Another Licensing Partner For Mobile",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/03/Nokia-new-logo-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=360264",
-          "author": "Heirul Kamel",
-          "description": "The Tecno Pova 7 series – comprising a 4G and 5G base models, as well as a Pro and Ultra variants – was first introduced in India earlier this month. Now, the brand has confirmed that the 4G version is now available in Malaysia, with the rest of the series promised to be introduced soon. […]\nThe post Tecno Pova 7 4G Lands In Malaysia; Starts From RM1,199 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/360264/tecno-pova-7-4g-lands-in-malaysia/",
-          "publishedOn": "2025-07-22T02:45:14.000Z",
-          "wordCount": 10196,
-          "title": "Tecno Pova 7 4G Lands In Malaysia; Starts From RM1,199",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/tecno-pova-7-4g-lands-in-malaysia-5.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=360257",
-          "author": "Nurul Kamil",
-          "description": "Last week, Google confirmed that it is unveiling the Pixel 10 series at its Made by Google event on 20 August. After being inundated with rumours and leaks ahead of the launch, we’re finally getting the first official look at one of the models in the lineup. The US Google Store was recently updated with […]\nThe post Google Teases Pixel 10 Ahead Of Launch appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/360257/google-teases-pixel-10-ahead-of-launch/",
-          "publishedOn": "2025-07-22T02:34:13.000Z",
-          "wordCount": 10329,
-          "title": "Google Teases Pixel 10 Ahead Of Launch",
-          "enclosure": {
-            "url": "https://storage.googleapis.com/mannequin/blobs/91d602a5-ec74-4dbf-889b-f352bef1a6ef.mp4",
-            "length": "205929",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/google-pixel-10-teaser-1.jpg"
         }
       ]
     },
