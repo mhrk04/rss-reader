@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-06T21:42:06.109Z</updated>
+    <updated>2025-08-06T22:10:29.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Zero-Day Bugs Crack Open CyberArk, HashiCorp Password Vaults]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/critical-zero-day-bugs-cyberark-hashicorp-password-vaults</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/critical-zero-day-bugs-cyberark-hashicorp-password-vaults"/>
+        <updated>2025-08-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Secrets managers hold all the keys to an enterprise's kingdom. Two popular ones had longstanding, critical, unauthenticated RCE vulnerabilities.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['ReVault' Security Flaws Impact Millions of Dell Laptops]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/revault-security-flaws-dell-laptops</id>
@@ -14,6 +24,17 @@
         <summary type="html"><![CDATA[The now-patched vulnerabilities exist at the firmware level and enable deep persistence on compromised systems.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft]]></title>
+        <id>https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html</id>
+        <link href="https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html"/>
+        <updated>2025-08-06T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have demonstrated an "end-to-end privilege escalation chain" in Amazon Elastic Container Service (ECS) that could be exploited by an attacker to conduct lateral movement, access sensitive data, and seize control of the cloud environment.
+The attack technique has been codenamed ECScape by Sweet Security researcher Naor Haziz, who presented the findings today at the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -3728,39 +3749,6 @@ The post Mastermind Of Escobar-Branded Tech Scam Faces Up To 30 Years In Prison 
 The post Razer Launches New Cobra HyperSpeed Gaming Mouse appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deputy Comms Minister: Mandatory ID Verification for Social Media Advertisers Under Consideration]]></title>
-        <id>https://www.lowyat.net/?p=360492</id>
-        <link href="https://www.lowyat.net/2025/360492/mandatory-id-verification-for-social-media-advertisers-under-consideration/"/>
-        <updated>2025-07-23T10:09:05.000Z</updated>
-        <summary type="html"><![CDATA[Malaysia is considering requiring advertisers on social media platforms to verify their identities, as part of efforts to clamp down on the growing threat of online scams. The proposed move is currently being evaluated by the Malaysian Communications and Multimedia Commission (MCMC), which is in the process of drafting new subsidiary legislation, including an online […]
-The post Deputy Comms Minister: Mandatory ID Verification for Social Media Advertisers Under Consideration appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acer Day 2025: New Desktop PC, Monitor, And Laptops Ahead Of The Special Day]]></title>
-        <id>https://www.lowyat.net/?p=360422</id>
-        <link href="https://www.lowyat.net/2025/360422/acer-day-2025-desktop-pc-monitor-laptops/"/>
-        <updated>2025-07-23T09:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of its self-named Acer Day 2025, the Taiwanese maker of laptops, desktop PCs, and other gaming accessories was eager to show off a handful of new products to the media. That list includes Nitro 50, the Predator X27U X2, the Swift Edge 14 AI, and the Travelmate P6 14 AI. Starting with the Acer […]
-The post Acer Day 2025: New Desktop PC, Monitor, And Laptops Ahead Of The Special Day appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GWM Teases Upcoming Supercar To Rival BYD Yangwang U9]]></title>
-        <id>https://www.lowyat.net/?p=360427</id>
-        <link href="https://www.lowyat.net/2025/360427/gwm-teases-upcoming-supercar-rival-byd-yangwang-u9/"/>
-        <updated>2025-07-23T09:49:12.000Z</updated>
-        <summary type="html"><![CDATA[GWM released a teasing image announcing their entry into the supercar realm. The picture was shared by the company on its official Weibo page in conjunction with the company’s 35th anniversary. Looking at the image, it can be seen that the model is hidden under a black drape, while it is surrounded by top executives […]
-The post GWM Teases Upcoming Supercar To Rival BYD Yangwang U9 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
         </author>
     </entry>
     <entry>
