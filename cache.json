@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the SocGholish malware have been observed leveraging Traffic Distribution Systems (TDSs) like Parrot TDS and Keitaro TDS to filter and redirect unsuspecting users to sketchy content.\n\"The core of their operation is a sophisticated Malware-as-a-Service (MaaS) model, where infected systems are sold as initial access points to other cybercriminal organizations,\" Silent Push",
+          "link": "https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html",
+          "publishedOn": "2025-08-07T18:26:00.000Z",
+          "wordCount": null,
+          "title": "SocGholish Malware Spread via Ad Tools; Delivers Access to LockBit, Evil Corp, and Others",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXc7TsBR9loREqkSnzye9ganXgfHdcDEPDtCtVT5ReReoR1zrkKXvQPfSQQJ6uVjTaR6rHUYDI3ARVe3P0CwIaun67ZPvXk8jAr7LUBRtuAFYsYCRCUKsMwTvkvPCmX559BMcOVRNvNgyuTeWqHAgeenlljcDnReMAclh-97_Fzh_iPWFaiJ_gjhkgXDJx/s1600/ad-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXc7TsBR9loREqkSnzye9ganXgfHdcDEPDtCtVT5ReReoR1zrkKXvQPfSQQJ6uVjTaR6rHUYDI3ARVe3P0CwIaun67ZPvXk8jAr7LUBRtuAFYsYCRCUKsMwTvkvPCmX559BMcOVRNvNgyuTeWqHAgeenlljcDnReMAclh-97_Fzh_iPWFaiJ_gjhkgXDJx/s1600/ad-hack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a set of 11 malicious Go packages that are designed to download additional payloads from remote servers and execute them on both Windows and Linux systems.\n\"At runtime the code silently spawns a shell, pulls a second-stage payload from an interchangeable set of .icu and .tech command-and-control (C2) endpoints, and executes it in memory,\" Socket security",
@@ -20508,22 +20524,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQmkLgXXEvod9AHLm3gJ4gn8iFTI4q5F-UBhBPOlBlSHC0-YJuMgOwbPglYdiNzs548SmKnAEP7tN7IT55OdEJRZQKi5xTl5-KetRV9FXN8L2YxoE9cYM0qhanXeXvtat9IzaKqgGWqwd12bIfjWv4LajLn7dq38mc293LS8LkwAopBnA2BpBYujJaNFcY/s1600/ms-ransomware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQmkLgXXEvod9AHLm3gJ4gn8iFTI4q5F-UBhBPOlBlSHC0-YJuMgOwbPglYdiNzs548SmKnAEP7tN7IT55OdEJRZQKi5xTl5-KetRV9FXN8L2YxoE9cYM0qhanXeXvtat9IzaKqgGWqwd12bIfjWv4LajLn7dq38mc293LS8LkwAopBnA2BpBYujJaNFcY/s1600/ms-ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Europol on Monday announced the arrest of the suspected administrator of XSS.is (formerly DaMaGeLaB), a notorious Russian-speaking cybercrime platform.\nThe arrest, which took place in Kyiv, Ukraine, on July 222, 2025, was led by the French Police and Paris Prosecutor, in collaboration with Ukrainian authorities and Europol. The action is the result of an investigation that was launched by the",
-          "link": "https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html",
-          "publishedOn": "2025-07-24T06:48:00.000Z",
-          "wordCount": null,
-          "title": "Europol Arrests XSS Forum Admin in Kyiv After 12-Year Run Operating Cybercrime Marketplace",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX1nA2qSofqbIAT-gfbgO22vNym80xeByXe32Ijfn178Y7zlq8rvhEdZqZr7r4gjrYiiDcunPtyeEVU_O1mR74XYdKTXYSJKFzG8mSVtrpxXcokQcBZbhP6mW34iJvnHt3JQcZNSCkzb30gWgLr4ku8ORlO-HHOA_gk2eoSQCE3-v2Oi0MCBLxb610a_C_/s1600/euro-arrest.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX1nA2qSofqbIAT-gfbgO22vNym80xeByXe32Ijfn178Y7zlq8rvhEdZqZr7r4gjrYiiDcunPtyeEVU_O1mR74XYdKTXYSJKFzG8mSVtrpxXcokQcBZbhP6mW34iJvnHt3JQcZNSCkzb30gWgLr4ku8ORlO-HHOA_gk2eoSQCE3-v2Oi0MCBLxb610a_C_/s1600/euro-arrest.jpg"
         }
       ]
     },
@@ -22524,6 +22524,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/cryptomixer-founders-guilty-money-laundering",
+          "author": "Kristina Beek",
+          "description": "As part of their plea deal, the cybercriminal founders will also have to forfeit more than $200 million.",
+          "link": "https://www.darkreading.com/threat-intelligence/cryptomixer-founders-guilty-money-laundering",
+          "publishedOn": "2025-08-07T18:34:18.000Z",
+          "wordCount": null,
+          "title": "'Samourai' Cryptomixer Founders Plead Guilty to Money Laundering",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/citizen-lab-founder-us-authoritarianism",
           "author": "Alexander Culafi",
