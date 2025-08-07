@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a set of 11 malicious Go packages that are designed to download additional payloads from remote servers and execute them on both Windows and Linux systems.\n\"At runtime the code silently spawns a shell, pulls a second-stage payload from an interchangeable set of .icu and .tech command-and-control (C2) endpoints, and executes it in memory,\" Socket security",
+          "link": "https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html",
+          "publishedOn": "2025-08-07T13:19:00.000Z",
+          "wordCount": null,
+          "title": "Malicious Go, npm Packages Deliver Cross-Platform Malware, Trigger Remote Data Wipes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMM7FPEF-6OxhkyjWcEchPkZjQY0EaLy3Ykp9DdNWafBeTuf24djOQp8AAWdHdAGlSap8NRgGdbwcBNi0Ocx_kVG8umFh1Y1kWHzGoBh5JC1UDihLoW0Ku-mQgliX7mNM_u63Q1G1-bs9W7WThjPO0h8mudyFn1-RXc6133xMwbB5yC62zo6-JFZJPpzJB/s1600/npm-go.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMM7FPEF-6OxhkyjWcEchPkZjQY0EaLy3Ykp9DdNWafBeTuf24djOQp8AAWdHdAGlSap8NRgGdbwcBNi0Ocx_kVG8umFh1Y1kWHzGoBh5JC1UDihLoW0Ku-mQgliX7mNM_u63Q1G1-bs9W7WThjPO0h8mudyFn1-RXc6133xMwbB5yC62zo6-JFZJPpzJB/s1600/npm-go.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft has released an advisory for a high-severity security flaw affecting on-premise versions of Exchange Server that could allow an attacker to gain elevated privileges under certain conditions.\nThe vulnerability, tracked as CVE-2025-53786, carries a CVSS score of 8.0. Dirk-jan Mollema with Outsider Security has been acknowledged for reporting the bug.\n\"In an Exchange hybrid deployment, an",
@@ -19308,6 +19324,22 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVEfMJmenYStKUf4d3m4xp0dWyGpS0C_oVLZ8_51LsOSfOoomXs6xI2gXEhvRLCzWalpb7A9KLz-UrusNmI8cdy26Z3oApb_Mg9lmzo9U_mk7AWLb51MNp_TmYjJG288Q-PmUKBIWn9wwkWqq7ZLWOJ73bMo2AJ7Ogke-97RVk0p20PZl9HzHTdkEKNPB/s1600/ms-exchnage.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVEfMJmenYStKUf4d3m4xp0dWyGpS0C_oVLZ8_51LsOSfOoomXs6xI2gXEhvRLCzWalpb7A9KLz-UrusNmI8cdy26Z3oApb_Mg9lmzo9U_mk7AWLb51MNp_TmYjJG288Q-PmUKBIWn9wwkWqq7ZLWOJ73bMo2AJ7Ogke-97RVk0p20PZl9HzHTdkEKNPB/s1600/ms-exchnage.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed multiple security flaws in video surveillance products from Axis Communications that, if successfully exploited, could expose them to takeover attacks.\n\"The attack results in pre-authentication remote code execution on Axis Device Manager, a server used to configure and manage fleets of cameras, and the Axis Camera Station, client software used to view",
+          "link": "https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html",
+          "publishedOn": "2025-08-07T10:40:00.000Z",
+          "wordCount": null,
+          "title": "6,500 Axis Servers Expose Remoting Protocol, 4,000 in U.S. Vulnerable to Exploits",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIhS94Rk_KWh-cyxAzwja_aw5i1YQnLZIA5EqeQC-KR16-BDJAFkhx4mqqvrkk7EQRVu5dqum3D4XrqKlRYSP4Ei-Huqz_xa6XLWeZkwZ4KcbtILyU4sq8USGGmSnPIiEtY_deIXvckVFomayYz61XgvbifHD5_EO1dbDXZBcK-xPUpGz314WTEJa9_8we/s1600/camera.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIhS94Rk_KWh-cyxAzwja_aw5i1YQnLZIA5EqeQC-KR16-BDJAFkhx4mqqvrkk7EQRVu5dqum3D4XrqKlRYSP4Ei-Huqz_xa6XLWeZkwZ4KcbtILyU4sq8USGGmSnPIiEtY_deIXvckVFomayYz61XgvbifHD5_EO1dbDXZBcK-xPUpGz314WTEJa9_8we/s1600/camera.jpg"
         },
         {
           "id": "https://thehackernews.com/2025/08/the-ai-powered-security-shift-what-2025.html",
@@ -22555,16 +22587,6 @@
           "wordCount": 10179,
           "title": "Apple Launches AppleCare One Plan In The US",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/applecare-one-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=360514",
-          "author": "Heirul Kamel",
-          "description": "E-hailing platforms Maxim and InDrive have been granted permission to continue operations in Malaysia, following a successful appeal and implementation of corrective measures. However, the Land Public Transport Agency (APAD) has stated that both companies will remain under close scrutiny for the next three months, with progress reviews scheduled on a quarterly basis. The agency […]\nThe post APAD: Maxim, InDrive Allowed To Resume Operations In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/360514/apad-maxim-indrive-allowed-to-resume-operations-in-malaysia/",
-          "publishedOn": "2025-07-24T01:53:17.000Z",
-          "wordCount": 10209,
-          "title": "APAD: Maxim, InDrive Allowed To Resume Operations In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/03/maxim-e-hailing-e1678933945394.jpg"
         }
       ]
     },
@@ -22573,6 +22595,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring",
+          "author": "Ofri Ouzan",
+          "description": "With informed decision-making, organizations can strengthen their overall resilience and maintain the agility needed to adapt to emerging threats, without sacrificing innovation or productivity.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring",
+          "publishedOn": "2025-08-07T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The Critical Flaw in CVE Scoring",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/researcher-deploys-fuzzer-to-test-autonomous-vehicle-safety",
           "author": "Arielle Waldman",

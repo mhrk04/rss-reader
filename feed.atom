@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-07T13:22:17.876Z</updated>
+    <updated>2025-08-07T13:57:15.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Critical Flaw in CVE Scoring]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring"/>
+        <updated>2025-08-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With informed decision-making, organizations can strengthen their overall resilience and maintain the agility needed to adapt to emerging threats, without sacrificing innovation or productivity.]]></summary>
+        <author>
+            <name>Ofri Ouzan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious Go, npm Packages Deliver Cross-Platform Malware, Trigger Remote Data Wipes]]></title>
+        <id>https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html</id>
+        <link href="https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html"/>
+        <updated>2025-08-07T13:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a set of 11 malicious Go packages that are designed to download additional payloads from remote servers and execute them on both Windows and Linux systems.
+"At runtime the code silently spawns a shell, pulls a second-stage payload from an interchangeable set of .icu and .tech command-and-control (C2) endpoints, and executes it in memory," Socket security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAF Digital Bank To Commence Operations Starting Tomorrow On 8 August 2025]]></title>
         <id>https://www.lowyat.net/?p=361907</id>
@@ -25,6 +46,17 @@ The post KAF Digital Bank To Commence Operations Starting Tomorrow On 8 August 2
         <summary type="html"><![CDATA[Microsoft has released an advisory for a high-severity security flaw affecting on-premise versions of Exchange Server that could allow an attacker to gain elevated privileges under certain conditions.
 The vulnerability, tracked as CVE-2025-53786, carries a CVSS score of 8.0. Dirk-jan Mollema with Outsider Security has been acknowledged for reporting the bug.
 "In an Exchange hybrid deployment, an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6,500 Axis Servers Expose Remoting Protocol, 4,000 in U.S. Vulnerable to Exploits]]></title>
+        <id>https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html</id>
+        <link href="https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html"/>
+        <updated>2025-08-07T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed multiple security flaws in video surveillance products from Axis Communications that, if successfully exploited, could expose them to takeover attacks.
+"The attack results in pre-authentication remote code execution on Axis Device Manager, a server used to configure and manage fleets of cameras, and the Axis Camera Station, client software used to view]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
@@ -3819,17 +3851,6 @@ The post Economy Ministry: Govt Plans To Shift To A Net Disposable Income System
 The post Apple Launches AppleCare One Plan In The US appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APAD: Maxim, InDrive Allowed To Resume Operations In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=360514</id>
-        <link href="https://www.lowyat.net/2025/360514/apad-maxim-indrive-allowed-to-resume-operations-in-malaysia/"/>
-        <updated>2025-07-24T01:53:17.000Z</updated>
-        <summary type="html"><![CDATA[E-hailing platforms Maxim and InDrive have been granted permission to continue operations in Malaysia, following a successful appeal and implementation of corrective measures. However, the Land Public Transport Agency (APAD) has stated that both companies will remain under close scrutiny for the next three months, with progress reviews scheduled on a quarterly basis. The agency […]
-The post APAD: Maxim, InDrive Allowed To Resume Operations In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
         </author>
     </entry>
     <entry>
