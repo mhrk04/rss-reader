@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A novel attack technique could be weaponized to rope thousands of public domain controllers (DCs) around the world to create a malicious botnet and use it to conduct power distributed denial-of-service (DDoS) attacks.\nThe approach has been codenamed Win-DDoS by SafeBreach researchers Or Yair and Shahak Morag, who presented their findings at the DEF CON 33 security conference today.\n\"As we",
+          "link": "https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html",
+          "publishedOn": "2025-08-10T19:30:00.000Z",
+          "wordCount": null,
+          "title": "New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tlsxQOiYwyFsW_lhycutlJ1DR4E4kWwYK_t3KF0ywK3_b8k9cQGeLRBKyStWx2QWW9l34JTO7wKM0qYjz1fFOiXtBD8VZcJa5LmbYLruofCVzrTbXwXI1lemF6YhVC_SEzCEWLbLkhyphenhyphenXq4KUe5DlYKfjOxSia5lRtiB8zv0Q1qXBTXg91oxJukLKborD/s1600/ddos.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tlsxQOiYwyFsW_lhycutlJ1DR4E4kWwYK_t3KF0ywK3_b8k9cQGeLRBKyStWx2QWW9l34JTO7wKM0qYjz1fFOiXtBD8VZcJa5LmbYLruofCVzrTbXwXI1lemF6YhVC_SEzCEWLbLkhyphenhyphenXq4KUe5DlYKfjOxSia5lRtiB8zv0Q1qXBTXg91oxJukLKborD/s1600/ddos.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/researchers-detail-windows-epm.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have presented new findings related to a now-patched security issue in Microsoft's Windows Remote Procedure Call (RPC) communication protocol that could be abused by an attacker to conduct spoofing attacks and impersonate a known server.\nThe vulnerability, tracked as CVE-2025-49760 (CVSS score: 3.5), has been described by the tech giant as a Windows Storage spoofing bug",

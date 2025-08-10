@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-10T19:07:07.621Z</updated>
+    <updated>2025-08-10T19:37:38.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP]]></title>
+        <id>https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html</id>
+        <link href="https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html"/>
+        <updated>2025-08-10T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A novel attack technique could be weaponized to rope thousands of public domain controllers (DCs) around the world to create a malicious botnet and use it to conduct power distributed denial-of-service (DDoS) attacks.
+The approach has been codenamed Win-DDoS by SafeBreach researchers Or Yair and Shahak Morag, who presented their findings at the DEF CON 33 security conference today.
+"As we]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation]]></title>
         <id>https://thehackernews.com/2025/08/researchers-detail-windows-epm.html</id>
