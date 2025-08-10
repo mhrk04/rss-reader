@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-10T13:06:19.434Z</updated>
+    <updated>2025-08-10T13:46:27.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation]]></title>
+        <id>https://thehackernews.com/2025/08/researchers-detail-windows-epm.html</id>
+        <link href="https://thehackernews.com/2025/08/researchers-detail-windows-epm.html"/>
+        <updated>2025-08-10T12:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have presented new findings related to a now-patched security issue in Microsoft's Windows Remote Procedure Call (RPC) communication protocol that could be abused by an attacker to conduct spoofing attacks and impersonate a known server.
+The vulnerability, tracked as CVE-2025-49760 (CVSS score: 3.5), has been described by the tech giant as a Windows Storage spoofing bug]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Battlefield 6 Open Beta Saw More Than 330,000 Cheaters Blocked]]></title>
         <id>https://www.lowyat.net/?p=362124</id>
