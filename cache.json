@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious actors have been observed exploiting a now-patched critical security flaw impacting Erlang/Open Telecom Platform (OTP) SSH as early as beginning of May 2025, with about 70% of detections originating from firewalls protecting operational technology (OT) networks.\nThe vulnerability in question is CVE-2025-32433 (CVSS score: 10.0), a missing authentication issue that could be abused by an",
+          "link": "https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html",
+          "publishedOn": "2025-08-11T15:08:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia56wn9gSwhGloKHmo4Uj5brJcG9axLkscIKLGQglJNBHtwADih1plaNf4Cqt1QN4zux_QTwpV7ciWa-D5VgNivCpsPbZeGE88OJGEXb6R9iKmunb26qGspBv6jTwK_5GnugE2iI14o19XhbZgYgGtODukpYqqRCxlZmsiONBrOR235XThEtCOQsX1mTdM/s1600/ssh.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia56wn9gSwhGloKHmo4Uj5brJcG9axLkscIKLGQglJNBHtwADih1plaNf4Cqt1QN4zux_QTwpV7ciWa-D5VgNivCpsPbZeGE88OJGEXb6R9iKmunb26qGspBv6jTwK_5GnugE2iI14o19XhbZgYgGtODukpYqqRCxlZmsiONBrOR235XThEtCOQsX1mTdM/s1600/ssh.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/weekly-recap-badcam-attack-winrar-0-day.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "This week, cyber attackers are moving quickly, and businesses need to stay alert. They’re finding new weaknesses in popular software and coming up with clever ways to get around security. Even one unpatched flaw could let attackers in, leading to data theft or even taking control of your systems. The clock is ticking—if defenses aren’t updated regularly, it could lead to serious damage. The",
@@ -20508,22 +20524,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsN72I_dig68jgOwgDvQxWOb2WmMGMNoMpQUgE1XYTkbWN5kwQAnLzTeP7E9Iz-P9yO_n5V6NitcgNegiC-NUm9kkl8nwolpY3BNbUOaZaVhFw-UFZbDkxEQ8EH2K-EAIUATc3Rx-l-L_ptgBcqtUywatOaNhMbuzT3DAYc2nnvDWwXHOMdWikyM2POger/s1600/ransomware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsN72I_dig68jgOwgDvQxWOb2WmMGMNoMpQUgE1XYTkbWN5kwQAnLzTeP7E9Iz-P9yO_n5V6NitcgNegiC-NUm9kkl8nwolpY3BNbUOaZaVhFw-UFZbDkxEQ8EH2K-EAIUATc3Rx-l-L_ptgBcqtUywatOaNhMbuzT3DAYc2nnvDWwXHOMdWikyM2POger/s1600/ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered over a dozen security vulnerabilities impacting Tridium's Niagara Framework that could allow an attacker on the same network to compromise the system under certain circumstances.\n\"These vulnerabilities are fully exploitable if a Niagara system is misconfigured, thereby disabling encryption on a specific network device,\" Nozomi Networks Labs said in a",
-          "link": "https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html",
-          "publishedOn": "2025-07-28T04:12:00.000Z",
-          "wordCount": null,
-          "title": "Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf1_6YYkQ-zZ6XYMDfViWj1UXcPc8IAU97a_M-aS6Y4v4XnA_II0iT6NQv3dz8gJvDnBQTKfTQhwZQPn4wD2nwQJ3Zu_1PPet21oqsnl0x5RdC9viPJ5pC25mz6rYAghDKwchSOHPdqrcIhl46Qrf-run82RVUfDILM1X8OAs6JYn5x5OQHWTaI0D7dqwM/s1600/exploit.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf1_6YYkQ-zZ6XYMDfViWj1UXcPc8IAU97a_M-aS6Y4v4XnA_II0iT6NQv3dz8gJvDnBQTKfTQhwZQPn4wD2nwQJ3Zu_1PPet21oqsnl0x5RdC9viPJ5pC25mz6rYAghDKwchSOHPdqrcIhl46Qrf-run82RVUfDILM1X8OAs6JYn5x5OQHWTaI0D7dqwM/s1600/exploit.jpg"
         }
       ]
     },
@@ -22521,26 +22521,6 @@
           "wordCount": 9869,
           "title": "Transport Minister Announces Reforms For Taxi Drivers Ahead Of Visit Malaysia 2026",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Taxi1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=360877",
-          "author": "Ian Chee",
-          "description": "Valve has announced that it is making some changes to the Steam store page. In fact, it is available now, if you’re willing to wade through the field of uncertainty that is the beta client. Overall though, the idea is to consolidate a lot of the elements so that you get a cleaner experience. On […]\nThe post Steam Tests Store Page Redesign To Make Finding Games Easier appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/360877/steam-tests-store-page-redesign-make-finding-games-easier/",
-          "publishedOn": "2025-07-28T04:00:20.000Z",
-          "wordCount": 10179,
-          "title": "Steam Tests Store Page Redesign To Make Finding Games Easier",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Steam-store-redesign-beta.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=360871",
-          "author": "Heirul Kamel",
-          "description": "Samsung has yet to officially unveil its next flagship chipset, the Exynos 2600, but early benchmark leaks have already surfaced online. A new Geekbench listing has revealed the chip’s core configuration and performance numbers, while a separate 3DMark benchmark provides an early look at its GPU capabilities. Spotted bearing the model number S5E9965, the Exynos […]\nThe post Samsung’s Next-Gen Exynos 2600 Flagship Chip Appears On Geekbench appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/360871/samsungs-next-gen-exynos-2600-flagship-chip-appears-on-geekbench/",
-          "publishedOn": "2025-07-28T03:54:27.000Z",
-          "wordCount": 10037,
-          "title": "Samsung’s Next-Gen Exynos 2600 Flagship Chip Appears On Geekbench",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2019/11/exynos1.jpg"
         }
       ]
     },
@@ -22549,6 +22529,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/utilities-factories-encryption-holes-industrial-protocol",
+          "author": "Alexander Culafi",
+          "description": "The OPC UA communication protocol is widely used in industrial settings, but despite its complex cryptography, the open source protocol appears to be vulnerable in a number of different ways.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/utilities-factories-encryption-holes-industrial-protocol",
+          "publishedOn": "2025-08-11T16:08:04.000Z",
+          "wordCount": null,
+          "title": "Utilities, Factories at Risk From Encryption Holes in Industrial Protocol",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-operations/will-secure-ai-hottest-career-path-cybersecurity",
           "author": "Melina Scotto",
