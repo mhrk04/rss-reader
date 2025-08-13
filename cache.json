@@ -20476,38 +20476,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeZrcBOQhbS9YVJR_Cvi4P3Mx4x2g228c8m4JNJwsCEQMq8lLszB1AtcyLIzT_tibWs9glwIFXAx-0Gb4XJywbKQCJW33ilf01r_Bo8soG6Z0jLa7mYrJoBchDnnrUMJinzRTge6DN4m0fMAqDqELO3YU-14uE5IheUFIklhuDVz1UiKTV_D_pEG_2WRu9/s1600/base44.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeZrcBOQhbS9YVJR_Cvi4P3Mx4x2g228c8m4JNJwsCEQMq8lLszB1AtcyLIzT_tibWs9glwIFXAx-0Gb4XJywbKQCJW33ilf01r_Bo8soG6Z0jLa7mYrJoBchDnnrUMJinzRTge6DN4m0fMAqDqELO3YU-14uE5IheUFIklhuDVz1UiKTV_D_pEG_2WRu9/s1600/base44.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The maintainers of the Python Package Index (PyPI) repository have issued a warning about an ongoing phishing attack that's targeting users in an attempt to redirect them to fake PyPI sites.\nThe attack involves sending email messages bearing the subject line \"[PyPI] Email verification\" that are sent from the email address noreply@pypj[.]org (note that the domain is not \"pypi[.]org\").\n\"This is",
-          "link": "https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html",
-          "publishedOn": "2025-07-29T14:27:00.000Z",
-          "wordCount": null,
-          "title": "PyPI Warns of Ongoing Phishing Campaign Using Fake Verification Emails and Lookalike Domain",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRKoKyTG1vCW6-50V_5WrmFvTmEvvKttYiAvH_713-cjhKXKEDxigpXgI0c6KtS8gru-kAOKa_yjr2B12TgtZMRlq1zSKo-E6O9-G0WNq3ud5psPnx1ScYO89FfZsC182jfxewCSaAW-gvXeF3ZS1jKGGkajI_d6qsn1iWAnH8Y4oVQxLkgJZ5Fhop7iqK/s1600/python.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRKoKyTG1vCW6-50V_5WrmFvTmEvvKttYiAvH_713-cjhKXKEDxigpXgI0c6KtS8gru-kAOKa_yjr2B12TgtZMRlq1zSKo-E6O9-G0WNq3ud5psPnx1ScYO89FfZsC182jfxewCSaAW-gvXeF3ZS1jKGGkajI_d6qsn1iWAnH8Y4oVQxLkgJZ5Fhop7iqK/s1600/python.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A newly emerged ransomware-as-a-service (RaaS) gang called Chaos is likely made up of former members of the BlackSuit crew, as the latter's dark web infrastructure has been the subject of a law enforcement seizure.\nChaos, which sprang forth in February 2025, is the latest entrant in the ransomware landscape to conduct big-game hunting and double extortion attacks.\n\"Chaos RaaS actors initiated",
-          "link": "https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html",
-          "publishedOn": "2025-07-29T13:25:00.000Z",
-          "wordCount": null,
-          "title": "Chaos RaaS Emerges After BlackSuit Takedown, Demanding $300K from U.S. Victims",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj4Zcja37l0T66AY6zMHOoBDRmMLQMZZrstpAfJEO-1ZEVlyj4dBOEnhFQtZYhTWeFRKODouDBlJEcKpcwGLMs0KOO4SF-hXTYXuAbpkoOZBQR88_PlUi6FbAux1cieN2zA3kPjVmcALyCU0AP-4P5A0XEeqUQGtFM67mjXsbKC8B92LdDSQkrLKD8m473/s1600/ransomware-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj4Zcja37l0T66AY6zMHOoBDRmMLQMZZrstpAfJEO-1ZEVlyj4dBOEnhFQtZYhTWeFRKODouDBlJEcKpcwGLMs0KOO4SF-hXTYXuAbpkoOZBQR88_PlUi6FbAux1cieN2zA3kPjVmcALyCU0AP-4P5A0XEeqUQGtFM67mjXsbKC8B92LdDSQkrLKD8m473/s1600/ransomware-malware.jpg"
         }
       ]
     },
@@ -20516,6 +20484,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=362423",
+          "author": "John Law",
+          "description": "ARM recently announced its new Neural Super Sampling (NSS), it’s latest AI-powered upscaling algorithm. The algorithm was announced at SIGGRAPH, and is designed to work with low-power ARM devices. The mobile chipmaker claims Neural Super Sampling to be an industry first, and adds dedicated neural accelerators to the integrated GPUs of its chipsets. Another bold […]\nThe post ARM Launches New Neural Super Sampling AI Upscaling Algorithm appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/362423/arm-neural-super-sampling/",
+          "publishedOn": "2025-08-13T02:38:37.000Z",
+          "wordCount": 9925,
+          "title": "ARM Launches New Neural Super Sampling AI Upscaling Algorithm",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/ARM-Neural-Super-Sampling-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=362437",
+          "author": "Heirul Kamel",
+          "description": "Eastman Kodak (or simply “Kodak”), the American photography company with a 133-year-old history, has warned in its latest earnings report that its future may be in jeopardy due to looming debt obligations. According to CNN, the company said it lacks “committed financing or available liquidity” to meet roughly US$500 million (~RM 2.11 billion) in upcoming […]\nThe post Kodak Warn Investors That It May Not Survive Without New Financing appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/362437/kodak-warn-investors-that-it-may-not-survive-without-new-financing/",
+          "publishedOn": "2025-08-13T02:05:27.000Z",
+          "wordCount": 10086,
+          "title": "Kodak Warn Investors That It May Not Survive Without New Financing",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/kodak-file-photo-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=362432",
+          "author": "Nurul Kamil",
+          "description": "Zetrix AI Bhd has recently officially launched its NurAI large language model (LLM), and the company plans on selling the chatbot to financial institutions and government institutions as the next step. At the moment, Zetrix is releasing the so-called world’s first shariah-aligned LLM as a business-to-consumer app in Malaysia, Indonesia, and Brunei. According to a […]\nThe post Zetrix AI To Sell NurAI Chatbot To Financial Institutions, Government Bodies appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/362432/zetrix-ai-to-sell-nurai-chatbot-to-financial-institutions-government-bodies/",
+          "publishedOn": "2025-08-13T01:58:52.000Z",
+          "wordCount": 10190,
+          "title": "Zetrix AI To Sell NurAI Chatbot To Financial Institutions, Government Bodies",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/zetrix-nurai-app-1-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=362427",
+          "author": "Heirul Kamel",
+          "description": "HBO Max and Viu are teaming up to launch a new subscription bundle across multiple Southeast Asian countries later this year. According to The Hollywood Reporter, both companies announced earlier this week that the joint offer is expected to roll out in Q4 2025 in Indonesia, Malaysia, the Philippines, Singapore and Thailand. “Following the proven […]\nThe post HBO Max, Viu To Offer Combined Bundle In Malaysia During Q4 2025 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/362427/hbo-max-viu-to-offer-combined-bundle-in-malaysia-during-q4-2025/",
+          "publishedOn": "2025-08-13T01:14:32.000Z",
+          "wordCount": 10097,
+          "title": "HBO Max, Viu To Offer Combined Bundle In Malaysia During Q4 2025",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/HBO-Max-Viu-bundle-announced-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=362416",
           "author": "Heirul Kamel",
@@ -22404,6 +22412,16 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "The US banned the sale of AI chips to China and then backed off. Now, Chinese sources are calling on NVIDIA to prove its AI chips have no backdoors.",
+          "link": "https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd",
+          "publishedOn": "2025-08-13T01:00:00.000Z",
+          "wordCount": null,
+          "title": "China Questions Security of AI Chips From Nvidia, AMD",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.darkreading.com/application-security/elevation-privilege-vulns-dominate-microsoft-patches",
           "author": "Jai Vijayan, Contributing Writer",
           "description": "The company's August security update consisted of patches for 111 unique Common Vulnerabilities and Exposures (CVEs).",
@@ -23221,36 +23239,6 @@
           "publishedOn": "2025-07-29T20:17:32.000Z",
           "wordCount": null,
           "title": "Nimble 'Gunra' Ransomware Evolves With Linux Variant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access",
-          "author": "Durgaprasad Balakrishnan",
-          "description": "With the right IGA tools, governance policies, and risk thresholds, enterprises can continuously detect and act on rogue access before attackers do.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access",
-          "publishedOn": "2025-07-29T14:00:00.000Z",
-          "wordCount": null,
-          "title": "The Hidden Threat of Rogue Access",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "A now-patched authentication issue on the popular vibe-coding platform gave unauthorized users open access to any private application on Base44.",
-          "link": "https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps",
-          "publishedOn": "2025-07-29T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Critical Flaw in Vibe-Coding Platform Base44 Exposed Apps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/supply-chain-attacks-github-actions-gravity-forms-npm",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "Researchers discovered backdoors, poisoned code, and malicious commits in some of the more popular tool developers, jeopardizing software supply chains.",
-          "link": "https://www.darkreading.com/application-security/supply-chain-attacks-github-actions-gravity-forms-npm",
-          "publishedOn": "2025-07-29T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Supply Chain Attacks Spotted in GitHub Actions, Gravity Forms, npm",
           "imageUrl": null
         }
       ]

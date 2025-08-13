@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-13T00:48:58.604Z</updated>
+    <updated>2025-08-13T02:42:39.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ARM Launches New Neural Super Sampling AI Upscaling Algorithm]]></title>
+        <id>https://www.lowyat.net/?p=362423</id>
+        <link href="https://www.lowyat.net/2025/362423/arm-neural-super-sampling/"/>
+        <updated>2025-08-13T02:38:37.000Z</updated>
+        <summary type="html"><![CDATA[ARM recently announced its new Neural Super Sampling (NSS), it’s latest AI-powered upscaling algorithm. The algorithm was announced at SIGGRAPH, and is designed to work with low-power ARM devices. The mobile chipmaker claims Neural Super Sampling to be an industry first, and adds dedicated neural accelerators to the integrated GPUs of its chipsets. Another bold […]
+The post ARM Launches New Neural Super Sampling AI Upscaling Algorithm appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kodak Warn Investors That It May Not Survive Without New Financing]]></title>
+        <id>https://www.lowyat.net/?p=362437</id>
+        <link href="https://www.lowyat.net/2025/362437/kodak-warn-investors-that-it-may-not-survive-without-new-financing/"/>
+        <updated>2025-08-13T02:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Eastman Kodak (or simply “Kodak”), the American photography company with a 133-year-old history, has warned in its latest earnings report that its future may be in jeopardy due to looming debt obligations. According to CNN, the company said it lacks “committed financing or available liquidity” to meet roughly US$500 million (~RM 2.11 billion) in upcoming […]
+The post Kodak Warn Investors That It May Not Survive Without New Financing appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zetrix AI To Sell NurAI Chatbot To Financial Institutions, Government Bodies]]></title>
+        <id>https://www.lowyat.net/?p=362432</id>
+        <link href="https://www.lowyat.net/2025/362432/zetrix-ai-to-sell-nurai-chatbot-to-financial-institutions-government-bodies/"/>
+        <updated>2025-08-13T01:58:52.000Z</updated>
+        <summary type="html"><![CDATA[Zetrix AI Bhd has recently officially launched its NurAI large language model (LLM), and the company plans on selling the chatbot to financial institutions and government institutions as the next step. At the moment, Zetrix is releasing the so-called world’s first shariah-aligned LLM as a business-to-consumer app in Malaysia, Indonesia, and Brunei. According to a […]
+The post Zetrix AI To Sell NurAI Chatbot To Financial Institutions, Government Bodies appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBO Max, Viu To Offer Combined Bundle In Malaysia During Q4 2025]]></title>
+        <id>https://www.lowyat.net/?p=362427</id>
+        <link href="https://www.lowyat.net/2025/362427/hbo-max-viu-to-offer-combined-bundle-in-malaysia-during-q4-2025/"/>
+        <updated>2025-08-13T01:14:32.000Z</updated>
+        <summary type="html"><![CDATA[HBO Max and Viu are teaming up to launch a new subscription bundle across multiple Southeast Asian countries later this year. According to The Hollywood Reporter, both companies announced earlier this week that the joint offer is expected to roll out in Q4 2025 in Indonesia, Malaysia, the Philippines, Singapore and Thailand. “Following the proven […]
+The post HBO Max, Viu To Offer Combined Bundle In Malaysia During Q4 2025 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Questions Security of AI Chips From Nvidia, AMD]]></title>
+        <id>https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd</id>
+        <link href="https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd"/>
+        <updated>2025-08-13T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The US banned the sale of AI chips to China and then backed off. Now, Chinese sources are calling on NVIDIA to prove its AI chips have no backdoors.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elevation-of-Privilege Vulns Dominate Microsoft's Patch Tuesday]]></title>
         <id>https://www.darkreading.com/application-security/elevation-privilege-vulns-dominate-microsoft-patches</id>
@@ -3720,60 +3774,6 @@ The post Govt Scraps Plan To Introduce Luxury Goods Tax appeared first on Lowyat
 "The vulnerability we discovered was remarkably simple to exploit -- by providing only a non-secret app_id value to undocumented registration and email verification endpoints, an attacker]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyPI Warns of Ongoing Phishing Campaign Using Fake Verification Emails and Lookalike Domain]]></title>
-        <id>https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html</id>
-        <link href="https://thehackernews.com/2025/07/pypi-warns-of-ongoing-phishing-campaign.html"/>
-        <updated>2025-07-29T14:27:00.000Z</updated>
-        <summary type="html"><![CDATA[The maintainers of the Python Package Index (PyPI) repository have issued a warning about an ongoing phishing attack that's targeting users in an attempt to redirect them to fake PyPI sites.
-The attack involves sending email messages bearing the subject line "[PyPI] Email verification" that are sent from the email address noreply@pypj[.]org (note that the domain is not "pypi[.]org").
-"This is]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Threat of Rogue Access]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access"/>
-        <updated>2025-07-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the right IGA tools, governance policies, and risk thresholds, enterprises can continuously detect and act on rogue access before attackers do.]]></summary>
-        <author>
-            <name>Durgaprasad Balakrishnan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaw in Vibe-Coding Platform Base44 Exposed Apps]]></title>
-        <id>https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps</id>
-        <link href="https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps"/>
-        <updated>2025-07-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A now-patched authentication issue on the popular vibe-coding platform gave unauthorized users open access to any private application on Base44.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaos RaaS Emerges After BlackSuit Takedown, Demanding $300K from U.S. Victims]]></title>
-        <id>https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html</id>
-        <link href="https://thehackernews.com/2025/07/chaos-raas-emerges-after-blacksuit.html"/>
-        <updated>2025-07-29T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A newly emerged ransomware-as-a-service (RaaS) gang called Chaos is likely made up of former members of the BlackSuit crew, as the latter's dark web infrastructure has been the subject of a law enforcement seizure.
-Chaos, which sprang forth in February 2025, is the latest entrant in the ransomware landscape to conduct big-game hunting and double extortion attacks.
-"Chaos RaaS actors initiated]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supply Chain Attacks Spotted in GitHub Actions, Gravity Forms, npm]]></title>
-        <id>https://www.darkreading.com/application-security/supply-chain-attacks-github-actions-gravity-forms-npm</id>
-        <link href="https://www.darkreading.com/application-security/supply-chain-attacks-github-actions-gravity-forms-npm"/>
-        <updated>2025-07-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers discovered backdoors, poisoned code, and malicious commits in some of the more popular tool developers, jeopardizing software supply chains.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer</name>
         </author>
     </entry>
     <entry>
