@@ -20524,22 +20524,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-osedpltO3AiRiXWxxPTLez_R-54NY1Eos0JbNVI-yREaajdzbdb7YHC78kmkJAMyQVE0YfrX1GoasH4Ru1PCzq0KKJepBK2IFSPx8HI07i5MFsegUNCFLRsnh3T4zWFSnJGmHb2o2EAEp1TMf1A5UBdlxVLgfA2rbZwHtL7wLdE5lbaqMf2uhNiBzzaL/s1600/apple.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-osedpltO3AiRiXWxxPTLez_R-54NY1Eos0JbNVI-yREaajdzbdb7YHC78kmkJAMyQVE0YfrX1GoasH4Ru1PCzq0KKJepBK2IFSPx8HI07i5MFsegUNCFLRsnh3T4zWFSnJGmHb2o2EAEp1TMf1A5UBdlxVLgfA2rbZwHtL7wLdE5lbaqMf2uhNiBzzaL/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has announced that it's making a security feature called Device Bound Session Credentials (DBSC) in open beta to ensure that users are safeguarded against session cookie theft attacks.\nDBSC, first introduced as a prototype in April 2024, is designed to bind authentication sessions to a device so as to prevent threat actors from using stolen cookies to sign-in to victims' accounts and gain",
-          "link": "https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html",
-          "publishedOn": "2025-07-30T09:21:00.000Z",
-          "wordCount": null,
-          "title": "Google Launches DBSC Open Beta in Chrome and Enhances Patch Transparency via Project Zero",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_X0qYyIcH-M0bDL7Y1LgpA0Cq6g8lp0UtxlOUhPGUdehXwtL7q4FwjNSSm-oo_28z4_umFDm1bKwuAofAlWAcp8XScsGw9pl-ZOVglgSANm8SZF2IiOfHXCiSHXxfnUqLG0267X6LObs2NPJnUNA3gUvJRTIIbefFLhRCEcgkObL8b0HRPz9_EHVrIoC/s1600/google-chrome.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb_X0qYyIcH-M0bDL7Y1LgpA0Cq6g8lp0UtxlOUhPGUdehXwtL7q4FwjNSSm-oo_28z4_umFDm1bKwuAofAlWAcp8XScsGw9pl-ZOVglgSANm8SZF2IiOfHXCiSHXxfnUqLG0267X6LObs2NPJnUNA3gUvJRTIIbefFLhRCEcgkObL8b0HRPz9_EHVrIoC/s1600/google-chrome.jpg"
         }
       ]
     },
@@ -22487,16 +22471,6 @@
           "wordCount": 10398,
           "title": "TikTok Announces New Safety Tools For Families, Creators",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/03/tiktok-social-media.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=361194",
-          "author": "Keran",
-          "description": "The Works Ministry Secretary-General, Datuk Seri Azman Ibrahim, has announced that the Multi-Lane Free Flow (MLFF) toll collection system is expected to be implemented by 2027. He noted that the project involves several critical phases, including stakeholder engagement, a potential request for proposal (RFP) from highway concessionaires, and the establishment of a regulatory body under […]\nThe post Malaysia Aims For MLFF Toll System Implementation By 2027 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/361194/malaysia-aims-for-mlff-toll-system-implementation-by-2027/",
-          "publishedOn": "2025-07-30T09:10:52.000Z",
-          "wordCount": 10290,
-          "title": "Malaysia Aims For MLFF Toll System Implementation By 2027",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/03/Sungai-Besi-MLFF-highway-POC-location-works-minister-1.jpeg"
         }
       ]
     },
@@ -22506,6 +22480,16 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/fortinet-products-in-crosshairs-again",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "The company disclosed a critical FortiSIEM flaw with a PoC exploit for it the same week researchers warned of an ominous surge in malicious traffic targeting the vendor's SSL VPNs.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/fortinet-products-in-crosshairs-again",
+          "publishedOn": "2025-08-13T21:15:49.000Z",
+          "wordCount": null,
+          "title": "Fortinet Products Are in the Crosshairs Again",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.darkreading.com/vulnerabilities-threats/xz-utils-backdoor-live-old-docker-images",
           "author": "Alexander Culafi",
           "description": "Developers maintaining the images made the \"intentional choice\" to leave the artifacts available as \"a historical curiosity,\" given the improbability they'd be exploited.",
@@ -22513,6 +22497,16 @@
           "publishedOn": "2025-08-13T20:09:03.000Z",
           "wordCount": null,
           "title": "Whispers of XZ Utils Backdoor Live on in Old Docker Images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/popular-ai-systems-still-work-in-progress-security",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "According to a recent Forescout analysis, open-source models were significantly less successful in vulnerability research than commercial and underground models.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/popular-ai-systems-still-work-in-progress-security",
+          "publishedOn": "2025-08-13T19:08:09.000Z",
+          "wordCount": null,
+          "title": "Popular AI Systems Still a Work-in-Progress for Security",
           "imageUrl": null
         },
         {
