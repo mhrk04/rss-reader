@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-13T14:11:01.502Z</updated>
+    <updated>2025-08-13T14:47:15.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zoom and Xerox Release Critical Security Updates Fixing Privilege Escalation and RCE Flaws]]></title>
+        <id>https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html</id>
+        <link href="https://thehackernews.com/2025/08/zoom-and-xerox-release-critical.html"/>
+        <updated>2025-08-13T13:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Zoom and Xerox have addressed critical security flaws in Zoom Clients for Windows and FreeFlow Core that could allow privilege escalation and remote code execution. 
+The vulnerability impacting Zoom Clients for Windows, tracked as CVE-2025-49457 (CVSS score: 9.6), relates to a case of an untrusted search path that could pave the way for privilege escalation.
+"Untrusted search path in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fortinet Warns About FortiSIEM Vulnerability (CVE-2025-25256) With In-the-Wild Exploit Code]]></title>
         <id>https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html</id>
@@ -3941,28 +3953,6 @@ The post Leakster Shares Images Of Dummies For iPhone 17 Range appeared first on
 The post Avatr 11 Officially Debuts In Singapore appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 10 May Feature Built-In Magnets After All]]></title>
-        <id>https://www.lowyat.net/?p=361109</id>
-        <link href="https://www.lowyat.net/2025/361109/google-pixel-10-may-feature-built-in-magnets-after-all/"/>
-        <updated>2025-07-30T02:32:11.000Z</updated>
-        <summary type="html"><![CDATA[As with any other anticipated smartphone lineup, the Google Pixel 10 series has been the subject of a myriad of rumours and leaks ahead of its launch. One such leak suggested the presence of Qi2 magnets on the phones, although a later report contradicted this claim. Now, a new image seems to indicate that the […]
-The post Google Pixel 10 May Feature Built-In Magnets After All appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung May Replace Base Galaxy S26 With A New “Pro” Model]]></title>
-        <id>https://www.lowyat.net/?p=361111</id>
-        <link href="https://www.lowyat.net/2025/361111/samsung-may-replace-base-galaxy-s26-with-new-pro-model/"/>
-        <updated>2025-07-30T02:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Samsung appears to be preparing a major shake-up for its flagship Galaxy S series in 2026, potentially doing away with the standard model and replacing it with a rebranded and more premium-focused lineup. According to findings within an internal One UI 8 build by Android Authority, the upcoming line-up will allegedly consist of the Galaxy […]
-The post Samsung May Replace Base Galaxy S26 With A New “Pro” Model appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
         </author>
     </entry>
     <entry>
