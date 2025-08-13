@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-13T11:40:29.323Z</updated>
+    <updated>2025-08-13T12:18:46.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Warns About FortiSIEM Vulnerability (CVE-2025-25256) With In-the-Wild Exploit Code]]></title>
+        <id>https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html</id>
+        <link href="https://thehackernews.com/2025/08/fortinet-warns-about-fortisiem.html"/>
+        <updated>2025-08-13T11:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet is alerting customers of a critical security flaw in FortiSIEM for which it said there exists an exploit in the wild.
+The vulnerability, tracked as CVE-2025-25256, carries a CVSS score of 9.8 out of a maximum of 10.0.
+"An improper neutralization of special elements used in an OS command ('OS Command Injection') vulnerability [CWE-78] in FortiSIEM may allow an unauthenticated attacker to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI SOC 101: Key Capabilities Security Leaders Need to Know]]></title>
+        <id>https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html</id>
+        <link href="https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html"/>
+        <updated>2025-08-13T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Security operations have never been a 9-to-5 job. For SOC analysts, the day often starts and ends deep in a queue of alerts, chasing down what turns out to be false positives, or switching between half a dozen tools to piece together context. The work is repetitive, time-consuming, and high-stakes, leaving SOCs under constant pressure to keep up, yet often struggling to stay ahead of emerging]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CMF Buds 2 Lightning Review: Cheap And Mildly Cheerful]]></title>
         <id>https://www.lowyat.net/?p=360242</id>
