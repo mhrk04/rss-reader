@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-14T15:44:26.674Z</updated>
+    <updated>2025-08-14T16:12:16.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks]]></title>
+        <id>https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html</id>
+        <link href="https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html"/>
+        <updated>2025-08-14T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple HTTP/2 implementations have been found susceptible to a new attack technique called MadeYouReset that could be explored to conduct powerful denial-of-service (DoS) attacks.
+"MadeYouReset bypasses the typical server-imposed limit of 100 concurrent HTTP/2 requests per TCP connection from a client. This limit is intended to mitigate DoS attacks by restricting the number of simultaneous]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navigating the Cybersecurity Budget Tug-of-War]]></title>
         <id>https://www.darkreading.com/cybersecurity-operations/navigating-cybersecurity-budget-tug-of-war</id>

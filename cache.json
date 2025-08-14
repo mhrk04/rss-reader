@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple HTTP/2 implementations have been found susceptible to a new attack technique called MadeYouReset that could be explored to conduct powerful denial-of-service (DoS) attacks.\n\"MadeYouReset bypasses the typical server-imposed limit of 100 concurrent HTTP/2 requests per TCP connection from a client. This limit is intended to mitigate DoS attacks by restricting the number of simultaneous",
+          "link": "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html",
+          "publishedOn": "2025-08-14T15:20:00.000Z",
+          "wordCount": null,
+          "title": "New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSC8RKDZAKsjpLyVVFosJoZD1m9wfshysodB782T1n0QhxEVQ6b0yg6voBA8GJwdpBM3flhXMFih32VbT4vsHW2fKmKmFi1glN_34KVKflWVzue9XMBfamEI3jubKlIRXqmRdc95Wf2kYDM-gTta9z0-dTPzfkXjqKwD-kITRuUHOU5BZFgeqa0907-nEO/s1600/dos-attack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSC8RKDZAKsjpLyVVFosJoZD1m9wfshysodB782T1n0QhxEVQ6b0yg6voBA8GJwdpBM3flhXMFih32VbT4vsHW2fKmKmFi1glN_34KVKflWVzue9XMBfamEI3jubKlIRXqmRdc95Wf2kYDM-gTta9z0-dTPzfkXjqKwD-kITRuUHOU5BZFgeqa0907-nEO/s1600/dos-attack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Japan's CERT coordination center (JPCERT/CC) on Thursday revealed it observed incidents that involved the use of a command-and-control (C2) framework called CrossC2, which is designed to extend the functionality of Cobalt Strike to other platforms like Linux and Apple macOS for cross-platform system control.\nThe agency said the activity was detected between September and December 2024, targeting",
