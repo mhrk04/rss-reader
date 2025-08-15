@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has released security updates to address a maximum-severity security flaw in Secure Firewall Management Center (FMC) Software that could allow an attacker to execute arbitrary code on affected systems.\nThe vulnerability, assigned the CVE identifier CVE-2025-20265 (CVSS score: 10.0), affects the RADIUS subsystem implementation that could permit an unauthenticated, remote attacker to inject",
+          "link": "https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html",
+          "publishedOn": "2025-08-15T06:49:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikiELTSHyWHi7CSFi6tYtpffVVvHCmkPhCmPVocvkSuRS54UnTJ9IZUpKS88W021yRHJrtjQw24uS_6-zkLCcxJHT959CPDLmMm27WCb98N3lBJl1rMl5fwzXNE0E52W9ASt_jTJPxBZmC_xpX7S6UqiOgmAnF5ZkyBv9QYqzOei7t6zyrh4T59G01i_bg/s1600/cisco-flaw.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikiELTSHyWHi7CSFi6tYtpffVVvHCmkPhCmPVocvkSuRS54UnTJ9IZUpKS88W021yRHJrtjQw24uS_6-zkLCcxJHT959CPDLmMm27WCb98N3lBJl1rMl5fwzXNE0E52W9ASt_jTJPxBZmC_xpX7S6UqiOgmAnF5ZkyBv9QYqzOei7t6zyrh4T59G01i_bg/s1600/cisco-flaw.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Multiple HTTP/2 implementations have been found susceptible to a new attack technique called MadeYouReset that could be explored to conduct powerful denial-of-service (DoS) attacks.\n\"MadeYouReset bypasses the typical server-imposed limit of 100 concurrent HTTP/2 requests per TCP connection from a client. This limit is intended to mitigate DoS attacks by restricting the number of simultaneous",
@@ -23276,26 +23292,6 @@
           "publishedOn": "2025-07-31T20:50:49.000Z",
           "wordCount": null,
           "title": "Gen Z Falls for Scams 2x More Than Older Generations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/dragonforce-ransom-cartel-profits-rivals-demise",
-          "author": "Alexander Culafi",
-          "description": "The fall of RansomHub led to a major consolidation of the ransomware ecosystem last quarter, which was a boon for the DragonForce and Qilin gangs.",
-          "link": "https://www.darkreading.com/threat-intelligence/dragonforce-ransom-cartel-profits-rivals-demise",
-          "publishedOn": "2025-07-31T19:31:26.000Z",
-          "wordCount": null,
-          "title": "DragonForce Ransom Cartel Profits Off Rivals' Demise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/safepay-ingram-micro-breach-ransom-deadline",
-          "author": "Rob Wright",
-          "description": "The ransomware gang claims to have stolen 3.5TB of data, and told the technology distributor to pay up or suffer a data breach.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/safepay-ingram-micro-breach-ransom-deadline",
-          "publishedOn": "2025-07-31T19:17:11.000Z",
-          "wordCount": null,
-          "title": "SafePay Claims Ingram Micro Breach, Sets Ransom Deadline",
           "imageUrl": null
         }
       ]
