@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a malicious package in the Python Package Index (PyPI) repository that introduces malicious behavior through a dependency that allows it to establish persistence and achieve code execution.\nThe package, named termncolor, realizes its nefarious functionality through a dependency package called colorinal by means of a multi-stage malware operation, Zscaler",
+          "link": "https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html",
+          "publishedOn": "2025-08-18T10:56:00.000Z",
+          "wordCount": null,
+          "title": "Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVsQYKjexzkMnch22MOTvXSwDN6onx14trYKhLvwcZcHEW2ElmUO0XW54awgmKvUpGtoqlC5fgIUzKQLKBGEiyVA2euYrQssz-dqOtnNlIdB1XMMGiaO9X9uYNpIJhnMopdwsUPMm09nScKO_2ky774eu-Cps0bFrGeX63WpAZH4ALk8EvdH25qmJPk0Xq/s1600/package.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVsQYKjexzkMnch22MOTvXSwDN6onx14trYKhLvwcZcHEW2ElmUO0XW54awgmKvUpGtoqlC5fgIUzKQLKBGEiyVA2euYrQssz-dqOtnNlIdB1XMMGiaO9X9uYNpIJhnMopdwsUPMm09nScKO_2ky774eu-Cps0bFrGeX63WpAZH4ALk8EvdH25qmJPk0Xq/s1600/package.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Organizations handling various forms of sensitive data or personally identifiable information (PII) require adherence to regulatory compliance standards and frameworks. These compliance standards also apply to organizations operating in regulated sectors such as healthcare, finance, government contracting, or education. Some of these standards and frameworks include, but are not limited to:",
@@ -22522,6 +22538,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/new-quantum-safe-alliance-accelerate-pqc-implementation",
+          "author": "Jeffrey Schwartz",
+          "description": "The new Quantum-Safe 360 Alliance will provide roadmaps, technology, and services to help organizations navigate the post-quantum cryptography transition before the 2030 deadline.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/new-quantum-safe-alliance-accelerate-pqc-implementation",
+          "publishedOn": "2025-08-15T22:16:11.000Z",
+          "wordCount": null,
+          "title": "New Quantum-Safe Alliance Aims to Accelerate PQC Implementation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/endpoint-security/realdefense-opens-10m-fund-smartscan-cybersecurity-sdk",
           "author": null,
