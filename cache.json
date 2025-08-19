@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new exploit combining two critical, now-patched security flaws in SAP NetWeaver has emerged in the wild, putting organizations at risk of system compromise and data theft.\nThe exploit in question chains together CVE-2025-31324 and CVE-2025-42999 to bypass authentication and achieve remote code execution, SAP security company Onapsis said.\n\nCVE-2025-31324 (CVSS score: 10.0) - Missing",
+          "link": "https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html",
+          "publishedOn": "2025-08-19T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_U_IAg6-6xvngNpsDACirnnYY8fdExWFUhb7SLUdORIxO21DNeWABff_HISoWKMT7p05jv3ovNs0r7IQtkWvfeKGhBJGtsV0eE-TZDJ6gpx_IjV-scUsiyyc4TQ53-eWNBIcNox3Ws0Tjb6IcWQa6aUbkC9qVekrUV2otQ7sph0PT9mfO54PdCAoRiAOA/s1600/sap.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_U_IAg6-6xvngNpsDACirnnYY8fdExWFUhb7SLUdORIxO21DNeWABff_HISoWKMT7p05jv3ovNs0r7IQtkWvfeKGhBJGtsV0eE-TZDJ6gpx_IjV-scUsiyyc4TQ53-eWNBIcNox3Ws0Tjb6IcWQa6aUbkC9qVekrUV2otQ7sph0PT9mfO54PdCAoRiAOA/s1600/sap.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.K. government has apparently abandoned its plans to force Apple to weaken encryption protections and include a backdoor that would have enabled access to the protected data of U.S. citizens.\nU.S. Director of National Intelligence (DNI) Tulsi Gabbard, in a statement posted on X, said the U.S. government had been working with its partners with the U.K. over the past few months to ensure that",
