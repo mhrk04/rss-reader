@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-21T17:08:29.128Z</updated>
+    <updated>2025-08-21T17:46:29.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks]]></title>
+        <id>https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html</id>
+        <link href="https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html"/>
+        <updated>2025-08-21T16:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Commvault has released updates to address four security gaps that could be exploited to achieve remote code execution on susceptible instances.
+The list of vulnerabilities, identified in Commvault versions before 11.36.60, is as follows -
+
+CVE-2025-57788 (CVSS score: 6.9) - A vulnerability in a known login mechanism allows unauthenticated attackers to execute API calls without requiring user]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages]]></title>
         <id>https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html</id>
@@ -453,6 +466,16 @@ The post Google Pixel 10 Official In Malaysia From RM3,999 appeared first on Low
 The post Google Pixel 10 Pro, Pro XL Officially Launched; Pre-Order Starts From RM4,999 appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree of AST: A Bug-Hunting Framework Powered by LLMs]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/tree-ast-bug-hunting-framework-llms</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/tree-ast-bug-hunting-framework-llms"/>
+        <updated>2025-08-20T16:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Teenaged security researchers Sasha Zyuzin and Ruikai Peng discuss how their new vulnerability discovery framework leverages LLMs to address limitations of the past.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
         </author>
     </entry>
     <entry>

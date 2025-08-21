@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Commvault has released updates to address four security gaps that could be exploited to achieve remote code execution on susceptible instances.\nThe list of vulnerabilities, identified in Commvault versions before 11.36.60, is as follows -\n\nCVE-2025-57788 (CVSS score: 6.9) - A vulnerability in a known login mechanism allows unauthenticated attackers to execute API calls without requiring user",
+          "link": "https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html",
+          "publishedOn": "2025-08-21T16:38:00.000Z",
+          "wordCount": null,
+          "title": "Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdwjHA2A_QLHrS_RmHR2WKprC-3BnNSfdu5D1uDAB8aj0d61mf1xs0TIWBZFBBEjnG8eMsHB5AsoaXxnMXXzlD9Ura-GFTkmKaND90EqLQUTgeb0Vh476_pVbp4YVK7eDI3me8VqLHyRyWqQlNu2ZUI_MywL95FWjp5gxxQUHOV4I1serzFbbgJeHnJpa2/s1600/flaws.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdwjHA2A_QLHrS_RmHR2WKprC-3BnNSfdu5D1uDAB8aj0d61mf1xs0TIWBZFBBEjnG8eMsHB5AsoaXxnMXXzlD9Ura-GFTkmKaND90EqLQUTgeb0Vh476_pVbp4YVK7eDI3me8VqLHyRyWqQlNu2ZUI_MywL95FWjp5gxxQUHOV4I1serzFbbgJeHnJpa2/s1600/flaws.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors have been observed leveraging the deceptive social engineering tactic known as ClickFix to deploy a versatile backdoor codenamed CORNFLAKE.V3.\nGoogle-owned Mandiant described the activity, which it tracks as UNC5518, as part of an access-as-a-service scheme that employs fake CAPTCHA pages as lures to trick users into providing initial access to their systems, which is then",
@@ -22571,6 +22587,16 @@
           "publishedOn": "2025-08-20T18:08:44.000Z",
           "wordCount": null,
           "title": "Incode Acquires AuthenticID to Enhance AI-Driven Identity Verification",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/tree-ast-bug-hunting-framework-llms",
+          "author": "Alexander Culafi",
+          "description": "Teenaged security researchers Sasha Zyuzin and Ruikai Peng discuss how their new vulnerability discovery framework leverages LLMs to address limitations of the past.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/tree-ast-bug-hunting-framework-llms",
+          "publishedOn": "2025-08-20T16:22:07.000Z",
+          "wordCount": null,
+          "title": "Tree of AST: A Bug-Hunting Framework Powered by LLMs",
           "imageUrl": null
         },
         {
