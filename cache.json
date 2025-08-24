@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a malicious Go module that presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator.\n\"On the first successful login, the package sends the target IP address, username, and password to a hard-coded Telegram bot controlled by the threat actor,\" Socket researcher Kirill Boychenko",
+          "link": "https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html",
+          "publishedOn": "2025-08-24T13:38:00.000Z",
+          "wordCount": null,
+          "title": "Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MS2EnkJx0smfkh9jPgVCwzAVD9zpIkpEoYP8Z30l20DYhHW2USZrRxJeP56Q62VenfhR02Iq0QO3wH12F-n2YjipfM5yHArlYlRiimnghudGACbXklxwbxAO-TDWHD_9rG4cXDlK7VpHNUf8MWejLdNn6th5n17jPbzPCoy5pzJjQ7tATwsTR-PgI1AU/s1600/ssh-tool.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MS2EnkJx0smfkh9jPgVCwzAVD9zpIkpEoYP8Z30l20DYhHW2USZrRxJeP56Q62VenfhR02Iq0QO3wH12F-n2YjipfM5yHArlYlRiimnghudGACbXklxwbxAO-TDWHD_9rG4cXDlK7VpHNUf8MWejLdNn6th5n17jPbzPCoy5pzJjQ7tATwsTR-PgI1AU/s1600/ssh-tool.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are calling attention to multiple campaigns that leverage known security vulnerabilities and expose Redis servers to various malicious activities, including leveraging the compromised devices as IoT botnets, residential proxies, or cryptocurrency mining infrastructure.\nThe first set of attacks entails the exploitation of CVE-2024-36401 (CVSS score: 9.8), a critical",
@@ -22287,16 +22303,6 @@
           "wordCount": 9832,
           "title": "Samsung Is Already Working On Galaxy Watch9 And 10",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/samsung-galaxy-watch8-classic-unpacked_09.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=362083",
-          "author": "Nurul Kamil",
-          "description": "Following the announcement last month, DJI has released its first robot vacuum, the DJI Romo. The Romo sets itself apart from other robot vacuums by incorporating the company’s expertise in drone technology into its design. To start off, the Romo features a binocular fisheye vision system and three wide-angle solid-state laser radars. This allows the […]\nThe post DJI Romo Robot Vacuum Debuts In China appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/362083/dji-romo-robot-vacuum-debuts-in-china/",
-          "publishedOn": "2025-08-10T01:00:27.000Z",
-          "wordCount": 9901,
-          "title": "DJI Romo Robot Vacuum Debuts In China",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/dji-romo-launch-china-4.jpg"
         }
       ]
     },

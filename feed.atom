@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-24T12:32:53.623Z</updated>
+    <updated>2025-08-24T15:16:01.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot]]></title>
+        <id>https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html</id>
+        <link href="https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html"/>
+        <updated>2025-08-24T13:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a malicious Go module that presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator.
+"On the first successful login, the package sends the target IP address, username, and password to a hard-coded Telegram bot controlled by the threat actor," Socket researcher Kirill Boychenko]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toyota Vios Hybrid (Yaris Ativ) Debuts in Thailand]]></title>
         <id>https://www.lowyat.net/?p=363745</id>
@@ -3724,17 +3735,6 @@ The post OpenAI Brings Back GPT-4o Model For Plus Users appeared first on Lowyat
 The post Samsung Is Already Working On Galaxy Watch9 And 10 appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJI Romo Robot Vacuum Debuts In China]]></title>
-        <id>https://www.lowyat.net/?p=362083</id>
-        <link href="https://www.lowyat.net/2025/362083/dji-romo-robot-vacuum-debuts-in-china/"/>
-        <updated>2025-08-10T01:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Following the announcement last month, DJI has released its first robot vacuum, the DJI Romo. The Romo sets itself apart from other robot vacuums by incorporating the company’s expertise in drone technology into its design. To start off, the Romo features a binocular fisheye vision system and three wide-angle solid-state laser radars. This allows the […]
-The post DJI Romo Robot Vacuum Debuts In China appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
         </author>
     </entry>
     <entry>
