@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The financially motivated threat actor known as Storm-0501 has been observed refining its tactics to conduct data exfiltration and extortion attacks targeting cloud environments.\n\"Unlike traditional on-premises ransomware, where the threat actor typically deploys malware to encrypt critical files across endpoints within the compromised network and then negotiates for a decryption key,",
+          "link": "https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html",
+          "publishedOn": "2025-08-27T19:04:00.000Z",
+          "wordCount": null,
+          "title": "Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicQuE8yfWyaamT0a9dChjurt2pRrbenRZMNVxxboB4P43y9M_1t4WjWDxKO3sSRTE8j-Wm_1hlwWGTpYpeycKfVfnT8zPY1wk6YcsKlJrWtqNSUp1drOz_CMmQ8mW53WrgXcZ1nFadQV_lMy8nV4hZHEyBxl6Rtttne66LQg-kPxRsrcEhllalv61aPDC1/s1600/msms.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicQuE8yfWyaamT0a9dChjurt2pRrbenRZMNVxxboB4P43y9M_1t4WjWDxKO3sSRTE8j-Wm_1hlwWGTpYpeycKfVfnT8zPY1wk6YcsKlJrWtqNSUp1drOz_CMmQ8mW53WrgXcZ1nFadQV_lMy8nV4hZHEyBxl6Rtttne66LQg-kPxRsrcEhllalv61aPDC1/s1600/msms.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity company ESET has disclosed that it discovered an artificial intelligence (AI)-powered ransomware variant codenamed PromptLock.\nWritten in Golang, the newly identified strain uses the gpt-oss:20b model from OpenAI locally via the Ollama API to generate malicious Lua scripts in real-time. The open-weight language model was released by OpenAI earlier this month.\n\"PromptLock",
@@ -20396,22 +20412,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwkBYhVPQyjnx61GIIOwTU02AEUOrboSh-x1o1WF9sXIokkclXEzDmGz0RIXlalJieYEeX_22VTp6YnhNEjblE5ALWCunZHSzjUpiDqn1NBM4yF40ODdcde926y220G1_a5k3ngF_kdyLKLGGHBY6ODh8ZyHdiI5MNuQAoAeXpNBEzm_jD9fyIFvHlVyg/s1600/ai-cyberattacks.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwkBYhVPQyjnx61GIIOwTU02AEUOrboSh-x1o1WF9sXIokkclXEzDmGz0RIXlalJieYEeX_22VTp6YnhNEjblE5ALWCunZHSzjUpiDqn1NBM4yF40ODdcde926y220G1_a5k3ngF_kdyLKLGGHBY6ODh8ZyHdiI5MNuQAoAeXpNBEzm_jD9fyIFvHlVyg/s1600/ai-cyberattacks.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft on Tuesday rolled out fixes for a massive set of 111 security flaws across its software portfolio, including one flaw that has been disclosed as publicly known at the time of the release.\nOf the 111 vulnerabilities, 16 are rated Critical, 92 are rated Important, two are rated Moderate, and one is rated Low in severity. Forty-four of the vulnerabilities relate to privilege",
-          "link": "https://thehackernews.com/2025/08/microsoft-august-2025-patch-tuesday.html",
-          "publishedOn": "2025-08-13T08:47:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft August 2025 Patch Tuesday Fixes Kerberos Zero-Day Among 111 Total New Flaws",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLmCadJaow0NdJcMyuqnydue0tb1OvQGkBiKZD3egXEsjre1S6y8oZlwQFdU_WZgDsrvYmjMaACNI1wqxAPEJ-w3CZcICnt_icxwmrjF9QCquvibkM7dwK0RF-QJ6NwcWtN7Wsp2K3XHmppTGghrNm1Uh8SQPF4K3tfPQLqWk4s1sXPh9C73FWK7mM0GdE/s1600/windows-updates.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLmCadJaow0NdJcMyuqnydue0tb1OvQGkBiKZD3egXEsjre1S6y8oZlwQFdU_WZgDsrvYmjMaACNI1wqxAPEJ-w3CZcICnt_icxwmrjF9QCquvibkM7dwK0RF-QJ6NwcWtN7Wsp2K3XHmppTGghrNm1Uh8SQPF4K3tfPQLqWk4s1sXPh9C73FWK7mM0GdE/s1600/windows-updates.jpg"
         }
       ]
     },
@@ -22434,26 +22434,6 @@
           "wordCount": 10287,
           "title": "HSBC Launches New Premier Card Travel Benefits To Entice New Customers",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/HSBC-Premier-2025-9-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=362507",
-          "author": "Ian Chee",
-          "description": "The Ministry of Digital has announced what it calls the National Cloud Computing Policy (NCCP). In general, the policy is meant to set a “strategic pathway for cloud adoption, driving innovation, economic resilience and digital inclusivity” for the country. This then contributes to one of the goals associated with the policy, which is to establish […]\nThe post Govt Aims For Malaysia To Be Regional Cloud Hub By 2030 With NCCP Launch appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/362507/govt-aims-malaysia-regional-cloud-hub-by-2030-nccp-launch/",
-          "publishedOn": "2025-08-13T09:04:27.000Z",
-          "wordCount": 10020,
-          "title": "Govt Aims For Malaysia To Be Regional Cloud Hub By 2030 With NCCP Launch",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/Digital-Ministry.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=362502",
-          "author": "Heirul Kamel",
-          "description": "BlackBerry has announced a major expansion of its Secure Communications division’s Asia Pacific (APAC) headquarters in Malaysia, signalling a deeper long-term commitment to both the country and the wider ASEAN region. The move comes after the successful launch of the MCMC–BlackBerry Cybersecurity Center of Excellence (CCoE) in Cyberjaya in March 2024. The expansion sees BlackBerry […]\nThe post BlackBerry Announces Expansion Of Its APAC Secure Communications HQ In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/362502/blackberry-apac-secure-communications-hq-msia-expansion/",
-          "publishedOn": "2025-08-13T06:35:51.000Z",
-          "wordCount": 10043,
-          "title": "BlackBerry Announces Expansion Of Its APAC Secure Communications HQ In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/blackberry-apac-hq-expansion-malaysia-1.jpg"
         }
       ]
     },
@@ -22462,6 +22442,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/zipline-phishers-victims-email-first",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "\"ZipLine\" appears to be a sophisticated and carefully planned campaign that has already affected dozens of small, medium, and large organizations across multiple industry sectors.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/zipline-phishers-victims-email-first",
+          "publishedOn": "2025-08-27T20:35:28.000Z",
+          "wordCount": null,
+          "title": "'ZipLine' Phishers Flip Script as Victims Email First",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/nevada-state-agencies-cyberattack",
+          "author": "Kristina Beek",
+          "description": "In response to a cyberattack that was first detected on Sunday, the governor shut down in-person services for state offices while restoration efforts are underway.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/nevada-state-agencies-cyberattack",
+          "publishedOn": "2025-08-27T19:59:53.000Z",
+          "wordCount": null,
+          "title": "Nevada's State Agencies Shutter in Wake of Cyberattack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/china-hijacks-captive-portals-spy-asian-diplomats",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "The Mustang Panda APT is hijacking Google Chrome browsers when they attempt to connect to new networks and redirecting them to phishing sites.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-hijacks-captive-portals-spy-asian-diplomats",
+          "publishedOn": "2025-08-27T19:31:03.000Z",
+          "wordCount": null,
+          "title": "China Hijacks Captive Portals to Spy on Asian Diplomats",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/google-salesforce-attacks-third-party-app",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "A group tracked as UNC6395 engaged in \"widespread data theft\" via compromised OAuth tokens from a third-party app called Salesloft Drift.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/google-salesforce-attacks-third-party-app",
+          "publishedOn": "2025-08-27T19:05:37.000Z",
+          "wordCount": null,
+          "title": "Google: Salesforce Attacks Stemmed From Third-Party App",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cloud-security/storm-0501-cloud-based-ransomware-attack",
           "author": "Alexander Culafi",
