@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-27T15:18:30.662Z</updated>
+    <updated>2025-08-27T18:24:28.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Someone Created First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model]]></title>
+        <id>https://thehackernews.com/2025/08/someone-created-first-ai-powered.html</id>
+        <link href="https://thehackernews.com/2025/08/someone-created-first-ai-powered.html"/>
+        <updated>2025-08-27T17:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity company ESET has disclosed that it discovered an artificial intelligence (AI)-powered ransomware variant codenamed PromptLock.
+Written in Golang, the newly identified strain uses the gpt-oss:20b model from OpenAI locally via the Ollama API to generate malicious Lua scripts in real-time. The open-weight language model was released by OpenAI earlier this month.
+"PromptLock]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storm-0501 Hits Enterprise With 'Cloud-Based Ransomware' Attack]]></title>
+        <id>https://www.darkreading.com/cloud-security/storm-0501-cloud-based-ransomware-attack</id>
+        <link href="https://www.darkreading.com/cloud-security/storm-0501-cloud-based-ransomware-attack"/>
+        <updated>2025-08-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The financially motivated threat group used cloud resources to conduct a complex, ransomware-style attack against an enterprise victim.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors]]></title>
+        <id>https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html</id>
+        <link href="https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html"/>
+        <updated>2025-08-27T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic on Wednesday revealed that it disrupted a sophisticated operation that weaponized its artificial intelligence (AI)-powered chatbot Claude to conduct large-scale theft and extortion of personal data in July 2025.
+"The actor targeted at least 17 distinct organizations, including in healthcare, the emergency services, and government, and religious institutions," the company said. "]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ShadowSilk Hits 36 Government Targets in Central Asia and APAC Using Telegram Bots]]></title>
         <id>https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html</id>
@@ -3846,83 +3879,6 @@ Of the 111 vulnerabilities, 16 are rated Critical, 92 are rated Important, two a
 The post BlackBerry Announces Expansion Of Its APAC Secure Communications HQ In Malaysia appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi Refreshes TV A Series, Launches 4K Monitor, Robot Vacuums, Portable Speaker]]></title>
-        <id>https://www.lowyat.net/?p=362463</id>
-        <link href="https://www.lowyat.net/2025/362463/xiaomi-tv-a-4k-monitor-robot-vacuums-portable-speaker/"/>
-        <updated>2025-08-13T05:54:33.000Z</updated>
-        <summary type="html"><![CDATA[Xiaomi has announced a refresh of its TV A and TV A Pro series of smart TVs for the year. Both come in 43-, 55- and 65-inch options, with the Pro range getting an additional 75-inch model. Joining the range to get launched is a 4K monitor, a few robot vacuums and a portable speaker. […]
-The post Xiaomi Refreshes TV A Series, Launches 4K Monitor, Robot Vacuums, Portable Speaker appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics]]></title>
-        <id>https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html</id>
-        <link href="https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html"/>
-        <updated>2025-08-13T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new campaign that employs a previously undocumented ransomware family called Charon to target the Middle East's public sector and aviation industry.
-The threat actor behind the activity, according to Trend Micro, exhibited tactics mirroring those of advanced persistent threat (APT) groups, such as DLL side-loading, process injection, and the ability]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxis Offers Free Six Months sooka Premium For Postpaid Customers]]></title>
-        <id>https://www.lowyat.net/?p=362475</id>
-        <link href="https://www.lowyat.net/2025/362475/maxis-offers-free-six-months-sooka-premium-for-postpaid-customers/"/>
-        <updated>2025-08-13T05:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Maxis has announced that it is offering its postpaid subscribers six months of complimentary access to sooka Premium, allowing customers to enjoy live sports and entertainment content. This offer is available for those subscribed to Maxis Postpaid 139, 169, and 199. Among the live sports included in this subscription plan are the Malaysian Football League […]
-The post Maxis Offers Free Six Months sooka Premium For Postpaid Customers appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bangkok–Butterworth Train Service To Be Reinstated After Nine Year Suspension]]></title>
-        <id>https://www.lowyat.net/?p=362479</id>
-        <link href="https://www.lowyat.net/2025/362479/bangkok-butterworth-train-service-to-be-reinstated-after-nine-year-suspension/"/>
-        <updated>2025-08-13T05:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Keretapi Tanah Melayu (KTM) and the State Railway of Thailand (SRT) have agreed to reinstate the Bangkok–Butterworth train service, which has been suspended since December 2016. The decision was reached during the 43rd SRT–KTMB Joint Conference, held in Thailand from 4 to 7 August 2025. The conference was attended by SRT Governor Veeris Ammarapala, head […]
-The post Bangkok–Butterworth Train Service To Be Reinstated After Nine Year Suspension appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Search Will Let You Pick Your Own Preferred Sources]]></title>
-        <id>https://www.lowyat.net/?p=362459</id>
-        <link href="https://www.lowyat.net/2025/362459/google-preferred-sources-feature/"/>
-        <updated>2025-08-13T05:01:53.000Z</updated>
-        <summary type="html"><![CDATA[If you’re tired of various unheard-of websites flooding your search results, you no longer have to be bothered by them again, as Google is officially rolling out Preferred Sources. This brand new feature allows you to curate specific or “preferred” sources to more likely pop up in your Google Search results. The feature has been […]
-The post Google Search Will Let You Pick Your Own Preferred Sources appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BYD Malaysia Teases Arrival Of Facelifted 2025 BYD Seal]]></title>
-        <id>https://www.lowyat.net/?p=362465</id>
-        <link href="https://www.lowyat.net/2025/362465/byd-malaysia-teases-arrival-of-facelifted-2025-byd-seal/"/>
-        <updated>2025-08-13T04:51:16.000Z</updated>
-        <summary type="html"><![CDATA[BYD Malaysia yesterday released a teaser featuring seals and the caption “Coming Soon”. This could potentially be a hint of the arrival of its facelifted 2025 BYD Seal, which has already made its debut in Singapore back in April 2025. To recap, the facelifted model’s release in Singapore comes in three variants: Dynamic, Premium, and […]
-The post BYD Malaysia Teases Arrival Of Facelifted 2025 BYD Seal appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer Wolverine V3 Pro 8K PC Wireless Controller Debuts At RM 929]]></title>
-        <id>https://www.lowyat.net/?p=362450</id>
-        <link href="https://www.lowyat.net/2025/362450/razer-wolverine-v3-pro-8k-pc-wireless-controller-rm-929/"/>
-        <updated>2025-08-13T03:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Razer has expanded its line of Wolverine wireless controllers with the Wolverine V3 Pro 8K PC. As it says in the name, the controller is designed for PC use, rather than consoles. Alongside the wireless controller, the company is also launching the Razer Wolverine V3 Tournament Edition 8K PC as a wired variant. Starting off […]
-The post Razer Wolverine V3 Pro 8K PC Wireless Controller Debuts At RM 929 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
         </author>
     </entry>
     <entry>
