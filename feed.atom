@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-08-29T15:15:37.586Z</updated>
+    <updated>2025-08-29T18:23:05.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html</id>
+        <link href="https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html"/>
+        <updated>2025-08-29T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Three new security vulnerabilities have been disclosed in the Sitecore Experience Platform that could be exploited to achieve information disclosure and remote code execution. 
+The flaws, per watchTowr Labs, are listed below -
+
+CVE-2025-53693 - HTML cache poisoning through unsafe reflections
+CVE-2025-53691 - Remote code execution (RCE) through insecure deserialization
+CVE-2025-53694 -]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Audit Isn't a Speed Bump — It's Your Cloud Co-Pilot]]></title>
         <id>https://www.darkreading.com/cybersecurity-operations/audit-speed-bump-cloud-co-pilot</id>
@@ -3942,61 +3957,6 @@ The post Touch ‘n Go Unveils New Limited-Edition Hot Wheels NFC Card appeared 
         <updated>2025-08-15T06:26:49.000Z</updated>
         <summary type="html"><![CDATA[CIMB has issued a notice on its official website to inform customers that some of its banking services will be temporarily unavailable this weekend due to system maintenance. Aside from disruptions to the MyDebit system, the self service terminals will be affected. The system maintenance is scheduled for Saturday, 16 August 2025 from 12:01AM until […]
 The post CIMB Announces Downtime For Self Service Terminals On 16 And 17 August 2025 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biwin Close To Launching PCIe 4.0 Mini SSD That Slots In Like A SIM Card]]></title>
-        <id>https://www.lowyat.net/?p=362732</id>
-        <link href="https://www.lowyat.net/2025/362732/biwin-mini-ssd/"/>
-        <updated>2025-08-15T06:04:38.000Z</updated>
-        <summary type="html"><![CDATA[Remember the fingernail-sized SSD that Biwin announced back in April this year? Well, it looks like the brand already has working samples and is sending them out to certain companies to trial its efficacy. While Biwin is simply referring to its product as a Mini SSD, some manufacturers are calling it the “1517”, in reference […]
-The post Biwin Close To Launching PCIe 4.0 Mini SSD That Slots In Like A SIM Card appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybank: Houseowner, Householder Insurance, Takaful Available In MAE App]]></title>
-        <id>https://www.lowyat.net/?p=362726</id>
-        <link href="https://www.lowyat.net/2025/362726/maybank-houseowner-householder-insurance-takaful-mae-app/"/>
-        <updated>2025-08-15T05:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Maybank has announced that it has made houseowner and householder insurance and takaful plans available on the MAE app. Of the two, the former is pretty self explanatory. On the other hand, the latter is for renters and covers the furniture they have bought themselves, as well as their other possessions. With that being said, […]
-The post Maybank: Houseowner, Householder Insurance, Takaful Available In MAE App appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leapmotor Confirms CKD Production For Malaysian Market]]></title>
-        <id>https://www.lowyat.net/?p=362729</id>
-        <link href="https://www.lowyat.net/2025/362729/leapmotor-confirms-ckd-production-for-malaysian-market/"/>
-        <updated>2025-08-15T04:46:18.000Z</updated>
-        <summary type="html"><![CDATA[The decision for an automaker to produce a model as a CKD (Completely Knocked Down) unit hinges on several factors, including the availability of a local assembly plant, regulatory requirements and tax incentives. These aspects must offer clear advantages for the automaker to justify the investment in local assembly. This appears to be the case […]
-The post Leapmotor Confirms CKD Production For Malaysian Market appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Rolls Out Scheduled Calls, Reactions In Group Calls]]></title>
-        <id>https://www.lowyat.net/?p=362717</id>
-        <link href="https://www.lowyat.net/2025/362717/whatsapp-scheduled-calls-reactions-in-group-calls/"/>
-        <updated>2025-08-15T04:04:00.000Z</updated>
-        <summary type="html"><![CDATA[WhatsApp is not generally the messaging or voice call platform you think of when work calls are involved. But the Meta subsidiary is rolling out features that make it feel just like that, for better or worse. And of the relatively short list, the one that feels the least like work is the ability to […]
-The post WhatsApp Rolls Out Scheduled Calls, Reactions In Group Calls appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Launches AI-Powered Flight Deals In Certain Regions]]></title>
-        <id>https://www.lowyat.net/?p=362711</id>
-        <link href="https://www.lowyat.net/2025/362711/google-launches-ai-powered-flight-deals-in-certain-regions/"/>
-        <updated>2025-08-15T03:41:08.000Z</updated>
-        <summary type="html"><![CDATA[It seems Google is continuing to dabble in AI-powered tools. The company’s newest offering is a feature called Flight Deals. It exists within Google Flights, and serves to help travellers seek out suitable flights at cheaper prices. In a blog post announcing the tool, Google claims that Flight Deals is meant for flexible travellers who […]
-The post Google Launches AI-Powered Flight Deals In Certain Regions appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
         </author>
