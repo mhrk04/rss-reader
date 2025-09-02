@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-09-02T18:22:26.663Z</updated>
+    <updated>2025-09-02T21:14:16.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Stymies APT29 Credential Theft Campaign]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/amazon-apt29-credential-theft-campaign</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/amazon-apt29-credential-theft-campaign"/>
+        <updated>2025-09-02T20:25:13.000Z</updated>
+        <summary type="html"><![CDATA[A group linked to Russian intelligence services redirected victims to fake Cloudflare verification pages and exploited Microsoft's device code authentication flow.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Woes Continue Amid ClickFix Attacks, TDS Threats]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/wordpress-woes-clickfix-attacks-tds-threats</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/wordpress-woes-clickfix-attacks-tds-threats"/>
+        <updated>2025-09-02T18:54:03.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerable and malicious plug-ins are giving threat actors the ability to compromise WordPress sites and use them as a springboard to a variety of cyber threats and scams.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zscaler, Palo Alto Networks Breached via Salesloft Drift]]></title>
         <id>https://www.darkreading.com/cyberattacks-data-breaches/zscaler-palo-alto-networks-breached-salesloft-drift</id>
@@ -3702,61 +3722,6 @@ U.S. Director of National Intelligence (DNI) Tulsi Gabbard, in a statement poste
         <summary type="html"><![CDATA[After two decades of developing increasingly mature security architectures, organizations are running up against a hard truth: tools and technologies alone are not enough to mitigate cyber risk. As tech stacks have grown more sophisticated and capable, attackers have shifted their focus. They are no longer focusing on infrastructure vulnerabilities alone. Instead, they are increasingly]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Bundles Borderlands 4 With Select Purchase Of RTX 50 Series GPU]]></title>
-        <id>https://www.lowyat.net/?p=363087</id>
-        <link href="https://www.lowyat.net/2025/363087/nvidia-borderlands-4/"/>
-        <updated>2025-08-19T08:42:47.000Z</updated>
-        <summary type="html"><![CDATA[In conjunction with the impending launch of Borderlands 4, NVIDIA has teamed up with the game’s publisher, 2K, to bundle the game together with select GeForce RTX 50 Series GPUs. This offer applies to both desktop and laptop GPUs. The bundle offer start now and will continue until 22 September. Note that the final date […]
-The post NVIDIA Bundles Borderlands 4 With Select Purchase Of RTX 50 Series GPU appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei MatePad 11.5 PaperMatte Edition 2025 Now Official In Malaysia For RM1,599]]></title>
-        <id>https://www.lowyat.net/?p=363069</id>
-        <link href="https://www.lowyat.net/2025/363069/huawei-matepad-11-5-papermatte-edition-2025-official-malaysia-rm1599/"/>
-        <updated>2025-08-19T07:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Huawei said last week that it will be refreshing the MatePad 11.5 PaperMatte Edition today. As promised, the tablet is now officially launched for the Malaysian market. Though as a refresh, there’s more that’s the same as its predecessor than different. Naturally, as the name suggests, the Huawei MatePad 11.5 PaperMatte Edition won’t be changing […]
-The post Huawei MatePad 11.5 PaperMatte Edition 2025 Now Official In Malaysia For RM1,599 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyDigital ID To Be Required For MyJPJ And MyBayar PDRM Apps]]></title>
-        <id>https://www.lowyat.net/?p=363085</id>
-        <link href="https://www.lowyat.net/2025/363085/mydigital-id-to-be-required-for-myjpj-and-mybayar-pdrm-apps/"/>
-        <updated>2025-08-19T07:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Malaysians will soon need to register for MyDigital ID in order to access the MyJPJ and MyBayar PDRM apps. The two government platforms have integrated the digital identification system and will soon rely on it as the sole login method. Currently, the user can still log into these apps with either their existing credentials or […]
-The post MyDigital ID To Be Required For MyJPJ And MyBayar PDRM Apps appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyPI Blocks 1,800 Expired-Domain Emails to Prevent Account Takeovers and Supply Chain Attacks]]></title>
-        <id>https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html</id>
-        <link href="https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html"/>
-        <updated>2025-08-19T06:36:00.000Z</updated>
-        <summary type="html"><![CDATA[The maintainers of the Python Package Index (PyPI) repository have announced that the package manager now checks for expired domains to prevent supply chain attacks.
-"These changes improve PyPI's overall account security posture, making it harder for attackers to exploit expired domain names to gain unauthorized access to accounts," Mike Fiedler, PyPI safety and security engineer at the Python]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gamers Nexus Investigation Reveals Sprawling AI GPU Black Market Operation In China]]></title>
-        <id>https://www.lowyat.net/?p=363052</id>
-        <link href="https://www.lowyat.net/2025/363052/gamers-nexus-ai-gpu-black-market-china/"/>
-        <updated>2025-08-19T06:32:13.000Z</updated>
-        <summary type="html"><![CDATA[It’s a known fact in the business world that when there are sanctions, there are black markets. And nowhere is that point more prominent than in China’s black market and ongoing smuggling of NVIDIA GPUs. Steve Burke, TechTuber and founder of the YouTube channel Gamers Nexus, recently posted a video following the breadcrumbs and trails […]
-The post Gamers Nexus Investigation Reveals Sprawling AI GPU Black Market Operation In China appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
         </author>
     </entry>
     <entry>
