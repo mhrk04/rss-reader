@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a malicious npm package that comes with stealthy features to inject malicious code into desktop apps for cryptocurrency wallets like Atomic and Exodus on Windows systems.\nThe package, named nodejs-smtp, impersonates the legitimate email library nodemailer with an identical tagline, page styling, and README descriptions, attracting a total of 347",
+          "link": "https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html",
+          "publishedOn": "2025-09-02T04:40:00.000Z",
+          "wordCount": null,
+          "title": "Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRcOy1Zd5SkNC2FkVCAg2Qy-UKCj2kPIvWKA_pI4s8nt9Xlyl5h-KczhHriB1Vne7GA5AbAbVwd9HubZXnbdnCBWWbzUGEVEB0jue2opsZha9zUT5YDwIxCxaSCk6nETP7cUTVP1DdbhOce70hszHPDHY1Pkiyb9e0URgHsYudc_xKDae0-8WQO1-fPBtR/s1600/crypto-wallter.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRcOy1Zd5SkNC2FkVCAg2Qy-UKCj2kPIvWKA_pI4s8nt9Xlyl5h-KczhHriB1Vne7GA5AbAbVwd9HubZXnbdnCBWWbzUGEVEB0jue2opsZha9zUT5YDwIxCxaSCk6nETP7cUTVP1DdbhOce70hszHPDHY1Pkiyb9e0URgHsYudc_xKDae0-8WQO1-fPBtR/s1600/crypto-wallter.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are calling attention to a new shift in the Android malware landscape where dropper apps, which are typically used to deliver banking trojans, to also distribute simpler malware such as SMS stealers and basic spyware.\nThese campaigns are propagated via dropper apps masquerading as government or banking apps in India and other parts of Asia, ThreatFabric said in a report",
@@ -20396,22 +20412,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERvrMD0i9urT4i9QAP8zTcCKEVQlstfw0qWIR5Qq8AeFasV6iJHoZAawueR6s9bHQ_3dZj6Qm9kPPH_P3mj_gitp_9DQ-CvqWyQDuXEqp03KCpxSnfkYLK50xmfSNn6AmTy0mz07QwETGV0h0bcdGK1ykmmsTjY3D3hUwHOhzQ4RW69H_pzBqhstjVLmo/s1600/ms.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERvrMD0i9urT4i9QAP8zTcCKEVQlstfw0qWIR5Qq8AeFasV6iJHoZAawueR6s9bHQ_3dZj6Qm9kPPH_P3mj_gitp_9DQ-CvqWyQDuXEqp03KCpxSnfkYLK50xmfSNn6AmTy0mz07QwETGV0h0bcdGK1ykmmsTjY3D3hUwHOhzQ4RW69H_pzBqhstjVLmo/s1600/ms.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have lifted the lid on the threat actors' exploitation of a now-patched security flaw in Microsoft Windows to deploy the PipeMagic malware in RansomExx ransomware attacks.\nThe attacks involve the exploitation of CVE-2025-29824, a privilege escalation vulnerability impacting the Windows Common Log File System (CLFS) that was addressed by Microsoft in April 2025,",
-          "link": "https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html",
-          "publishedOn": "2025-08-18T16:03:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8PWAn17K3NBQOtKMmVF0aytbVViq4MDboabGih3GsBZWmpdSmB1v0-CTat7nNAkLVMcff3JxNjZcDeGl4YL21qgxTe0y_N-vcsGBMPCZFqd2e2xT_OzngRuWi1OXp-cmAwUXkC7inHfqkPomBz61RWwbS4XdXL-PxqF8ftW-r2b8xLdGqGEc-kgDn-0HS/s1600/windows-rasnomware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8PWAn17K3NBQOtKMmVF0aytbVViq4MDboabGih3GsBZWmpdSmB1v0-CTat7nNAkLVMcff3JxNjZcDeGl4YL21qgxTe0y_N-vcsGBMPCZFqd2e2xT_OzngRuWi1OXp-cmAwUXkC7inHfqkPomBz61RWwbS4XdXL-PxqF8ftW-r2b8xLdGqGEc-kgDn-0HS/s1600/windows-rasnomware.jpg"
         }
       ]
     },
@@ -20420,6 +20420,56 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=364775",
+          "author": "Kiran Ganesan",
+          "description": "As per Samsung’s tradition when it comes to new OS updates, the One UI 8 beta is expanding its reach to encompass more Galaxy smartphones, primarily the Galaxy S23 series. However, it has been confirmed that other midrange smartphones and even older foldables will soon be able to test the new operating system at a […]\nThe post One UI 8 Beta Rollout To Hit Older Samsung Flagships, Foldables, Midrangers Soon appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/364775/one-ui-8-beta-roll-out-soon/",
+          "publishedOn": "2025-09-02T05:40:43.000Z",
+          "wordCount": 10273,
+          "title": "One UI 8 Beta Rollout To Hit Older Samsung Flagships, Foldables, Midrangers Soon",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/04/Samsung-Galaxy-S23-Ultra-test-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=364781",
+          "author": "Heirul Kamel",
+          "description": "The MyKasih Foundation has ramped up its system capacity by 60% to handle the surge in transactions for the Sumbangan Asas Rahmah (SARA) one-off aid programme, following complaints of slow processing on its first day of disbursement. In a statement, the foundation said its technical team is closely monitoring performance and will continue to improve […]\nThe post MyKasih Boosts System Capacity After Slowdowns Hit SARA Aid Rollout appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/364781/mykasih-boosts-system-capacity-after-slowdowns-hit-sara-aid-rollout/",
+          "publishedOn": "2025-09-02T05:13:15.000Z",
+          "wordCount": 10136,
+          "title": "MyKasih Boosts System Capacity After Slowdowns Hit SARA Aid Rollout",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/mykasih-boosts-system-capacity-RM100-Sara-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=364757",
+          "author": "Keran",
+          "description": "Tesla has officially unveiled a new variant of the Model Y for the European market. As previously reported, this addition is the Performance All-Wheel Drive version of the Model Y, and Tesla has updated its European market website to include the Performance variant in the line-up. The last time we saw the Performance variant, it […]\nThe post Tesla Unveils Model Y Performance Variant appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/364757/tesla-model-y-performance-variant/",
+          "publishedOn": "2025-09-02T05:02:16.000Z",
+          "wordCount": 10283,
+          "title": "Tesla Unveils Model Y Performance Variant",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Tesla-Model-Y-Performance1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=364755",
+          "author": "Ian Chee",
+          "description": "Huawei has teased an upcoming pair of TWS buds that it is launching – the FreeBuds SE 4 ANC. This is, naturally, the successor of the FreeBuds SE 3 from late last year. And while it’s still only listed as “coming soon”, the company has revealed its price ahead of time. It would fall under […]\nThe post Huawei FreeBuds SE 4 ANC To Cost RM249; Coming Soon To Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/364755/huawei-freebuds-se-4-anc-rm249-coming-soon-malaysia/",
+          "publishedOn": "2025-09-02T04:43:40.000Z",
+          "wordCount": 10161,
+          "title": "Huawei FreeBuds SE 4 ANC To Cost RM249; Coming Soon To Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Huawei-FreeBuds-SE-4-ANC.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=364726",
+          "author": "Kiran Ganesan",
+          "description": "With the release of the Google Pixel 10 Series, all eyes are now on the cheapest entry into the lineup, the Pixel 10a. Though its launch is reserved for sometime between late Q1 and early Q2 next year, rumours and leaks of the device have already claimed that it is more akin to the Pixel […]\nThe post Google Pixel 10a Specs Leak; Rumoured To Be More Akin To Pixel 9 Than Pixel 10 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/364726/pixel-10a-specs-leak-more-akin-pixel-9/",
+          "publishedOn": "2025-09-02T03:52:47.000Z",
+          "wordCount": 10376,
+          "title": "Google Pixel 10a Specs Leak; Rumoured To Be More Akin To Pixel 9 Than Pixel 10",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/google-pixel-10-7.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=364732",
           "author": "Nurul Kamil",
