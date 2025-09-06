@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new set of four malicious packages have been discovered in the npm package registry with capabilities to steal cryptocurrency wallet credentials from Ethereum developers.\n\"The packages masquerade as legitimate cryptographic utilities and Flashbots MEV infrastructure while secretly exfiltrating private keys and mnemonic seeds to a Telegram bot controlled by the threat actor,\" Socket researcher",
+          "link": "https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html",
+          "publishedOn": "2025-09-06T06:42:00.000Z",
+          "wordCount": null,
+          "title": "Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFSJzLL1pc8quLfhY-XvdCTUHE211jQksLVgyJf3avkmDP1YU0kIMXpWhiw052Me82v6eQVpV3Q1-_QNI5pUGLGrMal30FuYY2ySGimCMNU-JFOB47n3rFNmknYYcqpqqmHiAxD6J2_UY7f9mqe61GvZ4kJ5moskZwxtU665cLDoyEptVEurxiCJZXH_A/s1600/1000013746.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFSJzLL1pc8quLfhY-XvdCTUHE211jQksLVgyJf3avkmDP1YU0kIMXpWhiw052Me82v6eQVpV3Q1-_QNI5pUGLGrMal30FuYY2ySGimCMNU-JFOB47n3rFNmknYYcqpqqmHiAxD6J2_UY7f9mqe61GvZ4kJ5moskZwxtU665cLDoyEptVEurxiCJZXH_A/s1600/1000013746.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Federal Civilian Executive Branch (FCEB) agencies are being advised to update their Sitecore instances by September 25, 2025, following the discovery of a security flaw that has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2025-53690, carries a CVSS score of 9.0 out of a maximum of 10.0, indicating critical severity.\n\"Sitecore Experience Manager (XM), Experience",
@@ -20404,6 +20420,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=365240",
+          "author": "Keran",
+          "description": "The national carmaker, Proton launched its first-ever EV production facility at the Automotive Hi-Tech Valley in Tanjong Malim, Perak, on 4 September 2025. During the launch, it also revealed that Zeekr models will be locally assembled (CKD) at the facility in the near future. This milestone was made possible through Proton’s partnership with Zhejiang Geely […]\nThe post Zeekr To Produce CKD Models At Proton’s New EV Facility appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365240/zeekr-to-produce-ckd-models-at-protons-new-ev-facility/",
+          "publishedOn": "2025-09-06T08:59:18.000Z",
+          "wordCount": 10241,
+          "title": "Zeekr To Produce CKD Models At Proton’s New EV Facility",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Zeekr-Space.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=365230",
           "author": "Heirul Kamel",
@@ -22774,36 +22800,6 @@
           "publishedOn": "2025-08-25T14:00:00.000Z",
           "wordCount": null,
           "title": "Securing the Cloud in an Age of Escalating Cyber Threats",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/silk-typhoon-north-american-orgs-cloud",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "A Chinese APT is going where most APTs don't: deep into the cloud, compromising supply chains and deploying uncommon malware.",
-          "link": "https://www.darkreading.com/cloud-security/silk-typhoon-north-american-orgs-cloud",
-          "publishedOn": "2025-08-22T20:52:24.000Z",
-          "wordCount": null,
-          "title": "Silk Typhoon Attacks North American Orgs in the Cloud",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/revault-compromised-secure-soc",
-          "author": "Becky Bracken",
-          "description": "A bug in the control board that connects peripheral devices in commonly used Dell laptops allowed malicious access all the way down to the firmware running on the device chip, new research finds.",
-          "link": "https://www.darkreading.com/endpoint-security/revault-compromised-secure-soc",
-          "publishedOn": "2025-08-22T20:21:05.000Z",
-          "wordCount": null,
-          "title": "ReVault Flaw Exposed Millions of Dell Laptops to Malicious Domination",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/apple-intelligence-more-data-than-expected-researchers",
-          "author": "Becky Bracken",
-          "description": "Music tastes, location information, even encrypted messages — Apple's servers are gathering a \"surprising\" amount of personal data through Apple Intelligence, Lumia Security's Yoav Magid warns in his new analysis.",
-          "link": "https://www.darkreading.com/endpoint-security/apple-intelligence-more-data-than-expected-researchers",
-          "publishedOn": "2025-08-22T19:47:24.000Z",
-          "wordCount": null,
-          "title": "Apple Intelligence Is Picking Up More User Data Than Expected, Researcher Finds",
           "imageUrl": null
         }
       ]
