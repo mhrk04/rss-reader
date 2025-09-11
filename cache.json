@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a new campaign that leverages ConnectWise ScreenConnect, a legitimate Remote Monitoring and Management (RMM) software, to deliver a fleshless loader that drops a remote access trojan (RAT) called AsyncRAT to steal sensitive data from compromised hosts.\n\"The attacker used ScreenConnect to gain remote access, then executed a layered VBScript and",
+          "link": "https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html",
+          "publishedOn": "2025-09-11T06:02:00.000Z",
+          "wordCount": null,
+          "title": "AsyncRAT Exploits ConnectWise ScreenConnect to Steal Credentials and Crypto",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP7C2frdf5WmypvzDFcoIflzvcWCb6Z_KOSHpC64B893uJaqeH_Bs40SZBkJVQ_ze7_dDx5I5UU16E7yf4KE0_ZGxKpm6ccIqhpa2kBgHm6myP8aDFo1ikagWM1JECrRs9YebPdVKf71j5S04-PLt_kb8TE66HJ9DfaOXk3x0md0B2_P5jWP8RBSLyCtKL/s1600/passwords.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP7C2frdf5WmypvzDFcoIflzvcWCb6Z_KOSHpC64B893uJaqeH_Bs40SZBkJVQ_ze7_dDx5I5UU16E7yf4KE0_ZGxKpm6ccIqhpa2kBgHm6myP8aDFo1ikagWM1JECrRs9YebPdVKf71j5S04-PLt_kb8TE66HJ9DfaOXk3x0md0B2_P5jWP8RBSLyCtKL/s1600/passwords.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An advanced persistent threat (APT) group from China has been attributed to the compromise of a Philippines-based military company using a previously undocumented fileless malware framework called EggStreme.\n\"This multi-stage toolset achieves persistent, low-profile espionage by injecting malicious code directly into memory and leveraging DLL sideloading to execute payloads,\" Bitdefender",
@@ -20412,22 +20428,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBghvMb8poo9RZOznoMSL8-CQxNfUP7EHV1prk_4LtRGKX5OkT7BvVgS4g6jyKt8EzdC5_mA4uOTrjJRO30weK_q79eAiQKqqvczqi6RdrHR28QWUmS77KMDXoPPkyr5VdHJOu1vxWGKbMAxXkyM7RE72VEB9mVyMbgNOyuhLLcxDwmCPEZdhxCyxCLKA/s1600/korean-it-workers.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBghvMb8poo9RZOznoMSL8-CQxNfUP7EHV1prk_4LtRGKX5OkT7BvVgS4g6jyKt8EzdC5_mA4uOTrjJRO30weK_q79eAiQKqqvczqi6RdrHR28QWUmS77KMDXoPPkyr5VdHJOu1vxWGKbMAxXkyM7RE72VEB9mVyMbgNOyuhLLcxDwmCPEZdhxCyxCLKA/s1600/korean-it-workers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The financially motivated threat actor known as Storm-0501 has been observed refining its tactics to conduct data exfiltration and extortion attacks targeting cloud environments.\n\"Unlike traditional on-premises ransomware, where the threat actor typically deploys malware to encrypt critical files across endpoints within the compromised network and then negotiates for a decryption key,",
-          "link": "https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html",
-          "publishedOn": "2025-08-27T19:04:00.000Z",
-          "wordCount": null,
-          "title": "Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicQuE8yfWyaamT0a9dChjurt2pRrbenRZMNVxxboB4P43y9M_1t4WjWDxKO3sSRTE8j-Wm_1hlwWGTpYpeycKfVfnT8zPY1wk6YcsKlJrWtqNSUp1drOz_CMmQ8mW53WrgXcZ1nFadQV_lMy8nV4hZHEyBxl6Rtttne66LQg-kPxRsrcEhllalv61aPDC1/s1600/msms.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicQuE8yfWyaamT0a9dChjurt2pRrbenRZMNVxxboB4P43y9M_1t4WjWDxKO3sSRTE8j-Wm_1hlwWGTpYpeycKfVfnT8zPY1wk6YcsKlJrWtqNSUp1drOz_CMmQ8mW53WrgXcZ1nFadQV_lMy8nV4hZHEyBxl6Rtttne66LQg-kPxRsrcEhllalv61aPDC1/s1600/msms.jpg"
         }
       ]
     },
@@ -20436,6 +20436,56 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=365810",
+          "author": "Ian Chee",
+          "description": "Lenovo announced its first generation Legion Glasses back in 2023, but it would be a few months later before it made its way to our shores. For better or worse, it’s much the same story with the second generation, that simply has Gen 2 tacked to the back of its name. First announced earlier this […]\nThe post Lenovo Legion Glasses Gen 2 Now Available In Malaysia For RM1,799 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365810/lenovo-legion-glasses-gen-2-malaysia-rm1799/",
+          "publishedOn": "2025-09-11T09:04:39.000Z",
+          "wordCount": 9994,
+          "title": "Lenovo Legion Glasses Gen 2 Now Available In Malaysia For RM1,799",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Lenovo-Legion-Glasses-Gen-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365827",
+          "author": "Nurul Kamil",
+          "description": "Last week, Infinix announced that it is launching the GT 30 in Malaysia. And just as promised, the phone has arrived on our shores, joining the Pro model that was released back in May. The gaming smartphone sports a 6.78-inch 1.5K AMOLED display with a 144Hz refresh rate and a brightness of 1,600 nits. Like […]\nThe post Infinix GT 30 Lands In Malaysia; Priced At RM1,099 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365827/infinix-gt-30-lands-in-malaysia-priced-at-rm1099/",
+          "publishedOn": "2025-09-11T08:08:01.000Z",
+          "wordCount": 10294,
+          "title": "Infinix GT 30 Lands In Malaysia; Priced At RM1,099",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/infinix-gt-30-8.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365822",
+          "author": "Heirul Kamel",
+          "description": "Payments Network Malaysia Sdn Bhd (PayNet) announced today that its Group Chief Executive Officer, Farhan Ahmad, will step down from his role effective 31 January 2026. The company has appointed Praveen Rajan as CEO-Designate, beginning 1 December 2025. Farhan has led PayNet since early 2022, overseeing a period of growth and organisational transformation. During his […]\nThe post PayNet CEO Farhan Ahmad To Step Down From Role By Late January 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365822/paynet-ceo-farhan-ahmad-to-step-down/",
+          "publishedOn": "2025-09-11T07:48:18.000Z",
+          "wordCount": 9969,
+          "title": "PayNet CEO Farhan Ahmad To Step Down From Role By Late January 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/PayNet-CEO-Farhan-Steps-Down-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365796",
+          "author": "Kiran Ganesan",
+          "description": "Sony, via its PlayStation arm, has launched its very own parental control app for smartphones and tablets, called PlayStation Family. Much like similar parental control functions prior, it allows parents to manage their children’s playtime and spending limits on the PS5 and PS4, as well as provide activity reports and real-time notifications. The new app […]\nThe post Sony Launches “PlayStation Family” Parental Control App appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365796/sony-playstation-family-parental-control-app/",
+          "publishedOn": "2025-09-11T07:11:33.000Z",
+          "wordCount": 10361,
+          "title": "Sony Launches “PlayStation Family” Parental Control App",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/PlayStation-Family-Play-Store-Images-bdcbe4bd61b665735359788cc7fb6a1f3e8d0fd8.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365812",
+          "author": "Keran",
+          "description": "Dreame Technology, which recently announced its entry into the automotive industry, has unveiled the first renderings of its upcoming fully electric (EV) hypercar. The images were shared by the company’s founder, Yu Hao, on WeChat Moments. From the initial renders, it is clear that the car’s design draws heavy inspiration from the Bugatti Chiron. Signature […]\nThe post Dreame Technology Unveils Renderings Of First Electric Hypercar appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365812/dreame-technology-unveils-renderings-of-first-electric-hypercar/",
+          "publishedOn": "2025-09-11T07:01:07.000Z",
+          "wordCount": 10285,
+          "title": "Dreame Technology Unveils Renderings Of First Electric Hypercar",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Dreame-EV1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=365793",
           "author": "Ian Chee",
@@ -22806,56 +22856,6 @@
           "publishedOn": "2025-08-27T23:18:53.000Z",
           "wordCount": null,
           "title": "CrowdStrike to Acquire Onum, Boost Falcon Next-Gen SIEM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-ai-automate-data-extortion-campaign",
-          "author": "Rob Wright",
-          "description": "The company said the threat actor abused its Claude Code service to \"an unprecedented degree,\" automating reconnaissance, intrusions, and credential harvesting.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-ai-automate-data-extortion-campaign",
-          "publishedOn": "2025-08-27T21:15:08.000Z",
-          "wordCount": null,
-          "title": "Anthropic AI Used to Automate Data Extortion Campaign",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/zipline-phishers-victims-email-first",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "\"ZipLine\" appears to be a sophisticated and carefully planned campaign that has already affected dozens of small, medium, and large organizations across multiple industry sectors.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/zipline-phishers-victims-email-first",
-          "publishedOn": "2025-08-27T20:35:28.000Z",
-          "wordCount": null,
-          "title": "'ZipLine' Phishers Flip Script as Victims Email First",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/nevada-state-agencies-cyberattack",
-          "author": "Kristina Beek",
-          "description": "In response to a cyberattack that was first detected on Sunday, the governor shut down in-person services for state offices while restoration efforts are underway.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/nevada-state-agencies-cyberattack",
-          "publishedOn": "2025-08-27T19:59:53.000Z",
-          "wordCount": null,
-          "title": "Nevada's State Agencies Shutter in Wake of Cyberattack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/china-hijacks-captive-portals-spy-asian-diplomats",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "The Mustang Panda APT is hijacking Google Chrome browsers when they attempt to connect to new networks and redirecting them to phishing sites.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-hijacks-captive-portals-spy-asian-diplomats",
-          "publishedOn": "2025-08-27T19:31:03.000Z",
-          "wordCount": null,
-          "title": "China Hijacks Captive Portals to Spy on Asian Diplomats",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/google-salesforce-attacks-third-party-app",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "A group tracked as UNC6395 engaged in \"widespread data theft\" via compromised OAuth tokens from a third-party app called Salesloft Drift.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/google-salesforce-attacks-third-party-app",
-          "publishedOn": "2025-08-27T19:05:37.000Z",
-          "wordCount": null,
-          "title": "Google: Salesforce Attacks Stemmed From Third-Party App",
           "imageUrl": null
         }
       ]
