@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A security weakness has been disclosed in the artificial intelligence (AI)-powered code editor Cursor that could trigger code execution when a maliciously crafted repository is opened using the program.\nThe issue stems from the fact that an out-of-the-box security setting is disabled by default, opening the door for attackers to run arbitrary code on users' computers with their privileges.\n\"",
+          "link": "https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html",
+          "publishedOn": "2025-09-12T04:49:00.000Z",
+          "wordCount": null,
+          "title": "Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHAKp4IJAmSiZWoK0v8XwpRWrn3YLZ3PZpvLMobinGLjEO70UTmZ36b5CVT00TuJSGsFuBPHO26VzxBZQ3OCgnLB09bj9R0OPIuyO3dm9sTyhvqdttKb1MH2xW6LVamsUJmZweRAreHKA5ddL9T3PMgRwwS6p45PailemmFl61xIGqWOTBmkeangb6d42Q/s1600/editor.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHAKp4IJAmSiZWoK0v8XwpRWrn3YLZ3PZpvLMobinGLjEO70UTmZ36b5CVT00TuJSGsFuBPHO26VzxBZQ3OCgnLB09bj9R0OPIuyO3dm9sTyhvqdttKb1MH2xW6LVamsUJmZweRAreHKA5ddL9T3PMgRwwS6p45PailemmFl61xIGqWOTBmkeangb6d42Q/s1600/editor.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google on Tuesday announced that its new Google Pixel 10 phones support the Coalition for Content Provenance and Authenticity (C2PA) standard out of the box to verify the origin and history of digital content.\nTo that end, support for C2PA's Content Credentials has been added to Pixel Camera and Google Photos apps for Android. The move, Google said, is designed to further digital media",
@@ -20412,22 +20428,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr-MHGJoIdQMNm-IA-ZevnDkPnOGfRx0jxODfwN82m2BnSQDm_4gzGO5R22szYv76CBWRb5gs6F1cpHT7UVfCxXdesVUXQWMGJRrn0USRA3b4njFU1GSoav6omYCfaRcWSJcCtDaZO7FYXTq1QpU0y75ORYgxIvrNe7r6_DpJqPoPaDsrRCaJNDGncQS5R/s1600/pdf.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr-MHGJoIdQMNm-IA-ZevnDkPnOGfRx0jxODfwN82m2BnSQDm_4gzGO5R22szYv76CBWRb5gs6F1cpHT7UVfCxXdesVUXQWMGJRrn0USRA3b4njFU1GSoav6omYCfaRcWSJcCtDaZO7FYXTq1QpU0y75ORYgxIvrNe7r6_DpJqPoPaDsrRCaJNDGncQS5R/s1600/pdf.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/08/researchers-find-vs-code-flaw-allowing.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a loophole in the Visual Studio Code Marketplace that allows threat actors to reuse names of previously removed extensions.\nSoftware supply chain security outfit ReversingLabs said it made the discovery after it identified a malicious extension named \"ahbanC.shiba\" that functioned similarly to two other extensions – ahban.shiba and ahban.cychelloworld –",
-          "link": "https://thehackernews.com/2025/08/researchers-find-vs-code-flaw-allowing.html",
-          "publishedOn": "2025-08-28T17:10:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Find VS Code Flaw Allowing Attackers to Republish Deleted Extensions Under Same Names",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Y9u9GKMsRB1GGJ2J6rfmmG3DVAbnxFf3wKnogYQtMl-S9FYeW0CxV7aFi_IZt_BxrghtuVoKnNG5i9JaOBtrb5TBnxQ6AnrMzoybR14km-s46-1L1YUPoSATfuUrEUAR3RFjI115Z5KM2JWc1SePkyzNwwrRz3-5eecK0FuK6SvzrMOS_lIGx_vWtHWF/s1600/vscode.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Y9u9GKMsRB1GGJ2J6rfmmG3DVAbnxFf3wKnogYQtMl-S9FYeW0CxV7aFi_IZt_BxrghtuVoKnNG5i9JaOBtrb5TBnxQ6AnrMzoybR14km-s46-1L1YUPoSATfuUrEUAR3RFjI115Z5KM2JWc1SePkyzNwwrRz3-5eecK0FuK6SvzrMOS_lIGx_vWtHWF/s1600/vscode.jpg"
         }
       ]
     },
@@ -20436,6 +20436,76 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=365930",
+          "author": "Keran",
+          "description": "Remember GWM’s Ora brand? If not, it is probably because the Baoding automaker has not launched any model since 2022. However, that is about to change as the brand is preparing to launch the GWM Ora Cat SUV, which will be known as the Ora 5 and Ora i5 in other markets. This information according […]\nThe post New GWM Ora Cat SUV Unveiled Through Leaked China MIIT Filings appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365930/gwm-ora-cat-suv-leak/",
+          "publishedOn": "2025-09-12T06:11:33.000Z",
+          "wordCount": 10321,
+          "title": "New GWM Ora Cat SUV Unveiled Through Leaked China MIIT Filings",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Ora-Cat-SUV2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365938",
+          "author": "Nurul Kamil",
+          "description": "Sony has officially announced the Xperia 10 VII, its newest mid-range smartphone. If you’ve been keeping up with the leaks, then the device’s redesigned camera layout should come as no surprise. Rather than a vertical arrangement, the sensors are now positioned horizontally, not unlike Google’s Pixel series and the newly launched iPhone Air. The successor […]\nThe post Sony Unveils Xperia 10 VII With Revamped Camera Module appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365938/sony-unveils-xperia-10-vii-with-revamped-camera-module/",
+          "publishedOn": "2025-09-12T06:08:01.000Z",
+          "wordCount": 10137,
+          "title": "Sony Unveils Xperia 10 VII With Revamped Camera Module",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/sony-xperia-10-vii-4.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365927",
+          "author": "Ian Chee",
+          "description": "With the announcement of this year’s batch of iPhones come third party accessories to fit them. Not to say that there aren’t any first party ones, but with Apple usually keeping with safe designs, it’s usually those made by others that give out the wackier designs. This includes Spigen with its Ultra Hybrid Zero One […]\nThe post Spigen iPhone Air Case Makes It Look Like A Nothing Phone appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365927/spigen-iphone-air-case-turns-it-into-nothing-phone/",
+          "publishedOn": "2025-09-12T05:38:30.000Z",
+          "wordCount": 10082,
+          "title": "Spigen iPhone Air Case Makes It Look Like A Nothing Phone",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Spigen-Ultra-Hybrid-Zero-One-Iphone-Air.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365903",
+          "author": "Ian Chee",
+          "description": "These days, LEGO and gaming history go kind of hand in hand. A couple of months ago, we saw the brick Nintendo Game Boy getting announced. This month, it’s something from Sega. Very specifically though, it’s the Sega Genesis controller, and it’s the first generation version with its distinct lack of buttons. This is a […]\nThe post LEGO Sega Genesis Controller Is A GWP Item For Purchases Over RM620 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365903/lego-sega-genesis-controller-gwp-purchases-over-rm620/",
+          "publishedOn": "2025-09-12T04:22:32.000Z",
+          "wordCount": 10026,
+          "title": "LEGO Sega Genesis Controller Is A GWP Item For Purchases Over RM620",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/LEGO-Sega-Genesis-controller-box.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365916",
+          "author": "Nurul Kamil",
+          "description": "CTOS Digital Berhad has announced that it is collaborating with the government-backed national digital identity platform, MyDigital ID. This partnership, formalised through the signing of a Memorandum of Understanding (MoU), concerns electronic Know Your Customer (eKYC) processes. The MoU outlines a framework for using national digital identity system in improving eKYC verification. Through this partnership, […]\nThe post CTOS Digital Partners With MyDigital ID To Enhance eKYC Processes appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365916/ctos-digital-partners-with-mydigital-id-to-enhance-ekyc-processes/",
+          "publishedOn": "2025-09-12T04:12:53.000Z",
+          "wordCount": 9864,
+          "title": "CTOS Digital Partners With MyDigital ID To Enhance eKYC Processes",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/ctos-digital-mydigital-id-ekyc-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365898",
+          "author": "Keran",
+          "description": "After much waiting, Honda has launched its new fully electric Kei car, the N-ONE e. The small hatchback will be offered in two variants: e: G and e: L. Furthermore, the new hatchback is largely based on its combustion twin, the N-ONE, and according to the company, has inherited the DNA of the N360. In […]\nThe post Honda Launches The Fully Electric N-ONE E Kei Car In Japan appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365898/honda-n-one-e-kei-car-launch-japan/",
+          "publishedOn": "2025-09-12T03:49:51.000Z",
+          "wordCount": 10550,
+          "title": "Honda Launches The Fully Electric N-ONE E Kei Car In Japan",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Honda-N-ONE-e1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=365900",
+          "author": "Heirul Kamel",
+          "description": "The Charmera is Kodak‘s new mini digital camera designed in the shape of a keychain. Despite its size, this adorable camera is actually fully functional and is available in an assortment of colours. The catch? It’s a blindbox release. Weighing only 30g and measuring 2.3×1×0.8 inches in diameter, the new Kodak Charmera is made entirely […]\nThe post The New Kodak Charmera Is A Fully Functional Keychain-Sized Digital Camera appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/365900/the-new-kodak-charmera-is-a-fully-functional-keychain-sized-digital-camera/",
+          "publishedOn": "2025-09-12T03:43:56.000Z",
+          "wordCount": 10214,
+          "title": "The New Kodak Charmera Is A Fully Functional Keychain-Sized Digital Camera",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/kodak-charmera-mini-camera-3.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=365891",
           "author": "John Law",
@@ -22786,16 +22856,6 @@
           "publishedOn": "2025-08-28T18:39:25.000Z",
           "wordCount": null,
           "title": "1,000+ Devs Lose Their Secrets to an AI-Powered Stealer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/dark-reading-confidential-guided-tour-dark-web",
-          "author": "Dark Reading Staff",
-          "description": "Dark Reading Confidential Episode 9: Join us for a look around today's Dark Web, and find out how law enforcement, AI, nation-state activities, and more are reshaping the way cybercriminals conduct their dirty business online. Keith Jarvis, senior security researcher at Sophos' Counter Threat Unit joins Dark Reading's Alex Culafi for a conversation you don't want to miss.",
-          "link": "https://www.darkreading.com/cyber-risk/dark-reading-confidential-guided-tour-dark-web",
-          "publishedOn": "2025-08-28T18:00:19.000Z",
-          "wordCount": null,
-          "title": "Dark Reading Confidential: A Guided Tour of Today's Dark Web",
           "imageUrl": null
         }
       ]
