@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-09-15T18:24:40.900Z</updated>
+    <updated>2025-09-15T21:14:51.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KillSec Ransomware Hits Brazilian Healthcare Software Provider]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-brazil-healthcare-software-provider</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-brazil-healthcare-software-provider"/>
+        <updated>2025-09-15T20:28:59.000Z</updated>
+        <summary type="html"><![CDATA[The ransomware gang breached a "major element" of the healthcare technology supply chain and stole sensitive patient data, according to researchers.]]></summary>
+        <author>
+            <name>Kristina Beek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Warns of Threat Actors Hitting Salesforce Customers]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/fbi-warns-threat-actors-salesforce-customers</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/fbi-warns-threat-actors-salesforce-customers"/>
+        <updated>2025-09-15T20:02:17.000Z</updated>
+        <summary type="html"><![CDATA[The FBI's IC3 recently warned of two threat actors, UNC6040 and UNC6395, targeting Salesforce customers, separately and in tandem.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs]]></title>
+        <id>https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html</id>
+        <link href="https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html"/>
+        <updated>2025-09-15T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-aligned threat actor known as Mustang Panda has been observed using an updated version of a backdoor called TONESHELL and a previously undocumented USB worm called SnakeDisk.
+"The worm only executes on devices with Thailand-based IP addresses and drops the Yokai backdoor," IBM X-Force researchers Golo Mühr and Joshua Chung said in an analysis published last week.
+The tech giant's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Resilient IT Infrastructure From the Start]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/building-resilient-it-infrastructure</id>
@@ -3300,17 +3332,6 @@ The news this week shows how attackers are mixing methods—combining stolen acc
         <link href="https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html"/>
         <updated>2025-09-01T11:55:00.000Z</updated>
         <summary type="html"><![CDATA[As enterprises continue to shift their operations to the browser, security teams face a growing set of cyber challenges. In fact, over 80% of security incidents now originate from web applications accessed via Chrome, Edge, Firefox, and other browsers. One particularly fast-evolving adversary, Scattered Spider, has made it their mission to wreak havoc on enterprises by specifically targeting]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics]]></title>
-        <id>https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html</id>
-        <link href="https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html"/>
-        <updated>2025-09-01T08:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new phishing campaign undertaken by the North Korea-linked hacking group called ScarCruft (aka APT37) to deliver a malware known as RokRAT.
-The activity has been codenamed Operation HanKook Phantom by Seqrite Labs, stating the attacks appear to target individuals associated with the National Intelligence Research Association, including academic figures]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
