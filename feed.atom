@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-09-16T06:26:28.558Z</updated>
+    <updated>2025-09-16T09:18:55.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds]]></title>
+        <id>https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html</id>
+        <link href="https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html"/>
+        <updated>2025-09-16T07:27:00.000Z</updated>
+        <summary type="html"><![CDATA[A team of academics from ETH Zürich and Google has discovered a new variant of a RowHammer attack targeting Double Data Rate 5 (DDR5) memory chips from South Korean semiconductor vendor SK Hynix.
+The RowHammer attack variant, codenamed Phoenix (CVE-2025-6202, CVSS score: 7.1), is capable of bypassing sophisticated protection mechanisms put in place to resist the attack.
+"We have proven that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40 npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials]]></title>
         <id>https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html</id>
