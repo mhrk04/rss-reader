@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple on Monday backported fixes for a recently patched security flaw that has been actively exploited in the wild.\nThe vulnerability in question is CVE-2025-43300 (CVSS score: 8.8), an out-of-bounds write issue in the ImageIO component that could result in memory corruption when processing a malicious image file.\n\"Apple is aware of a report that this issue may have been exploited in an",
+          "link": "https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html",
+          "publishedOn": "2025-09-16T11:06:00.000Z",
+          "wordCount": null,
+          "title": "Apple Backports Fix for CVE-2025-43300 Exploited in Sophisticated Spyware Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEtyFQN828b8Jd8BAe7AeIjwASwSU0cJMhSQifqgUA1UgTFwFg787bdpeJFxgHN3E859Hm8G2LwPkj3ss4B_-dAKsBFlDoWzcihPScX3miO-Uv85ZROSQ0vdwkwm3VRkciSU0qWabD9OoEvsaZ1DxB5XxCA312pIOVGLOXy353q0PTWdMiOxncOufL3kII/s1600/apple-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEtyFQN828b8Jd8BAe7AeIjwASwSU0cJMhSQifqgUA1UgTFwFg787bdpeJFxgHN3E859Hm8G2LwPkj3ss4B_-dAKsBFlDoWzcihPScX3miO-Uv85ZROSQ0vdwkwm3VRkciSU0qWabD9OoEvsaZ1DxB5XxCA312pIOVGLOXy353q0PTWdMiOxncOufL3kII/s1600/apple-hack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/09/securing-agentic-era-introducing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "AI agents are rapidly becoming a core part of the enterprise, being embedded across enterprise workflows, operating with autonomy, and making decisions about which systems to access and how to use them. But as agents grow in power and autonomy, so do the risks and threats. \nRecent studies show 80% of companies have already experienced unintended AI agent actions, from unauthorized system",
+          "link": "https://thehackernews.com/2025/09/securing-agentic-era-introducing.html",
+          "publishedOn": "2025-09-16T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Securing the Agentic Era: Introducing Astrix's AI Agent Control Plane",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJZBPyq1KpNAqemN5ft7m7PHZepmRYr3Zx8NiGXnFLyR0NRpKr8lw7pG4-pJu9hf5qxcweGigxu_0eA_l38HBLWeaSh9lmlE-jjURjm8TPo2YCcotg-In4czS0l9NGgKgvxl42vLHBIuqNsUQhGPJGS5Kvl3s198L5XUKJV0rXCA-cu55f73P5Bv0FT2zW/s1600/ast-main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJZBPyq1KpNAqemN5ft7m7PHZepmRYr3Zx8NiGXnFLyR0NRpKr8lw7pG4-pJu9hf5qxcweGigxu_0eA_l38HBLWeaSh9lmlE-jjURjm8TPo2YCcotg-In4czS0l9NGgKgvxl42vLHBIuqNsUQhGPJGS5Kvl3s198L5XUKJV0rXCA-cu55f73P5Bv0FT2zW/s1600/ast-main.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A team of academics from ETH Zürich and Google has discovered a new variant of a RowHammer attack targeting Double Data Rate 5 (DDR5) memory chips from South Korean semiconductor vendor SK Hynix.\nThe RowHammer attack variant, codenamed Phoenix (CVE-2025-6202, CVSS score: 7.1), is capable of bypassing sophisticated protection mechanisms put in place to resist the attack.\n\"We have proven that",
@@ -22156,6 +22188,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyber-risk/securityscorecard-buys-ai-automation-capabilities-boosts-vendor-risk-management",
+          "author": "Fahmida Y. Rashid",
+          "description": "The company acquired HyperComply to help enterprises automate vendor security reviews and gain a real-time picture of the security of their entire supply chain.",
+          "link": "https://www.darkreading.com/cyber-risk/securityscorecard-buys-ai-automation-capabilities-boosts-vendor-risk-management",
+          "publishedOn": "2025-09-15T22:09:33.000Z",
+          "wordCount": null,
+          "title": "SecurityScorecard Buys AI Automation Capabilities, Boosts Vendor Risk Management",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-brazil-healthcare-software-provider",
           "author": "Kristina Beek",
