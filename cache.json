@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "LastPass is warning of an ongoing, widespread information stealer campaign targeting Apple macOS users through fake GitHub repositories that distribute malware-laced programs masquerading as legitimate tools.\n\n\"In the case of LastPass, the fraudulent repositories redirected potential victims to a repository that downloads the Atomic infostealer malware,\" researchers Alex Cox, Mike Kosak, and",
+          "link": "https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html",
+          "publishedOn": "2025-09-20T07:07:00.000Z",
+          "wordCount": null,
+          "title": "LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTi6Dhy7nzXe67ma-c9btG81oYxzpSkP8uMuw_TPUNRLO2uSbZ4ML4n363q5U8Gi3zsxQ2LQSDrMSnwipWYtDsd02K3785fguCkDPLfN8JFw1FXtsXe-MoCwyRbbcYm7RLotDe_r2tUrt4NKF35cxs7VIFdI2s4rJRAvDsD6Ws6VuFqztH2-Ywm1Avw-cg/s1600/1000021404.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTi6Dhy7nzXe67ma-c9btG81oYxzpSkP8uMuw_TPUNRLO2uSbZ4ML4n363q5U8Gi3zsxQ2LQSDrMSnwipWYtDsd02K3785fguCkDPLfN8JFw1FXtsXe-MoCwyRbbcYm7RLotDe_r2tUrt4NKF35cxs7VIFdI2s4rJRAvDsD6Ws6VuFqztH2-Ywm1Avw-cg/s1600/1000021404.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered what they say is the earliest example known to date of a malware with that bakes in Large Language Model (LLM) capabilities.\nThe malware has been codenamed MalTerminal by SentinelOne SentinelLABS research team. The findings were presented at the LABScon 2025 security conference.\nIn a report examining the malicious use of LLMs, the cybersecurity company",
+          "link": "https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html",
+          "publishedOn": "2025-09-20T05:48:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYfi5Bp9cOMPmi3Gk7C5lclsTXBJR-A4RnIMXwk49g5eDdG0k_D3Ah5wOoeVrw-5rJoXMHM74-ytsLunc8CzSgOFoiQYMXr7kBla8vDNfxlgBSD66wLzwYGZrKUk9lBS_VTdWcD-iBIO8av_qTaoObW-D6dnneWQiJSbCNgmWAceLrZjtFQvkhxlHM6kRp/s1600/hacker-ai-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYfi5Bp9cOMPmi3Gk7C5lclsTXBJR-A4RnIMXwk49g5eDdG0k_D3Ah5wOoeVrw-5rJoXMHM74-ytsLunc8CzSgOFoiQYMXr7kBla8vDNfxlgBSD66wLzwYGZrKUk9lBS_VTdWcD-iBIO8av_qTaoObW-D6dnneWQiJSbCNgmWAceLrZjtFQvkhxlHM6kRp/s1600/hacker-ai-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed a zero-click flaw in OpenAI ChatGPT's Deep Research agent that could allow an attacker to leak sensitive Gmail inbox data with a single crafted email without any user action.\nThe new class of attack has been codenamed ShadowLeak by Radware. Following responsible disclosure on June 18, 2025, the issue was addressed by OpenAI in early August.\n\"The attack",
@@ -22644,46 +22676,6 @@
           "publishedOn": "2025-09-08T10:08:51.000Z",
           "wordCount": null,
           "title": "45 New Domains Linked to Salt Typhoon, UNC4841",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot-security/how-has-iot-security-changed-over-the-past-5-years-",
-          "author": "Arielle Waldman",
-          "description": "Experts agree there have been subtle improvements, with new laws and applied best practices, but there is still a long way to go.",
-          "link": "https://www.darkreading.com/ics-ot-security/how-has-iot-security-changed-over-the-past-5-years-",
-          "publishedOn": "2025-09-05T20:46:04.000Z",
-          "wordCount": null,
-          "title": "How Has IoT Security Changed Over the Past 5 Years?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/sap-4hana-vulnerability-under-attack",
-          "author": "Rob Wright",
-          "description": "Exploitation of CVE-2025-42957 requires \"minimal effort\" and can result in a complete compromise of the SAP system and host OS, according to researchers.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/sap-4hana-vulnerability-under-attack",
-          "publishedOn": "2025-09-05T20:11:30.000Z",
-          "wordCount": null,
-          "title": "Critical SAP S/4HANA Vulnerability Under Attack, Patch Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/anyone-using-agentic-ai-needs-understand-toxic-flows",
-          "author": "Ericka Chickowski, Contributing Writer",
-          "description": "The biggest vulnerabilities may lie at the boundaries of where the AI agent connects with the enterprise system.",
-          "link": "https://www.darkreading.com/cyber-risk/anyone-using-agentic-ai-needs-understand-toxic-flows",
-          "publishedOn": "2025-09-05T19:34:47.000Z",
-          "wordCount": null,
-          "title": "Anyone Using Agentic AI Needs to Understand Toxic Flows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/secretive-maas-group-tag-150-novel-castlerat",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "TAG-150 is running a multifaceted and relatively successful malware-as-a-service operation, without advertising itself on the Dark Web.",
-          "link": "https://www.darkreading.com/threat-intelligence/secretive-maas-group-tag-150-novel-castlerat",
-          "publishedOn": "2025-09-05T18:28:14.000Z",
-          "wordCount": null,
-          "title": "Secretive MaaS Group 'TAG-150' Develops Novel 'CastleRAT'",
           "imageUrl": null
         }
       ]
