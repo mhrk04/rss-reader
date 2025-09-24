@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cloud security company Wiz has revealed that it uncovered in-the-wild exploitation of a security flaw in a Linux utility called Pandoc as part of attacks designed to infiltrate Amazon Web Services (AWS) Instance Metadata Service (IMDS).\nThe vulnerability in question is CVE-2025-51591 (CVSS score: 6.5), which refers to a case of Server-Side Request Forgery (SSRF) that allows attackers to",
+          "link": "https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html",
+          "publishedOn": "2025-09-24T07:15:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKyurAVwFl0xbW7fxmPHdNxWeLJgY1Yae_r4IUGEvwD8a0825wBZI1ntXPxDQhyphenhyphenEgh7Z-mVsIjOCPPsb9Both7X-Qp9fvn6CS-2zXBQcRP5i55_6Zh89eY9LFRBQ1Ac6Cov-299GYptQgS59qKr_jDculJRDg94OoGe1PAHwe3MR5Poy3nKqQ7Fe0ydfU/s1600/aws-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKyurAVwFl0xbW7fxmPHdNxWeLJgY1Yae_r4IUGEvwD8a0825wBZI1ntXPxDQhyphenhyphenEgh7Z-mVsIjOCPPsb9Both7X-Qp9fvn6CS-2zXBQcRP5i55_6Zh89eY9LFRBQ1Ac6Cov-299GYptQgS59qKr_jDculJRDg94OoGe1PAHwe3MR5Poy3nKqQ7Fe0ydfU/s1600/aws-hack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Libraesva has released a security update to address a vulnerability in its Email Security Gateway (ESG) solution that it said has been exploited by state-sponsored threat actors.\nThe vulnerability, tracked as CVE-2025-59689, carries a CVSS score of 6.1, indicating medium severity.\n\"Libraesva ESG is affected by a command injection flaw that can be triggered by a malicious email containing a",
+          "link": "https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html",
+          "publishedOn": "2025-09-24T06:24:00.000Z",
+          "wordCount": null,
+          "title": "State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikhC9o89XVtTF8APvUzHWqDjSYVUWJPe2XX1C4SYV-AZpM-D4tG75m5-N8kv1STdI9pXts2I7LgBfZclev07Umd0tUOTXvukSAjVVOhCfMGjm4wW21CR5YmfaPTAdTd0ZoZS_MQGcNYehNqOyywF3TuE-FzoHat71AHET9puQgA0PZDmDO4cqwm31n1AzD/s1600/email-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikhC9o89XVtTF8APvUzHWqDjSYVUWJPe2XX1C4SYV-AZpM-D4tG75m5-N8kv1STdI9pXts2I7LgBfZclev07Umd0tUOTXvukSAjVVOhCfMGjm4wW21CR5YmfaPTAdTd0ZoZS_MQGcNYehNqOyywF3TuE-FzoHat71AHET9puQgA0PZDmDO4cqwm31n1AzD/s1600/email-hack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed details of two security vulnerabilities impacting Supermicro Baseboard Management Controller (BMC) firmware that could potentially allow attackers to bypass crucial verification steps and update the system with a specially crafted image.\nThe medium-severity vulnerabilities, both of which stem from improper verification of a cryptographic signature, are",
@@ -20420,6 +20452,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=366661",
+          "author": "Nurul Kamil",
+          "description": "Like the older iterations of the brand’s midrange X series, the HONOR X9d is designed to be extra tough and sturdy. Of course, if you aren’t already familiar with this lineup, it’s not something that’s immediately apparent. This is especially true for this particular model, which bears a passing resemblance to some of the company’s […]\nThe post HONOR X9d Hands On: Strikingly Sturdy appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/366661/honor-x9d-hands-on-strikingly-sturdy/",
+          "publishedOn": "2025-09-24T08:48:03.000Z",
+          "wordCount": 10663,
+          "title": "HONOR X9d Hands On: Strikingly Sturdy",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/honor-x9d-hands-on-4.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=367078",
+          "author": "Heirul Kamel",
+          "description": "MyDigital ID has signed a Memorandum of Understanding (MoU) with HONOR Malaysia, making the company the first smartphone manufacturer to support the government’s digital identity adoption drive. Through this partnership, HONOR will pre-install the MyDigital ID application on its new smartphones, allowing users immediate access to digital verification services. The initiative is part of Malaysia’s […]\nThe post HONOR Becomes First Smartphone Brand To Pre-Install MyDigital ID App appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/367078/honor-becomes-first-smartphone-brand-to-pre-install-mydigital-id-app/",
+          "publishedOn": "2025-09-24T08:36:33.000Z",
+          "wordCount": 10133,
+          "title": "HONOR Becomes First Smartphone Brand To Pre-Install MyDigital ID App",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/mydigital-id-honor-malaysia-partnership_03.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=367061",
+          "author": "Nurul Kamil",
+          "description": "After much teasing, the HONOR X9d has finally made its official debut on our shores. Touted as the brand’s toughest midranger, it comes with a claimed SGS Triple-Resistant Certification for durability. Moreover, it gets some notable upgrades from last year’s model, namely in the battery department. Starting with the basics, the X9d features a 6.79-inch […]\nThe post HONOR X9d Officially Launched In Malaysia; Priced From RM1,499 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/367061/honor-x9d-officially-launched-in-malaysia-priced-from-rm1499/",
+          "publishedOn": "2025-09-24T08:28:50.000Z",
+          "wordCount": 10415,
+          "title": "HONOR X9d Officially Launched In Malaysia; Priced From RM1,499",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/honor-x9d-launch-30.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=367069",
+          "author": "Keran",
+          "description": "The Xpeng G6 facelift was recently spotted at Glenmarie, hinting at its debut in the local market. The speculation seems to be true, as Xpeng Malaysia has announced the debut of the facelifted G6, which will be arriving in the local market on 1 October 2025. Furthermore, the mid-size electric crossover SUV is now open […]\nThe post Xpeng G6 Facelift To Launch In Malaysia This October appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/367069/xpeng-g6-facelift-to-launch-in-malaysia-this-october/",
+          "publishedOn": "2025-09-24T06:59:50.000Z",
+          "wordCount": 10477,
+          "title": "Xpeng G6 Facelift To Launch In Malaysia This October",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Xpeng-G6-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=367057",
           "author": "Ian Chee",
@@ -22054,66 +22126,6 @@
           "wordCount": 9903,
           "title": "Leakster Claims Samsung Galaxy S26 Ultra Camera Bump To Get Thicker",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Samsung-Galaxy-S26-Ultra-camera-bump.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365603",
-          "author": "Kiran Ganesan",
-          "description": "Following the conclusion of Apple’s keynote event, the company has officially announced that iOS 26, the next major update for iPhones, will officially launch on 15 September. One of the most noticeable changes is the introduction of Liquid Glass design as well as redesigned app icons, to name a few. However, as usual with any […]\nThe post Apple To Launch iOS 26, watchOS 26, iPadOS 26 On 15 September  appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365603/apple-ios-26-watchos-26-ipados-26-15-september/",
-          "publishedOn": "2025-09-09T20:39:52.000Z",
-          "wordCount": 10769,
-          "title": "Apple To Launch iOS 26, watchOS 26, iPadOS 26 On 15 September",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Liquid-Glass.png"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365596",
-          "author": "Nurul Kamil",
-          "description": "The iPhone 17 and its Pro variants are the stars of the Apple “Awe Dropping” event today. Alongside these phones, the bitten fruit company has introduced an array of accessories, including cases and a MagSafe battery for the iPhone Air. As you can probably guess from the name, the MagSafe battery is a battery that […]\nThe post Here Are The New iPhone 17 Series Accessories appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365596/here-are-the-new-iphone-17-series-accessories/",
-          "publishedOn": "2025-09-09T20:33:00.000Z",
-          "wordCount": 10539,
-          "title": "Here Are The New iPhone 17 Series Accessories",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/iphone-17-accessories-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365556",
-          "author": "John Law",
-          "description": "Apple just announced its latest range of Watches. These include the new Watch Series 11, the SE3, and Ultra 3. Watch Series 11 Starting with Watch Series 11, the new series is the first in its line to feature 5G – to be clear, all three newly announced Watch devices feature 5G but this is […]\nThe post Apple Launches New Watch Series 11, SE 3, And Ultra 3 Series appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365556/apple-watch-series-11-se3-ultra-3/",
-          "publishedOn": "2025-09-09T19:38:21.000Z",
-          "wordCount": 11178,
-          "title": "Apple Launches New Watch Series 11, SE 3, And Ultra 3 Series",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Apple-Watch-Series-11-SE3-Ultra-3.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365575",
-          "author": "Heirul Kamel",
-          "description": "Apart from the base and all-new Air model, Apple has also officially unveiled the iPhone 17 Pro and iPhone 17 Pro Max during its “Awe Dropping” keynote today. As revealed by the company, the duo is its latest flagship smartphones with a redesigned aluminium unibody, improved thermal performance, and the new A19 Pro processor.  Both […]\nThe post Apple Launches iPhone 17 Pro, Pro Max; Starts From RM5,499 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365575/apple-launches-iphone-17-pro-pro-max/",
-          "publishedOn": "2025-09-09T19:15:35.000Z",
-          "wordCount": 10611,
-          "title": "Apple Launches iPhone 17 Pro, Pro Max; Starts From RM5,499",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/iphone-17-pro-max-launch-malaysia-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365558",
-          "author": "Ian Chee",
-          "description": "After a series of leaks, Apple has finally officiated the iPhone Air. Yes, this thin phone doesn’t get a number attached to it. Not to worry though, the base model is still called the iPhone 17. While both get a suite of new features, the former naturally gets more. Lets start with what the numbered […]\nThe post Apple Officially Unveils iPhone Air Alongside iPhone 17; Starts From RM3,999 In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365558/apple-iphone-air-iphone-17-from-rm3999-malaysia/",
-          "publishedOn": "2025-09-09T19:04:27.000Z",
-          "wordCount": 10546,
-          "title": "Apple Officially Unveils iPhone Air Alongside iPhone 17; Starts From RM3,999 In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/iPhone-Air.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365560",
-          "author": "Nurul Kamil",
-          "description": "Apple kicked off its “Awe Dropping” event with the introduction of the long-anticipated successor to the AirPods Pro 2, the AirPods Pro 3. The tech giant’s newest set of earbuds sports a new look and comes with a few new features in addition to improvements to ANC and battery life. To start off, these buds […]\nThe post Apple Announces AirPods Pro 3; Priced At RM999 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365560/apple-announces-airpods-pro-3-priced-at-rm999/",
-          "publishedOn": "2025-09-09T18:41:31.000Z",
-          "wordCount": 10202,
-          "title": "Apple Announces AirPods Pro 3; Priced At RM999",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/apple-airpods-pro-3-2.jpg"
         }
       ]
     },
@@ -22680,36 +22692,6 @@
           "publishedOn": "2025-09-10T02:00:00.000Z",
           "wordCount": null,
           "title": "Southeast Asian Scam Centers Face More Financial Sanctions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "Nearly half the CVEs Microsoft disclosed in its September security update, including one publicly known bug, enable escalation of privileges.",
-          "link": "https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day",
-          "publishedOn": "2025-09-09T20:48:26.000Z",
-          "wordCount": null,
-          "title": "EoP Flaws Again Lead Microsoft Patch Day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint",
-          "author": "Arielle Waldman",
-          "description": "While the jury is still out on whether the browser is the new endpoint, it's clear that use has skyrocketed and security needs to align.",
-          "link": "https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint",
-          "publishedOn": "2025-09-09T19:23:53.000Z",
-          "wordCount": null,
-          "title": "Is the Browser Becoming the New Endpoint?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack",
-          "author": "Kristina Beek",
-          "description": "The data breach, which occurred earlier this year, saw threat actors compromise a third-party platform to obtain Qantas customers' personal information.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack",
-          "publishedOn": "2025-09-09T19:17:18.000Z",
-          "wordCount": null,
-          "title": "Qantas Reduces Executive Pay Following Cyberattack",
           "imageUrl": null
         }
       ]
