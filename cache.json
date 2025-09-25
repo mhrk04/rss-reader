@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a critical flaw impacting Salesforce Agentforce, a platform for building artificial intelligence (AI) agents, that could allow attackers to potentially exfiltrate sensitive data from its customer relationship management (CRM) tool by means of an indirect prompt injection.\nThe vulnerability has been codenamed ForcedLeak (CVSS score: 9.4) by Noma Security,",
+          "link": "https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html",
+          "publishedOn": "2025-09-25T15:17:00.000Z",
+          "wordCount": null,
+          "title": "Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW4zsFxo74bTB95c9Yy2f4iRKMQQVMF8x-NuQh-XAeZnUHEsBDcZ3YfzF71UYmDIX0G1W3ypTJov6cuqPPhmEnZN6zwMqrUpvNPlXN0Ad5ipw8UbAR_XtBqIDB4DR71lgn-bMt9lBmvXwsXqifB2lraLt-vplEHtqLxtfzZVkm0r1mhdbnKVJrWpzXulu2/s1600/salesforce-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW4zsFxo74bTB95c9Yy2f4iRKMQQVMF8x-NuQh-XAeZnUHEsBDcZ3YfzF71UYmDIX0G1W3ypTJov6cuqPPhmEnZN6zwMqrUpvNPlXN0Ad5ipw8UbAR_XtBqIDB4DR71lgn-bMt9lBmvXwsXqifB2lraLt-vplEHtqLxtfzZVkm0r1mhdbnKVJrWpzXulu2/s1600/salesforce-hack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The North Korea-linked threat actors associated with the Contagious Interview campaign have been attributed to a previously undocumented backdoor called AkdoorTea, along with tools like TsunamiKit and Tropidoor.\nSlovak cybersecurity firm ESET, which is tracking the activity under the name DeceptiveDevelopment, said the campaign targets software developers across all operating systems, Windows,",
@@ -20476,22 +20492,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ZkDGIehpXH948IGTxMRsWIkGYEVs1os4i3Iz1dafJzvP7XspDt0F852C4WJVx_39BS_ylL0mEUki4nWpbq3HDGhHg1efM2xKtSgdbE_YW3SMMEshq1R54Q71kt8ChPyAcq2EzUPmnPRcivExfJ6Gxb9KtoYGXApEafxA9AzgcA6kMUBj4LJ9VGUBgYpA/s1600/meta.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ZkDGIehpXH948IGTxMRsWIkGYEVs1os4i3Iz1dafJzvP7XspDt0F852C4WJVx_39BS_ylL0mEUki4nWpbq3HDGhHg1efM2xKtSgdbE_YW3SMMEshq1R54Q71kt8ChPyAcq2EzUPmnPRcivExfJ6Gxb9KtoYGXApEafxA9AzgcA6kMUBj4LJ9VGUBgYpA/s1600/meta.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a new campaign that leverages ConnectWise ScreenConnect, a legitimate Remote Monitoring and Management (RMM) software, to deliver a fleshless loader that drops a remote access trojan (RAT) called AsyncRAT to steal sensitive data from compromised hosts.\n\"The attacker used ScreenConnect to gain remote access, then executed a layered VBScript and",
-          "link": "https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html",
-          "publishedOn": "2025-09-11T06:02:00.000Z",
-          "wordCount": null,
-          "title": "AsyncRAT Exploits ConnectWise ScreenConnect to Steal Credentials and Crypto",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP7C2frdf5WmypvzDFcoIflzvcWCb6Z_KOSHpC64B893uJaqeH_Bs40SZBkJVQ_ze7_dDx5I5UU16E7yf4KE0_ZGxKpm6ccIqhpa2kBgHm6myP8aDFo1ikagWM1JECrRs9YebPdVKf71j5S04-PLt_kb8TE66HJ9DfaOXk3x0md0B2_P5jWP8RBSLyCtKL/s1600/passwords.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP7C2frdf5WmypvzDFcoIflzvcWCb6Z_KOSHpC64B893uJaqeH_Bs40SZBkJVQ_ze7_dDx5I5UU16E7yf4KE0_ZGxKpm6ccIqhpa2kBgHm6myP8aDFo1ikagWM1JECrRs9YebPdVKf71j5S04-PLt_kb8TE66HJ9DfaOXk3x0md0B2_P5jWP8RBSLyCtKL/s1600/passwords.jpg"
         }
       ]
     },
@@ -22174,56 +22174,6 @@
           "wordCount": 10285,
           "title": "Dreame Technology Unveils Renderings Of First Electric Hypercar",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Dreame-EV1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365793",
-          "author": "Ian Chee",
-          "description": "Previously, serial leakster @UniverseIce claimed that the Samsung Galaxy S26 Ultra will have thicker camera bump than its predecessor. This is in exchange for making the rest of the phone thinner. But more recently, the leakster says that not only is the camera bump thicker, the camera with telephoto zoom capabilities may also be worse. […]\nThe post Samsung Galaxy S26 Ultra Telephoto Camera May Perform Worse Than S25 Ultra appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365793/samsung-galaxy-s26-ultra-telephoto-camera-may-perform-worse-than-s25-ultra/",
-          "publishedOn": "2025-09-11T05:48:39.000Z",
-          "wordCount": 10029,
-          "title": "Samsung Galaxy S26 Ultra Telephoto Camera May Perform Worse Than S25 Ultra",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/02/samsung-galaxy-s25-ultra-review_12.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365787",
-          "author": "Nurul Kamil",
-          "description": "TNG Digital has announced that it is collaborating with Ant International and AlipayHK to launch the Digital Wallet Guardian Partnership. As the name implies, the goal of this partnership is to enhance the protection of global wallet payments amid the increasing adoption of digital wallets like TNG eWallet. The initiative will focus on three areas: […]\nThe post TNG eWallet, AlipayHK Partner With Ant International To Protect Digital Transactions appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365787/tng-ewallet-alipayhk-partner-with-ant-international-to-protect-digital-transactions/",
-          "publishedOn": "2025-09-11T05:16:35.000Z",
-          "wordCount": 10121,
-          "title": "TNG eWallet, AlipayHK Partner With Ant International To Protect Digital Transactions",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/01/Touch-n-Go-eWallet-TnG-logo.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365785",
-          "author": "Ian Chee",
-          "description": "ASUS has announced a flat RM400 discount for its ROG Phone 9 series of gaming smartphones. The discount is part of what it calls its National Day Deals. That being said, the discount lasts quite a bit longer than just next Tuesday. The discount applies to three models in the range of four, so one […]\nThe post ASUS ROG Phone 9 Series Gets RM400 Discount As Part Of National Day Deal appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365785/asus-rog-phone-9-series-rm400-discount-national-day-deal/",
-          "publishedOn": "2025-09-11T04:46:02.000Z",
-          "wordCount": 9963,
-          "title": "ASUS ROG Phone 9 Series Gets RM400 Discount As Part Of National Day Deal",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/ASUS-ROG-PHone-9-National-Day-Dals.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365755",
-          "author": "Keran",
-          "description": "BYD Malaysia, after teasing a new model for the local market recently, released an image on its social media platforms yesterday. The picture highlighted the rear silhouette and taillights of the upcoming vehicle. From the teaser, it’s clear that the next model will be a sedan. However, it’s unlikely to be the Seal 06 EV, […]\nThe post BYD Teases New Sedan Model for Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365755/byd-teases-new-sedan-model-for-malaysia/",
-          "publishedOn": "2025-09-11T04:18:39.000Z",
-          "wordCount": 10674,
-          "title": "BYD Teases New Sedan Model for Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/BYD-Qin-L-EV4.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365759",
-          "author": "Kiran Ganesan",
-          "description": "When it comes to product releases, DJI typically releases a brief teaser about the item a week before the official launch to generate some hype. However, it seems as though the company is eerily quiet about the new action camera Osmo Nano, a spiritual successor to the Action 2 camera, which was said to arrive […]\nThe post DJI Osmo Nano Action Camera Leaked By YouTuber appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365759/dji-osmo-nano-leaked-by-youtuber/",
-          "publishedOn": "2025-09-11T04:03:35.000Z",
-          "wordCount": 10524,
-          "title": "DJI Osmo Nano Action Camera Leaked By YouTuber",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/DJI-Osmo-Nano-Leaks1.jpg"
         }
       ]
     },
