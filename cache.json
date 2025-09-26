@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new campaign has been observed impersonating Ukrainian government agencies in phishing attacks to deliver CountLoader, which is then used to drop Amatera Stealer and PureMiner.\n\"The phishing emails contain malicious Scalable Vector Graphics (SVG) files designed to trick recipients into opening harmful attachments,\" Fortinet FortiGuard Labs researcher Yurren Wan said in a report shared with The",
+          "link": "https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html",
+          "publishedOn": "2025-09-26T16:40:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Expose SVG and PureRAT Phishing Threats Targeting Ukraine and Vietnam",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoAlwqZyRSOLUD2jXOxiKCOPZAMh081oe9ijFtBbCQqlFj5f_lZrJGiV1gJdkuipyKN_MhD1KpjlpLUG9bXgXxsH5XnLSuvGa3myeul0PlTZ7A6qsrToao7i6Hp68F4O0SghREIqMb3ae8zsJb0PJcKWHhRHpPt9r4pSGqXdFFEIC98sn6s5ezuAuCBdRi/s1600/phishing-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoAlwqZyRSOLUD2jXOxiKCOPZAMh081oe9ijFtBbCQqlFj5f_lZrJGiV1gJdkuipyKN_MhD1KpjlpLUG9bXgXxsH5XnLSuvGa3myeul0PlTZ7A6qsrToao7i6Hp68F4O0SghREIqMb3ae8zsJb0PJcKWHhRHpPt9r4pSGqXdFFEIC98sn6s5ezuAuCBdRi/s1600/phishing-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Russian advanced persistent threat (APT) group known as COLDRIVER has been attributed to a fresh round of ClickFix-style attacks designed to deliver two new \"lightweight\" malware families tracked as BAITSWITCH and SIMPLEFIX.\nZscaler ThreatLabz, which detected the new multi-stage ClickFix campaign earlier this month, described BAITSWITCH as a downloader that ultimately drops SIMPLEFIX, a",
@@ -20508,22 +20524,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEvW0kfUQir6Eu15eratTv3mVtQTQ0UF9xJOpCCZIpMLcPVkxpJ15lBOlUJew4mnTiHt_ObVINexY8XgOuMAv9cI9H5bYYMzahkg7AJWvgVD6_ic0JFiYVHvfWzIeYnC7neweP1Aq_nVTgN8PydJfhmCF4yv3DdajJoOHMPqpEaVHrMn-hXqoArPJFMVA/s1600/sys-main.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEvW0kfUQir6Eu15eratTv3mVtQTQ0UF9xJOpCCZIpMLcPVkxpJ15lBOlUJew4mnTiHt_ObVINexY8XgOuMAv9cI9H5bYYMzahkg7AJWvgVD6_ic0JFiYVHvfWzIeYnC7neweP1Aq_nVTgN8PydJfhmCF4yv3DdajJoOHMPqpEaVHrMn-hXqoArPJFMVA/s1600/sys-main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A security weakness has been disclosed in the artificial intelligence (AI)-powered code editor Cursor that could trigger code execution when a maliciously crafted repository is opened using the program.\nThe issue stems from the fact that an out-of-the-box security setting is disabled by default, opening the door for attackers to run arbitrary code on users' computers with their privileges.\n\"",
-          "link": "https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html",
-          "publishedOn": "2025-09-12T04:49:00.000Z",
-          "wordCount": null,
-          "title": "Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHAKp4IJAmSiZWoK0v8XwpRWrn3YLZ3PZpvLMobinGLjEO70UTmZ36b5CVT00TuJSGsFuBPHO26VzxBZQ3OCgnLB09bj9R0OPIuyO3dm9sTyhvqdttKb1MH2xW6LVamsUJmZweRAreHKA5ddL9T3PMgRwwS6p45PailemmFl61xIGqWOTBmkeangb6d42Q/s1600/editor.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHAKp4IJAmSiZWoK0v8XwpRWrn3YLZ3PZpvLMobinGLjEO70UTmZ36b5CVT00TuJSGsFuBPHO26VzxBZQ3OCgnLB09bj9R0OPIuyO3dm9sTyhvqdttKb1MH2xW6LVamsUJmZweRAreHKA5ddL9T3PMgRwwS6p45PailemmFl61xIGqWOTBmkeangb6d42Q/s1600/editor.jpg"
         }
       ]
     },
@@ -22196,76 +22196,6 @@
           "wordCount": 10505,
           "title": "Astro Debuts Limited-Edition Didi & Friends Fibre Router At Home Of Kids Event",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Astro-Home-of-Kids-Event-9.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365930",
-          "author": "Keran",
-          "description": "Remember GWM’s Ora brand? If not, it is probably because the Baoding automaker has not launched any model since 2022. However, that is about to change as the brand is preparing to launch the GWM Ora Cat SUV, which will be known as the Ora 5 and Ora i5 in other markets. This information according […]\nThe post New GWM Ora Cat SUV Unveiled Through Leaked China MIIT Filings appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365930/gwm-ora-cat-suv-leak/",
-          "publishedOn": "2025-09-12T06:11:33.000Z",
-          "wordCount": 10321,
-          "title": "New GWM Ora Cat SUV Unveiled Through Leaked China MIIT Filings",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Ora-Cat-SUV2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365938",
-          "author": "Nurul Kamil",
-          "description": "Sony has officially announced the Xperia 10 VII, its newest mid-range smartphone. If you’ve been keeping up with the leaks, then the device’s redesigned camera layout should come as no surprise. Rather than a vertical arrangement, the sensors are now positioned horizontally, not unlike Google’s Pixel series and the newly launched iPhone Air. The successor […]\nThe post Sony Unveils Xperia 10 VII With Revamped Camera Module appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365938/sony-unveils-xperia-10-vii-with-revamped-camera-module/",
-          "publishedOn": "2025-09-12T06:08:01.000Z",
-          "wordCount": 10137,
-          "title": "Sony Unveils Xperia 10 VII With Revamped Camera Module",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/sony-xperia-10-vii-4.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365927",
-          "author": "Ian Chee",
-          "description": "With the announcement of this year’s batch of iPhones come third party accessories to fit them. Not to say that there aren’t any first party ones, but with Apple usually keeping with safe designs, it’s usually those made by others that give out the wackier designs. This includes Spigen with its Ultra Hybrid Zero One […]\nThe post Spigen iPhone Air Case Makes It Look Like A Nothing Phone appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365927/spigen-iphone-air-case-turns-it-into-nothing-phone/",
-          "publishedOn": "2025-09-12T05:38:30.000Z",
-          "wordCount": 10082,
-          "title": "Spigen iPhone Air Case Makes It Look Like A Nothing Phone",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Spigen-Ultra-Hybrid-Zero-One-Iphone-Air.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365903",
-          "author": "Ian Chee",
-          "description": "These days, LEGO and gaming history go kind of hand in hand. A couple of months ago, we saw the brick Nintendo Game Boy getting announced. This month, it’s something from Sega. Very specifically though, it’s the Sega Genesis controller, and it’s the first generation version with its distinct lack of buttons. This is a […]\nThe post LEGO Sega Genesis Controller Is A GWP Item For Purchases Over RM620 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365903/lego-sega-genesis-controller-gwp-purchases-over-rm620/",
-          "publishedOn": "2025-09-12T04:22:32.000Z",
-          "wordCount": 10026,
-          "title": "LEGO Sega Genesis Controller Is A GWP Item For Purchases Over RM620",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/LEGO-Sega-Genesis-controller-box.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365916",
-          "author": "Nurul Kamil",
-          "description": "CTOS Digital Berhad has announced that it is collaborating with the government-backed national digital identity platform, MyDigital ID. This partnership, formalised through the signing of a Memorandum of Understanding (MoU), concerns electronic Know Your Customer (eKYC) processes. The MoU outlines a framework for using national digital identity system in improving eKYC verification. Through this partnership, […]\nThe post CTOS Digital Partners With MyDigital ID To Enhance eKYC Processes appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365916/ctos-digital-partners-with-mydigital-id-to-enhance-ekyc-processes/",
-          "publishedOn": "2025-09-12T04:12:53.000Z",
-          "wordCount": 9864,
-          "title": "CTOS Digital Partners With MyDigital ID To Enhance eKYC Processes",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/ctos-digital-mydigital-id-ekyc-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365898",
-          "author": "Keran",
-          "description": "After much waiting, Honda has launched its new fully electric Kei car, the N-ONE e. The small hatchback will be offered in two variants: e: G and e: L. Furthermore, the new hatchback is largely based on its combustion twin, the N-ONE, and according to the company, has inherited the DNA of the N360. In […]\nThe post Honda Launches The Fully Electric N-ONE E Kei Car In Japan appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365898/honda-n-one-e-kei-car-launch-japan/",
-          "publishedOn": "2025-09-12T03:49:51.000Z",
-          "wordCount": 10550,
-          "title": "Honda Launches The Fully Electric N-ONE E Kei Car In Japan",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Honda-N-ONE-e1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=365900",
-          "author": "Heirul Kamel",
-          "description": "The Charmera is Kodak‘s new mini digital camera designed in the shape of a keychain. Despite its size, this adorable camera is actually fully functional and is available in an assortment of colours. The catch? It’s a blindbox release. Weighing only 30g and measuring 2.3×1×0.8 inches in diameter, the new Kodak Charmera is made entirely […]\nThe post The New Kodak Charmera Is A Fully Functional Keychain-Sized Digital Camera appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/365900/the-new-kodak-charmera-is-a-fully-functional-keychain-sized-digital-camera/",
-          "publishedOn": "2025-09-12T03:43:56.000Z",
-          "wordCount": 10214,
-          "title": "The New Kodak Charmera Is A Fully Functional Keychain-Sized Digital Camera",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/kodak-charmera-mini-camera-3.jpg"
         }
       ]
     },
@@ -22274,6 +22204,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/crowds-drones-world-cup-cyber-challenges",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "The world's most-popular sports contest starts in June 2026 across 16 venues in three countries: Securing the event infrastructure from cyber threats will require massive collaboration.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/crowds-drones-world-cup-cyber-challenges",
+          "publishedOn": "2025-09-26T13:34:04.000Z",
+          "wordCount": null,
+          "title": "Prep is Underway, But 2026 FIFA World Cup Poses Significant Cyber Challenges",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/cisco-actively-exploited-zero-day-bugs-firewalls-ios",
           "author": "Alexander Culafi",
