@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-09-29T18:25:27.780Z</updated>
+    <updated>2025-09-29T21:14:07.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Akira Hits SonicWall VPNs in Broad Ransomware Campaign]]></title>
+        <id>https://www.darkreading.com/application-security/akira-sonicwall-vpns-broad-ransomware-campaign</id>
+        <link href="https://www.darkreading.com/application-security/akira-sonicwall-vpns-broad-ransomware-campaign"/>
+        <updated>2025-09-29T20:53:11.000Z</updated>
+        <summary type="html"><![CDATA[Akira ransomware actors are currently targeting SonicWall firewall customers vulnerable to a bug discovered last year.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations]]></title>
         <id>https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html</id>
@@ -3290,27 +3300,6 @@ In most scenarios, attackers don’t think of themselves as attacking your web b
         <updated>2025-09-15T11:22:00.000Z</updated>
         <summary type="html"><![CDATA[In a world where threats are persistent, the modern CISO’s real job isn't just to secure technology—it's to preserve institutional trust and ensure business continuity.
 This week, we saw a clear pattern: adversaries are targeting the complex relationships that hold businesses together, from supply chains to strategic partnerships. With new regulations and the rise of AI-driven attacks, the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Lies-in-the-Loop' Attack Defeats AI Coding Agents]]></title>
-        <id>https://www.darkreading.com/application-security/-lies-in-the-loop-attack-ai-coding-agents</id>
-        <link href="https://www.darkreading.com/application-security/-lies-in-the-loop-attack-ai-coding-agents"/>
-        <updated>2025-09-15T09:11:58.000Z</updated>
-        <summary type="html"><![CDATA[Researchers convince Anthropic's AI-assisted coding tool to engage in dangerous behavior by lying to it, paving the way for a supply chain attack.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns]]></title>
-        <id>https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html</id>
-        <link href="https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html"/>
-        <updated>2025-09-15T07:12:00.000Z</updated>
-        <summary type="html"><![CDATA[A new artificial intelligence (AI)-powered penetration testing tool linked to a China-based company has attracted nearly 11,000 downloads on the Python Package Index (PyPI) repository, raising concerns that it could be repurposed by cybercriminals for malicious purposes.
-Dubbed Villager, the framework is assessed to be the work of Cyberspike, which has positioned the tools as a red teaming]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
