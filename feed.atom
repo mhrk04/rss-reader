@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-09-30T18:22:48.686Z</updated>
+    <updated>2025-09-30T21:15:02.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Klopatra' Trojan Makes Bank Transfers While You Sleep]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/klopatra-trojan-bank-transfers-sleep</id>
+        <link href="https://www.darkreading.com/threat-intelligence/klopatra-trojan-bank-transfers-sleep"/>
+        <updated>2025-09-30T20:28:44.000Z</updated>
+        <summary type="html"><![CDATA[A sophisticated new banking malware is hard to detect, capable of stealing lots of money, and infecting thousands of people in Italy and Spain.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Exploited New VMware Bug for Nearly a Year]]></title>
+        <id>https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly</id>
+        <link href="https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly"/>
+        <updated>2025-09-30T19:41:14.000Z</updated>
+        <summary type="html"><![CDATA[A seemingly benign privilege-escalation process in VMware and other software has likely benefited attackers and other malware strains for years, researchers noted.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections]]></title>
+        <id>https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html</id>
+        <link href="https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html"/>
+        <updated>2025-09-30T18:42:00.000Z</updated>
+        <summary type="html"><![CDATA[A group of academics from KU Leuven and the University of Birmingham has demonstrated a new vulnerability called Battering RAM to bypass the latest defenses on Intel and AMD cloud processors.
+"We built a simple, $50 interposer that sits quietly in the memory path, behaving transparently during startup and passing all trust checks," researchers Jesse De Meulemeester, David Oswald, Ingrid]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware]]></title>
         <id>https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html</id>
@@ -3543,28 +3574,6 @@ The vulnerability in question is CVE-2025-43300 (CVSS score: 8.8), an out-of-bou
         <updated>2025-09-16T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[AI agents are rapidly becoming a core part of the enterprise, being embedded across enterprise workflows, operating with autonomy, and making decisions about which systems to access and how to use them. But as agents grow in power and autonomy, so do the risks and threats. 
 Recent studies show 80% of companies have already experienced unintended AI agent actions, from unauthorized system]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emerging Yurei Ransomware Claims First Victims]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/emerging-yurei-ransomware-claims-first-victims</id>
-        <link href="https://www.darkreading.com/threat-intelligence/emerging-yurei-ransomware-claims-first-victims"/>
-        <updated>2025-09-16T08:53:40.000Z</updated>
-        <summary type="html"><![CDATA[The cybercrime group, named after Japanese ghosts but believed to be from Morocco, uses a modified version of the Prince-Ransomware binary that includes a flaw allowing for partial data recovery. However, an extortion threat remains.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds]]></title>
-        <id>https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html</id>
-        <link href="https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html"/>
-        <updated>2025-09-16T07:27:00.000Z</updated>
-        <summary type="html"><![CDATA[A team of academics from ETH Zürich and Google has discovered a new variant of a RowHammer attack targeting Double Data Rate 5 (DDR5) memory chips from South Korean semiconductor vendor SK Hynix.
-The RowHammer attack variant, codenamed Phoenix (CVE-2025-6202, CVSS score: 7.1), is capable of bypassing sophisticated protection mechanisms put in place to resist the attack.
-"We have proven that]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

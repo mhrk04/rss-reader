@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A group of academics from KU Leuven and the University of Birmingham has demonstrated a new vulnerability called Battering RAM to bypass the latest defenses on Intel and AMD cloud processors.\n\"We built a simple, $50 interposer that sits quietly in the memory path, behaving transparently during startup and passing all trust checks,\" researchers Jesse De Meulemeester, David Oswald, Ingrid",
+          "link": "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html",
+          "publishedOn": "2025-09-30T18:42:00.000Z",
+          "wordCount": null,
+          "title": "$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdi-H6S_F-9-Ll9cV-FWKNBndi_aszei1aE8X-ejsO-Ku9vPb5f0hJkjHh21t_FM6BZrRHYUfQDytfjW1rrWr7NBAMHoS-MP19VNapiCjiSiBzITQVo-O9LUJrYiVaf48dQzgj6VN0ZyAyRWsb3aHxcSMdq06Qb6mccQ0yo3pTfEZvOd52WxaKN4V-z9qV/s1600/ram.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdi-H6S_F-9-Ll9cV-FWKNBndi_aszei1aE8X-ejsO-Ku9vPb5f0hJkjHh21t_FM6BZrRHYUfQDytfjW1rrWr7NBAMHoS-MP19VNapiCjiSiBzITQVo-O9LUJrYiVaf48dQzgj6VN0ZyAyRWsb3aHxcSMdq06Qb6mccQ0yo3pTfEZvOd52WxaKN4V-z9qV/s1600/ram.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Government and telecommunications organizations across Africa, the Middle East, and Asia have emerged as the target of a previously undocumented China-aligned nation-state actor dubbed Phantom Taurus over the past two-and-a-half years.\n\"Phantom Taurus' main focus areas include ministries of foreign affairs, embassies, geopolitical events, and military operations,\" Palo Alto Networks Unit 42",
@@ -20556,22 +20572,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJZBPyq1KpNAqemN5ft7m7PHZepmRYr3Zx8NiGXnFLyR0NRpKr8lw7pG4-pJu9hf5qxcweGigxu_0eA_l38HBLWeaSh9lmlE-jjURjm8TPo2YCcotg-In4czS0l9NGgKgvxl42vLHBIuqNsUQhGPJGS5Kvl3s198L5XUKJV0rXCA-cu55f73P5Bv0FT2zW/s1600/ast-main.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJZBPyq1KpNAqemN5ft7m7PHZepmRYr3Zx8NiGXnFLyR0NRpKr8lw7pG4-pJu9hf5qxcweGigxu_0eA_l38HBLWeaSh9lmlE-jjURjm8TPo2YCcotg-In4czS0l9NGgKgvxl42vLHBIuqNsUQhGPJGS5Kvl3s198L5XUKJV0rXCA-cu55f73P5Bv0FT2zW/s1600/ast-main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A team of academics from ETH Zürich and Google has discovered a new variant of a RowHammer attack targeting Double Data Rate 5 (DDR5) memory chips from South Korean semiconductor vendor SK Hynix.\nThe RowHammer attack variant, codenamed Phoenix (CVE-2025-6202, CVSS score: 7.1), is capable of bypassing sophisticated protection mechanisms put in place to resist the attack.\n\"We have proven that",
-          "link": "https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html",
-          "publishedOn": "2025-09-16T07:27:00.000Z",
-          "wordCount": null,
-          "title": "Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj07sYz1RKtxVQyVb_1oqROIVoV7rA96LewuBJ3LK4yFBHgPIqbTb89hfRr8Xh-j4FdXJdmhvhuaPMlGVniuV8jrYpgSucnr9V_gbZvlfqfCwZU6lYaNVQAxb3LIn487GAtQZuvEOQ9acvvicnfuda7WyV1XTtX2gr604OjJAYxEpn3-a8W7UQb5F1Si3K-/s1600/dram.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj07sYz1RKtxVQyVb_1oqROIVoV7rA96LewuBJ3LK4yFBHgPIqbTb89hfRr8Xh-j4FdXJdmhvhuaPMlGVniuV8jrYpgSucnr9V_gbZvlfqfCwZU6lYaNVQAxb3LIn487GAtQZuvEOQ9acvvicnfuda7WyV1XTtX2gr604OjJAYxEpn3-a8W7UQb5F1Si3K-/s1600/dram.jpg"
         }
       ]
     },
@@ -22513,6 +22513,26 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/threat-intelligence/klopatra-trojan-bank-transfers-sleep",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "A sophisticated new banking malware is hard to detect, capable of stealing lots of money, and infecting thousands of people in Italy and Spain.",
+          "link": "https://www.darkreading.com/threat-intelligence/klopatra-trojan-bank-transfers-sleep",
+          "publishedOn": "2025-09-30T20:28:44.000Z",
+          "wordCount": null,
+          "title": "'Klopatra' Trojan Makes Bank Transfers While You Sleep",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly",
+          "author": "Alexander Culafi",
+          "description": "A seemingly benign privilege-escalation process in VMware and other software has likely benefited attackers and other malware strains for years, researchers noted.",
+          "link": "https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly",
+          "publishedOn": "2025-09-30T19:41:14.000Z",
+          "wordCount": null,
+          "title": "China Exploited New VMware Bug for Nearly a Year",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.darkreading.com/cyber-risk/can-shadow-ai-risks-be-stopped",
           "author": "Arielle Waldman",
           "description": "Agentic AI has introduced abundant shadow artificial intelligence (AI) risks. Cybersecurity startup Entro Security extends its platform to help enterprises combat the growing issue.",
@@ -23040,16 +23060,6 @@
           "publishedOn": "2025-09-16T12:00:00.000Z",
           "wordCount": null,
           "title": "Innovative FileFix Phishing Attack Proves Plenty Potent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/emerging-yurei-ransomware-claims-first-victims",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "The cybercrime group, named after Japanese ghosts but believed to be from Morocco, uses a modified version of the Prince-Ransomware binary that includes a flaw allowing for partial data recovery. However, an extortion threat remains.",
-          "link": "https://www.darkreading.com/threat-intelligence/emerging-yurei-ransomware-claims-first-victims",
-          "publishedOn": "2025-09-16T08:53:40.000Z",
-          "wordCount": null,
-          "title": "Emerging Yurei Ransomware Claims First Victims",
           "imageUrl": null
         }
       ]
