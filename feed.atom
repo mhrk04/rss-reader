@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-09-30T21:15:02.393Z</updated>
+    <updated>2025-10-01T01:25:34.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China Imposes One-Hour Reporting Rule for Major Cyber Incidents]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/china-one-hour-reporting-rule-major-cyber-incidents</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/china-one-hour-reporting-rule-major-cyber-incidents"/>
+        <updated>2025-10-01T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The sweeping new regulations show that China's serious about hardening its own networks after launching widespread attacks on global networks.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New China APT Strikes With Precision and Persistence]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/new-china-apt-strikes-precision-persistence</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/new-china-apt-strikes-precision-persistence"/>
+        <updated>2025-09-30T21:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Phantom Taurus demonstrates a deep understanding of Windows environments, including advanced components like IIServerCore, a fileless backdoor that executes in memory to evade detection.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Klopatra' Trojan Makes Bank Transfers While You Sleep]]></title>
         <id>https://www.darkreading.com/threat-intelligence/klopatra-trojan-bank-transfers-sleep</id>
@@ -3530,50 +3550,6 @@ The post Infinix XPAD 20 Pro Now Available In Malaysia For RM999 appeared first 
         <updated>2025-09-16T14:19:00.000Z</updated>
         <summary type="html"><![CDATA[A massive ad fraud and click fraud operation dubbed SlopAds ran a cluster of 224 apps, collectively attracting 38 million downloads across 228 countries and territories.
 "These apps deliver their fraud payload using steganography and create hidden WebViews to navigate to threat actor-owned cashout sites, generating fraudulent ad impressions and clicks," HUMAN’s Satori Threat Intelligence and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site]]></title>
-        <id>https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html</id>
-        <link href="https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html"/>
-        <updated>2025-09-16T12:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have warned of a new campaign that's leveraging a variant of the FileFix social engineering tactic to deliver the StealC information stealer malware.
-"The observed campaign uses a highly convincing, multilingual phishing site (e.g., fake Facebook Security page), with anti-analysis techniques and advanced obfuscation to evade detection," Acronis security researcher Eliad]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovative FileFix Phishing Attack Proves Plenty Potent]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/innovative-filefix-attack-potent</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/innovative-filefix-attack-potent"/>
-        <updated>2025-09-16T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Highly deceptive FileFix uses code obfuscation and steganography and has been translated into at least 16 languages to power a global campaign.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Backports Fix for CVE-2025-43300 Exploited in Sophisticated Spyware Attack]]></title>
-        <id>https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html</id>
-        <link href="https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html"/>
-        <updated>2025-09-16T11:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple on Monday backported fixes for a recently patched security flaw that has been actively exploited in the wild.
-The vulnerability in question is CVE-2025-43300 (CVSS score: 8.8), an out-of-bounds write issue in the ImageIO component that could result in memory corruption when processing a malicious image file.
-"Apple is aware of a report that this issue may have been exploited in an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing the Agentic Era: Introducing Astrix's AI Agent Control Plane]]></title>
-        <id>https://thehackernews.com/2025/09/securing-agentic-era-introducing.html</id>
-        <link href="https://thehackernews.com/2025/09/securing-agentic-era-introducing.html"/>
-        <updated>2025-09-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI agents are rapidly becoming a core part of the enterprise, being embedded across enterprise workflows, operating with autonomy, and making decisions about which systems to access and how to use them. But as agents grow in power and autonomy, so do the risks and threats. 
-Recent studies show 80% of companies have already experienced unintended AI agent actions, from unauthorized system]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
