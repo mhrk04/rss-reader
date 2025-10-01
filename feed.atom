@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-10-01T06:26:23.202Z</updated>
+    <updated>2025-10-01T09:18:59.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Announces New AI-Based Ransomware Detection]]></title>
+        <id>https://www.lowyat.net/?p=368152</id>
+        <link href="https://www.lowyat.net/2025/368152/google-new-ai-based-ransomware-detection/"/>
+        <updated>2025-10-01T09:02:24.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloud has announced that it is rolling out an AI-based ransomware detection tool. This layer of protection will naturally be a part of Google Drive. But it can also be somewhat be extended to Windows and macOS, via the Google Drive for Desktop software. The internet search giant positions this as the step in […]
+The post Google Announces New AI-Based Ransomware Detection appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo V60 Lite 5G To Launch With MediaTek Dimensity 7360-Turbo, 6,500mAh Battery]]></title>
+        <id>https://www.lowyat.net/?p=368155</id>
+        <link href="https://www.lowyat.net/2025/368155/vivo-v60-lite-5g/"/>
+        <updated>2025-10-01T07:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Last month, a set of leaks revealed the designs and specifications of the vivo V60 Lite. The V60 variant has since made its debut in select markets, and now vivo Malaysia has confirmed that it will be bringing the phone to our shores soon. Or at least, the 5G model will be making its way […]
+The post vivo V60 Lite 5G To Launch With MediaTek Dimensity 7360-Turbo, 6,500mAh Battery appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs]]></title>
+        <id>https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html</id>
+        <link href="https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html"/>
+        <updated>2025-10-01T07:11:19.000Z</updated>
+        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of new targeted cyber attacks in the country using a backdoor called CABINETRAT.
+The activity, observed in September 2025, has been attributed to a threat cluster it tracks as UAC-0245. The agency said it spotted the attack following the discovery of software tools taking the form of XLL files, which refer to Microsoft Excel]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation DualSense Controller May Get Refresh With Removable Battery]]></title>
+        <id>https://www.lowyat.net/?p=368107</id>
+        <link href="https://www.lowyat.net/2025/368107/playstation-dualsense-controller-refresh-removable-battery/"/>
+        <updated>2025-10-01T06:29:51.000Z</updated>
+        <summary type="html"><![CDATA[We’ve seen whispers of a DualSense V2 early last year which promised improved battery life over the original. Things have been quiet since, but now there is a report of a V3 that’s on the way. This is claimed to come with another battery improvement, or more specifically, a removable battery. This comes from leakster […]
+The post PlayStation DualSense Controller May Get Refresh With Removable Battery appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Addresses Galaxy Ring Battery Draining, Swelling Problem]]></title>
         <id>https://www.lowyat.net/?p=368109</id>
@@ -3632,36 +3676,6 @@ The post Infinix XPAD 20 Pro Now Available In Malaysia For RM999 appeared first 
         <summary type="html"><![CDATA[A data security platform based on action is what the industry needs right now to protect enterprise data.]]></summary>
         <author>
             <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Bugs in Chaos Mesh Enable Cluster Takeover]]></title>
-        <id>https://www.darkreading.com/cyber-risk/critical-bugs-chaos-mesh-cluster-takeover</id>
-        <link href="https://www.darkreading.com/cyber-risk/critical-bugs-chaos-mesh-cluster-takeover"/>
-        <updated>2025-09-16T20:35:04.000Z</updated>
-        <summary type="html"><![CDATA["Chaotic Deputy" is a set of four vulnerabilities in the chaos engineering platform that many organizations use to test the resilience of their Kubernetes environments.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Replicating 'Shai-hulud' Worm Targets NPM Packages]]></title>
-        <id>https://www.darkreading.com/application-security/self-replicating-shai-hulud-worm-npm-packages</id>
-        <link href="https://www.darkreading.com/application-security/self-replicating-shai-hulud-worm-npm-packages"/>
-        <updated>2025-09-16T20:02:30.000Z</updated>
-        <summary type="html"><![CDATA[The newly emerged worm has spread across hundreds of open source software packages, stealing credentials and infecting other components without much direct attacker input.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Vane Viper' Threat Group Tied to PropellerAds, Commercial Entities]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/vane-viper-threat-group-propellerads</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/vane-viper-threat-group-propellerads"/>
-        <updated>2025-09-16T19:36:27.000Z</updated>
-        <summary type="html"><![CDATA[Researchers say the commercial adtech platform and several other companies form the infrastructure of a massive cybercrime operation.]]></summary>
-        <author>
-            <name>Rob Wright</name>
         </author>
     </entry>
     <entry>

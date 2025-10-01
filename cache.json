@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of new targeted cyber attacks in the country using a backdoor called CABINETRAT.\nThe activity, observed in September 2025, has been attributed to a threat cluster it tracks as UAC-0245. The agency said it spotted the attack following the discovery of software tools taking the form of XLL files, which refer to Microsoft Excel",
+          "link": "https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html",
+          "publishedOn": "2025-10-01T07:11:19.000Z",
+          "wordCount": null,
+          "title": "Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMmH_cOyc0rOttrXQGjDnZQanqTCaoiwy5B2Ttpzv14JY4QycZDqZaLuKvySAXWuneQMx4mMbTB7Ff43Metq3TjVJfhQtuEg-SYn2p-49_R635Px_spCm1LcXYG5W2PAGlQvkq5yE-1lneYqbeFCRn9fJ7xhKTtTVGtbND6iz0yZ6RYX0buedQ595V27Z9/s1600/office.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMmH_cOyc0rOttrXQGjDnZQanqTCaoiwy5B2Ttpzv14JY4QycZDqZaLuKvySAXWuneQMx4mMbTB7Ff43Metq3TjVJfhQtuEg-SYn2p-49_R635Px_spCm1LcXYG5W2PAGlQvkq5yE-1lneYqbeFCRn9fJ7xhKTtTVGtbND6iz0yZ6RYX0buedQ595V27Z9/s1600/office.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A group of academics from KU Leuven and the University of Birmingham has demonstrated a new vulnerability called Battering RAM to bypass the latest defenses on Intel and AMD cloud processors.\n\"We built a simple, $50 interposer that sits quietly in the memory path, behaving transparently during startup and passing all trust checks,\" researchers Jesse De Meulemeester, David Oswald, Ingrid",
@@ -20500,6 +20516,36 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=368152",
+          "author": "Ian Chee",
+          "description": "Google Cloud has announced that it is rolling out an AI-based ransomware detection tool. This layer of protection will naturally be a part of Google Drive. But it can also be somewhat be extended to Windows and macOS, via the Google Drive for Desktop software. The internet search giant positions this as the step in […]\nThe post Google Announces New AI-Based Ransomware Detection appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/368152/google-new-ai-based-ransomware-detection/",
+          "publishedOn": "2025-10-01T09:02:24.000Z",
+          "wordCount": 10079,
+          "title": "Google Announces New AI-Based Ransomware Detection",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/11/Google-Drive-Desktop-App-Bug-Banner-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=368155",
+          "author": "Nurul Kamil",
+          "description": "Last month, a set of leaks revealed the designs and specifications of the vivo V60 Lite. The V60 variant has since made its debut in select markets, and now vivo Malaysia has confirmed that it will be bringing the phone to our shores soon. Or at least, the 5G model will be making its way […]\nThe post vivo V60 Lite 5G To Launch With MediaTek Dimensity 7360-Turbo, 6,500mAh Battery appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/368155/vivo-v60-lite-5g/",
+          "publishedOn": "2025-10-01T07:49:16.000Z",
+          "wordCount": 10273,
+          "title": "vivo V60 Lite 5G To Launch With MediaTek Dimensity 7360-Turbo, 6,500mAh Battery",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/vivo-v60-lite-5g-3.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=368107",
+          "author": "Ian Chee",
+          "description": "We’ve seen whispers of a DualSense V2 early last year which promised improved battery life over the original. Things have been quiet since, but now there is a report of a V3 that’s on the way. This is claimed to come with another battery improvement, or more specifically, a removable battery. This comes from leakster […]\nThe post PlayStation DualSense Controller May Get Refresh With Removable Battery appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/368107/playstation-dualsense-controller-refresh-removable-battery/",
+          "publishedOn": "2025-10-01T06:29:51.000Z",
+          "wordCount": 9984,
+          "title": "PlayStation DualSense Controller May Get Refresh With Removable Battery",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2020/04/Sony-PS5-Dualsense-Controller-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=368109",
           "author": "Kiran Ganesan",
@@ -23080,36 +23126,6 @@
           "publishedOn": "2025-09-16T21:27:08.000Z",
           "wordCount": null,
           "title": "Ray Security Takes an Active Data Security Approach",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/critical-bugs-chaos-mesh-cluster-takeover",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "\"Chaotic Deputy\" is a set of four vulnerabilities in the chaos engineering platform that many organizations use to test the resilience of their Kubernetes environments.",
-          "link": "https://www.darkreading.com/cyber-risk/critical-bugs-chaos-mesh-cluster-takeover",
-          "publishedOn": "2025-09-16T20:35:04.000Z",
-          "wordCount": null,
-          "title": "Critical Bugs in Chaos Mesh Enable Cluster Takeover",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/self-replicating-shai-hulud-worm-npm-packages",
-          "author": "Alexander Culafi",
-          "description": "The newly emerged worm has spread across hundreds of open source software packages, stealing credentials and infecting other components without much direct attacker input.",
-          "link": "https://www.darkreading.com/application-security/self-replicating-shai-hulud-worm-npm-packages",
-          "publishedOn": "2025-09-16T20:02:30.000Z",
-          "wordCount": null,
-          "title": "Self-Replicating 'Shai-hulud' Worm Targets NPM Packages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/vane-viper-threat-group-propellerads",
-          "author": "Rob Wright",
-          "description": "Researchers say the commercial adtech platform and several other companies form the infrastructure of a massive cybercrime operation.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/vane-viper-threat-group-propellerads",
-          "publishedOn": "2025-09-16T19:36:27.000Z",
-          "wordCount": null,
-          "title": "'Vane Viper' Threat Group Tied to PropellerAds, Commercial Entities",
           "imageUrl": null
         }
       ]
