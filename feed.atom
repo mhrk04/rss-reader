@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-10-01T21:15:19.844Z</updated>
+    <updated>2025-10-02T01:15:48.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Sheds Light on ShinyHunters' Salesforce Tactics]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/google-sheds-light-shinyhunters-salesforce-tactics</id>
+        <link href="https://www.darkreading.com/threat-intelligence/google-sheds-light-shinyhunters-salesforce-tactics"/>
+        <updated>2025-10-01T21:17:38.000Z</updated>
+        <summary type="html"><![CDATA[Mandiant provided proactive defenses against UNC6040's social engineering attacks that have led to several Salesforce breaches.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shutdown Threatens US Intel Sharing, Cyber Defense]]></title>
         <id>https://www.darkreading.com/cyber-risk/shutdown-us-intel-sharing-cyber-defense</id>
@@ -3588,70 +3598,6 @@ Russian cybersecurity vendor Kaspersky is tracking the activity, observed in sum
         <summary type="html"><![CDATA[The AI era means attackers are smarter, faster, and hitting you where you least expect it — your sign-up funnel.]]></summary>
         <author>
             <name>darkreading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience]]></title>
-        <id>https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html</id>
-        <link href="https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html"/>
-        <updated>2025-09-17T12:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Quantum computing and AI working together will bring incredible opportunities. Together, the technologies will help us extend innovation further and faster than ever before. But, imagine the flip side, waking up to news that hackers have used a quantum computer to crack your company's encryption overnight, exposing your most sensitive data, rendering much of it untrustworthy.
-And with your]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts]]></title>
-        <id>https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html</id>
-        <link href="https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html"/>
-        <updated>2025-09-17T12:56:00.000Z</updated>
-        <summary type="html"><![CDATA[A China-aligned threat actor known as TA415 has been attributed to spear-phishing campaigns targeting the U.S. government, think tanks, and academic organizations utilizing U.S.-China economic-themed lures.
-"In this activity, the group masqueraded as the current Chair of the Select Committee on Strategic Competition between the United States and the Chinese Communist Party (CCP), as well as the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raven Stealer Scavenges Chromium Data Via Telegram]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/raven-stealer-scavenges-chrome-data-telegram</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/raven-stealer-scavenges-chrome-data-telegram"/>
-        <updated>2025-09-17T12:06:52.000Z</updated>
-        <summary type="html"><![CDATA[The new lightweight stealer, distributed via underground forums and cracked software, demonstrates an important evolution in the stealth of commodity infostealing malware.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking AI Data Security: A Buyer's Guide]]></title>
-        <id>https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html</id>
-        <link href="https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html"/>
-        <updated>2025-09-17T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI has gone from a curiosity to a cornerstone of enterprise productivity in just a few short years. From copilots embedded in office suites to dedicated large language model (LLM) platforms, employees now rely on these tools to code, analyze, draft, and decide. But for CISOs and security architects, the very speed of adoption has created a paradox: the more powerful the tools, the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivo Teases X300 Series Chipset, Video Specs And More]]></title>
-        <id>https://www.lowyat.net/?p=366292</id>
-        <link href="https://www.lowyat.net/2025/366292/vivo-teases-x300-series-chipset/"/>
-        <updated>2025-09-17T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Amidst the sea of leaks surrounding the X300 series, vivo has officially started teasing some details about its next flagship device. Based on the specifications provided, the company is aiming to make the handset series a worthy contender for the new iPhone 17, while also giving it some features that will let it play nice […]
-The post vivo Teases X300 Series Chipset, Video Specs And More appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Illegal Number Plate-Flippers Are Surprisingly Easy To Obtain In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=366269</id>
-        <link href="https://www.lowyat.net/2025/366269/illegal-flip-number-plates/"/>
-        <updated>2025-09-17T10:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Ever seen those the iconic scenes in movies such as The Transporter and Taxi, where the number plate of the car flips from one to another at the press of a button? Well, believe it or not, both the mechanism and plates can actually be purchased on e-commerce sites, and it’s actually, and surprisingly, not […]
-The post Illegal Number Plate-Flippers Are Surprisingly Easy To Obtain In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
         </author>
     </entry>
     <entry>
