@@ -19294,6 +19294,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "For years, security leaders have treated artificial intelligence as an “emerging” technology, something to keep an eye on but not yet mission-critical. A new Enterprise AI and SaaS Data Security Report by AI & Browser Security company LayerX proves just how outdated that mindset has become. Far from a future concern, AI is already the single largest uncontrolled channel for corporate data",
+          "link": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+          "publishedOn": "2025-10-07T11:00:00.000Z",
+          "wordCount": null,
+          "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb3HN9cQzmGSvd5iH1Pb396dWpf7EA2w3eN4JupNp1IVbz4cRypiYci-dkgnswgphQx-Jty8z4Qgu_idzIkQgXCH0ePVGhqZoT11LVw_utt0TvRhjk5hqetM1MiGmgbw9hdscLxBZ3AHF8aa0uYj_YmzmBDz6-G8HDpTyxvDr4IScTY7xK5oe__YwiD0/s1600/ai-data-leak.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb3HN9cQzmGSvd5iH1Pb396dWpf7EA2w3eN4JupNp1IVbz4cRypiYci-dkgnswgphQx-Jty8z4Qgu_idzIkQgXCH0ePVGhqZoT11LVw_utt0TvRhjk5hqetM1MiGmgbw9hdscLxBZ3AHF8aa0uYj_YmzmBDz6-G8HDpTyxvDr4IScTY7xK5oe__YwiD0/s1600/ai-data-leak.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have charted the evolution of XWorm malware, turning it into a versatile tool for supporting a wide range of malicious actions on compromised hosts.\n\"XWorm's modular design is built around a core client and an array of specialized components known as plugins,\" Trellix researchers Niranjan Hegde and Sijo Jacob said in an analysis published last week. \"These plugins are",
+          "link": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
+          "publishedOn": "2025-10-07T10:36:00.000Z",
+          "wordCount": null,
+          "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLHtjziCIhRv5PwpT1cAfKtXq4mo_NNfMegCCb_Qk6y0vVTBsWJ95D6Z8zm1rUhSBgXc1_SXMGyUz_MrJi_lZ-imveOwHrUFysV1iGypleIV_uTpUhPO0L4MQrad1W0de5pRtB9aBqB6gb7fRqJAuUQ5tSivB5r7ABrQXhw2GJGsfK7SA-BJ2raeCItUFk/s1600/xworm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLHtjziCIhRv5PwpT1cAfKtXq4mo_NNfMegCCb_Qk6y0vVTBsWJ95D6Z8zm1rUhSBgXc1_SXMGyUz_MrJi_lZ-imveOwHrUFysV1iGypleIV_uTpUhPO0L4MQrad1W0de5pRtB9aBqB6gb7fRqJAuUQ5tSivB5r7ABrQXhw2GJGsfK7SA-BJ2raeCItUFk/s1600/xworm.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Redis has disclosed details of a maximum-severity security flaw in its in-memory database software that could result in remote code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-49844 (aka RediShell), has been assigned a CVSS score of 10.0.\n\"An authenticated user may use a specially crafted Lua script to manipulate the garbage collector, trigger a use-after-free,",
+          "link": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
+          "publishedOn": "2025-10-07T08:33:00.000Z",
+          "wordCount": null,
+          "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-QtGr5F2Nz_45W-3gFImDExFplzy_SofQQ04Jt6VpQ0AwmHWJL051s7XEDrRyqgKGXwGXswsMV0YLFtlaOpIocgkFYjwK4G-YxTohEfw4VJ-UiEPs2r7CGYYiBtnVOY2X_hfOe4pMhT93BnIy_dINOZurojkpf-AKHDxfVv703OINDm6hqtbnqOQ-Brlr/s1600/redis-flaw.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-QtGr5F2Nz_45W-3gFImDExFplzy_SofQQ04Jt6VpQ0AwmHWJL051s7XEDrRyqgKGXwGXswsMV0YLFtlaOpIocgkFYjwK4G-YxTohEfw4VJ-UiEPs2r7CGYYiBtnVOY2X_hfOe4pMhT93BnIy_dINOZurojkpf-AKHDxfVv703OINDm6hqtbnqOQ-Brlr/s1600/redis-flaw.png"
+        },
+        {
+          "id": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Monday attributed a threat actor it tracks as Storm-1175 to the exploitation of a critical security flaw in Fortra GoAnywhere software to facilitate the deployment of Medusa ransomware.\nThe vulnerability is CVE-2025-10035 (CVSS score: 10.0), a critical deserialization bug that could result in command injection without authentication. It was addressed in version 7.8.4, or the Sustain",
+          "link": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
+          "publishedOn": "2025-10-07T08:15:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONYKldOYGHsSAgX0eRSfnUTAjhjbHlDQ7OYBBCnYsH4jW7f-egFBxRvHiJhmtp5EPVKALsBk700DlaF5HXseSDdu0feEDRDbI1D4aibv7d6kHZuvqrCYaQ0kQNk8N9kCAmlQFCy3qFFf9gJLUgTXg-1r0o1iffqYq9bBPuO85uj-Igf8zrSF-Sq2B29A3/s1600/Medusa-Ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONYKldOYGHsSAgX0eRSfnUTAjhjbHlDQ7OYBBCnYsH4jW7f-egFBxRvHiJhmtp5EPVKALsBk700DlaF5HXseSDdu0feEDRDbI1D4aibv7d6kHZuvqrCYaQ0kQNk8N9kCAmlQFCy3qFFf9gJLUgTXg-1r0o1iffqYq9bBPuO85uj-Igf8zrSF-Sq2B29A3/s1600/Medusa-Ransomware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.\nThe exploitation involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that facilitates",
@@ -20532,6 +20596,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=368742",
+          "author": "Nurul Kamil",
+          "description": "The new CelcomDigi app is set to replace the existing Celcom Life and MyDigi platforms. It promises users the best of both worlds, combining features from both apps while introducing some new functionalities. With this in mind, here’s a brief glimpse of what it has to offer. Starting with the obvious, the CelcomDigi app features […]\nThe post New CelcomDigi App: A Quick Overview appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/368742/celcomdigi-app-hands-on/",
+          "publishedOn": "2025-10-07T10:08:20.000Z",
+          "wordCount": 10717,
+          "title": "New CelcomDigi App: A Quick Overview",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/celcomdigi-app-8.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=368769",
+          "author": "John Law",
+          "description": "Jason Chen, Chairman and CEO of Acer, gave his two cents on the NVIDIA partnership with Intel, after it invested in the stocks of the latter. Chen says that the introduction of a third potential supplier of PC components would likely complicate its procurement and inventory management moving forward. As a quick primer, NVIDIA threw […]\nThe post Acer: NVIDIA Investment Into Intel Could Complicate Future PC Supply Chains appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/368769/acer-nvidia-intel-investment-future/",
+          "publishedOn": "2025-10-07T10:00:50.000Z",
+          "wordCount": 10051,
+          "title": "Acer: NVIDIA Investment Into Intel Could Complicate Future PC Supply Chains",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Acer-IFA2025-Predator-Helios-18P-AI-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=368753",
+          "author": "Keran",
+          "description": "The one thing that has always been lacking in the electric vehicle (EV) segment is the fun, performance, and driver excitement that is still being provided by internal combustion vehicles. That being said, EV automakers are incorporating these elements, and one of them is Leapmotor, which has just unveiled images of the B05 Ultra variant. […]\nThe post Leapmotor Unveils B05 Ultra Variant With Upgraded Sporty Design appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/368753/leapmotor-unveils-b05-ultra-variant-upgraded-sporty-design/",
+          "publishedOn": "2025-10-07T09:57:00.000Z",
+          "wordCount": 10374,
+          "title": "Leapmotor Unveils B05 Ultra Variant With Upgraded Sporty Design",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Leapmotor-B05-Ultra2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=368751",
+          "author": "Ian Chee",
+          "description": "Chinese phone maker vivo started teasing the launch of the upcoming X300 series last month. One of them even includes its launch date in its home market. More recently, the phones have also appeared in the SIRIM database. This just about confirms that they will be launching locally. Both the vivo X300 and X300 Pro […]\nThe post vivo X300 Series Phones Appear In SIRIM Ahead Of China Launch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/368751/vivo-x300-series-phones-appear-in-sirim-ahead-of-china-launch/",
+          "publishedOn": "2025-10-07T09:46:03.000Z",
+          "wordCount": 10062,
+          "title": "vivo X300 Series Phones Appear In SIRIM Ahead Of China Launch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/vivo-X300-Pro-official-KV-.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=368733",
           "author": "John Law",
