@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-10-08T18:26:03.775Z</updated>
+    <updated>2025-10-08T21:15:42.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Hackers Team Up With Scattered Lapsus$ Hunters]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/red-hat-hackers-team-up-scattered-lapsus-hunters</id>
+        <link href="https://www.darkreading.com/threat-intelligence/red-hat-hackers-team-up-scattered-lapsus-hunters"/>
+        <updated>2025-10-08T20:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Crimson Collective, which recently breached the GitLab instance of Red Hat Consulting, has teamed up with the notorious cybercriminal collective.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LockBit, Qilin &amp; DragonForce Join Forces in Ransomware 'Cartel']]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel"/>
+        <updated>2025-10-08T19:56:33.000Z</updated>
+        <summary type="html"><![CDATA[The three extortion gangs also invited other e-crime attackers to join their collaboration to share attack information and resources, in the wake of LockBit 5.0 being released.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Figma MCP Server Opens Orgs to Agentic AI Compromise]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/figma-mcp-server-agentic-ai-compromise</id>
@@ -3602,71 +3622,6 @@ The post Here’s How TNG eWallet Can Be Used For BUDI95 Fuel Subsidy appeared f
 The post GoPro Unveils Max2, Lit Hero Action Cams appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Npm Package Hides Malware in Steganographic QR Codes]]></title>
-        <id>https://www.darkreading.com/application-security/npm-package-malware-stenographic-qr-codes</id>
-        <link href="https://www.darkreading.com/application-security/npm-package-malware-stenographic-qr-codes"/>
-        <updated>2025-09-24T08:55:37.000Z</updated>
-        <summary type="html"><![CDATA[The poisoned package, purporting to be a JavaScript utility, threatens the software supply chain with a highly obsfuscated credential stealer.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR X9d Hands On: Strikingly Sturdy]]></title>
-        <id>https://www.lowyat.net/?p=366661</id>
-        <link href="https://www.lowyat.net/2025/366661/honor-x9d-hands-on-strikingly-sturdy/"/>
-        <updated>2025-09-24T08:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Like the older iterations of the brand’s midrange X series, the HONOR X9d is designed to be extra tough and sturdy. Of course, if you aren’t already familiar with this lineup, it’s not something that’s immediately apparent. This is especially true for this particular model, which bears a passing resemblance to some of the company’s […]
-The post HONOR X9d Hands On: Strikingly Sturdy appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR Becomes First Smartphone Brand To Pre-Install MyDigital ID App]]></title>
-        <id>https://www.lowyat.net/?p=367078</id>
-        <link href="https://www.lowyat.net/2025/367078/honor-becomes-first-smartphone-brand-to-pre-install-mydigital-id-app/"/>
-        <updated>2025-09-24T08:36:33.000Z</updated>
-        <summary type="html"><![CDATA[MyDigital ID has signed a Memorandum of Understanding (MoU) with HONOR Malaysia, making the company the first smartphone manufacturer to support the government’s digital identity adoption drive. Through this partnership, HONOR will pre-install the MyDigital ID application on its new smartphones, allowing users immediate access to digital verification services. The initiative is part of Malaysia’s […]
-The post HONOR Becomes First Smartphone Brand To Pre-Install MyDigital ID App appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR X9d Officially Launched In Malaysia; Priced From RM1,499]]></title>
-        <id>https://www.lowyat.net/?p=367061</id>
-        <link href="https://www.lowyat.net/2025/367061/honor-x9d-officially-launched-in-malaysia-priced-from-rm1499/"/>
-        <updated>2025-09-24T08:28:50.000Z</updated>
-        <summary type="html"><![CDATA[After much teasing, the HONOR X9d has finally made its official debut on our shores. Touted as the brand’s toughest midranger, it comes with a claimed SGS Triple-Resistant Certification for durability. Moreover, it gets some notable upgrades from last year’s model, namely in the battery department. Starting with the basics, the X9d features a 6.79-inch […]
-The post HONOR X9d Officially Launched In Malaysia; Priced From RM1,499 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials]]></title>
-        <id>https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html</id>
-        <link href="https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html"/>
-        <updated>2025-09-24T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud security company Wiz has revealed that it uncovered in-the-wild exploitation of a security flaw in a Linux utility called Pandoc as part of attacks designed to infiltrate Amazon Web Services (AWS) Instance Metadata Service (IMDS).
-The vulnerability in question is CVE-2025-51591 (CVSS score: 6.5), which refers to a case of Server-Side Request Forgery (SSRF) that allows attackers to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xpeng G6 Facelift To Launch In Malaysia This October]]></title>
-        <id>https://www.lowyat.net/?p=367069</id>
-        <link href="https://www.lowyat.net/2025/367069/xpeng-g6-facelift-to-launch-in-malaysia-this-october/"/>
-        <updated>2025-09-24T06:59:50.000Z</updated>
-        <summary type="html"><![CDATA[The Xpeng G6 facelift was recently spotted at Glenmarie, hinting at its debut in the local market. The speculation seems to be true, as Xpeng Malaysia has announced the debut of the facelifted G6, which will be arriving in the local market on 1 October 2025. Furthermore, the mid-size electric crossover SUV is now open […]
-The post Xpeng G6 Facelift To Launch In Malaysia This October appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
         </author>
     </entry>
     <entry>
