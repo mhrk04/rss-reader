@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.\n\"Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, 'serviceaccount,'\" eSentire said in a technical report published",
+          "link": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
+          "publishedOn": "2025-10-13T05:12:00.000Z",
+          "wordCount": null,
+          "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM3iBS_M1DTXWPqBT43YKsEeEvGS5AfTVvw_RHitAi-w0f-zQkDSW2HffEnKE_fLC-Kj6xp9RNcTle8RIZmltoTGaFvoLwpSRBx6sHBpv7xtpM31lvoif9WagX2eVsIMyYejs4J_8_oXf7lUWFsoKbkwEapbSqkM64pfFvHw9HaGKZyfnE5N3MAMm5cM3B/s1600/Discord.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM3iBS_M1DTXWPqBT43YKsEeEvGS5AfTVvw_RHitAi-w0f-zQkDSW2HffEnKE_fLC-Kj6xp9RNcTle8RIZmltoTGaFvoLwpSRBx6sHBpv7xtpM31lvoif9WagX2eVsIMyYejs4J_8_oXf7lUWFsoKbkwEapbSqkM64pfFvHw9HaGKZyfnE5N3MAMm5cM3B/s1600/Discord.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data.\nThe vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14.\n\"Easily exploitable vulnerability allows an unauthenticated attacker with",
@@ -20500,6 +20516,56 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=369351",
+          "author": "John Law",
+          "description": "It’s more or less official at this point: AMD’s upcoming Zen6 architecture will depend on the currently existing AM5 platform. That’s a total of three CPU architectures using a platform that launched back in 2022. For context, AMD has kept mum about the possibility of “recycling” the AM5 socket for use with its next-generation Zen6 […]\nThe post AMD Zen6 Support On AM5 Chipset Confirmed By Multiple Boardmakers appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369351/amd-zen6-am5-motherboards/",
+          "publishedOn": "2025-10-13T06:12:55.000Z",
+          "wordCount": 10158,
+          "title": "AMD Zen6 Support On AM5 Chipset Confirmed By Multiple Boardmakers",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/ASRock-Zen6-Ready-Motherboard-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369359",
+          "author": "Kiran Ganesan",
+          "description": "If you’ve kept up with Samsung’s foldable lineup, you should know that the highly experimental tri-fold smartphone is expected to launch later this month. For a time, many believed that the device would only see a limited release in China and South Korea. However, it has just been confirmed that the tri-fold will be launching […]\nThe post Samsung Tri-Fold Could See A Wider Global Launch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369359/samsung-tri-fold-could-see-a-wider-global-launch/",
+          "publishedOn": "2025-10-13T06:04:20.000Z",
+          "wordCount": 10265,
+          "title": "Samsung Tri-Fold Could See A Wider Global Launch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/03/Samsung-Galaxy-Z-tri-fold-device-smartphone-tablet-rumour-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369354",
+          "author": "Heirul Kamel",
+          "description": "Suunto had announced the latest addition to its adventure-focused smartwatch lineup, the Vertical 2, late last month. It brings several hardware and software upgrades over its predecessor, including a larger display, refined tracking sensors, and expanded safety tools. Now, it appears that the new wearable is slated to arrive in Malaysia in the very near […]\nThe post Newly Announced Suunto Vertical 2 Starts From RM2,999 In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369354/suunto-vertical-2-starts-from-rm2999-in-malaysia/",
+          "publishedOn": "2025-10-13T05:37:30.000Z",
+          "wordCount": 10614,
+          "title": "Newly Announced Suunto Vertical 2 Starts From RM2,999 In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/suunto-vertical-2-malaysia-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369341",
+          "author": "Nurul Kamil",
+          "description": "Last month, Apple unveiled the AirPods Pro 3 as the successor to the AirPods Pro 2 launched back in 2022. While the buds come with some upgrades, they feature the same H2 processor found on the preceding model. Now, it seems that the company is developing a new H3 chip, which it will likely equip […]\nThe post Apple Reportedly Developing H3 Chip For AirPods Pro 3 Successor appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369341/apple-reportedly-developing-h3-chip-for-airpods-pro-3-successor/",
+          "publishedOn": "2025-10-13T04:25:09.000Z",
+          "wordCount": 10055,
+          "title": "Apple Reportedly Developing H3 Chip For AirPods Pro 3 Successor",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/10/Apple-AirPods-4.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369339",
+          "author": "Kiran Ganesan",
+          "description": "When the Galaxy Buds 3 series of earphones were first released, they were closely compared to the Apple AirPods Pro 2, save for their triangular-looking stem. It appears that remarks like that may have irked Samsung somewhat because, based on leaks, the company is currently redesigning its flagship TWS. Earlier in the year, Android Authority […]\nThe post Samsung Galaxy Buds 4 Could Be Getting A Redesign appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369339/samsung-galaxy-buds-4-leak/",
+          "publishedOn": "2025-10-13T04:19:51.000Z",
+          "wordCount": 10087,
+          "title": "Samsung Galaxy Buds 4 Could Be Getting A Redesign",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/09/Samsung-Galaxy-Buds3-Pro-Review-2-scaled.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=369321",
           "author": "Ian Chee",
