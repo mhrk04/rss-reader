@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-10-14T21:14:55.674Z</updated>
+    <updated>2025-10-15T01:19:10.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Drops Terrifyingly Large October Patch Update]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/microsoft-october-patch-update</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/microsoft-october-patch-update"/>
+        <updated>2025-10-14T21:53:11.000Z</updated>
+        <summary type="html"><![CDATA[October 2025's enormous Patch Tuesday offers plenty of nightmares for admins, including actively exploited zero-days and insidious high-severity privilege-escalation bugs — and it spells curtains for Windows 10 updates.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's Flax Typhoon Turns Geo-Mapping Server into a Backdoor]]></title>
+        <id>https://www.darkreading.com/application-security/chinas-flax-typhoon-geo-mapping-server-backdoor</id>
+        <link href="https://www.darkreading.com/application-security/chinas-flax-typhoon-geo-mapping-server-backdoor"/>
+        <updated>2025-10-14T21:12:14.000Z</updated>
+        <summary type="html"><![CDATA[Chinese APT threat actors compromised an organization's ArcGIS server, modifying the widely used geospatial mapping software for stealth access.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pixnapping Attack Lets Attackers Steal 2FA on Android]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/pixnapping-attack-attackers-2fa-android</id>
@@ -3483,97 +3503,6 @@ The post Google Pixel 10 Pro Review: Treading Familiar Ground appeared first on 
         <summary type="html"><![CDATA[Agentic AI has introduced abundant shadow artificial intelligence (AI) risks. Cybersecurity startup Entro Security extends its platform to help enterprises combat the growing issue.]]></summary>
         <author>
             <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits]]></title>
-        <id>https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html</id>
-        <link href="https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html"/>
-        <updated>2025-09-30T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed three now-patched security vulnerabilities impacting Google's Gemini artificial intelligence (AI) assistant that, if successfully exploited, could have exposed users to major privacy risks and data theft.
-"They made Gemini vulnerable to search-injection attacks on its Search Personalization Model; log-to-prompt injection attacks against Gemini Cloud]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake]]></title>
-        <id>https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html</id>
-        <link href="https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html"/>
-        <updated>2025-09-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Tuesday unveiled the expansion of its Sentinel Security Incidents and Event Management solution (SIEM) as a unified agentic platform with the general availability of the Sentinel data lake.
-In addition, the tech giant said it's also releasing a public preview of Sentinel Graph and Sentinel Model Context Protocol (MCP) server.
-"With graph-based context, semantic access, and agentic]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Alert Chaos: Context Is the Key to Effective Incident Response]]></title>
-        <id>https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html</id>
-        <link href="https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html"/>
-        <updated>2025-09-30T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Problem: Legacy SOCs and Endless Alert Noise
-Every SOC leader knows the feeling: hundreds of alerts pouring in, dashboards lighting up like a slot machine, analysts scrambling to keep pace. The harder they try to scale people or buy new tools, the faster the chaos multiplies. The problem is not just volume; it is the model itself. Traditional SOCs start with rules, wait for alerts to fire,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Actress Trying To Make It Into Hollywood]]></title>
-        <id>https://www.lowyat.net/?p=368027</id>
-        <link href="https://www.lowyat.net/2025/368027/ai-actress-hollywood/"/>
-        <updated>2025-09-30T11:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Ever since AI emerged on the scene, there has been a persistent fear that people will lose their jobs and be replaced by robots in the workforce. Now, with the debut of a recently generated actress, it seems that AI might make its way in and may replace Hollywood actors with one (or more) Tilly […]
-The post AI Actress Trying To Make It Into Hollywood appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urgent: China-Linked Hackers Exploit New VMware Zero-Day Since October 2024]]></title>
-        <id>https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html</id>
-        <link href="https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html"/>
-        <updated>2025-09-30T10:57:00.000Z</updated>
-        <summary type="html"><![CDATA[A newly patched security flaw impacting Broadcom VMware Tools and VMware Aria Operations has been exploited in the wild as a zero-day since mid-October 2024 by a threat actor called UNC5174, according to NVISO Labs.
-The vulnerability in question is CVE-2025-41244 (CVSS score: 7.8), a local privilege escalation bug affecting the following versions -
-
-VMware Cloud Foundation 4.x and 5.x
-VMware]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Trifecta' of Google Gemini Flaws Turn AI Into Attack Vehicle]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/trifecta-google-gemini-flaws-ai-attack-vehicle</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/trifecta-google-gemini-flaws-ai-attack-vehicle"/>
-        <updated>2025-09-30T10:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Flaws in individual models of Google's AI suite created significant security and privacy risks for users, demonstrating the need for heightened defenses.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyson Launches V16 Piston Animal, PencilVac Vacuum Cleaners In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=367979</id>
-        <link href="https://www.lowyat.net/2025/367979/dyson-v16-piston-animal-pencilvac-launch-msia/"/>
-        <updated>2025-09-30T09:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Dyson has recently introduced two new vacuum cleaners for the Malaysian market. These comprise the V16 Piston Animal and the PencilVac, with the latter claimed to be the slimmest currently available to consumers. The Dyson V16 Piston Animal is powered by a Hyperdymium 900W motor that delivers up to 315 AW of suction. It features […]
-The post Dyson Launches V16 Piston Animal, PencilVac Vacuum Cleaners In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Android Trojan “Datzbro” Tricking Elderly with AI-Generated Facebook Travel Events]]></title>
-        <id>https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html</id>
-        <link href="https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html"/>
-        <updated>2025-09-30T09:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have flagged a previously undocumented Android banking trojan called Datzbro that can conduct device takeover (DTO) attacks and perform fraudulent transactions by preying on the elderly.
-Dutch mobile security company ThreatFabric said it discovered the campaign in August 2025 after users in Australia reported scammers managing Facebook groups promoting "active senior]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
