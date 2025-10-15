@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-10-15T09:19:05.502Z</updated>
+    <updated>2025-10-15T12:38:03.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Attackers Bypass Synced Passkeys]]></title>
+        <id>https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</id>
+        <link href="https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html"/>
+        <updated>2025-10-15T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR
+Even if you take nothing else away from this piece, if your organization is evaluating passkey deployments, it is insecure to deploy synced passkeys.
+
+Synced passkeys inherit the risk of the cloud accounts and recovery processes that protect them, which creates material enterprise exposure.
+Adversary-in-the-middle (AiTM) kits can force authentication fallbacks that circumvent strong]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Casio Unveils Back To The Future 40th Anniversary Limited Edition Calculator Watch]]></title>
+        <id>https://www.lowyat.net/?p=369830</id>
+        <link href="https://www.lowyat.net/2025/369830/casio-back-to-the-future-calculator-watch/"/>
+        <updated>2025-10-15T11:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Casio is celebrating the 40th anniversary of Back to the Future with a special edition of its popular calculator watch. Known as the CA-500WEBF, this limited release was created in collaboration with Universal Products & Experiences (UP&E). It pays tribute to both the 1985 film and Casio’s iconic timepiece, which was also worn by Marty […]
+The post Casio Unveils Back To The Future 40th Anniversary Limited Edition Calculator Watch appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Officially Adds Perplexity AI To Search Engine]]></title>
+        <id>https://www.lowyat.net/?p=369788</id>
+        <link href="https://www.lowyat.net/2025/369788/firefox-perplexity-ai-search-engine/"/>
+        <updated>2025-10-15T09:48:11.000Z</updated>
+        <summary type="html"><![CDATA[From Comet to OpenAI’s undisclosed project, many major AI companies are hard at work developing their own in-house AI browser. However, if you’re keen on using AI as your default way of searching but not interested in downloading any of them, then Mozilla has you covered. Starting today, you can now use Perplexity AI as […]
+The post Firefox Officially Adds Perplexity AI To Search Engine appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped]]></title>
+        <id>https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</id>
+        <link href="https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html"/>
+        <updated>2025-10-15T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.
+Of the 183 vulnerabilities, eight of them are non-Microsoft]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Widespread Power Outages Reported In Several Areas Across West Malaysia]]></title>
         <id>https://www.lowyat.net/?p=369814</id>
