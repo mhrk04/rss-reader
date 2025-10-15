@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges.\nThe shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system.\n\"The vulnerabilities affect Red Lion SixTRAK and VersaTRAK",
+          "link": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
+          "publishedOn": "2025-10-15T06:50:00.000Z",
+          "wordCount": null,
+          "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbStyTHoDcDIi2hOYUUE0gL0ICoN_VfOwuMpKAjzXx2aYFQsNUm4sdBWjCezEi3M33IAhZ_t70GwUVVBcVy5tdU5Qnxcn-OAoOONXq_W-QPvJwR6aOmEBRvpuV-ZHH1a9LXqLbNcTqOpUZ5Bc-FA5uGhVxGq07e71OF7_0ducIZLm8_ScQ4XSE-95Syw0O/s1600/ics-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbStyTHoDcDIi2hOYUUE0gL0ICoN_VfOwuMpKAjzXx2aYFQsNUm4sdBWjCezEi3M33IAhZ_t70GwUVVBcVy5tdU5Qnxcn-OAoOONXq_W-QPvJwR6aOmEBRvpuV-ZHH1a9LXqLbNcTqOpUZ5Bc-FA5uGhVxGq07e71OF7_0ducIZLm8_ScQ4XSE-95Syw0O/s1600/ics-hacking.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center",
+          "link": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
+          "publishedOn": "2025-10-15T06:16:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht-AlrRupsMmlNlQlln5yqtv-DvYv2IfyBuNhgh4zrPXpmewDg_wxCOOk1J9EDKzx4CJCp9gcPGr-d2yXiDE9gAX8BRTdPbrerxnMNA3bXL08JBlDQq_yaEjM6euVOazBKAU3IM-54TtpKaEpp-Qtk-fSsd9B_vfjBv47M7eoe3qQQMCAqtFwXyPrUPO4S/s1600/cookie-shell.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht-AlrRupsMmlNlQlln5yqtv-DvYv2IfyBuNhgh4zrPXpmewDg_wxCOOk1J9EDKzx4CJCp9gcPGr-d2yXiDE9gAX8BRTdPbrerxnMNA3bXL08JBlDQq_yaEjM6euVOazBKAU3IM-54TtpKaEpp-Qtk-fSsd9B_vfjBv47M7eoe3qQQMCAqtFwXyPrUPO4S/s1600/cookie-shell.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution.\nThe vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization.\n\"Due to a deserialization vulnerability in SAP NetWeaver, an",
@@ -20476,22 +20508,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMmH_cOyc0rOttrXQGjDnZQanqTCaoiwy5B2Ttpzv14JY4QycZDqZaLuKvySAXWuneQMx4mMbTB7Ff43Metq3TjVJfhQtuEg-SYn2p-49_R635Px_spCm1LcXYG5W2PAGlQvkq5yE-1lneYqbeFCRn9fJ7xhKTtTVGtbND6iz0yZ6RYX0buedQ595V27Z9/s1600/office.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMmH_cOyc0rOttrXQGjDnZQanqTCaoiwy5B2Ttpzv14JY4QycZDqZaLuKvySAXWuneQMx4mMbTB7Ff43Metq3TjVJfhQtuEg-SYn2p-49_R635Px_spCm1LcXYG5W2PAGlQvkq5yE-1lneYqbeFCRn9fJ7xhKTtTVGtbND6iz0yZ6RYX0buedQ595V27Z9/s1600/office.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A group of academics from KU Leuven and the University of Birmingham has demonstrated a new vulnerability called Battering RAM to bypass the latest defenses on Intel and AMD cloud processors.\n\"We built a simple, $50 interposer that sits quietly in the memory path, behaving transparently during startup and passing all trust checks,\" researchers Jesse De Meulemeester, David Oswald, Ingrid",
-          "link": "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html",
-          "publishedOn": "2025-09-30T18:42:00.000Z",
-          "wordCount": null,
-          "title": "$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdi-H6S_F-9-Ll9cV-FWKNBndi_aszei1aE8X-ejsO-Ku9vPb5f0hJkjHh21t_FM6BZrRHYUfQDytfjW1rrWr7NBAMHoS-MP19VNapiCjiSiBzITQVo-O9LUJrYiVaf48dQzgj6VN0ZyAyRWsb3aHxcSMdq06Qb6mccQ0yo3pTfEZvOd52WxaKN4V-z9qV/s1600/ram.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdi-H6S_F-9-Ll9cV-FWKNBndi_aszei1aE8X-ejsO-Ku9vPb5f0hJkjHh21t_FM6BZrRHYUfQDytfjW1rrWr7NBAMHoS-MP19VNapiCjiSiBzITQVo-O9LUJrYiVaf48dQzgj6VN0ZyAyRWsb3aHxcSMdq06Qb6mccQ0yo3pTfEZvOd52WxaKN4V-z9qV/s1600/ram.jpg"
         }
       ]
     },
@@ -20500,6 +20516,66 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=369814",
+          "author": "Heirul Kamel",
+          "description": "Users have taken to social media to report power outages affecting various locations across West Malaysia. Many of these complaints — posted separately on different platforms (including our own forum) — appeared around the same time, suggesting that the incident may have stemmed from a common cause. Reports on the matter began surfacing around 4 […]\nThe post Widespread Power Outages Reported In Several Areas Across West Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369814/widespread-power-outages-reported-in-several-areas-across-west-malaysia/",
+          "publishedOn": "2025-10-15T09:14:51.000Z",
+          "wordCount": 9771,
+          "title": "Widespread Power Outages Reported In Several Areas Across West Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/petra-green-electricity-tariff-get-tnb-tower-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369783",
+          "author": "Nurul Kamil",
+          "description": "Malaysia will soon make electronic Know Your Customer (eKYC) identity verification compulsory for social media platforms. This is to prevent children aged below 13 from making accounts on these websites and apps. According to Communications Minister Datuk Fahmi Fadzil, this requirement serves to protect children online. Additionally, it is meant to ensure these social media […]\nThe post Fahmi: Malaysia To Enforce eKYC Verification For Social Media Platforms appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369783/malaysia-ekyc-verification-social-media/",
+          "publishedOn": "2025-10-15T07:58:49.000Z",
+          "wordCount": 10029,
+          "title": "Fahmi: Malaysia To Enforce eKYC Verification For Social Media Platforms",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/fahmi-ron95-subsidy-delayed_01.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369786",
+          "author": "Heirul Kamel",
+          "description": "The Malaysian Communications and Multimedia Commission (MCMC) has begun a Public Inquiry on its proposed Mandatory Standards for Prepaid Public Cellular Service User Registration. The inquiry, held in accordance with Sections 55 and 61 of the Communications and Multimedia Act 1998, seeks to promote transparency and public participation in shaping the new regulatory framework. The […]\nThe post MCMC Opens Public Inquiry On New Mandatory Standards For Prepaid SIM Registration appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369786/mcmc-public-inquiry-new-mandatory-standards-prepaid-sim/",
+          "publishedOn": "2025-10-15T07:48:28.000Z",
+          "wordCount": 10385,
+          "title": "MCMC Opens Public Inquiry On New Mandatory Standards For Prepaid SIM Registration",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2020/07/MCMC-compound-telcos-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369776",
+          "author": "Keran",
+          "description": "MG Motors, together with SAIC Motor Malaysia (SMM), has announced the local assembly (CKD) of MG vehicles in Malaysia. This CKD operation will take place at a facility in Melaka through the automaker’s collaboration with EP Manufacturing Berhad (EPMB). The CKD operation is set to begin in the first half of 2026, and the MGS5 […]\nThe post MG Motors To Begin CKD Operations In Malaysia By First-Half Of 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369776/mg-motors-to-begin-ckd-operations-in-malaysia-by-first-half-of-2026/",
+          "publishedOn": "2025-10-15T07:24:55.000Z",
+          "wordCount": 5178,
+          "title": "MG Motors To Begin CKD Operations In Malaysia By First-Half Of 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/12/mg-cyberster-launch-msia_02.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369741",
+          "author": "Kiran Ganesan",
+          "description": "The Selangor government has just released its own all-in-one app called Nine. This comprehensive “super app” is said to combine various essential services and smart features that Selangor residents need for a more “efficient lifestyle”. With the app, users can pay for parking, access municipal and local government services, and use it as their main […]\nThe post Selangor Government Launches “Nine”, Its All-In-One App appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369741/selangor-government-nine-all-in-one-app/",
+          "publishedOn": "2025-10-15T06:52:03.000Z",
+          "wordCount": 10263,
+          "title": "Selangor Government Launches “Nine”, Its All-In-One App",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Selangor-NINE-App-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369728",
+          "author": "Keran",
+          "description": "Mercedes-Benz has unveiled a concept car known as the Vision Iconic. The vehicle was revealed at the marque’s design house in Shanghai, China. As per the official fluff, the concept represents the bridge between the future of the company’s EV cars and the rich heritage of the automaker, by combining classic design elements with new […]\nThe post Mercedes-Benz Unveils Vision Iconic Concept Car appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369728/mercedes-benz-vision-iconic-concept/",
+          "publishedOn": "2025-10-15T06:43:41.000Z",
+          "wordCount": 10600,
+          "title": "Mercedes-Benz Unveils Vision Iconic Concept Car",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Mercedes-Benz-Vision-Iconic-06.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=369738",
           "author": "John Law",
@@ -22488,6 +22564,16 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "Organizations across the continent saw 10% fewer attacks in September, but Africa remains the most attacked region in the world, leading the Global South.",
+          "link": "https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline",
+          "publishedOn": "2025-10-15T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Africa Remains Top Global Target, Even as Attacks Decline",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-october-patch-update",
           "author": "Jai Vijayan, Contributing Writer",
           "description": "October 2025's enormous Patch Tuesday offers plenty of nightmares for admins, including actively exploited zero-days and insidious high-severity privilege-escalation bugs — and it spells curtains for Windows 10 updates.",
@@ -22995,36 +23081,6 @@
           "publishedOn": "2025-10-01T01:00:00.000Z",
           "wordCount": null,
           "title": "China Imposes One-Hour Reporting Rule for Major Cyber Incidents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/new-china-apt-strikes-precision-persistence",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "Phantom Taurus demonstrates a deep understanding of Windows environments, including advanced components like IIServerCore, a fileless backdoor that executes in memory to evade detection.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/new-china-apt-strikes-precision-persistence",
-          "publishedOn": "2025-09-30T21:09:37.000Z",
-          "wordCount": null,
-          "title": "New China APT Strikes With Precision and Persistence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/klopatra-trojan-bank-transfers-sleep",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "A sophisticated new banking malware is hard to detect, capable of stealing lots of money, and infecting thousands of people in Italy and Spain.",
-          "link": "https://www.darkreading.com/threat-intelligence/klopatra-trojan-bank-transfers-sleep",
-          "publishedOn": "2025-09-30T20:28:44.000Z",
-          "wordCount": null,
-          "title": "'Klopatra' Trojan Makes Bank Transfers While You Sleep",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly",
-          "author": "Alexander Culafi",
-          "description": "A seemingly benign privilege-escalation process in VMware and other software has likely benefited attackers and other malware strains for years, researchers noted.",
-          "link": "https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly",
-          "publishedOn": "2025-09-30T19:41:14.000Z",
-          "wordCount": null,
-          "title": "China Exploited New VMware Bug for Nearly a Year",
           "imageUrl": null
         }
       ]
