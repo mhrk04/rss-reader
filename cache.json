@@ -19294,6 +19294,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A threat actor with ties to the Democratic People's Republic of Korea (aka North Korea) has been observed leveraging the EtherHiding technique to distribute malware and enable cryptocurrency theft, marking the first time a state-sponsored hacking group has embraced the method.\nThe activity has been attributed by Google Threat Intelligence Group (GTIG) to a threat cluster it tracks as UNC5342,",
+          "link": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
+          "publishedOn": "2025-10-16T14:56:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlAkWqyP-kjx3tsDRbhwCbgbYrCfv0bhsscLPeraWfsWXD0mN158-j8SWyraPNsbVa9_Iv_lMsOFckxYCbc6jtrVSE2qvKzDpErsFoHG-kp5NiCwBuPi72zjnxP1WUqdLiGnBfw4JaDD2QKdPy0PAG4YIhFZxuS6IlbfEjpvgtKVlqaKMz2aSSl_gFfOia/s1600/hacker-blockchain.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlAkWqyP-kjx3tsDRbhwCbgbYrCfv0bhsscLPeraWfsWXD0mN158-j8SWyraPNsbVa9_Iv_lMsOFckxYCbc6jtrVSE2qvKzDpErsFoHG-kp5NiCwBuPi72zjnxP1WUqdLiGnBfw4JaDD2QKdPy0PAG4YIhFZxuS6IlbfEjpvgtKVlqaKMz2aSSl_gFfOia/s1600/hacker-blockchain.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A financially motivated threat actor codenamed UNC5142 has been observed abusing blockchain smart contracts as a way to facilitate the distribution of information stealers such as Atomic (AMOS), Lumma, Rhadamanthys (aka RADTHIEF), and Vidar, targeting both Windows and Apple macOS systems.\n\"UNC5142 is characterized by its use of compromised WordPress websites and 'EtherHiding,' a technique used",
+          "link": "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html",
+          "publishedOn": "2025-10-16T14:52:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Cqqc3mBcDOatMdIAwK7axB-G3tdExlMXQISJXk_UOZIaHOI8KYKQLB4Z_HoriweeSJIEQrRFRzxMoiM5otP53eXbIbyplVZ2Ozcuw-1Do3iybM2o-Gtm-EM45k6t_vMlMbiCXumAZtQLm56SpTlqsfkkwNCB96RyMyUp8eCHnEInlvKwsyq9FY7tquu1/s1600/blockchain-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Cqqc3mBcDOatMdIAwK7axB-G3tdExlMXQISJXk_UOZIaHOI8KYKQLB4Z_HoriweeSJIEQrRFRzxMoiM5otP53eXbIbyplVZ2Ozcuw-1Do3iybM2o-Gtm-EM45k6t_vMlMbiCXumAZtQLm56SpTlqsfkkwNCB96RyMyUp8eCHnEInlvKwsyq9FY7tquu1/s1600/blockchain-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An investigation into the compromise of an Amazon Web Services (AWS)-hosted infrastructure has led to the discovery of a new GNU/Linux rootkit dubbed LinkPro, according to findings from Synacktiv.\n\"This backdoor features functionalities relying on the installation of two eBPF [extended Berkeley Packet Filter] modules, on the one hand to conceal itself, and on the other hand to be remotely",
+          "link": "https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html",
+          "publishedOn": "2025-10-16T14:28:00.000Z",
+          "wordCount": null,
+          "title": "LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-cDOtGBRZfQEbBlDLNhFzLj2mAPT6gHnq3bEnJD-FcJ0ci_C9GdgiHyOIg9S0XYwu6aOX-JPwAtjK953a7yjE-RYyTGziZLHi0nzZJlWsBakdMcDYuI4EVNkx0Xv67lsGmB7S-nJbNn1kcb6PK54WxA5us3KsZrVIyfk579v9SkQpNo_iNadEM_FN09I/s1600/linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-cDOtGBRZfQEbBlDLNhFzLj2mAPT6gHnq3bEnJD-FcJ0ci_C9GdgiHyOIg9S0XYwu6aOX-JPwAtjK953a7yjE-RYyTGziZLHi0nzZJlWsBakdMcDYuI4EVNkx0Xv67lsGmB7S-nJbNn1kcb6PK54WxA5us3KsZrVIyfk579v9SkQpNo_iNadEM_FN09I/s1600/linux.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Scaling the SOC with AI - Why now? \nSecurity Operations Centers (SOCs) are under unprecedented pressure. According to SACR’s AI-SOC Market Landscape 2025, the average organization now faces around 960 alerts per day, while large enterprises manage more than 3,000 alerts daily from an average of 28 different tools. Nearly 40% of those alerts go uninvestigated, and 61% of security teams admit",
@@ -22547,56 +22595,6 @@
           "wordCount": 10548,
           "title": "MG Motor Malaysia Drops MG4 Pricing; Updates Available Lineup",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/MG41.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=368263",
-          "author": "Ian Chee",
-          "description": "With the release of the iPhone 17 series – and Air – so is iOS 26 available to those who bought the new phones. And with it comes new features to Apple Music. To be fair, the fruit company revealed some of these awhile back. But now that they are actually available, it’s probably worth […]\nThe post Apple Music In iOS 26 Brings Lyrics Pronunciation And Translation, AutoMix, And More appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/368263/apple-music-ios-26-lyrics-translation-pronunciation-automix-more/",
-          "publishedOn": "2025-10-02T05:39:16.000Z",
-          "wordCount": 10447,
-          "title": "Apple Music In iOS 26 Brings Lyrics Pronunciation And Translation, AutoMix, And More",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Apple-Music-iOS-26-Lyrics-Translation-and-Pronunciation.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=368241",
-          "author": "Kiran Ganesan",
-          "description": "Ubisoft has officially launched its new subsidiary company called Vantage Studios. The Tencent-backed “creative house” will now be overseeing its parent company’s largest franchises, such as Assassin’s Creed, Far Cry, and Rainbow Six, moving forward. The new subsidiary is the result of a €1.16 billion (~RM5.73 billion) investment from Tencent, which was announced earlier in […]\nThe post Ubisoft Launches New Tencent-Backed Subsidiary Vantage Studios appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/368241/ubisoft-tencent-subsidiary-vantage-studios/",
-          "publishedOn": "2025-10-02T04:16:00.000Z",
-          "wordCount": 10242,
-          "title": "Ubisoft Launches New Tencent-Backed Subsidiary Vantage Studios",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Ubisoft-Assassins-Creed-Farcry-Rainbow-6.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=368246",
-          "author": "Ian Chee",
-          "description": "Avenir Telecom had gotten the rights to make non-battery products bearing the name of battery brand Energizer for awhile now. Considering the name, these have involved phones with massive batteries, though these are also usually their only unique characteristic. The trend looks to be continuing with the Energizer EnergyBook Pro Ultra, with a battery that’s […]\nThe post There’s An Energizer Laptop With A 192 Wh Battery appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/368246/energizer-laptop-192-wh-battery/",
-          "publishedOn": "2025-10-02T04:05:36.000Z",
-          "wordCount": 10110,
-          "title": "There’s An Energizer Laptop With A 192 Wh Battery",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Energizer-EnergyBook-Pro-Ultra-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=368249",
-          "author": "Nurul Kamil",
-          "description": "The Galaxy S25 series launched with an ultra-thin Edge variant, which is only available in some regions. Following the reveal of this new model, rumours suggested that Samsung will be making some changes to its flagship lineup. More specifically, the Edge was said to be replacing the Plus version in the upcoming Galaxy S26 series. […]\nThe post Samsung Galaxy S26 Lineup May Include Plus Model After All appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/368249/samsung-galaxy-s26-plus/",
-          "publishedOn": "2025-10-02T04:02:32.000Z",
-          "wordCount": 10134,
-          "title": "Samsung Galaxy S26 Lineup May Include Plus Model After All",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/02/samsung-galaxy-s25-new-year-new-features_02.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=368238",
-          "author": "Keran",
-          "description": "The Ministry of Finance (MOF) has announced that full-time e-hailing drivers will be eligible to receive more than 300 litres of fuel quota under the BUDI95 initiative, starting 15 October. MOF added that applications for the additional quota will be managed by the government in coordination with e-hailing operators (EHOs), to process the submissions in […]\nThe post BUDI95 Quota Expanded For E-Hailing Drivers appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/368238/budi95-quota-expanded-for-e-hailing-drivers/",
-          "publishedOn": "2025-10-02T03:47:06.000Z",
-          "wordCount": 9900,
-          "title": "BUDI95 Quota Expanded For E-Hailing Drivers",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/12/petronas-petrol-station.jpg"
         }
       ]
     },
@@ -22605,6 +22603,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "AI might help some threat actors in certain respects, but one group is proving that its use for cyberattacks has its limits.",
+          "link": "https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan",
+          "publishedOn": "2025-10-16T17:02:24.000Z",
+          "wordCount": null,
+          "title": "China Hackers Test AI-Optimized Attack Chains in Taiwan",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason",
           "author": "Jeffrey Schwartz",
