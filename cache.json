@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.",
+          "link": "https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html",
+          "publishedOn": "2025-10-16T04:26:00.000Z",
+          "wordCount": null,
+          "title": "CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwhhzaQiS3EeVns9gTPySL4gUmobN634H-744SFUn9qJ1LvjQmj0IB9yPqF8e0Xz7j-Zqi3XxRdgMXDmH3Ee8jDUqfpyT2JnJ7e5Hv0lsEZodSYWFBoZD_uvMRyYclLavLHMpEsXb_a_e8T1CAMBHbAEKgPEoNXfe5nVeUUgljwiLv161hnUIaA5WrtJcQ/s1600/adobe.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwhhzaQiS3EeVns9gTPySL4gUmobN634H-744SFUn9qJ1LvjQmj0IB9yPqF8e0Xz7j-Zqi3XxRdgMXDmH3Ee8jDUqfpyT2JnJ7e5Hv0lsEZodSYWFBoZD_uvMRyYclLavLHMpEsXb_a_e8T1CAMBHbAEKgPEoNXfe5nVeUUgljwiLv161hnUIaA5WrtJcQ/s1600/adobe.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.\nThe activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with",
@@ -20460,22 +20476,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSIJm0MtG7loTFHT8addH5oey8TK3AA9yYEaGP3k2K9FWeUc-BA7RsZ4kJG543bNHBMcIcN7btB0ryzmAVoJSC0nqP2w5nn5HGheq9rTO_dlMgBo8cv0xQWf7k0NLnG75bJuWrsjhh68Pjso4pMPY06nNSIJBwjJkwDAhzBxbiihg6Obb9_yjhy47UNnyb/s1600/signal-spyware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSIJm0MtG7loTFHT8addH5oey8TK3AA9yYEaGP3k2K9FWeUc-BA7RsZ4kJG543bNHBMcIcN7btB0ryzmAVoJSC0nqP2w5nn5HGheq9rTO_dlMgBo8cv0xQWf7k0NLnG75bJuWrsjhh68Pjso4pMPY06nNSIJBwjJkwDAhzBxbiihg6Obb9_yjhy47UNnyb/s1600/signal-spyware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In yet another piece of research, academics from Georgia Institute of Technology and Purdue University have demonstrated that the security guarantees offered by Intel's Software Guard eXtensions (SGX) can be bypassed on DDR4 systems to passively decrypt sensitive data.\nSGX is designed as a hardware feature in Intel server processors that allows applications to be run in a Trusted Execution",
-          "link": "https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html",
-          "publishedOn": "2025-10-01T17:20:00.000Z",
-          "wordCount": null,
-          "title": "New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYOQta_yh5wJCkXtBTERyRojdN7qcYaN2utDcbn1PZz0eiZrhJ4OUZWctjBmrtw6DimCvf4bBBj9HOVc8fhmGfqVlorcbAaazAN4DMCs8jDs3DAW60GRos6wkpDxYLNyLNaEVlWYgMd19kibOzeKswSI5jmzAllx2xBMs49uHLYTsrKgtTrv_l6BPwYOBU/s1600/wiretap.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYOQta_yh5wJCkXtBTERyRojdN7qcYaN2utDcbn1PZz0eiZrhJ4OUZWctjBmrtw6DimCvf4bBBj9HOVc8fhmGfqVlorcbAaazAN4DMCs8jDs3DAW60GRos6wkpDxYLNyLNaEVlWYgMd19kibOzeKswSI5jmzAllx2xBMs49uHLYTsrKgtTrv_l6BPwYOBU/s1600/wiretap.jpg"
         }
       ]
     },
@@ -20484,6 +20484,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=369372",
+          "author": "Nurul Kamil",
+          "description": "Apple has shaken things up a bit with this year’s batch of smartphones, with the introduction of a brand new model. I’m, of course, referring to the iPhone Air. This super slim addition to the tech giant’s iPhone lineup was the subject of plenty of rumours ahead of its release. And now that it’s finally […]\nThe post iPhone Air Review: Strangely Mundane appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369372/iphone-air-review-strangely-mundane/",
+          "publishedOn": "2025-10-16T05:33:42.000Z",
+          "wordCount": 14021,
+          "title": "iPhone Air Review: Strangely Mundane",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/iphone-air-review-3.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369911",
+          "author": "Ian Chee",
+          "description": "Following the vivo X300 series launch event, we were loaned a unit of the Pro variant for a day. The whole of said day also involves going around Shanghai and taking in the sights of the city. Which means that this hands on will be a bit more camera-orientated than the usual. That being said, […]\nThe post vivo X300 Pro Hands On: Two Frontiers, One Phone appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369911/vivo-x300-pro-hands-on/",
+          "publishedOn": "2025-10-16T05:26:55.000Z",
+          "wordCount": 11480,
+          "title": "vivo X300 Pro Hands On: Two Frontiers, One Phone",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/vivo-X300-Pro-hands-on-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369978",
+          "author": "Keran",
+          "description": "Spy images of the facelifted 2026 Zeekr 7X have surfaced on Weibo. The images reveal several exterior updates while maintaining the car’s signature futuristic styling. The updates start at the front, where a reshaped lower bumper sports a more dynamic and aggressive appearance. At the rear, the licence plate section has been repositioned higher, while […]\nThe post 2026 Zeekr 7X Spotted In China; Facelifted Model Reveals Design Tweaks appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369978/2026-zeekr-7x-spotted-china/",
+          "publishedOn": "2025-10-16T05:08:03.000Z",
+          "wordCount": 10516,
+          "title": "2026 Zeekr 7X Spotted In China; Facelifted Model Reveals Design Tweaks",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Facelifted-Zeekr-7X.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=369968",
+          "author": "Kiran Ganesan",
+          "description": "In conjunction with the official Chinese launch of the Magic8 and Magic8 Pro smartphones, HONOR teased an upcoming device called the Robot Phone. Though the concept device is still a long way away from being fully unveiled next year, the consumer tech company has provided a teaser video of what to expect. Immediately stating the […]\nThe post HONOR Teases “Robot Phone” With AI Gimbal Camera appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/369968/honor-robot-phone-ai-gimbal-camera/",
+          "publishedOn": "2025-10-16T04:44:04.000Z",
+          "wordCount": 5230,
+          "title": "HONOR Teases “Robot Phone” With AI Gimbal Camera",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Honor-Robot-Phone-Concept-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=369937",
           "author": "Nurul Kamil",
@@ -22451,6 +22491,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason",
+          "author": "Jeffrey Schwartz",
+          "description": "The deal, which builds on LevelBlue’s recent acquisition of Trustwave and Aon, aims to provide customers with a broad portfolio of extended detection and response (XDR), managed detection and response (MDR), and forensic services.",
+          "link": "https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason",
+          "publishedOn": "2025-10-15T23:45:36.000Z",
+          "wordCount": null,
+          "title": "LevelBlue Announces Plans to Acquire XDR Provider Cybereason",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/mysterious-elephant-recycled-malware",
           "author": "Jai Vijayan, Contributing Writer",
