@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-10-22T06:27:37.580Z</updated>
+    <updated>2025-10-22T09:20:17.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware]]></title>
+        <id>https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html</id>
+        <link href="https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html"/>
+        <updated>2025-10-22T08:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Government, financial, and industrial organizations located in Asia, Africa, and Latin America are the target of a new campaign dubbed PassiveNeuron, according to findings from Kaspersky.
+The cyber espionage activity was first flagged by the Russian cybersecurity vendor in November 2024, when it disclosed a set of attacks aimed at government entities in Latin America and East Asia in June, using]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOE To Allocate Additional RM5 Million For CCTV Cameras At Select Schools]]></title>
+        <id>https://www.lowyat.net/?p=370602</id>
+        <link href="https://www.lowyat.net/2025/370602/moe-rm5-million-cctv-cameras/"/>
+        <updated>2025-10-22T07:52:11.000Z</updated>
+        <summary type="html"><![CDATA[The Ministry of Education (MOE) is allocating an additional RM5 million for the installation of CCTV cameras in select schools nationwide, as an immediate part measure to enhance the safety of educational premises. While not mentioned explicitly, the move is likely a response to the school stabbing incident that took place on 14 October. The […]
+The post MOE To Allocate Additional RM5 Million For CCTV Cameras At Select Schools appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reebok Launches Its Own Smart Ring; Retails For US$249]]></title>
+        <id>https://www.lowyat.net/?p=370577</id>
+        <link href="https://www.lowyat.net/2025/370577/reebok-launches-smart-ring-us249/"/>
+        <updated>2025-10-22T07:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Reebok has launched its first fitness-focused wearable, the Reebok Smart Ring. Made in collaboration with F45 Training, the device is made from titanium and is equipped with various sensors to help keep track of all of the user’s metrics. What makes this wearable unique, though, is that it combines all of these different metrics into […]
+The post Reebok Launches Its Own Smart Ring; Retails For US$249 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html</id>
+        <link href="https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html"/>
+        <updated>2025-10-22T07:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a high-severity flaw impacting the popular async-tar Rust library and its forks, including tokio-tar, that could result in remote code execution under certain conditions.
+The vulnerability, tracked as CVE-2025-62518 (CVSS score: 8.1), has been codenamed TARmageddon by Edera, which discovered the issue in late August 2025. It impacts several]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepaid SIM Card Registrations To Be Limited To Two Per Telco For Malaysians]]></title>
+        <id>https://www.lowyat.net/?p=370592</id>
+        <link href="https://www.lowyat.net/2025/370592/prepaid-sim-card-registrations-limit/"/>
+        <updated>2025-10-22T06:47:49.000Z</updated>
+        <summary type="html"><![CDATA[The government is planning to introduce new limits for prepaid SIM card registrations. For Malaysians, registrations will be capped at two per telco. Meanwhile, foreigners will only be able to register for two prepaid SIM cards in total. Deputy Communications Minister Teo Nie Ching explained that this change is meant to combat online fraud and […]
+The post Prepaid SIM Card Registrations To Be Limited To Two Per Telco For Malaysians appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secretlab Launches New Magnus Evo Desk; Starts From RM2,699]]></title>
         <id>https://www.lowyat.net/?p=370550</id>
@@ -3268,26 +3323,6 @@ The post Sony Unveils Icon Blue Special Edition DualSense Controller appeared fi
         <summary type="html"><![CDATA[A ransomware last week left the Asahi brewery in Japan struggling to take orders and deliver its products domestically, as manufacturers become a favored target.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Season Spam With a Touch of 'Salt']]></title>
-        <id>https://www.darkreading.com/cyber-risk/attackers-season-spam-touch-salt</id>
-        <link href="https://www.darkreading.com/cyber-risk/attackers-season-spam-touch-salt"/>
-        <updated>2025-10-07T21:18:57.000Z</updated>
-        <summary type="html"><![CDATA[Researchers report an increase in the use of hidden content in spam and malicious email to confuse filters and other security mechanisms.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Concerns Shadow Vibe Coding Adoption]]></title>
-        <id>https://www.darkreading.com/application-security/security-concerns-shadow-vibe-coding-adoption</id>
-        <link href="https://www.darkreading.com/application-security/security-concerns-shadow-vibe-coding-adoption"/>
-        <updated>2025-10-07T19:08:06.000Z</updated>
-        <summary type="html"><![CDATA[In a recent poll, readers shared how they're using vibe coding in AppDev (if they are at all). While some found success, others found the risks too great.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
         </author>
     </entry>
     <entry>
