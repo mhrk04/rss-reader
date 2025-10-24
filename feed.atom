@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-10-24T18:24:49.135Z</updated>
+    <updated>2025-10-24T21:15:10.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Issues Emergency Patch for Critical Windows Server Bug]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/microsoft-emergency-patch-windows-server-bug</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/microsoft-emergency-patch-windows-server-bug"/>
+        <updated>2025-10-24T19:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft initially fixed CVE-2025-59287 in the WSUS update mechanism in the October 2025 Patch Tuesday release, but the company has now issued a second, out-of-band update for the flaw, which is under attack in the wild.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation]]></title>
+        <id>https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html</id>
+        <link href="https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html"/>
+        <updated>2025-10-24T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42.
+"Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How CISA Layoffs Weaken Civilian Cyber Defense]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/cisa-layoffs-weaken-civilian-cyber-defense</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/cisa-layoffs-weaken-civilian-cyber-defense"/>
+        <updated>2025-10-24T17:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Cyber teams need to get to work backfilling diminishing federal resources, according to Alexander Garcia-Tobar, who shares clear steps on a path forward for protecting enterprises with less CISA help.]]></summary>
+        <author>
+            <name>Alexander García-Tobar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability]]></title>
         <id>https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html</id>
@@ -15,6 +46,16 @@
 The vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shutdown Sparks 85% Increase in US Government Cyberattacks]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/shutdown-increase-us-government-cyberattacks</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/shutdown-increase-us-government-cyberattacks"/>
+        <updated>2025-10-24T16:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Attackers are pouncing on financially strapped US government agencies and furloughed employees. And the effects of this period might be felt for a long time hereafter.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer</name>
         </author>
     </entry>
     <entry>
@@ -3373,50 +3414,6 @@ The zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an u
 The post Budget 2026: MCMC To Establish Sovereign AI Cloud With RM2 Billion Investment appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BYD Atto 3 Facelift Receives Major Updates in China]]></title>
-        <id>https://www.lowyat.net/?p=369185</id>
-        <link href="https://www.lowyat.net/2025/369185/byd-atto-3-facelift-major-updates-china/"/>
-        <updated>2025-10-10T07:47:23.000Z</updated>
-        <summary type="html"><![CDATA[The BYD Atto 3 has received some significant updates in China, as revealed through a new MIIT filing for a domestic sales licence in China. These updates enhance the 2026 crossover and allow it to remain competitive in the current electric vehicle (EV) market. In terms of design, it seems that the 2026 model retains […]
-The post BYD Atto 3 Facelift Receives Major Updates in China appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Fab 52 Fully Operational; Capable Of Making 18A Chips On US Soil]]></title>
-        <id>https://www.lowyat.net/?p=369121</id>
-        <link href="https://www.lowyat.net/2025/369121/intel-fab-52-operational-18a-us-soil/"/>
-        <updated>2025-10-10T07:33:06.000Z</updated>
-        <summary type="html"><![CDATA[The Intel Fab 52 manufacturing plant in Arizona is now fully operational and will be the site where the chipmaker will fabricate its 18A process on US soil. First announced back in 2017, the company broke ground for the building in 2021 and was built as part of the US’ US$100 billion (~RM422 billion) investment […]
-The post Intel Fab 52 Fully Operational; Capable Of Making 18A Chips On US Soil appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Panther Lake Now Official; Features Up to 16CPU Cores, 12 Xe3 Cores]]></title>
-        <id>https://www.lowyat.net/?p=369118</id>
-        <link href="https://www.lowyat.net/2025/369118/intel-panther-lake-official/"/>
-        <updated>2025-10-10T07:01:04.000Z</updated>
-        <summary type="html"><![CDATA[The veil covering Intel’s Panther Lake mobile chipset is finally lifted. With that, we can finally share some of the relevant details surrounding the chipmaker’s new 18A chipset. Firstly, and as mentioned, Panther Lake will be made using Intel’s new 18A process, which itself will be made at its new Arizona-based Fab 52 plant. The […]
-The post Intel Panther Lake Now Official; Features Up to 16CPU Cores, 12 Xe3 Cores appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw]]></title>
-        <id>https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html</id>
-        <link href="https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html"/>
-        <updated>2025-10-10T06:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Dozens of organizations may have been impacted following the zero-day exploitation of a security flaw in Oracle's E-Business Suite (EBS) software since August 9, 2025, Google Threat Intelligence Group (GTIG) and Mandiant said in a new report released Thursday.
-"We're still assessing the scope of this incident, but we believe it affected dozens of organizations," John Hultquist, chief analyst of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
