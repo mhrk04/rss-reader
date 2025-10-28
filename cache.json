@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A group of academic researchers from Georgia Tech, Purdue University, and Synkhronix have developed a side-channel attack called TEE.Fail that allows for the extraction of secrets from the trusted execution environment (TEE) in a computer's main processor, including Intel's Software Guard eXtensions (SGX) and Trust Domain Extensions (TDX) and AMD's Secure Encrypted Virtualization with Secure",
+          "link": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
+          "publishedOn": "2025-10-28T19:16:00.000Z",
+          "wordCount": null,
+          "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7WEENR9AjQZ-WdyQPD5itMbQHGgQu79Ykq0IYfq-vThOrYHX14a_kPBXDW39gvSaT8qQpGHJ9Xb73eCO18CfNSPLOHmnp40IAZ3HDHeCmgMLxaB7sGt8w37KQkuXoFelF4letd03UWYWcFfPYtfA6g-0P7z_qAMbQjI-2Mg4htAyB71nfu7CKlqVVw2Q2/s1600/tee.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7WEENR9AjQZ-WdyQPD5itMbQHGgQu79Ykq0IYfq-vThOrYHX14a_kPBXDW39gvSaT8qQpGHJ9Xb73eCO18CfNSPLOHmnp40IAZ3HDHeCmgMLxaB7sGt8w37KQkuXoFelF4letd03UWYWcFfPYtfA6g-0P7z_qAMbQjI-2Mg4htAyB71nfu7CKlqVVw2Q2/s1600/tee.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Herodotus that has been observed in active campaigns targeting Italy and Brazil to conduct device takeover (DTO) attacks.\n\"Herodotus is designed to perform device takeover while making first attempts to mimic human behaviour and bypass behaviour biometrics detection,\" ThreatFabric said in a report shared with",
@@ -20428,22 +20444,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7Mjlbpc0lAUpBshNwlfCnaymfSU7Zq7tdye5IB97rku35Ml0Pq3f4a-L1rmj_bapTGV4VBodWJAeKNw59_JoQj4O7REr0fHyG0CqIp3cEncjvwzySWjeusJRmWdrRACdwQ5qsPpt3n6khw4lgT0XoBKmj6bHltQ9GW6SS4aPmSc5EB8dGQEihze8bO0/s1600/pentera.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7Mjlbpc0lAUpBshNwlfCnaymfSU7Zq7tdye5IB97rku35Ml0Pq3f4a-L1rmj_bapTGV4VBodWJAeKNw59_JoQj4O7REr0fHyG0CqIp3cEncjvwzySWjeusJRmWdrRACdwQ5qsPpt3n6khw4lgT0XoBKmj6bHltQ9GW6SS4aPmSc5EB8dGQEihze8bO0/s1600/pentera.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have identified several malicious packages across npm, Python, and Ruby ecosystems that leverage Discord as a command-and-control (C2) channel to transmit stolen data to actor-controlled webhooks.\nWebhooks on Discord are a way to post messages to channels in the platform without requiring a bot user or authentication, making them an attractive mechanism for attackers to",
-          "link": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
-          "publishedOn": "2025-10-14T07:09:00.000Z",
-          "wordCount": null,
-          "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZzhEf1_tZLt8fgAl6YS7Wah-9L3Z7Tcs0L3zK5ilyxOaEcBFpj0-vA58YFSIEJqBVxCQFLf_JYVjfzRP4VpOUJJxF1qYg3cuLWtupeoMLpZY_f1r2-Yy5Na4taLHsDAS9DeY3yqefQkUs8ltjV4Ckg2vdXTIjDSOr8Sv5AVSEMC8WFzp8wWnddg-0QWDu/s1600/data.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZzhEf1_tZLt8fgAl6YS7Wah-9L3Z7Tcs0L3zK5ilyxOaEcBFpj0-vA58YFSIEJqBVxCQFLf_JYVjfzRP4VpOUJJxF1qYg3cuLWtupeoMLpZY_f1r2-Yy5Na4taLHsDAS9DeY3yqefQkUs8ltjV4Ckg2vdXTIjDSOr8Sv5AVSEMC8WFzp8wWnddg-0QWDu/s1600/data.jpg"
         }
       ]
     },
@@ -22291,36 +22291,6 @@
           "wordCount": 11074,
           "title": "sooka Partners With Local Brands To Offer Sports And Entertainment Streaming",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/sooka-partnerships-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=369594",
-          "author": "John Law",
-          "description": "NVIDIA has officially started shipping out the DGX Spark, the world’s smallest supercomputer. The machine is the direct successor to the DGX-1, which launched back in 2016. The DGX Spark first made its debut during Computex 2025, and we saw it again at Acer’s showroom during IFA 2025. As for pricing, NVIDIA is now selling […]\nThe post NVIDIA DGX Spark To Go Sale On 15 October; Retails For US$3,999 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/369594/nvidia-dgx-spark-sale-15-october/",
-          "publishedOn": "2025-10-14T08:39:13.000Z",
-          "wordCount": 10274,
-          "title": "NVIDIA DGX Spark To Go Sale On 15 October; Retails For US$3,999",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/nvidia-dgx-spark-computex-2025_03.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=369581",
-          "author": "Kiran Ganesan",
-          "description": "A new Samsung patent has surfaced, this time sharing details about a self-healing display and a built-in defence system for foldables’ internal screens. Though it may be conjecture, it could potentially be related to the company’s upcoming tri-fold device. For years, many foldable phone manufacturers have actually struggled with adding a component as simple as […]\nThe post Samsung Patents Self-Healing Screen For Foldables appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/369581/samsung-patents-self-healing-screen-for-foldables/",
-          "publishedOn": "2025-10-14T08:30:06.000Z",
-          "wordCount": 10250,
-          "title": "Samsung Patents Self-Healing Screen For Foldables",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Samsung-Self-Healing-Display-Patent-Images5.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=369599",
-          "author": "Heirul Kamel",
-          "description": "It looks like Xiaomi’s push into the electric vehicle (EV) segment isn’t showing any signs of stopping, as spy shots allegedly featuring the prototype of its third model have appeared online. Believed to be known as the YU9, the newer vehicle is shown to be a larger SUV. However, most of the EV is wrapped […]\nThe post Xiaomi’s Third EV, The YU9 SUV, Spotted In The Wild appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/369599/xiaomi-yu9-ev-spotted-in-the-wild/",
-          "publishedOn": "2025-10-14T08:20:24.000Z",
-          "wordCount": 10293,
-          "title": "Xiaomi’s Third EV, The YU9 SUV, Spotted In The Wild",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/xiaomi-yu9-spotted-in-the-wild-1.jpg"
         }
       ]
     },
@@ -22329,6 +22299,26 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/youtube-ghost-network-target-users",
+          "author": "Kristina Beek",
+          "description": "The malware operation uses compromised accounts and bot networks to distribute infostealers and has tripled its output in 2025.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/youtube-ghost-network-target-users",
+          "publishedOn": "2025-10-28T20:22:39.000Z",
+          "wordCount": null,
+          "title": "YouTube Ghost Network Utilizes Spooky Tactics to Target Users",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/oracle-ebs-attack-victims-more-numerous-expected",
+          "author": "Alexander Culafi",
+          "description": "Numerous organizations have been attacked via Oracle EBS zero-day CVE-2025-61882, and evidence suggests more like Schneider Electric could be on that list.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/oracle-ebs-attack-victims-more-numerous-expected",
+          "publishedOn": "2025-10-28T20:08:01.000Z",
+          "wordCount": null,
+          "title": "Oracle EBS Attack Victims May Be More Numerous Than Expected",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/north-korea-bluenoroff-expands-crypto-heists",
           "author": "Elizabeth Montalbano, Contributing Writer",
