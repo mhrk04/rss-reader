@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-10-29T15:20:08.228Z</updated>
+    <updated>2025-10-29T18:26:55.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Security Change for Azure VMs Creates Pitfalls]]></title>
+        <id>https://www.darkreading.com/cloud-security/microsoft-security-change-azure-vms-creates-pitfalls</id>
+        <link href="https://www.darkreading.com/cloud-security/microsoft-security-change-azure-vms-creates-pitfalls"/>
+        <updated>2025-10-29T17:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Firms using Azure infrastructure gained a reprieve from a security-focused switch that could have broken apps that relied on public Internet access.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Botnets Step Up Cloud Attacks Via Flaws, Misconfigurations]]></title>
+        <id>https://www.darkreading.com/cloud-security/botnets-cloud-attacks-flaws-misconfigurations</id>
+        <link href="https://www.darkreading.com/cloud-security/botnets-cloud-attacks-flaws-misconfigurations"/>
+        <updated>2025-10-29T16:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Infamous botnets like Mirai are exploiting Web-exposed assets such as PHP servers, IoT devices, and cloud gateways to gain control over systems and build strength.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices]]></title>
+        <id>https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html</id>
+        <link href="https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html"/>
+        <updated>2025-10-29T15:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are calling attention to a spike in automated attacks targeting PHP servers, IoT devices, and cloud gateways by various botnets such as Mirai, Gafgyt, and Mozi.
+"These automated campaigns exploit known CVE vulnerabilities and cloud misconfigurations to gain control over exposed systems and expand botnet networks," the Qualys Threat Research Unit (TRU) said in a report]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts]]></title>
+        <id>https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html</id>
+        <link href="https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html"/>
+        <updated>2025-10-29T14:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have flagged a new security issue in agentic web browsers like OpenAI ChatGPT Atlas that exposes underlying artificial intelligence (AI) models to context poisoning attacks.
+In the attack devised by AI security company SPLX, a bad actor can set up websites that serve different content to browsers and AI crawlers run by ChatGPT and Perplexity. The technique has been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Power Users to Protective Stewards: How to Tune Security Training for Specialized Employees]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/power-users-protective-stewards-how-tune-security-training-specialized-employees</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/power-users-protective-stewards-how-tune-security-training-specialized-employees"/>
+        <updated>2025-10-29T12:03:17.000Z</updated>
+        <summary type="html"><![CDATA[How the best security training programs build strong security culture by focusing on high-risk groups like developers, executives, finance pros and more.]]></summary>
+        <author>
+            <name>Ericka Chickowski, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discover Practical AI Tactics for GRC — Join the Free Expert Webinar]]></title>
         <id>https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html</id>
@@ -3394,73 +3446,6 @@ The shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 1
 The post Mercedes-Benz Unveils Vision Iconic Concept Car appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access]]></title>
-        <id>https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html</id>
-        <link href="https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html"/>
-        <updated>2025-10-15T06:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.
-The vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Xe3P Reportedly Heading To Nova Lake-S Desktop CPUs]]></title>
-        <id>https://www.lowyat.net/?p=369738</id>
-        <link href="https://www.lowyat.net/2025/369738/intel-xe3p-nova-lake-s/"/>
-        <updated>2025-10-15T06:06:58.000Z</updated>
-        <summary type="html"><![CDATA[Panther Lake has barely just been announced, but there are many among us who are hovering over a particular subject: its Xe3 architecture and more specifically, the future Xe3P. This is, in part, expected to be part of the ARC Celestial series, but now it seems that the Compute Units (CUs) will be heading to […]
-The post Intel Xe3P Reportedly Heading To Nova Lake-S Desktop CPUs appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login]]></title>
-        <id>https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html</id>
-        <link href="https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html"/>
-        <updated>2025-10-15T05:36:00.000Z</updated>
-        <summary type="html"><![CDATA[SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution.
-The vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization.
-"Due to a deserialization vulnerability in SAP NetWeaver, an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen AI “Sound Wave” APU Appears In Shipping Manifests]]></title>
-        <id>https://www.lowyat.net/?p=369709</id>
-        <link href="https://www.lowyat.net/2025/369709/amd-ryzen-ai-sound-wave/"/>
-        <updated>2025-10-15T04:24:56.000Z</updated>
-        <summary type="html"><![CDATA[AMD’s Ryzen AI APU, Sound Wave, isn’t a name you’d be familiar with but it has appeared in the past. Recent rumours have suggested that the APU could be the chipmaker’s ARM-based APU, marking the return of a non-x86 processor after more than a decade. Recently, a shipping manifest listing the alleged Sound Wave APU […]
-The post AMD Ryzen AI “Sound Wave” APU Appears In Shipping Manifests appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteelSeries Launches Arctis Nova 7 Wireless Gen 2 Headset]]></title>
-        <id>https://www.lowyat.net/?p=369711</id>
-        <link href="https://www.lowyat.net/2025/369711/steelseries-arctis-nova-7-gen-2/"/>
-        <updated>2025-10-15T03:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Little over a week after the local launch of the Arctis Nova Elite, SteelSeries is announcing a refreshed version of its Nova 7 Wireless headphones. Aptly named the Arctis Nova 7 Wireless Gen 2, these over-ears feature improved battery life while still maintaining a mid-range price point.  The Nova 7 Wireless Gen 2 features 40mm […]
-The post SteelSeries Launches Arctis Nova 7 Wireless Gen 2 Headset appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo eShop To Launch In Malaysia 18 November 2025]]></title>
-        <id>https://www.lowyat.net/?p=369704</id>
-        <link href="https://www.lowyat.net/2025/369704/nintendo-eshop-malaysia/"/>
-        <updated>2025-10-15T03:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Back when the Switch 2 was officially unveiled, the company announced that it will be launching the Nintendo eShop and Nintendo Switch Online services in four countries in the Southeast Asia region, including Malaysia. At the time, no further information was available. But now, we have confirmation that these services will launch next month, on […]
-The post Nintendo eShop To Launch In Malaysia 18 November 2025 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
         </author>
     </entry>
     <entry>
