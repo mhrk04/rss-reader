@@ -20396,38 +20396,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7nxODcfvRiRGSDL38ckIG0H-EQiEDgbQ7L09l-4hmze6f8fJxdAGx1sTPtM7qq4RJKe-0hvOxWJnxKElwWIem-mteqIPckj3p3LsPg-qWkBMHgS-hhQvOZZTwXvun2IRsLnjJt4d3nu0orFjiZYNDj_frr4wU6zTId8Lli8pr_yq1I4KbDMj18Je21op9/s1600/vscode.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7nxODcfvRiRGSDL38ckIG0H-EQiEDgbQ7L09l-4hmze6f8fJxdAGx1sTPtM7qq4RJKe-0hvOxWJnxKElwWIem-mteqIPckj3p3LsPg-qWkBMHgS-hhQvOZZTwXvun2IRsLnjJt4d3nu0orFjiZYNDj_frr4wU6zTId8Lli8pr_yq1I4KbDMj18Je21op9/s1600/vscode.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "TLDR\nEven if you take nothing else away from this piece, if your organization is evaluating passkey deployments, it is insecure to deploy synced passkeys.\n\nSynced passkeys inherit the risk of the cloud accounts and recovery processes that protect them, which creates material enterprise exposure.\nAdversary-in-the-middle (AiTM) kits can force authentication fallbacks that circumvent strong",
-          "link": "https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html",
-          "publishedOn": "2025-10-15T11:30:00.000Z",
-          "wordCount": null,
-          "title": "How Attackers Bypass Synced Passkeys",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzgPiYOBRupj34WKSRVJkCTaoYVuc1iRSzOauR8t9mAe7NjI1I6u26DrNuWmaNZOAchmWzeNkAnMCoq-dKcMvgznJmFYUqypx7NSqHKAQZ8gqP64IkCZYPXYb__MxfkcMisqQ0MCkzRryCFixJUkaHPVx3j-eWROkzj5BYmYLykDEijIho-JGuCcAWMAzP/s1600/passkeys.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzgPiYOBRupj34WKSRVJkCTaoYVuc1iRSzOauR8t9mAe7NjI1I6u26DrNuWmaNZOAchmWzeNkAnMCoq-dKcMvgznJmFYUqypx7NSqHKAQZ8gqP64IkCZYPXYb__MxfkcMisqQ0MCkzRryCFixJUkaHPVx3j-eWROkzj5BYmYLykDEijIho-JGuCcAWMAzP/s1600/passkeys.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.\nOf the 183 vulnerabilities, eight of them are non-Microsoft",
-          "link": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
-          "publishedOn": "2025-10-15T09:23:00.000Z",
-          "wordCount": null,
-          "title": "Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsUPy8pWQeMczzJ16wCN6ZkwAqkLXBq0poUDFr7UKWqEzdEZM-DmiAuFzFkrTiZdMuZkw59QW6PhVQvop26Ai0KNV_9DjWTVdh2V7trF64XPV7KqanoyZAaxo9DYHcVDysYW8EoB1R1RGyFAhnseVy1UANS_w81BEA4eeMYsvuSOnF7mZ55stReEszY2Ap/s1600/windows-security.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsUPy8pWQeMczzJ16wCN6ZkwAqkLXBq0poUDFr7UKWqEzdEZM-DmiAuFzFkrTiZdMuZkw59QW6PhVQvop26Ai0KNV_9DjWTVdh2V7trF64XPV7KqanoyZAaxo9DYHcVDysYW8EoB1R1RGyFAhnseVy1UANS_w81BEA4eeMYsvuSOnF7mZ55stReEszY2Ap/s1600/windows-security.jpg"
         }
       ]
     },
@@ -20436,6 +20404,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=371490",
+          "author": "John Law",
+          "description": "Back in February, China’s North Industries Corporation, or Norinco for short, unveiled the P60, an autonomous military vehicle capable of travelling at speeds of up to 50km/h, along with the ability to conduct combat support actions without human input. Recently, a report by Reuters highlights how much of that autonomy was powered by DeepSeek, which […]\nThe post Investigation Of DeepSeek-Powered Drone Shows Chinese Reliance On NVIDIA GPUs appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/371490/drone-deepseek-nvidia-gpus/",
+          "publishedOn": "2025-10-30T01:00:06.000Z",
+          "wordCount": 10395,
+          "title": "Investigation Of DeepSeek-Powered Drone Shows Chinese Reliance On NVIDIA GPUs",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Drone-China-military-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=371459",
           "author": "John Law",
@@ -22255,36 +22233,6 @@
           "wordCount": 10460,
           "title": "vivo Announces OriginOS 6 Release Worldwide; Replacing FunTouch OS",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/vivo-OriginOS-6.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=369871",
-          "author": "John Law",
-          "description": "After some setbacks in its manufacturing process, the Xperia 1 VII is finally in our hands. If I’m honest, the phone isn’t trying to change the status quo and by that, I mean the aesthetics haven’t actually changed since last year. But there are definitely some differences, most of which are underneath the hood, with […]\nThe post Sony Xperia 1 VII Review: Same Look, Improved Camera appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/369871/sony-xperia-1-vii-review/",
-          "publishedOn": "2025-10-15T13:07:05.000Z",
-          "wordCount": 14019,
-          "title": "Sony Xperia 1 VII Review: Same Look, Improved Camera",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Sony-Xperia-1-VII-Product-Shot-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=369830",
-          "author": "Heirul Kamel",
-          "description": "Casio is celebrating the 40th anniversary of Back to the Future with a special edition of its popular calculator watch. Known as the CA-500WEBF, this limited release was created in collaboration with Universal Products & Experiences (UP&E). It pays tribute to both the 1985 film and Casio’s iconic timepiece, which was also worn by Marty […]\nThe post Casio Unveils Back To The Future 40th Anniversary Limited Edition Calculator Watch appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/369830/casio-back-to-the-future-calculator-watch/",
-          "publishedOn": "2025-10-15T11:19:54.000Z",
-          "wordCount": 5078,
-          "title": "Casio Unveils Back To The Future 40th Anniversary Limited Edition Calculator Watch",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/casio-back-to-the-future-calculator-watch_07.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=369788",
-          "author": "Kiran Ganesan",
-          "description": "From Comet to OpenAI’s undisclosed project, many major AI companies are hard at work developing their own in-house AI browser. However, if you’re keen on using AI as your default way of searching but not interested in downloading any of them, then Mozilla has you covered. Starting today, you can now use Perplexity AI as […]\nThe post Firefox Officially Adds Perplexity AI To Search Engine appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/369788/firefox-perplexity-ai-search-engine/",
-          "publishedOn": "2025-10-15T09:48:11.000Z",
-          "wordCount": 10194,
-          "title": "Firefox Officially Adds Perplexity AI To Search Engine",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Mozilla-Firefox-Perplexity-Ai3.jpg"
         }
       ]
     },
@@ -22301,6 +22249,16 @@
           "publishedOn": "2025-10-29T20:43:21.000Z",
           "wordCount": null,
           "title": "Malicious NPM Packages Disguised With 'Invisible' Dependencies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/ai-search-tools-easily-fooled-by-fake-content",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "New research shows AI crawlers like Perplexity, Atlas, and ChatGPT are surprisingly easy to fool.",
+          "link": "https://www.darkreading.com/cyber-risk/ai-search-tools-easily-fooled-by-fake-content",
+          "publishedOn": "2025-10-29T20:36:43.000Z",
+          "wordCount": null,
+          "title": "AI Search Tools Easily Fooled by Fake Content",
           "imageUrl": null
         },
         {
