@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-10-30T21:15:58.374Z</updated>
+    <updated>2025-10-31T01:21:35.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Set To Restart Nuclear Power Plant In US State Of Iowa]]></title>
+        <id>https://www.lowyat.net/?p=371714</id>
+        <link href="https://www.lowyat.net/2025/371714/google-nuclear-power-plant-iowa/"/>
+        <updated>2025-10-31T01:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Google announced that it will be reviving a nuclear power plant in the US state of Iowa. The power plant is said to have been idle for the past five years. Google will be partnering with US company NextEra Energy to bring the nuclear power plant back to life, which will then be used to […]
+The post Google Set To Restart Nuclear Power Plant In US State Of Iowa appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Rolls Out Passkey Encryption For Chat Backups]]></title>
+        <id>https://www.lowyat.net/?p=371716</id>
+        <link href="https://www.lowyat.net/2025/371716/whatsapp-rolls-out-passkey-encryption-for-chat-backups/"/>
+        <updated>2025-10-31T01:03:04.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp is introducing a new way to secure your chat history with the rollout of passkey-encrypted backups. This adds an extra layer of protection for users who rely on the platform to store years of conversations, photos, and voice notes. The new feature lets users encrypt their chat backups using biometric authentication methods such as […]
+The post WhatsApp Rolls Out Passkey Encryption For Chat Backups appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US And China Agree To Pause Tariffs For One Year]]></title>
+        <id>https://www.lowyat.net/?p=371710</id>
+        <link href="https://www.lowyat.net/2025/371710/us-china-one-year-pause-tariffs/"/>
+        <updated>2025-10-31T00:50:37.000Z</updated>
+        <summary type="html"><![CDATA[US President Trump and Chinese President Xi Jinping have agreed to put a pause on their tariff wars, for a period of one year. The pause was instated during the meeting between the two leaders at the South Korean city of Busan. Among the topics discussed by Trump and Xi were China’s current stranglehold on […]
+The post US And China Agree To Pause Tariffs For One Year appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claroty Patches Authentication Bypass Flaw]]></title>
         <id>https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw</id>
@@ -3278,83 +3311,6 @@ The activity has been attributed by Google Threat Intelligence Group (GTIG) to a
 "This backdoor features functionalities relying on the installation of two eBPF [extended Berkeley Packet Filter] modules, on the one hand to conceal itself, and on the other hand to be remotely]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oppo Find X9 Pro Hands On: Pushing The Boundaries Of Mobile Photography]]></title>
-        <id>https://www.lowyat.net/?p=370120</id>
-        <link href="https://www.lowyat.net/2025/370120/oppo-find-x9-pro-hands-on/"/>
-        <updated>2025-10-16T12:33:32.000Z</updated>
-        <summary type="html"><![CDATA[As promised by the brand, the Oppo Find X9 Pro is finally being announced, and with that, I am able to talk about the phone at some length. I say at length because, as per the brand’s usual NDAs and list of embargoes, there are details that I’m not allowed still not allowed to share. […]
-The post Oppo Find X9 Pro Hands On: Pushing The Boundaries Of Mobile Photography appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform]]></title>
-        <id>https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html</id>
-        <link href="https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html"/>
-        <updated>2025-10-16T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Scaling the SOC with AI - Why now? 
-Security Operations Centers (SOCs) are under unprecedented pressure. According to SACR’s AI-SOC Market Landscape 2025, the average organization now faces around 960 alerts per day, while large enterprises manage more than 3,000 alerts daily from an average of 28 different tools. Nearly 40% of those alerts go uninvestigated, and 61% of security teams admit]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in "Zero Disco' Attacks]]></title>
-        <id>https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html</id>
-        <link href="https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html"/>
-        <updated>2025-10-16T11:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a new campaign that exploited a recently disclosed security flaw impacting Cisco IOS Software and IOS XE Software to deploy Linux rootkits on older, unprotected systems.
-The activity, codenamed Operation Zero Disco by Trend Micro, involves the weaponization of CVE-2025-20352 (CVSS score: 7.7), a stack overflow vulnerability in the Simple]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 10 Pro Fold Battery Blows Up During Teardown]]></title>
-        <id>https://www.lowyat.net/?p=370115</id>
-        <link href="https://www.lowyat.net/2025/370115/google-pixel-10-pro-battery-teardown/"/>
-        <updated>2025-10-16T11:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Zack Nelson, otherwise known as JerryRigEverything (JRE) on YouTube, recently subjected the Google Pixel 10 Pro Fold to a series of extreme durability test, as part of his usual teardown of devices. Unfortunately for the foldable (or Zack, maybe?), the foldable folded under pressure, the battery bloating up and going up in a cloud of […]
-The post Google Pixel 10 Pro Fold Battery Blows Up During Teardown appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beware the Hidden Costs of Pen Testing]]></title>
-        <id>https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html</id>
-        <link href="https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html"/>
-        <updated>2025-10-16T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Penetration testing helps organizations ensure IT systems are secure, but it should never be treated in a one-size-fits-all approach. Traditional approaches can be rigid and cost your organization time and money – while producing inferior results. 
-The benefits of pen testing are clear. By empowering “white hat” hackers to attempt to breach your system using similar tools and techniques to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MITI, MOF Discussing Alternative Incentives For EV Adoption]]></title>
-        <id>https://www.lowyat.net/?p=370092</id>
-        <link href="https://www.lowyat.net/2025/370092/miti-mof-alternative-incentives-ev-adoption/"/>
-        <updated>2025-10-16T10:11:19.000Z</updated>
-        <summary type="html"><![CDATA[The Ministry of Investment, Trade and Industry (MITI) and the Ministry of Finance (MOF) are currently in discussions to establish new incentives to encourage the adoption of electric vehicles (EVs) in the local scene. This was confirmed by Tengku Datuk Seri Zafrul Abdul Aziz, Minister of Investment, Trade and Industry. He also added that the […]
-The post MITI, MOF Discussing Alternative Incentives For EV Adoption appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR MagicPad3 Pro Launches in China]]></title>
-        <id>https://www.lowyat.net/?p=370080</id>
-        <link href="https://www.lowyat.net/2025/370080/honor-magicpad3-pro-launches-in-china/"/>
-        <updated>2025-10-16T09:32:43.000Z</updated>
-        <summary type="html"><![CDATA[From the release of the brand’s new smartphone series to teasing a concept phone that is to come, to say it’s a big day for HONOR would be quite the understatement. Well, it’s just going to get bigger, as the Chinese consumer electronics brands have just debuted the HONOR MagicPad3 Pro 13.3 or simply known as the […]
-The post HONOR MagicPad3 Pro Launches in China appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
         </author>
     </entry>
     <entry>
