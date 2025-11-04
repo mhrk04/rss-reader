@@ -19294,6 +19294,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-43429 - A buffer overflow",
+          "link": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
+          "publishedOn": "2025-11-04T08:10:00.000Z",
+          "wordCount": null,
+          "title": "Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO90ZGqS1o8oXuQSYe44zmCBkNPE4eZDZy-NJhnRyFZ_ePcN4Tv-OOIuBKoi5Dnp0bN_HpCcxpAgMNYs6t0rCntWspx1JNRJSBbMsvzxDnSXewOvLDls6VU47KVeRxxDO4fHBO7_Ow6P9T3crzMpcwQxBofwQLcX0WKBIQYsHY64MDoazdGW_9ehXK7sXv/s1600/safari-flaw-ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO90ZGqS1o8oXuQSYe44zmCBkNPE4eZDZy-NJhnRyFZ_ePcN4Tv-OOIuBKoi5Dnp0bN_HpCcxpAgMNYs6t0rCntWspx1JNRJSBbMsvzxDnSXewOvLDls6VU47KVeRxxDO4fHBO7_Ow6P9T3crzMpcwQxBofwQLcX0WKBIQYsHY64MDoazdGW_9ehXK7sXv/s1600/safari-flaw-ai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Federal prosecutors in the U.S. have accused a trio of allegedly hacking the networks of five U.S. companies with BlackCat (aka ALPHV) ransomware between May and November 2023 and extorting them.\nRyan Clifford Goldberg, Kevin Tyler Martin, and an unnamed co–conspirator (aka \"Co-Conspirator 1\") based in Florida, all U.S. nationals, are said to have used the ransomware strain against a medical",
+          "link": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
+          "publishedOn": "2025-11-04T07:45:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mH0dvGWLCUJm63XD3luQR8ZpHCGiO_stcfyerR37pGHWLvFLC_CiXJ7j6TTTyxIJFx30P0YP2oXxFtMgAZTSfbNd7vL6Vy0lQ6ZR7wAfZIXZbND_xLM5yeejoG_uf-jhr_Wi9UZaSEvhR7XQ0ZcgZRxLQMRT1e8fvt5eVLMkX1l71OHc0jUwiDr1EnhZ/s1600/insider-ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mH0dvGWLCUJm63XD3luQR8ZpHCGiO_stcfyerR37pGHWLvFLC_CiXJ7j6TTTyxIJFx30P0YP2oXxFtMgAZTSfbNd7vL6Vy0lQ6ZR7wAfZIXZbND_xLM5yeejoG_uf-jhr_Wi9UZaSEvhR7XQ0ZcgZRxLQMRT1e8fvt5eVLMkX1l71OHc0jUwiDr1EnhZ/s1600/insider-ransomware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has disclosed details of a novel backdoor dubbed SesameOp that uses OpenAI Assistants Application Programming Interface (API) for command-and-control (C2) communications.\n\"Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised",
+          "link": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
+          "publishedOn": "2025-11-04T05:58:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Detects \"SesameOp\" Backdoor Using OpenAI's API as a Stealth Command Channel",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW72-Rg4bg2ntYrHhAcMLWcUMdg-0COcApiiLP4LsguHFgDgBVZmEh0EigMblA_-TZm9wKArXWY58AqupvM2vpr3anQXEGkmmAtw20_4WOO4qVL8ykulVPadSXRdZTyanhMeEKt-TPI5i5SGpUmjlNlAYEZUepDpzDujBAULaGbzuXSSzP5W6NsPofRXD/s1600/SesameOp-Malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW72-Rg4bg2ntYrHhAcMLWcUMdg-0COcApiiLP4LsguHFgDgBVZmEh0EigMblA_-TZm9wKArXWY58AqupvM2vpr3anQXEGkmmAtw20_4WOO4qVL8ykulVPadSXRdZTyanhMeEKt-TPI5i5SGpUmjlNlAYEZUepDpzDujBAULaGbzuXSSzP5W6NsPofRXD/s1600/SesameOp-Malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.\nAccording to Secure Annex's John Tuckner, the extension in question, juan-bianco.solidity-vlang (version 0.0.7), was first published on October 31, 2025, as a completely benign library that was subsequently updated to version 0.0.8 on November 1 to",
@@ -20380,22 +20428,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1uqqrVb9fKiKp2TAXLGACkDICTIsIazYbw2ok4_DaWSzauAX72ezhEc8SNV_Ml20uhs4ogNtgNg470hX5H1Ipg2D7H0H7cJoit_aYkTn8P9IWjT5AS3fnpGmipoDRC8cTvHPwSo6_LD5sfmjoiBEjT95p9Yntx9JL7W9mzUp41hfTzktNP3Opxme6XG2/s1600/telecom-hacker.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1uqqrVb9fKiKp2TAXLGACkDICTIsIazYbw2ok4_DaWSzauAX72ezhEc8SNV_Ml20uhs4ogNtgNg470hX5H1Ipg2D7H0H7cJoit_aYkTn8P9IWjT5AS3fnpGmipoDRC8cTvHPwSo6_LD5sfmjoiBEjT95p9Yntx9JL7W9mzUp41hfTzktNP3Opxme6XG2/s1600/telecom-hacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added five security flaws to its Known Exploited Vulnerabilities (KEV) Catalog, officially confirming a recently disclosed vulnerability impacting Oracle E-Business Suite (EBS) has been weaponized in real-world attacks.\nThe security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has been described as a",
-          "link": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
-          "publishedOn": "2025-10-20T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Five New Exploited Bugs Land in CISA's Catalog — Oracle and Microsoft Among Targets",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnNo6sry2Rb7QLB26quJDY1T7IX2CM01saJ2AG2Lkw9BCBks3wQK6iBakiQG8ncEJZb13nsWnHvLAuiSihA13ytfmuco6899Q5O7Whmtccu0hQfH_XN8DnGcK3mgS3h9GPzM4xGuUaqBIrrvdvt2DeKen4Ae9XR6QnECqoQ40WenBoS1jE5ujVjuF0GgyM/s1600/CISA.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnNo6sry2Rb7QLB26quJDY1T7IX2CM01saJ2AG2Lkw9BCBks3wQK6iBakiQG8ncEJZb13nsWnHvLAuiSihA13ytfmuco6899Q5O7Whmtccu0hQfH_XN8DnGcK3mgS3h9GPzM4xGuUaqBIrrvdvt2DeKen4Ae9XR6QnECqoQ40WenBoS1jE5ujVjuF0GgyM/s1600/CISA.jpg"
         }
       ]
     },
@@ -20404,6 +20436,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=372112",
+          "author": "Keran",
+          "description": "Electric vehicle manufacturer Tesla is facing a lawsuit over a fatal crash in Wisconsin last November that claimed the lives of five passengers in a Model S. The suit alleges that the vehicle’s doors failed to open after impact, preventing escape and contributing to the deaths. Filed on behalf of Jeffrey Bauer, 54, and Michelle […]\nThe post Tesla Faces Lawsuit Over Fatal Crash Linked To Door Malfunction appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/372112/tesla-faces-lawsuit-over-fatal-crash-linked-to-door-malfunction/",
+          "publishedOn": "2025-11-04T09:10:15.000Z",
+          "wordCount": 10409,
+          "title": "Tesla Faces Lawsuit Over Fatal Crash Linked To Door Malfunction",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/10/Tesla-Experience-Centre-Pavilion-Damansara-Heights.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=372120",
+          "author": "Heirul Kamel",
+          "description": "Touch ‘n Go Sdn Bhd (TnG) has introduced its next-generation open payment mobility ecosystem, featuring several home-grown innovations in tolling and mobility technology. The announcement highlights advancements in Radio Frequency Identification (RFID), Smart Lane Fast Flow (SLFF), and Multi-Lane Fast Flow (MLFF) systems, which the company says are designed to redefine Malaysia’s road infrastructure and […]\nThe post Touch ‘n Go Showcases Next-Gen Open Payment Mobility Ecosystem appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/372120/touch-n-go-showcases-next-gen-open-payment-mobility-ecosystem/",
+          "publishedOn": "2025-11-04T08:48:37.000Z",
+          "wordCount": 10362,
+          "title": "Touch ‘n Go Showcases Next-Gen Open Payment Mobility Ecosystem",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Touch-n-go-next-gen-open-payment-showcase-5.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=372100",
+          "author": "Ian Chee",
+          "description": "Back in May, Microsoft announced the general availability of the Malaysia West cloud region in the Greater Kuala Lumpur area. Now, in another entry into the company’s AI Tour in the country for the year, it has announced another upcoming cloud region in Johor Bahru. And it’s called Southeast Asia 3. As part of the […]\nThe post Microsoft Announces Upcoming Southeast Asia 3 Cloud Region In Johor Bahru appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/372100/microsoft-upcoming-southeast-asia-3-cloud-region-johor-bahru/",
+          "publishedOn": "2025-11-04T08:43:47.000Z",
+          "wordCount": 9993,
+          "title": "Microsoft Announces Upcoming Southeast Asia 3 Cloud Region In Johor Bahru",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Microsoft-Southeast-Asia-3-cloud-region-Johor-Bahru.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=372102",
+          "author": "Nurul Kamil",
+          "description": "CelcomDigi has announced that it is partnering with Boost to introduce the latter’s Buy Now, Pay Later (BNPL) service to the CelcomDigi app. Touted as a Shariah-compliant option, PayFlex is meant to offer customers a “flexible and seamless” payment experience. To access the BNPL service in the CelcomDigi app, the user must first head over […]\nThe post CelcomDigi Introduces PayFlex By Boost BNPL Service In CelcomDigi App appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/372102/celcomdigi-payflex-by-boost/",
+          "publishedOn": "2025-11-04T07:07:36.000Z",
+          "wordCount": 10072,
+          "title": "CelcomDigi Introduces PayFlex By Boost BNPL Service In CelcomDigi App",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/celcomdigi-payflex-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=372075",
           "author": "Ian Chee",
@@ -23009,26 +23081,6 @@
           "publishedOn": "2025-10-20T21:27:52.000Z",
           "wordCount": null,
           "title": "ColdRiver Drops Fresh Malware on Targets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/international-sting-sim-box-criminal-network",
-          "author": "Kristina Beek",
-          "description": "The operation took down a massive SIM card fraud network that provided fake phone numbers from more than 80 countries to criminals.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/international-sting-sim-box-criminal-network",
-          "publishedOn": "2025-10-20T21:02:56.000Z",
-          "wordCount": null,
-          "title": "International Sting Takes Down SIM Box Criminal Network",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/car-byod-risk",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "If an employee's phone connects to their car and then their corporate network, an attack against the car can reach the company.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/car-byod-risk",
-          "publishedOn": "2025-10-20T20:38:26.000Z",
-          "wordCount": null,
-          "title": "Is Your Car a BYOD Risk? Researchers Demonstrate How",
           "imageUrl": null
         }
       ]
