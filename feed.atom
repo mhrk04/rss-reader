@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-11-03T21:16:28.053Z</updated>
+    <updated>2025-11-04T01:21:53.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Android Malware Mutes Alerts, Drains Crypto Wallets]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets"/>
+        <updated>2025-11-03T22:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Android/BankBot-YNRK is currently targeting users in Indonesia by masquerading as legitimate applications.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Weaponize Remote Tools to Hijack Cargo Freight]]></title>
+        <id>https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight</id>
+        <link href="https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight"/>
+        <updated>2025-11-03T19:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Researchers uncovered a new threat campaign in which attackers use RMM tools to steal physical cargo out of the supply chain.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious VSX Extension "SleepyDuck" Uses Ethereum to Keep Its Command Server Alive]]></title>
         <id>https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html</id>
@@ -3501,41 +3521,6 @@ The security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has b
         <summary type="html"><![CDATA[The sophisticated worm — which uses invisible code to steal credentials and turn developer systems into criminal proxies — has so far infected nearly 36k machines.]]></summary>
         <author>
             <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More]]></title>
-        <id>https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html</id>
-        <link href="https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html"/>
-        <updated>2025-10-20T12:27:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s easy to think your defenses are solid — until you realize attackers have been inside them the whole time. The latest incidents show that long-term, silent breaches are becoming the norm. The best defense now isn’t just patching fast, but watching smarter and staying alert for what you don’t expect.
-Here’s a quick look at this week’s top threats, new tactics, and security stories shaping]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches]]></title>
-        <id>https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html</id>
-        <link href="https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html"/>
-        <updated>2025-10-20T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ClickFix, FileFix, fake CAPTCHA — whatever you call it, attacks where users interact with malicious scripts in their web browser are a fast-growing source of security breaches. 
-ClickFix attacks prompt the user to solve some kind of problem or challenge in the browser — most commonly a CAPTCHA, but also things like fixing an error on a webpage. 
-The name is a little misleading, though]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign]]></title>
-        <id>https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html</id>
-        <link href="https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html"/>
-        <updated>2025-10-20T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a coordinated campaign that leveraged 131 rebranded clones of a WhatsApp Web automation extension for Google Chrome to spam Brazilian users at scale.
-The 131 spamware extensions share the same codebase, design patterns, and infrastructure, according to supply chain security company Socket. The browser add-ons collectively have about 20,905 active users.
-"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
