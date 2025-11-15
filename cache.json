@@ -19294,6 +19294,102 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The North Korean threat actors behind the Contagious Interview campaign have once again tweaked their tactics by using JSON storage services to stage malicious payloads.\n\"The threat actors have recently resorted to utilizing JSON storage services like JSON Keeper, JSONsilo, and npoint.io to host and deliver malware from trojanized code projects, with the lure,\" NVISO researchers Bart Parys, Stef",
+          "link": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
+          "publishedOn": "2025-11-14T18:25:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhezv9r6ClrAlk-BAArf2qit1LLkCBtsnc22v9EJEuoGm8ZQfYXSoQJdoTrKRMDlQMCkhtTbaHx3mCh86eh1NHLPkFQQGDQ33zkO0W44RQac1TFZhD2-kKTk4WZIEWJzYrsGHjGEzSOEvFiZGpQa35Fli1w5rqbjrOdq3QtvpUPRl28X3vv1urOJpV4s-th/s1600/json.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhezv9r6ClrAlk-BAArf2qit1LLkCBtsnc22v9EJEuoGm8ZQfYXSoQJdoTrKRMDlQMCkhtTbaHx3mCh86eh1NHLPkFQQGDQ33zkO0W44RQac1TFZhD2-kKTk4WZIEWJzYrsGHjGEzSOEvFiZGpQa35Fli1w5rqbjrOdq3QtvpUPRl28X3vv1urOJpV4s-th/s1600/json.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered critical remote code execution vulnerabilities impacting major artificial intelligence (AI) inference engines, including those from Meta, Nvidia, Microsoft, and open-source PyTorch projects such as vLLM and SGLang.\n\"These vulnerabilities all traced back to the same root cause: the overlooked unsafe use of ZeroMQ (ZMQ) and Python's pickle deserialization,\"",
+          "link": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
+          "publishedOn": "2025-11-14T15:20:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXUzfhBmTMQepFWxeCqGiCA1jeHDUVl22obOgD7DCd_E-UtUwkmZVN7j1TuQAv0P0yRwKviM36m4hNCyORyL2-NegjDYQ3Qc_RYa1DeWD9Txp3RoZfKHn4lj0ozeqYFqYlgNYhhfEHEB-invbzPGNopYWrAmzNflKp1G1qdvMZPVj_pIaocnxn_QecmU9/s1600/1000033960.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXUzfhBmTMQepFWxeCqGiCA1jeHDUVl22obOgD7DCd_E-UtUwkmZVN7j1TuQAv0P0yRwKviM36m4hNCyORyL2-NegjDYQ3Qc_RYa1DeWD9Txp3RoZfKHn4lj0ozeqYFqYlgNYhhfEHEB-invbzPGNopYWrAmzNflKp1G1qdvMZPVj_pIaocnxn_QecmU9/s1600/1000033960.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Iranian state-sponsored threat actor known as APT42 has been observed targeting individuals and organizations that are of interest to the Islamic Revolutionary Guard Corps (IRGC) as part of a new espionage-focused campaign.\nThe activity, detected in early September 2025 and assessed to be ongoing, has been codenamed SpearSpecter by the Israel National Digital Agency (INDA).\n\"The",
+          "link": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
+          "publishedOn": "2025-11-14T14:40:00.000Z",
+          "wordCount": null,
+          "title": "Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense & Government Targets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZy2HLaE1qe-Ab4Bld4GiRpAYh0uVDVr3zCE1p400nKomsAs0MdvK9oCnNrJALSYPVvJud59Ik0Ax90X12KX93i97AwzbnUHm262vSL-nelhZHwRQR6WIFNd_u43NOt4QR8yOpzgC9wQUabBhtxfz45S210t-Tw-hb6iJWQ7RQNIfupIRQuvWuDBu1GgWs/s1600/iran-hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZy2HLaE1qe-Ab4Bld4GiRpAYh0uVDVr3zCE1p400nKomsAs0MdvK9oCnNrJALSYPVvJud59Ik0Ax90X12KX93i97AwzbnUHm262vSL-nelhZHwRQR6WIFNd_u43NOt4QR8yOpzgC9wQUabBhtxfz45S210t-Tw-hb6iJWQ7RQNIfupIRQuvWuDBu1GgWs/s1600/iran-hackers.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Key Takeaways:\n\n85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date.\n1,590 victims disclosed across 85 leak sites, showing high, sustained activity despite law-enforcement pressure.\n14 new ransomware brands launched this quarter, proving how quickly affiliates reconstitute after takedowns.\nLockBit’s reappearance with",
+          "link": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
+          "publishedOn": "2025-11-14T10:37:00.000Z",
+          "wordCount": null,
+          "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3uOnzefv5B2kTQp_6TWvGzdYVbKeSKfysA_sFwHY_ZwrX14JYItv8p8x1NQwG5wOyRqJT0oaAWfGM0VWHZrsRa0ULtSxxfEAFoMkbd4hFmx7X7K_nWXbF6XaK4PRp2I0Daue7934YaCR1II5aR0H1Ah7kWkW2Izqy4m30VUvtA30a9N1yVuKcSRuGOlk/s1600/main-cover.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3uOnzefv5B2kTQp_6TWvGzdYVbKeSKfysA_sFwHY_ZwrX14JYItv8p8x1NQwG5wOyRqJT0oaAWfGM0VWHZrsRa0ULtSxxfEAFoMkbd4hFmx7X7K_nWXbF6XaK4PRp2I0Daue7934YaCR1II5aR0H1Ah7kWkW2Izqy4m30VUvtA30a9N1yVuKcSRuGOlk/s1600/main-cover.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "State-sponsored threat actors from China used artificial intelligence (AI) technology developed by Anthropic to orchestrate automated cyber attacks as part of a \"highly sophisticated espionage campaign\" in mid-September 2025.\n\"The attackers used AI's 'agentic' capabilities to an unprecedented degree – using AI not just as an advisor, but to execute the cyber attacks themselves,\" the AI upstart",
+          "link": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
+          "publishedOn": "2025-11-14T09:53:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY97QHdgW3A2yfeWB2UxuJM7ifkyjOUt1JChYPaaZbJS5U-bM9KXmk6rhlQ1jzoNZVVBURL6dkmPqi-ysMBfttQo-LLngJy-fQV6bpTQe6o9TcDy2Qsy8GhhUsSQ4ZV7_a6yjc9vcMl7g7EJI1YNNei1lKxzC3jg3UPvyJCYmgCdW9HjyTU7_VubEBAv0X/s1600/ai-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY97QHdgW3A2yfeWB2UxuJM7ifkyjOUt1JChYPaaZbJS5U-bM9KXmk6rhlQ1jzoNZVVBURL6dkmPqi-ysMBfttQo-LLngJy-fQV6bpTQe6o9TcDy2Qsy8GhhUsSQ4ZV7_a6yjc9vcMl7g7EJI1YNNei1lKxzC3jg3UPvyJCYmgCdW9HjyTU7_VubEBAv0X/s1600/ai-hacking.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet Fortiweb WAF that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb product,\" Benjamin Harris,",
+          "link": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
+          "publishedOn": "2025-11-14T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9W9UTKHr6MEohKLcpKi93cht-_Dh-uEOu4ga5ezZqlce29RSPo1X2cnCAUQijihCPVHaENo8Gz4jfDjcxHd3Gqe6_kqOt3Ff3-GikPzHA6pL-y_JFxlmuMxnRJKakGFfkOgBj7jW23nPrOKj0cz4BwGwbPICUA_ezilNl9UREzSuEixqNnukzxx0q0Aks/s1600/Fortinet-FortiWeb.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9W9UTKHr6MEohKLcpKi93cht-_Dh-uEOu4ga5ezZqlce29RSPo1X2cnCAUQijihCPVHaENo8Gz4jfDjcxHd3Gqe6_kqOt3Ff3-GikPzHA6pL-y_JFxlmuMxnRJKakGFfkOgBj7jW23nPrOKj0cz4BwGwbPICUA_ezilNl9UREzSuEixqNnukzxx0q0Aks/s1600/Fortinet-FortiWeb.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year.\nThe activity, per Netcraft security researcher Andrew Brandt, is designed to target customers of the hospitality industry, specifically hotel guests who may have travel reservations with spam emails. The campaign is said to have begun in earnest around",
@@ -20268,150 +20364,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjJxC82aGCds7xQg0mAqxFwkMrJCO3JdIyu5ShCl2QYOrnrJpOdBSnJdlnN1euQiL6blI-sBypwPP-nCcWSrkvxZkNGsH1yb9zE7bgLKXOpwFvit66JlEtekICCBuPxgMY6uYJaWAMyXYmAvvdsrdjoV6qzVdSyPUjzS332wVtMWxg4AaF2DTiYrfmQQM/s1600/cisco.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjJxC82aGCds7xQg0mAqxFwkMrJCO3JdIyu5ShCl2QYOrnrJpOdBSnJdlnN1euQiL6blI-sBypwPP-nCcWSrkvxZkNGsH1yb9zE7bgLKXOpwFvit66JlEtekICCBuPxgMY6uYJaWAMyXYmAvvdsrdjoV6qzVdSyPUjzS332wVtMWxg4AaF2DTiYrfmQQM/s1600/cisco.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenAI has announced the launch of an \"agentic security researcher\" that's powered by its GPT-5 large language model (LLM) and is programmed to emulate a human expert capable of scanning, understanding, and patching code.\nCalled Aardvark, the artificial intelligence (AI) company said the autonomous agent is designed to help developers and security teams flag and fix security vulnerabilities at",
-          "link": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
-          "publishedOn": "2025-10-31T17:19:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qKVY4KhOkzIkeCDV1BiboPN3n7qh-ElZ2YzQyfHE2ctgVFmcv7KPDcx1Chvc3KxNeMuirmxfoFRlOb_YAPkCds2Pw9H0_dOPmrJPFfmGFglSXLIM6Ycu0nesaNh8hfTvfQ7lKTAp-GOCaRJylT-wId8Sb_urjjXxpqVgkrjUZ4VJboCJ7Fhk4yVZpOiS/s1600/flaws.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qKVY4KhOkzIkeCDV1BiboPN3n7qh-ElZ2YzQyfHE2ctgVFmcv7KPDcx1Chvc3KxNeMuirmxfoFRlOb_YAPkCds2Pw9H0_dOPmrJPFfmGFglSXLIM6Ycu0nesaNh8hfTvfQ7lKTAp-GOCaRJylT-wId8Sb_urjjXxpqVgkrjUZ4VJboCJ7Fhk4yVZpOiS/s1600/flaws.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A suspected nation-state threat actor has been linked to the distribution of a new malware called Airstalk as part of a likely supply chain attack.\nPalo Alto Networks Unit 42 said it's tracking the cluster under the moniker CL-STA-1009, where \"CL\" stands for cluster and \"STA\" refers to state-backed motivation.\n\"Airstalk misuses the AirWatch API for mobile device management (MDM), which is now",
-          "link": "https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html",
-          "publishedOn": "2025-10-31T16:08:00.000Z",
-          "wordCount": null,
-          "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKxzaqZgRJLRPcNqwG7WhPAKXXPkKpEOo3KCEyJxJAGr4jvJCJYu7f5_MKXFMBZEAYHyDeNoDbQMuA-f4OOSp74F9iEax0USQCQ0oyFWnJTn4IJc-wiXoxpiFociu-ToO04Wyjq6vry_PsdrCzezc2OvE_SD7esW9tFMPrgG2jpa1KfUoJcMPcVynngGI/s1600/cyberattack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKxzaqZgRJLRPcNqwG7WhPAKXXPkKpEOo3KCEyJxJAGr4jvJCJYu7f5_MKXFMBZEAYHyDeNoDbQMuA-f4OOSp74F9iEax0USQCQ0oyFWnJTn4IJc-wiXoxpiFociu-ToO04Wyjq6vry_PsdrCzezc2OvE_SD7esW9tFMPrgG2jpa1KfUoJcMPcVynngGI/s1600/cyberattack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A China-affiliated threat actor known as UNC6384 has been linked to a fresh set of attacks exploiting an unpatched Windows shortcut vulnerability to target European diplomatic and government entities between September and October 2025.\nThe activity targeted diplomatic organizations in Hungary, Belgium, Italy, and the Netherlands, as well as government agencies in Serbia, Arctic Wolf said in a",
-          "link": "https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html",
-          "publishedOn": "2025-10-31T13:57:00.000Z",
-          "wordCount": null,
-          "title": "China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuCnrmqvnmeQpjFHXNewBANRdjg6GRkj6K7cEMmTmw-qmLNdssAgQ-6Lll7hmLZ4lX7R2mUneq6t0fpl-SOf_UT-WKd7PdL9wmSrhsZngchMDjYc2E8jlWOZimaV9tHQCUBmRrOMCj-K-xOaFkPYPSNtG6RBaLDPG2XgEDNQbSr71r0U2znlvR0iUCXNBn/s1600/shortcut.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuCnrmqvnmeQpjFHXNewBANRdjg6GRkj6K7cEMmTmw-qmLNdssAgQ-6Lll7hmLZ4lX7R2mUneq6t0fpl-SOf_UT-WKd7PdL9wmSrhsZngchMDjYc2E8jlWOZimaV9tHQCUBmRrOMCj-K-xOaFkPYPSNtG6RBaLDPG2XgEDNQbSr71r0U2znlvR0iUCXNBn/s1600/shortcut.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The exploitation of a recently disclosed critical security flaw in Motex Lanscope Endpoint Manager has been attributed to a cyber espionage group known as Tick.\nThe vulnerability, tracked as CVE-2025-61932 (CVSS score: 9.3), allows remote attackers to execute arbitrary commands with SYSTEM privileges on on-premise versions of the program. JPCERT/CC, in an alert issued this month, said that it",
-          "link": "https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html",
-          "publishedOn": "2025-10-31T13:26:00.000Z",
-          "wordCount": null,
-          "title": "China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZykRt-Qg6PRjnYyI3lt6G0Ygf-Pp1Ww03EXTB5nUqaXMBaS1x4f5BxGKAnizBh7wk8gGff5SgLd0j70vJ0-bOdH60rmTctKnWfppbSTWOrdIkTIhga2CReBdSHSeGnPZoIjaZ66GV0hE-6dWnbAIHdM6VukGqhiqPTnrPV5nHpLLNqKE_UKy9xyyw0du7/s1600/warning.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZykRt-Qg6PRjnYyI3lt6G0Ygf-Pp1Ww03EXTB5nUqaXMBaS1x4f5BxGKAnizBh7wk8gGff5SgLd0j70vJ0-bOdH60rmTctKnWfppbSTWOrdIkTIhga2CReBdSHSeGnPZoIjaZ66GV0hE-6dWnbAIHdM6VukGqhiqPTnrPV5nHpLLNqKE_UKy9xyyw0du7/s1600/warning.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "MSPs are facing rising client expectations for strong cybersecurity and compliance outcomes, while threats grow more complex and regulatory demands evolve. Meanwhile, clients are increasingly seeking comprehensive protection without taking on the burden of managing security themselves.\nThis shift represents a major growth opportunity. By delivering advanced cybersecurity and compliance",
-          "link": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
-          "publishedOn": "2025-10-31T11:30:00.000Z",
-          "wordCount": null,
-          "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqekRxhqSIMwXW-91BTf99RLxdfwXB5-1vhEwnAeSX55XbaEU2fhjyDONSC1rnBDBMseaqYwmBpe4nYpyDlg7m9cmg5u-934M1hZSWzihqR7Ll0acZ7jqLUcL6m9S8h-KZPMqLDyC5x3kTr4rZ3q6uUA7Lt4nWYlwr3ddJnK4AofUxhkKVl4PI0CJXoI8/s1600/TurnSecurityIntoGrowth.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqekRxhqSIMwXW-91BTf99RLxdfwXB5-1vhEwnAeSX55XbaEU2fhjyDONSC1rnBDBMseaqYwmBpe4nYpyDlg7m9cmg5u-934M1hZSWzihqR7Ll0acZ7jqLUcL6m9S8h-KZPMqLDyC5x3kTr4rZ3q6uUA7Lt4nWYlwr3ddJnK4AofUxhkKVl4PI0CJXoI8/s1600/TurnSecurityIntoGrowth.png"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and National Security Agency (NSA), along with international partners from Australia and Canada, have released guidance to harden on-premise Microsoft Exchange Server instances from potential exploitation.\n\"By restricting administrative access, implementing multi-factor authentication, enforcing strict transport security",
-          "link": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
-          "publishedOn": "2025-10-31T08:46:00.000Z",
-          "wordCount": null,
-          "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA0I1Jx6uIEdkIQQM9RnxL2Ki39vb2gH7eog9Bm7oLXHB3Ia60PLtDJsEuqlPrOsZLL9UJZ3YnnlRxxQv0zGB_pNQcpQvDlxnFR1c6_iN-NzNkRMt3sW38md0OI8cJDfVQ5wp6rvZD32HiKk_NuHiFdTbo0mQRf8BfoNVFmp283z-01nb_Z7oGhyqSdE4P/s1600/ms.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA0I1Jx6uIEdkIQQM9RnxL2Ki39vb2gH7eog9Bm7oLXHB3Ia60PLtDJsEuqlPrOsZLL9UJZ3YnnlRxxQv0zGB_pNQcpQvDlxnFR1c6_iN-NzNkRMt3sW38md0OI8cJDfVQ5wp6rvZD32HiKk_NuHiFdTbo0mQRf8BfoNVFmp283z-01nb_Z7oGhyqSdE4P/s1600/ms.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Eclipse Foundation, which maintains the open-source Open VSX project, said it has taken steps to revoke a small number of tokens that were leaked within Visual Studio Code (VS Code) extensions published in the marketplace.\nThe action comes following a report from cloud security company Wiz earlier this month, which found several extensions from both Microsoft's VS Code Marketplace and Open VSX",
-          "link": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
-          "publishedOn": "2025-10-31T08:02:00.000Z",
-          "wordCount": null,
-          "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmAGBrh3pirqFHrsdc4kBfinnWBWhRLbAAwa39k5lyd-X941olCKyizc7VGdYORWLq6aBGn3l6f4zMwwUApVP3pfEk_dzr31Kh1eiBZjzzoqik3-9UrwJmD8eWbjd8OY7clyxw1qqOHcBCarQxd-7hvKhhiLjl6fRbBUl-UV4Dvs5KAWLbHwTNkYxAfIBC/s1600/open.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmAGBrh3pirqFHrsdc4kBfinnWBWhRLbAAwa39k5lyd-X941olCKyizc7VGdYORWLq6aBGn3l6f4zMwwUApVP3pfEk_dzr31Kh1eiBZjzzoqik3-9UrwJmD8eWbjd8OY7clyxw1qqOHcBCarQxd-7hvKhhiLjl6fRbBUl-UV4Dvs5KAWLbHwTNkYxAfIBC/s1600/open.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Broadcom VMware Tools and VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-41244 (CVSS score: 7.8), which could be exploited by an attacker to attain",
-          "link": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
-          "publishedOn": "2025-10-31T07:09:00.000Z",
-          "wordCount": null,
-          "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9b0-qhv23XfDSOcojqy0VRkWHB99nq_dbwTnEfuC2Osi_-aKm2iRqK7rip6h8Gh4C4hP6ySCTTm_OoKVpLRIzNJBPcsoQlVjry-zfmX71nhF4-84Gd4D7XCPhPN8v6CkBo6PJUh5zv-hLSjXQNFi0dW5yS7Dbk03PSNEVCn8nEUGvO6NvV7cDmoYHfaF/s1600/vmware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9b0-qhv23XfDSOcojqy0VRkWHB99nq_dbwTnEfuC2Osi_-aKm2iRqK7rip6h8Gh4C4hP6ySCTTm_OoKVpLRIzNJBPcsoQlVjry-zfmX71nhF4-84Gd4D7XCPhPN8v6CkBo6PJUh5zv-hLSjXQNFi0dW5yS7Dbk03PSNEVCn8nEUGvO6NvV7cDmoYHfaF/s1600/vmware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A design firm is editing a new campaign video on a MacBook Pro. The creative director opens a collaboration app that quietly requests microphone and camera permissions. MacOS is supposed to flag that, but in this case, the checks are loose. The app gets access anyway.\nOn another Mac in the same office, file sharing is enabled through an old protocol called SMB version one. It’s fast and",
-          "link": "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html",
-          "publishedOn": "2025-10-31T03:37:00.000Z",
-          "wordCount": null,
-          "title": "A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHpAYTsxkWCgKoj_4IbW-z4a9m9r8KWH6oc0a5N7B68vil9GiBeKNPIHE3HcJY3_VZOqcGA1tLpTkDvB2sMsNMazRRyBT0bxqAQHoojAyY5btgMibphXUZ8GGhfyuzUuvSHuDQpaEpIKNsCGvjbm6yC8E8GDex9TjHtLNLF0jLBLQlL0iXPmF5nUf7W6k/s1600/threatlocker.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHpAYTsxkWCgKoj_4IbW-z4a9m9r8KWH6oc0a5N7B68vil9GiBeKNPIHE3HcJY3_VZOqcGA1tLpTkDvB2sMsNMazRRyBT0bxqAQHoojAyY5btgMibphXUZ8GGhfyuzUuvSHuDQpaEpIKNsCGvjbm6yC8E8GDex9TjHtLNLF0jLBLQlL0iXPmF5nUf7W6k/s1600/threatlocker.jpg"
         }
       ]
     },
@@ -20420,6 +20372,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=373493",
+          "author": "Heirul Kamel",
+          "description": "U Mobile has secured RM4.3 billion in syndicated financing to fund its ongoing 5G expansion in Malaysia, marking one of the largest ringgit-denominated syndicated loans ever raised by an unlisted company. CIMB Investment Bank acted as the sole loan coordinator and joint mandated lead arranger, with CIMB Bank and CIMB Islamic Bank as financiers. Maybank […]\nThe post U Mobile Secures RM4.3 Billion To Accelerate Nationwide Next Gen 5G Rollout appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373493/u-mobile-secures-rm4-3-billion-to-accelerate-nationwide-next-gen-5g-rollout/",
+          "publishedOn": "2025-11-15T07:29:10.000Z",
+          "wordCount": 10420,
+          "title": "U Mobile Secures RM4.3 Billion To Accelerate Nationwide Next Gen 5G Rollout",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/U-Mobile-secures-rm4-3-billion-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=373485",
+          "author": "John Law",
+          "description": "Besides the Predator lineup the brand was bringing into Malaysia yesterday, Acer also announced the availability of its Connect M6E 5G Mobile Wi-Fi, its portable mobile hotspot device. We first saw the M6E earlier this year during IFA 2025. Acer says that its portable 5G Mobile Wi-Fi is capable of delivering up to 28 hours […]\nThe post You Can Get Acer’s Connect M6E 5G Mobile Wi-Fi For RM999 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373485/acer-connect-m6e-5g-mobile-wifi/",
+          "publishedOn": "2025-11-15T06:54:41.000Z",
+          "wordCount": 10155,
+          "title": "You Can Get Acer’s Connect M6E 5G Mobile Wi-Fi For RM999",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Acer-Connect-M6E-5G-Mobile-Wi-Fi-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=373385",
+          "author": "Nurul Kamil",
+          "description": "About a year ago, Rockstar Games released the PC port for Red Dead Redemption. Now, the company has announced that it will be bringing the game to mobile devices. Starting from 2 December 2025, both the game and its Undead Nightmare DLC will be available for compatible iOS and Android devices. The mobile versions of […]\nThe post Red Dead Redemption Coming To iOS And Android 2 December; Free On Netflix appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373385/red-dead-redemption-ios-android-netflix/",
+          "publishedOn": "2025-11-15T01:00:26.000Z",
+          "wordCount": 10119,
+          "title": "Red Dead Redemption Coming To iOS And Android 2 December; Free On Netflix",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/red-dead-redemption-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=373480",
+          "author": "John Law",
+          "description": "Adata officially announced that it has created the world’s first ultra-high-capacity CUDIMM DDR5 memory module, in cooperation with PC brand MSI. The new memory module uses a 4-rank architecture and can hold a whopping 128GB of memory on a single stick, and still maintain stable operability. Adata claims that its 4-Rank CUDIMM DDR5 memory was […]\nThe post Adata And MSI Launches “World’s First” 4-Rank CUDIMM DDR5 Memory appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373480/adata-msi-4-rank-cudimm-ddr5/",
+          "publishedOn": "2025-11-14T11:44:36.000Z",
+          "wordCount": 10031,
+          "title": "Adata And MSI Launches “World’s First” 4-Rank CUDIMM DDR5 Memory",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/XPG-Lancer-Neon-RGB-DDR5-6400-3-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=373459",
+          "author": "John Law",
+          "description": "Valve surprised us with the announcement of not one, but three new products in the form of the Steam Frame, Steam Machine, and its second generation Steam Controller. Naturally, the question of “But why no Steam Deck 2?” came up, and according to the company, it’s still waiting for better, more significant and powerful hardware […]\nThe post Valve Is Waiting For More Powerful Hardware Before It Makes The Steam Deck 2 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373459/valve-steam-deck-2-more-powerful-hardware/",
+          "publishedOn": "2025-11-14T11:28:23.000Z",
+          "wordCount": 10512,
+          "title": "Valve Is Waiting For More Powerful Hardware Before It Makes The Steam Deck 2",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/08/Steam-Deck-2023-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=373475",
+          "author": "Heirul Kamel",
+          "description": "Communications Minister Datuk Fahmi Fadzil has directed the Malaysian Communications and Multimedia Commission (MCMC) to investigate claims that several local telcos are imposing a RM10 surcharge for scam-protection services. He said the commission will identify the companies involved and ask them to clarify why they are charging such a fee. Speaking at his post-Cabinet press […]\nThe post MCMC To Probe Telcos For Charging Anti-Scam Services appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373475/mcmc-to-probe-telcos-for-charging-anti-scam-services/",
+          "publishedOn": "2025-11-14T11:27:01.000Z",
+          "wordCount": 10279,
+          "title": "MCMC To Probe Telcos For Charging Anti-Scam Services",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/06/maxis-celcomdigi-u-mobile-yes-ytl-telco-5g.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=373387",
+          "author": "John Law",
+          "description": "Earlier today, during the Acer Predator League Local Qualifiers, the brand unveiled several of its latest Predator products that are being brought into Malaysia. The list includes the Triton 14 AI, Orion 3000, and a refreshed XB3 gaming monitor. Starting with the Predator Triton 14 AI, the laptop was announced earlier this year and has […]\nThe post Acer Brings New Predator Products Into Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373387/acer-predator-products-malaysia/",
+          "publishedOn": "2025-11-14T10:43:56.000Z",
+          "wordCount": 10940,
+          "title": "Acer Brings New Predator Products Into Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Acer-Predator-Local-League-2025-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=373431",
+          "author": "Heirul Kamel",
+          "description": "The Ministry of Works (KKR) has officially announced that the MYJalan 1.0 road complaint application has been fully discontinued. This shutdown follows the official transition to MYJalan2.0, which is now live starting today on 14 November 2025. According to KKR, MYJalan2.0 introduces a refreshed interface and several smart, user-friendly upgrades designed to make reporting road […]\nThe post MYJalan2.0 Officially Launches With New Features, Improved Reporting Tools appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373431/myjalan2-0-officially-launches-with-new-features-improved-reporting-tools/",
+          "publishedOn": "2025-11-14T10:31:55.000Z",
+          "wordCount": 10144,
+          "title": "MYJalan2.0 Officially Launches With New Features, Improved Reporting Tools",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/KKR-launches-MyJalan2-0-app_02.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=373404",
+          "author": "Keran",
+          "description": "Smart Malaysia has launched the fully-electric #5, which comes in two variants: Premium and Brabus. The mid-size SUV was first previewed at the Malaysia Auto Show (MAS 2025) and comes with a starting price of RM199,800. Design-wise, the EV SUV adopts a boxy profile with clean lines around the body. It features an oblong-themed aesthetic, […]\nThe post Smart Malaysia Launches Fully-Electric #5 SUV; Starting Price RM199,800 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373404/smart-malaysia-launches-hashtag-5-ev/",
+          "publishedOn": "2025-11-14T09:38:15.000Z",
+          "wordCount": 11389,
+          "title": "Smart Malaysia Launches Fully-Electric #5 SUV; Starting Price RM199,800",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/photo_2025-11-14_16-04-07.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=373393",
+          "author": "Heirul Kamel",
+          "description": "Alongside the local debut of the X300 Series yesterday, vivo also announced that its Vision MR Headset will be available for demonstration in Malaysia. According to the brand, those interested can book their sessions from now until 28 February 2026, which will be offered through vivo Experience Stores in Pavilion Kuala Lumpur, Mid Valley Mega […]\nThe post vivo’s Vision MR Headset Now Available For Demonstration In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/373393/vivos-vision-mr-headset-now-available-for-demonstration-in-malaysia/",
+          "publishedOn": "2025-11-14T08:48:28.000Z",
+          "wordCount": 10276,
+          "title": "vivo’s Vision MR Headset Now Available For Demonstration In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/vivo-vision-preview-malaysia-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=373338",
           "author": "Keran",
@@ -21799,196 +21851,6 @@
           "wordCount": 9974,
           "title": "WhatsApp Starts Testing Companion App For Apple Watch",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/whatsapp-apple-watch-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371842",
-          "author": "Heirul Kamel",
-          "description": "The US government is reportedly considering a sweeping ban on TP-Link routers amid growing national security concerns surrounding the Chinese-origin networking brand. According to The Washington Post, several federal agencies including the Departments of Homeland Security, Justice, and Defense have been backing a potential move by the Commerce Department to restrict the brand’s products from […]\nThe post US Officials Reportedly Weighing TP-Link Router Ban Over National Security Concerns appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371842/us-officials-reportedly-weighing-tp-link-router-ban/",
-          "publishedOn": "2025-10-31T10:34:27.000Z",
-          "wordCount": 10125,
-          "title": "US Officials Reportedly Weighing TP-Link Router Ban Over National Security Concerns",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/01/tp-link-wi-fi-6e-router.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371834",
-          "author": "Nurul Kamil",
-          "description": "Samsung Electronics is collaborating with NVIDIA to build what the Korean tech giant is calling an “AI Megafactory”. If the name doesn’t already make it obvious, this facility will focus on AI-driven production. Powered by more than 50,000 NVIDIA GPUs, this AI Factory will integrate every element of semiconductor manufacturing into a single network. This […]\nThe post Samsung To Build “AI Megafactory” With More Than 50,000 NVIDIA GPUs appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371834/samsung-nvidia-ai-megafactory/",
-          "publishedOn": "2025-10-31T10:16:08.000Z",
-          "wordCount": 10009,
-          "title": "Samsung To Build “AI Megafactory” With More Than 50,000 NVIDIA GPUs",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/samsung-nvidia-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371824",
-          "author": "Ian Chee",
-          "description": "Google Doodles come in a variety of forms, celebrating all sorts of things and occasions. The internet search giant has one for Halloween as well, which comes in the form of Pac-Man with a spooky twist. Naturally, this is done in partnership with Bandai Namco, which owns the rights to the pellet-eating arcade classic. Gameplay […]\nThe post Pac-Man Gets Halloween-Themed Skin As Google Doodle appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371824/pac-man-halloween-google-doodle/",
-          "publishedOn": "2025-10-31T09:48:26.000Z",
-          "wordCount": 9985,
-          "title": "Pac-Man Gets Halloween-Themed Skin As Google Doodle",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Google-Doodle-Halloween-2025-Pac-Man-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371829",
-          "author": "Kiran Ganesan",
-          "description": "It goes without saying that Prime Minister Datuk Seri Anwar Ibrahim has taken great strides to grow Malaysia’s AI infrastructure. Which is why he met up with NVIDIA president and CEO Jensen Huang to discuss AI development in the country on the side during the APEC Economic Leaders’ Meeting (AELM). Huang convened with Anwar alongside […]\nThe post Anwar Meets NVIDIA CEO To Discuss Malaysia’s AI Development appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371829/anwar-malaysia-ai-plans-nvidia-ceo/",
-          "publishedOn": "2025-10-31T09:47:16.000Z",
-          "wordCount": 10734,
-          "title": "Anwar Meets NVIDIA CEO To Discuss Malaysia’s AI Development",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Anwar-Ibrahim-Jensen-Huang-NVIDIA1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371815",
-          "author": "Keran",
-          "description": "It has become a trend for brands to change or modify their logos from time to time, especially with the intention of keeping up with current trends. Recently, Mazda has joined the bandwagon by announcing a new version of its brand symbol. Mazda says its new brand symbol inherits the spirit of the emblem introduced […]\nThe post Mazda Unveils Refreshed Logo And Wordmark appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371815/mazda-unveils-refreshed-logo-and-wordmark/",
-          "publishedOn": "2025-10-31T09:28:49.000Z",
-          "wordCount": 9992,
-          "title": "Mazda Unveils Refreshed Logo And Wordmark",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Mazda-New-Logo.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371800",
-          "author": "Keran",
-          "description": "BYD has officially unveiled its first electric kei car, known as the Racco, at the ongoing Japan Mobility Show. As you may recall, leaks surrounding this model surfaced ahead of its debut, though not much is not known about it apart from its design. But one thing’s for certain, it is the first kei car […]\nThe post BYD Officially Unveils The Racco; Its First Electric Kei Car appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371800/byd-unveils-racco-electric-kei-car/",
-          "publishedOn": "2025-10-31T08:16:57.000Z",
-          "wordCount": 10274,
-          "title": "BYD Officially Unveils The Racco; Its First Electric Kei Car",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/BYD-Racco5.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371753",
-          "author": "Ian Chee",
-          "description": "Since the KLIA Aerotrain resumed operations on 1 July, it had hit an unfortunate number of snags. With over 20 reported incidents, Transport Minister Anthony Loke has said that the number of disruptions the service has faced is unacceptable. And with that, the Malaysia Airports Holding Bhd (MAHB) will be held accountable for disruptions caused […]\nThe post Loke: KLIA Aerotrain Service Disruption Frequency Unacceptable appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371753/loke-klia-aerotrain-disruption-frequency-unacceptable/",
-          "publishedOn": "2025-10-31T05:37:37.000Z",
-          "wordCount": 10016,
-          "title": "Loke: KLIA Aerotrain Service Disruption Frequency Unacceptable",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/KLIA-Aerotrain-service-to-resume-1-july-2025-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371782",
-          "author": "Kiran Ganesan",
-          "description": "Rode officially announces its newest range of wireless microphones, creatively called the Wireless Micro Camera Kit. As per the official announcement, the new Camera Kit is said to offer “the same celebrated pristine audio quality, simplicity, and portability”, making it accessible to a broader set of content creators.” The kit features a pair of transmitters […]\nThe post Rode Launches Wireless Micro Camera Kit; Priced At US$149 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371782/rode-launches-wireless-micro-camera-kit-priced-at-us149/",
-          "publishedOn": "2025-10-31T04:52:25.000Z",
-          "wordCount": 10469,
-          "title": "Rode Launches Wireless Micro Camera Kit; Priced At US$149",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/rode-wireless-micro-amazon-on-black-1-8192x4608-rgb-1245x700-e28ba08.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371759",
-          "author": "Nurul Kamil",
-          "description": "Malaysia Airlines has announced that it will be rolling out some updates to its Enrich travel and lifestyle loyalty programme. Starting from 1 January 2026, members will see changes to how they earn Enrich Points and Elite Points. Aside from that, the airline will be raising the requirements for Elite Status. Starting with the revised […]\nThe post Malaysia Airlines To Update Enrich Programme For 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371759/malaysia-airlines-enrich-programme-2026/",
-          "publishedOn": "2025-10-31T04:46:04.000Z",
-          "wordCount": 10246,
-          "title": "Malaysia Airlines To Update Enrich Programme For 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/malaysia-airlines-enrich-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371761",
-          "author": "Keran",
-          "description": "Honda unveiled a new prototype model of its 0 Series EV known as the 0 α (Alpha). This futuristic EV SUV was revealed at the ongoing Japan Mobility Show 2025, and it is the third model introduced by the automaker in the line-up, alongside the Honda 0 Saloon and Honda 0 SUV, which were unveiled […]\nThe post Honda Unveils 0 Alpha EV SUV At Japan Mobility Show 2025 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371761/honda-unveils-0-alpha-ev-suv-at-japan-mobility-show-2025/",
-          "publishedOn": "2025-10-31T04:16:45.000Z",
-          "wordCount": 10311,
-          "title": "Honda Unveils 0 Alpha EV SUV At Japan Mobility Show 2025",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Honda-Alpha-EV1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371755",
-          "author": "Heirul Kamel",
-          "description": "Casio has confirmed that its limited-edition Back to the Future calculator watch will officially launch in Malaysia on 6 November 2025. The timepiece, officially known as the CA-500WEBF-1A, is introduced in conjunction with the 40th anniversary of the classic 1985 film. To recap our initial report, the watch is based on the vintage CA-500 calculator […]\nThe post Casio Back To The Future Limited Edition Calculator Watch Priced At RM609 In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371755/casio-back-to-the-future-calculator-watch-malaysia/",
-          "publishedOn": "2025-10-31T03:35:43.000Z",
-          "wordCount": 10116,
-          "title": "Casio Back To The Future Limited Edition Calculator Watch Priced At RM609 In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/casio-back-to-the-future-calculator-watch_08.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371737",
-          "author": "Ian Chee",
-          "description": "With each passing day, Apple Intelligence looks to be more like an amalgamation of other AIs than its own thing. It started off with the integration of ChatGPT, with hints of Google Gemini being bundled in discovered awhile after. And it’s not ending there, according to company lead Tim Cook. The Apple CEO tells CNBC […]\nThe post Apple To Integrate More AIs Into Apple Intelligence appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371737/apple-integrate-more-ais-into-apple-intelligence/",
-          "publishedOn": "2025-10-31T03:21:30.000Z",
-          "wordCount": 9959,
-          "title": "Apple To Integrate More AIs Into Apple Intelligence",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/06/apple_Apple-reportedly-in-talks-with-Meta-AI-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371734",
-          "author": "Kiran Ganesan",
-          "description": "Paramount officially confirms that Taylor Sheridan and Peter Berg will co-write the script for the live-action adaptation of the military shooter Call of Duty. Additionally, Berg, who is known for his work in Battleship, Lone Survivor, and Hancock, is also set to direct the film. As per the official press release, the film is meant […]\nThe post Paramount Announces Writer, Director For Call Of Duty Movie appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371734/paramount-announces-writer-director-call-of-duty-movie/",
-          "publishedOn": "2025-10-31T02:51:04.000Z",
-          "wordCount": 10141,
-          "title": "Paramount Announces Writer, Director For Call Of Duty Movie",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/06/Call-of-Duty-Modern-Warfare-II-screenshot-3.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371731",
-          "author": "Nurul Kamil",
-          "description": "DJI has unveiled the DJI Neo 2 as the follow-up to the DJI Neo. The compact drone is a bit bulkier than its predecessor, weighing in at 151g. Despite the increase in mass, the palm-sized device offers the same functionality as the previous generation, while also introducing some new features. One of the notable upgrades […]\nThe post DJI Neo 2 Goes Official With Obstacle Detection, Gesture Controls appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371731/dji-neo-2/",
-          "publishedOn": "2025-10-31T02:48:00.000Z",
-          "wordCount": 10482,
-          "title": "DJI Neo 2 Goes Official With Obstacle Detection, Gesture Controls",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/dji-neo-2-5.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371722",
-          "author": "John Law",
-          "description": "Nintendo has, in a very rare moment, seen one of its patent claims against the developers of Palworld, Pocketpair, get rejected by Japan’s Patent Office. This marks one of the first setbacks for the world’s most litigious gaming brand, and one revolving its Pokemon IP. According to GamesFray, the rejection stems from Nintendo’s failure to […]\nThe post Nintendo Patent Claim Gets Rejected By Japan’s Patent Office appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371722/nintendo-patent-claim-rejected/",
-          "publishedOn": "2025-10-31T01:48:42.000Z",
-          "wordCount": 10061,
-          "title": "Nintendo Patent Claim Gets Rejected By Japan’s Patent Office",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/Nintendo-file-photo-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371725",
-          "author": "Heirul Kamel",
-          "description": "Malaysia’s aviation landscape is set to expand with the arrival of Ascend Airways Malaysia, which has officially secured its Air Operator Certificate (AOC) and Air Service Permit (ASP) from the Civil Aviation Authority of Malaysia (CAAM). With these approvals in hand, the Kuala Lumpur-based airline is preparing to begin operations this November, starting with freight […]\nThe post Ascend Airways Malaysia Takes Off As The Country’s Newest Airline appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371725/ascend-airways-malaysia-takes-off-as-the-countrys-newest-airline/",
-          "publishedOn": "2025-10-31T01:45:48.000Z",
-          "wordCount": 10311,
-          "title": "Ascend Airways Malaysia Takes Off As The Country’s Newest Airline",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/ascend-airways-malaysia-to-start-operations-in-november-2025-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371714",
-          "author": "John Law",
-          "description": "Google announced that it will be reviving a nuclear power plant in the US state of Iowa. The power plant is said to have been idle for the past five years. Google will be partnering with US company NextEra Energy to bring the nuclear power plant back to life, which will then be used to […]\nThe post Google Set To Restart Nuclear Power Plant In US State Of Iowa appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371714/google-nuclear-power-plant-iowa/",
-          "publishedOn": "2025-10-31T01:10:00.000Z",
-          "wordCount": 10088,
-          "title": "Google Set To Restart Nuclear Power Plant In US State Of Iowa",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/nuclear-power-plant-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371716",
-          "author": "Heirul Kamel",
-          "description": "WhatsApp is introducing a new way to secure your chat history with the rollout of passkey-encrypted backups. This adds an extra layer of protection for users who rely on the platform to store years of conversations, photos, and voice notes. The new feature lets users encrypt their chat backups using biometric authentication methods such as […]\nThe post WhatsApp Rolls Out Passkey Encryption For Chat Backups appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371716/whatsapp-rolls-out-passkey-encryption-for-chat-backups/",
-          "publishedOn": "2025-10-31T01:03:04.000Z",
-          "wordCount": 10005,
-          "title": "WhatsApp Rolls Out Passkey Encryption For Chat Backups",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/whatsapp-passkey-encryoted-backups-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=371710",
-          "author": "John Law",
-          "description": "US President Trump and Chinese President Xi Jinping have agreed to put a pause on their tariff wars, for a period of one year. The pause was instated during the meeting between the two leaders at the South Korean city of Busan. Among the topics discussed by Trump and Xi were China’s current stranglehold on […]\nThe post US And China Agree To Pause Tariffs For One Year appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/371710/us-china-one-year-pause-tariffs/",
-          "publishedOn": "2025-10-31T00:50:37.000Z",
-          "wordCount": 10290,
-          "title": "US And China Agree To Pause Tariffs For One Year",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Trump-Xi-Busan-Meeting-Oct-2025-1.jpg"
         }
       ]
     },
@@ -21997,6 +21859,76 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "The Akira ransomware group has been experimenting with new tools, bugs, and attack surfaces, with demonstrated success in significant sectors.",
+          "link": "https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs",
+          "publishedOn": "2025-11-14T21:42:54.000Z",
+          "wordCount": null,
+          "title": "Akira RaaS Targets Nutanix VMs, Threatens Critical Orgs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/new-security-tools-target-growing-macos-threats",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "A public dataset and platform-agnostic analysis tool aim to help organizations in the fight against Apple-targeted malware, which researchers say has lacked proper attention.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/new-security-tools-target-growing-macos-threats",
+          "publishedOn": "2025-11-14T20:53:37.000Z",
+          "wordCount": null,
+          "title": "New Security Tools Target Growing macOS Threats",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/hardened-containers-eliminate-common-source-vulnerabilities",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "A kitchen-sink approach to building containers has loaded many with vulnerabilities. A handful of companies are trying to slim them down.",
+          "link": "https://www.darkreading.com/application-security/hardened-containers-eliminate-common-source-vulnerabilities",
+          "publishedOn": "2025-11-14T20:21:52.000Z",
+          "wordCount": null,
+          "title": "Hardened Containers Look to Eliminate Common Source of Vulnerabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/150000-packages-flood-npm-registry-token-farming",
+          "author": "Rob Wright",
+          "description": "A self-replicating attack led to a tidal wave of malicious packages in the NPM registry, targeting tokens for the tea.xyz protocol.",
+          "link": "https://www.darkreading.com/application-security/150000-packages-flood-npm-registry-token-farming",
+          "publishedOn": "2025-11-14T20:17:24.000Z",
+          "wordCount": null,
+          "title": "150,000 Packages Flood NPM Registry in Token Farming Campaign",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-careers/shadow-program-gives-aws-exec-new-security-lens",
+          "author": "Arielle Waldman",
+          "description": "Amazon Web Services VP Sara Duffer highlights the top lessons she brought back to her security role after taking part in Amazon's shadow program.",
+          "link": "https://www.darkreading.com/cybersecurity-careers/shadow-program-gives-aws-exec-new-security-lens",
+          "publishedOn": "2025-11-14T17:09:17.000Z",
+          "wordCount": null,
+          "title": "Learning Sales Skills Can Make Security Professionals More Effective",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/identity-access-management-security/identity-governance-administration-app-proliferation-app-integration-chasm",
+          "author": "Todd Thiemann",
+          "description": "Most enterprises use more than 1,000 apps, according to ESG research, yet about half are integrated with IGA. Industry innovations enable teams to expand app coverage and get more IGA value.",
+          "link": "https://www.darkreading.com/identity-access-management-security/identity-governance-administration-app-proliferation-app-integration-chasm",
+          "publishedOn": "2025-11-14T16:58:34.000Z",
+          "wordCount": null,
+          "title": "Identity Governance and Administration, App Proliferation, and the App Integration Chasm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/how-cisos-can-best-work-with-ceos-and-the-board-lessons-from-the-field",
+          "author": "George V. Hulme, Contributing Writer",
+          "description": "To build an effective relationship with the CEO and board, CISOs must translate technical risks into business terms and position cybersecurity as a strategic business enabler rather than just a business function.",
+          "link": "https://www.darkreading.com/cyber-risk/how-cisos-can-best-work-with-ceos-and-the-board-lessons-from-the-field",
+          "publishedOn": "2025-11-13T23:40:55.000Z",
+          "wordCount": null,
+          "title": "How CISOs Can Best Work With CEOs and the Board: Lessons From the Field",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/identity-access-management-security/sso-passkeys-password-bad-habits",
           "author": "Nate Nelson, Contributing Writer",
@@ -22405,76 +22337,6 @@
           "publishedOn": "2025-11-03T10:59:03.000Z",
           "wordCount": null,
           "title": "‘TruffleNet’ Attack Wields Stolen Credentials Against AWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows",
-          "author": "Kristina Beek",
-          "description": "The spear-phishing campaign uses fake European Commission and NATO-themed lures to trick diplomatic personnel into clicking malicious links.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows",
-          "publishedOn": "2025-10-31T20:07:58.000Z",
-          "wordCount": null,
-          "title": "UNC6384 Targets European Diplomatic Entities With Windows Exploit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack",
-          "author": "Rob Wright",
-          "description": "The US telecom company disclosed that suspected nation-state actors first gained access to its network in December of last year, though it's unclear if attackers obtained sensitive data.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack",
-          "publishedOn": "2025-10-31T19:47:26.000Z",
-          "wordCount": null,
-          "title": "Ribbon Communications Breach Marks Latest Telecom Attack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/government-approach-to-disrupt-cyber-scams-is-fragmented-",
-          "author": "Arielle Waldman",
-          "description": "Users contend with cybersecurity scams throughout their day; a new Cyber Civic Engagement program wants to provide them with the skills to fight back.",
-          "link": "https://www.darkreading.com/cyber-risk/government-approach-to-disrupt-cyber-scams-is-fragmented-",
-          "publishedOn": "2025-10-31T15:34:57.000Z",
-          "wordCount": null,
-          "title": "Government Approach to Disrupt Cyber Scams is 'Fragmented'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism",
-          "author": "Dark Reading Staff",
-          "description": "Dark Reading Confidential Episode 11: Enterprise cyber teams are in prime position to push back against our current \"Golden Age of Surveillance,\" according to our guests Ronald Deibert from Citizen Lab and David Greene from the EFF.",
-          "link": "https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism",
-          "publishedOn": "2025-10-31T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Cyber's Role in the Rapid Rise of Digital Authoritarianism",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "Companies left them for dead, but the remnants of old infrastructure and failed projects continue to haunt businesses' security teams.",
-          "link": "https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security",
-          "publishedOn": "2025-10-30T23:36:51.000Z",
-          "wordCount": null,
-          "title": "Zombie Projects Rise Again to Undermine Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open",
-          "author": "Joan Goodchild",
-          "description": "Researcher Gjoko Krstic’s \"Project Brainfog\" exposed hundreds of zero-day vulnerabilities in building-automation systems still running hospitals, schools, and offices worldwide.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open",
-          "publishedOn": "2025-10-30T21:37:43.000Z",
-          "wordCount": null,
-          "title": "An 18-Year-Old Codebase Left Smart Buildings Wide Open",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "The agreement aims to help law enforcement prosecute cross-border cybercrime, but the final treaty could allow unchecked surveillance and human-rights abuses, critics say; and, it includes no protection for pen-testers.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty",
-          "publishedOn": "2025-10-30T20:51:33.000Z",
-          "wordCount": null,
-          "title": "US Stands Out in Refusal to Sign UN Cybercrime Treaty",
           "imageUrl": null
         }
       ]
