@@ -19294,6 +19294,102 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.\n\"This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,\" Blackfog researcher Brenda Robb said in a Thursday report.\nIn",
+          "link": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
+          "publishedOn": "2025-11-22T06:47:00.000Z",
+          "wordCount": null,
+          "title": "Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zV9hPvOUBQV7bQvL21L0QPcaCbKUW3y1D4puHbsR7Ig3KTf_8W7V52Gs4drcN6P7Ss49eYUSYcC13N10xBKUzA8Pr1cmBpzbUbO5t31wLs9b-Vk1XAxdO5BWz9RxGUsFrSlTPKMKefHVtCI6zkkv-y85B7bPdPQBQkxq78PcrUQQjrfXNLRIsnBwFUeD/s1600/mat-c2.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zV9hPvOUBQV7bQvL21L0QPcaCbKUW3y1D4puHbsR7Ig3KTf_8W7V52Gs4drcN6P7Ss49eYUSYcC13N10xBKUzA8Pr1cmBpzbUbO5t31wLs9b-Vk1XAxdO5BWz9RxGUsFrSlTPKMKefHVtCI6zkkv-y85B7bPdPQBQkxq78PcrUQQjrfXNLRIsnBwFUeD/s1600/mat-c2.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated",
+          "link": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
+          "publishedOn": "2025-11-22T06:45:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXwWMS8EhgUJUcX0Z5k9X0VxrwBazuqCRLmma6R5vf1LTby5HJtMpB6eWFTwwh3klO-Hv0fTmp9cCoupTckKOzv_4giyXIgamc63-ILAbZOMsQI3Y7AkO0A4iyScHGdZJl0AYl95YhxB2cYRbVxQDwMvx6qvAga0X95gUyRuFTOdUVtmOjZuGrr9F7ggNJ/s1600/oracle-cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXwWMS8EhgUJUcX0Z5k9X0VxrwBazuqCRLmma6R5vf1LTby5HJtMpB6eWFTwwh3klO-Hv0fTmp9cCoupTckKOzv_4giyXIgamc63-ILAbZOMsQI3Y7AkO0A4iyScHGdZJl0AYl95YhxB2cYRbVxQDwMvx6qvAga0X95gUyRuFTOdUVtmOjZuGrr9F7ggNJ/s1600/oracle-cyberattack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First",
+          "link": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+          "publishedOn": "2025-11-21T15:40:00.000Z",
+          "wordCount": null,
+          "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSd96MdjXbbJYSzwIs4CNhCrhOSN5Avm0c3kgMEQVlWBzUPXLbXKs_Kyjk_LhSeKQLjJRbzxyl7SCv62tvd2GEHySWOO__C_f5h2u-5md5Nycx87_WmNUx0CSZ7FCNVEI8LEavtyCoV7cHBFDbdNDaGMrX65oRX0pR17RJcKGIA8PofZ5YhsMrhQV1xpAt/s1600/grafana.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSd96MdjXbbJYSzwIs4CNhCrhOSN5Avm0c3kgMEQVlWBzUPXLbXKs_Kyjk_LhSeKQLjJRbzxyl7SCv62tvd2GEHySWOO__C_f5h2u-5md5Nycx87_WmNUx0CSZ7FCNVEI8LEavtyCoV7cHBFDbdNDaGMrX65oRX0pR17RJcKGIA8PofZ5YhsMrhQV1xpAt/s1600/grafana.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple's equipment AirDrop, allowing users to more easily share files and photos between Android and iPhone devices.\nThe cross-platform sharing feature is currently limited to the Pixel 10 lineup and works with iPhone, iPad, and macOS devices, with plans to expand",
+          "link": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+          "publishedOn": "2025-11-21T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiId5Cf7YMovzRkPOI6S1tm4fgDKNLcFvdg3ASml-f-mWCwj0rtSAZJ-P4jmORklaJoflcXdYLEVk_EjwXMqcoy7e0c_-fAPSpE_8R5Nvt5cc4VTxf-D1Nh-8qXuAeFjKR6-TcLvZxT1o2D46Iv9dGvkNNWv79ce2E-DzN4FC6XSsQM1QxgylI1fmDMhU4E/s1600/android.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiId5Cf7YMovzRkPOI6S1tm4fgDKNLcFvdg3ASml-f-mWCwj0rtSAZJ-P4jmORklaJoflcXdYLEVk_EjwXMqcoy7e0c_-fAPSpE_8R5Nvt5cc4VTxf-D1Nh-8qXuAeFjKR6-TcLvZxT1o2D46Iv9dGvkNNWv79ce2E-DzN4FC6XSsQM1QxgylI1fmDMhU4E/s1600/android.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ever wonder how some IT teams keep corporate data safe without slowing down employees? Of course you have.\nMobile devices are essential for modern work—but with mobility comes risk. IT admins, like you, juggle protecting sensitive data while keeping teams productive. That’s why more enterprises are turning to Samsung for mobile security.\nHey—you're busy, so here's a quick-read article on what",
+          "link": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
+          "publishedOn": "2025-11-21T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Why IT Admins Choose Samsung for Mobile Security",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilI5_YDygribQzJZg5C74qlMvNYPDbhlWqrYmASyrb9-lTORJ7B0Iuw1i_7M80fHWGgB2ph_w0FoEX0ptY4pTxRNr0kB_rGoJqvp3wd3f80Fc3hjkd5W8CbU1NmXQkf8H1vR8aoJsstZdcEFq7_weKbZQqKpVDBTqRjdL9uMv8WTpkifreXt1EJ7RGDqY/s1600/samsung.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilI5_YDygribQzJZg5C74qlMvNYPDbhlWqrYmASyrb9-lTORJ7B0Iuw1i_7M80fHWGgB2ph_w0FoEX0ptY4pTxRNr0kB_rGoJqvp3wd3f80Fc3hjkd5W8CbU1NmXQkf8H1vR8aoJsstZdcEFq7_weKbZQqKpVDBTqRjdL9uMv8WTpkifreXt1EJ7RGDqY/s1600/samsung.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A China-nexus threat actor known as APT24 has been observed using a previously undocumented malware dubbed BADAUDIO to establish persistent remote access to compromised networks as part of a nearly three-year campaign.\n\"While earlier operations relied on broad strategic web compromises to compromise legitimate websites, APT24 has recently pivoted to using more sophisticated vectors targeting",
+          "link": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
+          "publishedOn": "2025-11-21T10:42:00.000Z",
+          "wordCount": null,
+          "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5fGdXpR7pCeJpEqPu004ib52NeUwcRAWg8rpaNjFnvLAKcXXAJlHX1A4sgAfLJGc08sUQdEJnmnmtTClxO75Mp2evzyrbHLmQdTx0O3UdCbzZdTJAY71PpCj0gweks8UQDik_IpkCA5Pzxe9p8YA7u2ct5k67kFvIqHs18JF6YHSmZTuYsVbZatTsUKZV/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5fGdXpR7pCeJpEqPu004ib52NeUwcRAWg8rpaNjFnvLAKcXXAJlHX1A4sgAfLJGc08sUQdEJnmnmtTClxO75Mp2evzyrbHLmQdTx0O3UdCbzZdTJAY71PpCj0gweks8UQDik_IpkCA5Pzxe9p8YA7u2ct5k67kFvIqHs18JF6YHSmZTuYsVbZatTsUKZV/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Securities and Exchange Commission (SEC) has abandoned its lawsuit against SolarWinds and its chief information security officer, alleging that the company had misled investors about the security practices that led to the 2020 supply chain attack.\nIn a joint motion filed November 20, 2025, the SEC, along with SolarWinds and its CISO Timothy G. Brown, asked the court to voluntarily",
@@ -20300,102 +20396,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpBHsV_c7cesyV98XY3_PW3Ag8I1NBsboj592iw07Rlmy2xCs3QTpBUcZf59rmLBCo4JppU4HFF9GU8H7i_ADzqyvO_IxWj3GZWoVkzsh4GRWHyD1LSPWZgUEii8SnZE_BJxTmJMdG8RfstqNmGNIRcUdshTfQcPTJRVzVUJopn6FrCk5KvI0xc18Vy7bk/s1600/ai-leak.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpBHsV_c7cesyV98XY3_PW3Ag8I1NBsboj592iw07Rlmy2xCs3QTpBUcZf59rmLBCo4JppU4HFF9GU8H7i_ADzqyvO_IxWj3GZWoVkzsh4GRWHyD1LSPWZgUEii8SnZE_BJxTmJMdG8RfstqNmGNIRcUdshTfQcPTJRVzVUJopn6FrCk5KvI0xc18Vy7bk/s1600/ai-leak.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary",
-          "link": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
-          "publishedOn": "2025-11-07T18:00:00.000Z",
-          "wordCount": null,
-          "title": "Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s1600/mobile-exploit.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s1600/mobile-exploit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A China-linked threat actor has been attributed to a cyber attack targeting an U.S. non-profit organization with an aim to establish long-term persistence, as part of broader activity aimed at U.S. entities that are linked to or involved in policy issues.\nThe organization, according to a report from Broadcom's Symantec and Carbon Black teams, is \"active in attempting to influence U.S. government",
-          "link": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
-          "publishedOn": "2025-11-07T16:07:00.000Z",
-          "wordCount": null,
-          "title": "From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZqCg2FCyFs0KtendNTgM4kewxtAD-fYM5tkn2HDgCT7zqWB-FhYCeJWfm7eeYgQ0ip9aM7jsB1Ix3uGJqIeuJ8R96V4N7fGEOmKsPADGI_yBY5t-PdMm_troy6kaZ6NHtF4fQobzpxaMu9FqSPBvQGeZoVADWx54U9zHT5JvFHQUWdxkY73A2bEPhHg/s1600/1000031591.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZqCg2FCyFs0KtendNTgM4kewxtAD-fYM5tkn2HDgCT7zqWB-FhYCeJWfm7eeYgQ0ip9aM7jsB1Ix3uGJqIeuJ8R96V4N7fGEOmKsPADGI_yBY5t-PdMm_troy6kaZ6NHtF4fQobzpxaMu9FqSPBvQGeZoVADWx54U9zHT5JvFHQUWdxkY73A2bEPhHg/s1600/1000031591.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and",
-          "link": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
-          "publishedOn": "2025-11-07T11:55:00.000Z",
-          "wordCount": null,
-          "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8rdEXn4OiPHiiJnsEymue5DlWPMj7u6ZfFy77r6q_HntR6yOsA-4dEQXLqdkPUJNs9TwgPJO4TeBDDz5nsX3QZkIi_I1Be45_AXRqgDkEuMuu8-pvYj0sAQfYCltYGbWMup2aRypVEyCSyAF46haWxabn5UPUPnCl_TnG6H4FvB62Hxa2ITd_vcZRr8X/s1600/countdown-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8rdEXn4OiPHiiJnsEymue5DlWPMj7u6ZfFy77r6q_HntR6yOsA-4dEQXLqdkPUJNs9TwgPJO4TeBDDz5nsX3QZkIi_I1Be45_AXRqgDkEuMuu8-pvYj0sAQfYCltYGbWMup2aRypVEyCSyAF46haWxabn5UPUPnCl_TnG6H4FvB62Hxa2ITd_vcZRr8X/s1600/countdown-malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Imagine this: Sarah from accounting gets what looks like a routine password reset email from your organization’s cloud provider. She clicks the link, types in her credentials, and goes back to her spreadsheet. But unknown to her, she’s just made a big mistake. Sarah just accidentally handed over her login details to cybercriminals who are laughing all the way to their dark web",
-          "link": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
-          "publishedOn": "2025-11-07T10:30:00.000Z",
-          "wordCount": null,
-          "title": "Enterprise Credentials at Risk – Same Old, Same Old?",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd2Yv8UnFMT4Cdqiokt06WlgBfY7dC-Pni1OsXd0sK8uXMitu2HZzwAQ0Q9obp1fCJ6AobPf3pvcROa1ldIKGs8xHPNe8KDlaLI1RLlstkQ3F2-IXQJ-myIn9cNQW75qU-nHYTHRjkgArMAas97dZ7jybO6I8YeBc-_jGRzs_qJh3P2IFFEcnYZ8Hotf4/s1600/OUTPOST24.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd2Yv8UnFMT4Cdqiokt06WlgBfY7dC-Pni1OsXd0sK8uXMitu2HZzwAQ0Q9obp1fCJ6AobPf3pvcROa1ldIKGs8xHPNe8KDlaLI1RLlstkQ3F2-IXQJ-myIn9cNQW75qU-nHYTHRjkgArMAas97dZ7jybO6I8YeBc-_jGRzs_qJh3P2IFFEcnYZ8Hotf4/s1600/OUTPOST24.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google on Thursday said it's rolling out a dedicated form to allow businesses listed on Google Maps to report extortion attempts made by threat actors who post inauthentic bad reviews on the platform and demand ransoms to remove the negative comments.\nThe approach is designed to tackle a common practice called review bombing, where online users intentionally post negative user reviews in an",
-          "link": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
-          "publishedOn": "2025-11-07T09:15:00.000Z",
-          "wordCount": null,
-          "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOkWkPtJDt7NMpDyyxu0Dk8yD4cQupOSEtWa8Ph06Klxkm05DGxVyJqHeTD-_4jReaEKMuUp7tqz4QVLk0ZBk6cqAtTMm3idDSrunWqxh8mtFcm2kHp3Fnz73N1fT4Cp3Drx6I4SW-4S9H5OkbyM-grrLyeG6_taTh04R2sckKoe74Mzo6cmNk5DVxWWbJ/s1600/map.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOkWkPtJDt7NMpDyyxu0Dk8yD4cQupOSEtWa8Ph06Klxkm05DGxVyJqHeTD-_4jReaEKMuUp7tqz4QVLk0ZBk6cqAtTMm3idDSrunWqxh8mtFcm2kHp3Fnz73N1fT4Cp3Drx6I4SW-4S9H5OkbyM-grrLyeG6_taTh04R2sckKoe74Mzo6cmNk5DVxWWbJ/s1600/map.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have flagged a malicious Visual Studio Code (VS Code) extension with basic ransomware capabilities that appears to be created with the help of artificial intelligence – in other words, vibe-coded.\nSecure Annex researcher John Tuckner, who flagged the extension \"susvsex,\" said it does not attempt to hide its malicious functionality. The extension was uploaded on",
-          "link": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
-          "publishedOn": "2025-11-07T06:48:00.000Z",
-          "wordCount": null,
-          "title": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Dcu9T1Afix71Yt-8QCNjFUC__8eCH-PwqBYQbkqtmzclCd1DmtyV89McDlT1wJxv4qRnRmxQiEFsnpzw1a0k3EMPCBIpxwJysacU-wUGg6-tCUrTKFlPVtrR3Yw4qO5Yk_trwmpT5AMqUgSkFJMEvMYJL522Wjn4FOYfFAzFaZUvZ9ufXSV82U7lUFA3/s1600/vide-code-ransomware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Dcu9T1Afix71Yt-8QCNjFUC__8eCH-PwqBYQbkqtmzclCd1DmtyV89McDlT1wJxv4qRnRmxQiEFsnpzw1a0k3EMPCBIpxwJysacU-wUGg6-tCUrTKFlPVtrR3Yw4qO5Yk_trwmpT5AMqUgSkFJMEvMYJL522Wjn4FOYfFAzFaZUvZ9ufXSV82U7lUFA3/s1600/vide-code-ransomware.jpg"
         }
       ]
     },
@@ -20404,6 +20404,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=374058",
+          "author": "John Law",
+          "description": "Ubisoft has confirmed that its €1.16 billion (~RM55.3 billion) deal with Chinese conglomerate Tencent has officially concluded. The French video game studio confirmed that the latter’s investments has been completed, giving it a 26.32% share in their co-founded outfit, Vantage Studio. “Today’s closing crystallises the value of our world-class IPs and marks a pivotal milestone […]\nThe post Ubisoft’s €1.16 Billion Deal With Tencent Has Gone Through appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/374058/ubisofts-e1-16-billion-deal-with-tencent-has-gone-through/",
+          "publishedOn": "2025-11-22T08:09:00.000Z",
+          "wordCount": 10004,
+          "title": "Ubisoft’s €1.16 Billion Deal With Tencent Has Gone Through",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2018/03/ubisoft.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=374049",
+          "author": "Nurul Kamil",
+          "description": "POCO is gearing up to launch the F8 series next week on 26 November. However, the smartphones are not the only devices to debut on that day, as the Xiaomi sub-brand will also be unveiling two tablets: the Pad X1 and the Pad M1. The company has started posting teasers on its official X account, […]\nThe post POCO Pad X1 And Pad M1 To Debut 26 November appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/374049/poco-pad-x1-pad-m1/",
+          "publishedOn": "2025-11-22T01:00:55.000Z",
+          "wordCount": 10088,
+          "title": "POCO Pad X1 And Pad M1 To Debut 26 November",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/poco-pad-x1-m1-3.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=374038",
           "author": "Heirul Kamel",
@@ -21623,166 +21643,6 @@
           "wordCount": 4991,
           "title": "DJI Osmo Action 6 Leaks Again; Local Launch Teased",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/dji-osmo-action-6-teaser-3.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372588",
-          "author": "Heirul Kamel",
-          "description": "Communications Minister Fahmi Fadzil has called on Meta to provide a full explanation following a recent report by Reuters. He described it as “very worrying” and “explosive,” saying it paints a troubling picture of Meta profiting from unlawful content that breaches Malaysian law. The minister stressed that the government will open an investigation and summon […]\nThe post Fahmi: Meta Must Explain Report On Alleged 10% Earnings Tied To Scam, Gambling Ads appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372588/fahmi-meta-must-explain-report-on-earnings-tied-to-scam-ads/",
-          "publishedOn": "2025-11-07T11:49:31.000Z",
-          "wordCount": 5408,
-          "title": "Fahmi: Meta Must Explain Report On Alleged 10% Earnings Tied To Scam, Gambling Ads",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/fahmi-fadzil-communications-ministry-file-photo_01.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372559",
-          "author": "Heirul Kamel",
-          "description": "The US has reportedly moved to block NVIDIA from selling its scaled-down AI chip to China. According to reports from Reuters and The Information, the White House has informed federal agencies not to approve export licences for the component, effectively halting its sale to Chinese firms. The chip in question, known as the B30A, targets […]\nThe post US Reportedly Blocks NVIDIA B30A AI Chip Sales To China appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372559/us-reportedly-blocks-nvidia-b30a-ai-chip-sales-to-china/",
-          "publishedOn": "2025-11-07T10:20:27.000Z",
-          "wordCount": 10285,
-          "title": "US Reportedly Blocks NVIDIA B30A AI Chip Sales To China",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/NVIDIA-file.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372543",
-          "author": "Kiran Ganesan",
-          "description": "nubia has officially launched its newest smartphone model, the nubia V80 Design, for the Malaysian market. Ripping the band-aid off, the design is somewhat reminiscent of a particular premium smartphone, which isn’t surprising considering the recently released nubia Air. At least this phone has some proper AI features. Starting with the display, the nubia V80 […]\nThe post nubia V80 Design Launches In Malaysia; Priced At RM569 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372543/nubia-v80-design-launches-in-malaysia-priced-at-rm569/",
-          "publishedOn": "2025-11-07T09:09:19.000Z",
-          "wordCount": 10321,
-          "title": "nubia V80 Design Launches In Malaysia; Priced At RM569",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Nubia-V80-Design-Launches-In-Malaysia-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372511",
-          "author": "Ian Chee",
-          "description": "Last year, we saw the announcement of a chip design hub in Puchong, Selangor last year. It was the first of its kind, and now it’s no longer the only one. This is because an integrated circuit (IC) design park has been announced in CoPlace 9, Cyberjaya. Prime Minister Anwar Ibrahim officiated the launch of […]\nThe post Malaysia Now Has A Second Chip Design Park In Cyberjaya appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372511/malaysia-second-chip-design-hub-cyberjaya/",
-          "publishedOn": "2025-11-07T08:53:43.000Z",
-          "wordCount": 10060,
-          "title": "Malaysia Now Has A Second Chip Design Park In Cyberjaya",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/06/Apple-WWDC23-M2-Ultra-chip-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372528",
-          "author": "Nurul Kamil",
-          "description": "The realme GT 8 Pro made its official debut in China last month. Currently, the brand is preparing for the device’s global release. According to GSMArena, the launch is slated for 20 November 2025. However, this date is for an event in India, with no indication that the phone will launch elsewhere at the same […]\nThe post realme GT 8 Pro To Launch In India 20 November 2025 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372528/realme-gt-8-pro-india/",
-          "publishedOn": "2025-11-07T08:46:34.000Z",
-          "wordCount": 10430,
-          "title": "realme GT 8 Pro To Launch In India 20 November 2025",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/realme-gt-8-pro-india-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372524",
-          "author": "Keran",
-          "description": "Elon Musk has announced that the Tesla Roadster is expected to be unveiled on 1 April 2026 (yes, on April Fool’s Day) at the automaker’s 2025 Annual Meeting. “I have some deniability, because I could say I was just kidding,” he added. “But we are actually tentatively aiming for April 1 for what I think […]\nThe post Elon Musk: Tesla Roadster 2 Unveiling To Happen On 1 April 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372524/elon-musk-tesla-roadster-2-unveiling-to-happen-on-1-april-2026/",
-          "publishedOn": "2025-11-07T08:39:48.000Z",
-          "wordCount": 10292,
-          "title": "Elon Musk: Tesla Roadster 2 Unveiling To Happen On 1 April 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Tesla-Roadster-2.02.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372518",
-          "author": "Kiran Ganesan",
-          "description": "Coinciding with the Mate 70 Air, Huawei announced the FreeBuds Pro 5 on Weibo. As its name suggests, these TWS buds will serve as the successor to last year’s FreeBuds Pro 4. Unfortunately, Huawei has not yet revealed the full specifications of the device, perhaps saving it for its full launch later this month in […]\nThe post Upcoming Huawei FreeBuds Pro 5 To Feature NearLink Audio Tech appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372518/huawei-freebuds-pro-5-nearlink-audio-tech/",
-          "publishedOn": "2025-11-07T07:41:16.000Z",
-          "wordCount": 10303,
-          "title": "Upcoming Huawei FreeBuds Pro 5 To Feature NearLink Audio Tech",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Huawei-FreeBuds-Pro-5-China-Annoucement-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372512",
-          "author": "Keran",
-          "description": "Tesla is expanding its presence in Malaysia, as the automaker is making the necessary arrangements for its entry into East Malaysia, particularly in Kuching, Sarawak. This came to light when the company advertised job opportunities for Senior Tesla Sales Advisor positions on both JobStreet and Moka HR. Just to recap, the first Tesla Centre in […]\nThe post Tesla Expands Its Presence To East Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372512/tesla-expands-its-presence-to-east-malaysia/",
-          "publishedOn": "2025-11-07T06:42:18.000Z",
-          "wordCount": 10268,
-          "title": "Tesla Expands Its Presence To East Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/10/Tesla-Experience-Centre-Pavilion-Damansara-Heights.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372490",
-          "author": "Ian Chee",
-          "description": "We previously saw reports of WhatsApp testing guest chats for people who are not users of the app. In a similar vein, the Meta subsidiary is working on letting users send messages to users of other messaging apps. And it looks like some beta testers in Europe already have access to it. WABetaInfo reports that […]\nThe post WhatsApp Tests Sending Messages To Users On Other Apps appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372490/whatsapp-tests-sending-messages-other-apps/",
-          "publishedOn": "2025-11-07T04:51:17.000Z",
-          "wordCount": 10285,
-          "title": "WhatsApp Tests Sending Messages To Users On Other Apps",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/WhatsApp-iPad-mini-App-Store.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372492",
-          "author": "Kiran Ganesan",
-          "description": "Last year, Meta internally projected that 10% of its overall annual revenue — which was estimated to be US$16 billion (~RM66 billion) — came from running fraudulent ads, according to a report from Reuters. Not only that, but the publication further claims that Meta “failed to identify and stop an avalanche of ads” and allowed […]\nThe post Report Claims Meta Made US$16 Billion From Scam Ads appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372492/report-claims-meta-made-us16-billion-from-scam-ads/",
-          "publishedOn": "2025-11-07T04:09:26.000Z",
-          "wordCount": 10624,
-          "title": "Report Claims Meta Made US$16 Billion From Scam Ads",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/mark-zuckerberg-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372469",
-          "author": "Keran",
-          "description": "The Nissan Serena C28 e-Power hybrid has been spotted on Malaysian roads, hinting at a possible local debut in the near future. The sighting was shared by Facebook user Weng Ng on the paultan.org Automotive/Car Discussion Group. According to paultan.org, this isn’t the first time the Serena has been seen in Malaysia, as the MPV […]\nThe post Nissan Serena C28 e-Power Spotted In Malaysia, Hinting At Possible Local Debut appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372469/nissan-serena-c28-e-power-spotted-in-malaysia/",
-          "publishedOn": "2025-11-07T03:57:52.000Z",
-          "wordCount": 10785,
-          "title": "Nissan Serena C28 e-Power Spotted In Malaysia, Hinting At Possible Local Debut",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Nissan-Serena-e-Power4.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372486",
-          "author": "Nurul Kamil",
-          "description": "Following the official launch of the Phone (3a) Lite, Nothing has announced that the handset will be available in Malaysia soon. The company will be opening pre-orders for its entry-level device on 22 November 2025. To recap, the Phone (3a) Lite is equipped with a 6.77-inch AMOLED display. This panel has a 1,084 x 2,392 […]\nThe post Nothing Phone (3a) Lite Pre-Orders Start 22 November 2025; Priced At RM1,199 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372486/nothing-phone-3a-lite-pre-orders-rm1199/",
-          "publishedOn": "2025-11-07T03:53:17.000Z",
-          "wordCount": 10476,
-          "title": "Nothing Phone (3a) Lite Pre-Orders Start 22 November 2025; Priced At RM1,199",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/nothing-phone-3a-lite-preorder-6.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372467",
-          "author": "Ian Chee",
-          "description": "As with the release of any new hardware for a new console generation, the previous generation gets slowly left behind. And that sounds like what Nintendo has in mind for the first generation Switch, as the company focuses its business and development focus in the new console handheld hybrid. In its most recent financial results […]\nThe post Nintendo: Switch 2 Is Now The Primary Development Focus appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372467/nintendo-switch-2-primary-development-focus/",
-          "publishedOn": "2025-11-07T03:41:56.000Z",
-          "wordCount": 9999,
-          "title": "Nintendo: Switch 2 Is Now The Primary Development Focus",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/Nintendo-Switch-2-Aus-Unit-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372464",
-          "author": "Heirul Kamel",
-          "description": "Not long after introducing its latest smartphone gimbal in Malaysia, DJI has also launched the Neo 2 for the local market. The new model succeeds last year’s compact aerial drone and, naturally, comes with several notable upgrades. To recap its global launch, the DJI Neo 2 retains the compact form factor but is slightly heavier […]\nThe post DJI Neo 2 Lands In Malaysia; Starts From RM899 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372464/dji-neo-2-lands-in-malaysia/",
-          "publishedOn": "2025-11-07T03:18:10.000Z",
-          "wordCount": 10270,
-          "title": "DJI Neo 2 Lands In Malaysia; Starts From RM899",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/DJI-Neo-2-Malaysia-6.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372458",
-          "author": "Heirul Kamel",
-          "description": "Tesla CEO Elon Musk has revealed that the company may need to build its own massive semiconductor manufacturing plant to meet growing demand for artificial intelligence (AI) chips. Speaking during the automaker’s annual shareholder meeting, Musk said Tesla is designing its fifth-generation AI chip, known as the AI5, which will power its autonomous driving ambitions. […]\nThe post Elon Musk Says Tesla May Build “Gigantic Chip Fab”; Teases Possible Intel Collaboration appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372458/elon-musk-tesla-gigantic-chip-fab-possible-intel-collab/",
-          "publishedOn": "2025-11-07T02:35:04.000Z",
-          "wordCount": 10218,
-          "title": "Elon Musk Says Tesla May Build “Gigantic Chip Fab”; Teases Possible Intel Collaboration",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/tesla-optimus-gen-2-1-utama_03.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=372451",
-          "author": "Nurul Kamil",
-          "description": "It looks like Grand Theft Auto fans will have to wait a little longer before they can get their hands on the next instalment. Rockstar Games has announced that it is delaying the launch of Grand Theft Auto VI (GTA VI) again. The new release date is 19 November 2026, roughly a year from now. […]\nThe post Rockstar Games Delays Grand Theft Auto VI Launch To 19 November 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/372451/grand-theft-auto-vi-delay-19-november-2026/",
-          "publishedOn": "2025-11-07T02:26:07.000Z",
-          "wordCount": 10168,
-          "title": "Rockstar Games Delays Grand Theft Auto VI Launch To 19 November 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/GTA-6-Key-Art-1.jpg"
         }
       ]
     },
@@ -21792,6 +21652,66 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/salesforce-customers-hacked-gainsight",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "In a repeat of similar attacks during the summer, threat actors affiliated with the ShinyHunters extortion group used a third-party application to steal organizations' Salesforce data.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/salesforce-customers-hacked-gainsight",
+          "publishedOn": "2025-11-21T21:22:51.000Z",
+          "wordCount": null,
+          "title": "Deja Vu: Salesforce Customers Hacked Again, Via Gainsight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/line-messaging-bugs-asian-cyber-espionage",
+          "author": "Tara Seals",
+          "description": "In a potential gift to geopolitical adversaries, the encrypted messaging app uses a leaky custom protocol that allows message replays, impersonation attacks, and sensitive information exposure from chats.",
+          "link": "https://www.darkreading.com/application-security/line-messaging-bugs-asian-cyber-espionage",
+          "publishedOn": "2025-11-21T20:18:01.000Z",
+          "wordCount": null,
+          "title": "LINE Messaging Bugs Open Asian Users to Cyber Espionage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/cloudflares-one-stop-shop-convenience-global-digital-economy",
+          "author": "Dr. David Utzke",
+          "description": "Even the most advanced systems like Cloudflare can fall victim to software issues and become a global point of failure, Dr. David Utzke argues, adding that the recent outage should be a warning for enterprises.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/cloudflares-one-stop-shop-convenience-global-digital-economy",
+          "publishedOn": "2025-11-21T20:15:07.000Z",
+          "wordCount": null,
+          "title": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/hack-hackers-6-laws-staying-ahead-cyberattackers",
+          "author": "Arielle Waldman",
+          "description": "A new security framework responds to a shift in attackers' tactics, one that allows them to infiltrate enterprises \"silently\" through their own policies.",
+          "link": "https://www.darkreading.com/cyber-risk/hack-hackers-6-laws-staying-ahead-cyberattackers",
+          "publishedOn": "2025-11-21T20:11:28.000Z",
+          "wordCount": null,
+          "title": "Hack the Hackers: 6 Laws for Staying Ahead of the Attackers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-careers/with-ai-reshaping-entry-level-cyber-what-happens-to-the-security-talent-pipeline-",
+          "author": "Joan Goodchild",
+          "description": "Automation is rewriting early-career cybersecurity work, raising urgent questions about how the next generation of security professionals will gain real-world expertise.",
+          "link": "https://www.darkreading.com/cybersecurity-careers/with-ai-reshaping-entry-level-cyber-what-happens-to-the-security-talent-pipeline-",
+          "publishedOn": "2025-11-21T15:02:45.000Z",
+          "wordCount": null,
+          "title": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/us-makes-cyber-strategy-changes",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "The US national cyber director describes the next cyber strategy as focusing \"on shaping adversary behavior,\" adding consequences and aggressive response.",
+          "link": "https://www.darkreading.com/cyber-risk/us-makes-cyber-strategy-changes",
+          "publishedOn": "2025-11-21T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Switching to Offense: US Makes Cyber Strategy Changes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.darkreading.com/cybersecurity-operations/iran-cyber-objectives",
           "author": "Alexander Culafi",
           "description": "The regime's cyber-espionage strategy employs dual-use targeting, collecting info that can support both military needs and broader political objectives.",
@@ -21799,6 +21719,16 @@
           "publishedOn": "2025-11-21T05:02:00.000Z",
           "wordCount": null,
           "title": "Inside Iran's Cyber Objectives: What Do They Want?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock",
+          "author": "Dave Lewis",
+          "description": "A Formula 1 pit crew demonstrates the basic principles of how modern security teams should work.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock",
+          "publishedOn": "2025-11-20T23:23:05.000Z",
+          "wordCount": null,
+          "title": "Securing the Win: What Cybersecurity Can Learn From the Paddock",
           "imageUrl": null
         },
         {
@@ -22229,66 +22159,6 @@
           "publishedOn": "2025-11-07T20:36:15.000Z",
           "wordCount": null,
           "title": "'Ransomvibing' Infests Visual Studio Extension Market",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "In partnership with Emirates tech company G42, Microsoft is building the first stage of a 5-gigawatt US-UAE AI campus using Nvidia GPUs.",
-          "link": "https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns",
-          "publishedOn": "2025-11-07T20:08:51.000Z",
-          "wordCount": null,
-          "title": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/ai-agents-going-rogue",
-          "author": "Art Poghosyan",
-          "description": "Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.",
-          "link": "https://www.darkreading.com/cyber-risk/ai-agents-going-rogue",
-          "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": null,
-          "title": "AI Agents Are Going Rogue: Here's How to Rein Them In",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "New synthetic security staffers promise to bring artificial intelligence comfortably into the security operations center, but they will require governance to protect security.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing",
-          "publishedOn": "2025-11-07T14:29:08.000Z",
-          "wordCount": null,
-          "title": "AI Security Agents Get Persona Makeovers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/ollama-nvidia-flaws-ai-infrastructure-risk",
-          "author": "Alexander Culafi",
-          "description": "Security researchers discovered multiple vulnerabilities in AI infrastructure products, including one capable of remote code execution.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/ollama-nvidia-flaws-ai-infrastructure-risk",
-          "publishedOn": "2025-11-07T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Ollama, Nvidia Flaws Put AI Infrastructure at Risk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required",
-          "author": "Arielle Waldman",
-          "description": "Threat actors will continue to abuse deepfake technology to conduct fraudulent activity, so organizations need to implement strong security protocols – even if it adds to user friction.",
-          "link": "https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required",
-          "publishedOn": "2025-11-06T21:42:34.000Z",
-          "wordCount": null,
-          "title": "Sora 2 Makes Videos So Believable, Reality Checks Are Required",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-firewall-backups-nation-state-actor",
-          "author": "Rob Wright",
-          "description": "The network security vendor said the MySonicWall breach was unrelated to the recent wave of Akira ransomware attacks targeting the company's devices.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-firewall-backups-nation-state-actor",
-          "publishedOn": "2025-11-06T20:51:47.000Z",
-          "wordCount": null,
-          "title": "SonicWall Firewall Backups Stolen by Nation-State Actor",
           "imageUrl": null
         }
       ]
