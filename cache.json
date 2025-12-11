@@ -19294,6 +19294,118 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
+          "link": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
+          "publishedOn": "2025-12-11T05:56:00.000Z",
+          "wordCount": null,
+          "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.\nThis includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based",
+          "link": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
+          "publishedOn": "2025-12-10T20:19:00.000Z",
+          "wordCount": null,
+          "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY81AEgJ3ys1RM_RunP7NBgyQpMKIzdUIbHOklJNtO27j45TCOaOxwkZsUKIgHOmE1M4jQnzFy4C8Z3Lb-z1KNGhdgmUunavK91bX3Ep4YTRRuPVgqrMb7CraGl_DSXN5k_6_aCHskDMlbLHRbOyWnzz02cqH4he47nzYqo-8XIgCpGo6T0ZEwi2ko9Umr/s1600/react-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY81AEgJ3ys1RM_RunP7NBgyQpMKIzdUIbHOklJNtO27j45TCOaOxwkZsUKIgHOmE1M4jQnzFy4C8Z3Lb-z1KNGhdgmUunavK91bX3Ep4YTRRuPVgqrMb7CraGl_DSXN5k_6_aCHskDMlbLHRbOyWnzz02cqH4he47nzYqo-8XIgCpGo6T0ZEwi2ko9Umr/s1600/react-hacking.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
+          "link": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
+          "publishedOn": "2025-12-10T19:21:00.000Z",
+          "wordCount": null,
+          "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.\nThe flaws impact PCIe Base Specification Revision 5.0 and onwards in the protocol mechanism introduced by the IDE Engineering Change Notice (ECN), according to the PCI Special",
+          "link": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
+          "publishedOn": "2025-12-10T13:32:00.000Z",
+          "wordCount": null,
+          "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3f-oOC7MmSz2Ku0x9-ljdPbuoYceSrPAAqvibbB1WV5spRUhQDjoXmn5mL8TzgQj7GP6CzMRtG0Tm8OJW1qhylFL1uafxAMcmJG3n9n3kgC00yhRIsdmJYXWKco6SyOdONzvEb29HzxOOPtsNTH7aBVL0YgKFCX73q7_pn_UQ3x7b6hWibuoJb5EVYF1/s1600/encryption.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3f-oOC7MmSz2Ku0x9-ljdPbuoYceSrPAAqvibbB1WV5spRUhQDjoXmn5mL8TzgQj7GP6CzMRtG0Tm8OJW1qhylFL1uafxAMcmJG3n9n3kgC00yhRIsdmJYXWKco6SyOdONzvEb29HzxOOPtsNTH7aBVL0YgKFCX73q7_pn_UQ3x7b6hWibuoJb5EVYF1/s1600/encryption.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.\nStandard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world.\nNext week, the Cortex Cloud team at Palo Alto Networks",
+          "link": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
+          "publishedOn": "2025-12-10T11:54:00.000Z",
+          "wordCount": null,
+          "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsLoixGZ0mDDIhc-bQESz8yfEaEGnb6XfD4LAKzu8A1eH2yFNPdTUrVYg-8nT_TUUVST8GMqHlHPfGxMrpmAT9Dj4-zMYWzsCaaAicy1pRxKh8RK1nZHtvv_warN3pAOTJOlp1Yc00f3WB_QMJ2o5eRrxpJ-d9Dh0Y32EIN78iIRDJhDStGji1DJ-72s/s1600/clloudsecurity.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsLoixGZ0mDDIhc-bQESz8yfEaEGnb6XfD4LAKzu8A1eH2yFNPdTUrVYg-8nT_TUUVST8GMqHlHPfGxMrpmAT9Dj4-zMYWzsCaaAicy1pRxKh8RK1nZHtvv_warN3pAOTJOlp1Yc00f3WB_QMJ2o5eRrxpJ-d9Dh0Y32EIN78iIRDJhDStGji1DJ-72s/s1600/clloudsecurity.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation",
+          "link": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
+          "publishedOn": "2025-12-10T11:54:00.000Z",
+          "wordCount": null,
+          "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4WUzO_P0sEPntxbBi-a6uO4dqk0arqJQMhRKYAYj7r8Dbsx3Y7PoeWrMLaEHxK7nMx4vNCTNWFYa6KYRiFFYE2i2Lg3WkD0DO63RN4Nxnt_MSOKAHmb9Z6vsIKaHVVBQLmBTVs0fgsSAomShvnBP25jt1DK11qLYEiqOg0_HsJakDdxnA45GzohEBYT7/s1600/winrar.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4WUzO_P0sEPntxbBi-a6uO4dqk0arqJQMhRKYAYj7r8Dbsx3Y7PoeWrMLaEHxK7nMx4vNCTNWFYa6KYRiFFYE2i2Lg3WkD0DO63RN4Nxnt_MSOKAHmb9Z6vsIKaHVVBQLmBTVs0fgsSAomShvnBP25jt1DK11qLYEiqOg0_HsJakDdxnA45GzohEBYT7/s1600/winrar.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.\nOf the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code",
+          "link": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
+          "publishedOn": "2025-12-10T08:50:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBMHrpsvzLEHZ52J6HNP__PNJC-IjFnM5FpHLkAj5T5-cQN1siRI_E-jKO7T2SYs1XR4g4r5wvPt37dQoCWyqceTNKs1nz7mbnHBtydb4yGtRC4qyOAL4qCNuvCImdE6H62kqb3bUUj14qVg5BGzhywqFJioC3qBIlhFnTDejUFRQRjzXY201Ge2F-IA8/s1600/windows-patch.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBMHrpsvzLEHZ52J6HNP__PNJC-IjFnM5FpHLkAj5T5-cQN1siRI_E-jKO7T2SYs1XR4g4r5wvPt37dQoCWyqceTNKs1nz7mbnHBtydb4yGtRC4qyOAL4qCNuvCImdE6H62kqb3bUUj14qVg5BGzhywqFJioC3qBIlhFnTDejUFRQRjzXY201Ge2F-IA8/s1600/windows-patch.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution.\nThe Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and",
@@ -20220,118 +20332,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmTJUwBQylR2JxQKyRPwiaWc6Ia-71wvno8Z5H4N6-8KX7WBGjZLU2ONRBc4Qd7vpIOcWXWkcrekIsNcFhS75LB7IwPMOvGMQPY3xe2yl0qPlgoly_1tEdy99a_glYDj599U0nR2KHQoBkgx49tGys8tsIT_hosQpkSZsiLSXCUFJkCCDWn26eg_jxMpd/s1600/sales.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmTJUwBQylR2JxQKyRPwiaWc6Ia-71wvno8Z5H4N6-8KX7WBGjZLU2ONRBc4Qd7vpIOcWXWkcrekIsNcFhS75LB7IwPMOvGMQPY3xe2yl0qPlgoly_1tEdy99a_glYDj599U0nR2KHQoBkgx49tGys8tsIT_hosQpkSZsiLSXCUFJkCCDWn26eg_jxMpd/s1600/sales.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.\nThe Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the \"setup_bun.js\" loader and the main payload \"bun_environment.js.\" The",
-          "link": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
-          "publishedOn": "2025-11-26T18:08:00.000Z",
-          "wordCount": null,
-          "title": "Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghgyXKKmEGWfIkqMuka-PLw6Jrl_bPx6Ptub1wNLhbJpyZDfQbTvmYfoV1wzIKc6af7Axp-KlbkHDgadFI6P1iWAe0g8xbyEmKAZazSUZ1aleKTfRgxF7DOs9yhNmlvQGZWvn8-ovkMv7hy0HBlWjOHFHKGOD1uvLMa-L_ZxRxyCsBrk7w0kL7uGH0idaj/s1600/marven-hack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghgyXKKmEGWfIkqMuka-PLw6Jrl_bPx6Ptub1wNLhbJpyZDfQbTvmYfoV1wzIKc6af7Axp-KlbkHDgadFI6P1iWAe0g8xbyEmKAZazSUZ1aleKTfRgxF7DOs9yhNmlvQGZWvn8-ovkMv7hy0HBlWjOHFHKGOD1uvLMa-L_ZxRxyCsBrk7w0kL7uGH0idaj/s1600/marven-hack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "South Korea's financial sector has been targeted by what has been described as a sophisticated supply chain attack that led to the deployment of Qilin ransomware.\n\"This operation combined the capabilities of a major Ransomware-as-a-Service (RaaS) group, Qilin, with potential involvement from North Korean state-affiliated actors (Moonstone Sleet), leveraging Managed Service Provider (MSP)",
-          "link": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
-          "publishedOn": "2025-11-26T14:31:00.000Z",
-          "wordCount": null,
-          "title": "Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLFjSSfGkqSN0_JR2Bn3chbdA6ZWeRT-TPvVWvosbR8gqrvxxpndEARBl7kUES8N1hVSuPYweHiF2E3FOCb6VgM5rCmBkzWQTvFABAgr4EaFZ99Z6R9uDzJmPDhfnSCRt33hnJf8gca0PP0jIBg0mnv-Q1jTHV1HfQqQ2ScEBDqZxE4iKXguQtM_VXB77/s1600/raas.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLFjSSfGkqSN0_JR2Bn3chbdA6ZWeRT-TPvVWvosbR8gqrvxxpndEARBl7kUES8N1hVSuPYweHiF2E3FOCb6VgM5rCmBkzWQTvFABAgr4EaFZ99Z6R9uDzJmPDhfnSCRt33hnJf8gca0PP0jIBg0mnv-Q1jTHV1HfQqQ2ScEBDqZxE4iKXguQtM_VXB77/s1600/raas.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Enterprises today are expected to have at least 6-8 detection tools, as detection is considered a standard investment and the first line of defense. Yet security leaders struggle to justify dedicating resources further down the alert lifecycle to their superiors.\nAs a result, most organizations' security investments are asymmetrical, robust detection tools paired with an under-resourced SOC,",
-          "link": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
-          "publishedOn": "2025-11-26T11:55:00.000Z",
-          "wordCount": null,
-          "title": "When Your $2M Security Detection Fails: Can your SOC Save You?",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkw0MmcqqKZNxhyucPZCx6y1I2RgOoB3X4reu6qVkLYeMWCdU4jfxo_lQTdLLwRFdA2bVjxw_0F-QyR0XXpAV-v-commkh3NcxuOr3QOEtD0zkc-fvTavnhG-gO8z7ttXhevDQU9O3hb1Id6iBSjOH4GFmhoNRWPCPpJL8kYR6U5_seYnwxQUnwLWqz48/s1600/million-dollar-soc.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkw0MmcqqKZNxhyucPZCx6y1I2RgOoB3X4reu6qVkLYeMWCdU4jfxo_lQTdLLwRFdA2bVjxw_0F-QyR0XXpAV-v-commkh3NcxuOr3QOEtD0zkc-fvTavnhG-gO8z7ttXhevDQU9O3hb1Id6iBSjOH4GFmhoNRWPCPpJL8kYR6U5_seYnwxQUnwLWqz48/s1600/million-dollar-soc.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
-          "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-          "publishedOn": "2025-11-26T11:10:00.000Z",
-          "wordCount": null,
-          "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRvtVjaxNU0fdaFSozjGWEs_xWQjuyBRppTXjPMmjqojoEybF1sK13Xy3B0saOYldj1zfh_G7lNNTKBfZ_m9o7R9ImfAkgcRlCbVeaoYEWHz0DDTB5gIGT7SNYTWAIqVQOevNUIKb6lRW7wJ3ou0TZ64cnxGAd5RgbEfy1cxxcOGRJldJInloOOhVbKu2/s1600/update.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRvtVjaxNU0fdaFSozjGWEs_xWQjuyBRppTXjPMmjqojoEybF1sK13Xy3B0saOYldj1zfh_G7lNNTKBfZ_m9o7R9ImfAkgcRlCbVeaoYEWHz0DDTB5gIGT7SNYTWAIqVQOevNUIKb6lRW7wJ3ou0TZ64cnxGAd5RgbEfy1cxxcOGRJldJInloOOhVbKu2/s1600/update.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds to an attacker-controlled cryptocurrency wallet.\nThe extension, named Crypto Copilot, was first published by a user named \"sjclark76\" on May 7, 2024. The developer describes the browser add-on as",
-          "link": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
-          "publishedOn": "2025-11-26T11:10:00.000Z",
-          "wordCount": null,
-          "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh07kZL9gPVO6CAgydSwgWaGQyaeOYAfysQ-YnUzeYR05B9sOlvBzVUPcu4OK-idfpgitAZpvjmqWBSijJ-z0-k8SFvWBB1w9-dX5YP-B7q2R3uNB81yY__MKrdwb8NHlk2y7cJHJllwU5iNOeRxmgKS6WvRZOywql8oU2k7l7IlApYlgf5wjeLfFmA-c9S/s1600/crypto.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh07kZL9gPVO6CAgydSwgWaGQyaeOYAfysQ-YnUzeYR05B9sOlvBzVUPcu4OK-idfpgitAZpvjmqWBSijJ-z0-k8SFvWBB1w9-dX5YP-B7q2R3uNB81yY__MKrdwb8NHlk2y7cJHJllwU5iNOeRxmgKS6WvRZOywql8oU2k7l7IlApYlgf5wjeLfFmA-c9S/s1600/crypto.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actors behind a malware family known as RomCom targeted a U.S.-based civil engineering company via a JavaScript loader dubbed SocGholish to deliver the Mythic Agent.\n\"This is the first time that a RomCom payload has been observed being distributed by SocGholish,\" Arctic Wolf Labs researcher Jacob Faires said in a Tuesday report.\nThe activity has been attributed with medium-to-high",
-          "link": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
-          "publishedOn": "2025-11-26T08:28:00.000Z",
-          "wordCount": null,
-          "title": "RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBSFa4FVI0KsN6x79w1ISJPMe3RexBvzAM-vy-bml_tD5bSNQYb4nZxHqKLV_lugTTgkVXDdIPqM2G23NT4hCLTqYA3w_fm46xAHjsnHiwc-tXsOR7QrTz6Qw4ZQfdDKo8EGrHLhZII9YOHt4A3u_UDDFAuyM6rm0c6-_mMhY3Ac_aNyZnEDbUrR5EVNg/s1600/mythic.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBSFa4FVI0KsN6x79w1ISJPMe3RexBvzAM-vy-bml_tD5bSNQYb4nZxHqKLV_lugTTgkVXDdIPqM2G23NT4hCLTqYA3w_fm46xAHjsnHiwc-tXsOR7QrTz6Qw4ZQfdDKo8EGrHLhZII9YOHt4A3u_UDDFAuyM6rm0c6-_mMhY3Ac_aNyZnEDbUrR5EVNg/s1600/mythic.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Federal Bureau of Investigation (FBI) has warned that cybercriminals are impersonating financial institutions with an aim to steal money or sensitive information to facilitate account takeover (ATO) fraud schemes.\nThe activity targets individuals, businesses, and organizations of varied sizes and across sectors, the agency said, adding the fraudulent schemes have led to more than $262",
-          "link": "https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html",
-          "publishedOn": "2025-11-26T04:29:00.000Z",
-          "wordCount": null,
-          "title": "FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifp-5U7-OH3RwkfuYRMV7dZ0xBPbvmwprx6SOtovCc17OUYWlzXcUP-uZwhh6C03vW_oNO8X_48RWVDCVMChYy27HUw_cRJ3x4em7PQv_eUxr2Jt4BOTgHBCjE4QH4hu-z4m34yLZJA1S-VfuhMXZwQH-yk9gcoekiEYL2jfGDcvRip01iaVJ41aWIlGMO/s1600/deals.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifp-5U7-OH3RwkfuYRMV7dZ0xBPbvmwprx6SOtovCc17OUYWlzXcUP-uZwhh6C03vW_oNO8X_48RWVDCVMChYy27HUw_cRJ3x4em7PQv_eUxr2Jt4BOTgHBCjE4QH4hu-z4m34yLZJA1S-VfuhMXZwQH-yk9gcoekiEYL2jfGDcvRip01iaVJ41aWIlGMO/s1600/deals.jpg"
         }
       ]
     },
@@ -20340,6 +20340,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=375976",
+          "author": "Ian Chee",
+          "description": "We last saw leaks of the Google Pixel 10a back in September, which revealed it will be more similar to the Pixel 9 than 10. There looks to be a new leak in recent times, and from a pretty official, if third-party, source. This comes from serial leakster @evleaks, who has shared on X what […]\nThe post Google Pixel 10a Specs Appear In US Telco Certification Listing appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375976/google-pixel-10a-specs-us-telco-certification-listing/",
+          "publishedOn": "2025-12-11T08:20:16.000Z",
+          "wordCount": 10951,
+          "title": "Google Pixel 10a Specs Appear In US Telco Certification Listing",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Google-Pixel-9a-3.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=375979",
+          "author": "Heirul Kamel",
+          "description": "AKASO has introduced its EK7000 entry-level action camera in Malaysia, bringing 4K recording and a broad set of shooting tools. The camera also comes with a reasonable price tag, aimed at travellers, content creators and casual users alike. The EK7000 records up to 4K at 30fps and shoots 20MP stills, with Electronic Image Stabilisation keeping […]\nThe post AKASO EK7000 Action Camera Launches In Malaysia For RM299 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375979/akaso-ek7000-action-camera-launches-in-malaysia/",
+          "publishedOn": "2025-12-11T06:32:57.000Z",
+          "wordCount": 10817,
+          "title": "AKASO EK7000 Action Camera Launches In Malaysia For RM299",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/akaso-ek7000-launch-malaysia-5.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=375965",
+          "author": "Kiran Ganesan",
+          "description": "Asus has quietly added the ROG Strix XG27JCG gaming monitor to its official international website. As the title states, this display is the world’s first dual-mode gaming monitor that features a 5K resolution with a 180Hz refresh rate. In terms of specs, the ROG Strix XG27JCG is a 27-inch monitor with an IPS panel. As […]\nThe post Asus ROG Strix XG27JCG Is The World’s First 5K 180Hz Gaming Display  appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375965/asus-rog-strix-xg27jcg-5k-180hz-gaming-display/",
+          "publishedOn": "2025-12-11T06:19:14.000Z",
+          "wordCount": 10965,
+          "title": "Asus ROG Strix XG27JCG Is The World’s First 5K 180Hz Gaming Display",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Asus-ROG-Strix-XG27JCG-1-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=375962",
+          "author": "Ian Chee",
+          "description": "Last month, Malaysia rolled out the Next Generation Emergency Response Services 999 (NG MERS 999), which immediately ran into issues. TM, the national telecommunications provider responsible for the system, also provided a statement addressing said issues. More recently, following a meeting between the Comms Ministry, Ministry of Health and TM, Comms Minister Fahmi Fadzil says […]\nThe post Fahmi: No More Issues With NG MERS 999 After Discussions With TM, Ministries appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375962/fahmi-no-more-issues-with-ng-mers-999-after-discussions-with-tm-ministries/",
+          "publishedOn": "2025-12-11T06:16:33.000Z",
+          "wordCount": 10892,
+          "title": "Fahmi: No More Issues With NG MERS 999 After Discussions With TM, Ministries",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/08/fahmi-fadzil-comms-minister.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=375949",
+          "author": "Ian Chee",
+          "description": "Details of the upcoming vivo X300 Ultra have already made their way online via leaks. But now, one additional detail has been added to the pile, and from a relatively official source. This comes via the China China Quality Certification Centre, which indicates that the phone will sport 100W charging. The phone itself was not […]\nThe post vivo X300 Ultra To Support 100W Charging appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375949/vivo-x300-ultra-100w-charging/",
+          "publishedOn": "2025-12-11T04:03:40.000Z",
+          "wordCount": 11009,
+          "title": "vivo X300 Ultra To Support 100W Charging",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/vivo-X300-Pro-hands-on-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=375952",
+          "author": "Kiran Ganesan",
+          "description": "If you’ve kept up with Samsung’s smartphones, then you should be aware that the company has a structured and predictable release schedule for all its handsets. Well, that all seems to be changing in 2026 as a recent industry report claims that the company plans to release the A models sooner than usual. Abhishek Yadav […]\nThe post Samsung Galaxy A37, A57 May Arrive Sooner Than Expected appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375952/samsung-galaxy-a37-a57-may-arrive-sooner/",
+          "publishedOn": "2025-12-11T03:51:05.000Z",
+          "wordCount": 10886,
+          "title": "Samsung Galaxy A37, A57 May Arrive Sooner Than Expected",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/Samsung-Galaxy-A56-5g-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=375946",
+          "author": "Heirul Kamel",
+          "description": "The government has moved to ease dress code rules at its counters and offices during emergencies, ensuring that the public can access essential services without unnecessary barriers. The decision follows growing criticism after a woman was denied entry to a police station in Melaka earlier this week due to her attire while attempting to file […]\nThe post Govt Relaxes Dress Code Rules At Counters, Offices Following Public Backlash appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375946/govt-relaxes-dress-code-rules-at-counters-offices-following-public-backlash/",
+          "publishedOn": "2025-12-11T03:43:35.000Z",
+          "wordCount": 10933,
+          "title": "Govt Relaxes Dress Code Rules At Counters, Offices Following Public Backlash",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/govt-relaxes-dress-code-rules-for-emergencies-3.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=375930",
+          "author": "Nurul Kamil",
+          "description": "It’s 12.12 tomorrow, which means it’s time for more tech deals. Ahead of the sales event, multiple brands have announced discounts on selected items, including smartphones, wearables, as well as smart home products. As per usual, we have taken the liberty to curate a list of some of the noteworthy deals. Of course, this is […]\nThe post Here Are Some Of The Deals For The Upcoming 12.12 Sale So Far appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375930/12-12-sale-2025/",
+          "publishedOn": "2025-12-11T03:40:32.000Z",
+          "wordCount": 12625,
+          "title": "Here Are Some Of The Deals For The Upcoming 12.12 Sale So Far",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/12.12-sale-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=375922",
+          "author": "John Law",
+          "description": "The skyrocketing prices of storage and memory kits for PC have been out of control due to the ongoing AI craze, putting most memory kits out of reach and out of pocket of PC gamers. Case in point, a Chinese memory manufacturer called Asgard is charging 16,999 Yuan (~RM9,900) for a 4-piece memory kit of […]\nThe post A 256GB DDR5 Memory Kit Now Costs More Than An NVIDIA RTX 5090 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375922/256gb-ddr5-memory-price-rtx-5090/",
+          "publishedOn": "2025-12-11T01:00:23.000Z",
+          "wordCount": 11011,
+          "title": "A 256GB DDR5 Memory Kit Now Costs More Than An NVIDIA RTX 5090",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/XPG-Lancer-Neon-RGB-DDR5-6400-5-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=375809",
+          "author": "Ian Chee",
+          "description": "Here’s some nostalgia bait for you fellow 80s and 90s kids out there. There’s an upcoming indie video game called ReStory, that has you play the role of an electronics repairman. But your shop is in Tokyo, and the time period is the 2000s. With that in mind, you’ll be tasked with repairing things that […]\nThe post ReStory Is A Game Where You Play An Electronics Repairman In The 2000s appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/375809/restory-play-electronics-repairman-in-2000s/",
+          "publishedOn": "2025-12-10T09:44:25.000Z",
+          "wordCount": 10844,
+          "title": "ReStory Is A Game Where You Play An Electronics Repairman In The 2000s",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/ReStory.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=375714",
           "author": "Heirul Kamel",
@@ -21554,96 +21654,6 @@
           "wordCount": 10279,
           "title": "Fan Project Turns A Classic Nike Sneaker Into A Fully Working Super Nintendo Console",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/AIR-SNES-Nike-Nintendo-passion-project-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374512",
-          "author": "Heirul Kamel",
-          "description": "The government is pushing for all social media platforms operating in Malaysia to adopt electronic Know-Your-Customer (eKYC) verification by the end of the second quarter of 2026, aiming to enforce the minimum age requirement of 16 for new accounts. Communications Minister Fahmi Fadzil instructed the Malaysian Communications and Multimedia Commission (MCMC) to work with platform […]\nThe post Fahmi: Govt Targets Q2 2026 For eKYC Implementation On Social Media appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374512/govt-targets-q2-2026-ekyc-implementation-social-media/",
-          "publishedOn": "2025-11-26T10:30:33.000Z",
-          "wordCount": 10289,
-          "title": "Fahmi: Govt Targets Q2 2026 For eKYC Implementation On Social Media",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/01/social-media-tiktok-facebook-youtube-instagram-e1642752827140.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374454",
-          "author": "Nurul Kamil",
-          "description": "While the POCO F8 Pro and F8 Ultra are the stars of today’s launch event, not to be forgotten are the two new tablets. Both the Pad X1 and the Pad M1 have officially debuted as the newest additions to the brand’s AIoT lineup. The Pad X1 is a lightweight tablet weighing 500g. It sports […]\nThe post POCO Pad X1, Pad M1 Get Global Launch; Priced From RM1,199 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374454/poco-pad-x1-pad-m1-launch/",
-          "publishedOn": "2025-11-26T10:04:37.000Z",
-          "wordCount": 10661,
-          "title": "POCO Pad X1, Pad M1 Get Global Launch; Priced From RM1,199",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/poco-pad-x1-m1-launch-03.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374464",
-          "author": "John Law",
-          "description": "The Chinese Ministry of Industry and Information Technology (MIIT) have seemingly decided the future of all powerbanks manufactured in country. Moving forward, it will be mandatory for all powerbanks to have built-in LCD display, or an app that allows officials to check the status and security of the powerbank. According to ITHome (Google Translate required […]\nThe post China To Allow Powerbanks With Displays Or Security-Specific Apps Next Year appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374464/china-powerbanks-displays/",
-          "publishedOn": "2025-11-26T08:18:17.000Z",
-          "wordCount": 10439,
-          "title": "China To Allow Powerbanks With Displays Or Security-Specific Apps Next Year",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/Anker-Power-Bank-25K-165W.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374450",
-          "author": "John Law",
-          "description": "The Garmin Venu 4 got a reveal back in September, along with availability in October. As of today, the smartwatch is now available for purchase from all authorised resellers. As a quick primer, the Venu 4 features a display with sizes ranging from 1.2-inches to 1.4-inches, depending on the face size you choose. Regardless of […]\nThe post You Can Now Get The Garmin Venu 4 For RM2,319 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374450/garmin-venu-available-malaysia/",
-          "publishedOn": "2025-11-26T06:36:10.000Z",
-          "wordCount": 10303,
-          "title": "You Can Now Get The Garmin Venu 4 For RM2,319",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Garmin-Venu-4-Launch-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374424",
-          "author": "Keran",
-          "description": "Shell Malaysia has integrated the BUDI 95 subsidy into its Shell Application, enhancing the convenience of the process of fuelling up your vehicle. With this integration, customers can now use the application to access the subsidy and do not have to bring out their IC to scan at the terminal or inside at the counter […]\nThe post Shell App Integrates BUDI 95 For Easier Fuel Payments appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374424/shell-app-integrates-budi-95-for-easier-fuel-payments/",
-          "publishedOn": "2025-11-26T06:14:50.000Z",
-          "wordCount": 11064,
-          "title": "Shell App Integrates BUDI 95 For Easier Fuel Payments",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Shell-BUDI-95-101.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374427",
-          "author": "Heirul Kamel",
-          "description": "Huawei has introduced a new addition to its ecosystem, the MatePad Edge 2-in-1, which debuted alongside the Mate X7 and Mate 80 Series in China. This model is positioned squarely as the company’s answer to Microsoft’s Surface lineup; a variable tablet designed to replace your laptop, with added portability. The MatePad Edge 2-in-1 is built […]\nThe post Huawei Launches MatePad Edge 2-In-1 Tablet In China appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374427/huawei-debuts-matepad-edge-2-in-1-tablet-in-china/",
-          "publishedOn": "2025-11-26T04:32:18.000Z",
-          "wordCount": 10395,
-          "title": "Huawei Launches MatePad Edge 2-In-1 Tablet In China",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/huawei-matepad-edge-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374412",
-          "author": "Heirul Kamel",
-          "description": "Alongside the new Mate X7 flagship foldable, Huawei has also unveiled its Mate 80 series in China, introducing four models: the Mate 80, Mate 80 Pro, Mate 80 Pro Max, and the Mate 80 RS Ultimate Design. The new lineup brings familiar elements from previous Mate releases, notably the variable aperture cameras, along with numerous […]\nThe post Huawei Mate 80 Series Debuts In China appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374412/huawei-mate-80-series-debuts-in-china/",
-          "publishedOn": "2025-11-26T03:15:48.000Z",
-          "wordCount": 11191,
-          "title": "Huawei Mate 80 Series Debuts In China",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Huawei-Mate-80-series-launch-china-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374410",
-          "author": "Nurul Kamil",
-          "description": "Earlier this month, Minister in the Prime Minister’s Department (Law and Institutional Reform) Datuk Seri Azalina Othman Said revealed that the government will establish a new Online Safety Committee. Following the Pro Tem Online Safety Committee meeting, the minister asserted that the creation of this committee will not diminish the authority of the Malaysian Communications […]\nThe post MCMC To Stay Sole Regulator Under Online Safety Act appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374410/mcmc-online-safety-act/",
-          "publishedOn": "2025-11-26T02:55:31.000Z",
-          "wordCount": 10340,
-          "title": "MCMC To Stay Sole Regulator Under Online Safety Act",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/06/e92c4088-65f2-4bd6-8a3c-59e2cf415758.jpeg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374371",
-          "author": "Keran",
-          "description": "Leapmotor’s executive director and senior vice president, Li Cao, has shared new images of the upcoming Lafa 5 (B05) Ultra variant on his official Weibo page. The standard variant is set to debut on November 28, while the Ultra variant is scheduled for launch in the second quarter of 2026. As reported before, the Ultra […]\nThe post Leapmotor Teases Arrival Of New B05 Ultra Variant appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374371/leapmotor-teases-arrival-b05-ultra-variant/",
-          "publishedOn": "2025-11-26T01:53:09.000Z",
-          "wordCount": 10002,
-          "title": "Leapmotor Teases Arrival Of New B05 Ultra Variant",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Leapmotor-B05-Ultra2.jpg"
         }
       ]
     },
@@ -21652,6 +21662,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "The initial access broker has been weaponizing endpoint detection and response (EDR) platforms and Windows utilities in recent high-precision attacks.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks",
+          "publishedOn": "2025-12-10T21:59:32.000Z",
+          "wordCount": null,
+          "title": "Storm-0249 Abuses EDR Processes in Stealthy Attacks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware",
+          "author": "Alexander Culafi",
+          "description": "A new twist on the social engineering tactic is making waves, combining SEO poisoning and legitimate AI domains to install malware on victims' computers.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware",
+          "publishedOn": "2025-12-10T21:02:30.000Z",
+          "wordCount": null,
+          "title": "ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "So far the attacks, which compromise virtual network computing (VNC) connections in OT systems, have not been particularly destructive, but this could change as they evolve.",
+          "link": "https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure",
+          "publishedOn": "2025-12-10T12:56:02.000Z",
+          "wordCount": null,
+          "title": "Feds: Pro-Russia Hactivists Target US Critical Infrastructure",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage",
           "author": "Robert Lemos, Contributing Writer",
@@ -22010,96 +22050,6 @@
           "publishedOn": "2025-12-01T11:10:12.000Z",
           "wordCount": null,
           "title": "Shai-hulud 2.0 Variant Threatens Cloud Ecosystem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "Advanced fraud attacks surged 180% in 2025 as cyber scammers used generative AI to churn out flawless IDs, deepfakes, and autonomous bots at levels never before seen.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025",
-          "publishedOn": "2025-11-26T17:06:03.000Z",
-          "wordCount": null,
-          "title": "Digital Fraud at Industrial Scale: 2025 Wasn't Great",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "As in the wider world, AI is not quite living up to the hype in the cyber underground. But it's definitely helping low-level cybercriminals do competent work.",
-          "link": "https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals",
-          "publishedOn": "2025-11-26T16:01:35.000Z",
-          "wordCount": null,
-          "title": "'Dark LLMs' Aid Petty Criminals, But Underwhelm Technically",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch",
-          "author": "Alexander Culafi",
-          "description": "It's the law of unintended consequences: equipping browsers with agentic AI opens the door to an exponential volume of prompt injections.",
-          "link": "https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch",
-          "publishedOn": "2025-11-26T15:52:49.000Z",
-          "wordCount": null,
-          "title": "Prompt Injections Loom Large Over ChatGPT's Atlas Browser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "Cyberattackers are integrating large language models (LLMs) into malware, running prompts at runtime to evade detection and augment their code on demand.",
-          "link": "https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection",
-          "publishedOn": "2025-11-26T15:12:05.000Z",
-          "wordCount": null,
-          "title": "How Malware Authors Are Incorporating LLMs to Evade Detection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities",
-          "author": "Don Tait",
-          "description": "More than half of organizations surveyed aren't sure they can secure non-human identities (NHIs), underscoring the lag between the rollout of these identities and the tools to protect them.",
-          "link": "https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities",
-          "publishedOn": "2025-11-26T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Enterprises Aren't Confident They Can Secure Non-Human Identities (NHIs)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "The country deploys \"cyber-enabled kinetic targeting\" prior to — and following — real-world missile attacks against ships and land-based targets.",
-          "link": "https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes",
-          "publishedOn": "2025-11-26T05:30:00.000Z",
-          "wordCount": null,
-          "title": "Iran Exploits Cyber Domain to Aid Kinetic Strikes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/advanced-security-phishing-tactics",
-          "author": "Kristina Beek",
-          "description": "New research reveals that sophisticated phishing attacks consistently bypass traditional enterprise security measures.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/advanced-security-phishing-tactics",
-          "publishedOn": "2025-11-25T22:23:05.000Z",
-          "wordCount": null,
-          "title": "Advanced Security Isn't Stopping Ancient Phishing Tactics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/cheap-hardware-module-amd-intel-memory-encryption",
-          "author": "Rob Wright",
-          "description": "Researchers built an inexpensive device that circumvents chipmakers' confidential computing protections and reveals weaknesses in scalable memory encryption.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/cheap-hardware-module-amd-intel-memory-encryption",
-          "publishedOn": "2025-11-25T22:11:24.000Z",
-          "wordCount": null,
-          "title": "Cheap Hardware Module Bypasses AMD, Intel Memory Encryption",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/dprks-flexibleferret-tightens-macos-grip",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "The actor behind the \"Contagious Interview\" campaign is continuing to refine its tactics and social engineering scams to wrest credentials from macOS users.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/dprks-flexibleferret-tightens-macos-grip",
-          "publishedOn": "2025-11-25T21:39:03.000Z",
-          "wordCount": null,
-          "title": "DPRK's FlexibleFerret Tightens macOS Grip",
           "imageUrl": null
         }
       ]
