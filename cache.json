@@ -19294,6 +19294,118 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to",
+          "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
+          "publishedOn": "2025-12-12T05:01:00.000Z",
+          "wordCount": null,
+          "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "This week’s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and governments are racing to plug new holes while arguing over privacy and control. And researchers keep uncovering just how much of our digital life is still wide open.\nThe new Threatsday Bulletin",
+          "link": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
+          "publishedOn": "2025-12-11T13:40:00.000Z",
+          "wordCount": null,
+          "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBEIOMDHFHbMxpqG8wwxxLRZJ4TavL-Z4AoU09ldjKg_8LpfxabE_BKPBfWUHK8GClxPJ2r3BRs078HZ8KwPrMHVHS1m5ZcCdPNR9mtUD5SZfz6WE3FLp6KnoT6HY2UhC-uV7CxqoFYiPyJw_4V0r0A5-vgSI0Znq74OKWlQxr6morZEwQUBaZd89AVg9/s1600/threatsday.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBEIOMDHFHbMxpqG8wwxxLRZJ4TavL-Z4AoU09ldjKg_8LpfxabE_BKPBfWUHK8GClxPJ2r3BRs078HZ8KwPrMHVHS1m5ZcCdPNR9mtUD5SZfz6WE3FLp6KnoT6HY2UhC-uV7CxqoFYiPyJw_4V0r0A5-vgSI0Znq74OKWlQxr6morZEwQUBaZd89AVg9/s1600/threatsday.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command-and-control (C2) purposes.\nAccording to a report from Elastic Security Labs, the malware shares code similarities with another implant codenamed FINALDRAFT (aka Squidoor) that employs Microsoft Graph API for C2. FINALDRAFT is attributed to a",
+          "link": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
+          "publishedOn": "2025-12-11T13:16:00.000Z",
+          "wordCount": null,
+          "title": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKOtWgjKbDTJ_bQIFriTn7SS-6j1OkejHAL8qQ8rAg03gXgLRrv0-qYN2W_QQI8BqUBcmOxNFqni0N9fU5QpzCQdVFPybji0uX397JN_RP1BeefHSJr5Z5LcAhT15toz_P7LJLhz2T7U_xsTG0yzGsUdA4NaJnLvk7gyPjPw8lEFgKu87aGj8cIt_1xyy/s1600/gdrive.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKOtWgjKbDTJ_bQIFriTn7SS-6j1OkejHAL8qQ8rAg03gXgLRrv0-qYN2W_QQI8BqUBcmOxNFqni0N9fU5QpzCQdVFPybji0uX397JN_RP1BeefHSJr5Z5LcAhT15toz_P7LJLhz2T7U_xsTG0yzGsUdA4NaJnLvk7gyPjPw8lEFgKu87aGj8cIt_1xyy/s1600/gdrive.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However, since RPA bots have varying levels of access to sensitive information, enterprises must be prepared to mitigate a variety of challenges. In large organizations, bots are starting to outnumber",
+          "link": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
+          "publishedOn": "2025-12-11T11:30:00.000Z",
+          "wordCount": null,
+          "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkHa_ZsEZyIsKJkBKWhgZBt2Oo3VGKY_5ZeOaoO74V_TbabWN-GlLYtOPjpjnqS63ufmXSWt2jnwRglhgFqzJTGGHqOO04K3wn6V3lN6IJdsNupy7M1V9yKe5895zGyjmnme7207WatecL_hIzgwWMYo5AvT3ecXh7PYHwDCAZw5NjY5iDiIFWkzO7pmw/s1600/keeper.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkHa_ZsEZyIsKJkBKWhgZBt2Oo3VGKY_5ZeOaoO74V_TbabWN-GlLYtOPjpjnqS63ufmXSWt2jnwRglhgFqzJTGGHqOO04K3wn6V3lN6IJdsNupy7M1V9yKe5895zGyjmnme7207WatecL_hIzgwWMYo5AvT3ecXh7PYHwDCAZw5NjY5iDiIFWkzO7pmw/s1600/keeper.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020.\nPalo Alto Networks Unit 42 is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its",
+          "link": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
+          "publishedOn": "2025-12-11T11:00:00.000Z",
+          "wordCount": null,
+          "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSr-PT3dj-KXpKptjdRmfwueMOhO5kNQWOHyylqmUj0nCT9BOb9UM7svBOwdWmnJipRU9vjO2l7WjVGJZc-U9jXCPpolj-GYZsBrP3x5AB4fInWxKVtZOYV6HNxCytEfbfgwWe21IE5k5VhcRMrouTw4DsYt9k2ZcjikVbPKI6UhoxutGP46v110aTra7i/s1600/backdoor.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSr-PT3dj-KXpKptjdRmfwueMOhO5kNQWOHyylqmUj0nCT9BOb9UM7svBOwdWmnJipRU9vjO2l7WjVGJZc-U9jXCPpolj-GYZsBrP3x5AB4fInWxKVtZOYV6HNxCytEfbfgwWe21IE5k5VhcRMrouTw4DsYt9k2ZcjikVbPKI6UhoxutGP46v110aTra7i/s1600/backdoor.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz.\nThe flaw, tracked as CVE-2025-8110 (CVSS score: 8.7), is a case of file overwrite in the file update API of the Go-based self-hosted Git service. A fix for the issue is said to be currently in the",
+          "link": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
+          "publishedOn": "2025-12-11T10:30:00.000Z",
+          "wordCount": null,
+          "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6OJVsDspcCdye7M8PSggWU392C8E30egOw45ke_JjhGPAv-Au_u34ejTw7mT307EGecNF77LcAz2Kzw6Mhyphenhyphenhjl956WA2poNcT3kP3eIhMKjv3vqDJabkLtachFO7EPl-c8ROOH771RwuVd5KPhSBTSS10wG1qKhLRNxDLtLF59V4G1hvD2dn3LZrHCmBU/s1600/gg.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6OJVsDspcCdye7M8PSggWU392C8E30egOw45ke_JjhGPAv-Au_u34ejTw7mT307EGecNF77LcAz2Kzw6Mhyphenhyphenhjl956WA2poNcT3kP3eIhMKjv3vqDJabkLtachFO7EPl-c8ROOH771RwuVd5KPhSBTSS10wG1qKhLRNxDLtLF59V4G1hvD2dn3LZrHCmBU/s1600/gg.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.\nThe vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and",
+          "link": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
+          "publishedOn": "2025-12-11T07:09:00.000Z",
+          "wordCount": null,
+          "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNd3_BqdqJgn7flH6fG1M3tV5v9R11ajUrmoh0iY1DOpD7PDvDhrCjFJCBrChqzUb_KF7U0isWGqBx63S_qQDpYlqMI2pyGX7VF36gIltrjYF9k6InQTES7GLwLHwykls9JhDCCYJLTll-xJK4xSoTH4QAMN2ZZfEUhtVxBxILLnvF1XuyV3iRAzfNQNAF/s1600/chrome-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNd3_BqdqJgn7flH6fG1M3tV5v9R11ajUrmoh0iY1DOpD7PDvDhrCjFJCBrChqzUb_KF7U0isWGqBx63S_qQDpYlqMI2pyGX7VF36gIltrjYF9k6InQTES7GLwLHwykls9JhDCCYJLTll-xJK4xSoTH4QAMN2ZZfEUhtVxBxILLnvF1XuyV3iRAzfNQNAF/s1600/chrome-exploit.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
@@ -20268,70 +20380,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Md0lsjItddYFH1gCm6LZYxVDobM4ZWOweikeQFAT0yZNSYS8WKfg61LxSRjc49watAPtqESgvWx0UwppGQuw9FU8OMQDf9EOi1fWnVXF_H8L7QNOplD1-vdDAO-oU4cRg9CX2jky45M7SkmAF6b7GGi7UwMZQN4_7wnlG2D1mYl28_sUC7hLta8u37Oa/s1600/msteams.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Md0lsjItddYFH1gCm6LZYxVDobM4ZWOweikeQFAT0yZNSYS8WKfg61LxSRjc49watAPtqESgvWx0UwppGQuw9FU8OMQDf9EOi1fWnVXF_H8L7QNOplD1-vdDAO-oU4cRg9CX2jky45M7SkmAF6b7GGi7UwMZQN4_7wnlG2D1mYl28_sUC7hLta8u37Oa/s1600/msteams.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actor known as Bloody Wolf has been attributed to a cyber attack campaign that has targeted Kyrgyzstan since at least June 2025 with the goal of delivering NetSupport RAT.\nAs of October 2025, the activity has expanded to also single out Uzbekistan, Group-IB researchers Amirbek Kurbanov and Volen Kayo said in a report published in collaboration with Ukuk, a state enterprise under the",
-          "link": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
-          "publishedOn": "2025-11-27T18:13:00.000Z",
-          "wordCount": null,
-          "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF1NjcNl0amY7zxe4zJ58EcQQ7cm-HPNA2F3qrnTLAeF1lyBNGx1SvEnmz0Ok5DUV8ZRiOZP0fDBf_tP0LIZRcShjLexQJ6nbXiQsFaBEXc8bSHuTmGjKGscfYjGahNnvbk7Vf0hmdHX5Gca9LrWUwPwIl10Q5qzaPbH6BNHIJNg1s79QJ4BMLD4z6hhN3/s1600/gib.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF1NjcNl0amY7zxe4zJ58EcQQ7cm-HPNA2F3qrnTLAeF1lyBNGx1SvEnmz0Ok5DUV8ZRiOZP0fDBf_tP0LIZRcShjLexQJ6nbXiQsFaBEXc8bSHuTmGjKGscfYjGahNnvbk7Vf0hmdHX5Gca9LrWUwPwIl10Q5qzaPbH6BNHIJNg1s79QJ4BMLD4z6hhN3/s1600/gib.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year from now.\nThe update to its Content Security Policy (CSP) aims to enhance the Entra ID sign-in experience at \"login.microsoftonline[.]com\" by only letting scripts from trusted Microsoft domains run.\n\"This update strengthens security and adds an extra",
-          "link": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
-          "publishedOn": "2025-11-27T15:37:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggbH_BZ4IWtK9XUQJlVK_lYU-KRFB6bMqJMGZUr640ws6tiDaAcew4Pf9SC_Mc3aUrTo52vkVQ2OGUXwZ1y9M0jRb0mywWeYspEWQ2QyjaRfWz1Z8jTDn1HzsNL87aEZRvaEvsuEzCx0DG4CAGMUbazLVxKSLjPpNh255KfuycID8w7BgOm445sOl4cZt0/s1600/entra-id.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggbH_BZ4IWtK9XUQJlVK_lYU-KRFB6bMqJMGZUr640ws6tiDaAcew4Pf9SC_Mc3aUrTo52vkVQ2OGUXwZ1y9M0jRb0mywWeYspEWQ2QyjaRfWz1Z8jTDn1HzsNL87aEZRvaEvsuEzCx0DG4CAGMUbazLVxKSLjPpNh255KfuycID8w7BgOm445sOl4cZt0/s1600/entra-id.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Hackers have been busy again this week. From fake voice calls and AI-powered malware to huge money-laundering busts and new scams, there’s a lot happening in the cyber world.\nCriminals are getting creative — using smart tricks to steal data, sound real, and hide in plain sight. But they’re not the only ones moving fast. Governments and security teams are fighting back, shutting down fake",
-          "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
-          "publishedOn": "2025-11-27T10:03:00.000Z",
-          "wordCount": null,
-          "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht6UhaJKO8B5nl8PUBMTiIxKg_F2ZG2IyUHemsnutwdvUzAoD9LKGyJje58Z40uNuSorotRXHqJPcfW40M1TIoUn9Ncv1wRhCIq5s3jpjvJcCOs-4LHwbUMjYDCLNQXYw_C9ARz65Zk6i9812SiRSL8HoCAhdJJw8H2-pMVQo0xzHPexyOkcZU4ZI59O1E/s1600/threatsday.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht6UhaJKO8B5nl8PUBMTiIxKg_F2ZG2IyUHemsnutwdvUzAoD9LKGyJje58Z40uNuSorotRXHqJPcfW40M1TIoUn9Ncv1wRhCIq5s3jpjvJcCOs-4LHwbUMjYDCLNQXYw_C9ARz65Zk6i9812SiRSL8HoCAhdJJw8H2-pMVQo0xzHPexyOkcZU4ZI59O1E/s1600/threatsday.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Gainsight has disclosed that the recent suspicious activity targeting its applications has affected more customers than previously thought.\nThe company said Salesforce initially provided a list of 3 impacted customers and that it has \"expanded to a larger list\" as of November 21, 2025. It did not reveal the exact number of customers who were impacted, but its CEO, Chuck Ganapathi, said \"we",
-          "link": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
-          "publishedOn": "2025-11-27T07:03:00.000Z",
-          "wordCount": null,
-          "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmTJUwBQylR2JxQKyRPwiaWc6Ia-71wvno8Z5H4N6-8KX7WBGjZLU2ONRBc4Qd7vpIOcWXWkcrekIsNcFhS75LB7IwPMOvGMQPY3xe2yl0qPlgoly_1tEdy99a_glYDj599U0nR2KHQoBkgx49tGys8tsIT_hosQpkSZsiLSXCUFJkCCDWn26eg_jxMpd/s1600/sales.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmTJUwBQylR2JxQKyRPwiaWc6Ia-71wvno8Z5H4N6-8KX7WBGjZLU2ONRBc4Qd7vpIOcWXWkcrekIsNcFhS75LB7IwPMOvGMQPY3xe2yl0qPlgoly_1tEdy99a_glYDj599U0nR2KHQoBkgx49tGys8tsIT_hosQpkSZsiLSXCUFJkCCDWn26eg_jxMpd/s1600/sales.jpg"
         }
       ]
     },
@@ -20340,6 +20388,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=376098",
+          "author": "Heirul Kamel",
+          "description": "Deputy Communications Minister Teo Nie Ching stated that banning popular online games like Roblox is unlikely to effectively address concerns around child safety. She also emphasised that better in-game protection features and broader collaboration are key to safeguarding young users. Speaking to reporters after officiating new facilities at a local hospital earlier today, Teo said […]\nThe post Dept Comms Minister: Banning Online Games Insufficient To Resolve Child Safety Issues appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376098/dept-comms-minister-banning-online-games-insufficient-to-resolve-child-safety-issues/",
+          "publishedOn": "2025-12-12T07:27:39.000Z",
+          "wordCount": 11019,
+          "title": "Dept Comms Minister: Banning Online Games Insufficient To Resolve Child Safety Issues",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/roblox-file-photo-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376093",
+          "author": "Kiran Ganesan",
+          "description": "As previously promised, Huawei has officially announced its latest foldable smartphone, the Mate X7, for the international market. The device first debuted in China earlier in the year and is the successor to the Mate X6. To jog your memory, the Mate X7 features an 8-inch inner display with 2,416 x 2,210 pixel resolution. The […]\nThe post Huawei Mate X7 Launches Globally; Priced At €2,099 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376093/huawei-mate-x7-launches-globally/",
+          "publishedOn": "2025-12-12T07:17:36.000Z",
+          "wordCount": 10881,
+          "title": "Huawei Mate X7 Launches Globally; Priced At €2,099",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Huawei-Mate-X7-International-Launch1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376095",
+          "author": "John Law",
+          "description": "Clair Obscur: Expedition 33 practically mopped up the trophies at The Game Awards 2025, both rightfully and deservedly so. But that’s not our focus here: our focus is on some of the major titles that were announced during the ceremony. So, without further ado, here’s the hot takes from this year’s Game Awards. Tomb Raider […]\nThe post Here Are The Major Titles That Debuted At The Game Awards 2025 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376095/major-title-unveil-the-game-awards-2025/",
+          "publishedOn": "2025-12-12T07:05:21.000Z",
+          "wordCount": 12757,
+          "title": "Here Are The Major Titles That Debuted At The Game Awards 2025",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/The-Game-Awards-2025-Game-Of-The-Year-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376082",
+          "author": "Ian Chee",
+          "description": "We last heard of Apple coming up with refreshes for its Mac Studio Displays back in September, thanks to Bloomberg’s Mark Gurman. More recently code within iOS 26 looks to have revealed that the Studio Display refresh is indeed a thing. Some of its specs have also been gleamed from said code. More specifically, Macworld […]\nThe post Upcoming Apple Mac Studio Display May Feature A19 Chip appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376082/upcoming-apple-mac-studio-display-may-feature-a19-chip/",
+          "publishedOn": "2025-12-12T06:36:05.000Z",
+          "wordCount": 10853,
+          "title": "Upcoming Apple Mac Studio Display May Feature A19 Chip",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/03/Apple-Studio-Display-7.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376084",
+          "author": "Keran",
+          "description": "GWM has opened bookings for the upcoming Wey G9 plug-in hybrid (PHEV), coinciding with the rollout of the first locally assembled (CKD) unit of the MPV at EP Manufacturing Bhd’s (EPMB) plant in Melaka. This makes the model the first Chinese New Energy MPV to be assembled in Malaysia. The automaker added that its CKD […]\nThe post GWM Opens Bookings For Wey G9 PHEV In Malaysia; Expected Price Below RM300,000 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376084/gwm-opens-bookings-wey-g9-phev/",
+          "publishedOn": "2025-12-12T06:35:30.000Z",
+          "wordCount": 10752,
+          "title": "GWM Opens Bookings For Wey G9 PHEV In Malaysia; Expected Price Below RM300,000",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/GWM-Wey-G9-PHEV1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376070",
+          "author": "Nurul Kamil",
+          "description": "Sora users will soon be able to generate videos of their favourite Disney characters, including those from Pixar and Marvel – all with the company’s blessing. In a joint statement, Disney and OpenAI announced a licensing agreement to bring the former’s characters to the generative AI video platform. Under this three-year agreement, Sora will be […]\nThe post Disney Licenses Its Characters To Sora, ChatGPT In OpenAI Deal appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376070/disney-sora-openai-deal/",
+          "publishedOn": "2025-12-12T05:56:50.000Z",
+          "wordCount": 10927,
+          "title": "Disney Licenses Its Characters To Sora, ChatGPT In OpenAI Deal",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/disney-openai-deal-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376075",
+          "author": "Heirul Kamel",
+          "description": "AirAsia parent company Capital A as well as Standard Chartered Bank Malaysia have signed a Letter of Intent (LOI) to explore a ringgit-denominated stablecoin within Bank Negara Malaysia’s Digital Asset Innovation Hub (DAIH). The move marks Capital A’s first major step into regulated digital assets and positions both companies to test how an MYR-backed token […]\nThe post Capital A, Standard Chartered Explore MYR Stablecoin Sandbox Initiative appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376075/capital-a-standard-chartered-explore-myr-stablecoin-sandbox-initiative/",
+          "publishedOn": "2025-12-12T05:36:27.000Z",
+          "wordCount": 10816,
+          "title": "Capital A, Standard Chartered Explore MYR Stablecoin Sandbox Initiative",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/capital-a-standard-chartered-explore-myr-stablecoin-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376049",
+          "author": "Keran",
+          "description": "Kia Malaysia has announced the model line-up that will be introduced under its newly established local presence, which will begin operations on 1 January 2026. The line-up was revealed during a recent press dinner and includes the EV9, Carnival, and Sportage. From this rebooted line-up, it is clear that Kia Malaysia has chosen to retain […]\nThe post Kia Malaysia Confirms 2026 Line-Up Ahead Of Local Relaunch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376049/kia-malaysia-confirms-2026-line-up-ahead-of-local-relaunch/",
+          "publishedOn": "2025-12-12T04:36:16.000Z",
+          "wordCount": 10782,
+          "title": "Kia Malaysia Confirms 2026 Line-Up Ahead Of Local Relaunch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/KIA-EV91.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376054",
+          "author": "Kiran Ganesan",
+          "description": "WhatsApp has announced a new wave of updates coming to its messaging app just before the holidays. These features include missed call messages, status stickers, and improved Meta AI image generation. The company claims that this will make it easier to connect with the people who matter most. Starting with the additions for calls. WhatsApp […]\nThe post WhatsApp Introduces Missed Call Messages, Status Stickers, And More appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376054/whatsapp-missed-call-messages-status-stickers/",
+          "publishedOn": "2025-12-12T04:18:05.000Z",
+          "wordCount": 11067,
+          "title": "WhatsApp Introduces Missed Call Messages, Status Stickers, And More",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/WhatsApp-New-Feature-Roundup-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376043",
+          "author": "Nurul Kamil",
+          "description": "The Nothing Phone (3a) series debuted back in March as the brand’s mid-range offering. Now that the vanilla version has received a Community Edition, it seems the company is shifting its attention to the succeeding models. While Nothing has not divulged any details on the upcoming Phone (4a) and Phone (4a) Pro, a recent rumour […]\nThe post Nothing Phone (4a) Lineup, Headphone (a) Detailed In Leak appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376043/nothing-phone-4a-headphone-a-leak/",
+          "publishedOn": "2025-12-12T02:39:35.000Z",
+          "wordCount": 10906,
+          "title": "Nothing Phone (4a) Lineup, Headphone (a) Detailed In Leak",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/Nothing-Phone-3a-launch-3.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=375976",
           "author": "Ian Chee",
@@ -21574,86 +21722,6 @@
           "wordCount": 10078,
           "title": "Steam Hosts First-Ever Black Friday Sale; Discounts Galore",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Steam-Black-Friday-Sales-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=373582",
-          "author": "Nurul Kamil",
-          "description": "The HONOR Magic8 Pro serves as the brand’s newest flagship phone, succeeding the Magic7 Pro launched back in January. Ahead of its local debut, the company has given us the opportunity to get acquainted with the device. The model in my hands is the Sunrise Gold version, although the smartphone also comes in Sky Cyan […]\nThe post HONOR Magic8 Pro Hands On: A Bit Of An Acquired Taste appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/373582/honor-magic8-pro-hands-on/",
-          "publishedOn": "2025-11-27T08:20:19.000Z",
-          "wordCount": 12378,
-          "title": "HONOR Magic8 Pro Hands On: A Bit Of An Acquired Taste",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/honor-magic8-pro-hands-on-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374569",
-          "author": "John Law",
-          "description": "As previously reported, Honor is officially launching the Magic8 Pro today. In addition to the launch, the brand is also bundling an Insta360 Ace Pro action camera with every purchase of the phone, while stocks last. Running through the specs, the Magic8 Pro features a 6.71-inch LTPO OLED display, with a peak brightness of 6,000 […]\nThe post Honor Magic8 Pro Officially Launches In Malaysia; Retails From RM4,599 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374569/honor-magic8-pro-officially-launches-in-malaysia-retails-from-rm4599/",
-          "publishedOn": "2025-11-27T08:18:09.000Z",
-          "wordCount": 10365,
-          "title": "Honor Magic8 Pro Officially Launches In Malaysia; Retails From RM4,599",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Honor-Magic8-Pro-Launch-5.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374572",
-          "author": "John Law",
-          "description": "Samsung Malaysia officially unveiled the QN90F today, marking the official arrival of the massive TV to our shores. And by massive, it measures in at 115-inches across the wall. Now, the QN90F does ship out with an 8K panel, but the model that was on display was only 4K. To that end, this model is […]\nThe post Samsung Officially Brings 115-Inch QN90F Neo QLED TV To Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374572/samsung-qn90f-115-inches-neo-qled/",
-          "publishedOn": "2025-11-27T07:51:34.000Z",
-          "wordCount": 10145,
-          "title": "Samsung Officially Brings 115-Inch QN90F Neo QLED TV To Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Samsung-QN90F-QLED-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374565",
-          "author": "Nurul Kamil",
-          "description": "Chinese regulators have barred ByteDance from using NVIDIA chips in new data centres, according to a report by The Information. This ban highlights the nation’s push to move away from relying on US technology. Such efforts have intensified following the US government’s move to tighten restrictions on exports to China. Compared to other Chinese companies, […]\nThe post China Reportedly Bans ByteDance From Using NVIDIA Chips appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374565/china-bytedance-nvidia-chip-ban/",
-          "publishedOn": "2025-11-27T05:28:24.000Z",
-          "wordCount": 10037,
-          "title": "China Reportedly Bans ByteDance From Using NVIDIA Chips",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/bytedance-gametop-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374547",
-          "author": "Keran",
-          "description": "iCAUR Malaysia has officially introduced its second model, the V23, to the local market. First previewed in October, the fully electric off-road SUV will be available in two variants: a rear-wheel-drive (2WD) and an intelligent all-wheel-drive (iWD). Design-wise, the V23 features a bold, upright stance and a boxy profile. The front end is defined by […]\nThe post iCAUR V23 Officially Launches In Malaysia; Starts From RM119,800 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374547/icaur-v23-launches-in-malaysia/",
-          "publishedOn": "2025-11-27T05:07:51.000Z",
-          "wordCount": 11382,
-          "title": "iCAUR V23 Officially Launches In Malaysia; Starts From RM119,800",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/iCAUR-V231.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374544",
-          "author": "Heirul Kamel",
-          "description": "WhatsApp has confirmed a major policy shift that will block the use of any non-Meta AI chatbot inside the messaging app starting 15 January 2026. The updated terms of service explicitly prohibit third-party AI assistants, meaning users will no longer be able to access ChatGPT, Microsoft Copilot or similar services through WhatsApp once the cutoff […]\nThe post WhatsApp To Ban Third-Party AI Chatbots From January 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374544/whatsapp-to-ban-third-party-ai-chatbots-from-january-2026/",
-          "publishedOn": "2025-11-27T03:22:39.000Z",
-          "wordCount": 10204,
-          "title": "WhatsApp To Ban Third-Party AI Chatbots From January 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2021/10/Whatsapp-e1633323367942.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374534",
-          "author": "Nurul Kamil",
-          "description": "Sarawak is poised to draw the attention of the regional animation and digital gaming industry next year. In this coming August, the state will be hosting the Borneo Animation and Gaming Festival (BAGF). According to Digital Minister Gobind Singh Deo, Sarawak Premier Tan Sri Abang Johari Tun Openg has agreed to the establishment of a […]\nThe post Sarawak To Become Regional Animation And Gaming Hub With New Festival appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374534/sarawak-animation-gaming-festival/",
-          "publishedOn": "2025-11-27T03:06:22.000Z",
-          "wordCount": 10012,
-          "title": "Sarawak To Become Regional Animation And Gaming Hub With New Festival",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/sarawak-animation-game-festival-02.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374532",
-          "author": "Heirul Kamel",
-          "description": "Footwear and video gaming collaborations are nothing new. The results of these tie-ins are often incredible, while others are… questionable. But for Singapore-based designer Gustavo Bonzanini, he has decided to take this combination of popular culture to an entirely new level. Enter the AIR SNES, a passion project by Bonzanini to celebrate the 35th anniversary […]\nThe post Fan Project Turns A Classic Nike Sneaker Into A Fully Working Super Nintendo Console appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374532/air-snes-nike-super-nintendo/",
-          "publishedOn": "2025-11-27T02:40:09.000Z",
-          "wordCount": 10279,
-          "title": "Fan Project Turns A Classic Nike Sneaker Into A Fully Working Super Nintendo Console",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/AIR-SNES-Nike-Nintendo-passion-project-1.jpg"
         }
       ]
     },
@@ -21662,6 +21730,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "Hamas's best hackers have been maturing, building better malware, and spreading their attacks more widely across the region.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats",
+          "publishedOn": "2025-12-12T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Hamas-Linked Hackers Probe Middle Eastern Diplomats",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months",
+          "author": "Alexander Culafi",
+          "description": "Wiz disclosed a still-unpatched vulnerability in self-hosted Git service Gogs, which is a bypass for a previous RCE bug disclosed last year.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months",
+          "publishedOn": "2025-12-11T20:11:43.000Z",
+          "wordCount": null,
+          "title": "Attackers Exploited Gogs Zero-Day Flaw for Months",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot-security/ai-ot-too-incompatible-work-securely",
+          "author": "Arielle Waldman",
+          "description": "Using artificial intelligence in operational technology environments could be a bumpy ride full of trust issues and security challenges.",
+          "link": "https://www.darkreading.com/ics-ot-security/ai-ot-too-incompatible-work-securely",
+          "publishedOn": "2025-12-11T14:50:59.000Z",
+          "wordCount": null,
+          "title": "AI in OT Sparks Cascade of Complex Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/copilot-no-code-ai-agents-leak-company-data",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "Microsoft puts the power of AI in the hands of everyday non-technical Joes. It's a nice idea, and a surefire recipe for security issues.",
+          "link": "https://www.darkreading.com/application-security/copilot-no-code-ai-agents-leak-company-data",
+          "publishedOn": "2025-12-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Copilot's No-Code AI Agents Liable to Leak Company Data",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks",
           "author": "Jai Vijayan, Contributing Writer",
