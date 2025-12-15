@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in test artifacts, allowing users to decrypt files without paying an extortion fee.\nAccording to SentinelOne, VolkLocker (aka CyberVolk 2.x) emerged in August 2025 and is capable of targeting both Windows",
+          "link": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
+          "publishedOn": "2025-12-15T05:33:00.000Z",
+          "wordCount": null,
+          "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZP3WUgrypoDpL5dUk1TlTjzyLA_HKMjawrIv9xe9Aq6_K1u7ikP5Y7ehR-VuYhvQkb5ZHaKrz2WH_uXqmB5YaQm_t4byXd8uFCIMAqYcx15Zog3Wwt4JLdtlvCwm3nPMFI9eBNdni-5Ac7XjIrJ8JjN1D5MFRIer-S1XyPlIpw1s9ybXB_Lgt4UwJ_UJW/s1600/ransomware-key.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZP3WUgrypoDpL5dUk1TlTjzyLA_HKMjawrIv9xe9Aq6_K1u7ikP5Y7ehR-VuYhvQkb5ZHaKrz2WH_uXqmB5YaQm_t4byXd8uFCIMAqYcx15Zog3Wwt4JLdtlvCwm3nPMFI9eBNdni-5Ac7XjIrJ8JjN1D5MFRIer-S1XyPlIpw1s9ybXB_Lgt4UwJ_UJW/s1600/ransomware-key.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nCVE-2018-4063 (CVSS score: 8.8/9.9) refers to an unrestricted file upload vulnerability that could be exploited to achieve remote code",
@@ -20412,22 +20428,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Lxoj-jT0lWvAbKZzQ_8tBsiD8CE76EWRKAfG_TID9mVbmf8BoJx5N1fR3ztKD6Yb3B8bRlGyMEArCKaW939VXvJT1G-z2iIxJrjkl_0NBONbMDU3NL8L_vqDzJQWMRIehlO-GiASFU0hTzfxL7_uKhObMFcFHfwv8lRxgFKqNXk-a04Z5gj-Wxvo_nbM/s1600/cyberattacks.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Lxoj-jT0lWvAbKZzQ_8tBsiD8CE76EWRKAfG_TID9mVbmf8BoJx5N1fR3ztKD6Yb3B8bRlGyMEArCKaW939VXvJT1G-z2iIxJrjkl_0NBONbMDU3NL8L_vqDzJQWMRIehlO-GiASFU0hTzfxL7_uKhObMFcFHfwv8lRxgFKqNXk-a04Z5gj-Wxvo_nbM/s1600/cyberattacks.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via",
-          "link": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
-          "publishedOn": "2025-11-30T09:23:00.000Z",
-          "wordCount": null,
-          "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDyMqGZH8Rp4Y4Nt38tsox7FPdyDY1hpVLBuBDSX4Zfz3FlXPCzUR5TIOcLs_e3Q37fkYRyC7M-pdCEOmvqhLxWBvynMu8XUeVjaZzdUX5UlW4rqqGs_504c6rcd-ev02FEmGlGjgTUF8hvjIak9dbLhtbVaSgAdl7a9wDYs7u6NO3jcjb12zbVdPnox4/s1600/cisa.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDyMqGZH8Rp4Y4Nt38tsox7FPdyDY1hpVLBuBDSX4Zfz3FlXPCzUR5TIOcLs_e3Q37fkYRyC7M-pdCEOmvqhLxWBvynMu8XUeVjaZzdUX5UlW4rqqGs_504c6rcd-ev02FEmGlGjgTUF8hvjIak9dbLhtbVaSgAdl7a9wDYs7u6NO3jcjb12zbVdPnox4/s1600/cisa.jpg"
         }
       ]
     },
@@ -20436,6 +20436,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=376303",
+          "author": "Heirul Kamel",
+          "description": "SK Hynix has reportedly warned that the global supply of commodity DRAM will remain tight until at least 2028, a situation that could translate into higher prices for consumer hardware. According to TechPowerUp, the memory maker shared this outlook during a recent internal company meeting, signalling a significant shift from how the industry has traditionally […]\nThe post SK Hynix Warns Of Prolonged DRAM Shortage Until 2028 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376303/sk-hynix-warns-of-prolonged-dram-shortage-until-2028/",
+          "publishedOn": "2025-12-15T08:40:46.000Z",
+          "wordCount": 10880,
+          "title": "SK Hynix Warns Of Prolonged DRAM Shortage Until 2028",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2020/10/SK-Hynix-DDR5-800.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376293",
+          "author": "John Law",
+          "description": "iRobot Corp, the parent company of the popular Roomba robot vacuum, has filed for bankruptcy. The company is also now expected to hand over the keys of its operations to its main Chinese supplier, PICEA Robotics Co, which is based in Shenzhen. Specifically, iRobot Corp’s IP will be handed over to PICEA, while the common […]\nThe post The Parent Company Of Roomba Is Officially Bankrupt appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376293/roomba-parent-company-bankrupt/",
+          "publishedOn": "2025-12-15T08:21:32.000Z",
+          "wordCount": 10750,
+          "title": "The Parent Company Of Roomba Is Officially Bankrupt",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2021/09/Roomba_j7_j7__Object_Detection_Cords_Alert.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376291",
+          "author": "Keran",
+          "description": "Keretapi Tanah Melayu Berhad (KTMB) will implement changes to its train schedules beginning 1 January 2026, affecting KTM Komuter Klang Valley services in conjunction with the ongoing Klang Valley Double Track Phase II (KVDT2) project. In a statement released on its social media platforms on 14 December 2025, KTMB said the timetable adjustments form part […]\nThe post KTMB To Revise KTM Komuter Klang Valley Timetable From 1 January 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376291/ktmb-revise-klang-valley-timetable-1-january-2026/",
+          "publishedOn": "2025-12-15T07:28:02.000Z",
+          "wordCount": 10860,
+          "title": "KTMB To Revise KTM Komuter Klang Valley Timetable From 1 January 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/07/ktm-ktmb-ets.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376288",
+          "author": "Kiran Ganesan",
+          "description": "As you may recall, OPPO launched its flagship smartphones, the Find X9 and the X9 Pro, back in October. However, if you’ve kept up with the lineup, you know that the company has yet to release its most powerful variant, the Find X9 Ultra. The device has been the subject of various leaks, and now […]\nThe post OPPO Find X9 Ultra Specs Leaked; May Feature Snapdragon 8 Elite Gen 5 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376288/oppo-find-x9-ultra-specs-leaked-may-feature-snapdragon-8-elite-gen-5/",
+          "publishedOn": "2025-12-15T06:29:18.000Z",
+          "wordCount": 10939,
+          "title": "OPPO Find X9 Ultra Specs Leaked; May Feature Snapdragon 8 Elite Gen 5",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/oppo-find-x8-ultra-camera-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376233",
+          "author": "John Law",
+          "description": "The shortage of DRAM is clearly going to continue through 2026 (thanks, AI Boom), and it’s forcing the hands of many brands to bring back, or rather, recycle older technologies at this point. For smartphone makers, bringing back microSD card slots may not be enough; they may have to resort to making 4GB RAM smartphones. […]\nThe post Smartphones With 4GB RAM May Become A Thing Again In 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376233/smartphones-with-4gb-ram-may-become-a-thing-again-in-2026/",
+          "publishedOn": "2025-12-15T05:35:15.000Z",
+          "wordCount": 10869,
+          "title": "Smartphones With 4GB RAM May Become A Thing Again In 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/DRAM-mobile-memory-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376270",
+          "author": "Nurul Kamil",
+          "description": "Infinix has announced that it will be launching its newest tablet on our shores soon. Dubbed the XPAD Edge, the device is designed with both productivity and entertainment in mind, making it suitable for students, professionals, as well as creators. Starting with the basics, the tablet sports a 6.19mm unibody metal frame and weighs 588g. […]\nThe post Infinix XPAD Edge To Launch In Malaysia On 18 December appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376270/infinix-xpad-edge-launch-18-december/",
+          "publishedOn": "2025-12-15T04:47:55.000Z",
+          "wordCount": 10693,
+          "title": "Infinix XPAD Edge To Launch In Malaysia On 18 December",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/infinix-xpad-edge-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376268",
+          "author": "Heirul Kamel",
+          "description": "TNG Digital has expanded access to Amanah Saham Malaysia 3 (ASM 3) by becoming one of Amanah Saham Nasional Berhad’s (ASNB) digital agents, allowing new users to subscribe to the fund directly via TNG eWallet. First-time investors can begin their investment journey through the GOfinance section in the app, with investments starting from as low […]\nThe post TNG Digital Expands ASM 3 Access Via GOfinance On Its eWallet appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376268/tng-digital-expands-asm-3-access-via-gofinance-on-its-ewallet/",
+          "publishedOn": "2025-12-15T04:37:50.000Z",
+          "wordCount": 10783,
+          "title": "TNG Digital Expands ASM 3 Access Via GOfinance On Its eWallet",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/07/TnG-eWallet-GOfinance-launch_2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376254",
+          "author": "Kiran Ganesan",
+          "description": "Google has officially announced that it will be bringing its Gemini AI to Google Translate. This revamped version of the decades-old translation tool will now provide more natural and accurate translations, in addition to a whole slew of extra features. According to the official blog post, users will be able to access this “state-of-the-art translation […]\nThe post Gemini AI Will Now Power Google Translate In Select Regions appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376254/gemini-ai-will-now-power-google-translate-in-select-regions/",
+          "publishedOn": "2025-12-15T04:11:53.000Z",
+          "wordCount": 11036,
+          "title": "Gemini AI Will Now Power Google Translate In Select Regions",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Gemini-AI-To-Power-Google-Translate-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376243",
+          "author": "Ian Chee",
+          "description": "Back in October, Yes announced that that it would be rolling out 5G Advanced to its postpaid and broadband customers. The telco also held a demo of the network’s speed in the heart of Kuala Lumpur. Now, it’s finally the turn of prepaid customers, with the telco launching the Yes 5G Advanced Starter Pack. Yes […]\nThe post Yes Rolls Out 5G Advanced Prepaid Starter Pack; 20GB Data For RM10 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376243/yes-5g-advanced-prepaid-starter-pack-20gb-rm10/",
+          "publishedOn": "2025-12-15T04:09:33.000Z",
+          "wordCount": 10927,
+          "title": "Yes Rolls Out 5G Advanced Prepaid Starter Pack; 20GB Data For RM10",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Yes-5G-Advanced-Starter-Pack.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=376245",
+          "author": "Keran",
+          "description": "Finance Minister II Datuk Seri Amir Hamzah Azizan said the government has no plans to introduce tiered pricing for RON95 at RM2.10 or RM2.30 under the BUDI95 programme once the 300-litre quota is fully utilised. He explained that such a move could increase the risk of leakages and would not meaningfully improve the government’s fiscal […]\nThe post No Tiered RON95 Pricing After 300 Litres Under BUDI95, Says Finance Minister II appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/376245/no-tiered-ron95-pricing-after-300-litres-under-budi95-says-finance-minister-ii/",
+          "publishedOn": "2025-12-15T04:04:32.000Z",
+          "wordCount": 10902,
+          "title": "No Tiered RON95 Pricing After 300 Litres Under BUDI95, Says Finance Minister II",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Shell-BUDI-9515.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=376114",
           "author": "Ian Chee",
@@ -21695,26 +21795,6 @@
           "wordCount": 10682,
           "title": "Malaysian Telco Apps Integrated With MyDigital ID Starting Today",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/04/maxis-hotlink-celcom-digi-yes-u-mobile-unifi-telco.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374794",
-          "author": "Newsdesk",
-          "description": "If you’ve been following aviation news over the weekend, you might have seen reports about a global “scramble” involving Airbus A320 aircraft. It sounds like the plot of a sci-fi movie: intense solar radiation potentially messing with flight computers. Well, the good news for local flyers is that AirAsia has officially announced they have completed […]\nThe post AirAsia Completes Mandatory A320 Software “Rollback” Following EASA Solar Radiation Warning appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374794/airasia-completes-mandatory-a320-software-rollback-following-easa-solar-radiation-warning/",
-          "publishedOn": "2025-11-30T08:08:19.000Z",
-          "wordCount": 10945,
-          "title": "AirAsia Completes Mandatory A320 Software “Rollback” Following EASA Solar Radiation Warning",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/IMG_4315.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=374770",
-          "author": "Nurul Kamil",
-          "description": "The vivo S50 Pro Mini, which reportedly will be rebranded as the vivo X300 FE for the international market, will soon make its debut in China. Ahead of the upcoming launch, the company has revealed the device’s design, as well as some of its details. In a Weibo post, the brand’s product manager Han Boxiao […]\nThe post vivo S50 Pro Mini To Feature Horizontal Camera Layout, Snapdragon 8 Gen 5 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/374770/vivo-s50-pro-mini/",
-          "publishedOn": "2025-11-30T04:00:26.000Z",
-          "wordCount": 10305,
-          "title": "vivo S50 Pro Mini To Feature Horizontal Camera Layout, Snapdragon 8 Gen 5",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/vivo-s50-pro-mini-01.png"
         }
       ]
     },
