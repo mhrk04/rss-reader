@@ -19294,6 +19294,102 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the",
+          "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+          "publishedOn": "2025-12-25T08:22:00.000Z",
+          "wordCount": null,
+          "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWq72oFKp6biq3Hf_tsdl9xZeVhxI_BGzBaKfw1DiMD2ldey-KGb8qk27HJH9rt-pys9Ga94wnpRZfAYUdFW9g5_-ncNfIBaYtzsHD-GpGk0LtMaSZ0yD83PqptSkQlIuFNwa94qWlQvk3Yqz-eSpFchaeTh3VbYOXgRJ96sDTRz7dy-_ShXQu1jnzQXhx/s1600/fortinet-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWq72oFKp6biq3Hf_tsdl9xZeVhxI_BGzBaKfw1DiMD2ldey-KGb8qk27HJH9rt-pys9Ga94wnpRZfAYUdFW9g5_-ncNfIBaYtzsHD-GpGk0LtMaSZ0yD83PqptSkQlIuFNwa94qWlQvk3Yqz-eSpFchaeTh3VbYOXgRJ96sDTRz7dy-_ShXQu1jnzQXhx/s1600/fortinet-exploit.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2023-52163 (CVSS score: 8.8), relates to a case of command injection that allows post-authentication remote code",
+          "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+          "publishedOn": "2025-12-25T08:07:00.000Z",
+          "wordCount": null,
+          "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy1j0ppiPjhfsUfYcYQ36krQ1Jgau1SvfX5zWM4gmFxvKhVhMOxhDQIfz5nBtExAH9NBv6bv2XJAs0SJJdvXlg-bIWNibSo8kHvtDTPOxTU5B8eqPt2NlI4FtA0-0ri2T3ueDhQbyiJ_TS7IZALghzlOckTrk8zOuZhPPu3nRT4EiAvr65exPrrbmtui0x/s1600/digiever.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy1j0ppiPjhfsUfYcYQ36krQ1Jgau1SvfX5zWM4gmFxvKhVhMOxhDQIfz5nBtExAH9NBv6bv2XJAs0SJJdvXlg-bIWNibSo8kHvtDTPOxTU5B8eqPt2NlI4FtA0-0ri2T3ueDhQbyiJ_TS7IZALghzlOckTrk8zOuZhPPu3nRT4EiAvr65exPrrbmtui0x/s1600/digiever.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple's Gatekeeper checks.\n\"Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more",
+          "link": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
+          "publishedOn": "2025-12-24T16:23:00.000Z",
+          "wordCount": null,
+          "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_PuMhZ0HFVFeZcWU-pTmZixk1HyEXwA1hMDHRyhd3_vUKfniwEMpjAW60vTPiDnzD9yNm9zITdAQswlvy0Uc2MyvAmjJHkTuEe1n_hAvfyrUD_1KUGcGVS2jyV_gH90K8Ji1dvIe6zMvY4zdMZASLUZRSP-WyILYIah2n3peSJpumHgOx9YnSo00gTeD/s1600/apple-macos.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_PuMhZ0HFVFeZcWU-pTmZixk1HyEXwA1hMDHRyhd3_vUKfniwEMpjAW60vTPiDnzD9yNm9zITdAQswlvy0Uc2MyvAmjJHkTuEe1n_hAvfyrUD_1KUGcGVS2jyV_gH90K8Ji1dvIe6zMvY4zdMZASLUZRSP-WyILYIah2n3peSJpumHgOx9YnSo00gTeD/s1600/apple-macos.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube.\nThe Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from",
+          "link": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
+          "publishedOn": "2025-12-24T13:08:00.000Z",
+          "wordCount": null,
+          "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aPel78Nr5STfEXJNS6ffZryQXLfsfK_28p7uP87APKCUPSSltwQpz3bJ0JkicC47kinWvbbx7O1f8Ln8ihh50e8PjUVZlE0gqxnmUBR4oWUXTZCDt2wj7eU1p10UoJJXIrMrIfyYLqlDJ4SorQGFqzoDMqjtgCmSneHfAvOImN4lak7ZfDRtxKp6ihWn/s1600/invest.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aPel78Nr5STfEXJNS6ffZryQXLfsfK_28p7uP87APKCUPSSltwQpz3bJ0JkicC47kinWvbbx7O1f8Ln8ihh50e8PjUVZlE0gqxnmUBR4oWUXTZCDt2wj7eU1p10UoJJXIrMrIfyYLqlDJ4SorQGFqzoDMqjtgCmSneHfAvOImN4lak7ZfDRtxKp6ihWn/s1600/invest.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Every year, cybercriminals find new ways to steal money and data from businesses. Breaching a business network, extracting sensitive data, and selling it on the dark web has become a reliable payday. \nBut in 2025, the data breaches that affected small and medium-sized businesses (SMBs) challenged our perceived wisdom about exactly which types of businesses cybercriminals are targeting.",
+          "link": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
+          "publishedOn": "2025-12-24T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifLygs87unIWWh3Rkm21IaoiG7U39r9CLXQkb5f6zeuT19oC6lApHoLbM9WXzJhhhcmsH1dTsiCIi4pDO25KSU_zW7_5Erc9bhOprlF_q1ZW-np8mlXCSv5Y5KJO5Q5zuI5dJx6cVnmecgSFzTImJ9rP2YnmUQSRknzLHHDnRpYkla6_W2xRYvT4BWsPk/s1600/proton.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifLygs87unIWWh3Rkm21IaoiG7U39r9CLXQkb5f6zeuT19oC6lApHoLbM9WXzJhhhcmsH1dTsiCIi4pDO25KSU_zW7_5Erc9bhOprlF_q1ZW-np8mlXCSv5Y5KJO5Q5zuI5dJx6cVnmecgSFzTImJ9rP2YnmUQSRknzLHHDnRpYkla6_W2xRYvT4BWsPk/s1600/proton.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Securities and Exchange Commission (SEC) has filed charges against multiple companies for their alleged involvement in an elaborate cryptocurrency scam that swindled more than $14 million from retail investors.\nThe complaint charged crypto asset trading platforms Morocoin Tech Corp., Berge Blockchain Technology Co., Ltd., and Cirkor Inc., as well as investment clubs AI Wealth Inc., Lane",
+          "link": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
+          "publishedOn": "2025-12-24T09:19:00.000Z",
+          "wordCount": null,
+          "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rxN2olFlFlcGsNMy3As2bk-d-rLBC3NwCMPnRM4r5J_zZ2eRFO_XIoavtIONaORSVczKz8bzZP_4bjw_I9qPUvo-bek_ggNDECUHk4kE6Irf26TEjsmuRzWR5b6XvDwRov96e-tXvdTQfTM4Y_-sVi41EAaaOqZ_DchnLSMGWqWfcq4ULi-yznDe2ane/s1600/farud.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rxN2olFlFlcGsNMy3As2bk-d-rLBC3NwCMPnRM4r5J_zZ2eRFO_XIoavtIONaORSVczKz8bzZP_4bjw_I9qPUvo-bek_ggNDECUHk4kE6Irf26TEjsmuRzWR5b6XvDwRov96e-tXvdTQfTM4Y_-sVi41EAaaOqZ_DchnLSMGWqWfcq4ULi-yznDe2ane/s1600/farud.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Apple has been fined €98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition.\nThe Italian Competition Authority (Autorità Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
@@ -20268,118 +20364,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.\nThis includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based",
-          "link": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
-          "publishedOn": "2025-12-10T20:19:00.000Z",
-          "wordCount": null,
-          "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY81AEgJ3ys1RM_RunP7NBgyQpMKIzdUIbHOklJNtO27j45TCOaOxwkZsUKIgHOmE1M4jQnzFy4C8Z3Lb-z1KNGhdgmUunavK91bX3Ep4YTRRuPVgqrMb7CraGl_DSXN5k_6_aCHskDMlbLHRbOyWnzz02cqH4he47nzYqo-8XIgCpGo6T0ZEwi2ko9Umr/s1600/react-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY81AEgJ3ys1RM_RunP7NBgyQpMKIzdUIbHOklJNtO27j45TCOaOxwkZsUKIgHOmE1M4jQnzFy4C8Z3Lb-z1KNGhdgmUunavK91bX3Ep4YTRRuPVgqrMb7CraGl_DSXN5k_6_aCHskDMlbLHRbOyWnzz02cqH4he47nzYqo-8XIgCpGo6T0ZEwi2ko9Umr/s1600/react-hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
-          "link": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
-          "publishedOn": "2025-12-10T19:21:00.000Z",
-          "wordCount": null,
-          "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.\nThe flaws impact PCIe Base Specification Revision 5.0 and onwards in the protocol mechanism introduced by the IDE Engineering Change Notice (ECN), according to the PCI Special",
-          "link": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
-          "publishedOn": "2025-12-10T13:32:00.000Z",
-          "wordCount": null,
-          "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3f-oOC7MmSz2Ku0x9-ljdPbuoYceSrPAAqvibbB1WV5spRUhQDjoXmn5mL8TzgQj7GP6CzMRtG0Tm8OJW1qhylFL1uafxAMcmJG3n9n3kgC00yhRIsdmJYXWKco6SyOdONzvEb29HzxOOPtsNTH7aBVL0YgKFCX73q7_pn_UQ3x7b6hWibuoJb5EVYF1/s1600/encryption.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3f-oOC7MmSz2Ku0x9-ljdPbuoYceSrPAAqvibbB1WV5spRUhQDjoXmn5mL8TzgQj7GP6CzMRtG0Tm8OJW1qhylFL1uafxAMcmJG3n9n3kgC00yhRIsdmJYXWKco6SyOdONzvEb29HzxOOPtsNTH7aBVL0YgKFCX73q7_pn_UQ3x7b6hWibuoJb5EVYF1/s1600/encryption.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.\nStandard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world.\nNext week, the Cortex Cloud team at Palo Alto Networks",
-          "link": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
-          "publishedOn": "2025-12-10T11:54:00.000Z",
-          "wordCount": null,
-          "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsLoixGZ0mDDIhc-bQESz8yfEaEGnb6XfD4LAKzu8A1eH2yFNPdTUrVYg-8nT_TUUVST8GMqHlHPfGxMrpmAT9Dj4-zMYWzsCaaAicy1pRxKh8RK1nZHtvv_warN3pAOTJOlp1Yc00f3WB_QMJ2o5eRrxpJ-d9Dh0Y32EIN78iIRDJhDStGji1DJ-72s/s1600/clloudsecurity.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsLoixGZ0mDDIhc-bQESz8yfEaEGnb6XfD4LAKzu8A1eH2yFNPdTUrVYg-8nT_TUUVST8GMqHlHPfGxMrpmAT9Dj4-zMYWzsCaaAicy1pRxKh8RK1nZHtvv_warN3pAOTJOlp1Yc00f3WB_QMJ2o5eRrxpJ-d9Dh0Y32EIN78iIRDJhDStGji1DJ-72s/s1600/clloudsecurity.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation",
-          "link": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
-          "publishedOn": "2025-12-10T11:54:00.000Z",
-          "wordCount": null,
-          "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4WUzO_P0sEPntxbBi-a6uO4dqk0arqJQMhRKYAYj7r8Dbsx3Y7PoeWrMLaEHxK7nMx4vNCTNWFYa6KYRiFFYE2i2Lg3WkD0DO63RN4Nxnt_MSOKAHmb9Z6vsIKaHVVBQLmBTVs0fgsSAomShvnBP25jt1DK11qLYEiqOg0_HsJakDdxnA45GzohEBYT7/s1600/winrar.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4WUzO_P0sEPntxbBi-a6uO4dqk0arqJQMhRKYAYj7r8Dbsx3Y7PoeWrMLaEHxK7nMx4vNCTNWFYa6KYRiFFYE2i2Lg3WkD0DO63RN4Nxnt_MSOKAHmb9Z6vsIKaHVVBQLmBTVs0fgsSAomShvnBP25jt1DK11qLYEiqOg0_HsJakDdxnA45GzohEBYT7/s1600/winrar.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.\nOf the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code",
-          "link": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
-          "publishedOn": "2025-12-10T08:50:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBMHrpsvzLEHZ52J6HNP__PNJC-IjFnM5FpHLkAj5T5-cQN1siRI_E-jKO7T2SYs1XR4g4r5wvPt37dQoCWyqceTNKs1nz7mbnHBtydb4yGtRC4qyOAL4qCNuvCImdE6H62kqb3bUUj14qVg5BGzhywqFJioC3qBIlhFnTDejUFRQRjzXY201Ge2F-IA8/s1600/windows-patch.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBMHrpsvzLEHZ52J6HNP__PNJC-IjFnM5FpHLkAj5T5-cQN1siRI_E-jKO7T2SYs1XR4g4r5wvPt37dQoCWyqceTNKs1nz7mbnHBtydb4yGtRC4qyOAL4qCNuvCImdE6H62kqb3bUUj14qVg5BGzhywqFJioC3qBIlhFnTDejUFRQRjzXY201Ge2F-IA8/s1600/windows-patch.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution.\nThe Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and",
-          "link": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
-          "publishedOn": "2025-12-10T04:50:00.000Z",
-          "wordCount": null,
-          "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0R-QzlGdiLRGA3gSZBJ0bMFvDgCeIgaL7lrq_FTLjhBMQUG6WN0Br_556xWrtqsM1U3814t28KYCkYXcp9CJS4P_jaFPJrLkcku0G1w2N44ocsawmjWgwqog3Uz3ef4kfG6z7F9J56F-O9ReNGWJlVnizYgI-i9PC_GTo2FCnajwj9CBc_-zoaEWwaz-/s1600/sap.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0R-QzlGdiLRGA3gSZBJ0bMFvDgCeIgaL7lrq_FTLjhBMQUG6WN0Br_556xWrtqsM1U3814t28KYCkYXcp9CJS4P_jaFPJrLkcku0G1w2N44ocsawmjWgwqog3Uz3ef4kfG6z7F9J56F-O9ReNGWJlVnizYgI-i9PC_GTo2FCnajwj9CBc_-zoaEWwaz-/s1600/sap.jpg"
         }
       ]
     },
@@ -21622,116 +21606,6 @@
           "wordCount": 11011,
           "title": "A 256GB DDR5 Memory Kit Now Costs More Than An NVIDIA RTX 5090",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/XPG-Lancer-Neon-RGB-DDR5-6400-5-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375809",
-          "author": "Ian Chee",
-          "description": "Here’s some nostalgia bait for you fellow 80s and 90s kids out there. There’s an upcoming indie video game called ReStory, that has you play the role of an electronics repairman. But your shop is in Tokyo, and the time period is the 2000s. With that in mind, you’ll be tasked with repairing things that […]\nThe post ReStory Is A Game Where You Play An Electronics Repairman In The 2000s appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375809/restory-play-electronics-repairman-in-2000s/",
-          "publishedOn": "2025-12-10T09:44:25.000Z",
-          "wordCount": 10844,
-          "title": "ReStory Is A Game Where You Play An Electronics Repairman In The 2000s",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/ReStory.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375714",
-          "author": "Heirul Kamel",
-          "description": "The iPhone remains one of Apple’s most recognisable products, with each generation introducing design cues that go on to define the line-up. That identity became even more pronounced with the arrival of the Pro models, which established the now-familiar triple camera layout widely associated with modern iPhones. Over time, the device has grown beyond its […]\nThe post iPhone 17 Pro Review: Apple’s Statement Piece, Renewed appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375714/apple-iphone-17-pro-review/",
-          "publishedOn": "2025-12-10T08:21:23.000Z",
-          "wordCount": 14330,
-          "title": "iPhone 17 Pro Review: Apple’s Statement Piece, Renewed",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/iphone-17-pro-review_08.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375848",
-          "author": "Keran",
-          "description": "Mercedes-Benz Malaysia has opened registrations for the new fully electric (EV) GLC 400 4MATIC with EQ Technology, just a day after launching the GLE 400 e 4MATIC. The EV was first unveiled at IAA Mobility in September this year. As previously reported, the model features a newly designed grille, with an optional illuminated version. Depending […]\nThe post Mercedes-Benz Malaysia Opens Registration Of Interest For New GLC 400 4MATIC EV appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375848/mercedes-benz-malaysia-registration-interest-glc-400-4matic-ev/",
-          "publishedOn": "2025-12-10T07:38:46.000Z",
-          "wordCount": 11030,
-          "title": "Mercedes-Benz Malaysia Opens Registration Of Interest For New GLC 400 4MATIC EV",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/GLC-400-4MATIC-EV1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375843",
-          "author": "Heirul Kamel",
-          "description": "Rapid KL operator Prasarana Malaysia Berhad has clarified that the Shah Alam Line LRT (LRT3) project remains in the Testing and Commissioning phase, despite growing public expectation that the line is nearing completion. The company said the line is currently undergoing fault-free runs (FFR), a mandatory stage that tests the integration of major systems including […]\nThe post Prasarana Explains LRT3 Delay As Testing Hits Technical Hurdles appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375843/prasarana-explains-lrt3-delay-as-testing-hits-technical-hurdles/",
-          "publishedOn": "2025-12-10T07:05:27.000Z",
-          "wordCount": 11046,
-          "title": "Prasarana Explains LRT3 Delay As Testing Hits Technical Hurdles",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/lrt3-delay-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375827",
-          "author": "Kiran Ganesan",
-          "description": "Nothing has officially unveiled the Community Edition of the Phone (3a). This phone will serve as the successor to last year’s Phone (2a) Plus Community Edition. Much like before, Nothing hosted a community-driven competition earlier in the year, which produced the final product. The contest involves multiple stages, with each stage’s winner collaborating with Nothing […]\nThe post Nothing Unveils Phone (3a) Community Edition  appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375827/nothing-unveils-phone-3a-community-edition/",
-          "publishedOn": "2025-12-10T06:32:19.000Z",
-          "wordCount": 11043,
-          "title": "Nothing Unveils Phone (3a) Community Edition",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Nothing-Phone-3a-Community-Edition-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375816",
-          "author": "Nurul Kamil",
-          "description": "Garmin has refreshed its lineup of compact satellite communicators with the inReach Mini 3 Plus. Designed for explorers wandering beyond cell coverage, the portable device sports an impact-resistant design that can withstand extreme temperatures. The inReach Mini 3 Plus comes with a colour touchscreen display, as well as a built-in speaker and microphone. For communication, […]\nThe post Garmin Announces inReach Mini 3 Plus Satellite Communicator; Priced At RM2,249 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375816/garmin-inreach-mini-3-plus/",
-          "publishedOn": "2025-12-10T06:17:46.000Z",
-          "wordCount": 11100,
-          "title": "Garmin Announces inReach Mini 3 Plus Satellite Communicator; Priced At RM2,249",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/garmin-inreach-mini-3-plus-5.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375796",
-          "author": "John Law",
-          "description": "Gigabyte recently unveiled the X870E Aero X3D Wood, an AM5 motherboard which sports a different sort of pleasing aesthetic. Part of the motherboard is made with real pieces of wood, plus some bits of leather. Gigabyte says that the design of the X3D Wood is inspired by the “Zain” aesthetic, which is a form of […]\nThe post Gigabyte Unveils Nature-Inspired X870E Aero X3D Wood Motherboard appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375796/gigabyte-x870e-aero-x3d-wood/",
-          "publishedOn": "2025-12-10T04:59:55.000Z",
-          "wordCount": 10696,
-          "title": "Gigabyte Unveils Nature-Inspired X870E Aero X3D Wood Motherboard",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Gigabyte-X870E-Aero-X3D-Wood-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375765",
-          "author": "Ian Chee",
-          "description": "The Razer Boomslang was the brand’s first mouse, which it dubs the world’s first gaming mouse on occasion. Depending on your perspective, it is technically older than the company itself, with a CE re-release in 2007. Now, for the 20th anniversary of its current iteration, the company is bringing it back. And to make it […]\nThe post Razer Boomslang Returns For The Company’s 20th Anniversary appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375765/razer-boomslang-returns-for-20th-anniversary/",
-          "publishedOn": "2025-12-10T04:43:41.000Z",
-          "wordCount": 11039,
-          "title": "Razer Boomslang Returns For The Company’s 20th Anniversary",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Razer-Boomslang-20th-Anniversary-Edition-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375767",
-          "author": "Keran",
-          "description": "Stellantis Malaysia has officially debuted the Leapmotor B10 in the local market. However, the SUV arrives in two variants, compared to the three that were initially expected. The two trims available are Life and Design. Compared to its predecessor, this model is much more smaller and much more cheaper.   Both variants share a similar […]\nThe post Leapmotor B10 Rolls Out in Malaysia; Starting From RM107,800 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375767/leapmotor-b10-rolls-out-in-malaysia/",
-          "publishedOn": "2025-12-10T04:16:22.000Z",
-          "wordCount": 11931,
-          "title": "Leapmotor B10 Rolls Out in Malaysia; Starting From RM107,800",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Leapmotor-B1020.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375783",
-          "author": "Kiran Ganesan",
-          "description": "As the release window for the Samsung Galaxy S26 series draws closer, it’s only natural that we receive more information about it, whether through leaks or renders. Now, a new leak has confirmed that the upcoming Ultra model will feature Qualcomm’s flagship chipset. According to SamMobile’s report, multiple leaks about the Galaxy S26 Ultra suggest […]\nThe post Samsung Galaxy S26 Ultra To Launch With Snapdragon 8 Elite Gen 5 Globally appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375783/samsung-galaxy-s26-ultra-to-launch-with-snapdragon-8-elite-gen-5-globally/",
-          "publishedOn": "2025-12-10T04:04:21.000Z",
-          "wordCount": 10887,
-          "title": "Samsung Galaxy S26 Ultra To Launch With Snapdragon 8 Elite Gen 5 Globally",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Samsung-Galaxy-S26-Ultra-Renders-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=375760",
-          "author": "Heirul Kamel",
-          "description": "The Ministry of Transport (MOT)  has stepped in to clear the air after reports suggested that motorists with unpaid traffic summonses could lose access to the BUDI95 petrol subsidy. Its minister Anthony Loke said in a statement that the claims were inaccurate, stressing that outstanding JPJ or police fines have no bearing on a user’s […]\nThe post Transport Minister: Unpaid Summonses Won’t Affect BUDI95 Eligibility appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/375760/transport-minister-unpaid-summonses-wont-affect-budi95-eligibility/",
-          "publishedOn": "2025-12-10T03:06:01.000Z",
-          "wordCount": 10840,
-          "title": "Transport Minister: Unpaid Summonses Won’t Affect BUDI95 Eligibility",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/BUDI95-terminal-RON95-1.jpg"
         }
       ]
     },
@@ -22188,36 +22062,6 @@
           "publishedOn": "2025-12-10T21:02:30.000Z",
           "wordCount": null,
           "title": "ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure",
-          "author": "Elizabeth Montalbano, Contributing Writer",
-          "description": "So far the attacks, which compromise virtual network computing (VNC) connections in OT systems, have not been particularly destructive, but this could change as they evolve.",
-          "link": "https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure",
-          "publishedOn": "2025-12-10T12:56:02.000Z",
-          "wordCount": null,
-          "title": "Feds: Pro-Russia Hactivists Target US Critical Infrastructure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "Ransomware actors have targeted manufacturers, retailers, and the Japanese government, with many organizations requiring months to recover.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage",
-          "publishedOn": "2025-12-10T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Japanese Firms Suffer Long Tail of Ransomware Damage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/microsoft-fixes-exploited-zero-day-light-patch-tuesday",
-          "author": "Jai Vijayan, Contributing Writer",
-          "description": "Proof-of-concept exploit code is publicly available for two other flaws in this month's Patch Tuesday. In total, the company issued patches for more than 1,150 flaws this year.",
-          "link": "https://www.darkreading.com/application-security/microsoft-fixes-exploited-zero-day-light-patch-tuesday",
-          "publishedOn": "2025-12-09T22:24:18.000Z",
-          "wordCount": null,
-          "title": "Microsoft Fixes Exploited Zero Day in Light Patch Tuesday",
           "imageUrl": null
         }
       ]

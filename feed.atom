@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2025-12-24T08:38:57.595Z</updated>
+    <updated>2025-12-25T08:37:33.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability]]></title>
+        <id>https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html</id>
+        <link href="https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html"/>
+        <updated>2025-12-25T08:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet on Wednesday said it observed "recent abuse" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.
+The vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html</id>
+        <link href="https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html"/>
+        <updated>2025-12-25T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerability, tracked as CVE-2023-52163 (CVSS score: 8.8), relates to a case of command injection that allows post-authentication remote code]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper]]></title>
+        <id>https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html</id>
+        <link href="https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html"/>
+        <updated>2025-12-24T16:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple's Gatekeeper checks.
+"Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media]]></title>
+        <id>https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html</id>
+        <link href="https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html"/>
+        <updated>2025-12-24T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube.
+The Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacks are Evolving: 3 Ways to Protect Your Business in 2026]]></title>
+        <id>https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html</id>
+        <link href="https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html"/>
+        <updated>2025-12-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Every year, cybercriminals find new ways to steal money and data from businesses. Breaching a business network, extracting sensitive data, and selling it on the dark web has become a reliable payday. 
+But in 2025, the data breaches that affected small and medium-sized businesses (SMBs) challenged our perceived wisdom about exactly which types of businesses cybercriminals are targeting.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips]]></title>
+        <id>https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html</id>
+        <link href="https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html"/>
+        <updated>2025-12-24T09:19:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Securities and Exchange Commission (SEC) has filed charges against multiple companies for their alleged involvement in an elaborate cryptocurrency scam that swindled more than $14 million from retail investors.
+The complaint charged crypto asset trading platforms Morocoin Tech Corp., Berge Blockchain Technology Co., Ltd., and Cirkor Inc., as well as investment clubs AI Wealth Inc., Lane]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Unveils 2026 Odyssey Gaming Monitors With 6K Resolution And 1040Hz Refresh Rate]]></title>
         <id>https://www.lowyat.net/?p=377096</id>
@@ -2490,235 +2556,6 @@ The post A 256GB DDR5 Memory Kit Now Costs More Than An NVIDIA RTX 5090 appeared
         <summary type="html"><![CDATA[A new twist on the social engineering tactic is making waves, combining SEO poisoning and legitimate AI domains to install malware on victims' computers.]]></summary>
         <author>
             <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors]]></title>
-        <id>https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html</id>
-        <link href="https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html"/>
-        <updated>2025-12-10T20:19:00.000Z</updated>
-        <summary type="html"><![CDATA[React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.
-This includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL]]></title>
-        <id>https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html</id>
-        <link href="https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html"/>
-        <updated>2025-12-10T19:21:00.000Z</updated>
-        <summary type="html"><![CDATA[New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.
-WatchTowr Labs, which has codenamed the "invalid cast vulnerability" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling]]></title>
-        <id>https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html</id>
-        <link href="https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html"/>
-        <updated>2025-12-10T13:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.
-The flaws impact PCIe Base Specification Revision 5.0 and onwards in the protocol mechanism introduced by the IDE Engineering Change Notice (ECN), according to the PCI Special]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feds: Pro-Russia Hactivists Target US Critical Infrastructure]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure</id>
-        <link href="https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure"/>
-        <updated>2025-12-10T12:56:02.000Z</updated>
-        <summary type="html"><![CDATA[So far the attacks, which compromise virtual network computing (VNC) connections in OT systems, have not been particularly destructive, but this could change as they evolve.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes]]></title>
-        <id>https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</id>
-        <link href="https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html"/>
-        <updated>2025-12-10T11:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.
-Standard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world.
-Next week, the Cortex Cloud team at Palo Alto Networks]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups]]></title>
-        <id>https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</id>
-        <link href="https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html"/>
-        <updated>2025-12-10T11:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-The vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReStory Is A Game Where You Play An Electronics Repairman In The 2000s]]></title>
-        <id>https://www.lowyat.net/?p=375809</id>
-        <link href="https://www.lowyat.net/2025/375809/restory-play-electronics-repairman-in-2000s/"/>
-        <updated>2025-12-10T09:44:25.000Z</updated>
-        <summary type="html"><![CDATA[Here’s some nostalgia bait for you fellow 80s and 90s kids out there. There’s an upcoming indie video game called ReStory, that has you play the role of an electronics repairman. But your shop is in Tokyo, and the time period is the 2000s. With that in mind, you’ll be tasked with repairing things that […]
-The post ReStory Is A Game Where You Play An Electronics Repairman In The 2000s appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days]]></title>
-        <id>https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html</id>
-        <link href="https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html"/>
-        <updated>2025-12-10T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.
-Of the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 17 Pro Review: Apple’s Statement Piece, Renewed]]></title>
-        <id>https://www.lowyat.net/?p=375714</id>
-        <link href="https://www.lowyat.net/2025/375714/apple-iphone-17-pro-review/"/>
-        <updated>2025-12-10T08:21:23.000Z</updated>
-        <summary type="html"><![CDATA[The iPhone remains one of Apple’s most recognisable products, with each generation introducing design cues that go on to define the line-up. That identity became even more pronounced with the arrival of the Pro models, which established the now-familiar triple camera layout widely associated with modern iPhones. Over time, the device has grown beyond its […]
-The post iPhone 17 Pro Review: Apple’s Statement Piece, Renewed appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercedes-Benz Malaysia Opens Registration Of Interest For New GLC 400 4MATIC EV]]></title>
-        <id>https://www.lowyat.net/?p=375848</id>
-        <link href="https://www.lowyat.net/2025/375848/mercedes-benz-malaysia-registration-interest-glc-400-4matic-ev/"/>
-        <updated>2025-12-10T07:38:46.000Z</updated>
-        <summary type="html"><![CDATA[Mercedes-Benz Malaysia has opened registrations for the new fully electric (EV) GLC 400 4MATIC with EQ Technology, just a day after launching the GLE 400 e 4MATIC. The EV was first unveiled at IAA Mobility in September this year. As previously reported, the model features a newly designed grille, with an optional illuminated version. Depending […]
-The post Mercedes-Benz Malaysia Opens Registration Of Interest For New GLC 400 4MATIC EV appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prasarana Explains LRT3 Delay As Testing Hits Technical Hurdles]]></title>
-        <id>https://www.lowyat.net/?p=375843</id>
-        <link href="https://www.lowyat.net/2025/375843/prasarana-explains-lrt3-delay-as-testing-hits-technical-hurdles/"/>
-        <updated>2025-12-10T07:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Rapid KL operator Prasarana Malaysia Berhad has clarified that the Shah Alam Line LRT (LRT3) project remains in the Testing and Commissioning phase, despite growing public expectation that the line is nearing completion. The company said the line is currently undergoing fault-free runs (FFR), a mandatory stage that tests the integration of major systems including […]
-The post Prasarana Explains LRT3 Delay As Testing Hits Technical Hurdles appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing Unveils Phone (3a) Community Edition]]></title>
-        <id>https://www.lowyat.net/?p=375827</id>
-        <link href="https://www.lowyat.net/2025/375827/nothing-unveils-phone-3a-community-edition/"/>
-        <updated>2025-12-10T06:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Nothing has officially unveiled the Community Edition of the Phone (3a). This phone will serve as the successor to last year’s Phone (2a) Plus Community Edition. Much like before, Nothing hosted a community-driven competition earlier in the year, which produced the final product. The contest involves multiple stages, with each stage’s winner collaborating with Nothing […]
-The post Nothing Unveils Phone (3a) Community Edition  appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garmin Announces inReach Mini 3 Plus Satellite Communicator; Priced At RM2,249]]></title>
-        <id>https://www.lowyat.net/?p=375816</id>
-        <link href="https://www.lowyat.net/2025/375816/garmin-inreach-mini-3-plus/"/>
-        <updated>2025-12-10T06:17:46.000Z</updated>
-        <summary type="html"><![CDATA[Garmin has refreshed its lineup of compact satellite communicators with the inReach Mini 3 Plus. Designed for explorers wandering beyond cell coverage, the portable device sports an impact-resistant design that can withstand extreme temperatures. The inReach Mini 3 Plus comes with a colour touchscreen display, as well as a built-in speaker and microphone. For communication, […]
-The post Garmin Announces inReach Mini 3 Plus Satellite Communicator; Priced At RM2,249 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gigabyte Unveils Nature-Inspired X870E Aero X3D Wood Motherboard]]></title>
-        <id>https://www.lowyat.net/?p=375796</id>
-        <link href="https://www.lowyat.net/2025/375796/gigabyte-x870e-aero-x3d-wood/"/>
-        <updated>2025-12-10T04:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Gigabyte recently unveiled the X870E Aero X3D Wood, an AM5 motherboard which sports a different sort of pleasing aesthetic. Part of the motherboard is made with real pieces of wood, plus some bits of leather. Gigabyte says that the design of the X3D Wood is inspired by the “Zain” aesthetic, which is a form of […]
-The post Gigabyte Unveils Nature-Inspired X870E Aero X3D Wood Motherboard appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws]]></title>
-        <id>https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html</id>
-        <link href="https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html"/>
-        <updated>2025-12-10T04:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution.
-The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer Boomslang Returns For The Company’s 20th Anniversary]]></title>
-        <id>https://www.lowyat.net/?p=375765</id>
-        <link href="https://www.lowyat.net/2025/375765/razer-boomslang-returns-for-20th-anniversary/"/>
-        <updated>2025-12-10T04:43:41.000Z</updated>
-        <summary type="html"><![CDATA[The Razer Boomslang was the brand’s first mouse, which it dubs the world’s first gaming mouse on occasion. Depending on your perspective, it is technically older than the company itself, with a CE re-release in 2007. Now, for the 20th anniversary of its current iteration, the company is bringing it back. And to make it […]
-The post Razer Boomslang Returns For The Company’s 20th Anniversary appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leapmotor B10 Rolls Out in Malaysia; Starting From RM107,800]]></title>
-        <id>https://www.lowyat.net/?p=375767</id>
-        <link href="https://www.lowyat.net/2025/375767/leapmotor-b10-rolls-out-in-malaysia/"/>
-        <updated>2025-12-10T04:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Stellantis Malaysia has officially debuted the Leapmotor B10 in the local market. However, the SUV arrives in two variants, compared to the three that were initially expected. The two trims available are Life and Design. Compared to its predecessor, this model is much more smaller and much more cheaper.   Both variants share a similar […]
-The post Leapmotor B10 Rolls Out in Malaysia; Starting From RM107,800 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Keran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy S26 Ultra To Launch With Snapdragon 8 Elite Gen 5 Globally]]></title>
-        <id>https://www.lowyat.net/?p=375783</id>
-        <link href="https://www.lowyat.net/2025/375783/samsung-galaxy-s26-ultra-to-launch-with-snapdragon-8-elite-gen-5-globally/"/>
-        <updated>2025-12-10T04:04:21.000Z</updated>
-        <summary type="html"><![CDATA[As the release window for the Samsung Galaxy S26 series draws closer, it’s only natural that we receive more information about it, whether through leaks or renders. Now, a new leak has confirmed that the upcoming Ultra model will feature Qualcomm’s flagship chipset. According to SamMobile’s report, multiple leaks about the Galaxy S26 Ultra suggest […]
-The post Samsung Galaxy S26 Ultra To Launch With Snapdragon 8 Elite Gen 5 Globally appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transport Minister: Unpaid Summonses Won’t Affect BUDI95 Eligibility]]></title>
-        <id>https://www.lowyat.net/?p=375760</id>
-        <link href="https://www.lowyat.net/2025/375760/transport-minister-unpaid-summonses-wont-affect-budi95-eligibility/"/>
-        <updated>2025-12-10T03:06:01.000Z</updated>
-        <summary type="html"><![CDATA[The Ministry of Transport (MOT)  has stepped in to clear the air after reports suggested that motorists with unpaid traffic summonses could lose access to the BUDI95 petrol subsidy. Its minister Anthony Loke said in a statement that the claims were inaccurate, stressing that outstanding JPJ or police fines have no bearing on a user’s […]
-The post Transport Minister: Unpaid Summonses Won’t Affect BUDI95 Eligibility appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese Firms Suffer Long Tail of Ransomware Damage]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage"/>
-        <updated>2025-12-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ransomware actors have targeted manufacturers, retailers, and the Japanese government, with many organizations requiring months to recover.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Fixes Exploited Zero Day in Light Patch Tuesday]]></title>
-        <id>https://www.darkreading.com/application-security/microsoft-fixes-exploited-zero-day-light-patch-tuesday</id>
-        <link href="https://www.darkreading.com/application-security/microsoft-fixes-exploited-zero-day-light-patch-tuesday"/>
-        <updated>2025-12-09T22:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Proof-of-concept exploit code is publicly available for two other flaws in this month's Patch Tuesday. In total, the company issued patches for more than 1,150 flaws this year.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer</name>
         </author>
     </entry>
     <entry>
