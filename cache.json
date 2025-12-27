@@ -19294,6 +19294,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.\nThe vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been described as a case of improper handling of length parameter inconsistency, which arises when a program fails to appropriately tackle scenarios where a length field is inconsistent with the",
+          "link": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+          "publishedOn": "2025-12-27T07:52:00.000Z",
+          "wordCount": null,
+          "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyT_32t0dBjwnGTamsqSrB1jdPxZFMFb_GMzemmxXBm3HbtqrnJNx4VqVUF8tMKdHStEwTAU-PLcOHDKsbHvF9SSVig_OGEnWFKl81BORRb5h34UUFitJuYJOF-Trvrq-nFm5m-AzFe_dQRWYJgCOTJvzVnSzXCRgEAshv0EHR35OKUxGHr3qYg-M1vQHV/s1600/mongodb.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyT_32t0dBjwnGTamsqSrB1jdPxZFMFb_GMzemmxXBm3HbtqrnJNx4VqVUF8tMKdHStEwTAU-PLcOHDKsbHvF9SSVig_OGEnWFKl81BORRb5h34UUFitJuYJOF-Trvrq-nFm5m-AzFe_dQRWYJgCOTJvzVnSzXCRgEAshv0EHR35OKUxGHr3qYg-M1vQHV/s1600/mongodb.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nThe issue, the multi‑chain, non‑custodial cryptocurrency wallet service said, impacts version 2.68. The extension has about one million users, according to the Chrome Web Store listing. Users are advised to",
+          "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+          "publishedOn": "2025-12-26T15:31:00.000Z",
+          "wordCount": null,
+          "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZP9hON3n-2zsl52VbVSUoLRU7lEedvIxRzhLddqpu6jJM7etcQZ9Mm0ojVv8614DKB7JFs8TuCtjJ5MLdfTeanXrXv5NO1WgOvjG3TuUjobHaUo6i8KNxQMD5XBTDczYKHBT-xTCb25utln7UkGwywmXvQC7joQHPv2HVJVrSug-r3S-KCOvbcifxBe1s/s1600/apps.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZP9hON3n-2zsl52VbVSUoLRU7lEedvIxRzhLddqpu6jJM7etcQZ9Mm0ojVv8614DKB7JFs8TuCtjJ5MLdfTeanXrXv5NO1WgOvjG3TuUjobHaUo6i8KNxQMD5XBTDczYKHBT-xTCb25utln7UkGwywmXvQC7joQHPv2HVJVrSug-r3S-KCOvbcifxBe1s/s1600/apps.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its signature MgBot backdoor in attacks targeting victims in Türkiye, China, and India.\nThe activity, Kaspersky said, was observed between November 2022 and November 2024. It has been linked to a",
+          "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+          "publishedOn": "2025-12-26T14:44:00.000Z",
+          "wordCount": null,
+          "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOmeV5PfAQxa3moMNy2q6r9JQI7f7qz2UhiadScjFIQ3Xuu3wqawsOshL20QzFig4PDashlUjR-giwptUDCChwuYNsUci5GMWA0ErX4HMNZ0TMIkaVYQ11zIw8MKLQqXa5tGER3kLsSFZYux0B8WM8RtWb9-oJN_ZhN7xLWKIBH16bkppORQoJwmW-q5VK/s1600/chinese-hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOmeV5PfAQxa3moMNy2q6r9JQI7f7qz2UhiadScjFIQ3Xuu3wqawsOshL20QzFig4PDashlUjR-giwptUDCChwuYNsUci5GMWA0ErX4HMNZ0TMIkaVYQ11zIw8MKLQqXa5tGER3kLsSFZYux0B8WM8RtWb9-oJN_ZhN7xLWKIBH16bkppORQoJwmW-q5VK/s1600/chinese-hackers.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection.\nLangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building",
+          "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
+          "publishedOn": "2025-12-26T09:27:00.000Z",
+          "wordCount": null,
+          "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0BFnjQXtbmQXOq0oqe3ZVSI5MmeHtzjLyjTEEX3oJrDGGVYcdHlYnhwuJdxNKQEP-0yZ_V_3Q2Ph3tTbnrT7Bfvs1YJBqpjhinaGuLSjhcjnkd_y_egHM22tk8kJSyc8CVQtnAd3_CWjzw6HlsbiPc8ZFRuyFDv8CeA1H4xtGZZi_x6dXI3IIXA2Mx3Yu/s1600/langchain.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0BFnjQXtbmQXOq0oqe3ZVSI5MmeHtzjLyjTEEX3oJrDGGVYcdHlYnhwuJdxNKQEP-0yZ_V_3Q2Ph3tTbnrT7Bfvs1YJBqpjhinaGuLSjhcjnkd_y_egHM22tk8kJSyc8CVQtnAd3_CWjzw6HlsbiPc8ZFRuyFDv8CeA1H4xtGZZi_x6dXI3IIXA2Mx3Yu/s1600/langchain.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use.\nThis week’s findings show a pattern: precision, patience, and persuasion. The",
@@ -20188,102 +20252,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSwTglRfB0k1FqqL7L502b4j1rqLa9StbW7akfVevnbqc0QsQHryjXRBajtpcOdiOOSUX119hpFSCGkZFuqxXH85aKyUMN2DwE0fKVDojo7uhXkZfEmf80438Wyd6Br5gASDHw6mLQxMc_fDPNGlgA1Op-YDJz8gYx6jqJhB_a9bKY66wuph0plkZdakTm/s1600/apple-update.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSwTglRfB0k1FqqL7L502b4j1rqLa9StbW7akfVevnbqc0QsQHryjXRBajtpcOdiOOSUX119hpFSCGkZFuqxXH85aKyUMN2DwE0fKVDojo7uhXkZfEmf80438Wyd6Br5gASDHw6mLQxMc_fDPNGlgA1Op-YDJz8gYx6jqJhB_a9bKY66wuph0plkZdakTm/s1600/apple-update.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT) dubbed PyStoreRAT.\n\"These repositories, often themed as development utilities or OSINT tools, contain only a few lines of code responsible for silently downloading a remote HTA file and executing",
-          "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
-          "publishedOn": "2025-12-12T18:50:00.000Z",
-          "wordCount": null,
-          "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgcFxpYG91gB_qImBj80xopP9yPiTuHXJwTeIXOS92Fsj6dtv4A2LK3aQxVQGKfA6sJ7T5WfeX5CEFBFrPNNH96PY7qjHCbyb7yDH5WrATaFflCN3YgQxQZJlOlKaQLK0nDtbzGwlS0FrwBVm7CwEvPkr_qSbBR1fvXX-xxIZn6XdUspYS7k2c1j87330/s1600/git.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgcFxpYG91gB_qImBj80xopP9yPiTuHXJwTeIXOS92Fsj6dtv4A2LK3aQxVQGKfA6sJ7T5WfeX5CEFBFrPNNH96PY7qjHCbyb7yDH5WrATaFflCN3YgQxQZJlOlKaQLK0nDtbzGwlS0FrwBVm7CwEvPkr_qSbBR1fvXX-xxIZn6XdUspYS7k2c1j87330/s1600/git.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.\nBlackForce, first detected in August 2025, is designed to steal credentials and perform Man-in-the-Browser (MitB) attacks to capture one-time passwords (OTPs) and bypass multi-factor authentication (MFA). The kit",
-          "link": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
-          "publishedOn": "2025-12-12T14:04:00.000Z",
-          "wordCount": null,
-          "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4a8r1ltQRVAHGAuHpS5vuzkIAKVgEgZQt0hi_nLCDg6akixRXUC_2sswGCHs8tFV2oLmaZd-YAwL-Yu09qMZMC64PZ2EQNycGfpxLzqwqGXaf1mPfKRZtx4XWLOKPXc1uyH_zVni2tBfNkiOUQL0Cdy4qqTRGu99eo6jDQbNq6O1-lvaZ8ZmKI3r9EG0c/s1600/1000039728.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4a8r1ltQRVAHGAuHpS5vuzkIAKVgEgZQt0hi_nLCDg6akixRXUC_2sswGCHs8tFV2oLmaZd-YAwL-Yu09qMZMC64PZ2EQNycGfpxLzqwqGXaf1mPfKRZtx4XWLOKPXc1uyH_zVni2tBfNkiOUQL0Cdy4qqTRGu99eo6jDQbNq6O1-lvaZ8ZmKI3r9EG0c/s1600/1000039728.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI‑powered extensions and agentic browsers like ChatGPT Atlas. Employees are leveraging the power of GenAI to draft emails, summarize documents, work on code, and analyze data, often by copying/pasting sensitive information directly into prompts or uploading files. \nTraditional",
-          "link": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
-          "publishedOn": "2025-12-12T10:18:00.000Z",
-          "wordCount": null,
-          "title": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDv3XARtOUivvjEnErljioTinVDnawx7b3HwjUiP4I_0_JvCPo8jro-fI8ZJHESGp8sG0SMYH4BgfZqMQMeGA95kuzhe3z3m6GgMCtBdqRtLJ1WRKUHTJv8XoRLh8H7UXi3wMH0O9BhfsBsLyRFdsv53qh-TYgOwFr3PzpdsKcZ4QryozVIoGGJhVKP_c/s1600/ai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDv3XARtOUivvjEnErljioTinVDnawx7b3HwjUiP4I_0_JvCPo8jro-fI8ZJHESGp8sG0SMYH4BgfZqMQMeGA95kuzhe3z3m6GgMCtBdqRtLJ1WRKUHTJv8XoRLh8H7UXi3wMH0O9BhfsBsLyRFdsv53qh-TYgOwFr3PzpdsKcZ4QryozVIoGGJhVKP_c/s1600/ai.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in",
-          "link": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
-          "publishedOn": "2025-12-12T08:55:00.000Z",
-          "wordCount": null,
-          "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz6FV9qkD3ZQ34_-_te7LAvOtZNopi3bQRTQq3TCojcBmPoef7tp-tgxFhffuFYyC5kvbdfEJMIBjwMn-rPElYlnpKG9kj89lPIAde8h_lYZRKq6a4mfiH6VWDXwIqFwimchyQ8M7RUvLd2_cAUi2aqcDyXZI_uDJcjfl1SyScuC96LV9RPhcDan3FJpQ/s1600/react-flaws.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz6FV9qkD3ZQ34_-_te7LAvOtZNopi3bQRTQq3TCojcBmPoef7tp-tgxFhffuFYyC5kvbdfEJMIBjwMn-rPElYlnpKG9kj89lPIAde8h_lYZRKq6a4mfiH6VWDXwIqFwimchyQ8M7RUvLd2_cAUi2aqcDyXZI_uDJcjfl1SyScuC96LV9RPhcDan3FJpQ/s1600/react-flaws.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespread exploitation.\nThe critical vulnerability, tracked as CVE-2025-55182 (CVSS score: 10.0), affects the React Server Components (RSC) Flight protocol. The underlying cause of the issue is an unsafe deserialization",
-          "link": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
-          "publishedOn": "2025-12-12T08:41:00.000Z",
-          "wordCount": null,
-          "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhnft_k0pTnAA0gVIW1pPi9QlZ_5qU92WBv8wfMA9644HkYIF5DMGYcdZjGyDmHPm9WA5IoE1uLal-fqzhvX96S5gLUNTS38ggHySqo50T-brLivYF2HW2dDKYqfDJlu8kPGOuN5zVpy9w8kuC51Zz6Nsq3gQCdZ19snMvA-tfDAsFGryH6Qa1C1HMwS8M/s1600/react2shell-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhnft_k0pTnAA0gVIW1pPi9QlZ_5qU92WBv8wfMA9644HkYIF5DMGYcdZjGyDmHPm9WA5IoE1uLal-fqzhvX96S5gLUNTS38ggHySqo50T-brLivYF2HW2dDKYqfDJlu8kPGOuN5zVpy9w8kuC51Zz6Nsq3gQCdZ19snMvA-tfDAsFGryH6Qa1C1HMwS8M/s1600/react2shell-hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to",
-          "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
-          "publishedOn": "2025-12-12T05:01:00.000Z",
-          "wordCount": null,
-          "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg"
         }
       ]
     },
@@ -20292,6 +20260,66 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=377212",
+          "author": "Ian Chee",
+          "description": "Samsung, being the pioneer of foldable smartphones, had a clean record of its foldables surviving being bent the wrong way. Emphasis on had, because the latest, being the Galaxy Z TriFold, is the first to have not survived. Or more specifically, the first to buckle under the extreme JerryRigEverything bend test. And it’s not just […]\nThe post Samsung Galaxy Z TriFold Buckles Under Excessive Bend Pressure appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377212/samsung-galaxy-z-trifold-buckles-under-excessive-bend-pressure/",
+          "publishedOn": "2025-12-27T04:00:53.000Z",
+          "wordCount": 10771,
+          "title": "Samsung Galaxy Z TriFold Buckles Under Excessive Bend Pressure",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Samsung-Galaxy-Z-TriFold-JerryRigEverything.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377232",
+          "author": "Newsdesk",
+          "description": "For years, we’ve been enjoying 5g connectivity without much of a hassle. The network is undoubtedly fast, but many people are wondering, what is the next evolutionary step? Luckily, Yes can answer that question. If you’re not in the know, Yes was the first telco in Malaysia to provide 5g advanced connectivity. They are now […]\nThe post Upgrade To Yes 5g advanced Broadband With FREE 1 Year iQIYI Access! appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377232/yes-5g-advanced-broadband-free-1-year-iqiyi-access/",
+          "publishedOn": "2025-12-26T14:02:23.000Z",
+          "wordCount": 11526,
+          "title": "Upgrade To Yes 5g advanced Broadband With FREE 1 Year iQIYI Access!",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Yes-5g-advanced-Broadband-iQIYI-1.png"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377205",
+          "author": "John Law",
+          "description": "LG unveiled three new UltraGear evo 5K gaming monitors ahead of CES 2026. The lineup comprises the GM9, the GX9, and the G9. Starting with the UltraGear evo GM9, this is a 27-inch 5K Mini LED gaming monitor that incorporates onboard 5K AI upscaling, AI Scene Optimisation, and AI Sound, without a cost to GPU […]\nThe post LG Unveils New UltraGear evo 5K Gaming Monitor Lineup appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377205/lg-unveils-new-ultragear-evo-5k-gaming-monitor-lineup/",
+          "publishedOn": "2025-12-26T11:21:23.000Z",
+          "wordCount": 11060,
+          "title": "LG Unveils New UltraGear evo 5K Gaming Monitor Lineup",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/LG-UltraGear-evo-2026-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377174",
+          "author": "Ian Chee",
+          "description": "In conjunction with the New Year’s Eve 2026 celebrations, Rapid KL has announced that it will be extending the operating hours of its rail service. This affects 20 stations across five lines, which will be operating until 2AM of 1 January 2026. The BRT Sunway line, selected bus routes and the Rapid KL On-Demand (ROD) […]\nThe post Rapid KL To Extend Rail, Bus Service Hours For New Year’s Eve 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377174/rapid-kl-extend-rail-bus-service-hours-new-years-eve-2026/",
+          "publishedOn": "2025-12-26T10:40:13.000Z",
+          "wordCount": 10808,
+          "title": "Rapid KL To Extend Rail, Bus Service Hours For New Year’s Eve 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/06/rapid-kl-lrt.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377189",
+          "author": "John Law",
+          "description": "ASUS seems to have accidentally leaked details of one of its upcoming gaming monitors, the ROG Swift PG32UCDM3, ahead of its rumoured launch at CES 2026. For a brief moment, the brand put up a webpage on its site, allegedly showing off the monitor. The site has since been taken down, but not before other […]\nThe post ASUS Accidentally Leaks ROG Swift PG2UCMD3 Gaming Monitor appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377189/asus-accidentally-leaks-rog-swift-pg2ucmd3-gaming-monitor/",
+          "publishedOn": "2025-12-26T09:31:15.000Z",
+          "wordCount": 10727,
+          "title": "ASUS Accidentally Leaks ROG Swift PG2UCMD3 Gaming Monitor",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/07/ASUS-ROG-Swift-PG32UCDM-9-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377192",
+          "author": "Keran",
+          "description": "Zeekr appears to be preparing the launch of a new plug-in hybrid SUV for the Chinese market, reportedly to be called the Zeekr 9S. Set to follow the debut of the larger Zeekr 9X, the new model has recently been spotted testing in China, with spy shots published by Autohome, which speculate that the SUV […]\nThe post Zeekr 9S Plug-In Hybrid SUV Spied Testing Ahead Of Speculated 2026 China Launch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377192/zeekr-9s-plug-in-hybrid-suv-testing-speculated-2026-china-launch/",
+          "publishedOn": "2025-12-26T09:17:37.000Z",
+          "wordCount": 11054,
+          "title": "Zeekr 9S Plug-In Hybrid SUV Spied Testing Ahead Of Speculated 2026 China Launch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Zeekr-9S3.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=377176",
           "author": "Kiran Ganesan",
@@ -21386,136 +21414,6 @@
           "wordCount": 10625,
           "title": "Xiaomi Pad 8 Pro To Launch Globally With 9,000mAh Battery",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/xiaomi-pad-8-pro-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376167",
-          "author": "Heirul Kamel",
-          "description": "HONOR is now offering its recently launched Magic8 Pro smartphone through a range of mobile plans from major Malaysian telcos, allowing customers to pick up the device via monthly instalments starting from as low as RM10. The plans are available through CelcomDigi, Maxis, U Mobile, Unifi Mobile, and Yes 5G. According to each telco’s listing, […]\nThe post HONOR Magic8 Pro Available From As Low As RM10/Month Across Major Telcos appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376167/honor-magic8-pro-from-rm10-month-major-telcos/",
-          "publishedOn": "2025-12-12T11:13:23.000Z",
-          "wordCount": 11504,
-          "title": "HONOR Magic8 Pro Available From As Low As RM10/Month Across Major Telcos",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/honor-magic8-pro-prev-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376131",
-          "author": "Keran",
-          "description": "Sarawak-owned airline AirBorneo launched its official website on 11 December, allowing the public to book domestic flights. However, the average ticket prices, ranging between RM200 to RM500 (one-way), quickly raised concerns among Malaysians. In response, the state Minister of Tourism, Creative Industry and Performing Arts Abdul Karim Rahman Hamzah urged the public to be patient […]\nThe post AirBorneo Fares On High Side; Minister Says “Give It A Chance” appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376131/airborneo-fares-on-high-side-minister-says-give-it-a-chance/",
-          "publishedOn": "2025-12-12T10:08:18.000Z",
-          "wordCount": 10920,
-          "title": "AirBorneo Fares On High Side; Minister Says “Give It A Chance”",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Air-Borneo-Fares1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376116",
-          "author": "John Law",
-          "description": "A lucky PC gamer in Portugal recently received a stroke of good luck when they managed to pick up a desktop PC, practically for a song, at US$600 (~RM2,455). The good luck part of this story? The whole system was worth at least RM10,000. Redditor uneektnt posted on the /pcmasterrace subreddit that the RM10,000 system […]\nThe post A Lucky Gamer Scored A PC Worth RM10,000 For The Price Of A 64GB DDR5 RAM Kit appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376116/lucky-gamer-pc-64gb-ddr5-price/",
-          "publishedOn": "2025-12-12T09:19:17.000Z",
-          "wordCount": 11106,
-          "title": "A Lucky Gamer Scored A PC Worth RM10,000 For The Price Of A 64GB DDR5 RAM Kit",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/PC-cheap-deal-portugal-64gb-ddr5-ram-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376098",
-          "author": "Heirul Kamel",
-          "description": "Deputy Communications Minister Teo Nie Ching stated that banning popular online games like Roblox is unlikely to effectively address concerns around child safety. She also emphasised that better in-game protection features and broader collaboration are key to safeguarding young users. Speaking to reporters after officiating new facilities at a local hospital earlier today, Teo said […]\nThe post Dept Comms Minister: Banning Online Games Insufficient To Resolve Child Safety Issues appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376098/dept-comms-minister-banning-online-games-insufficient-to-resolve-child-safety-issues/",
-          "publishedOn": "2025-12-12T07:27:39.000Z",
-          "wordCount": 11019,
-          "title": "Dept Comms Minister: Banning Online Games Insufficient To Resolve Child Safety Issues",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/roblox-file-photo-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376093",
-          "author": "Kiran Ganesan",
-          "description": "As previously promised, Huawei has officially announced its latest foldable smartphone, the Mate X7, for the international market. The device first debuted in China earlier in the year and is the successor to the Mate X6. To jog your memory, the Mate X7 features an 8-inch inner display with 2,416 x 2,210 pixel resolution. The […]\nThe post Huawei Mate X7 Launches Globally; Priced At €2,099 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376093/huawei-mate-x7-launches-globally/",
-          "publishedOn": "2025-12-12T07:17:36.000Z",
-          "wordCount": 10881,
-          "title": "Huawei Mate X7 Launches Globally; Priced At €2,099",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Huawei-Mate-X7-International-Launch1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376095",
-          "author": "John Law",
-          "description": "Clair Obscur: Expedition 33 practically mopped up the trophies at The Game Awards 2025, both rightfully and deservedly so. But that’s not our focus here: our focus is on some of the major titles that were announced during the ceremony. So, without further ado, here’s the hot takes from this year’s Game Awards. Tomb Raider […]\nThe post Here Are The Major Titles That Debuted At The Game Awards 2025 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376095/major-title-unveil-the-game-awards-2025/",
-          "publishedOn": "2025-12-12T07:05:21.000Z",
-          "wordCount": 12757,
-          "title": "Here Are The Major Titles That Debuted At The Game Awards 2025",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/The-Game-Awards-2025-Game-Of-The-Year-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376082",
-          "author": "Ian Chee",
-          "description": "We last heard of Apple coming up with refreshes for its Mac Studio Displays back in September, thanks to Bloomberg’s Mark Gurman. More recently code within iOS 26 looks to have revealed that the Studio Display refresh is indeed a thing. Some of its specs have also been gleamed from said code. More specifically, Macworld […]\nThe post Upcoming Apple Mac Studio Display May Feature A19 Chip appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376082/upcoming-apple-mac-studio-display-may-feature-a19-chip/",
-          "publishedOn": "2025-12-12T06:36:05.000Z",
-          "wordCount": 10853,
-          "title": "Upcoming Apple Mac Studio Display May Feature A19 Chip",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/03/Apple-Studio-Display-7.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376084",
-          "author": "Keran",
-          "description": "GWM has opened bookings for the upcoming Wey G9 plug-in hybrid (PHEV), coinciding with the rollout of the first locally assembled (CKD) unit of the MPV at EP Manufacturing Bhd’s (EPMB) plant in Melaka. This makes the model the first Chinese New Energy MPV to be assembled in Malaysia. The automaker added that its CKD […]\nThe post GWM Opens Bookings For Wey G9 PHEV In Malaysia; Expected Price Below RM300,000 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376084/gwm-opens-bookings-wey-g9-phev/",
-          "publishedOn": "2025-12-12T06:35:30.000Z",
-          "wordCount": 10752,
-          "title": "GWM Opens Bookings For Wey G9 PHEV In Malaysia; Expected Price Below RM300,000",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/GWM-Wey-G9-PHEV1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376070",
-          "author": "Nurul Kamil",
-          "description": "Sora users will soon be able to generate videos of their favourite Disney characters, including those from Pixar and Marvel – all with the company’s blessing. In a joint statement, Disney and OpenAI announced a licensing agreement to bring the former’s characters to the generative AI video platform. Under this three-year agreement, Sora will be […]\nThe post Disney Licenses Its Characters To Sora, ChatGPT In OpenAI Deal appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376070/disney-sora-openai-deal/",
-          "publishedOn": "2025-12-12T05:56:50.000Z",
-          "wordCount": 10927,
-          "title": "Disney Licenses Its Characters To Sora, ChatGPT In OpenAI Deal",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/disney-openai-deal-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376075",
-          "author": "Heirul Kamel",
-          "description": "AirAsia parent company Capital A as well as Standard Chartered Bank Malaysia have signed a Letter of Intent (LOI) to explore a ringgit-denominated stablecoin within Bank Negara Malaysia’s Digital Asset Innovation Hub (DAIH). The move marks Capital A’s first major step into regulated digital assets and positions both companies to test how an MYR-backed token […]\nThe post Capital A, Standard Chartered Explore MYR Stablecoin Sandbox Initiative appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376075/capital-a-standard-chartered-explore-myr-stablecoin-sandbox-initiative/",
-          "publishedOn": "2025-12-12T05:36:27.000Z",
-          "wordCount": 10816,
-          "title": "Capital A, Standard Chartered Explore MYR Stablecoin Sandbox Initiative",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/capital-a-standard-chartered-explore-myr-stablecoin-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376049",
-          "author": "Keran",
-          "description": "Kia Malaysia has announced the model line-up that will be introduced under its newly established local presence, which will begin operations on 1 January 2026. The line-up was revealed during a recent press dinner and includes the EV9, Carnival, and Sportage. From this rebooted line-up, it is clear that Kia Malaysia has chosen to retain […]\nThe post Kia Malaysia Confirms 2026 Line-Up Ahead Of Local Relaunch appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376049/kia-malaysia-confirms-2026-line-up-ahead-of-local-relaunch/",
-          "publishedOn": "2025-12-12T04:36:16.000Z",
-          "wordCount": 10782,
-          "title": "Kia Malaysia Confirms 2026 Line-Up Ahead Of Local Relaunch",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/KIA-EV91.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376054",
-          "author": "Kiran Ganesan",
-          "description": "WhatsApp has announced a new wave of updates coming to its messaging app just before the holidays. These features include missed call messages, status stickers, and improved Meta AI image generation. The company claims that this will make it easier to connect with the people who matter most. Starting with the additions for calls. WhatsApp […]\nThe post WhatsApp Introduces Missed Call Messages, Status Stickers, And More appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376054/whatsapp-missed-call-messages-status-stickers/",
-          "publishedOn": "2025-12-12T04:18:05.000Z",
-          "wordCount": 11067,
-          "title": "WhatsApp Introduces Missed Call Messages, Status Stickers, And More",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/WhatsApp-New-Feature-Roundup-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376043",
-          "author": "Nurul Kamil",
-          "description": "The Nothing Phone (3a) series debuted back in March as the brand’s mid-range offering. Now that the vanilla version has received a Community Edition, it seems the company is shifting its attention to the succeeding models. While Nothing has not divulged any details on the upcoming Phone (4a) and Phone (4a) Pro, a recent rumour […]\nThe post Nothing Phone (4a) Lineup, Headphone (a) Detailed In Leak appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376043/nothing-phone-4a-headphone-a-leak/",
-          "publishedOn": "2025-12-12T02:39:35.000Z",
-          "wordCount": 10906,
-          "title": "Nothing Phone (4a) Lineup, Headphone (a) Detailed In Leak",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/Nothing-Phone-3a-launch-3.jpg"
         }
       ]
     },
@@ -21524,6 +21422,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts",
+          "author": "Kristina Beek",
+          "description": "Patricia Voight, CISO at Webster Bank, shares her expertise on advancing cybersecurity careers, combating financial crimes, and championing diversity in a rapidly changing industry.",
+          "link": "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts",
+          "publishedOn": "2025-12-26T15:15:00.000Z",
+          "wordCount": null,
+          "title": "Mentorship and Diversity: Shaping the Next Generation of Cyber Experts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "Developers are leaning more heavily on AI for code generation, but in 2026, the development pipeline and security need to be prioritized.",
+          "link": "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026",
+          "publishedOn": "2025-12-26T13:04:07.000Z",
+          "wordCount": null,
+          "title": "As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey",
+          "author": "Fahmida Y. Rashid",
+          "description": "Take part in the new survey from Dark Reading and help uncover trends, challenges, and solutions shaping the future of application security.",
+          "link": "https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey",
+          "publishedOn": "2025-12-26T12:00:48.000Z",
+          "wordCount": null,
+          "title": "Dark Reading Opens The State of Application Security Survey",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul",
           "author": "Arielle Waldman",
@@ -21842,86 +21770,6 @@
           "publishedOn": "2025-12-12T21:12:13.000Z",
           "wordCount": null,
           "title": "The CISO-COO Partnership: Protecting Operational Excellence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/react2shell-exploits-flood-internet-attacks-continue",
-          "author": "Rob Wright",
-          "description": "As exploitation activity against CVE-2025-55182 ramps up, researchers are finding some proof-of-concept exploits contain bypasses for web application firewall (WAF) rules.",
-          "link": "https://www.darkreading.com/threat-intelligence/react2shell-exploits-flood-internet-attacks-continue",
-          "publishedOn": "2025-12-12T20:11:43.000Z",
-          "wordCount": null,
-          "title": "React2Shell Exploits Flood the Internet as Attacks Continue",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/vibe-coding-innovation-demands-vigilance",
-          "author": "Chrissa Constantine",
-          "description": "Unmanaged coding is indeed an alluring idea, but can introduce a host of significant cybersecurity dangers, Constantine warns.",
-          "link": "https://www.darkreading.com/application-security/vibe-coding-innovation-demands-vigilance",
-          "publishedOn": "2025-12-12T20:07:23.000Z",
-          "wordCount": null,
-          "title": "Vibe Coding: Innovation Demands Vigilance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/microsoft-bundle-security-copilot-m365-enterprise-license",
-          "author": "Jeffrey Schwartz",
-          "description": "The move aims to expand the use of Security Copilot and comes with the launch of 12 new agents from Microsoft at the company's Ignite conference last week.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/microsoft-bundle-security-copilot-m365-enterprise-license",
-          "publishedOn": "2025-12-12T19:32:42.000Z",
-          "wordCount": null,
-          "title": "Microsoft Will Bundle Security Copilot With M365 Enterprise Licenses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/supply-chain-attacks-targeting-github-actions-increased-in-2025",
-          "author": "Jeffrey Schwartz",
-          "description": "At this week's Black Hat Europe conference, two researchers urged developers to adopt a shared responsibility model for open source software and not leave it all up to GitHub to handle.",
-          "link": "https://www.darkreading.com/application-security/supply-chain-attacks-targeting-github-actions-increased-in-2025",
-          "publishedOn": "2025-12-12T18:37:53.000Z",
-          "wordCount": null,
-          "title": "Supply Chain Attacks Targeting GitHub Actions Increased in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "The Trump administration appears to have dropped sanctions against Chinese actors for the Salt Typhoon attacks on US telecoms; but focusing on diplomacy alone misses the full picture, experts say.",
-          "link": "https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity",
-          "publishedOn": "2025-12-12T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Are Trade Concerns Trumping US Cybersecurity?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats",
-          "author": "Nate Nelson, Contributing Writer",
-          "description": "Hamas's best hackers have been maturing, building better malware, and spreading their attacks more widely across the region.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats",
-          "publishedOn": "2025-12-12T07:00:00.000Z",
-          "wordCount": null,
-          "title": "Hamas-Linked Hackers Probe Middle Eastern Diplomats",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/money-mules-require-banks-to-switch-from-defense-to-offense",
-          "author": "Jonathan Frost",
-          "description": "Financial institutions need to be proactive when identifying and mentally preventing fraudulent activity. Here's what to watch for.",
-          "link": "https://www.darkreading.com/threat-intelligence/money-mules-require-banks-to-switch-from-defense-to-offense",
-          "publishedOn": "2025-12-11T23:13:38.000Z",
-          "wordCount": null,
-          "title": "Money Mules Require Banks to Switch from Defense to Offense",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/encouraging-industry-voices-write-commentary-section",
-          "author": "Fahmida Y. Rashid",
-          "description": "Dark Reading will continue to publish Tech Talks and Ask the Expert pieces in the Commentary section. Read on for submission guidelines.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/encouraging-industry-voices-write-commentary-section",
-          "publishedOn": "2025-12-11T22:48:10.000Z",
-          "wordCount": null,
-          "title": "Encouraging Industry Voices to Write for the Commentary Section",
           "imageUrl": null
         }
       ]
