@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw",
+          "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+          "publishedOn": "2025-12-29T07:49:00.000Z",
+          "wordCount": null,
+          "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiZRABqAp7GJHhqKTlxX3mAmNX9ySsz9docL7x7bhIaRThcg3I-nlQu1UaXaS6t8T2lQCRhw9xrLkB8neLx4H_a4cJtoOBkvRsUFg29lg6TsqSjCga61QB0xU4H72eeXjXvfRepZGXIpcLWVrcqNpu3_dCwaSbusP2AJc11PIkYmWmxrW5b_6SOlJPivt/s1600/mongodb-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiZRABqAp7GJHhqKTlxX3mAmNX9ySsz9docL7x7bhIaRThcg3I-nlQu1UaXaS6t8T2lQCRhw9xrLkB8neLx4H_a4cJtoOBkvRsUFg29lg6TsqSjCga61QB0xU4H72eeXjXvfRepZGXIpcLWVrcqNpu3_dCwaSbusP2AJc11PIkYmWmxrW5b_6SOlJPivt/s1600/mongodb-exploit.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.\nThe result: 23.77 million secrets were leaked through AI",
+          "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+          "publishedOn": "2025-12-29T06:34:00.000Z",
+          "wordCount": null,
+          "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomGjDLekFSBoR01Dq_fed3Ka4xlF2C7QEUPeyjySDg6tHRMKyjzilC9TfZYd4xTzwrsSAKhDZ8hpMGjiEZ-APKcq9cCLPtkHHWvaJeWXTNG5D63C3dDvJVd_8Ws6z8PdrwDpHxUOfgVC4xIs6OeUk1YLO6M8Zx9gXTmJy9oDl6hoJ-oCVQ52qt5cC-BiQ/s1600/main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomGjDLekFSBoR01Dq_fed3Ka4xlF2C7QEUPeyjySDg6tHRMKyjzilC9TfZYd4xTzwrsSAKhDZ8hpMGjiEZ-APKcq9cCLPtkHHWvaJeWXTNG5D63C3dDvJVd_8Ws6z8PdrwDpHxUOfgVC4xIs6OeUk1YLO6M8Zx9gXTmJy9oDl6hoJ-oCVQ52qt5cC-BiQ/s1600/main.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.\nThe vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been described as a case of improper handling of length parameter inconsistency, which arises when a program fails to appropriately tackle scenarios where a length field is inconsistent with the",
@@ -20228,6 +20260,76 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=377313",
+          "author": "John Law",
+          "description": "Hardware Canucks, the Canada-based tech outfit, recently posted a video detailing a temporary solution to soaring DDR5 desktop memory prices: turning to laptop, or SO-DIMM, DDR5 memory modules and use RAM adapters to affix them to your motherboard. The idea of a laptop RAM adapter is far from new or groundbreaking, and has been around […]\nThe post Laptop RAM Adapters Could Serve As A Stopgap For Rising DDR5 Prices appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377313/laptop-ram-adapters-could-serve-as-a-stopgap-for-rising-ddr5-prices/",
+          "publishedOn": "2025-12-29T08:04:28.000Z",
+          "wordCount": 11293,
+          "title": "Laptop RAM Adapters Could Serve As A Stopgap For Rising DDR5 Prices",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Laptop-RAM-Adapters-3.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377318",
+          "author": "Kiran Ganesan",
+          "description": "In a bid to further protect children online, the government plans to roll out a regulatory sandbox programme for social media starting on 1 January, 2026. This sandbox aims to strengthen child protection and enhance consumer safety online before authorities implement full-scale enforcement. Communications Minister Datuk Fahmi Fadzil said the programme will allow authorities and […]\nThe post Govt Set to Launch Social Media Regulatory Sandbox on 1 January appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377318/govt-set-to-launch-social-media-regulatory-sandbox-on-jan-1/",
+          "publishedOn": "2025-12-29T07:00:19.000Z",
+          "wordCount": 11068,
+          "title": "Govt Set to Launch Social Media Regulatory Sandbox on 1 January",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Govt-Set-to-Launch-Social-Media-Regulatory-Sandbox-on-Jan-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377302",
+          "author": "Ian Chee",
+          "description": "Flash Express, a logistics and courier company from Thailand, looks to be winding down its operations in Malaysia. The company has not made an official statement itself, at least not on its cessation. All that’s posted on its home page was the notice of the halting of Cash On Delivery orders starting 24 December, as […]\nThe post Logistics Company Flash Express To Shut Down Malaysia Operations In January 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377302/flash-express-shut-down-malaysia-operations-january-2026/",
+          "publishedOn": "2025-12-29T06:22:23.000Z",
+          "wordCount": 10697,
+          "title": "Logistics Company Flash Express To Shut Down Malaysia Operations In January 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Flash-Express.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377308",
+          "author": "John Law",
+          "description": "Jon Prosser, the man whom Apple is currently suing for his alleged involvement in leaking details of iOS26 ahead of its launch, is doubling down with their actions. The YouTuber, who goes by the name fpt. on the platform, recently published a video with the alleged renders of the unconfirmed iPhone Fold. Based on the […]\nThe post Leakster Sued By Apple Leaks New Alleged iPhone Fold Renders appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377308/leakster-sued-by-apple-leaks-new-alleged-iphone-fold-renders/",
+          "publishedOn": "2025-12-29T06:04:53.000Z",
+          "wordCount": 10871,
+          "title": "Leakster Sued By Apple Leaks New Alleged iPhone Fold Renders",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/iPhone-Fold-New-Leak-Dec-2025-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377289",
+          "author": "Kiran Ganesan",
+          "description": "Just before the year fully comes to a close, HONOR has officially launched the HONOR Win and Win RT smartphones in China. These two smartphones mark the company’s next attempt at a gaming-focused handset, following the GT lineup that hit Chinese shelves earlier in the year. Naturally, following the official release, the company has disclosed […]\nThe post HONOR Win, Win RT Goes Official In China appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377289/honor-win-win-rt-goes-official-in-china/",
+          "publishedOn": "2025-12-29T04:12:17.000Z",
+          "wordCount": 11385,
+          "title": "HONOR Win, Win RT Goes Official In China",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/HONOR-Win.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377287",
+          "author": "Ian Chee",
+          "description": "Huawei launched the MatePad 12 X back in November last year. And it looks like the company has decided that a refresh is in order. The brand has put out a teaser for “the upcoming arrival of the Huawei MatePad X (2026)”. Though beyond mentioning that it’s on its way, there’s little else that the […]\nThe post Huawei Teases Upcoming MatePad 12 X Refresh For 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377287/huawei-teases-upcoming-matepad-12-x-refresh-2026/",
+          "publishedOn": "2025-12-29T03:52:26.000Z",
+          "wordCount": 10763,
+          "title": "Huawei Teases Upcoming MatePad 12 X Refresh For 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Huawei-MatePad-12-X-2026.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377263",
+          "author": "Keran",
+          "description": "Lexus has expanded its battery electric vehicle (BEV) RZ lineup with the introduction of a special edition model known as the RZ 600e F SPORT Performance. Based on the RZ 550e F SPORT, the new variant is set to go on sale in Japan from March 2, 2026, further strengthening the brand’s performance-oriented electric offerings. […]\nThe post Lexus RZ 600e F SPORT Performance Debuts in Japan appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2025/377263/lexus-rz-600e-f-sport-performance-debuts-japan/",
+          "publishedOn": "2025-12-28T09:34:29.000Z",
+          "wordCount": 11167,
+          "title": "Lexus RZ 600e F SPORT Performance Debuts in Japan",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/600e-F-Sport-Performance01.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=377259",
           "author": "John Law",
@@ -21337,41 +21439,6 @@
           "wordCount": 10902,
           "title": "No Tiered RON95 Pricing After 300 Litres Under BUDI95, Says Finance Minister II",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Shell-BUDI-9515.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376114",
-          "author": "Ian Chee",
-          "description": "SSDs come in in various sizes, but the smallest ones are usually not made with PCs in mind. One example is the one called Planck, labelled as the “world’s smallest”, but made for phones in mind. There’s another contender, made by a Chinese company called Biwin, and it’s simply called the CL100. And now, it […]\nThe post Biwin CL100 Mini SSD Launches In China; Needs An Adapter appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376114/biwin-mini-ssd-launches-china-needs-adapter/",
-          "publishedOn": "2025-12-14T04:00:42.000Z",
-          "wordCount": 10646,
-          "title": "Biwin CL100 Mini SSD Launches In China; Needs An Adapter",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Biwin-Mini-SSD.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376197",
-          "author": "Heirul Kamel",
-          "description": "The Royal Malaysian Police (PDRM) are warning the public about a new “silent call” scam, where fraudsters use artificial intelligence to mimic a victim’s voice and deceive their family members. The alert follows a viral TikTok video by Kuala Lumpur police explaining how the tactic works. Cheras Commercial Crime Investigation Department officer Inspector Tai Yong […]\nThe post Police Warn Of AI-Powered “Silent Call” Voice Exploitation Scam appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376197/police-warn-of-ai-powered-silent-call-voice-exploitation-scam/",
-          "publishedOn": "2025-12-14T01:23:07.000Z",
-          "wordCount": 10700,
-          "title": "Police Warn Of AI-Powered “Silent Call” Voice Exploitation Scam",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/04/cimb-scam-how-to-protection-scammers-scams-clicks-octo-fraud-system-3.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376139",
-          "author": "Nurul Kamil",
-          "description": "AI-powered browsers aren’t exactly a novel idea at this point, with both Perplexity and OpenAI releasing their own takes on the concept. Google has also been steadily working on ways to integrate Gemini into web browsing, and this time it has arrived at a new experiment. Enter Disco, the newest offering from Google Labs. Disco […]\nThe post The Latest Google Labs Experiment Is A Gemini-Powered Browser Called Disco appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376139/google-disco/",
-          "publishedOn": "2025-12-14T01:00:34.000Z",
-          "wordCount": 10849,
-          "title": "The Latest Google Labs Experiment Is A Gemini-Powered Browser Called Disco",
-          "enclosure": {
-            "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/3_Meal_Plan.mp4",
-            "length": "2944576",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/google-disco-1.jpg"
         }
       ]
     },
