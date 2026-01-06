@@ -19294,6 +19294,118 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.\nIt affects n8n versions from",
+          "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+          "publishedOn": "2026-01-06T05:08:00.000Z",
+          "wordCount": null,
+          "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh4kfbdw2kmRhvFRiWagiGm-NomgkxXOVp915lPhU1nQ5FwQq4P08SOOLN7uVSAoojBSuz_sAI7rcgwWvp53esgON2dDVqB7C9EhkxGd5dz6IsZJ-xMLegtI9mAbJBRsidXMjRX3TUBTtPl1iY7Jnh0KhPcJnRggbC8WFgr0w3Fm6zTfIjZYWKBrMZZHna/s1600/flaw-n8n.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh4kfbdw2kmRhvFRiWagiGm-NomgkxXOVp915lPhU1nQ5FwQq4P08SOOLN7uVSAoojBSuz_sAI7rcgwWvp53esgON2dDVqB7C9EhkxGd5dz6IsZJ-xMLegtI9mAbJBRsidXMjRX3TUBTtPl1iY7Jnh0KhPcJnRggbC8WFgr0w3Fm6zTfIjZYWKBrMZZHna/s1600/flaw-n8n.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server.\nTracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart",
+          "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+          "publishedOn": "2026-01-06T03:30:00.000Z",
+          "wordCount": null,
+          "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzO1cc-SgAdpaPJsJZj5THeCL4mn7tPUZbghNoDdS-5-NM8bsS9s-Rrp3VwPIm0bEP0qP4kasNmPfuo4Thkd1gWc-8tjPHwjb1lfacgHdfFvtPz2RXzqD-Ny9LecUi5kU4NHXxYkjzuAKSvToFOfBQjSwHcA43UzcfY__3PwwgO8muoNhYJ7Qr6qrOSP_U/s1600/adonis-security.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzO1cc-SgAdpaPJsJZj5THeCL4mn7tPUZbghNoDdS-5-NM8bsS9s-Rrp3VwPIm0bEP0qP4kasNmPfuo4Thkd1gWc-8tjPHwjb1lfacgHdfFvtPz2RXzqD-Ny9LecUi5kU4NHXxYkjzuAKSvToFOfBQjSwHcA43UzcfY__3PwwgO8muoNhYJ7Qr6qrOSP_U/s1600/adonis-security.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives.\n\"This organization has continued to conduct high-intensity intelligence gathering activities against Ukrainian military and government departments in 2025,\" the 360 Threat Intelligence Center said in",
+          "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+          "publishedOn": "2026-01-05T17:56:00.000Z",
+          "wordCount": null,
+          "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZrzpzm3kgY91cQhzyrpbgxomzkri4gsv_GeaFpDMVVj3faZ9_CQAm2c5DvxBbZ15708nW3eJrmSxS9AZBABszXboS-IVyik_4TTrni4xTOJERzoSSF5l7ixY_7n4hIydsBXGozBBS0rF89sIpgxRMHPZbEVe6n2j-nWxP15Y8fsvt7-_KQO-Zjwu_19h2/s1600/viber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZrzpzm3kgY91cQhzyrpbgxomzkri4gsv_GeaFpDMVVj3faZ9_CQAm2c5DvxBbZ15708nW3eJrmSxS9AZBABszXboS-IVyik_4TTrni4xTOJERzoSSF5l7ixY_7n4hIydsBXGozBBS0rF89sIpgxRMHPZbEVe6n2j-nWxP15Y8fsvt7-_KQO-Zjwu_19h2/s1600/viber.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient.\n\"Key actors involved in the Kimwolf botnet are observed monetizing the botnet through app installs, selling residential proxy bandwidth, and selling its DDoS functionality,\" the company said in an analysis published last week.\nKimwolf",
+          "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
+          "publishedOn": "2026-01-05T16:41:00.000Z",
+          "wordCount": null,
+          "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaeV0itvv125PlLqvGK97v34m6fdEcSIwgagUCSvL0Z2hcuBWhc-Va5zUjeF3_CgbFojPUcu-Sx2byaI00B67aw49WjKuTDH7zrW7f2Z3lbAt4HLkfA1-k2Vo2sGbrOO9XGCGGjCYQKfdCiUee_aL_UwgcFfxM2jZJxQQkFAtF9P2_raILtD7Orm01ixpE/s1600/android-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaeV0itvv125PlLqvGK97v34m6fdEcSIwgagUCSvL0Z2hcuBWhc-Va5zUjeF3_CgbFojPUcu-Sx2byaI00B67aw49WjKuTDH7zrW7f2Z3lbAt4HLkfA1-k2Vo2sGbrOO9XGCGGjCYQKfdCiUee_aL_UwgcFfxM2jZJxQQkFAtF9P2_raILtD7Orm01ixpE/s1600/android-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The year opened without a reset. The same pressure carried over, and in some places it tightened. Systems people assume are boring or stable are showing up in the wrong places. Attacks moved quietly, reused familiar paths, and kept working longer than anyone wants to admit.\nThis week’s stories share one pattern. Nothing flashy. No single moment. Just steady abuse of trust — updates, extensions,",
+          "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
+          "publishedOn": "2026-01-05T12:53:00.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEUDAXLw6oaBwuDDWjb5LC1ARsZq2fg3GJ-qKhdAf-FchvPbjbdME9JLzX1Z2R8OKWYbYAg7BEVYf0LumhvXR0EFs2t8Okw9sXB4-aw-7orrIS93AuWlPnFGV5wfzCux97MCn8N2o7VXbeo5O5ph5m4hJHpunYmbw7Lvv16SnIlos6ZVjtboqT12lIqkk/s1600/recaps.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEUDAXLw6oaBwuDDWjb5LC1ARsZq2fg3GJ-qKhdAf-FchvPbjbdME9JLzX1Z2R8OKWYbYAg7BEVYf0LumhvXR0EFs2t8Okw9sXB4-aw-7orrIS93AuWlPnFGV5wfzCux97MCn8N2o7VXbeo5O5ph5m4hJHpunYmbw7Lvv16SnIlos6ZVjtboqT12lIqkk/s1600/recaps.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Featuring:\n\nCybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastructure, distributed endpoints, and complex supply chains, security has shifted from a collection of point solutions to a question of architecture, trust, and execution speed.\nThis report examines how core areas of cybersecurity are evolving in",
+          "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
+          "publishedOn": "2026-01-05T11:55:00.000Z",
+          "wordCount": null,
+          "title": "The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA8x4yWhFnltxystR8dz6wTJZo-s-V59gxVDdhogzQnCBOGTU8Rl8SzY-Qa9q83pzJfuShODB0oiNiImplzMoWmBgY754RhzQLWWutipMGuqbhZMyGTQKGsHQEqAOsdiZ2F6FHASN947iuZczpw47T46GJy6juP0qa4739u4U_1-S9yahO6ma6VI_ttIM/s1600/papryon.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA8x4yWhFnltxystR8dz6wTJZo-s-V59gxVDdhogzQnCBOGTU8Rl8SzY-Qa9q83pzJfuShODB0oiNiImplzMoWmBgY754RhzQLWWutipMGuqbhZMyGTQKGsHQEqAOsdiZ2F6FHASN947iuZczpw47T46GJy6juP0qa4739u4U_1-S9yahO6ma6VI_ttIM/s1600/papryon.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been released early.\nIn a post shared on X last week, the 38-year-old announced his release, crediting U.S. President Donald Trump's First Step Act. According to the Federal Bureau of Prisons' inmate locator",
+          "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
+          "publishedOn": "2026-01-05T09:42:00.000Z",
+          "wordCount": null,
+          "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRjeSAB0rkk2lglAZ8hgVe7QDPCxycsYNyYdH-GgUX4XyDU2mGl_iQ2uOtMu8ShG5OlzZ-ds7crBTv8Orc9nSe-JMycT7ukvHmQ-yEmXZPSwkhY8DlnPvfag3d0RdJ6fPAV_baXOgwpvJefpvO08HzmLNZF13f5d9oL63dXTTBS72P_2lg0lsaEJCQx82C/s1600/bitfinex-case.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRjeSAB0rkk2lglAZ8hgVe7QDPCxycsYNyYdH-GgUX4XyDU2mGl_iQ2uOtMu8ShG5OlzZ-ds7crBTv8Orc9nSe-JMycT7ukvHmQ-yEmXZPSwkhY8DlnPvfag3d0RdJ6fPAV_baXOgwpvJefpvO08HzmLNZF13f5d9oL63dXTTBS72P_2lg0lsaEJCQx82C/s1600/bitfinex-case.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens.\nThe stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42.\n\"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
@@ -19916,70 +20028,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy3bMJ_cKP4TrAH-KOWY46y-1GTQUXi_PiX9TE8l1moOLMKbIVaQ74Mv13u_tWRqHgm0YREjioC7i3BzYY_ng40nEJbStz33KNYx4L0vuzX8wSQxCQAkFwmDSBDMTJqm9c_qZ5d6zYbQifH196F0flM_gpWNUWRTtorflGdqUt55HYBjHqmOS210KZEMCs/s1600/drone.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy3bMJ_cKP4TrAH-KOWY46y-1GTQUXi_PiX9TE8l1moOLMKbIVaQ74Mv13u_tWRqHgm0YREjioC7i3BzYY_ng40nEJbStz33KNYx4L0vuzX8wSQxCQAkFwmDSBDMTJqm9c_qZ5d6zYbQifH196F0flM_gpWNUWRTtorflGdqUt55HYBjHqmOS210KZEMCs/s1600/drone.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account.\nThe package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
-          "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
-          "publishedOn": "2025-12-22T16:28:00.000Z",
-          "wordCount": null,
-          "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmlgJ1Ik_0R32UVEqmVu8yRjzKyNEMijqN7ox6JMNp9RQFOtpeBhDHEcgQH6eL6SgRRF3z6pH4YHh2fanPXGIIyrMJIUZ72Nm4JOWYycoqFnvzyFcbuufQHdjxdde1_MIZ0SiSsG8EyrzC0KpF-pO4Nvzpg2OtpApM_F0pZizo46YpYmU6Jj0dA1YvHiz/s1600/whatsapp-api.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmlgJ1Ik_0R32UVEqmVu8yRjzKyNEMijqN7ox6JMNp9RQFOtpeBhDHEcgQH6eL6SgRRF3z6pH4YHh2fanPXGIIyrMJIUZ72Nm4JOWYycoqFnvzyFcbuufQHdjxdde1_MIZ0SiSsG8EyrzC0KpF-pO4Nvzpg2OtpApM_F0pZizo46YpYmU6Jj0dA1YvHiz/s1600/whatsapp-api.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches.\nThe real danger now isn’t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
-          "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
-          "publishedOn": "2025-12-22T12:00:00.000Z",
-          "wordCount": null,
-          "title": "⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfN3ux07rPKZg1M2O3wpbUAk1rPOaoFe-zhltZduqAdK1WiIPa9z5XcYwZVKNnUem6cU5uvtG-MS9eIDolbN7t3T9nOQYNDufSeGDftevuCUxij9rVpsTegXGjdBP5H1ZjevvhRLlGqG5vD9sxJToi24IPMvAZWrRsMQHKE44iaKidp7cOXDln0xi7Hh65/s1600/recap.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfN3ux07rPKZg1M2O3wpbUAk1rPOaoFe-zhltZduqAdK1WiIPa9z5XcYwZVKNnUem6cU5uvtG-MS9eIDolbN7t3T9nOQYNDufSeGDftevuCUxij9rVpsTegXGjdBP5H1ZjevvhRLlGqG5vD9sxJToi24IPMvAZWrRsMQHKE44iaKidp7cOXDln0xi7Hh65/s1600/recap.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow. \nData centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant.\nChoosing a browser designed with",
-          "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
-          "publishedOn": "2025-12-22T11:55:00.000Z",
-          "wordCount": null,
-          "title": "How to Browse the Web More Sustainably With a Green Browser",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDqayh8eTBNeu3P7DDfaRLyYy7oXoTFadgcbgmSHwjlUYyGh8ZxACjv52OqcE-BjUZkFVjd8Fj-Vo49W4o6b2uXa4OkNR1vAB3LOCsrp5SptD9HhO_9dNvOfxH2Zp-QUBUFz94h9mKNDB_lIUvdDMu1v2Pf_ETEGWvYNqfetmTIN0Jppl_QU1M7ycBUAI/s1600/1.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDqayh8eTBNeu3P7DDfaRLyYy7oXoTFadgcbgmSHwjlUYyGh8ZxACjv52OqcE-BjUZkFVjd8Fj-Vo49W4o6b2uXa4OkNR1vAB3LOCsrp5SptD9HhO_9dNvOfxH2Zp-QUBUFz94h9mKNDB_lIUvdDMu1v2Pf_ETEGWvYNqfetmTIN0Jppl_QU1M7ycBUAI/s1600/1.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
-          "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
-          "publishedOn": "2025-12-22T06:11:00.000Z",
-          "wordCount": null,
-          "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWVgGSYLL-YP_SSvlO7Ggd4xXBMYcq1VWwMSfYjL9s9_o6ewyRXjm9RP0L5EgFMKw8b5azDKhpu66hiT10OeIa54lrYOMcZtk8c8MfbNcq4NSWE4T9pkOyxN6P_yt4sGBdqI6XEFKbLboV1irfJsJO79eyzrN8JavCACeRUv7IoTujepK4K6G9-0S2ua4m/s1600/android-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWVgGSYLL-YP_SSvlO7Ggd4xXBMYcq1VWwMSfYjL9s9_o6ewyRXjm9RP0L5EgFMKw8b5azDKhpu66hiT10OeIa54lrYOMcZtk8c8MfbNcq4NSWE4T9pkOyxN6P_yt4sGBdqI6XEFKbLboV1irfJsJO79eyzrN8JavCACeRUv7IoTujepK4K6G9-0S2ua4m/s1600/android-malware.jpg"
         }
       ]
     },
@@ -19988,6 +20036,96 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=377788",
+          "author": "Kiran Ganesan",
+          "description": "With CES 2026 now in full swing, many companies are launching several new products to bolster their lineups. One of these companies is ASUS’ sub-brand Republic of Gamers (ROG), which had just announced its newest TWS called the ROG Cetra Open Wireless earbuds. As expected, ASUS markets the ROG Cetra Open Wireless earbuds toward gamers, […]\nThe post ASUS Officially Announces ROG Cetra Open Wireless Earbuds appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377788/asus-announces-rog-cetra-open-wireless/",
+          "publishedOn": "2026-01-06T08:24:55.000Z",
+          "wordCount": 11058,
+          "title": "ASUS Officially Announces ROG Cetra Open Wireless Earbuds",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/ASUS-Officially-Announces-ROG-Cetra-Open-Wireless-Earbuds-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377736",
+          "author": "Nurul Kamil",
+          "description": "Last week, Huawei revealed that it is launching the Huawei MatePad 12 X (2026), which serves as a refresh of the original MatePad 12 X that debuted in 2024. And just as promised, the tablet has officially arrived on our shores. While this new version shares some characteristics with its predecessor, it promises some upgrades […]\nThe post Huawei MatePad 12 X (2026) Debuts In Malaysia For RM2,499 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377736/huawei-matepad-12-x-2026/",
+          "publishedOn": "2026-01-06T07:18:14.000Z",
+          "wordCount": 11354,
+          "title": "Huawei MatePad 12 X (2026) Debuts In Malaysia For RM2,499",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/huawei-matepad-12-x-2026-5.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377737",
+          "author": "John Law",
+          "description": "In conjunction with its CES 2026 keynote, NVIDIA is also announcing an update to its DLSS 4 technology: DLSS 4.5. The update brings with a new and improved Transformer model and Dynamic Multiframe Generation technology.  Dynamic Multiframe Generation is essentially a new and improved version of the upscaling technology and, to put it in laymen terms, it slots in 6x more frames, up from the 4x frames […]\nThe post NVIDIA Announces DLSS 4.5; Features New Dynamic Multiframe Generation appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377737/nvidia-announces-dlss-4-5-features-new-dynamic-multiframe-generation/",
+          "publishedOn": "2026-01-06T06:01:48.000Z",
+          "wordCount": 10830,
+          "title": "NVIDIA Announces DLSS 4.5; Features New Dynamic Multiframe Generation",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/NVIDIA-DLSS-4.5-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377673",
+          "author": "John Law",
+          "description": "AMD is officially ending its silence and pulling back the curtains on two long-rumoured product lineups: the Ryzen 7 9850X3D desktop CPU, and the Ryzen AI 400 Series mobile CPU lineup. As per the earlier rumour, the Ryzen 7 9850X3D is indeed a slightly souped-up version of the 9800X3D. It is essentially a carbon copy […]\nThe post AMD Officially Announces Ryzen 7 9850X3D And Ryzen AI 400 Series CPUs appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377673/amd-officially-announces-ryzen-7-9850x3d-and-ryzen-ai-400-series-cpus/",
+          "publishedOn": "2026-01-06T03:52:09.000Z",
+          "wordCount": 10945,
+          "title": "AMD Officially Announces Ryzen 7 9850X3D And Ryzen AI 400 Series CPUs",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/AMD-Ryzen-AI-400-Series-CES-2026-5-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377712",
+          "author": "Kiran Ganesan",
+          "description": "Maybank officially announced yesterday that it will be updating its contactless transaction process for all Maybank cards used with Google Pay. Starting 27 January, the universal bank will apply a maximum limit of RM2,500 per Google Pay transaction. The bank will require users to use their physical cards for any transactions that exceed this amount. […]\nThe post Maybank Adds RM2,500 Spending Limit To Google Pay Transactions appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377712/maybank-adds-rm2500-spending-limit-to-google-pay-transactions/",
+          "publishedOn": "2026-01-06T03:20:04.000Z",
+          "wordCount": 10726,
+          "title": "Maybank Adds RM2,500 Spending Limit To Google Pay Transactions",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/06/maybank_maybank_maybank-discontinues-maybank2u-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377686",
+          "author": "Nurul Kamil",
+          "description": "Qualcomm has officially announced its newest additions to its range of laptop processors at CES 2026, the Snapdragon X2 Plus. While not as powerful as the X2 Elite launched last year, the new chips promise improvements compared to their predecessor. The X2 Plus comprises two SKUs, which are the X2P-64-100 and the X2P-42-100. The processors […]\nThe post Qualcomm Unveils Snapdragon X2 Plus With Faster Performance, Advanced AI appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377686/qualcomm-snapdragon-x2-plus/",
+          "publishedOn": "2026-01-06T02:32:05.000Z",
+          "wordCount": 10731,
+          "title": "Qualcomm Unveils Snapdragon X2 Plus With Faster Performance, Advanced AI",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/qualcomm-snapdragon-x2-plus-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377683",
+          "author": "Ian Chee",
+          "description": "Following the launch in its home market, as well as select international markets, the OPPO Reno15 series is finally doing the same in Malaysia. As you’d have seen a few times before, it’s a series with a fair number of members. This time around, there’s a total of three of them, consisting of the base […]\nThe post OPPO Reno15 Series Now Official In Malaysia From RM1,499 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377683/oppo-reno15-series-official-malaysia-from-rm1499/",
+          "publishedOn": "2026-01-06T02:13:16.000Z",
+          "wordCount": 11736,
+          "title": "OPPO Reno15 Series Now Official In Malaysia From RM1,499",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/OPPO-Reno15-series.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377662",
+          "author": "Kiran Ganesan",
+          "description": "ASUS, particularly its sub-brand Republic of Games (ROG), has been unveiling several new products, predominantly monitors, as of late ahead of CES. However, a rumour has sprouted claiming that the Taiwanese PC brand plans on releasing a pair of AR glasses. Well, they’re rumours no more, as ROG has officially announced the ROG XREAL R1. […]\nThe post ASUS Officially Unveils ROG XREAL R1 AR Gaming Glasses appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377662/asus-officially-unveils-rog-xreal-r1-ar-gaming-glasses/",
+          "publishedOn": "2026-01-06T01:11:05.000Z",
+          "wordCount": 11396,
+          "title": "ASUS Officially Unveils ROG XREAL R1 AR Gaming Glasses",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/ASUS-Officially-Unveils-ROG-XREAL-R1-AR-Gaming-Glasses-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377645",
+          "author": "Kiran Ganesan",
+          "description": "UPERFECT, a Chinese-based manufacturer of portable LCD monitors and lapdocks, has debuted its newest portable display called the UColor Apex – 19. According to the company, the screen has incredible colour accuracy, making it the best choice for video editors and graphic designers. Under the hood, the UColor Apex – 19 is fitted with a […]\nThe post UColor Apex – 19 Is A Portable 19-Inch QLED 4K Monitor With A Kickstand appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377645/ucolor-apex-19-is-a-portable-19-inch-qled-4k-monitor-with-a-kickstand/",
+          "publishedOn": "2026-01-05T08:53:31.000Z",
+          "wordCount": 11532,
+          "title": "UColor Apex – 19 Is A Portable 19-Inch QLED 4K Monitor With A Kickstand",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/UColor_Apex_19_Is_A_Portable_19_Inch_QLED_4K_Monitor_With_A_Kickstand.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=377619",
           "author": "John Law",
@@ -20807,106 +20945,6 @@
           "wordCount": 10805,
           "title": "Huawei FreeClip 2 To Launch In Malaysia Soon",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/huawei-freeclip-2-to-launch-in-malaysia-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376936",
-          "author": "Keran",
-          "description": "Perodua is speculated to be considering the acquisition of Tan Chong Motor Assemblies Sdn Bhd (TCMA) assembly plant in Seberang Perai for an estimated RM500 million following the launch of its two new models; the QV-E and the Traz, according to Nanyang Business Daily. The plant is strategically located about three kilometres from Perodua’s existing […]\nThe post Perodua Rumoured Of Possible RM500 Million Acquisition Of TCMA Assembly Plant appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376936/perodua-tan-chong-assembly-plant-rumour/",
-          "publishedOn": "2025-12-22T09:37:40.000Z",
-          "wordCount": 10684,
-          "title": "Perodua Rumoured Of Possible RM500 Million Acquisition Of TCMA Assembly Plant",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Perodua-Traz04.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376929",
-          "author": "Heirul Kamel",
-          "description": "HONOR has announced a new AI Voice Cloning Detection feature for its newly launched Magic8 Pro smartphone, aimed at identifying scams that use cloned or synthesised voices. The company says the feature will roll out via a software update in late December 2025, expanding the device’s existing anti-scam toolkit. The AI Voice Cloning Detection works […]\nThe post HONOR Magic8 Pro To Get New AI Voice Cloning Detection Tool appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376929/honor-magic8-pro-to-get-new-ai-voice-cloning-detection-tool/",
-          "publishedOn": "2025-12-22T08:38:58.000Z",
-          "wordCount": 10987,
-          "title": "HONOR Magic8 Pro To Get New AI Voice Cloning Detection Tool",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/HONOR-Magic8-Pro-AI-Voice-Cloning-Detection.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376879",
-          "author": "Ian Chee",
-          "description": "For gamers in Malaysia, the only way to access the NVIDIA GeForce Now is via Yes 5G. You don’t have to be a subscriber to its plans to gain access, but customers understandably get it at lower prices. Either way, one option was to pay for an annual plan. But this looks to have been […]\nThe post Yes 5G Removes Annual Subscription For NVIDIA GeForce Now appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376879/yes-5g-removes-annual-subscription-nvidia-geforce-now/",
-          "publishedOn": "2025-12-22T08:06:54.000Z",
-          "wordCount": 11288,
-          "title": "Yes 5G Removes Annual Subscription For NVIDIA GeForce Now",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/06/NVIDIA-GeForce-Now-Yes-5G-launch.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376910",
-          "author": "Keran",
-          "description": "It is a known fact that the Malaysian government will not renew incentives for fully imported (CBU) electric vehicles in 2026. However, the Malaysian Automotive Association (MAA) has clarified that CBU EVs arriving in the country before 28 December 2025 will still qualify for exemptions from import and excise duties. MAA president Mohd Shamsor Mohd […]\nThe post CBU EV Tax Exemptions To Apply For Vehicles Arriving Before 28 December appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376910/cbu-ev-tax-exemptions-to-apply-for-vehicles-arriving-before-28-december/",
-          "publishedOn": "2025-12-22T06:41:58.000Z",
-          "wordCount": 11006,
-          "title": "CBU EV Tax Exemptions To Apply For Vehicles Arriving Before 28 December",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/12/porsche-macan-electric-launch-msia_09.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376897",
-          "author": "Heirul Kamel",
-          "description": "In Malaysia, it has become all too common: a bank system crashes or a telco network falters, and customers are left in the dark. Literally. For hours, sometimes longer, banks and telcos stay silent, leaving people unsure whether the problem will take minutes or days to fix. Silence in these critical moments is not just […]\nThe post Downtime, No Answers: The Chronic Silence Of Banks And Telcos In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376897/the-chronic-silence-of-banks-and-telcos-in-malaysia/",
-          "publishedOn": "2025-12-22T06:26:44.000Z",
-          "wordCount": 11055,
-          "title": "Downtime, No Answers: The Chronic Silence Of Banks And Telcos In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/telco-bank-downtime-malaysia-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376894",
-          "author": "John Law",
-          "description": "ClecomDigi is announcing the addition of Prime Video to its StreamMORE streaming service, giving customers even more access to popular shows. The streaming service is available to all CelcomDigi Postpaid and Prepaid customers. “In conjunction with the launch, customers who subscribe to Prime Video between 16 December 2025 and 31 March 2026 will get a […]\nThe post CelcomDigi Adds Prime Video To Its StreamMORE Service appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376894/celcomdigi-adds-prime-video-to-its-streammore-service/",
-          "publishedOn": "2025-12-22T06:03:48.000Z",
-          "wordCount": 10874,
-          "title": "CelcomDigi Adds Prime Video To Its StreamMORE Service",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/CelcomDigi-Prime-Video-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376886",
-          "author": "Keran",
-          "description": "Alpine has confirmed that its iconic A110 sports car will soon enter the electric era, marking a major turning point for the French performance brand. The announcement was made as part of Alpine’s 70th anniversary celebrations, alongside the unveiling of the final evolution of its current-generation sports car. The second-generation A110 bows out with the […]\nThe post Alpine A110 Goes Electric As Brand Enters A New Era appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376886/alpine-a110-electric/",
-          "publishedOn": "2025-12-22T04:48:28.000Z",
-          "wordCount": 11003,
-          "title": "Alpine A110 Goes Electric As Brand Enters A New Era",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Alpine-A110-R-Ultime.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376887",
-          "author": "Ian Chee",
-          "description": "The realme C85 has been in the Malaysian market since the start of the month. Though this is done via the less-than-conventional method of being available via telcos, specifically Maxis and U Mobile. Now, the company says that it has “officially” launched the phone, meaning you can get it via the usual retail channels. If […]\nThe post realme C85 Gets Retail Launch; Starts From RM749 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376887/realme-c85-retail-launch-from-rm749/",
-          "publishedOn": "2025-12-22T04:36:48.000Z",
-          "wordCount": 10703,
-          "title": "realme C85 Gets Retail Launch; Starts From RM749",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/realme-c85-7.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376882",
-          "author": "Heirul Kamel",
-          "description": "Member banks under The Association of Banks in Malaysia (ABM) and the Association of Islamic Banking and Financial Institutions Malaysia (AIBIM) are urging customers to ensure their web browsers and mobile devices are running on the latest versions, as part of ongoing efforts to strengthen protection against cyber threats and online scams. The banking industry […]\nThe post Banks Urge Customers To Update Devices, Browsers Against Cyber Threats And Scams appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376882/banks-urge-customers-to-update-devices-browsers/",
-          "publishedOn": "2025-12-22T03:41:24.000Z",
-          "wordCount": 11046,
-          "title": "Banks Urge Customers To Update Devices, Browsers Against Cyber Threats And Scams",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/06/maybank_maybank_maybank-discontinues-maybank2u-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376870",
-          "author": "John Law",
-          "description": "I’ve been playing around with the ASUS ROG Xbox Ally X for a couple of months now. Since the hands on, and much like my review period with the non-Xbox Ally X, playing with this console was making me treat my Steam Deck as the unwanted stepchild in the family. That aside, there are some […]\nThe post ASUS ROG Xbox Ally X Review: Not An Xbox, But It Still Slaps appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376870/asus-rog-xbox-ally-x-review/",
-          "publishedOn": "2025-12-22T03:16:11.000Z",
-          "wordCount": 13845,
-          "title": "ASUS ROG Xbox Ally X Review: Not An Xbox, But It Still Slaps",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/ASUS-ROG-Xbox-Ally-X-13-scaled.jpg"
         }
       ]
     },
@@ -20915,6 +20953,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "A memory leak security vulnerability allows unauthenticated attackers to extract passwords and tokens from MongoDB servers.",
+          "link": "https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch",
+          "publishedOn": "2026-01-05T20:52:04.000Z",
+          "wordCount": null,
+          "title": "Critical 'MongoBleed' Bug Under Active Attack, Patch Now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity",
+          "author": "Alexander Culafi",
+          "description": "Two US citizens pleaded guilty to working as ALPHV/BlackCat ransomware affiliates in 2023, and both were previously employed by prominent security firms.",
+          "link": "https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity",
+          "publishedOn": "2026-01-05T18:52:21.000Z",
+          "wordCount": null,
+          "title": "US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "Recent attacks are targeting Next.js servers and pose a significant threat of cryptomining, botnet payloads, and other malicious activity to IoT networks and enterprises.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation",
+          "publishedOn": "2026-01-05T15:11:55.000Z",
+          "wordCount": null,
+          "title": "RondoDox Botnet Expands Scope With React2Shell Exploitation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats",
           "author": "Kristina Beek, Rob Wright",
@@ -20943,6 +21011,16 @@
           "publishedOn": "2025-12-31T17:35:27.000Z",
           "wordCount": null,
           "title": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cloud-security/when-cloud-rains-on-everyone-iot-parade",
+          "author": "Arielle Waldman",
+          "description": "What happens to all of those always-connected devices when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
+          "link": "https://www.darkreading.com/cloud-security/when-cloud-rains-on-everyone-iot-parade",
+          "publishedOn": "2025-12-31T14:31:37.000Z",
+          "wordCount": null,
+          "title": "When the Cloud Rains on Everyone's IoT Parade",
           "imageUrl": null
         },
         {
@@ -21093,26 +21171,6 @@
           "publishedOn": "2025-12-23T17:16:35.000Z",
           "wordCount": null,
           "title": "Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox",
-          "author": "Rob Wright",
-          "description": "With attacks on the critical firewall vulnerability, WatchGuard joins a list of edge device vendors that have been targeted in recent weeks.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox",
-          "publishedOn": "2025-12-22T20:29:34.000Z",
-          "wordCount": null,
-          "title": "Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers",
-          "author": "Alexander Culafi",
-          "description": "Telegram users in Uzbekistan are being targeted with Android SMS stealer malware, and what's worse, the attackers are improving their methods.",
-          "link": "https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers",
-          "publishedOn": "2025-12-22T17:07:10.000Z",
-          "wordCount": null,
-          "title": "Uzbek Users Under Attack by Android SMS Stealers",
           "imageUrl": null
         }
       ]
