@@ -19294,6 +19294,102 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters.\n\"An unauthenticated remote attacker can inject",
+          "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
+          "publishedOn": "2026-01-07T04:31:00.000Z",
+          "wordCount": null,
+          "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheWL4H_fZgt293fAWAIgIuiEKOwhrhBh7P6E26EPey9tV-t5-5uSIW-84Jfg6Uq3UOP8R3RqBC_lj-kBq_X2JnthYUqbpX8pX6zVTLtORbMk_M4OEJp2OHqEpHtVXJrW12DpkgtSrl5vcu-goQ2s9iAAbBMBc6oTWzTzUUvQYABY8bVsNXJ08lQhY60xw2/s1600/router.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheWL4H_fZgt293fAWAIgIuiEKOwhrhBh7P6E26EPey9tV-t5-5uSIW-84Jfg6Uq3UOP8R3RqBC_lj-kBq_X2JnthYUqbpX8pX6zVTLtORbMk_M4OEJp2OHqEpHtVXJrW12DpkgtSrl5vcu-goQ2s9iAAbBMBc6oTWzTzUUvQYABY8bVsNXJ08lQhY60xw2/s1600/router.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to servers under the attackers' control.\nThe names of the extensions, which collectively have over 900,000 users, are below -\n\nChat GPT for Chrome with GPT-5, Claude Sonnet & DeepSeek AI (ID:",
+          "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+          "publishedOn": "2026-01-06T17:21:00.000Z",
+          "wordCount": null,
+          "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilyYADOHMjVaRNmtGaBfZPuBBjV_zLAAmQ5LxnNXcpM_sHfQYws0W0gowwIgUC9-LBYr-y4eb5HK1cyqC857lCqKz1M_EHugfrzmkAL2vW-0SoRCdJpYsbZv8fd6-5EK8awrdD7a4eCaTZTJB9BLLDdYZlKNZQJ4Pwp7aok-jQ793kB7ft_A5pIgtCqvuQ/s1600/chrome.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilyYADOHMjVaRNmtGaBfZPuBBjV_zLAAmQ5LxnNXcpM_sHfQYws0W0gowwIgUC9-LBYr-y4eb5HK1cyqC857lCqKz1M_EHugfrzmkAL2vW-0SoRCdJpYsbZv8fd6-5EK8awrdD7a4eCaTZTJB9BLLDdYZlKNZQJ4Pwp7aok-jQ793kB7ft_A5pIgtCqvuQ/s1600/chrome.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full control of the device.\nThe flaw, CVE-2025-65606 (CVSS score: N/A), has been characterized as a flaw in the firmware-upload error-handling logic, which could cause the device to inadvertently start",
+          "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
+          "publishedOn": "2026-01-06T15:47:00.000Z",
+          "wordCount": null,
+          "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyTFwLjAZvcGODxR0B7hv5Irv_LIjhCSSiF42fD71qFULdTLWFdJzYSWaMPwXThxT7CocXe9IdvNCU6-9F5fwrHyNMN9AjbhpOLxOzUXDFYHO0Uaypv6wTJ9O4vOmbC_OfBTwBvvXFHAQfTWg4Q_dM5aelJtqTPy7HkRl2E8q1D9bx6hoa1PKMkUkxTqsw/s1600/totolink.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyTFwLjAZvcGODxR0B7hv5Irv_LIjhCSSiF42fD71qFULdTLWFdJzYSWaMPwXThxT7CocXe9IdvNCU6-9F5fwrHyNMN9AjbhpOLxOzUXDFYHO0Uaypv6wTJ9O4vOmbC_OfBTwBvvXFHAQfTWg4Q_dM5aelJtqTPy7HkRl2E8q1D9bx6hoa1PKMkUkxTqsw/s1600/totolink.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Source: Securonix\nCybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector.\nThe end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix.",
+          "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+          "publishedOn": "2026-01-06T12:13:00.000Z",
+          "wordCount": null,
+          "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlFgZ371OJLB7x0fK_3a34h710DpAHQLeyLQyaBpp1jhfsFyRD0-tmkLhXAvv0VD1XnU_WK8g5O16VUob1aHIyQf2smhkn6llIaC_H5_6MwogFRD11Hfp-w2kPc9vgiBUTlnftXM7VuCMsFmBPwxtyvAokqOJbgSAndESDU3qZV6-R9SH6meqbyuyoFk8n/s1600/windows.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlFgZ371OJLB7x0fK_3a34h710DpAHQLeyLQyaBpp1jhfsFyRD0-tmkLhXAvv0VD1XnU_WK8g5O16VUob1aHIyQf2smhkn6llIaC_H5_6MwogFRD11Hfp-w2kPc9vgiBUTlnftXM7VuCMsFmBPwxtyvAokqOJbgSAndESDU3qZV6-R9SH6meqbyuyoFk8n/s1600/windows.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Invisible Half of the Identity Universe\nIdentity used to live in one place - an LDAP directory, an HR system, a single IAM portal.\nNot anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows.\nTraditional IAM and IGA tools govern only the nearly",
+          "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
+          "publishedOn": "2026-01-06T11:30:00.000Z",
+          "wordCount": null,
+          "title": "What is Identity Dark Matter?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimEQJzjgjvmRoxiOvQDswNk4aPb0STZSmlm6rBFlVh7oIWzu0XT-hTarbOhpjAkrNk5HK6JM4WG0zm0JoofGChmxAyJRgYpPghychWIhMDkl1s_LlWzaeYjEcjAPaJI0vZFsBVYEaxtzeYvJljHwLH_6r9Hp5pysms3sNK5NSVtK6CENQWAS0fVxFpXDo/s1600/main.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimEQJzjgjvmRoxiOvQDswNk4aPb0STZSmlm6rBFlVh7oIWzu0XT-hTarbOhpjAkrNk5HK6JM4WG0zm0JoofGChmxAyJRgYpPghychWIhMDkl1s_LlWzaeYjEcjAPaJI0vZFsBVYEaxtzeYvJljHwLH_6r9Hp5pysms3sNK5NSVtK6CENQWAS0fVxFpXDo/s1600/main.gif"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non-existent in the Open VSX registry, potentially opening the door to supply chain risks when bad actors publish malicious packages under those names.\nThe problem, according to Koi, is that these",
+          "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+          "publishedOn": "2026-01-06T11:25:00.000Z",
+          "wordCount": null,
+          "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cvjE-uBAOipvEWs5BsHAt3ztw9IYIHxKGLFRdgCKnxYAJ1UHFZs0b3Zl_xw729c3-7WMgT3G4uLN2kLzwHpwZ3HZFXJ6KwgPg4v6JH3k02OsrQVFHF8BDsf4XKhKjuOajrGqcmNxvmE4LKCru_S6L2wV8SfI38McnPrcI4WC_r_wZHOfLYcOgACPmTvQ/s1600/koi.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cvjE-uBAOipvEWs5BsHAt3ztw9IYIHxKGLFRdgCKnxYAJ1UHFZs0b3Zl_xw729c3-7WMgT3G4uLN2kLzwHpwZ3HZFXJ6KwgPg4v6JH3k02OsrQVFHF8BDsf4XKhKjuOajrGqcmNxvmE4LKCru_S6L2wV8SfI38McnPrcI4WC_r_wZHOfLYcOgACPmTvQ/s1600/koi.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.\nIt affects n8n versions from",
@@ -19932,102 +20028,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-yTMxyqhDKJOHubGmtYjNDzRluX2F22WXjaSmLgJwG6j0Yna4sk9hTY5HWBTix2_9Zv31mOWkqmP7OlAWR8taN8deV6TJFLG6yYU1Tex4FOx4NQv13_WY0rOWCwDCjYZRI300g0407UzkLZ4uoNX_0EsTE5BnQ-WqCv2CWnpxyNMOSDqic4rCcRtUr9I4/s1600/apple.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-yTMxyqhDKJOHubGmtYjNDzRluX2F22WXjaSmLgJwG6j0Yna4sk9hTY5HWBTix2_9Zv31mOWkqmP7OlAWR8taN8deV6TJFLG6yYU1Tex4FOx4NQv13_WY0rOWCwDCjYZRI300g0407UzkLZ4uoNX_0EsTE5BnQ-WqCv2CWnpxyNMOSDqic4rCcRtUr9I4/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials.\nThe extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
-          "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-          "publishedOn": "2025-12-23T14:42:00.000Z",
-          "wordCount": null,
-          "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4__5ctB3AEUyx20JMtYNXVZZluGKRNFfjiUFh6x6DKegzNVsYHnd5W0aB_Khw7lDQRw5TzJak2NX5GyMwiCfOuvWMREsEwfnSrqgYnheHYUMamMNgJANAZWCKbkjlozi1ARLOWxjGOEAxaUo8_k5V2EweQQy8MBnxrSoNUGigeg5HOoPBWSSN5jHGfem5/s1600/chrome-passwords.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4__5ctB3AEUyx20JMtYNXVZZluGKRNFfjiUFh6x6DKegzNVsYHnd5W0aB_Khw7lDQRw5TzJak2NX5GyMwiCfOuvWMREsEwfnSrqgYnheHYUMamMNgJANAZWCKbkjlozi1ARLOWxjGOEAxaUo8_k5V2EweQQy8MBnxrSoNUGigeg5HOoPBWSSN5jHGfem5/s1600/chrome-passwords.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A law enforcement operation coordinated by INTERPOL has led to the recovery of $3 million and the arrest of 574 suspects by authorities from 19 countries, amidst a continued crackdown on cybercrime networks in Africa.\nThe coordinated effort, named Operation Sentinel, took place between October 27 and November 27, 2025, and mainly focused on business email compromise (BEC), digital extortion, and",
-          "link": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
-          "publishedOn": "2025-12-23T11:35:00.000Z",
-          "wordCount": null,
-          "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFfCHIDoU0Y0gTgtyYOReNQ25Fbk3iSVfFgc4C2n8KtajPh773Ap4QVIdosJI0I61aVqcUprFNgBXGdjQJuZLyKzZKylPrm1HlSSKMTeyt3AL75pAULMPnxGTZFZHoCVf7iBjDH3C1tn-Qc7CH5b9PtKMTgI9Lq_86Js9aTmAq5521JepCW7D_-4VXZ0cG/s1600/hackersss.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFfCHIDoU0Y0gTgtyYOReNQ25Fbk3iSVfFgc4C2n8KtajPh773Ap4QVIdosJI0I61aVqcUprFNgBXGdjQJuZLyKzZKylPrm1HlSSKMTeyt3AL75pAULMPnxGTZFZHoCVf7iBjDH3C1tn-Qc7CH5b9PtKMTgI9Lq_86Js9aTmAq5521JepCW7D_-4VXZ0cG/s1600/hackersss.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Passwd is designed specifically for organizations operating within Google Workspace. Rather than competing as a general consumer password manager, its purpose is narrow, and business-focused: secure credential storage, controlled sharing, and seamless Workspace integration. The platform emphasizes practicality over feature overload, aiming to provide a reliable system for teams that already rely",
-          "link": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
-          "publishedOn": "2025-12-23T11:30:00.000Z",
-          "wordCount": null,
-          "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLhfDeq_7RfPzgo2DCfamOFNy5Am9tnj1DD30TuuoStmiD8t12kh21heOGP1BvCX1ggrZe6UydxBkRH9KsK8hx-kJ09pGJ86aWrMqwQmuc1HdQEtnCwf5XtNb4Utdz6nnrLi1MgWBfxo196GOEVdA1UAG1bRHot3WHSRtgqbvnqW54gWh9_z60x-Pel-Q/s1600/passwd-main.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLhfDeq_7RfPzgo2DCfamOFNy5Am9tnj1DD30TuuoStmiD8t12kh21heOGP1BvCX1ggrZe6UydxBkRH9KsK8hx-kJ09pGJ86aWrMqwQmuc1HdQEtnCwf5XtNb4Utdz6nnrLi1MgWBfxo196GOEVdA1UAG1bRHot3WHSRtgqbvnqW54gWh9_z60x-Pel-Q/s1600/passwd-main.png"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a bank account takeover scheme.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website",
-          "link": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
-          "publishedOn": "2025-12-23T08:15:00.000Z",
-          "wordCount": null,
-          "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgSipnO1JBRGQ3pPkg6-wpwn7iiEERxPO37SJuXCWagEsDSQeMts_6ZrP-b08mlBs4p4Gaa1pNj-VKDdt4gPr1VObwse-z6wHsSXct3TdJXbOhSJ7ZmG8BpC1uFp64KPMrK1lUNTdmAcObxY_v67D0Zs8XsYQJ2MXik_NduT1zGdxVXI-h-bn4wMCYdM9/s1600/fraud-domain.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgSipnO1JBRGQ3pPkg6-wpwn7iiEERxPO37SJuXCWagEsDSQeMts_6ZrP-b08mlBs4p4Gaa1pNj-VKDdt4gPr1VObwse-z6wHsSXct3TdJXbOhSJ7ZmG8BpC1uFp64KPMrK1lUNTdmAcObxY_v67D0Zs8XsYQJ2MXik_NduT1zGdxVXI-h-bn4wMCYdM9/s1600/fraud-domain.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. The package has about 57,000 weekly downloads, according to statistics on npm.\n\"Under certain",
-          "link": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-          "publishedOn": "2025-12-23T07:34:00.000Z",
-          "wordCount": null,
-          "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBiYnSQwGn-M1HD3JnvekqTc6yRC-xmKXBpGn1C-amAc8WPnk-PSGRPabQbJogN7oijKSF8v_3u00bGvP3BUcKToSIRc4W0V5xuXlWCR1Cv3jbqnMF4oZPr9r4j4bDNabp3j5AYeaE7EQQTVqMC-1ZIUbJvA5C6HeHcnb8coA_WISNeq5xj5MIA0bUx3Q4/s1600/n8n.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBiYnSQwGn-M1HD3JnvekqTc6yRC-xmKXBpGn1C-amAc8WPnk-PSGRPabQbJogN7oijKSF8v_3u00bGvP3BUcKToSIRc4W0V5xuXlWCR1Cv3jbqnMF4oZPr9r4j4bDNabp3j5AYeaE7EQQTVqMC-1ZIUbJvA5C6HeHcnb8coA_WISNeq5xj5MIA0bUx3Q4/s1600/n8n.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Federal Communications Commission (FCC) on Monday announced a ban on all drones and critical components made in a foreign country, citing national security concerns.\nTo that end, the agency has added to its Covered List Uncrewed aircraft systems (UAS) and UAS critical components produced in a foreign country, and all communications and video surveillance equipment and services pursuant",
-          "link": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
-          "publishedOn": "2025-12-23T06:58:00.000Z",
-          "wordCount": null,
-          "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy3bMJ_cKP4TrAH-KOWY46y-1GTQUXi_PiX9TE8l1moOLMKbIVaQ74Mv13u_tWRqHgm0YREjioC7i3BzYY_ng40nEJbStz33KNYx4L0vuzX8wSQxCQAkFwmDSBDMTJqm9c_qZ5d6zYbQifH196F0flM_gpWNUWRTtorflGdqUt55HYBjHqmOS210KZEMCs/s1600/drone.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy3bMJ_cKP4TrAH-KOWY46y-1GTQUXi_PiX9TE8l1moOLMKbIVaQ74Mv13u_tWRqHgm0YREjioC7i3BzYY_ng40nEJbStz33KNYx4L0vuzX8wSQxCQAkFwmDSBDMTJqm9c_qZ5d6zYbQifH196F0flM_gpWNUWRTtorflGdqUt55HYBjHqmOS210KZEMCs/s1600/drone.jpg"
         }
       ]
     },
@@ -20036,6 +20036,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=377900",
+          "author": "John Law",
+          "description": "Back in October of last year, Intel officially announced Panther Lake, its next-generation mobile CPU lineup, which also goes by the name Core Ultra 3 Series. During its keynote aat CES 2026, it officially unveiled two more laptop SKUs: the Core Ultra X7 and X9. Specifically, the Core Ultra X7 comes in two flavours, the […]\nThe post Intel Core Ultra X7 And X9 Mobile Processors Officially Announced At CES 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377900/intel-core-ultra-x7-and-x9-mobile-processors-officially-announced-at-ces-2026/",
+          "publishedOn": "2026-01-07T07:56:54.000Z",
+          "wordCount": 11399,
+          "title": "Intel Core Ultra X7 And X9 Mobile Processors Officially Announced At CES 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Intel-Core-Ultra-X7-X9-Announcement.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377895",
+          "author": "Nurul Kamil",
+          "description": "Lenovo has been on a roll with its unconventional laptop designs. Last year, it released the ThinkBook Plus Gen 6 Rollable, which features a display that extends vertically. Now, at CES 2026, the company is showing off two more devices that build on the idea of rolling displays. At this point, these laptops are only […]\nThe post Lenovo Showcases More Prototype Laptops With Rollable Displays appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377895/lenovo-prototype-laptops-rollable-displays/",
+          "publishedOn": "2026-01-07T06:04:29.000Z",
+          "wordCount": 11347,
+          "title": "Lenovo Showcases More Prototype Laptops With Rollable Displays",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/lenovo-thinkpad-rollable-xd-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377885",
+          "author": "Ian Chee",
+          "description": "Another year, another CES, and with it comes another Afeela model by Sony Honda Mobility. This time, it’s simply called the Afeela Prototype 2026, and it’s mostly unchanged from the Afeela 1. Except for its scale anyway, as this new one has been made to suit the SUV aficionados out there. The joint venture company […]\nThe post Sony Honda Mobility Gives Afeela The SUV Treatment appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377885/sony-honda-mobility-afeela-suv/",
+          "publishedOn": "2026-01-07T05:13:09.000Z",
+          "wordCount": 11009,
+          "title": "Sony Honda Mobility Gives Afeela The SUV Treatment",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Sony-Honda-Mobility-Afeela-Prototype-2026-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377868",
+          "author": "Ian Chee",
+          "description": "As part of its CES 2026 showcase, Infinix has not unveiled a phone. Instead, it has revealed a feature that one of its upcoming phone series will have. It’s simply called Infinix Satellite Communication, which allows for both calls and messages. The company projects a coverage of nearly two-thirds of the earth’s surface for the […]\nThe post Infinix Note 60 Series To Feature Two-Way Satellite Calling, Messaging appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377868/infinix-note-60-series-two-way-satellite-calling-messaging/",
+          "publishedOn": "2026-01-07T04:18:35.000Z",
+          "wordCount": 10625,
+          "title": "Infinix Note 60 Series To Feature Two-Way Satellite Calling, Messaging",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Infinix-NOTE-60-Ultra-Satellite-Calling-and-Messaging.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377873",
+          "author": "Kiran Ganesan",
+          "description": "If you’ve followed Razer recently, you’ll know the company has been placing a strong emphasis on AI. Staying true to its word, the company has unveiled several AI-based concept devices during CES. These products include AI companions, an AI workstation, and the subject of this article, AI-powered headphones. At the time of writing, the company […]\nThe post Razer Unveils AI-Powered Headphones Called Project Motoko appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377873/razer-unveils-ai-headphones-project-motoko/",
+          "publishedOn": "2026-01-07T03:47:31.000Z",
+          "wordCount": 11117,
+          "title": "Razer Unveils AI-Powered Headphones Called Project Motoko",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Razer-Unveils-AI-Powered-Headphones-Called-Project-Motoko1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377863",
+          "author": "Nurul Kamil",
+          "description": "By now, you’re probably already acquainted with MyDigital ID. The national digital identity platform is steadily being integrated into various online public services, replacing previous login methods. Soon, it will be the sole sign-on platform for the National Integrated Immigration System (MyNIISe) mobile app, MyNIISe. In a statement, the Home Ministry announced that MyNIISe will […]\nThe post MyDigital ID To Become Sole Login For MyNIISe App Starting 15 January 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377863/mydigital-id-sole-login-myniise/",
+          "publishedOn": "2026-01-07T03:30:51.000Z",
+          "wordCount": 11141,
+          "title": "MyDigital ID To Become Sole Login For MyNIISe App Starting 15 January 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/08/mydigital-id-online-registration-app_5.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377836",
+          "author": "Kiran Ganesan",
+          "description": "ASUS has announced a new collection of products. However, similar to Razer’s case, this collection largely comprises previously released products in a special colourway. On this occasion, the Taiwanese brand has collaborated with the popular game studio KOJIMA PRODUCTIONS. However, ASUS simply calls this wave of products the “ROG X KJP” collection. The collection comprises […]\nThe post ASUS Teams Up With KOJIMA PRODUCTION For ROG X KJP Collection appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377836/asus-teams-up-with-kojima-production-for-rog-x-kjp-collection/",
+          "publishedOn": "2026-01-07T01:12:45.000Z",
+          "wordCount": 11573,
+          "title": "ASUS Teams Up With KOJIMA PRODUCTION For ROG X KJP Collection",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/ASUS-ROG-X-KJP-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377799",
+          "author": "Ian Chee",
+          "description": "As far as products from laptop brand Acer go, the Predator ES Storm Pro e-scooter is pretty out there. But as mentioned, the company also unveiled a substantial batch of laptop refreshes. Narrowing it down a bit, these come from the Swift and Aspire line of Copilot+ laptops, armed with Intel Core Ultra Series 3 […]\nThe post Acer Refreshes Swift, Aspire Copilot+ Laptops With Intel Core Ultra Series 3 CPUs appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377799/acer-refreshes-swift-aspire-copilot-laptops-intel-core-ultra-series-3/",
+          "publishedOn": "2026-01-06T11:25:11.000Z",
+          "wordCount": 11996,
+          "title": "Acer Refreshes Swift, Aspire Copilot+ Laptops With Intel Core Ultra Series 3 CPUs",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Acer-Swift-16-AI-lifestyle.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377812",
+          "author": "Nurul Kamil",
+          "description": "CES 2026 brings a slew of new product reveals, conventional or otherwise. Aside from an e-scooter, Acer has announced a refresh for its gaming lineup. This includes the Predator Helios Neo 16S AI, and two new devices in the Nitro series. Naturally, this addition to the Predator line serves as the more premium option, while […]\nThe post Acer Updates Gaming Lineup With New Predator And Nitro Laptops appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377812/acer-predator-nitro-laptops/",
+          "publishedOn": "2026-01-06T10:39:04.000Z",
+          "wordCount": 12025,
+          "title": "Acer Updates Gaming Lineup With New Predator And Nitro Laptops",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/acer-predator-helios-neo-16s-ai-3.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=377616",
+          "author": "John Law",
+          "description": "Gigabyte recently released the X870E Aero X3D Wood motherboard. It’s still a premium AM5 motherboard, no doubt, and still offers many modern fixtures and fittings, but it’s also clear that Gigabyte put a greater-than-usual focus on the aesthetics, and even used a particular minimalist philosophy to guide its design. What Am I Looking At? The […]\nThe post Gigabyte X870E Aero X3D Wood Lightning Review: Peak Aesthetics appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/377616/gigabyte-x870e-aero-x3d-wood-lightning-review/",
+          "publishedOn": "2026-01-06T09:52:03.000Z",
+          "wordCount": 11879,
+          "title": "Gigabyte X870E Aero X3D Wood Lightning Review: Peak Aesthetics",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Gigabyte-X870E-Aero-X3D-Wood-1-scaled.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=377788",
           "author": "Kiran Ganesan",
@@ -20855,96 +20955,6 @@
           "wordCount": 10917,
           "title": "Huawei MatePad 11.5 (2026) Launches In China",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Huawei-MatePad-11.5-2026-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376973",
-          "author": "Ian Chee",
-          "description": "WeChat Pay Malaysia may have ceased operations locally back in 2024, but this ultimately only affects its e-wallet service. The rest of the platform remains operational, including Weixin Pay, which allows Malaysians to make payments while in China. More recently, local bank CIMB has partnered with that specific component of the platform for what is […]\nThe post CIMB, WeChat Pay Team Up To Boost Local Merchants’ Visibility To Chinese Tourists appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376973/cimb-wechat-pay-team-up-to-boost-local-merchants-visibility-to-chinese-tourists/",
-          "publishedOn": "2025-12-23T08:20:54.000Z",
-          "wordCount": 10667,
-          "title": "CIMB, WeChat Pay Team Up To Boost Local Merchants’ Visibility To Chinese Tourists",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/CIMB-Google-Wallet-Octo-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376995",
-          "author": "John Law",
-          "description": "As 2025 comes to a close, it also means that CES 2026 is just around the corner. In the case of Lenovo, there are rumours suggesting that the brand will be rolling out a new Legion 7a gaming laptop running on AMD’s Ryzen AI 400 Series APUs, otherwise known as Gorgon Point. The rumour originates […]\nThe post Lenovo May Unveil Legion 7A Laptop With AMD Ryzen AI 400 Series At CES 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376995/lenovo-may-unveil-legion-7a-laptop-with-amd-ryzen-ai-400-series-at-ces-2026/",
-          "publishedOn": "2025-12-23T08:09:30.000Z",
-          "wordCount": 11041,
-          "title": "Lenovo May Unveil Legion 7A Laptop With AMD Ryzen AI 400 Series At CES 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/lenovo-legion-9i-launch-malaysia_04.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376998",
-          "author": "Keran",
-          "description": "Highway operator AFA Prime which was formerly known as ANIH has recently released a time advisory in conjunction with the Christmas festivity, on its social media platform. The time advisory is for KL-Karak Highway (KLK) and the East Coast Expressway Phase 1 (LPT1), where traffic is expected to be heavier on the 25 and 28 […]\nThe post KL–Karak, LPT1 Users Urged To Follow Travel Time Advisory During Christmas Rush appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376998/kl-karak-lpt1-travel-time-advisory-christmas-2025/",
-          "publishedOn": "2025-12-23T07:34:57.000Z",
-          "wordCount": 10960,
-          "title": "KL–Karak, LPT1 Users Urged To Follow Travel Time Advisory During Christmas Rush",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/04/DUKE-Highway-second-location-MLFF-POC-open-toll-payment-system-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376975",
-          "author": "Keran",
-          "description": "Details of the Nissan NX8 have been unveiled in China following its latest filing with the Ministry of Industry and Information Technology (MIIT), revealing the first images and key specifications of the upcoming SUV. Billed as Dongfeng Nissan’s first “international” SUV model, the NX8 will be offered in both fully electric (EV) and range-extender electric […]\nThe post Nissan NX8 Unveiled In China Ahead Of Global Debut appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376975/nissan-nx8-unveiled-in-china-ahead-of-global-debut/",
-          "publishedOn": "2025-12-23T05:19:11.000Z",
-          "wordCount": 11095,
-          "title": "Nissan NX8 Unveiled In China Ahead Of Global Debut",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Nissan-NX81.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376984",
-          "author": "John Law",
-          "description": "Anna’s Archive, a pirate group and open source engine for shadow libraries, recently said that it has successfully ripped Spotify’s entire music library. The group says that the metadata comes up to around 256 million tracks, with 86 million songs, or to put it in another way, just under 300TB in size. “A while ago, […]\nThe post Pirate Group Claims To Have “Scraped” The Entirety Of Spotify appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376984/pirate-group-claims-to-have-scraped-the-entirety-of-spotify/",
-          "publishedOn": "2025-12-23T04:56:01.000Z",
-          "wordCount": 10997,
-          "title": "Pirate Group Claims To Have “Scraped” The Entirety Of Spotify",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Spotify-Vanity-Image-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376981",
-          "author": "Kiran Ganesan",
-          "description": "As you may recall, Agrobank stated that it was investigating an internal system incident but did not specify what the incident was about. A report now claims that the incident appears to be a coordinated attempt to siphon funds from the bank using hundreds of accounts, with suspected losses of up to RM165.75 million. According […]\nThe post Bank Negara Monitors Agrobank After Reported Loss Of Up To RM165.75 Million appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376981/bank-negara-monitors-agrobank-reported-loss-rm165-75-million/",
-          "publishedOn": "2025-12-23T04:39:38.000Z",
-          "wordCount": 11305,
-          "title": "Bank Negara Monitors Agrobank After Reported Loss Of Up To RM165.75 Million",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Agrobank-Bank-App1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376959",
-          "author": "Ian Chee",
-          "description": "Xiaomi shared last week that it will be unveiling the 17 Ultra sometime this week. No specifics at the time, as it was more the announcement of its ongoing partnership with Leica. Well, that, and a “co-creation model” between the two. More recently, the company has pinned down an exact date for its unveiling, and […]\nThe post Xiaomi 17 Ultra To Launch On 25 December; Official Design Revealed appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376959/xiaomi-17-ultra-launch-25-december-official-design/",
-          "publishedOn": "2025-12-23T03:36:08.000Z",
-          "wordCount": 10970,
-          "title": "Xiaomi 17 Ultra To Launch On 25 December; Official Design Revealed",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Xiaomi-17-Ultra.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376961",
-          "author": "Heirul Kamel",
-          "description": "A new rumour suggests that Samsung is once again expanding its foldable smartphone line-up with another form factor. In addition to its existing Fold and Flip series, as well as its recently launched TriFold model, the company is reportedly developing a passport-style foldable with wider external and internal displays. According to a report by South […]\nThe post Samsung Reportedly Working On A New Wide-Screen Foldable Smartphone appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376961/samsung-wide-fold-smartphone-leak/",
-          "publishedOn": "2025-12-23T03:19:10.000Z",
-          "wordCount": 10802,
-          "title": "Samsung Reportedly Working On A New Wide-Screen Foldable Smartphone",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/samsung-wide-screen-foldable-smartphone-wide-fold-rumour-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=376951",
-          "author": "Heirul Kamel",
-          "description": "Huawei Malaysia has announced the upcoming launch of the FreeClip 2, the successor to its first open-ear earbuds from 2023. Building on the original, the new model is promised to offer refined comfort, sound quality, and intelligent features while maintaining a design that blends into daily use. Speaking of which, the FreeClip 2 adopts an […]\nThe post Huawei FreeClip 2 To Launch In Malaysia Soon appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/376951/huawei-freeclip-2-to-launch-in-malaysia-soon/",
-          "publishedOn": "2025-12-23T02:34:52.000Z",
-          "wordCount": 10805,
-          "title": "Huawei FreeClip 2 To Launch In Malaysia Soon",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/huawei-freeclip-2-to-launch-in-malaysia-2.jpg"
         }
       ]
     },
@@ -20953,6 +20963,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot",
+          "author": "Alexander Culafi",
+          "description": "Scattered Lapsus$ Hunters, also known as ShinyHunters, were drawn in using a realistic, yet mostly fake, dataset.",
+          "link": "https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot",
+          "publishedOn": "2026-01-06T20:23:34.000Z",
+          "wordCount": null,
+          "title": "Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "Threat actors are using the social engineering technique and a legitimate Microsoft tool to deploy the DCRat remote access Trojan against targets in the hospitality sector.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death",
+          "publishedOn": "2026-01-06T16:28:30.000Z",
+          "wordCount": null,
+          "title": "ClickFix Campaign Serves Up Fake Blue Screen of Death",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec",
+          "author": "Paul Shomo",
+          "description": "These startups reimagined browser security, pioneered application security for AI-generated code, and are building consensus on agentic vs. human costs.",
+          "link": "https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec",
+          "publishedOn": "2026-01-05T23:32:21.000Z",
+          "wordCount": null,
+          "title": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation",
+          "author": "Mercedes Cardona",
+          "description": "With employees looking for the benefits of artificial intelligence, a fintech company stepped up controls with automation.",
+          "link": "https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation",
+          "publishedOn": "2026-01-05T23:04:24.000Z",
+          "wordCount": null,
+          "title": "Advisor360 Gets a Handle on Shadow AI via Automation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market",
+          "author": "Ericka Chickowski, Contributing Writer",
+          "description": "Insured entities are becoming more sophisticated in their views on how cyber policies fit into their broader risk management plans.",
+          "link": "https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market",
+          "publishedOn": "2026-01-05T22:51:09.000Z",
+          "wordCount": null,
+          "title": "CISOs Face a Tighter Insurance Market in 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch",
           "author": "Jai Vijayan, Contributing Writer",
@@ -21131,46 +21191,6 @@
           "publishedOn": "2025-12-26T12:00:48.000Z",
           "wordCount": null,
           "title": "Dark Reading Opens The State of Application Security Survey",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul",
-          "author": "Arielle Waldman",
-          "description": "Healthcare cyberattacks are on the rise, but industry organizations say the proposed changes to the security rules fall short of what's needed.",
-          "link": "https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul",
-          "publishedOn": "2025-12-23T20:22:19.000Z",
-          "wordCount": null,
-          "title": "Industry Continues to Push Back on HIPAA Security Rule Overhaul",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower",
-          "author": "Jeffrey Schwartz",
-          "description": "Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity, and building a security stack to proactively manage AI.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower",
-          "publishedOn": "2025-12-23T20:03:15.000Z",
-          "wordCount": null,
-          "title": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers",
-          "author": "Alexander Culafi",
-          "description": "The tech giant has been beset by a deluge of state-sponsored North Korean operatives, showcasing the sheer scale of the IT worker scam problem.",
-          "link": "https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers",
-          "publishedOn": "2025-12-23T17:42:50.000Z",
-          "wordCount": null,
-          "title": "Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates",
-          "author": "Becky Bracken",
-          "description": "Interpol said law enforcement across 19 countries made 574 arrests and recovered $3 million, against a backdrop of spiraling cybercrime in the region, including business email compromise, digital extortion, and ransomware schemes.",
-          "link": "https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates",
-          "publishedOn": "2025-12-23T17:16:35.000Z",
-          "wordCount": null,
-          "title": "Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates",
           "imageUrl": null
         }
       ]
