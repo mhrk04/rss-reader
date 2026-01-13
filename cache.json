@@ -19294,6 +19294,86 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog.\nThe vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution.\n\"Gogs Path",
+          "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
+          "publishedOn": "2026-01-13T07:15:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMUjMXRdyCtI2xikoJSDeGIvViooZx5iY3VaL-JJKo4_S9mFaMjovvMIiSzEzzOMDm8H40sBeHQqs_kLbmkACCDc4BdhtYctddKvyo14C-RTPlx0Cl3fVhppAS5-wZ3ZfletweMZPMp5sI5AgpDmFri8LIqIxakNLNygHDkJisJRv39ouXv6qntGei9EVx/s1600/gogs.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMUjMXRdyCtI2xikoJSDeGIvViooZx5iY3VaL-JJKo4_S9mFaMjovvMIiSzEzzOMDm8H40sBeHQqs_kLbmkACCDc4BdhtYctddKvyo14C-RTPlx0Cl3fVhppAS5-wZ3ZfletweMZPMp5sI5AgpDmFri8LIqIxakNLNygHDkJisJRv39ouXv6qntGei9EVx/s1600/gogs.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials.\nOne such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then",
+          "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+          "publishedOn": "2026-01-12T16:39:00.000Z",
+          "wordCount": null,
+          "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2wvrCTGv4Grbd3bv9DT4hUFuTCDt4Wlec_AQ5mYNiWEp2Kze4dSC56p123i08vZnmWNVBd9EZpcVnBdcN-VGShQYmQdDrgaZ6YshND2_s_ZB4S6Aml_tBIURWmvGI9ixZnXKiQMa62wQydWFKhMWVw6Z8S3nT3KlNPA0uJPFQBUPldUirfSu5UmRKJbY/s1600/n8n-supply-chain.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2wvrCTGv4Grbd3bv9DT4hUFuTCDt4Wlec_AQ5mYNiWEp2Kze4dSC56p123i08vZnmWNVBd9EZpcVnBdcN-VGShQYmQdDrgaZ6YshND2_s_ZB4S6Aml_tBIURWmvGI9ixZnXKiQMa62wQydWFKhMWVw6Z8S3nT3KlNPA0uJPFQBUPldUirfSu5UmRKJbY/s1600/n8n-supply-chain.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basic safeguards were ignored. Attackers didn’t need novel tricks. They used what was already exposed and moved in without resistance.\nScale amplified the damage. A single weak configuration rippled out to millions. A repeatable flaw worked again and",
+          "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+          "publishedOn": "2026-01-12T13:41:00.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVi5U23T5vEL_B7kuk04RaGFSI7zFo33wLIli8_c9AxYxC3vY7UHsazm7yFaXzX8nYGa5Ffgrv4zChIoNUV2zSRusLa2cCZHs95p_JFTJGUr11v3BWAdckcv-BzKEBi6rnO2KrdvyQnW-IiAetHbJ73B2SXsVlQH-LyVo_fWw1J-avBbsUteP6FjWf1C5x/s1600/reacap.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVi5U23T5vEL_B7kuk04RaGFSI7zFo33wLIli8_c9AxYxC3vY7UHsazm7yFaXzX8nYGa5Ffgrv4zChIoNUV2zSRusLa2cCZHs95p_JFTJGUr11v3BWAdckcv-BzKEBi6rnO2KrdvyQnW-IiAetHbJ73B2SXsVlQH-LyVo_fWw1J-avBbsUteP6FjWf1C5x/s1600/reacap.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers.\n\"The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common",
+          "link": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
+          "publishedOn": "2026-01-12T10:48:00.000Z",
+          "wordCount": null,
+          "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-QNOjf4TVLf-q_dbb5g-hf4E4UjlFOOK5YAqVzx7MjPKi8yBuDxhMV34BhS8j_2G1Pyc54-wnEssVbtX7I2m-tTz8-sYtURpMRet1G83UIOgdbNw5TnuokdfQXqtd2DXeVjtM6lthXMyMP3BrHzha9fMdzLbrWrmEmAdUj-rhblxC_FMF9nwbcOrpMRtl/s1600/brute.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-QNOjf4TVLf-q_dbb5g-hf4E4UjlFOOK5YAqVzx7MjPKi8yBuDxhMV34BhS8j_2G1Pyc54-wnEssVbtX7I2m-tTz8-sYtURpMRet1G83UIOgdbNw5TnuokdfQXqtd2DXeVjtM6lthXMyMP3BrHzha9fMdzLbrWrmEmAdUj-rhblxC_FMF9nwbcOrpMRtl/s1600/brute.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information.\nUnder an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to",
+          "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
+          "publishedOn": "2026-01-12T08:37:00.000Z",
+          "wordCount": null,
+          "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBsWnWcWrV4eZwbF35H11zf4qjfCNl3bUZgrkSqhaYuyIXID6DpEY1XojOah8CUzZhvs-c33uelCSfZ1MuOMPoP4i4chKkblzMPNIdY4AbQ7iusK97HXg5NPwoc3Dc_DcuKuGZhwc8OxxOvBcnxOlHYSSl1ugILGsbfqg7fA00uZ5w14595CpY8_uoyEj2/s1600/claude.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBsWnWcWrV4eZwbF35H11zf4qjfCNl3bUZgrkSqhaYuyIXID6DpEY1XojOah8CUzZhvs-c33uelCSfZ1MuOMPoP4i4chKkblzMPNIdY4AbQ7iusK97HXg5NPwoc3Dc_DcuKuGZhwc8OxxOvBcnxOlHYSSl1ugILGsbfqg7fA00uZ5w14595CpY8_uoyEj2/s1600/claude.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have shed light on two service providers that supply online criminal networks with the necessary tools and infrastructure to fuel the pig butchering-as-a-service (PBaaS) economy.\nAt least since 2016, Chinese-speaking criminal groups have erected industrial-scale scam centers across Southeast Asia, creating special economic zones that are devoted to fraudulent investment",
@@ -20156,70 +20236,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjecDtf2H25Vece2raxEXtqLjCcgahGUR7FG5NIKWeyx6uIvaFtMlBZUrxC3Yz7RKWiVsbXyllunwBYTBEHgct6q99xvKtNR3U9SvdxMOnfbiU4UN8UgO_CLq5yowN3ZwYvw0oI5Hv7K8A14kLHv4EJaLZzowPdhSNBCE86fJF8G30qcTYYmBWCY4mMSEoh/s1600/rootkit.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjecDtf2H25Vece2raxEXtqLjCcgahGUR7FG5NIKWeyx6uIvaFtMlBZUrxC3Yz7RKWiVsbXyllunwBYTBEHgct6q99xvKtNR3U9SvdxMOnfbiU4UN8UgO_CLq5yowN3ZwYvw0oI5Hv7K8A14kLHv4EJaLZzowPdhSNBCE86fJF8G30qcTYYmBWCY4mMSEoh/s1600/rootkit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.\nA common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not",
-          "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
-          "publishedOn": "2025-12-29T13:38:00.000Z",
-          "wordCount": null,
-          "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrlyxi5CiR5jY-vAJtPcjpGz_L8q6_hbThbQ6ZRXd0HLNpNxG4_KNwle_7EXt_ecUGABpDmjxO2bLwLPfjUmWKfTwuP0Lh910lNr4TE6q2MAm44XQzS2k0b9RJTr1aA74Q_aNkz9frFFNZjlGuafhIChvMiOpQhzD7OfEpXZZhh_GRntRLqmRtmsdrW1NX/s1600/recap.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrlyxi5CiR5jY-vAJtPcjpGz_L8q6_hbThbQ6ZRXd0HLNpNxG4_KNwle_7EXt_ecUGABpDmjxO2bLwLPfjUmWKfTwuP0Lh910lNr4TE6q2MAm44XQzS2k0b9RJTr1aA74Q_aNkz9frFFNZjlGuafhIChvMiOpQhzD7OfEpXZZhh_GRntRLqmRtmsdrW1NX/s1600/recap.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of what has been described as a \"sustained and targeted\" spear-phishing campaign that has published over two dozen packages to the npm registry to facilitate credential theft.\nThe activity, which involved uploading 27 npm packages from six different npm aliases, has primarily targeted sales and commercial personnel at critical",
-          "link": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
-          "publishedOn": "2025-12-29T09:44:00.000Z",
-          "wordCount": null,
-          "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbarqmk-H0SfVP8X3eR-wcY-UAzQs4vgDfk6mZCaOhgsKNAmf1pLBT_CfB6bMSHARl1UMwvkmd1SL9INOF4KyHSMr7eCO4lWF6745uHql2CwA4iWIGik-6yynnmPNOjdNi9FMXD6pCx3GIJ8T8em0Y6kvg-98a8AuatSM9Ql4zgApKEPOP1pySjfOrblmd/s1600/npm-login.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbarqmk-H0SfVP8X3eR-wcY-UAzQs4vgDfk6mZCaOhgsKNAmf1pLBT_CfB6bMSHARl1UMwvkmd1SL9INOF4KyHSMr7eCO4lWF6745uHql2CwA4iWIGik-6yynnmPNOjdNi9FMXD6pCx3GIJ8T8em0Y6kvg-98a8AuatSM9Ql4zgApKEPOP1pySjfOrblmd/s1600/npm-login.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw",
-          "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
-          "publishedOn": "2025-12-29T07:49:00.000Z",
-          "wordCount": null,
-          "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiZRABqAp7GJHhqKTlxX3mAmNX9ySsz9docL7x7bhIaRThcg3I-nlQu1UaXaS6t8T2lQCRhw9xrLkB8neLx4H_a4cJtoOBkvRsUFg29lg6TsqSjCga61QB0xU4H72eeXjXvfRepZGXIpcLWVrcqNpu3_dCwaSbusP2AJc11PIkYmWmxrW5b_6SOlJPivt/s1600/mongodb-exploit.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiZRABqAp7GJHhqKTlxX3mAmNX9ySsz9docL7x7bhIaRThcg3I-nlQu1UaXaS6t8T2lQCRhw9xrLkB8neLx4H_a4cJtoOBkvRsUFg29lg6TsqSjCga61QB0xU4H72eeXjXvfRepZGXIpcLWVrcqNpu3_dCwaSbusP2AJc11PIkYmWmxrW5b_6SOlJPivt/s1600/mongodb-exploit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.\nThe result: 23.77 million secrets were leaked through AI",
-          "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
-          "publishedOn": "2025-12-29T06:34:00.000Z",
-          "wordCount": null,
-          "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomGjDLekFSBoR01Dq_fed3Ka4xlF2C7QEUPeyjySDg6tHRMKyjzilC9TfZYd4xTzwrsSAKhDZ8hpMGjiEZ-APKcq9cCLPtkHHWvaJeWXTNG5D63C3dDvJVd_8Ws6z8PdrwDpHxUOfgVC4xIs6OeUk1YLO6M8Zx9gXTmJy9oDl6hoJ-oCVQ52qt5cC-BiQ/s1600/main.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomGjDLekFSBoR01Dq_fed3Ka4xlF2C7QEUPeyjySDg6tHRMKyjzilC9TfZYd4xTzwrsSAKhDZ8hpMGjiEZ-APKcq9cCLPtkHHWvaJeWXTNG5D63C3dDvJVd_8Ws6z8PdrwDpHxUOfgVC4xIs6OeUk1YLO6M8Zx9gXTmJy9oDl6hoJ-oCVQ52qt5cC-BiQ/s1600/main.jpg"
         }
       ]
     },
@@ -20228,6 +20244,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=378343",
+          "author": "Kiran Ganesan",
+          "description": "Have you received any SMS messages from “WhatsApp” claiming that your account will be banned and asking you to tap the included link to prevent it? If so, you’re not alone, as multiple Malaysians have been reporting this viral phenomenon for some time now. Needless to say, these messages are scams. As a reminder, the […]\nThe post PSA: WhatsApp Ban Warnings Through SMS Are Fake appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378343/psa-whatsapp-ban-warnings-through-sms-are-fake/",
+          "publishedOn": "2026-01-13T08:12:49.000Z",
+          "wordCount": 10916,
+          "title": "PSA: WhatsApp Ban Warnings Through SMS Are Fake",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/WhatsApp-Ban-Warnings-Through-SMS-Are-Fake-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378350",
+          "author": "Heirul Kamel",
+          "description": "Reports that Astro plans to freeze new sign-ups for its fibre service from next month have been circulating online, including on our own forum. The company has since confirmed this to us after we reached out for clarification. Now, as announced via its website, Astro has formally revealed that it will temporarily halt new sales […]\nThe post Astro Fibre To Pause New Sign-Ups From February 2026 Until Further Notice appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378350/astro-fibre-to-pause-new-sign-ups-from-february-2026-until-further-notice/",
+          "publishedOn": "2026-01-13T08:02:07.000Z",
+          "wordCount": 11071,
+          "title": "Astro Fibre To Pause New Sign-Ups From February 2026 Until Further Notice",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/10/astro-fibre-rg21-router-lyn01.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378341",
+          "author": "John Law",
+          "description": "Volvo recently issued a global recall for all of its EX30 Electric Vehicle (EV) over a potential fire risk with its battery. In Malaysia, the recall includes specific units of Single and Twin Motor models, manufactured between 2024 and 2025. In a statement to Paultan.org, Volvo discovered a defect in the cells of the 69kWh […]\nThe post Volvo Issues Global Recall of EX30 Over Potential Battery Fire Risk appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378341/volvo-issues-global-recall-of-ex30-over-potential-battery-fire-risk/",
+          "publishedOn": "2026-01-13T07:35:10.000Z",
+          "wordCount": 10642,
+          "title": "Volvo Issues Global Recall of EX30 Over Potential Battery Fire Risk",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Volvo-EX30-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378310",
+          "author": "Ian Chee",
+          "description": "For about two decades, AirAsia has had a separately named long-haul arm known as AirAsia X. But in a week, the latter name will cease to exist. This is because the company is consolidating its airline businesses as one airline group. And as a result, the long-haul service will also be known simply as AirAsia. […]\nThe post AirAsia X To Just Be Called AirAsia From 19 January appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378310/airasia-x-called-airasia-19-january/",
+          "publishedOn": "2026-01-13T06:52:26.000Z",
+          "wordCount": 10712,
+          "title": "AirAsia X To Just Be Called AirAsia From 19 January",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/04/airasia-flight-plane.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378319",
+          "author": "Nurul Kamil",
+          "description": "Huawei has confirmed that it will be releasing new products in Malaysia soon, including the FreeClip 2. Ahead of the official launch, the brand has opened pre-orders for the open-ear earbuds. As a quick refresher, the lightweight buds serve as the successor to the FreeClip, which debuted in 2023. Much like the original, the FreeClip […]\nThe post Huawei Opens Pre-Orders For FreeClip 2; Priced At RM749 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378319/huawei-freeclip-2-pre-order/",
+          "publishedOn": "2026-01-13T06:41:24.000Z",
+          "wordCount": 10733,
+          "title": "Huawei Opens Pre-Orders For FreeClip 2; Priced At RM749",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/huawei-freeclip-2-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378312",
+          "author": "Nurul Kamil",
+          "description": "It seems that the Malaysian Communications and Multimedia Commission (MCMC) may be dragging X to court. Communications Minister Fahmi Fadzil revealed that MCMC is considering taking legal action against the social media platform over its failure to ensure the safety of its users. Unsurprisingly, the crux of the matter is Grok, which according to the […]\nThe post Fahmi: MCMC Mulling Legal Action Against X Over Grok Deepfakes appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378312/mcmc-legal-action-x-grok-deepfakes/",
+          "publishedOn": "2026-01-13T04:56:46.000Z",
+          "wordCount": 10684,
+          "title": "Fahmi: MCMC Mulling Legal Action Against X Over Grok Deepfakes",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/12/x_grok.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378304",
+          "author": "Ian Chee",
+          "description": "Starlink, the satellite internet service provider and subsidiary of SpaceX, will be adding more satellites to space. The company has gotten approval from the US Federal Communications Commission (FCC) to add 7,500 more of the Starlink Gen 2 low earth orbit satellites up into space. This brings the number of satellites up to 15,000, of […]\nThe post US FCC Approves 7,500 More Starlink Gen 2 Satellites To Improve Global Network appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378304/us-fcc-approves-7500-more-starlink-gen-2-satellites/",
+          "publishedOn": "2026-01-13T04:04:55.000Z",
+          "wordCount": 10746,
+          "title": "US FCC Approves 7,500 More Starlink Gen 2 Satellites To Improve Global Network",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2021/11/starlink-satellites.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378306",
+          "author": "Kiran Ganesan",
+          "description": "It’s now official. Apple is teaming up with Google to power its artificial intelligence system, including the long-delayed Siri update expected to arrive this year. According to a joint statement, the two tech giants have entered a “multi-year collaboration” under which Google’s Gemini model and cloud technology will power the next generation of Apple Foundation […]\nThe post Google Gemini Will Officially Power Apple’s Overhauled Siri appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378306/google-gemini-will-officially-power-apple-overhauled-siri/",
+          "publishedOn": "2026-01-13T03:48:55.000Z",
+          "wordCount": 10770,
+          "title": "Google Gemini Will Officially Power Apple’s Overhauled Siri",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/Apple-Siri-iOS-WWDC-2025-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378298",
+          "author": "Heirul Kamel",
+          "description": "Samsung has announced “Jalan-Jalan Malaysia”, a virtual walkathon challenge available through the Samsung Health app. Designed to motivate users to stay active, the challenge lets participants “travel” across Malaysia by clocking steps, with prizes on offer at the finish line. Running from 10 January to 9 February 2026, the challenge invites users to join via […]\nThe post Samsung’s Virtual Walkathon Challenge Offers A Chance To Win A Galaxy Tab S10 FE appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378298/samsungs-virtual-walkathon-challenge-galaxy-tab-s10-fe/",
+          "publishedOn": "2026-01-13T03:00:37.000Z",
+          "wordCount": 11244,
+          "title": "Samsung’s Virtual Walkathon Challenge Offers A Chance To Win A Galaxy Tab S10 FE",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Samsung-Galaxy-Tab-S10-FE-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378288",
+          "author": "Nurul Kamil",
+          "description": "Debuting in China back in November, the Huawei Mate X7 serves as the brand’s latest book-style foldable. Not too long after the initial launch, the company released the phone in select markets. And now, the device is finally making its way to our shores. To recap what we know from the global launch, the smartphone […]\nThe post Huawei Mate X7 To Get Local Launch Soon appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378288/huawei-mate-x7-local-launch/",
+          "publishedOn": "2026-01-13T02:40:08.000Z",
+          "wordCount": 11091,
+          "title": "Huawei Mate X7 To Get Local Launch Soon",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/huawei-mate-x7-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=378254",
           "author": "John Law",
@@ -21142,96 +21258,6 @@
           "wordCount": 10657,
           "title": "KTMB To Terminate Southern Express Service On 1 January",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/02/ktmb-shuttle-tebrau.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377336",
-          "author": "Kiran Ganesan",
-          "description": "Outside of its smartphones, Samsung is also known for creating some interesting yet robust speaker lineups. The most interesting and most obvious one that comes to mind is the Music Frame that debuted back in CES 2024. The reason why we bring this up is because the company has just unveiled a brand-new speaker lineup […]\nThe post Samsung Announces Two New Speakers Ahead Of CES 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377336/samsung-introduces-two-new-speakers-ahead-of-ces-2026/",
-          "publishedOn": "2025-12-29T11:08:34.000Z",
-          "wordCount": 11678,
-          "title": "Samsung Announces Two New Speakers Ahead Of CES 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Samsung-CES-2026-Speakers-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377332",
-          "author": "John Law",
-          "description": "As a rule of thumb, when the performance metrics of a processor pops up on the online repository, GeekBench, that usually means that the component is the real deal. On that note, the benchmark numbers of the long rumoured AMD Ryzen 9 9950X3D2 finally reared its ugly head. Besides the previously reported Ryzen 7 9850X3D, […]\nThe post AMD Ryzen 9 9950X3D2 Benchmark Details Appear On GeekBench appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377332/amd-ryzen-9950x3d2-geekbench/",
-          "publishedOn": "2025-12-29T10:27:49.000Z",
-          "wordCount": 10856,
-          "title": "AMD Ryzen 9 9950X3D2 Benchmark Details Appear On GeekBench",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/AMD-Ryzen-9-9950X3D-Key-Product-Shot-5.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377316",
-          "author": "Ian Chee",
-          "description": "The Ministry of Finance is reminding people that claiming the BUDI95 subsidised petrol quota of others is a crime. Posted over the weekend on X, the ministry also reminds those facing issues with their MyKad – or outright lost it – should report it to the national Registration Department (JPN) instead. This comes following a […]\nThe post MOF: Claiming Another’s BUDI95 Subsidised Petrol Quota Is A Crime appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377316/mof-claiming-anothers-budi95-subsidised-petrol-quota-crime/",
-          "publishedOn": "2025-12-29T08:51:49.000Z",
-          "wordCount": 10759,
-          "title": "MOF: Claiming Another’s BUDI95 Subsidised Petrol Quota Is A Crime",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/BUDI-95-ID-Checks1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377313",
-          "author": "John Law",
-          "description": "Hardware Canucks, the Canada-based tech outfit, recently posted a video detailing a temporary solution to soaring DDR5 desktop memory prices: turning to laptop, or SO-DIMM, DDR5 memory modules and use RAM adapters to affix them to your motherboard. The idea of a laptop RAM adapter is far from new or groundbreaking, and has been around […]\nThe post Laptop RAM Adapters Could Serve As A Stopgap For Rising DDR5 Prices appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377313/laptop-ram-adapters-could-serve-as-a-stopgap-for-rising-ddr5-prices/",
-          "publishedOn": "2025-12-29T08:04:28.000Z",
-          "wordCount": 11293,
-          "title": "Laptop RAM Adapters Could Serve As A Stopgap For Rising DDR5 Prices",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Laptop-RAM-Adapters-3.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377318",
-          "author": "Kiran Ganesan",
-          "description": "In a bid to further protect children online, the government plans to roll out a regulatory sandbox programme for social media starting on 1 January, 2026. This sandbox aims to strengthen child protection and enhance consumer safety online before authorities implement full-scale enforcement. Communications Minister Datuk Fahmi Fadzil said the programme will allow authorities and […]\nThe post Govt Set to Launch Social Media Regulatory Sandbox on 1 January appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377318/govt-set-to-launch-social-media-regulatory-sandbox-on-jan-1/",
-          "publishedOn": "2025-12-29T07:00:19.000Z",
-          "wordCount": 11068,
-          "title": "Govt Set to Launch Social Media Regulatory Sandbox on 1 January",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Govt-Set-to-Launch-Social-Media-Regulatory-Sandbox-on-Jan-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377302",
-          "author": "Ian Chee",
-          "description": "Flash Express, a logistics and courier company from Thailand, looks to be winding down its operations in Malaysia. The company has not made an official statement itself, at least not on its cessation. All that’s posted on its home page was the notice of the halting of Cash On Delivery orders starting 24 December, as […]\nThe post Logistics Company Flash Express To Shut Down Malaysia Operations In January 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377302/flash-express-shut-down-malaysia-operations-january-2026/",
-          "publishedOn": "2025-12-29T06:22:23.000Z",
-          "wordCount": 10697,
-          "title": "Logistics Company Flash Express To Shut Down Malaysia Operations In January 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Flash-Express.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377308",
-          "author": "John Law",
-          "description": "Jon Prosser, the man whom Apple is currently suing for his alleged involvement in leaking details of iOS26 ahead of its launch, is doubling down with their actions. The YouTuber, who goes by the name fpt. on the platform, recently published a video with the alleged renders of the unconfirmed iPhone Fold. Based on the […]\nThe post Leakster Sued By Apple Leaks New Alleged iPhone Fold Renders appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377308/leakster-sued-by-apple-leaks-new-alleged-iphone-fold-renders/",
-          "publishedOn": "2025-12-29T06:04:53.000Z",
-          "wordCount": 10871,
-          "title": "Leakster Sued By Apple Leaks New Alleged iPhone Fold Renders",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/iPhone-Fold-New-Leak-Dec-2025-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377289",
-          "author": "Kiran Ganesan",
-          "description": "Just before the year fully comes to a close, HONOR has officially launched the HONOR Win and Win RT smartphones in China. These two smartphones mark the company’s next attempt at a gaming-focused handset, following the GT lineup that hit Chinese shelves earlier in the year. Naturally, following the official release, the company has disclosed […]\nThe post HONOR Win, Win RT Goes Official In China appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377289/honor-win-win-rt-goes-official-in-china/",
-          "publishedOn": "2025-12-29T04:12:17.000Z",
-          "wordCount": 11385,
-          "title": "HONOR Win, Win RT Goes Official In China",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/HONOR-Win.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377287",
-          "author": "Ian Chee",
-          "description": "Huawei launched the MatePad 12 X back in November last year. And it looks like the company has decided that a refresh is in order. The brand has put out a teaser for “the upcoming arrival of the Huawei MatePad X (2026)”. Though beyond mentioning that it’s on its way, there’s little else that the […]\nThe post Huawei Teases Upcoming MatePad 12 X Refresh For 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377287/huawei-teases-upcoming-matepad-12-x-refresh-2026/",
-          "publishedOn": "2025-12-29T03:52:26.000Z",
-          "wordCount": 10763,
-          "title": "Huawei Teases Upcoming MatePad 12 X Refresh For 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Huawei-MatePad-12-X-2026.jpg"
         }
       ]
     },
@@ -21240,6 +21266,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "Massive data dump reveals real identities and details of administrators and members of the notorious hacker forum.",
+          "link": "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals",
+          "publishedOn": "2026-01-12T22:01:37.000Z",
+          "wordCount": null,
+          "title": "BreachForums Breached, Exposing 324K Cybercriminals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers",
+          "author": "Alexander Culafi",
+          "description": "Researchers detailed a souped-up version of the GoBruteforcer botnet that preys on servers with weak credentials and AI-generated configurations.",
+          "link": "https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers",
+          "publishedOn": "2026-01-12T21:19:49.000Z",
+          "wordCount": null,
+          "title": "GoBruteforcer Botnet Targets 50K-plus Linux Servers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult",
+          "author": "Arielle Waldman",
+          "description": "No matter what new laws or regulations make the cut for 2026, it's clear that compliance challenges will persist and federal legislation will be limited.",
+          "link": "https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult",
+          "publishedOn": "2026-01-12T20:14:57.000Z",
+          "wordCount": null,
+          "title": "Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt",
+          "author": "Rob Wright",
+          "description": "A state-sponsored threat group tracked as \"Kimsuky\" sent QR-code-filled phishing emails to US and foreign government agencies, NGOs, and academic institutions.",
+          "link": "https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt",
+          "publishedOn": "2026-01-12T19:26:02.000Z",
+          "wordCount": null,
+          "title": "FBI Flags Quishing Attacks From North Korean APT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr",
+          "publishedOn": "2026-01-12T19:20:16.000Z",
+          "wordCount": null,
+          "title": "Hexnode Moves into Endpoint Security With Hexnode XDR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "A total of 91,403 sessions targeted public LLM endpoints to find leaks in organizations' use of AI and map an expanding attack surface.",
+          "link": "https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services",
+          "publishedOn": "2026-01-12T15:37:14.000Z",
+          "wordCount": null,
+          "title": "Two Separate Campaigns Target Exposed LLM Services",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations",
           "author": "Nate Nelson, Contributing Writer",
@@ -21538,36 +21624,6 @@
           "publishedOn": "2025-12-30T13:56:23.000Z",
           "wordCount": null,
           "title": "New Tech Deployments That Cyber Insurers Recommend for 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms",
-          "author": "Dark Reading Staff",
-          "description": "Dark Reading Confidential Episode 13: Developers are exposing their organizations' most sensitive information; our guests explain why it's happening and how to stop it.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms",
-          "publishedOn": "2025-12-29T18:55:13.000Z",
-          "wordCount": null,
-          "title": "Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "With a new year upon us, software and cybersecurity experts disagree on the utility of software bill of materials — in theory, SBOMs are great, but in practice, they're a mess.",
-          "link": "https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence",
-          "publishedOn": "2025-12-29T14:51:59.000Z",
-          "wordCount": null,
-          "title": "SBOMs in 2026: Some Love, Some Hate, Much Ambivalence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
-          "author": "Alexander Culafi",
-          "description": "2025 included a number of monumental threats, from the global attacks of Salt Typhoon to dangerous vulnerabilities like React2Shell.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
-          "publishedOn": "2025-12-29T14:00:00.000Z",
-          "wordCount": null,
-          "title": "5 Threats That Defined Security in 2025",
           "imageUrl": null
         }
       ]
