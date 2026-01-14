@@ -19294,6 +19294,150 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-service (DoS) condition.\n\"Node.js/V8 makes a best-effort attempt to recover from stack space exhaustion with a catchable error, which frameworks have come to rely on for service availability,\" Node.js's",
+          "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
+          "publishedOn": "2026-01-14T07:05:00.000Z",
+          "wordCount": null,
+          "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaCf34rufIAaB1zg0XCGzy86tGwLrk8gGoZ9woUybQk2mzmVq3TlkTzYf1MYnIA12yy5ujravpnTZ3UcDEtRlt_vPDS8VQroTd44vbZuatBDMsh3op-9H1e_i2Hr8wjHLM6DoxchN319FXrpoB8554QFsyKDEj8gfxb5d0MrzAfu86ar5xmKW605Fen9_D/s1600/node.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaCf34rufIAaB1zg0XCGzy86tGwLrk8gGoZ9woUybQk2mzmVq3TlkTzYf1MYnIA12yy5ujravpnTZ3UcDEtRlt_vPDS8VQroTd44vbZuatBDMsh3op-9H1e_i2Hr8wjHLM6DoxchN319FXrpoB8554QFsyKDEj8gfxb5d0MrzAfu86ar5xmKW605Fen9_D/s1600/node.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
+          "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
+          "publishedOn": "2026-01-14T05:48:00.000Z",
+          "wordCount": null,
+          "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i85mU3PMQNKV9ygNXalAIYl19jrFu8mwAYx4Pa0hYDvtlr2MYpm0fHFVlsG8cVgCRkp3URTdzcxfx38d26boTVjF4vJ3J-85B0Bam3JZifhIg2dqczZXw0fht-lN4Erv8lyzhFedTIC0n-QMAtOGWsiYp_GdtVpu8qYJS2TQb3WMvTN9481pHruTvfPQ/s1600/uk.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i85mU3PMQNKV9ygNXalAIYl19jrFu8mwAYx4Pa0hYDvtlr2MYpm0fHFVlsG8cVgCRkp3URTdzcxfx38d26boTVjF4vJ3J-85B0Bam3JZifhIg2dqczZXw0fht-lN4Erv8lyzhFedTIC0n-QMAtOGWsiYp_GdtVpu8qYJS2TQb3WMvTN9481pHruTvfPQ/s1600/uk.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover, JCB Co., Ltd., Mastercard, and UnionPay.\n\"Enterprise organizations that are clients of these payment providers are the most likely to be impacted,\" Silent Push said in a report published today.",
+          "link": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
+          "publishedOn": "2026-01-13T17:30:00.000Z",
+          "wordCount": null,
+          "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVHFQIvHd3Xgz0zjrshHMJtilffEd0_azV_hpxK8GoTLQWDeGdaBZYKYitTQoFr5eqVFb3GFc4g0xz8wopdk3WBOsDKkP_7Nev4o91jQA7z1giTaO0aMVWRP4brxYXlyZ5qIxmyh7M3PkhIuL3yjQtXuMoAJm-HBgOgyV6-5ukzwQYT15woXwmFRxPoVXQ/s1600/payment.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVHFQIvHd3Xgz0zjrshHMJtilffEd0_azV_hpxK8GoTLQWDeGdaBZYKYitTQoFr5eqVFb3GFc4g0xz8wopdk3WBOsDKkP_7Nev4o91jQA7z1giTaO0aMVWRP4brxYXlyZ5qIxmyh7M3PkhIuL3yjQtXuMoAJm-HBgOgyV6-5ukzwQYT15woXwmFRxPoVXQ/s1600/payment.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
+          "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+          "publishedOn": "2026-01-13T17:22:00.000Z",
+          "wordCount": null,
+          "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0ngZi95ZptNXfR_fRCcaAolThq29ozaWNaVEh7n53DkYPz_Lkd0e8bXAVJlFev3xmjECw-ojYhxY-9LxK4ba00fpmcAI7sW7GTXSWb0POi3qIC8eNdKxgeFPg2HCGnA_El_ffucuffNfjqbyhL1oiqoU2HMR18zaCuUdOkBPtRiNAsLPDL9zFd-2XGGg/s1600/mexc.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0ngZi95ZptNXfR_fRCcaAolThq29ozaWNaVEh7n53DkYPz_Lkd0e8bXAVJlFev3xmjECw-ojYhxY-9LxK4ba00fpmcAI7sW7GTXSWb0POi3qIC8eNdKxgeFPg2HCGnA_El_ffucuffNfjqbyhL1oiqoU2HMR18zaCuUdOkBPtRiNAsLPDL9zFd-2XGGg/s1600/mexc.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping engineering—but it’s also creating a security gap most teams don’t see until something breaks.\nBehind every agentic workflow sits a layer few organizations are actively securing: Machine Control",
+          "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+          "publishedOn": "2026-01-13T13:44:00.000Z",
+          "wordCount": null,
+          "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2N9qZuwkcslheNUOsWaTDrMYeXiBUfw1y-hItTvuGo71srarOm7AWzq3o7ro9E0x_CnC7XmJGXKl1tfkc6gTMK288y6M_zN6Yg1FATduXSQmMlp_jnHESxVYZDuJnNozO_Ff-r-lWIyG5AikC8AwrOckeYVYcCQv2RjeLof2bxV_TrcbvRvZqrTIcjD0/s1600/ai-agent.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2N9qZuwkcslheNUOsWaTDrMYeXiBUfw1y-hItTvuGo71srarOm7AWzq3o7ro9E0x_CnC7XmJGXKl1tfkc6gTMK288y6M_zN6Yg1FATduXSQmMlp_jnHESxVYZDuJnNozO_Ff-r-lWIyG5AikC8AwrOckeYVYcCQv2RjeLof2bxV_TrcbvRvZqrTIcjD0/s1600/ai-agent.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments\nAccording to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular",
+          "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
+          "publishedOn": "2026-01-13T11:57:00.000Z",
+          "wordCount": null,
+          "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfCLo9a59SCJ19c7WELpXbj5RBPNyVw9NfsuV9pw1jfhfwpQ7A33H3RNHPH7X-lqmlBRJMeJV2QGiHEdX-Se3e1r8Ekv4aHmHS7xmyF2gOHKVwn_O9lF4XXC5U6VtbKc8GCVZFv7dzw0KKO6f_19B4jMAHVfEm-i1hqYCNl_qoEqANSA5gtna_BfQ4_me/s1600/link.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfCLo9a59SCJ19c7WELpXbj5RBPNyVw9NfsuV9pw1jfhfwpQ7A33H3RNHPH7X-lqmlBRJMeJV2QGiHEdX-Se3e1r8Ekv4aHmHS7xmyF2gOHKVwn_O9lF4XXC5U6VtbKc8GCVZFv7dzw0KKO6f_19B4jMAHVfEm-i1hqYCNl_qoEqANSA5gtna_BfQ4_me/s1600/link.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that",
+          "link": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
+          "publishedOn": "2026-01-13T11:55:00.000Z",
+          "wordCount": null,
+          "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg11caZQqhaS0OyoXT_GpH_CIUPoC00sjkeg4ycrORRwI75LWELCfMCO0yyfL1FoKf8jrX6NJZsGVFZ2m1o_H3VFdFtBJprczhcQn5bbS5YH65k4I1PVoGAJGZP4N2NHfj_m2VjXJPmO8k-GfaZFUcIXSN9lLuOZ3Dnl8cqQkwkMEWHWY0cYuu4QIBKXVE/s1600/AI.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg11caZQqhaS0OyoXT_GpH_CIUPoC00sjkeg4ycrORRwI75LWELCfMCO0yyfL1FoKf8jrX6NJZsGVFZ2m1o_H3VFdFtBJprczhcQn5bbS5YH65k4I1PVoGAJGZP4N2NHfj_m2VjXJPmO8k-GfaZFUcIXSN9lLuOZ3Dnl8cqQkwkMEWHWY0cYuu4QIBKXVE/s1600/AI.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0. It has been codenamed BodySnatcher by AppOmni.\n\"This issue [.",
+          "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
+          "publishedOn": "2026-01-13T11:47:00.000Z",
+          "wordCount": null,
+          "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZu-BM7xxcFqhj3Vi07lWWCcD8kJgOH3JTQ4oV6Q3Ngd6GmylXsA52gk2aqSCIfEEHxsmev5EbQPxMr4fWFMLFrvwj1U8VKilr46bj6oN01nCbN08tV9bkft9WpFgSZHVXd_-jrbSTTvlpKrPpvqazA_Cwoh8XUjLKK0SC-r1Plq-2KCpdlDgTHBg1e4H/s1600/SERVICENOW-AI.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZu-BM7xxcFqhj3Vi07lWWCcD8kJgOH3JTQ4oV6Q3Ngd6GmylXsA52gk2aqSCIfEEHxsmev5EbQPxMr4fWFMLFrvwj1U8VKilr46bj6oN01nCbN08tV9bkft9WpFgSZHVXd_-jrbSTTvlpKrPpvqazA_Cwoh8XUjLKK0SC-r1Plq-2KCpdlDgTHBg1e4H/s1600/SERVICENOW-AI.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
+          "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+          "publishedOn": "2026-01-13T09:08:00.000Z",
+          "wordCount": null,
+          "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrT2CE7EREKiOTLCxBZbOT5xpjY0b5h3VOXn4tm20sYQg6zpq9eoFyAx5SPdxrhILjE6Kh9JWLtHqLPNiknTbtfrOIqHyZsssQhwO_avd53c24jx6pK75xCKHtExGq-3nNypZrks9oV7TWw11xhwAW0z54_XrxVDMsbtMlwpqJgf3Gr7TgTtPLHkcIDMZ4/s1600/windows-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrT2CE7EREKiOTLCxBZbOT5xpjY0b5h3VOXn4tm20sYQg6zpq9eoFyAx5SPdxrhILjE6Kh9JWLtHqLPNiknTbtfrOIqHyZsssQhwO_avd53c24jx6pK75xCKHtExGq-3nNypZrks9oV7TWw11xhwAW0z54_XrxVDMsbtMlwpqJgf3Gr7TgTtPLHkcIDMZ4/s1600/windows-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog.\nThe vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution.\n\"Gogs Path",
@@ -20172,70 +20316,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV9iYApTtWG0KxgphidiTj5byahP3v542tKMm1cMrVGsc4_KDJKA41BBDM0BbaiusYU-zCVytBp99VDpal0qJpvdyWinLrCLitoGYeMQ4FI1Bb-kJppiAUPSBMeMFNRre-m0NZ-ZFSjCIiPbo2DVFBa7K8qJnsRAl7eZ37tAhVmKLb7B5YLUdyLJgJDE8S/s1600/spy.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV9iYApTtWG0KxgphidiTj5byahP3v542tKMm1cMrVGsc4_KDJKA41BBDM0BbaiusYU-zCVytBp99VDpal0qJpvdyWinLrCLitoGYeMQ4FI1Bb-kJppiAUPSBMeMFNRre-m0NZ-ZFSjCIiPbo2DVFBa7K8qJnsRAl7eZ37tAhVmKLb7B5YLUdyLJgJDE8S/s1600/spy.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
-          "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
-          "publishedOn": "2025-12-30T16:28:00.000Z",
-          "wordCount": null,
-          "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDGmYwQ8c2eXwEoxAV4oGX21DPSHEpPLFUcOpQPAs7kXyKyG-bd41diqFVSWAm_kERqHzynIxLke6Aj4JU9LxRVyC3CB-dsq3Rm4B8KHyNUd7y_5uQvl3rgizk8dmhwQLWDVuvGCTKH6c83Etx9Bwtvr_hvPhIq35iFNgRLLFCGON5cTSwj3KlYk5C25Fh/s1600/mail.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDGmYwQ8c2eXwEoxAV4oGX21DPSHEpPLFUcOpQPAs7kXyKyG-bd41diqFVSWAm_kERqHzynIxLke6Aj4JU9LxRVyC3CB-dsq3Rm4B8KHyNUd7y_5uQvl3rgizk8dmhwQLWDVuvGCTKH6c83Etx9Bwtvr_hvPhIq35iFNgRLLFCGON5cTSwj3KlYk5C25Fh/s1600/mail.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
-          "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
-          "publishedOn": "2025-12-30T10:46:00.000Z",
-          "wordCount": null,
-          "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTjxYF8a3raCHDKDawUyyfucLX4__gbjxE1-iVkP7DWO6wmxAz_c8HjKmGT5LIc3owZvwIoEpNMFg7ahikG0vgK1ccyTXlw6bE8bFcDrXoyPzm9yfCDMJqbEIgwowlGFggrhjvinRXfk0A4NTtPqaGYazaABx6QUESPUcm2kuazYtNq01dWgPHpiadpySF/s1600/email.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTjxYF8a3raCHDKDawUyyfucLX4__gbjxE1-iVkP7DWO6wmxAz_c8HjKmGT5LIc3owZvwIoEpNMFg7ahikG0vgK1ccyTXlw6bE8bFcDrXoyPzm9yfCDMJqbEIgwowlGFggrhjvinRXfk0A4NTtPqaGYazaABx6QUESPUcm2kuazYtNq01dWgPHpiadpySF/s1600/email.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems",
-          "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
-          "publishedOn": "2025-12-30T09:30:00.000Z",
-          "wordCount": null,
-          "title": "How to Integrate AI into Modern SOC Workflows",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeQsyuyYxxOLBhyphenhyphenPUOI-UHGn8mxloyzn4GBFnuh7p3h7XUB7Z2K2kWdI2A-k0v5GKJqRANeUQ8NZknDo1M5zTdqyYyTC3vAKThq201gtemBUHiFq1GjWc1VrfMPKS7knIFoV7mO-l20SaKKVbHs-t86wVFDEqjUz-VQkVXOiB6hD5QlzLVWdQYml3tPww/s1600/sans.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeQsyuyYxxOLBhyphenhyphenPUOI-UHGn8mxloyzn4GBFnuh7p3h7XUB7Z2K2kWdI2A-k0v5GKJqRANeUQ8NZknDo1M5zTdqyYyTC3vAKThq201gtemBUHiFq1GjWc1VrfMPKS7knIFoV7mO-l20SaKKVbHs-t86wVFDEqjUz-VQkVXOiB6hD5QlzLVWdQYml3tPww/s1600/sans.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting",
-          "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
-          "publishedOn": "2025-12-30T08:35:00.000Z",
-          "wordCount": null,
-          "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjecDtf2H25Vece2raxEXtqLjCcgahGUR7FG5NIKWeyx6uIvaFtMlBZUrxC3Yz7RKWiVsbXyllunwBYTBEHgct6q99xvKtNR3U9SvdxMOnfbiU4UN8UgO_CLq5yowN3ZwYvw0oI5Hv7K8A14kLHv4EJaLZzowPdhSNBCE86fJF8G30qcTYYmBWCY4mMSEoh/s1600/rootkit.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjecDtf2H25Vece2raxEXtqLjCcgahGUR7FG5NIKWeyx6uIvaFtMlBZUrxC3Yz7RKWiVsbXyllunwBYTBEHgct6q99xvKtNR3U9SvdxMOnfbiU4UN8UgO_CLq5yowN3ZwYvw0oI5Hv7K8A14kLHv4EJaLZzowPdhSNBCE86fJF8G30qcTYYmBWCY4mMSEoh/s1600/rootkit.jpg"
         }
       ]
     },
@@ -20244,6 +20324,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=378503",
+          "author": "Nurul Kamil",
+          "description": "Soon, Putrajaya will be relying on an AI-based traffic management system. Putrajaya Corporation recently shared an update on its social media platforms informing road users that work to upgrade the system is underway. According to the post, the transition to the new system is split into three phases. The second stage is currently taking place. […]\nThe post Putrajaya To Implement AI-Based Traffic Light System appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378503/putrajaya-ai-based-traffic-light-system/",
+          "publishedOn": "2026-01-14T08:20:14.000Z",
+          "wordCount": 11248,
+          "title": "Putrajaya To Implement AI-Based Traffic Light System",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/05/traffic-lights-jam-congestion.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378530",
+          "author": "Kiran Ganesan",
+          "description": "Malaysian fans of the Yakuza game franchise will be happy to know that Sega is officially launching Yakuza 3 Kiwami (also known as Like a Dragon) and Dark Ties in Kuala Lumpur. The event will take place on 12 February, coinciding with the franchise’s latest release. Incidentally, this will also be the first time the […]\nThe post Sega To Host Yakuza Kiwami 3 & Dark Ties Launch Event In KL appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378530/sega-yakuza-kiwami-3-dark-ties-launch-event-kl/",
+          "publishedOn": "2026-01-14T08:04:23.000Z",
+          "wordCount": 10980,
+          "title": "Sega To Host Yakuza Kiwami 3 & Dark Ties Launch Event In KL",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Sega-To-Host-Yakuza-Kiwami-3-Dark-Ties-Launch-Event-In-KL-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378482",
+          "author": "Ian Chee",
+          "description": "The government has announced the expansion of its FLYsiswa initiative to include four new student categories. Previously exclusive to students of national public universities, it is now accessible to students of other government-linked institutions of higher learning. According to The Sun, one of these categories involve students of the National Academy of Arts, Culture and […]\nThe post Govt Adds Four New Student Categories To FLYsiswa Eligibility appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378482/govt-adds-four-new-student-categories-flysiswa-eligibility/",
+          "publishedOn": "2026-01-14T07:51:45.000Z",
+          "wordCount": 10684,
+          "title": "Govt Adds Four New Student Categories To FLYsiswa Eligibility",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/11/Malaysia-Airlines-737-8.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378505",
+          "author": "Heirul Kamel",
+          "description": "Mercedes-Benz Malaysia has officially previewed the 2026 Mercedes-Benz CLA, revealing the model as a fully electric vehicle and the first EV to wear the CLA badge. The actual market launch is scheduled for the second quarter of 2026. Built from the ground up as an EV, the new CLA rides on the Mercedes-Benz Modular Architecture […]\nThe post Mercedes-Benz Previews 2026 CLA EV In Malaysia; Price Estimated At RM295,888 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378505/mercedes-benz-previews-2026-cla-ev-in-malaysia/",
+          "publishedOn": "2026-01-14T07:25:51.000Z",
+          "wordCount": 11979,
+          "title": "Mercedes-Benz Previews 2026 CLA EV In Malaysia; Price Estimated At RM295,888",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/mercedes-benz-2026-CLA-EV-preview-malaysia_01.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378477",
+          "author": "Kiran Ganesan",
+          "description": "Insta360 has officially launched the Link 2 Pro and the Link 2c Pro, the latest additions to the company’s webcam lineup. In addition to improving on the previously released Link 2, these webcams offer scene presets, AI beautify, green screen support, background bokeh, and more. Like most webcams, the Link 2 Pro and Link 2c […]\nThe post Insta360 Launches Link 2 Pro, Link 2c Pro Webcams; Starts From RM899 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378477/insta360-launches-link-2-pro-link-2c-pro-webcams-starts-from-rm899/",
+          "publishedOn": "2026-01-14T04:54:10.000Z",
+          "wordCount": 11394,
+          "title": "Insta360 Launches Link 2 Pro, Link 2c Pro Webcams; Starts From RM899",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Insta360-Launches-Link-2-Pro-Link-2c-Pro-Webcams-8.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378415",
+          "author": "John Law",
+          "description": "In these trying times, when purchasing memory for your PC or laptop will actually cost you as much as your GPU, purchasing the component has effectively been turned into a “pull the trigger” moment. So, if you’re biting the proverbial bullet, particularly for your laptop, is it worth getting a dual-memory kit of the Kingston […]\nThe post Kingston Fury Impact 32GB DDR5-6000 SO-DIMM RAM Lightning Review: “Expensive” Bottled Lightning appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378415/kingston-fury-impact-ddr5-laptop-ram-lightning-review/",
+          "publishedOn": "2026-01-14T04:50:47.000Z",
+          "wordCount": 11371,
+          "title": "Kingston Fury Impact 32GB DDR5-6000 SO-DIMM RAM Lightning Review: “Expensive” Bottled Lightning",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Kingston-Fury-Impact-DDR5-6000-Laptop-RAM-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378467",
+          "author": "Ian Chee",
+          "description": "The new Xpeng G6 series got its launch for the local market in October of last year, with three available variants. A fourth has been added, which is called the RWD Standard Range, to contrast the existing RWD Long Range Pro model. As the difference in name suggests, it loses out on some driving range […]\nThe post Xpeng G6 2026 Gets RWD Standard Range Variant; Costs RM159,948 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378467/xpeng-g6-2026-rwd-standard-range-rm159948/",
+          "publishedOn": "2026-01-14T04:31:13.000Z",
+          "wordCount": 11321,
+          "title": "Xpeng G6 2026 Gets RWD Standard Range Variant; Costs RM159,948",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Xpeng-G6-Facelifted-7.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378474",
+          "author": "John Law",
+          "description": "The US’ Trump administration formally gave NVIDIA the go-ahead to sell its H200 Chips to China. But, as these things go, that approval wasn’t without its own set of caveats. In addition to NVIDIA promising to give 25% of all H200 sales in China to the coffers of the Trump administration, the latter now says […]\nThe post US Government Adds New Conditions To NVIDIA Selling H200 Chips To China appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378474/us-government-adds-new-conditions-to-nvidia-selling-h200-chips-to-china/",
+          "publishedOn": "2026-01-14T04:28:24.000Z",
+          "wordCount": 11035,
+          "title": "US Government Adds New Conditions To NVIDIA Selling H200 Chips To China",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/NVIDIA-H200-AI-Accelerator-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378445",
+          "author": "Nurul Kamil",
+          "description": "Apple has announced a new subscription bundle tailored for content creation. Dubbed the Apple Creator Studio, the collection comprises a suite of creative apps, including Final Cut Pro, Logic Pro, Pixelmator Pro, Motion, Compressor, and MainStage. The apps themselves also get some new features, some of which are powered by AI. Among the latest additions […]\nThe post Apple Unveils Apple Creator Studio For Content Creation; Priced At RM29.90/Month appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378445/apple-creator-studio/",
+          "publishedOn": "2026-01-14T03:21:07.000Z",
+          "wordCount": 11273,
+          "title": "Apple Unveils Apple Creator Studio For Content Creation; Priced At RM29.90/Month",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/apple-creator-studio-4.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378440",
+          "author": "Heirul Kamel",
+          "description": "Taiwanese prosecutors have issued an arrest warrant for OnePlus chief executive officer Pete Lau, accusing him of involvement in the illegal recruitment of local engineers. According to Bloomberg, the Shilin District Prosecutors Office has also indicted two Taiwanese citizens who allegedly worked for Lau and helped recruit more than 70 engineers in Taiwan without authorisation. […]\nThe post Taiwan Issues Arrest Warrant For OnePlus CEO Pete Lau appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378440/taiwan-issues-arrest-warrant-for-oneplus-ceo-pete-lau/",
+          "publishedOn": "2026-01-14T02:07:19.000Z",
+          "wordCount": 10999,
+          "title": "Taiwan Issues Arrest Warrant For OnePlus CEO Pete Lau",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/pete-lau-oneplus-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=378343",
           "author": "Kiran Ganesan",
@@ -21178,86 +21358,6 @@
           "wordCount": 10789,
           "title": "Company Behind ONEXPLAYER Teaser ONEXSUGAR Wallet Handheld With Foldable Screen",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/ONEXSUGAR-Wallet-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377390",
-          "author": "John Law",
-          "description": "Look, we know that you know that prices for consumer-grade PC memory are out of control right now, For a company called NEMIX, which primarily sells memory kits for servers and workstations, the company may have taken the crown on the matter: it currently sells 4TB DDR5-6400 for RM316,309 a pop. To put that eye-watering […]\nThe post This 4TB DDR5 RDIMM Kit Costs RM316,000 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377390/this-4tb-ddr5-rdimm-kit-costs-rm316000/",
-          "publishedOn": "2025-12-30T13:06:08.000Z",
-          "wordCount": 10667,
-          "title": "This 4TB DDR5 RDIMM Kit Costs RM316,000",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Nemix-4TB-DDR5-RAM-Kit-RM316000-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377379",
-          "author": "Kiran Ganesan",
-          "description": "Dr. Zulkifli Mohamad Al-Bakri, former Minister of the Federal Territories (Religion) and Mufti of the Federal Territories, has unveiled a new app called InarahConverter. The app enables users to convert images into documents and vice versa, while also providing tools for editing PDFs. The former minister shared the app on Threads, pitching it as a […]\nThe post InarahConverter Lets You Convert Files Into Any Format For Free appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377379/inarahconverter-lets-you-convert-files-into-any-format-for-free/",
-          "publishedOn": "2025-12-30T10:22:17.000Z",
-          "wordCount": 11030,
-          "title": "InarahConverter Lets You Convert Files Into Any Format For Free",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/InarahConverter-Lets-You-Convert-Files-Into-Any-Format-You-Want-For-Free-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377358",
-          "author": "John Law",
-          "description": "CES 2026 is looming around the corner, and you know what that means: rumours and leaks of upcoming products for miles, as the crow flies. In this report, it’s all about HP and its Omen gaming laptops. According to the online portal, Windows Latest, HP is reportedly set to debut three Omen models: the Omen […]\nThe post HP Reportedly Set To Launch New Intel Panther Lake Omen Gaming Laptops At CES 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377358/hp-reportedly-set-to-launch-new-intel-panther-lake-omen-gaming-laptops-at-ces-2026/",
-          "publishedOn": "2025-12-30T10:04:20.000Z",
-          "wordCount": 11434,
-          "title": "HP Reportedly Set To Launch New Intel Panther Lake Omen Gaming Laptops At CES 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/HP-HyperX-Omen-2026-lineup-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377363",
-          "author": "Ian Chee",
-          "description": "Ever since the PS2, or the sixth console generation, it took about seven years before the next generation gets introduced. The PS5, or the ninth generation, missed it by a year. And now, the 10th-generation, and by extension the PS6, may miss the the 2027 – 2028 launch window. What’s to blame? Why, this whole […]\nThe post The RAM Price Situation May Delay The Next Console Generation appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377363/ram-price-situation-delay-next-console-generation/",
-          "publishedOn": "2025-12-30T08:59:50.000Z",
-          "wordCount": 10686,
-          "title": "The RAM Price Situation May Delay The Next Console Generation",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/Sony-PlayStation-5-PS5-logo-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377365",
-          "author": "Kiran Ganesan",
-          "description": "If you’ve kept up with OPPO for some time now, then you would know that the company and its flagship Find X9 series have been the subject of various leaks online. Not even the phone’s variants, the Find X9s and Find X9 Ultra, have been spared. Today, more details about the Find X9s have surfaced […]\nThe post OPPO Find X9s May Feature Dual 200MP Camera appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377365/oppo-find-x9s-may-feature-dual-200mp-camera/",
-          "publishedOn": "2025-12-30T07:18:05.000Z",
-          "wordCount": 10902,
-          "title": "OPPO Find X9s May Feature Dual 200MP Camera",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Oppo-Find-X9-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377353",
-          "author": "Ian Chee",
-          "description": "The Frame TV by Samsung is a pretty esoteric option in the smart TV market space. After all, it can double as a slideshow-capable picture frame when not in use. So it’s perhaps not too surprising that fellow South Korean tech brand LG wants in on the action too. What is surprising though is that […]\nThe post LG To Launch Its Gallery TV At CES 2026; Has Its Own Subscription Service appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377353/lg-launch-gallery-tv-at-ces-2026-has-subscription-service/",
-          "publishedOn": "2025-12-30T05:30:24.000Z",
-          "wordCount": 10813,
-          "title": "LG To Launch Its Gallery TV At CES 2026; Has Its Own Subscription Service",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/LG-Gallery-TV.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377350",
-          "author": "John Law",
-          "description": "GOG, the digital distribution platform that sells video games DRM-free, has been bought out. As of today, the company belongs to Michał Kiciński, one of the co-founders of CD PROJEKT, who is also the co-founder of this platform. The new deal between the GOG and Kiciński includes the GOG.com storefront and the Galaxy platform. CDPR […]\nThe post GOG Changes Owners; CDPR Co-Founder Is New Owner appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377350/gog-changes-owners-cdpr-co-founder-is-new-owner/",
-          "publishedOn": "2025-12-30T04:31:15.000Z",
-          "wordCount": 10762,
-          "title": "GOG Changes Owners; CDPR Co-Founder Is New Owner",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2019/05/272b715e-gog-galaxy-2.0-beta-games.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=377345",
-          "author": "Ian Chee",
-          "description": "After nine years of operation, KTMB says that it is ending the Southern Express train service. This will take effect on 1 January 2026, ending six currently operating services numbered 41, 42, 43, 44, 45 and 46 running the Gemas – JB Sentral – Gemas route. Once known as the Southern Shuttle, its role is […]\nThe post KTMB To Terminate Southern Express Service On 1 January appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2025/377345/ktmb-terminate-southern-express-service-1-january/",
-          "publishedOn": "2025-12-30T02:03:48.000Z",
-          "wordCount": 10657,
-          "title": "KTMB To Terminate Southern Express Service On 1 January",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/02/ktmb-shuttle-tebrau.jpg"
         }
       ]
     },
@@ -21266,6 +21366,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "Chinese cyberattacks on Taiwan's critical infrastructure — including energy utilities and hospitals — rose 6% in 2025, averaging 2.63 million attacks a day.",
+          "link": "https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china",
+          "publishedOn": "2026-01-14T02:00:00.000Z",
+          "wordCount": null,
+          "title": "Taiwan Endures Greater Cyber Pressure From China",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks",
+          "author": "Joan Goodchild",
+          "description": "When cybersecurity leadership turns over too fast, risk does not reset. It compounds.",
+          "link": "https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks",
+          "publishedOn": "2026-01-13T23:45:27.000Z",
+          "wordCount": null,
+          "title": "CISO Succession Crisis Highlights How Turnover Amplifies Security Risks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "ServiceNow tacked agentic AI onto a largely unguarded legacy chatbot, exposing customers' data and connected systems.",
+          "link": "https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow",
+          "publishedOn": "2026-01-13T21:44:48.000Z",
+          "wordCount": null,
+          "title": "'Most Severe AI Vulnerability to Date' Hits ServiceNow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "The vendor's first Patch Tuesday of the year also contains fixes for 112 CVEs, nearly double the amount from last month.",
+          "link": "https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day",
+          "publishedOn": "2026-01-13T21:11:37.000Z",
+          "wordCount": null,
+          "title": "Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat",
+          "author": "Alexander Culafi",
+          "description": "Attackers use a sophisticated delivery mechanism of text-only files for RAT deployment, showcasing a clever way to bypass defensive tools and rely on the target's own utilities.",
+          "link": "https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat",
+          "publishedOn": "2026-01-13T17:46:57.000Z",
+          "wordCount": null,
+          "title": "Shadow#Reactor Uses Text Files to Deliver Remcos RAT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat",
+          "author": "Elizabeth Montalbano, Contributing Writer",
+          "description": "The phishing campaign shows how attackers continue to weaponize legitimate cloud services and open source tools to evade detection and gain trust.",
+          "link": "https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat",
+          "publishedOn": "2026-01-13T14:58:48.000Z",
+          "wordCount": null,
+          "title": "Attackers Abuse Python, Cloudflare to Deliver AsyncRAT",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals",
           "author": "Jai Vijayan, Contributing Writer",
@@ -21604,26 +21764,6 @@
           "publishedOn": "2025-12-31T14:00:00.000Z",
           "wordCount": null,
           "title": "Contrarians No More: AI Skepticism Is on the Rise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy",
-          "author": "Tyler Shields",
-          "description": "The year ahead will see an intensified AI-driven cybersecurity arms race, with attackers leveraging autonomous malware and advanced AI technologies to outpace defenders, while security teams adopt increasingly sophisticated AI tools to combat evolving threats amidst growing vendor consolidation and platformization in the industry.",
-          "link": "https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy",
-          "publishedOn": "2025-12-30T14:00:25.000Z",
-          "wordCount": null,
-          "title": "Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data",
-          "author": "Robert Lemos, Contributing Writer",
-          "description": "An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.",
-          "link": "https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data",
-          "publishedOn": "2025-12-30T13:56:23.000Z",
-          "wordCount": null,
-          "title": "New Tech Deployments That Cyber Insurers Recommend for 2026",
           "imageUrl": null
         }
       ]
