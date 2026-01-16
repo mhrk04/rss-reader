@@ -19294,6 +19294,150 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a month after the company disclosed that it had been exploited as a zero-day by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686.\nThe vulnerability, tracked as CVE-2025-20393 (CVSS",
+          "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
+          "publishedOn": "2026-01-16T05:38:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEhi1mo3JJ4SVSswb-QR3VpYd-cBKzSU_dKtLhngGvo0GRALzIlSbBqXAaMCfGGoqiuqjDFjaF61Eh5wh8oVzHyxgaBQyzDLLw9kFM3euSDNe87Ezsb_K87GuquNG-DrRb5pH9Zsmu1wjAmqzvkSdoG4NhaHKpYubjhscJyfBPx6wIATz8wsaon-I-vwE/s1600/cisco.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEhi1mo3JJ4SVSswb-QR3VpYd-cBKzSU_dKtLhngGvo0GRALzIlSbBqXAaMCfGGoqiuqjDFjaF61Eh5wh8oVzHyxgaBQyzDLLw9kFM3euSDNe87Ezsb_K87GuquNG-DrRb5pH9Zsmu1wjAmqzvkSdoG4NhaHKpYubjhscJyfBPx6wIATz8wsaon-I-vwE/s1600/cisco.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk.\nThe vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on",
+          "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
+          "publishedOn": "2026-01-15T19:31:00.000Z",
+          "wordCount": null,
+          "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtz1db4ZW0v9IOmiEDYea5iRhI0pJ5FDJ1MjpzJMDkqBQVUR49G7UA9mmPRPG_tCtFMNFz_8K7nCdBsW_-V85RH4tgLY4jKk5Z0JGAVbcApWgXVb4TwmW1G5kHzydowLYHm36xV6XjcKQK5K1384NfjskWh54_MGL2J_FNx5aFTRUBuV3wxbp_DHaiy6mo/s1600/wiz.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtz1db4ZW0v9IOmiEDYea5iRhI0pJ5FDJ1MjpzJMDkqBQVUR49G7UA9mmPRPG_tCtFMNFz_8K7nCdBsW_-V85RH4tgLY4jKk5Z0JGAVbcApWgXVb4TwmW1G5kHzydowLYHm36xV6XjcKQK5K1384NfjskWh54_MGL2J_FNx5aFTRUBuV3wxbp_DHaiy6mo/s1600/wiz.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
+          "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+          "publishedOn": "2026-01-15T15:31:00.000Z",
+          "wordCount": null,
+          "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrX01QDd37hdy-1O44aRlrR6Td_bOz5czKroO7QmjA75gR74sBpq0Ew6MSiV2eyQWeJIhzlk58MJ5XHuN5q50DGNLT81pBcLeKs1IUV9PM9_pcCpY_wCTpabTaMo4m40rd_UkRWfsTyyhyphenhyphenMKy-u2eVMrPxDsu1qsZGnZKwWbcKvLJAlnQQda-k0aiQDSU/s1600/wordpress-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrX01QDd37hdy-1O44aRlrR6Td_bOz5czKroO7QmjA75gR74sBpq0Ew6MSiV2eyQWeJIhzlk58MJ5XHuN5q50DGNLT81pBcLeKs1IUV9PM9_pcCpY_wCTpabTaMo4m40rd_UkRWfsTyyhyphenhyphenMKy-u2eVMrPxDsu1qsZGnZKwWbcKvLJAlnQQda-k0aiQDSU/s1600/wordpress-exploit.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
+          "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+          "publishedOn": "2026-01-15T15:09:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUttEV3Kwm4PD4w5h618KgulBz1T4aO-lP65yy2YD10J410HuFtAORucYtZ7bG5AGTy1XS2whXAxNenoflKKIe57oZIaewKsBPYtDvc1RCCSPpd3W4nc7rnuSyU9pXiLc0uZbaxHbOsMXQ7dNsCCU4g2wDymsmkKfHmBL9fyMJKQ6L5twNNMe7_v8mycfi/s1600/data-leak.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUttEV3Kwm4PD4w5h618KgulBz1T4aO-lP65yy2YD10J410HuFtAORucYtZ7bG5AGTy1XS2whXAxNenoflKKIe57oZIaewKsBPYtDvc1RCCSPpd3W4nc7rnuSyU9pXiLc0uZbaxHbOsMXQ7dNsCCU4g2wDymsmkKfHmBL9fyMJKQ6L5twNNMe7_v8mycfi/s1600/data-leak.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n  \n\n  \n  \n    Unauthenticated RCE risk\n    \n      Security Flaw in Redis",
+          "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+          "publishedOn": "2026-01-15T13:56:00.000Z",
+          "wordCount": null,
+          "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzvvHEqTEOReDITlWAubNSlpgKNjcExRCQaCh0X8XHhNVEE2Z7R4puzJjK_UZ14TUS-XkFH1d3_IGJm3vBbEo4LVB_onEDCCNF-19h0NKMQug88rD_Apz8SxCm62hPo4j3WVdmTvJWSlKGDiPT7A7Ae4G5aSq9mbC2t62vLoNORmK8w821nNMVOaNlbpMn/s1600/th.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzvvHEqTEOReDITlWAubNSlpgKNjcExRCQaCh0X8XHhNVEE2Z7R4puzJjK_UZ14TUS-XkFH1d3_IGJm3vBbEo4LVB_onEDCCNF-19h0NKMQug88rD_Apz8SxCm62hPo4j3WVdmTvJWSlKGDiPT7A7Ae4G5aSq9mbC2t62vLoNORmK8w821nNMVOaNlbpMn/s1600/th.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
+          "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+          "publishedOn": "2026-01-15T11:55:00.000Z",
+          "wordCount": null,
+          "title": "Model Security Is the Wrong Frame – The Real Risk Is Workflow Security",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifF0ZjKCWkqtgjpXwfOT24GtsqzBWdfQLVwBqhmXBsDash4aV99f9fnE7zk1QI_98C_PbWtT-WGWf5ULG50ITJ8OljCyCEfbJIqxJx_ZZP6krcHK7UEv_QuOt0eugeUIQh8TO1kZArRZ4-rbSXa10SaAocQRnJJ-Sni2eXt8aq6SVoDYCYN2E9LTDVDv4/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifF0ZjKCWkqtgjpXwfOT24GtsqzBWdfQLVwBqhmXBsDash4aV99f9fnE7zk1QI_98C_PbWtT-WGWf5ULG50ITJ8OljCyCEfbJIqxJx_ZZP6krcHK7UEv_QuOt0eugeUIQh8TO1kZArRZ4-rbSXa10SaAocQRnJJ-Sni2eXt8aq6SVoDYCYN2E9LTDVDv4/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
+          "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+          "publishedOn": "2026-01-15T11:00:00.000Z",
+          "wordCount": null,
+          "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWLON6Sb5l1X4m1NB6waPUcKnXCUUYcBnqw9AwkTbX4m2LYQqvC7SrpCvMsYuzAvb6HZkJ_EyA1ow6sL-oIFCKdn1wZN6EXxYH-ZmnAcmQW7adxUTGEkkw1SSeMCJgdandr0AqC6JDYW6Mxx2FxyTSz6kpAMbRMF1E7uLR1jvFYBekOkv8S-560C8pI/s1600/anyrun-main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWLON6Sb5l1X4m1NB6waPUcKnXCUUYcBnqw9AwkTbX4m2LYQqvC7SrpCvMsYuzAvb6HZkJ_EyA1ow6sL-oIFCKdn1wZN6EXxYH-ZmnAcmQW7adxUTGEkkw1SSeMCJgdandr0AqC6JDYW6Mxx2FxyTSz6kpAMbRMF1E7uLR1jvFYBekOkv8S-560C8pI/s1600/anyrun-main.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
+          "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+          "publishedOn": "2026-01-15T09:37:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCVLDhpz3tBZUhh-88mVPvKY16J7ws-ofqjwN_YUNINRU2YeXG0zA5O39KqPKDWa2cN-QOht-WHJ6BmfwrPCR0DUMQFUJ2Gr9DjSjF0Kmk31Sc8nGh9ciUWfpbv-SJFkwgHeBVh3b4s6PuqLvjeqAbAJvve7PksGugF9p0ESp9jrEmNweKeXCQFC_SS7Tp/s1600/ms-fraud-servers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCVLDhpz3tBZUhh-88mVPvKY16J7ws-ofqjwN_YUNINRU2YeXG0zA5O39KqPKDWa2cN-QOht-WHJ6BmfwrPCR0DUMQFUJ2Gr9DjSjF0Kmk31Sc8nGh9ciUWfpbv-SJFkwgHeBVh3b4s6PuqLvjeqAbAJvve7PksGugF9p0ESp9jrEmNweKeXCQFC_SS7Tp/s1600/ms-fraud-servers.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
+          "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+          "publishedOn": "2026-01-15T08:18:00.000Z",
+          "wordCount": null,
+          "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYIgBhmpBELPnR-WkdX1gKhf8lt6aLh_vFl7l4w8GVDOFcvbF8Vwrvt0vTwAqX5q51ybv3o8qPzMre3pF1PwDCnX0aYUmKBKHusgttSMK07Pbh20nSIq4hqwA_1dumI3Jhop44Dxh1uUkCzg-9CRT7b3BrWLGfgAyVP9o65XkuRkUASszfh1ljMyr-aiDP/s1600/paloalto.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYIgBhmpBELPnR-WkdX1gKhf8lt6aLh_vFl7l4w8GVDOFcvbF8Vwrvt0vTwAqX5q51ybv3o8qPzMre3pF1PwDCnX0aYUmKBKHusgttSMK07Pbh20nSIq4hqwA_1dumI3Jhop44Dxh1uUkCzg-9CRT7b3BrWLGfgAyVP9o65XkuRkUASszfh1ljMyr-aiDP/s1600/paloalto.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
@@ -20284,54 +20428,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYs3DrTLoxNKDEunQc4yjZyAmnuhSyJGccrpxhneZyB6iJ29zkbfcoDpsPZlJYL59ZNTX09BS4FmbV_Yv2WjkB-mptBp_vVyYa4PpPY5jk73XydEvhAdyS-oHdUzSmbCobA7Gnnf6Iogvs3YdR2yC0XkkCGzdz3e9PQ3qg5kaVRVmn3OKxLbfaT2b0SIld/s1600/phishing-email.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYs3DrTLoxNKDEunQc4yjZyAmnuhSyJGccrpxhneZyB6iJ29zkbfcoDpsPZlJYL59ZNTX09BS4FmbV_Yv2WjkB-mptBp_vVyYa4PpPY5jk73XydEvhAdyS-oHdUzSmbCobA7Gnnf6Iogvs3YdR2yC0XkkCGzdz3e9PQ3qg5kaVRVmn3OKxLbfaT2b0SIld/s1600/phishing-email.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taught defenders anything, it’s that threat actors don’t pause for holidays or resolutions. They just evolve faster. This week’s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what “cybercrime” looks like in",
-          "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
-          "publishedOn": "2026-01-01T15:52:00.000Z",
-          "wordCount": null,
-          "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpopD3Sr47ByE_zUhbMp2X-Y6mYwjadauTKcWNbN0U0__mj7sWOxknQhTJ1O4n97vYFSsGrJ4NR1jA1GGpqNDWDqiZkBcJF9BXJ9GB6nkjqlizHrxSyd37gCO87MwUOcjLnCicQv5htud-3JzoTZeDO6qxHAtiFfbE4y7IK1QQnos0LYbrs4b3qZ2gq3Zk/s1600/threatsday.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpopD3Sr47ByE_zUhbMp2X-Y6mYwjadauTKcWNbN0U0__mj7sWOxknQhTJ1O4n97vYFSsGrJ4NR1jA1GGpqNDWDqiZkBcJF9BXJ9GB6nkjqlizHrxSyd37gCO87MwUOcjLnCicQv5htud-3JzoTZeDO6qxHAtiFfbE4y7IK1QQnos0LYbrs4b3qZ2gq3Zk/s1600/threatsday.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web applications to enroll them into a botnet known as RondoDox.\nAs of December 2025, the activity has been observed leveraging the recently disclosed React2Shell (CVE-2025-55182, CVSS score: 10.0) flaw as an initial access vector, CloudSEK said in an",
-          "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
-          "publishedOn": "2026-01-01T09:19:00.000Z",
-          "wordCount": null,
-          "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQtdlV7ySzud6pktbmLsSyAnWoLz3a-ROUuyJ1mvoIfcbCrlQkb2dQJ9TqxDFk3dtTqO7H2XEFznwMmOoM2CEGaU41loeAh4MYXWm5L3rVdUCH4WyVZlp68Z-dTthmsTAcrS3l9LIDxrmEIYkMGDgVAQYtfXgVPes9kB2F_ilQxWd8qeK0JCJbo1JUmQ6d/s1600/botnet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQtdlV7ySzud6pktbmLsSyAnWoLz3a-ROUuyJ1mvoIfcbCrlQkb2dQJ9TqxDFk3dtTqO7H2XEFznwMmOoM2CEGaU41loeAh4MYXWm5L3rVdUCH4WyVZlp68Z-dTthmsTAcrS3l9LIDxrmEIYkMGDgVAQYtfXgVPes9kB2F_ilQxWd8qeK0JCJbo1JUmQ6d/s1600/botnet.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As web browsers evolve into all-purpose platforms, performance and productivity often suffer. \nFeature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce unnecessary friction, especially for users who rely on the browser as a primary work environment.\nThis article explores how adopting a lightweight, task-focused browser, like",
-          "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
-          "publishedOn": "2026-01-01T05:47:00.000Z",
-          "wordCount": null,
-          "title": "How To Browse Faster and Get More Done Using Adapt Browser",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv_KQxQETJOGQo3bnCQJDl_q0JjioroSN5Jrh3NWhbSoQ0b5VbaBBfodYWplOfTNRyR-s08yD5yjWX0STJVTSjQIS-2iGk9fWae2WsFdFi7BgVVgBKMoeFc-5wSTHrmAV3XQ_201aIGRqiZROKfo0gzePyHDmBV3Y_SEMsJIx2id4Lc9Dg1oOb7VCvyXk/s1600/Adapt-Browser-1.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv_KQxQETJOGQo3bnCQJDl_q0JjioroSN5Jrh3NWhbSoQ0b5VbaBBfodYWplOfTNRyR-s08yD5yjWX0STJVTSjQIS-2iGk9fWae2WsFdFi7BgVVgBKMoeFc-5wSTHrmAV3XQ_201aIGRqiZROKfo0gzePyHDmBV3Y_SEMsJIx2id4Lc9Dg1oOb7VCvyXk/s1600/Adapt-Browser-1.jpg"
         }
       ]
     },
@@ -20340,6 +20436,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=378741",
+          "author": "Ian Chee",
+          "description": "Do you use ShopeePay when you buy games off of the PlayStation Store? If you do, then this is definitely something you’ll want to know. The Sony videogames subsidiary has informed gamers that ShopeePay users will have to complete the eKYC verification process to continue using it. This comes via TechNave, which shows the email […]\nThe post PlayStation Store Payment With ShopeePay Will Require eKYC Completion appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378741/playstation-store-payment-shopeepay-require-ekyc/",
+          "publishedOn": "2026-01-16T08:03:53.000Z",
+          "wordCount": 10687,
+          "title": "PlayStation Store Payment With ShopeePay Will Require eKYC Completion",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/07/playstation_Shopee-Pay-Support-PlayStation-Store-4.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378732",
+          "author": "John Law",
+          "description": "ASUS has found itself in the spotlight again, and in a not-so-favourable one at that, after one of its staff allegedly told the Australian Techtuber, Hardware Unboxed, that it had halted the production of its GeForce RTX 5070 Ti and 5060 Ti 16GB models. Supposedly, the PC brand says that it has effectively shifted both […]\nThe post ASUS Denies Claim It Is Discontinuing Production Of RTX 5070 Ti appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378732/asus-denies-claim-it-is-discontinuing-production-of-rtx-5070-ti/",
+          "publishedOn": "2026-01-16T07:26:41.000Z",
+          "wordCount": 12108,
+          "title": "ASUS Denies Claim It Is Discontinuing Production Of RTX 5070 Ti",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/ASUS-RTX-5080-Noctua-Edition-official-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378718",
+          "author": "Ian Chee",
+          "description": "Enthusiasts of personal audio devices will likely be familiar with the Fast Pair tech by Google. Unfortunately, it has been discovered that the tech has a flaw that allows hackers to hijack the feature. With that done, they can then not only listen in on you via said devices’ mic, they can also push audio […]\nThe post Flaw In Google Fast Pair Audio Devices That Could Give Hackers Access appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378718/flaw-17-google-fast-pair-audio-devices-give-hackers-access/",
+          "publishedOn": "2026-01-16T04:43:26.000Z",
+          "wordCount": 6756,
+          "title": "Flaw In Google Fast Pair Audio Devices That Could Give Hackers Access",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Google-Fast-Pair-Pixel-Buds-2a.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378715",
+          "author": "Nurul Kamil",
+          "description": "MediaTek has announced two new additions to its lineup of mobile chipsets. The first of the two is the Dimensity 9500s, which is meant to power premium smartphones. Meanwhile, the Dimensity 8500 is a more modest SoC for mid-range devices. Either way, the company emphasises performance, efficiency, as well as gaming capabilities as highlights for […]\nThe post MediaTek Officially Unveils Dimensity 9500s And Dimensity 8500 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378715/mediatek-dimensity-9500s-dimensity-8500/",
+          "publishedOn": "2026-01-16T03:40:42.000Z",
+          "wordCount": 5827,
+          "title": "MediaTek Officially Unveils Dimensity 9500s And Dimensity 8500",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/mediatek-dimensity-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378722",
+          "author": "Heirul Kamel",
+          "description": "Spotify has announced a price increase for its Premium subscription in several markets, raising the monthly fee from US$11.99 (~RM48.71) to US$12.99 (~RM52.77) per month in the United States, Estonia and Latvia. The streaming platform confirmed that the new pricing will take effect starting February, aligned with each subscriber’s billing date, and affected users will […]\nThe post Spotify Raises Premium Prices In Select Markets; Malaysia Unaffected For Now appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378722/spotify-raises-premium-prices-select-markets-jan-2025/",
+          "publishedOn": "2026-01-16T03:32:19.000Z",
+          "wordCount": 11127,
+          "title": "Spotify Raises Premium Prices In Select Markets; Malaysia Unaffected For Now",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2019/05/0e29865a-spotify-playlist-breakup.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378696",
+          "author": "Nurul Kamil",
+          "description": "In addition to the Redmi Note 15 lineup, Xiaomi launched the Redmi Buds 8 Lite under its Redmi sub-brand. According to the company, the entry-level earbuds offer practicality, with fast charging and durability as some of the highlights. The buds are equipped with 12.4mm titanium-diaphragm drivers to deliver a balanced and detailed sound. Moreover, they […]\nThe post Redmi Buds 8 Lite Lands In Malaysia For RM79 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378696/redmi-buds-8-lite/",
+          "publishedOn": "2026-01-15T11:12:18.000Z",
+          "wordCount": 5554,
+          "title": "Redmi Buds 8 Lite Lands In Malaysia For RM79",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/redmi-buds-8-lite-6.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378612",
+          "author": "Kiran Ganesan",
+          "description": "It has been some time since we last heard about the Mijia Smart Audio Glasses, Xiaomi’s audio-focused eyewear accessory. As such, it comes as a pleasant surprise that the company is now bringing the latest incarnation of wearable to the Malaysian market, alongside the Redmi Note 15 series. For those unaware, the original Smart Audio […]\nThe post Xiaomi Launches Mijia Smart Audio Glasses In Malaysia; Priced From RM799 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378612/xiaomi-launches-mijia-smart-audio-glasses-in-malaysia/",
+          "publishedOn": "2026-01-15T10:40:02.000Z",
+          "wordCount": 6215,
+          "title": "Xiaomi Launches Mijia Smart Audio Glasses In Malaysia; Priced From RM799",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Xiaomi-Launches-Mijia-Smart-Audio-Glasses-In-Malaysia-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378631",
+          "author": "Heirul Kamel",
+          "description": "When it was first introduced last year, the Kodak Charmera took the world by storm, attracting photography enthusiasts and casual users alike. What’s more, it was sold out almost immediately, prompting most to wait for a restock or, god forbid, cave to scalper prices. Adding to the intrigue is the fact that it’s a blind […]\nThe post The Kodak Charmera Is A Reminder To Just Enjoy The Little Things appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378631/kodak-charmera-is-a-reminder-to-just-enjoy-the-little-things/",
+          "publishedOn": "2026-01-15T10:19:56.000Z",
+          "wordCount": 6965,
+          "title": "The Kodak Charmera Is A Reminder To Just Enjoy The Little Things",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/kodak-charmera-feature_03.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378418",
+          "author": "Newsdesk",
+          "description": "The REDMI Note 15 Pro 5G has just landed in Malaysia, and with its arrival comes the new robust standard for smartphones. It may look like your everyday smartphone, but in actuality it is a hardy partner designed to withstand everyday challenges. Featuring a heavily reinforced body with quadruple waterproofing certifications, this smartphone is designed […]\nThe post REDMI Note 15 Pro 5G: Titan Durability That’s Made To Last  appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378418/redmi-note-15-pro-5g-titan-durability-made-to-last/",
+          "publishedOn": "2026-01-15T10:00:21.000Z",
+          "wordCount": 7349,
+          "title": "REDMI Note 15 Pro 5G: Titan Durability That’s Made To Last",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/REDMI-Note-15-Pro-5G-Sponsored-Images-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=378574",
+          "author": "Kiran Ganesan",
+          "description": "Xiaomi’s sub-brand Redmi has officially unveiled the new Redmi Note 15 series of smartphones in Malaysia. As the name suggests, this lineup of devices serves as the sequel to last year’s Redmi Note 14 series. However, unlike the previous generation that only had two devices, the Redmi Note 15 features a total of four devices. […]\nThe post Redmi Note 15 Series Now Official In Malaysia; Starts From RM799 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/378574/redmi-note-15-series-now-official-in-malaysia/",
+          "publishedOn": "2026-01-15T09:52:04.000Z",
+          "wordCount": 6538,
+          "title": "Redmi Note 15 Series Now Official In Malaysia; Starts From RM799",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Redmi-Note-15-Series-Now-Official-In-Malaysia-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=378570",
           "author": "Ian Chee",
@@ -21412,6 +21608,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2",
+          "author": "Rob Wright",
+          "description": "Researchers detailed how Intellexa, Predator's owner, uses failed deployments and thwarted infections to strengthen its commercial spyware and generate more effective attacks.",
+          "link": "https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2",
+          "publishedOn": "2026-01-15T21:26:18.000Z",
+          "wordCount": null,
+          "title": "Predator Spyware Sample Indicates 'Vendor-Controlled' C2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers",
+          "author": "Jai Vijayan, Contributing Writer",
+          "description": "The upcoming Winter Games in the Italian Alps are attracting both hacktivists looking to reach billions of people and state-sponsored cyber-spies targeting the attending glitterati.",
+          "link": "https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers",
+          "publishedOn": "2026-01-15T19:10:05.000Z",
+          "wordCount": null,
+          "title": "Winter Olympics Could Share Podium With Cyberattackers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture",
+          "author": "Robert Lemos, Contributing Writer",
+          "description": "MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge.",
+          "link": "https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture",
+          "publishedOn": "2026-01-15T15:19:31.000Z",
+          "wordCount": null,
+          "title": "Vulnerabilities Surge, But Messy Reporting Blurs Picture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs",
+          "author": "Nate Nelson, Contributing Writer",
+          "description": "Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.",
+          "link": "https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs",
+          "publishedOn": "2026-01-15T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Trio of Critical Bugs Spotted in Delta Industrial PLCs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania",
           "author": "Nate Nelson, Contributing Writer",
