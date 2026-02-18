@@ -2,10 +2,158 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-02-17T08:57:45.642Z</updated>
+    <updated>2026-02-18T08:56:59.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware]]></title>
+        <id>https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html</id>
+        <link href="https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html"/>
+        <updated>2026-02-18T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest.
+The version 8.9.2 update incorporates what maintainer Don Ho calls a "double lock" design that aims to make the update process "robust and effectively unexploitable." This includes verification]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update]]></title>
+        <id>https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html</id>
+        <link href="https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html"/>
+        <updated>2026-02-18T06:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
+The list of vulnerabilities is as follows -
+
+CVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers"/>
+        <updated>2026-02-18T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After detecting a zero-day attack, the country's effective response was attributed to the tight relationship between its government and private industry.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply Chain Attack Embeds Malware in Android Devices]]></title>
+        <id>https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices</id>
+        <link href="https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices"/>
+        <updated>2026-02-17T22:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poland Energy Survives Attack on Wind, Solar Infrastructure]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure</id>
+        <link href="https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure"/>
+        <updated>2026-02-17T21:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RMM Abuse Explodes as Hackers Ditch Malware]]></title>
+        <id>https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware</id>
+        <link href="https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware"/>
+        <updated>2026-02-17T21:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT]]></title>
+        <id>https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat</id>
+        <link href="https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat"/>
+        <updated>2026-02-17T21:01:02.000Z</updated>
+        <summary type="html"><![CDATA[ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster]]></title>
+        <id>https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html</id>
+        <link href="https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html"/>
+        <updated>2026-02-17T19:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud attacks move fast — faster than most incident response teams.
+In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.
+Cloud forensics is fundamentally]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies]]></title>
+        <id>https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html</id>
+        <link href="https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html"/>
+        <updated>2026-02-17T18:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legitimate enterprise communications and evade detection.
+The attack method, which has been demonstrated against Microsoft Copilot and xAI Grok]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates]]></title>
+        <id>https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html</id>
+        <link href="https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html"/>
+        <updated>2026-02-17T16:41:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky.
+The Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu, in the firmware of devices associated with various brands, including Alldocube, with the compromise occurring during the firmware build phase.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer]]></title>
+        <id>https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html</id>
+        <link href="https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html"/>
+        <updated>2026-02-17T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as StealC.
+"The threat actors cloned a legitimate Oura MCP Server – a tool that connects AI assistants to Oura Ring health data – and built a deceptive]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Day Getting My Hands Dirty with an NDR System]]></title>
+        <id>https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html</id>
+        <link href="https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html"/>
+        <updated>2026-02-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now?
+
+
+
+
+
+
+My objective
+As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations]]></title>
+        <id>https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html</id>
+        <link href="https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html"/>
+        <updated>2026-02-17T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the "Summarize with AI" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO).
+The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta]]></title>
         <id>https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html</id>
@@ -2246,156 +2394,6 @@ The post Alleged Sony WF-1000XM6 Renders Leaked By Thai-Based Online Retailer ap
         <summary type="html"><![CDATA[APT28's attacks rely on specially crafted Microsoft Rich Text Format (RTF) documents to kick off a multistage infection chain to deliver malicious payloads.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GlassWorm Malware Returns to Shatter Developer Ecosystems]]></title>
-        <id>https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems</id>
-        <link href="https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems"/>
-        <updated>2026-02-03T20:55:51.000Z</updated>
-        <summary type="html"><![CDATA[The self-replicating malware has poisoned a fresh set of Open VSX software components, leaving potential downstream victims with infostealer infections.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI May Supplant Pen Testers, But Oversight &amp; Trust Are Not There Yet]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/ai-supplant-pen-testers-oversight-trust-not-there-yet</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/ai-supplant-pen-testers-oversight-trust-not-there-yet"/>
-        <updated>2026-02-03T18:03:46.000Z</updated>
-        <summary type="html"><![CDATA[Crowdsourced bug bounties and pen-testing firms see AI agents stealing the low-hanging vulnerabilities from their human counterparts. Oversight remains key.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata]]></title>
-        <id>https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html</id>
-        <link href="https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html"/>
-        <updated>2026-02-03T16:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data.
-The critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8-Minute Access: AI Accelerates Breach of AWS Environment]]></title>
-        <id>https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach</id>
-        <link href="https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach"/>
-        <updated>2026-02-03T16:38:11.000Z</updated>
-        <summary type="html"><![CDATA[The AI-assisted attack, which started with exposed credentials from public S3 buckets, rapidly achieved administrative privilges.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark Patterns Undermine Security, One Click at a Time]]></title>
-        <id>https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time</id>
-        <link href="https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time"/>
-        <updated>2026-02-03T16:30:41.000Z</updated>
-        <summary type="html"><![CDATA[People trust organizations to do the right thing, but some websites and apps have user interfaces that ultimately lead to inadequate security for users.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate]]></title>
-        <id>https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html</id>
-        <link href="https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html"/>
-        <updated>2026-02-03T14:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.
-Every vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.
-This]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package]]></title>
-        <id>https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html</id>
-        <link href="https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html"/>
-        <updated>2026-02-03T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular "@react-native-community/cli" npm package.
-Cybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Cloud Outages Ripple Across the Internet]]></title>
-        <id>https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html</id>
-        <link href="https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html"/>
-        <updated>2026-02-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day.
-For consumers, these outages are]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks]]></title>
-        <id>https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html</id>
-        <link href="https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html"/>
-        <updated>2026-02-03T09:12:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenamed Operation Neusploit.
-Zscaler ThreatLabz said it observed the hacking group weaponizing the shortcoming on January 29, 2026, in attacks targeting users in Ukraine, Slovakia, and Romania, three]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox]]></title>
-        <id>https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html</id>
-        <link href="https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html"/>
-        <updated>2026-02-03T05:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.
-"It provides a single place to block current and future generative AI features in Firefox," Ajit Varma, head of Firefox, said. "You can also review and manage individual AI features if you choose to use them. This]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group]]></title>
-        <id>https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html</id>
-        <link href="https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html"/>
-        <updated>2026-02-03T04:55:00.000Z</updated>
-        <summary type="html"><![CDATA[A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++.
-The attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7.
-The development comes shortly]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX Officially Acquires xAI]]></title>
-        <id>https://www.lowyat.net/?p=380365</id>
-        <link href="https://www.lowyat.net/2026/380365/spacex-officially-acquires-xai/"/>
-        <updated>2026-02-03T03:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Two major companies under Elon Musk will now merge, as SpaceX has officially announced its acquisition of artificial intelligence start-up xAI. The deal creates a combined company spanning aerospace, AI development, satellite-based internet and social media, positioning it as one of the most powerful private technology groups in the world. Although the companies did not […]
-The post SpaceX Officially Acquires xAI appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Harvest Dropbox Logins Via Fake PDF Lures]]></title>
-        <id>https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures</id>
-        <link href="https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures"/>
-        <updated>2026-02-02T22:21:33.000Z</updated>
-        <summary type="html"><![CDATA[A malware-free phishing campaign targets corporate inboxes and asks employees to view "request orders," ultimately leading to Dropbox credential theft.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[County Pays $600K to Wrongfully Jailed Pen Testers]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers"/>
-        <updated>2026-02-02T21:57:51.000Z</updated>
-        <summary type="html"><![CDATA[Iowa police arrested two penetration testers in 2019 for doing their jobs, highlighting the risk to security professionals in red teaming exercises.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer</name>
         </author>
     </entry>
     <entry>
