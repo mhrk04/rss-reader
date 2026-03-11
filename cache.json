@@ -19294,6 +19294,134 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A threat actor known as UNC6426 leveraged keys stolen following the supply chain compromise of the nx npm package last year to completely breach a victim's cloud environment within a span of 72 hours.\nThe attack started with the theft of a developer's GitHub token, which the threat actor then used to gain unauthorized access to the cloud and steal data.\n\"The threat actor, UNC6426, then used this",
+          "link": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
+          "publishedOn": "2026-03-11T07:31:00.000Z",
+          "wordCount": null,
+          "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUREkqLhVFM9jnUqkHPMEmAj2KBdTrXOX_m8t7zEUdK4NE16BBL0XQHZ9q4KPVDfKecgf4KE64vzAW9XDvn6axd6fIU9WZy5Lqe348eT7rKvmsLU3ByDPajxWFlkTt6CQTNkmNv8e57XrvWAaM-YaXtD0QP1-grx4XPtV_Osxw-vjtPfw4A70O5x41yvq/s1600/aws.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUREkqLhVFM9jnUqkHPMEmAj2KBdTrXOX_m8t7zEUdK4NE16BBL0XQHZ9q4KPVDfKecgf4KE64vzAW9XDvn6axd6fIU9WZy5Lqe348eT7rKvmsLU3ByDPajxWFlkTt6CQTNkmNv8e57XrvWAaM-YaXtD0QP1-grx4XPtV_Osxw-vjtPfw4A70O5x41yvq/s1600/aws.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors.\nThe Rust packages, published to crates.io, are listed below -\n\nchrono_anchor\ndnp3times\ntime_calibrator\ntime_calibrators\ntime-sync\n\nThe crates, per Socket, impersonate timeapi.io and were published between late February and early March",
+          "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
+          "publishedOn": "2026-03-11T05:12:00.000Z",
+          "wordCount": null,
+          "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzAdo0qx6xgUYxpWZkp4v30357zGX7ojSkN1vbfazb6D_JiXd9ksAHFNZJzY6pleKYV_HeYZcgJ48U36zUMPSJFR9bPUvFz18THXzTTnvhembJW9wrCypxj_2ttelgwbBwOD__5Yr-WGIBw1XthSLi6UZy3QtLZfmt7j_P8fOxZmm0PQwPAMCtNKkQzz1n/s1600/rust.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzAdo0qx6xgUYxpWZkp4v30357zGX7ojSkN1vbfazb6D_JiXd9ksAHFNZJzY6pleKYV_HeYZcgJ48U36zUMPSJFR9bPUvFz18THXzTTnvhembJW9wrCypxj_2ttelgwbBwOD__5Yr-WGIBw1XthSLi6UZy3QtLZfmt7j_P8fOxZmm0PQwPAMCtNKkQzz1n/s1600/rust.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks. \nThe activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology",
+          "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
+          "publishedOn": "2026-03-10T16:21:00.000Z",
+          "wordCount": null,
+          "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaob2yqCn3sfdJzP_Cg84pqsU3I0R7XKt1LiMZLkgr3o3IHIWwarYiLwvqGKig4ZFF4-Hdc2hq79QyM_xSbyGp2CsGZNA4X1ZHjxaY0NUeiFjBEMtbQHD45QQzSTtGTzJP8z7EfsJYnikYmV4dipwkSniPMgPaboch1EP4S-lmtjvrJ9eY-WcfWHMsOB89/s1600/fortinet-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaob2yqCn3sfdJzP_Cg84pqsU3I0R7XKt1LiMZLkgr3o3IHIWwarYiLwvqGKig4ZFF4-Hdc2hq79QyM_xSbyGp2CsGZNA4X1ZHjxaY0NUeiFjBEMtbQHD45QQzSTtGTzJP8z7EfsJYnikYmV4dipwkSniPMgPaboch1EP4S-lmtjvrJ9eY-WcfWHMsOB89/s1600/fortinet-exploit.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.\nBut there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers.\nThe Problem: \"The Invisible Employee\"\nThink of an AI Agent like a new employee who has",
+          "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+          "publishedOn": "2026-03-10T16:21:00.000Z",
+          "wordCount": null,
+          "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9rQgRdibuFYsDbwmp3SukV8rvo2XAcrItRHJVuYOvQd5AQyUUNQlF254t_zArE0rjDNbI-ibkfkezQF394z9u2QQRwCk9vju1yDsQJjYGjbfoNAvvUfM7ZhYl134SLtAYSmx4CtP8n9n0Uyk-DYW9gJ-ci7nGhInnioZMyhH1xT5ySyaXTYJ3nmD_Xo/s1600/ai-agents.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9rQgRdibuFYsDbwmp3SukV8rvo2XAcrItRHJVuYOvQd5AQyUUNQlF254t_zArE0rjDNbI-ibkfkezQF394z9u2QQRwCk9vju1yDsQJjYGjbfoNAvvUfM7ZhYl134SLtAYSmx4CtP8n9n0Uyk-DYW9gJ-ci7nGhInnioZMyhH1xT5ySyaXTYJ3nmD_Xo/s1600/ai-agents.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic.\nThe malware, first detected in the wild in August 2025, has expanded to over 14,000 infected devices, with more than 60% of victims located in the U.S., according to the Black Lotus Labs team at Lumen. A lesser number of",
+          "link": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
+          "publishedOn": "2026-03-10T16:00:00.000Z",
+          "wordCount": null,
+          "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6yjElOGPcYBf276MHunx4KJvvDBj2k0LIMcaz8NZN6c9NM-EPhn5wGG8jiQab-zkwUzGWDNnqMo7F_mIq_HbuS4KKV9TNn3oebk_nWkZKcm3BRT0EIEqut61LgUodpHvtGYBB3bjeT_zJ_TxjxLgmO7DPwaFqXryrkQ7X8BpWz2GucoDtcTcXP6XbLQ_/s1600/router-botnet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6yjElOGPcYBf276MHunx4KJvvDBj2k0LIMcaz8NZN6c9NM-EPhn5wGG8jiQab-zkwUzGWDNnqMo7F_mIq_HbuS4KKV9TNn3oebk_nWkZKcm3BRT0EIEqut61LgUodpHvtGYBB3bjeT_zJ_TxjxLgmO7DPwaFqXryrkQ7X8BpWz2GucoDtcTcXP6XbLQ_/s1600/router-botnet.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.\nThe shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
+          "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
+          "publishedOn": "2026-03-10T13:20:00.000Z",
+          "wordCount": null,
+          "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2sHbLX0XUqPu9yr7S5g-qYzWmRx4m_RGqFl4wqfd87nzpCH4RbDGMzdvRIzXLHfGUFtESqDSbXjksDf73X6VqM9kdl0BsgoRGr6luzPooCoRR5oAzQzxyCPU7HMK_JrXS__l0h22_J0JNkveq_OA87M4MvaASKETRpM9lj57aLzm7znLU4OWz6Gs0ZmwT/s1600/looker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2sHbLX0XUqPu9yr7S5g-qYzWmRx4m_RGqFl4wqfd87nzpCH4RbDGMzdvRIzXLHfGUFtESqDSbXjksDf73X6VqM9kdl0BsgoRGr6luzPooCoRR5oAzQzxyCPU7HMK_JrXS__l0h22_J0JNkveq_OA87M4MvaASKETRpM9lj57aLzm7znLU4OWz6Gs0ZmwT/s1600/looker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately.\nTime-to-exploit is shrinking\nThe larger and less controlled your attack surface is,",
+          "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
+          "publishedOn": "2026-03-10T11:00:00.000Z",
+          "wordCount": null,
+          "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfoH6o4IkbYakx1lP-kILdg8glEenVOVdJFyn8cxnNYO9hRSMut-XrsII-HfqY_VuguC1b0yHPueeREjsdS0RpXViN0IhuFYzheblF8avbGI6GILTtyHMF5_nJYPIKFRRYL1staxa_9sYMHRjMkL995yoIJYRW072CQaIWh95cCsLXFFpqg769bN-KFA/s1600/INTRUDER.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfoH6o4IkbYakx1lP-kILdg8glEenVOVdJFyn8cxnNYO9hRSMut-XrsII-HfqY_VuguC1b0yHPueeREjsdS0RpXViN0IhuFYzheblF8avbGI6GILTtyHMF5_nJYPIKFRRYL1staxa_9sYMHRjMkL995yoIJYRW072CQaIWh95cCsLXFFpqg769bN-KFA/s1600/INTRUDER.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel.\nThe two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News.\nAPT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,",
+          "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
+          "publishedOn": "2026-03-10T10:55:00.000Z",
+          "wordCount": null,
+          "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-By3tHSMSOxuaRiOmtalZ7sltfDCZ-ZfA-SYEQ6RVae4iQoVJVeUZU380kIIgrdAnFkX516x6OdctG7NCgL3zNSSENMqgc1iNcSC48aIJ3sx7eAK1-5rGqPu00i5rfPpvxOQ9I9R-v1fPL-i_i0kreyvQ3a0WuneswNUZgnhaTKq6fFu3me-1TopHYcl1/s1600/Ukrainian-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-By3tHSMSOxuaRiOmtalZ7sltfDCZ-ZfA-SYEQ6RVae4iQoVJVeUZU380kIIgrdAnFkX516x6OdctG7NCgL3zNSSENMqgc1iNcSC48aIJ3sx7eAK1-5rGqPu00i5rfPpvxOQ9I9R-v1fPL-i_i0kreyvQ3a0WuneswNUZgnhaTKq6fFu3me-1TopHYcl1/s1600/Ukrainian-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector.\nThe activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive",
@@ -20412,102 +20540,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDYqq2mJ0VAzx1rcmM4woWuWiT1LxaSSkdbYfalpKU7gBf0mTbMQ6_Exxcych7x7GoD-qBgtzMYJqoGCsVdlaCuBM4622Pag8Y_srn9s0kVhCPT5Y7cWa6Q6oUTxx95AGlMfycEyghAGcRKC_AoWTdotazmKmE0AcCZm5IRFQZrEpAASX1mJLtA1lsY1oa/s1600/filezen.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDYqq2mJ0VAzx1rcmM4woWuWiT1LxaSSkdbYfalpKU7gBf0mTbMQ6_Exxcych7x7GoD-qBgtzMYJqoGCsVdlaCuBM4622Pag8Y_srn9s0kVhCPT5Y7cWa6Q6oUTxx95AGlMfycEyghAGcRKC_AoWTdotazmKmE0AcCZm5IRFQZrEpAASX1mJLtA1lsY1oa/s1600/filezen.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue.\nThe artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure.\n\"Attackers can craft hidden instructions inside a",
-          "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
-          "publishedOn": "2026-02-24T18:52:00.000Z",
-          "wordCount": null,
-          "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCSgjd-Xezu42fOKahjOxnhqntkclItoP8FmMfyjjKTmelK3eHoUEi6_75n6ORgD650By4wESNP8yDP2WWENzqI5T9Gl-NhYPPTiAQgkFykZv1d_MsCECcu0ZgQWt29JiGmH1zCmwNWSin8AQMWmsOm6r4ZdS8EOIC9Xtdw7FrRlN8kQs7o2s_whiNtcSH/s1600/github-copilot.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCSgjd-Xezu42fOKahjOxnhqntkclItoP8FmMfyjjKTmelK3eHoUEi6_75n6ORgD650By4wESNP8yDP2WWENzqI5T9Gl-NhYPPTiAQgkFykZv1d_MsCECcu0ZgQWt29JiGmH1zCmwNWSin8AQMWmsOm6r4ZdS8EOIC9Xtdw7FrRlN8kQs7o2s_whiNtcSH/s1600/github-copilot.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting the war-torn nation.\nThe activity, which targeted an unnamed entity involved in regional",
-          "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
-          "publishedOn": "2026-02-24T14:21:00.000Z",
-          "wordCount": null,
-          "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMR8uMyTA6j9P1KBgNFXf7uKvuD9CpolHGiMuaTIMOc87IKSqoGXWxea4Hs3unk1kLewzUd0hyOxpk6AsnEy1WmKwQwW8QV2zFBJiCi6PLOMi5zxAD_C2_DZytczAcPCSA_JGN9Se8arByQlLzoTiDaX1qJiA0Q6IT2Sfeg7BgkeQZ2ptQcjo_RX8jMgs1/s1600/bank-cyberattack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMR8uMyTA6j9P1KBgNFXf7uKvuD9CpolHGiMuaTIMOc87IKSqoGXWxea4Hs3unk1kLewzUd0hyOxpk6AsnEy1WmKwQwW8QV2zFBJiCi6PLOMi5zxAD_C2_DZytczAcPCSA_JGN9Se8arByQlLzoTiDaX1qJiA0Q6IT2Sfeg7BgkeQZ2ptQcjo_RX8jMgs1/s1600/bank-cyberattack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded.\nIn modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be",
-          "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
-          "publishedOn": "2026-02-24T11:58:00.000Z",
-          "wordCount": null,
-          "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMTMMgXEuUSPrdURyFMOZE-RcFyvZCBxQS7hyphenhyphenRvjSZ2FVcKyDWdsHgAmWv5qQg72UCTBEwWtlNs8FDhNnhh8u_-tmcAa9hLAljsN8sezEmXwujJ5Gc12LLbC8tA_OkxnpQPNjPUxQj0516b7Nbz_ahD8yX9K2RWbSSK7bu_dtBLVhA0EjxGsSp6Dic9jI/s1600/main.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMTMMgXEuUSPrdURyFMOZE-RcFyvZCBxQS7hyphenhyphenRvjSZ2FVcKyDWdsHgAmWv5qQg72UCTBEwWtlNs8FDhNnhh8u_-tmcAa9hLAljsN8sezEmXwujJ5Gc12LLbC8tA_OkxnpQPNjPUxQj0516b7Nbz_ahD8yX9K2RWbSSK7bu_dtBLVhA0EjxGsSp6Dic9jI/s1600/main.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team.\nBroadcom's threat intelligence division said it also identified the same threat actors mounting an unsuccessful attack against a healthcare",
-          "link": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
-          "publishedOn": "2026-02-24T11:52:00.000Z",
-          "wordCount": null,
-          "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8IcEeHdjKVhbeZP0v5G8x6EkPm5eEyUw_3q4XGAUEy3-i6xxFe2YEBJK7BuSzLVxVw5QbvTTBuxGecX4hcqC0wpunXm_GaMIrGPL7CJVyHGysCjvpJOiA7srjnhPROT8Gsd-9jWKxW8O0f37D1yzvXxPuVvGIEp1ZJyNQGALU2md2PhvcRvmlINS7Ah6G/s1600/locked.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8IcEeHdjKVhbeZP0v5G8x6EkPm5eEyUw_3q4XGAUEy3-i6xxFe2YEBJK7BuSzLVxVw5QbvTTBuxGecX4hcqC0wpunXm_GaMIrGPL7CJVyHGysCjvpJOiA7srjnhPROT8Gsd-9jWKxW8O0f37D1yzvXxPuVvGIEp1ZJyNQGALU2md2PhvcRvmlINS7Ah6G/s1600/locked.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities.\nThe attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week.\n\"The group used several",
-          "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
-          "publishedOn": "2026-02-24T09:54:00.000Z",
-          "wordCount": null,
-          "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNzH9FCcwXlaHaCt3zQfmpwV3uesrW_2ISdcvbuKMl7PIENe9w6dhzBVpj19_BmgHKcZIzxBLSBFOmwNx2ahUast29Tk_LJoY8qz-SrJziWhHTHURX8HTvJuIVvMJourUJ0Hw8RKnXYUFcz9wsaO7_halOZmw3gof1-N1-jI-MtNsztV5YYP4WvQdPBcY/s1600/TELECOM.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNzH9FCcwXlaHaCt3zQfmpwV3uesrW_2ISdcvbuKMl7PIENe9w6dhzBVpj19_BmgHKcZIzxBLSBFOmwNx2ahUast29Tk_LJoY8qz-SrJziWhHTHURX8HTvJuIVvMJourUJ0Hw8RKnXYUFcz9wsaO7_halOZmw3gof1-N1-jI-MtNsztV5YYP4WvQdPBcY/s1600/TELECOM.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models.\nThe distillation attacks generated over 16 million exchanges with its large language model (LLM) through about 24,000 fraudulent accounts in violation of its terms",
-          "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
-          "publishedOn": "2026-02-24T06:04:00.000Z",
-          "wordCount": null,
-          "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtOj1fS7tAn4wMRrrGDi48Wc6VXmI3R9vUy-2LGuDSk18ewlkxWrs9-vG7NLgIjMybAk8USxFfrfegmjLA7lGZ7vK57qY79qaxgriIm8kGMP-kuzLyu_JMU85xJXQ_hA151ZzI1mZkcfVCiDRw7oYbIwLGYg5tCe90C0etlJ5KrgnDkNT028R_AL1qtec1/s1600/claude-ai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtOj1fS7tAn4wMRrrGDi48Wc6VXmI3R9vUy-2LGuDSk18ewlkxWrs9-vG7NLgIjMybAk8USxFfrfegmjLA7lGZ7vK57qY79qaxgriIm8kGMP-kuzLyu_JMU85xJXQ_hA151ZzI1mZkcfVCiDRw7oYbIwLGYg5tCe90C0etlJ5KrgnDkNT028R_AL1qtec1/s1600/claude-ai.jpg"
         }
       ]
     },
@@ -20516,6 +20548,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=386056",
+          "author": "Heirul Kamel",
+          "description": "Leaked images of the upcoming Lenovo Tab Plus Gen 2 have surfaced online, offering an early look at Lenovo’s next music-focused tablet. The images were shared by prolific leakster Evan Blass (aka evleaks) and show the device from several angles, revealing a familiar design along with a few notable changes. The most obvious difference from […]\nThe post Lenovo Tab Plus Gen 2 Leak Reveals Massive Rear JBL Speaker appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386056/lenovo-tab-plus-gen-2-leak-reveals-massive-rear-jbl-speaker/",
+          "publishedOn": "2026-03-11T07:06:45.000Z",
+          "wordCount": 11136,
+          "title": "Lenovo Tab Plus Gen 2 Leak Reveals Massive Rear JBL Speaker",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/lenovo-tab-plus-gen-2-leak-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386042",
+          "author": "Kiran Ganesan",
+          "description": "With the launch of the Galaxy S26 series now behind us, all eyes are on Samsung’s upcoming mid-range lineup, particularly the Galaxy A57 and Galaxy A37. Like their flagship counterparts, both devices have been the subject of numerous leaks in recent weeks. While Samsung has yet to announce an official launch date, a European retailer […]\nThe post Samsung Galaxy A57 Accidentally Leaked Ahead Of Launch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386042/samsung-galaxy-a57-accidentally-leaked-ahead-of-launch/",
+          "publishedOn": "2026-03-11T06:29:57.000Z",
+          "wordCount": 10894,
+          "title": "Samsung Galaxy A57 Accidentally Leaked Ahead Of Launch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Samsung-Galaxy-A57-Leaked-Renders-7.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386014",
+          "author": "Nurul Kamil",
+          "description": "Wordle took the world by storm when it launched back in 2021, largely due to its straightforward design and shareable format. Now, its creator Josh Wardle has released another web-based word game. While Parseword has some similarities with its popular cousin, it is quite a bit more complicated. Described as a “tricky wordplay game”, Parseword […]\nThe post Wordle Creator Releases Parseword, A “Tricky” Wordplay Game appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386014/parseword-a-tricky-wordplay-game/",
+          "publishedOn": "2026-03-11T06:18:30.000Z",
+          "wordCount": 11361,
+          "title": "Wordle Creator Releases Parseword, A “Tricky” Wordplay Game",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/parseword-game.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386005",
+          "author": "John Law",
+          "description": "Sonos is introducing two new speakers, the Play and Era 100 SL. The Play is the brand’s new portable speaker, complete with all the fixtures and fittings warranted by the brand’s technology. The Sonos Play sits between the Roam and Move 2, delivering powerful stereo sound, while weighing a respectable 1.3kg, making it as portable […]\nThe post Sonos Launches New Play And Era 100 SL Speakers appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386005/sonos-launches-new-play-and-era-100-sl-speakers/",
+          "publishedOn": "2026-03-11T05:50:56.000Z",
+          "wordCount": 10622,
+          "title": "Sonos Launches New Play And Era 100 SL Speakers",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Sonos-Play-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386012",
+          "author": "Ian Chee",
+          "description": "Back in 2021. MBO Cinemas made quite a bit of a comeback from the brink of closure. Unfortunately, five years later, the cinema chain has announced that “the show is over” for itself. On its Facebook page, the cinema chain posted a statement to that effect. The gravity of the message is definitely much greater […]\nThe post MBO Cinemas Close Once Again; Five Years After Its Comeback appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386012/mbo-cinemas-close-again-five-years-after-comeback/",
+          "publishedOn": "2026-03-11T05:29:07.000Z",
+          "wordCount": 10924,
+          "title": "MBO Cinemas Close Once Again; Five Years After Its Comeback",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/MBO-Cinemas.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386003",
+          "author": "Kiran Ganesan",
+          "description": "Google has introduced a new certification requirement for financial services advertisers targeting Malaysia as part of its efforts to curb the growing number of financial scams affecting Malaysians. Known as Financial Services Verification (FSV), the measure adds another layer of protection to Google’s existing financial products and services advertising policies by ensuring that only legitimate […]\nThe post Google Rolls Out Verification System For Financial Ads In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386003/google-rolls-out-verification-system-for-financial-ads-in-malaysia/",
+          "publishedOn": "2026-03-11T03:29:25.000Z",
+          "wordCount": 10999,
+          "title": "Google Rolls Out Verification System For Financial Ads In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/10/google-malaysia-groundbreaking-ceremony_09.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=385989",
+          "author": "John Law",
+          "description": "Mastercard announced that it has completed a pilot program with Agentic AI, completing its first agentic authenticated transactions in the country. The transaction was conducted with two banks, CIMB and RHB. The multinational payment service said that the agentic transaction was initiated by AI agents in a controlled pilot environment, complete with security and with […]\nThe post Mastercard Completes First Live Agentic AI Transaction With CIMB And RHB Pilot appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/385989/mastercard-completes-first-live-agentic-ai-transaction-with-cimb-and-rhb-pilot/",
+          "publishedOn": "2026-03-11T03:24:24.000Z",
+          "wordCount": 10900,
+          "title": "Mastercard Completes First Live Agentic AI Transaction With CIMB And RHB Pilot",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Mastercard-Agentic-AI-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=385997",
+          "author": "Nurul Kamil",
+          "description": "Earlier this month, DJI began teasing a new drone, which leaks claimed to be the Avata 360. Now, the brand has shared another teaser for the upcoming product, confirming its name and official launch date. The newest addition to DJI’s FPV drone range is in fact the Avata 360, and it will be debuting in […]\nThe post DJI Avata 360 To Launch On 26 March 2026 With 8K Video Recording appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/385997/dji-avata-360-launch/",
+          "publishedOn": "2026-03-11T02:53:23.000Z",
+          "wordCount": 10867,
+          "title": "DJI Avata 360 To Launch On 26 March 2026 With 8K Video Recording",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/dji-avata-360-teaser-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=385987",
+          "author": "Heirul Kamel",
+          "description": "Meta has introduced a set of new safeguards for teenage users in Malaysia through its Teen Accounts feature across Facebook, Instagram, and Messenger. The measures were outlined during a recent media roundtable organised by the company, where it highlighted its efforts to improve online safety for younger users. The move comes as Malaysia moves towards […]\nThe post Meta Tightens Teen Account Safeguards Ahead Of Malaysia’s Under-16 Social Media Restrictions appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/385987/meta-tightens-teen-account-safeguards-malaysia/",
+          "publishedOn": "2026-03-11T02:25:14.000Z",
+          "wordCount": 11696,
+          "title": "Meta Tightens Teen Account Safeguards Ahead Of Malaysia’s Under-16 Social Media Restrictions",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/facebook-teen-accounts-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=385950",
+          "author": "Ian Chee",
+          "description": "MG Motor Malaysia announced back in October of last year that it will begin local assembly of the brand’s cars. At the time, the company announced that the operation will begin within the first half of 2026. As promised, the company has announced the rollout of the first S5 EV from its Alor Gajah, Melaka […]\nThe post MG Motor Malaysia Melaka Plant Rolls Out First CKD S5 EV appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/385950/mg-malaysia-melaka-plant-rolls-out-first-ckd-s5-ev/",
+          "publishedOn": "2026-03-11T02:00:02.000Z",
+          "wordCount": 10845,
+          "title": "MG Motor Malaysia Melaka Plant Rolls Out First CKD S5 EV",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/MG-Motor-Malaysia-first-CKD-S5-EV.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=385921",
           "author": "Kiran Ganesan",
@@ -21755,106 +21887,6 @@
           "wordCount": 10946,
           "title": "MOSTI Denies Leakages In MyDigital ID Project Amid Auditor-General Findings",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/mosti-no-ai-laws-in-malaysia-yet-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383990",
-          "author": "Kiran Ganesan",
-          "description": "As we’ve reported previously, Xiaomi is hosting a global launch event on 28 February. Based on past events, the company typically unveils several other products alongside its main hero item—one of which is the Redmi Buds 8 Pro. However, in a surprising turn of events, the premium earbuds are already available in Malaysia ahead of […]\nThe post Redmi Buds 8 Pro Now Available In Malaysia For RM299 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383990/redmi-buds-8-pro/",
-          "publishedOn": "2026-02-24T08:45:13.000Z",
-          "wordCount": 10937,
-          "title": "Redmi Buds 8 Pro Now Available In Malaysia For RM299",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/Redmi-Buds-8-Pro-Now-Available-In-Malaysia-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383963",
-          "author": "John Law",
-          "description": "Remember, at the start of the year, when it was reported that a thief in South Korea broke into an office and specifically stole the DDR5 RAM kits from PCs? Recently, another thief in South Korea was caught on camera, making off with US$14,000 (~RM54,565) worth of GPUs. The thief was caught on camera, breaking […]\nThe post Another Thief In South Korea Made Off With Three GPUs Worth US$14,000 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383963/another-thief-in-south-korea-made-off-with-three-gpus-worth-us14000/",
-          "publishedOn": "2026-02-24T08:39:20.000Z",
-          "wordCount": 10899,
-          "title": "Another Thief In South Korea Made Off With Three GPUs Worth US$14,000",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/Thief-South-Korea-GPU-steal-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383988",
-          "author": "Heirul Kamel",
-          "description": "Malaysia has tightened its approach to data centre investments by restricting new projects that are not tied to artificial intelligence, citing growing concerns over the heavy demands these facilities place on electricity and water resources. Prime Minister Anwar Ibrahim announced the policy in the Dewan Rakyat on Tuesday, noting that approvals now prioritise AI-related developments […]\nThe post PM: Non-AI Data Centre Investments Curbed Amid Water And Electricity Concerns appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383988/pm-non-ai-data-centre-investments-curbed-amid-water-and-electricity-concerns/",
-          "publishedOn": "2026-02-24T08:20:55.000Z",
-          "wordCount": 11382,
-          "title": "PM: Non-AI Data Centre Investments Curbed Amid Water And Electricity Concerns",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/TM-Nxera-data-centre.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383961",
-          "author": "Nurul Kamil",
-          "description": "Ahead of its upcoming global launch event at the end of the month, Xiaomi has unveiled a selection of new products for the Malaysian market. The lineup includes items in its AIoT ecosystem, including the Xiaomi Tag and the UltraThin Magnetic Power Bank. Of course, these are among the products set to debut at MWC […]\nThe post Xiaomi Tag, UltraThin Magnetic Power Bank Now Available In Malaysia; Priced From RM79 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383961/xiaomi-tag-ultrathin-magnetic-power-bank-malaysia/",
-          "publishedOn": "2026-02-24T07:57:48.000Z",
-          "wordCount": 11349,
-          "title": "Xiaomi Tag, UltraThin Magnetic Power Bank Now Available In Malaysia; Priced From RM79",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/xiaomi-tag-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383953",
-          "author": "Ian Chee",
-          "description": "Just last month, Sony announced that it was leaving the TV business, having passed its home entertainment business over to TCL. Now, it looks like it’s the turn of Panasonic, which announced that the making and marketing of its TVs will be done by Skyworth. FlatpanelsHD reports that the two companies announced the strategic partnership […]\nThe post Panasonic Also Exits TV Business; Passes It Over To Skyworth appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383953/panasonic-exits-tv-business-passes-to-skyworth/",
-          "publishedOn": "2026-02-24T07:53:43.000Z",
-          "wordCount": 10789,
-          "title": "Panasonic Also Exits TV Business; Passes It Over To Skyworth",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Panasonic1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383950",
-          "author": "John Law",
-          "description": "It appears that Intel could be making plans to ditch its current hybrid core design, and return to a Unified Core Design for future CPUs. At least, that’s what it sounds like, if you go by a recent job listing posted on LinkedIn. The listing, which is no longer accepting applicants, was for the position […]\nThe post Intel Could Be Planning Return To A Unified Core Design For Future CPUs appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383950/intel-could-be-planning-return-to-a-unified-core-design-for-future-cpus/",
-          "publishedOn": "2026-02-24T06:03:03.000Z",
-          "wordCount": 11379,
-          "title": "Intel Could Be Planning Return To A Unified Core Design For Future CPUs",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/Intel-Unified-Core-Design-LinkedIn-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383948",
-          "author": "Ian Chee",
-          "description": "Remember the Lamborghini Lanzador? The concept car that would be the basis of the Italian company’s EV supercar? The company announced at the time that it would only be built starting 2028. But more recently, it looks like it won’t be built at all. The Sunday Times reports that the production of the electric supercar […]\nThe post Lamborghini Cancels EV Supercar Plans; Cites “Close To Zero” Interest appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383948/lamborghini-cancels-ev-supercar-plans-cites-close-to-zero-interest/",
-          "publishedOn": "2026-02-24T03:42:37.000Z",
-          "wordCount": 10700,
-          "title": "Lamborghini Cancels EV Supercar Plans; Cites “Close To Zero” Interest",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/08/lamborghini-Lanzador-front.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383930",
-          "author": "Nurul Kamil",
-          "description": "The Nothing Phone (4a) lineup is set to debut next week. As usual, the company has ramped up its teaser campaign ahead of the launch. In a recent social media post, the brand has shared an official render depicting the base model, offering a look at its design. This includes the new Glyph Bar. Overall, […]\nThe post Nothing Phone (4a) Teaser Shows Off The New Glyph Bar appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383930/nothing-phone-4a-teaser-glyph-bar/",
-          "publishedOn": "2026-02-24T03:11:55.000Z",
-          "wordCount": 11533,
-          "title": "Nothing Phone (4a) Teaser Shows Off The New Glyph Bar",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/Nothing-Teases-Phone-4a-Series-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383934",
-          "author": "Kiran Ganesan",
-          "description": "Xiaomi officially revealed that it will be launching the Xiaomi Pad 8 on 28 February, alongside the global release of the Xiaomi 17 series. Serving as the successor to the Pad 7 Pro, Xiaomi boasts that the tablet offers “PC-level efficiency” to help boost users’ productivity and creativity. At present, the company is still keeping […]\nThe post Xiaomi Pad 8 To Launch Globally On 28 February With Snapdragon 8s Gen 4 SoC appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383934/xiaomi-pad-8-launch-globally-28-february/",
-          "publishedOn": "2026-02-24T03:00:52.000Z",
-          "wordCount": 11002,
-          "title": "Xiaomi Pad 8 To Launch Globally On 28 February With Snapdragon 8s Gen 4 SoC",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/Xiaomi-Pad-8-To-Launch-Globally-On-28-February-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=383926",
-          "author": "Heirul Kamel",
-          "description": "HONOR has confirmed that it will unveil its first-ever AI-powered humanoid robot at Mobile World Congress (MWC) 2026 in Barcelona. The announcement expands on earlier confirmations that the company would showcase the Magic V6 foldable and its quirky “Robot Phone” at the event. HONOR teased the upcoming robot through a short video on X, showing […]\nThe post HONOR To Unveil First AI Humanoid Robot At MWC 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/383926/honor-to-unveil-first-ai-humanoid-robot-at-mwc-2026/",
-          "publishedOn": "2026-02-24T01:51:58.000Z",
-          "wordCount": 10928,
-          "title": "HONOR To Unveil First AI Humanoid Robot At MWC 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/HONOR-to-unveil-its-first-humanoid-robot-at-MWC-2026-1.jpg"
         }
       ]
     },
@@ -21863,6 +21895,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps",
+          "author": "Robert Lemos",
+          "description": "Data centers — used by both governments and militaries for operations — are now fair game, not just for cyberattacks, but for kinetic attacks as well.",
+          "link": "https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps",
+          "publishedOn": "2026-03-11T05:00:00.000Z",
+          "wordCount": null,
+          "title": "Middle East Conflict Highlights Cloud Resilience Gaps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update",
+          "author": "Jai Vijayan",
+          "description": "For a change, there's little in this month's Patch Tuesday that should cause panic, according to security experts.",
+          "link": "https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update",
+          "publishedOn": "2026-03-11T01:08:31.000Z",
+          "wordCount": null,
+          "title": "Microsoft Patches 83 CVEs in March Update",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs",
+          "author": "Alexander Culafi",
+          "description": "Some customers have mishandled guest user configurations otherwise intended to allow third-party access to important — and sensitive — client data.",
+          "link": "https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs",
+          "publishedOn": "2026-03-10T21:05:28.000Z",
+          "wordCount": null,
+          "title": "'Overly Permissive' Salesforce Cloud Configs in the Crosshairs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit",
+          "author": "Jai Vijayan",
+          "description": "After several years of using simple implants, the Russia-affiliated actor is back with two new sophisticated malware tools.",
+          "link": "https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit",
+          "publishedOn": "2026-03-10T18:57:55.000Z",
+          "wordCount": null,
+          "title": "Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
+          "author": "Elizabeth Montalbano",
+          "description": "A campaign by Russian-speaking cyberattackers hijacks workflows to deliver security-busting malware, allowing attackers to steal data without detection.",
+          "link": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
+          "publishedOn": "2026-03-10T13:30:00.000Z",
+          "wordCount": null,
+          "title": "'BlackSanta' EDR Killer Targets HR Workflows",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense",
           "author": "Jai Vijayan",
@@ -22331,36 +22413,6 @@
           "publishedOn": "2026-02-24T21:18:04.000Z",
           "wordCount": null,
           "title": "Lazarus Group Picks a New Poison: Medusa Ransomware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets",
-          "author": "Robert Lemos",
-          "description": "Investments in cybersecurity startups took off in 2025 as venture capital firms focused not just on AI-native tech but on talent as well.",
-          "link": "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets",
-          "publishedOn": "2026-02-24T13:04:04.000Z",
-          "wordCount": null,
-          "title": "As Cybersecurity Firms Chase AI, VC Market Skyrockets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025",
-          "author": "Jai Vijayan",
-          "description": "The attacks cost banks more than $20 million in losses last year, as criminals used many of the same tools and tactics they have wielded for more than a decade.",
-          "link": "https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025",
-          "publishedOn": "2026-02-23T22:20:08.000Z",
-          "wordCount": null,
-          "title": "Spitting Cash: ATM Jackpotting Attacks Surged in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable",
-          "author": "James Urquhart",
-          "description": "AI systems have to be able to show a record of what happened and how.",
-          "link": "https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable",
-          "publishedOn": "2026-02-23T22:18:18.000Z",
-          "wordCount": null,
-          "title": "More Than Dashboards: AI Decisions Must Be Provable",
           "imageUrl": null
         }
       ]
