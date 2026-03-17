@@ -19294,6 +19294,102 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosure vulnerability that leaks the installation path of the application under certain conditions",
+          "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+          "publishedOn": "2026-03-17T05:23:00.000Z",
+          "wordCount": null,
+          "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHrElxuBmshJ8wNl7qURDxcn2YLWxn07Uco53YCLhDLFqoS-exUpqGau4x9eFOvHq_KXg3ifLU3wVbZvhZExQ2XJJeWePG6zqRjrug6hAdOZaGcs78e68M7J23XMJWCXegidndqdayfGyPZt8mpLTExvPl_YJS8Nn5mPn4aEzlUKdU0B8J6-NtRX8_ncw7/s1600/cisa-ftp.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHrElxuBmshJ8wNl7qURDxcn2YLWxn07Uco53YCLhDLFqoS-exUpqGau4x9eFOvHq_KXg3ifLU3wVbZvhZExQ2XJJeWePG6zqRjrug6hAdOZaGcs78e68M7J23XMJWCXegidndqdayfGyPZt8mpLTExvPl_YJS8Nn5mPn4aEzlUKdU0B8J6-NtRX8_ncw7/s1600/cisa-ftp.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories.\n\"The attack targets Python projects — including Django apps, ML research code, Streamlit dashboards, and PyPI packages — by appending obfuscated code to files like setup.py, main.py, and app.py,\" StepSecurity said. \"Anyone who runs",
+          "link": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+          "publishedOn": "2026-03-16T19:37:00.000Z",
+          "wordCount": null,
+          "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7L4zUQpR3yqvBYQOLElALmeqWJoxMkXDZVmvs0LgAMwPCH6yuBMCeP_IJwLfkM_4SFI5mXmBQKNWu8JgME_4yZ271ZLEeJe_l-mZ-H4gsw2XaZecZoUhvlaaxdWjcDnn3zrl4boAnxhfXUNogrGpM83ucMCez0IN1A9xKn2XlrUEfVcBgFdFuC7pWdsX/s1600/githun-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7L4zUQpR3yqvBYQOLElALmeqWJoxMkXDZVmvs0LgAMwPCH6yuBMCeP_IJwLfkM_4SFI5mXmBQKNWu8JgME_4yZ271ZLEeJe_l-mZ-H4gsw2XaZecZoUhvlaaxdWjcDnn3zrl4boAnxhfXUNogrGpM83ucMCez0IN1A9xKn2XlrUEfVcBgFdFuC7pWdsX/s1600/githun-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling.\nThis week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretical real fast. A few bits hit a little too close to real life, too. There’s a good mix here: weird abuse of trusted stuff, quiet infrastructure ugliness,",
+          "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
+          "publishedOn": "2026-03-16T14:17:00.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_H0YAbH9M9ZJEpNND8ld-a6PMbK_iC6MTl5KYp4PZ5cagUKRCuqsIsILZabA2CSAgcmKqr7xth_SL23l17zM8ANvYNa6LdvZc8xz_R08FfTek2V8rVtMBte0ubUnBlZ8IbZi0GBs-W4J9R7TCaVOCK9NYXWDPIAuFGTHyCOybC1PQqQKRKnTI6r9BZVaO/s1600/cyberrecap.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_H0YAbH9M9ZJEpNND8ld-a6PMbK_iC6MTl5KYp4PZ5cagUKRCuqsIsILZabA2CSAgcmKqr7xth_SL23l17zM8ANvYNa6LdvZc8xz_R08FfTek2V8rVtMBte0ubUnBlZ8IbZi0GBs-W4J9R7TCaVOCK9NYXWDPIAuFGTHyCOybC1PQqQKRKnTI6r9BZVaO/s1600/cyberrecap.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scanner feeding an attack surface management platform somewhere else. Each tool gives you a slice of the picture. None of them talks to each other in any",
+          "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
+          "publishedOn": "2026-03-16T11:58:00.000Z",
+          "wordCount": null,
+          "title": "Why Security Validation Is Becoming Agentic",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLVOZFyD6pBH1804jnpyTOScRJO3CnlHA2m3B-L1ML1B5l2iP70OHF_rUwtdHARpNsVh5WxdCXX7fO9NfpjPaH0jwJYCmWgGa2Eo5x9RPkl8PEl9e7tq2-T5sbv6KI7GnyzCr3PhSUSpweRRMlR0pGC4lO_3m1gVgLfrjt6sulJRo4yJKPlNSn_VyM8oo/s1600/picus.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLVOZFyD6pBH1804jnpyTOScRJO3CnlHA2m3B-L1ML1B5l2iP70OHF_rUwtdHARpNsVh5WxdCXX7fO9NfpjPaH0jwJYCmWgGa2Eo5x9RPkl8PEl9e7tq2-T5sbv6KI7GnyzCr3PhSUSpweRRMlR0pGC4lO_3m1gVgLfrjt6sulJRo4yJKPlNSn_VyM8oo/s1600/picus.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync.\n\"Unlike traditional exploit-based attacks, this method relies entirely on user interaction – usually in the form of copying and executing commands – making it particularly effective against users who may not appreciate the implications of running",
+          "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
+          "publishedOn": "2026-03-16T11:41:00.000Z",
+          "wordCount": null,
+          "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYjqyJvKKEaCGLTQo4-iMO_9Iq0V0lJVBlggKNorjB_DmPjq0sw_wl0EJ1oklawc4r9V7Axxk_J1WW1HEbIZwKRo8ui7thLccLTtcD6ePD0EcbJCvXWa0eAv0BYdV1cYO2HcDEIbB5GMNxUnV0TGTD3O2YAnOUcPqFJvTPPbYhufQ-sBuh1K01E6Szx9O/s1600/macos-clickfix.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYjqyJvKKEaCGLTQo4-iMO_9Iq0V0lJVBlggKNorjB_DmPjq0sw_wl0EJ1oklawc4r9V7Axxk_J1WW1HEbIZwKRo8ui7thLccLTtcD6ePD0EcbJCvXWa0eAv0BYdV1cYO2HcDEIbB5GMNxUnV0TGTD3O2YAnOUcPqFJvTPPbYhufQ-sBuh1K01E6Szx9O/s1600/macos-clickfix.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team.\nThe campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware",
+          "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
+          "publishedOn": "2026-03-16T09:07:00.000Z",
+          "wordCount": null,
+          "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLAzfBgcfc_bSkMovfPss0X0ONO4MhDVIOKyB_FgCnAZ4NOfVM3MdIMfIr0QMDCqKBvJaAz0mRIPYV075qfnurW27qWCCmjlcnDX-DOnb-kHulHrvk-k_cZCchJfEfxBdhkUf3GCbboHdQzxOCv3sEzSvgKaOoCNRgD20y7ZywYWsYtjjnh8dDLMbqJnvr/s1600/uk-cyberattacks.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLAzfBgcfc_bSkMovfPss0X0ONO4MhDVIOKyB_FgCnAZ4NOfVM3MdIMfIr0QMDCqKBvJaAz0mRIPYV075qfnurW27qWCCmjlcnDX-DOnb-kHulHrvk-k_cZCchJfEfxBdhkUf3GCbboHdQzxOCv3sEzSvgKaOoCNRgD20y7ZywYWsYtjjnh8dDLMbqJnvr/s1600/uk-cyberattacks.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API.\nThe change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week.\nAAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened",
@@ -20460,102 +20556,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.\nThe vulnerability, tracked as CVE-2026-0628 (CVSS score: 8.8), has been described as a case of insufficient policy enforcement in the WebView tag. It was patched by Google in early January 2026",
-          "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
-          "publishedOn": "2026-03-02T17:08:00.000Z",
-          "wordCount": null,
-          "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGvdv2as5vfPUJybxkOOX1bDflJKOb5b1uVw9SHrVOo6TD5GKc0JbMB2p2yxxpwj4UlZK680ZnF4J8Ccie6G13W8cklnxDOs-E74-jy3fuIyr53UWuGuwhSM8HvHUIhilChdeRdF3yz9ObuHMHlKGUHI4TMWachzuvWJ3aZdEmz_fPNaIRm_IYDKiqUl1G/s1600/gemini-chrome.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGvdv2as5vfPUJybxkOOX1bDflJKOb5b1uVw9SHrVOo6TD5GKc0JbMB2p2yxxpwj4UlZK680ZnF4J8Ccie6G13W8cklnxDOs-E74-jy3fuIyr53UWuGuwhSM8HvHUIhilChdeRdF3yz9ObuHMHlKGUHI4TMWachzuvWJ3aZdEmz_fPNaIRm_IYDKiqUl1G/s1600/gemini-chrome.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of the ecosystem, Chrome has no immediate plan to add traditional X.509 certificates containing post-quantum cryptography to the Chrome Root Store,\" the Chrome Secure Web and Networking Team said.\n\"",
-          "link": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
-          "publishedOn": "2026-03-02T16:52:00.000Z",
-          "wordCount": null,
-          "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7UWgA_nVAo80v0LRW4e9HTMYUIiEebPJv-EX7ssG1EVxwD-_hlvqqVzQ7Eb4mA9FWWW1U2WYmA8JPnPhyphenhyphenBWaCgFcyeEzcr0QhDRoUsPYgMqB7Ddt2_vEzEYMJj0w9Q9lb2nf12s_FoXDpql2BbxlpCo1oplXSzGjLFmqAsoW_Ix7CufTx5LiWrepwal8/s1600/chrome.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7UWgA_nVAo80v0LRW4e9HTMYUIiEebPJv-EX7ssG1EVxwD-_hlvqqVzQ7Eb4mA9FWWW1U2WYmA8JPnPhyphenhyphenBWaCgFcyeEzcr0QhDRoUsPYgMqB7Ddt2_vEzEYMJj0w9Q9lb2nf12s_FoXDpql2BbxlpCo1oplXSzGjLFmqAsoW_Ix7CufTx5LiWrepwal8/s1600/chrome.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points.\nThe pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady",
-          "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
-          "publishedOn": "2026-03-02T13:26:00.000Z",
-          "wordCount": null,
-          "title": "⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu0K0gzfLNadrVS1pk-FHUr-YKau70_2AMjFqoEQn73Mycfa1L3KJO_qQw4Iy83xZ4N8CIj4at04Eh4RDW8FBqza_Ob59078iWjuUKiRYDmlBsKka28GnhpwY680JoRjiO_6LGSU56CLbbj58UKANlY57dUOuQSG18lHn1kBtnn6oEaypA0DcdPypgylsI/s1600/recap-main.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu0K0gzfLNadrVS1pk-FHUr-YKau70_2AMjFqoEQn73Mycfa1L3KJO_qQw4Iy83xZ4N8CIj4at04Eh4RDW8FBqza_Ob59078iWjuUKiRYDmlBsKka28GnhpwY680JoRjiO_6LGSU56CLbbj58UKANlY57dUOuQSG18lHn1kBtnn6oEaypA0DcdPypgylsI/s1600/recap-main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:\n\nSign-ups increase, but users aren’t activating.\nServer costs rise faster than revenue.\nLogs are filled with repeated requests from strange user agents.\n\nIf",
-          "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
-          "publishedOn": "2026-03-02T11:55:00.000Z",
-          "wordCount": null,
-          "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg26Zv-2JJHry05kpFUII9FwYbAuuOo0Wcdb3JH31Zkra0fNWVzvjjVEcBkHMlrctkhJbZzTygsEUTtn3vP-0eboH1JfY3x-bGM5-epP8rB610TfRYk4HD9SLZ-rhnFYt-U52xiAurOeGa2SoHVjbjjfpTr8nEpxbteNyzCrIvX8ICcKWNaDHQFFrvi7UQ/s1600/safeline.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg26Zv-2JJHry05kpFUII9FwYbAuuOo0Wcdb3JH31Zkra0fNWVzvjjVEcBkHMlrctkhJbZzTygsEUTtn3vP-0eboH1JfY3x-bGM5-epP8rB610TfRYk4HD9SLZ-rhnFYt-U52xiAurOeGa2SoHVjbjjfpTr8nEpxbteNyzCrIvX8ICcKWNaDHQFFrvi7UQ/s1600/safeline.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework.\n\"Protection mechanism failure in MSHTML Framework allows an unauthorized",
-          "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
-          "publishedOn": "2026-03-02T10:36:00.000Z",
-          "wordCount": null,
-          "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGmBYExYY-MdqirvtI7-k2gWDf2rCE5AX4J246DywytJU0hWklJfAxRUKUa6AhU-VFWf2jazsAR1DkpPBHUqv2LsGckfxhVUebrMsnAccaYYmp2L9VJDz4rHaRLxKRgXaYM-UPcFS_ZoyveJxkLu1RunwaIuCBckILFDzMo1mCZtg9zaOmXrOSEEWU7RSg/s1600/windows.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGmBYExYY-MdqirvtI7-k2gWDf2rCE5AX4J246DywytJU0hWklJfAxRUKUa6AhU-VFWf2jazsAR1DkpPBHUqv2LsGckfxhVUebrMsnAccaYYmp2L9VJDz4rHaRLxKRgXaYM-UPcFS_ZoyveJxkLu1RunwaIuCBckILFDzMo1mCZtg9zaOmXrOSEEWU7RSg/s1600/windows.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry.\nThe packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and",
-          "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
-          "publishedOn": "2026-03-02T08:44:00.000Z",
-          "wordCount": null,
-          "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB4nJ8ODWGAqDEjQl4cCSKOtIJoGood2beXae5mc7MKzZbAYl1Ij2AX0L3CNCuUc4R4TL-DOR6bIHU6yzHfoFir_gl6jbUf_0w69pGg3tsXI92smKf02pmQPqkbyBs-eOUp0SqdGSrBH68os3R2lkTDGvGpi3R3-EThgOy_ATJKTXVqr0_ug-otA6FkeAo/s1600/npm.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB4nJ8ODWGAqDEjQl4cCSKOtIJoGood2beXae5mc7MKzZbAYl1Ij2AX0L3CNCuUc4R4TL-DOR6bIHU6yzHfoFir_gl6jbUf_0w69pGg3tsXI92smKf02pmQPqkbyBs-eOUp0SqdGSrBH68os3R2lkTDGvGpi3R3-EThgOy_ATJKTXVqr0_ug-otA6FkeAo/s1600/npm.jpg"
         }
       ]
     },
@@ -20564,6 +20564,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=386931",
+          "author": "Ian Chee",
+          "description": "Earlier in the year, we saw claims that PlayStation has plans to roll out its PlayStation Spectral Super Resolution (PSSR) 2.0 out to the PS5 Pro. At the time, rumours point to it happening as soon as Q1 of the year. As the quarter in question comes closer to an end, the Sony subsidiary finally […]\nThe post PlayStation Starts Rollout Of Updated PSSR Via Software Update appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386931/playstation-rollout-updated-pssr-software-update/",
+          "publishedOn": "2026-03-17T09:00:16.000Z",
+          "wordCount": 12332,
+          "title": "PlayStation Starts Rollout Of Updated PSSR Via Software Update",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/09/PS5-Pro.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386977",
+          "author": "Kiran Ganesan",
+          "description": "HBO Max is offering a 50% discount on all Standard and Premium plans. The promo runs from 18 March to 20 April 2026, and is available to both new and returning customers. At the time of writing, the official website lists the Standard plan at RM24.90/month, while the Premium plan is priced at RM39.90/month, or […]\nThe post HBO Max Offering 50% Discount On All Standard, Premium Plans appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386977/hbo-max-50-discount-all-plans/",
+          "publishedOn": "2026-03-17T08:24:06.000Z",
+          "wordCount": 12067,
+          "title": "HBO Max Offering 50% Discount On All Standard, Premium Plans",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/HBO-Max-50-Pricing-Discount-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386894",
+          "author": "Heirul Kamel",
+          "description": "Insta360 has officially launched the Antigravity A1, its first aerial drone with 360-degree recording capability, in Malaysia today. The local debut comes roughly three months later than the company initially suggested, and about seven months after the drone first debuted globally in August last year. To recap, the Antigravity A1 is positioned as the world’s […]\nThe post Antigravity A1 Drone Officially Lands In Malaysia; From RM4,879 Until 17 April 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386894/insta360-antigravity-a1-drone-officially-lands-in-malaysia/",
+          "publishedOn": "2026-03-17T07:38:58.000Z",
+          "wordCount": 12701,
+          "title": "Antigravity A1 Drone Officially Lands In Malaysia; From RM4,879 Until 17 April 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/insta360-antigravity-a1-launch-malaysia_09.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386951",
+          "author": "Kiran Ganesan",
+          "description": "Garmin Malaysia has announced that new Pokémon-themed watch faces will be added to select Garmin smartwatches, including the fēnix, Forerunner, Venu, and vívoactive ranges. The watch faces are based on Pokémon Sleep, a gamified sleep-tracking app by The Pokémon Company. Franchise fans can choose between two watch faces. The first, “Pokémon Sleep: Snorlax & Friends“, […]\nThe post Garmin Introduces Two Pokemon Sleep-Themed Watch Faces appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386951/garmin-introduces-two-pokemon-sleep-themed-watch-faces/",
+          "publishedOn": "2026-03-17T07:02:49.000Z",
+          "wordCount": 12120,
+          "title": "Garmin Introduces Two Pokemon Sleep-Themed Watch Faces",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Garmin-Introduces-Pokemon-Sleep-Themed-Watch-Faces-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386914",
+          "author": "Ian Chee",
+          "description": "Earlier in the month, you may have seen PlayStation Asia marketing a PC-Ready DualSense controller. This is now available for purchase in the local market, though to be fair, this is basically the same basic DualSense that you’ve known, and probably love, since the PS5 was first launched. Well, it coming only in Midnight Black […]\nThe post PC-Ready DualSense Controller Available In Malaysia For RM369 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386914/pc-ready-dualsense-controller-available-malaysia-rm369/",
+          "publishedOn": "2026-03-17T06:14:25.000Z",
+          "wordCount": 12048,
+          "title": "PC-Ready DualSense Controller Available In Malaysia For RM369",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/PC-Ready-DualSense-box.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386920",
+          "author": "Nurul Kamil",
+          "description": "If you were hoping that the Samsung Galaxy Z TriFold would land on our shores at some point, you may be out of luck. Apparently, it’s already on its way out of the market. The company is reportedly discontinuing the smartphone on its home turf, just three months after the official launch. According to South […]\nThe post Samsung Galaxy Z TriFold Reportedly Getting Axed Just Three Months After Launch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386920/samsung-galaxy-z-trifold-reportedly-discontinued/",
+          "publishedOn": "2026-03-17T05:02:31.000Z",
+          "wordCount": 12476,
+          "title": "Samsung Galaxy Z TriFold Reportedly Getting Axed Just Three Months After Launch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/samsung-galaxy-z-trifold-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386903",
+          "author": "John Law",
+          "description": "Well, this is a surprise. Just three months into the announcement of DLSS 4.5 and its 31 March rollout, NVIDIA officially announced DLSS 5 just hours ago at its GTC 2026 keynote. Unlike the former, the new neural rendering upscaler will infuse pixels with photorealistic lighting and material and, as Jensen Huang, CEO of NVIDIA, […]\nThe post NVIDIA Announces DLSS 5 At GTC 2026 And What Are We Looking At appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386903/nvidia-announces-dlss-5-at-gtc-2026-and-what-are-we-looking-at/",
+          "publishedOn": "2026-03-17T04:18:29.000Z",
+          "wordCount": 12706,
+          "title": "NVIDIA Announces DLSS 5 At GTC 2026 And What Are We Looking At",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/NVIDIA-DLSS-5-GTC-2026-Announcement-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386907",
+          "author": "Ian Chee",
+          "description": "If you use a lot of bookmarks on the mobile version of Google Chrome, and you’re using an Android tablet or foldable, there’s good news. The browser got an update that essentially gives it the desktop bookmark bar. It’s something that you’ll have to turn on, by going to Settings > Appearance > Show bookmarks […]\nThe post Google Chrome On Android Tablets, Foldables Get Desktop-Like Bookmark Bar appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386907/google-chrome-android-tablets-foldables-bookmark-bar/",
+          "publishedOn": "2026-03-17T04:08:25.000Z",
+          "wordCount": 12109,
+          "title": "Google Chrome On Android Tablets, Foldables Get Desktop-Like Bookmark Bar",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/HONOR-MAgic-V5-bookmark-bar-home.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386897",
+          "author": "Nurul Kamil",
+          "description": "AirBorneo is steadily working to expand its offerings beyond its existing network. Last month, the Sarawak-owned airline confirmed that it plans to commence regional jet operations in Q3 2026. Now, it has shared more details on this expansion, which is slated to begin in July. According to AirBorneo CEO Megat Ardian Wira Mohd Aminuddin, the […]\nThe post AirBorneo To Introduce Kuala Lumpur, Singapore, Kota Kinabalu Routes In July appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386897/airborneo-kuala-lumpur-singapore-kota-kinabalu-routes-july/",
+          "publishedOn": "2026-03-17T02:48:32.000Z",
+          "wordCount": 12598,
+          "title": "AirBorneo To Introduce Kuala Lumpur, Singapore, Kota Kinabalu Routes In July",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/airborneo-atr72-500-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=386882",
+          "author": "Heirul Kamel",
+          "description": "Seemingly out of the blue, Apple has announced the AirPods Max 2, the first major update to its flagship over-ear headphones since the original model debuted in 2020. The new model brings an updated chipset and several new features, although the external design remains largely unchanged. A notable update is Apple’s H2 chip, the same […]\nThe post Apple AirPods Max 2 Coming To Malaysia Next Month; Priced At RM2,299 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/386882/apple-airpods-max-2-coming-to-malaysia-next-month/",
+          "publishedOn": "2026-03-17T01:24:30.000Z",
+          "wordCount": 12664,
+          "title": "Apple AirPods Max 2 Coming To Malaysia Next Month; Priced At RM2,299",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/airpods-max-2-launch-8.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=386822",
           "author": "John Law",
@@ -21773,96 +21873,6 @@
           "wordCount": 10560,
           "title": "Anker Launches Soundcore Space 2 Headphones; Available Globally On 21 April",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Anker-Soundcore-Space-2.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384757",
-          "author": "Ian Chee",
-          "description": "It’s been three years since Pokemon Scarlet and Violet, and it’s about time for the new generation of games to released. So during the Pokemon Presents stream over the weekend, The Pokemon Company did just that, by revealing the name of the 10th generation of games – Winds and Waves. There’s a catch though, as […]\nThe post Pokemon Winds And Waves Likely Inspired By Southeast Asia; Releases In 2027 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384757/pokemon-winds-waves-likely-southeast-asia-releases-2027/",
-          "publishedOn": "2026-03-02T06:08:04.000Z",
-          "wordCount": 10984,
-          "title": "Pokemon Winds And Waves Likely Inspired By Southeast Asia; Releases In 2027",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Pokemon-Winds-and-Waves.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384737",
-          "author": "John Law",
-          "description": "The good folks over at Tom’s Hardware (and other sites) managed to get their hands on the Lenovo Legion Go Fold Concept at MWC 2026. The images they took not only confirm its existence but also give us a better look at this proof-of-concept gaming handheld. Firstly, the specs of the Legion Go Fold Concept […]\nThe post Lenovo Legion Go Fold Concept Breaks Cover At MWC 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384737/lenovo-legion-go-fold-concept-breaks-cover-at-mwc-2026/",
-          "publishedOn": "2026-03-02T05:58:39.000Z",
-          "wordCount": 11463,
-          "title": "Lenovo Legion Go Fold Concept Breaks Cover At MWC 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Lenovo-Legion-Go-Fold-Concept-MWC-2026-2-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384754",
-          "author": "Nurul Kamil",
-          "description": "While the HONOR Robot Phone may be one of the more unusual additions to the brand’s portfolio this year, it is not the only device debuting at MWC 2026. The event also officially introduces the company’s latest foldable, the Magic V6. As the successor to last year’s Magic V5, the phone features an even thinner […]\nThe post HONOR Magic V6 Unveiled With 6,660mAh Battery, IP69 Rating appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384754/honor-magic-v6/",
-          "publishedOn": "2026-03-02T05:48:49.000Z",
-          "wordCount": 11159,
-          "title": "HONOR Magic V6 Unveiled With 6,660mAh Battery, IP69 Rating",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/honor-magic-v6-mwc-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384762",
-          "author": "Heirul Kamel",
-          "description": "UMW Toyota Motor has officially introduced the new 2026 Toyota Harrier 2.5 Hybrid Electric Vehicle (HEV) in Malaysia. The company positions it as a premium SUV for buyers seeking a quieter and more refined driving experience with hybrid efficiency, amid continued demand for SUVs in the local market. Toyota builds the Harrier HEV on the […]\nThe post 2026 Toyota Harrier HEV Arrives In Malaysia From RM289,000 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384762/2026-toyota-harrier-hev-arrives-in-malaysia/",
-          "publishedOn": "2026-03-02T05:29:57.000Z",
-          "wordCount": 11002,
-          "title": "2026 Toyota Harrier HEV Arrives In Malaysia From RM289,000",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/2026-toyota-harrier-hev-arrives-in-malaysia_07.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384749",
-          "author": "Kiran Ganesan",
-          "description": "It has been some time since we’ve heard anything new from vivo when it comes to its flagship products. If you may recall, the most recent premium device to come from the company was the X300 series, which comprises the base and Pro versions. However, if you’ve been keeping tabs on the series, you’ll know […]\nThe post vivo To Showcase X300 Ultra At MWC 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384749/vivo-to-showcase-x300-ultra-at-mwc-2026/",
-          "publishedOn": "2026-03-02T05:08:38.000Z",
-          "wordCount": 11138,
-          "title": "vivo To Showcase X300 Ultra At MWC 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/vivo-To-Showcase-X300-Ultra-At-MWC-2026.png"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384734",
-          "author": "Ian Chee",
-          "description": "Outside of a brand like Frameworkd, you’re pretty unlikely to find anothe PC brand that’s willing to dabble in modular laptops. Lenovo has entertained the idea, with the Modular AI PC concept revealed as part of its MWC 2026 lineup. It comes with a second screen, and it’s more than just said screen that can […]\nThe post The Lenovo Modular AI PC Concept Has Two Screens, Hot-Swappable Ports appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384734/lenovo-modular-ai-pc-concept-two-screens-hot-swappable-ports/",
-          "publishedOn": "2026-03-02T04:09:45.000Z",
-          "wordCount": 10772,
-          "title": "The Lenovo Modular AI PC Concept Has Two Screens, Hot-Swappable Ports",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Lenovo-Modular-AI-PC-concept.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384699",
-          "author": "Kiran Ganesan",
-          "description": "As previously promised, the iQOO 15R is now available in Malaysia. Though the newly released device serves as the budget variant of the previously released iQOO 15, the vivo sub-brand still boasts that it features flagship performance and design. The phone comes with a 6.59-inch 1.5 AMOLED display with a 144Hz refresh rate and a […]\nThe post iQOO 15R Now Official In Malaysia; Starts From RM2,499 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384699/iqoo-15r-now-official-in-malaysia/",
-          "publishedOn": "2026-03-02T04:00:00.000Z",
-          "wordCount": 10999,
-          "title": "iQOO 15R Now Official In Malaysia; Starts From RM2,499",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/iQOO-15R-Now-Official-In-Malaysia-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384721",
-          "author": "Nurul Kamil",
-          "description": "In conjunction with MWC 2026, HONOR has hosted an event to announce its latest gadgets. As promised, the company’s previously teased Robot Phone has also made an appearance, although it is not quite ready for the market yet. Regardless, the brand has shared a few more details on the device. For the uninitiated, the HONOR […]\nThe post HONOR Shows Off Robot Phone With 200MP AI Gimbal Camera At MWC 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384721/honor-robot-phone-mwc-2026/",
-          "publishedOn": "2026-03-02T03:21:13.000Z",
-          "wordCount": 11055,
-          "title": "HONOR Shows Off Robot Phone With 200MP AI Gimbal Camera At MWC 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/honor-robot-phone-mwc-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384704",
-          "author": "Heirul Kamel",
-          "description": "The planned implementation of a single log-in system for MyJPJ using MyDigital ID has been postponed once again. Originally scheduled for 1 February 2026 before being pushed to 1 March, the rollout has now been delayed further to 1 May 2026. According to the latest update announced by the Road Transport Department (JPJ) on 1 […]\nThe post MyJPJ’s MyDigital ID Implementation Postponed Yet Again; Now Set For 1 May 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384704/myjpj-mydigital-id-postponed-to-1-may-2026/",
-          "publishedOn": "2026-03-02T02:16:23.000Z",
-          "wordCount": 10702,
-          "title": "MyJPJ’s MyDigital ID Implementation Postponed Yet Again; Now Set For 1 May 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/02/myjpj-app-can-now-upgrade-p-license-online-2.jpg"
         }
       ]
     },
@@ -21871,6 +21881,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
+          "author": "Rob Wright",
+          "description": "Researchers uncovered an extensive cyberespionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.",
+          "link": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
+          "publishedOn": "2026-03-17T01:00:00.000Z",
+          "wordCount": null,
+          "title": "China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies",
+          "author": "Alexander Culafi",
+          "description": "Researchers have identified dozens of malicious GlassWorm extensions that come with new evasion techniques.",
+          "link": "https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies",
+          "publishedOn": "2026-03-16T20:30:04.000Z",
+          "wordCount": null,
+          "title": "GlassWorm Malware Evolves to Hide in Dependencies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026",
+          "author": "Kristina Beek",
+          "description": "Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Olympics from evolving threats.",
+          "link": "https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026",
+          "publishedOn": "2026-03-16T20:28:19.000Z",
+          "wordCount": null,
+          "title": "Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data",
+          "author": "Elizabeth Montalbano",
+          "description": "A social engineering campaign impersonating PayPal and Amazon uses customer support interactions to acquire sensitive info.",
+          "link": "https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data",
+          "publishedOn": "2026-03-16T14:10:47.000Z",
+          "wordCount": null,
+          "title": "Attackers Abuse LiveChat to Phish Credit Card, Personal Data",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan",
           "author": "Nate Nelson",
@@ -22349,36 +22399,6 @@
           "publishedOn": "2026-03-02T21:32:04.000Z",
           "wordCount": null,
           "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
-          "author": "Rob Wright",
-          "description": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
-          "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
-          "publishedOn": "2026-03-02T20:32:09.000Z",
-          "wordCount": null,
-          "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot-security/quantum-resistant-data-diode-secures-sensitive-data-on-edge-devices-critical-systems",
-          "author": "Jeffrey Schwartz",
-          "description": "Forward Edge-AI's new Isidore Quantum is a compact, low-power hardware device designed to defend sensitive operational technology endpoints against future quantum attacks.",
-          "link": "https://www.darkreading.com/ics-ot-security/quantum-resistant-data-diode-secures-sensitive-data-on-edge-devices-critical-systems",
-          "publishedOn": "2026-03-02T12:55:27.000Z",
-          "wordCount": null,
-          "title": "Quantum-Resistant Data Diode Secures Sensitive Data on Edge Devices, Critical Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking",
-          "author": "Elizabeth Montalbano",
-          "description": "Attackers could have exploited the vulnerability to escalate privileges, violate user privacy while browsing, and access sensitive resources.",
-          "link": "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking",
-          "publishedOn": "2026-03-02T10:27:15.000Z",
-          "wordCount": null,
-          "title": "Bug in Google's Gemini AI Panel Opens Door to Hijacking",
           "imageUrl": null
         }
       ]
