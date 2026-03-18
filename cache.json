@@ -19294,6 +19294,102 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS.\nThe vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content.\nThe",
+          "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+          "publishedOn": "2026-03-18T06:31:00.000Z",
+          "wordCount": null,
+          "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrIGrK9v7gHMVWn2ApD_KeHXedmQ6FwRObZ4ZqEQssbaUU_8qjOSYBBRzZPzK0J8eHdH37Ws_n1u-ESXKJ1WEb4jjFcLn1Tdoj4n0z0wrfFj7X5DKIK8dzKYZ9uLDV2dg6HecUyRdUDkYR1LKkvhkGWBh_anbKF83bvLXUJBeTTwjCDeJ0V2hRAEN1bxhv/s1600/apple-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrIGrK9v7gHMVWn2ApD_KeHXedmQ6FwRObZ4ZqEQssbaUU_8qjOSYBBRzZPzK0J8eHdH37Ws_n1u-ESXKJ1WEb4jjFcLn1Tdoj4n0z0wrfFj7X5DKIK8dzKYZ9uLDV2dg6HecUyRdUDkYR1LKkvhkGWBh_anbKF83bvLXUJBeTTwjCDeJ0V2hRAEN1bxhv/s1600/apple-hacking.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges.\nThe vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
+          "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+          "publishedOn": "2026-03-18T05:06:00.000Z",
+          "wordCount": null,
+          "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7eXnUZ_n354WSYj7Qjrk3sBFZkhyQ41VtRezIQRVo3KqzZJDE_A7CqshkkQ6RCiOyS1zuS8liODqSRGhURLUozRKEDZ6BmKyOxBVy8K0EF5TQB5QlyC7c1Cv0mHSj0BNwtGAS-PgOUobvSWJ1b82qWBHCMEocTyoOayx69DzM_gveQSuD1zbjYAjziX7/s1600/linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7eXnUZ_n354WSYj7Qjrk3sBFZkhyQ41VtRezIQRVo3KqzZJDE_A7CqshkkQ6RCiOyS1zuS8liODqSRGhURLUozRKEDZ6BmKyOxBVy8K0EF5TQB5QlyC7c1Cv0mHSj0BNwtGAS-PgOUobvSWJ1b82qWBHCMEocTyoOayx69DzM_gveQSuD1zbjYAjziX7/s1600/linux.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nIn a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells",
+          "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
+          "publishedOn": "2026-03-17T16:39:00.000Z",
+          "wordCount": null,
+          "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlC6FiLJ9YVGC1W0eo-MmFsPTu2DNqMSdo-QKnv1gdH_HpaKV3zPaWZrQTGNdklpv62BXb3ECiBqlkR1BzLbfz0tFWfMKNM1vZq88yf90XpycB2OSDq3NScWav6ZO_4IVjCWaJRJLwvthFo-7VJ-Uc8qijyycpXfkQRHcPr9pf-QVgGzyOeBFnwfOGnmLN/s1600/lang-ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlC6FiLJ9YVGC1W0eo-MmFsPTu2DNqMSdo-QKnv1gdH_HpaKV3zPaWZrQTGNdklpv62BXb3ECiBqlkR1BzLbfz0tFWfMKNM1vZq88yf90XpycB2OSDq3NScWav6ZO_4IVjCWaJRJLwvthFo-7VJ-Uc8qijyycpXfkQRHcPr9pf-QVgGzyOeBFnwfOGnmLN/s1600/lang-ai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials",
+          "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
+          "publishedOn": "2026-03-17T14:34:00.000Z",
+          "wordCount": null,
+          "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHJfW8wlD2yQtP3pzAZhSRXNrzlhxXWqqG6GiAH3nbBo44Bz5mQxZ1LtsokhDYs-FC2t8hyphenhyphenY-TlNvck_Rtou9A_AA9lRnKNDRbMxZTpHfAe-6WETM-yJoWzxTANKVWrcZFdu7sax22JeTcWAVwuLKMibTNkLwSRyC0_HfBgCFM6EWqPl5-HbGtJEiSCTC/s1600/leaknet-ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHJfW8wlD2yQtP3pzAZhSRXNrzlhxXWqqG6GiAH3nbBo44Bz5mQxZ1LtsokhDYs-FC2t8hyphenhyphenY-TlNvck_Rtou9A_AA9lRnKNDRbMxZTpHfAe-6WETM-yJoWzxTANKVWrcZFdu7sax22JeTcWAVwuLKMibTNkLwSRyC0_HfBgCFM6EWqPl5-HbGtJEiSCTC/s1600/leaknet-ransomware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera.\nThe report, based on a survey of 300 US CISOs and senior security leaders, examines how organizations are securing AI infrastructure and highlights critical gaps tied to skills shortages and",
+          "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
+          "publishedOn": "2026-03-17T11:30:00.000Z",
+          "wordCount": null,
+          "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8f5KRgkqcEs7OtCxyKrJIvPWUOZnbkV5dIFPc5TjDbkAliVww6lOjpuOBZYQw1TF4H28aJZNMY6KkZmnaQfIGsR4PlXWHl4Ps-zfPutG01bPkEIjKSLlCWwK66sjwPX7uf7qsrjl3kMTVe1F4Wl7BJj7dPiC0rDW_skQOlfgirUrzT9E5bccb4fTXdLI/s1600/pentera.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8f5KRgkqcEs7OtCxyKrJIvPWUOZnbkV5dIFPc5TjDbkAliVww6lOjpuOBZYQw1TF4H28aJZNMY6KkZmnaQfIGsR4PlXWHl4Ps-zfPutG01bPkEIjKSLlCWwK66sjwPX7uf7qsrjl3kMTVe1F4Wl7BJj7dPiC0rDW_skQOlfgirUrzT9E5bccb4fTXdLI/s1600/pentera.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts.\nThe activity has been attributed by South Korean threat intelligence firm Genians to a hacking group referred to as Konni.\n\"Initial access was achieved through a spear-phishing email disguised as a",
+          "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
+          "publishedOn": "2026-03-17T09:53:00.000Z",
+          "wordCount": null,
+          "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64jRKLqi9-c5fwxRIgUOuYe8fcW2NWoeEfMBoi9oBOrVRu1CW6TXPBuAL3VPIKoQMX4EeeKtPt0wzGFExXyCm3rGmXRYzfWsFSp1JDpxZ82neNjqGELR9s2ViKaVzhk2taHFfQNGiIYC9JyhaOd8c4DLKmUZt_SleyWwtCwi2ffFpFI6SIFq3h7pni3NZ/s1600/attack-talk.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64jRKLqi9-c5fwxRIgUOuYe8fcW2NWoeEfMBoi9oBOrVRu1CW6TXPBuAL3VPIKoQMX4EeeKtPt0wzGFExXyCm3rGmXRYzfWsFSp1JDpxZ82neNjqGELR9s2ViKaVzhk2taHFfQNGiIYC9JyhaOd8c4DLKmUZt_SleyWwtCwi2ffFpFI6SIFq3h7pni3NZ/s1600/attack-talk.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosure vulnerability that leaks the installation path of the application under certain conditions",
@@ -20428,134 +20524,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSnIflppBRH5X_FxN5pZcibA3-KyhW9iDiNGlD76L9B8dFwzLtP5i7FHFzf73XpTAhCLtmQn0JD_fUqgXceUlrCwPgJqbmlkPXi2e_IDggrIHDyJ5HoDzr191LxAbe08arokXZ4FXH5k9NxErepVgiaEkGVfWDWQ2ZWJ8h3mGjySQ-QqTzo02oBdh01Up/s1600/vmware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSnIflppBRH5X_FxN5pZcibA3-KyhW9iDiNGlD76L9B8dFwzLtP5i7FHFzf73XpTAhCLtmQn0JD_fUqgXceUlrCwPgJqbmlkPXi2e_IDggrIHDyJ5HoDzr191LxAbe08arokXZ4FXH5k9NxErepVgiaEkGVfWDWQ2ZWJ8h3mGjySQ-QqTzo02oBdh01Up/s1600/vmware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack.\nThe intrusions, identified by Huntress last month across five partner organizations, involved the threat actors using email spam as lures, followed by a phone call from",
-          "link": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
-          "publishedOn": "2026-03-03T17:15:00.000Z",
-          "wordCount": null,
-          "title": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMxXTslXwVQy4UDmwQOi39oPLz0gBjk3E_mUL0hONp_uAbe2mkCooBcTU3zE6nArVycOldRPm5jMHfzTAI_plrX1jvn5o8zmSGKTH794N2tpztPyTLW-TBZqfHaa4nbHLMY2LHhW0l1J4wzmg8lCRXOFWdAQSSn1Qb4iR8PIeRUE9K1NvpCtluT69-y7By/s1600/outlook.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMxXTslXwVQy4UDmwQOi39oPLz0gBjk3E_mUL0hONp_uAbe2mkCooBcTU3zE6nArVycOldRPm5jMHfzTAI_plrX1jvn5o8zmSGKTH794N2tpztPyTLW-TBZqfHaa4nbHLMY2LHhW0l1J4wzmg8lCRXOFWdAQSSn1Qb4iR8PIeRUE9K1NvpCtluT69-y7By/s1600/outlook.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:",
-          "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
-          "publishedOn": "2026-03-03T14:30:00.000Z",
-          "wordCount": null,
-          "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYwVezgvocYpgSVlObttlWWj69Wzly716Z1gfPOUjTsEL1TqBXiWSSexSIR2o96ji1cbMuxtxZVETQ7oN6klFQ2do3WCjhmiVLt1BXlMekcMlJSGxTD6XffjEZRWsc3q8eo0HmRc1IV8p777ZLFW4wOXPsDNaCetHqmCkMLILYOAsmDgSaVwerAUtS0A/s1600/tier1.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYwVezgvocYpgSVlObttlWWj69Wzly716Z1gfPOUjTsEL1TqBXiWSSexSIR2o96ji1cbMuxtxZVETQ7oN6klFQ2do3WCjhmiVLt1BXlMekcMlJSGxTD6XffjEZRWsc3q8eo0HmRc1IV8p777ZLFW4wOXPsDNaCetHqmCkMLILYOAsmDgSaVwerAUtS0A/s1600/tier1.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.\nThe new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected",
-          "link": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
-          "publishedOn": "2026-03-03T14:29:00.000Z",
-          "wordCount": null,
-          "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Rise of MCPs in the Enterprise\nThe Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from “chat” into real work. By providing structured access to applications, APIs, and data, MCP enables prompt-driven AI agents that can retrieve information, take action, and automate end-to-end business workflows across the enterprise. This is already showing up in production",
-          "link": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
-          "publishedOn": "2026-03-03T11:30:00.000Z",
-          "wordCount": null,
-          "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy66jCAP3njemOp9S0dnoRSikwWIk-OjV_6kygA0ubIpsczO3IWQf7SD3hcvCzRrDtiL6_2jOk3fWy2YtEWMwEyCmvzhw6QReN8cvfOlYuiXP4VzgeV_PaFRsylxXhR7akoqfkgxsD_oiNXSAabskwOrDoIJMSsAgr0VZO2UW-4odf7eAjioV1KX7mn3w/s1600/ormain.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy66jCAP3njemOp9S0dnoRSikwWIk-OjV_6kygA0ubIpsczO3IWQf7SD3hcvCzRrDtiL6_2jOk3fWy2YtEWMwEyCmvzhw6QReN8cvfOlYuiXP4VzgeV_PaFRsylxXhR7akoqfkgxsD_oiNXSAabskwOrDoIJMSsAgr0VZO2UW-4odf7eAjioV1KX7mn3w/s1600/ormain.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.\nIt's advertised as a cybercrime platform by a threat group calling itself Jinkusu, granting customers access to a dashboard that lets them select a brand to impersonate or enter a brand's real URL. It also lets",
-          "link": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
-          "publishedOn": "2026-03-03T11:10:00.000Z",
-          "wordCount": null,
-          "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdnsC4miBmpXK8ZPV1kM1figMIfiqkQpUeAt8idIiZEFRCNt6AMaFSmpUaR215Hrw-XIGi6Zcl9vOgGO5ItB53gWlN_r8UxGz_yTrPTk9bFgCUudYbq2jETdm526DpMDaPyT8UFt7m5XUwlrYdJmUDyEmoQO6zcnGvUB4_W0mBiHJtWFqJk7udXMelfSu/s1600/star.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdnsC4miBmpXK8ZPV1kM1figMIfiqkQpUeAt8idIiZEFRCNt6AMaFSmpUaR215Hrw-XIGi6Zcl9vOgGO5ItB53gWlN_r8UxGz_yTrPTk9bFgCUudYbq2jETdm526DpMDaPyT8UFt7m5XUwlrYdJmUDyEmoQO6zcnGvUB4_W0mBiHJtWFqJk7udXMelfSu/s1600/star.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.\nThe activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described",
-          "link": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
-          "publishedOn": "2026-03-03T09:20:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaGXK9F-m4oJx6H9HD0gQaOmONLT8sEFgtKmoGO4k6MzjQY-bfbtoGrUcG2k7tH571M_K6Ej7P5Z5vtjuCYsrKU3tRpOE2fkZv_ViiEmjpUeYwwHTB_8oKlQZd2-VysqvPgdvaofwFi13iPjMSe1pjf0nudP2s4YvheFQHwvsQT8neGjKTPq7nA_PPn0x/s1600/ms-login.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaGXK9F-m4oJx6H9HD0gQaOmONLT8sEFgtKmoGO4k6MzjQY-bfbtoGrUcG2k7tH571M_K6Ej7P5Z5vtjuCYsrKU3tRpOE2fkZv_ViiEmjpUeYwwHTB_8oKlQZd2-VysqvPgdvaofwFi13iPjMSe1pjf0nudP2s4YvheFQHwvsQT8neGjKTPq7nA_PPn0x/s1600/ms-login.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
-          "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
-          "publishedOn": "2026-03-03T07:08:00.000Z",
-          "wordCount": null,
-          "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_pPCmiYZpBkIhumuW9B55rXBX7U9PZto5xPxHsLBbx5EstbqXgUI-XLZkQQV8OCsdaOi5RuSapl0V4LPKX9B_8MDBqSteyX83vXpj7G8-87BBhyphenhyphen75Os_0RhTFWBL_yxr7JVwXXtZ-qdbbugAlw9MoC5mFEx0hfQMncgnDRR8tLlEMXsLiPmim2sTjzNO/s1600/android-exploit.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_pPCmiYZpBkIhumuW9B55rXBX7U9PZto5xPxHsLBbx5EstbqXgUI-XLZkQQV8OCsdaOi5RuSapl0V4LPKX9B_8MDBqSteyX83vXpj7G8-87BBhyphenhyphen75Os_0RhTFWBL_yxr7JVwXXtZ-qdbbugAlw9MoC5mFEx0hfQMncgnDRR8tLlEMXsLiPmim2sTjzNO/s1600/android-exploit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh.\nThe activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based",
-          "link": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
-          "publishedOn": "2026-03-03T06:53:00.000Z",
-          "wordCount": null,
-          "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg"
         }
       ]
     },
@@ -20564,6 +20532,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=387108",
+          "author": "John Law",
+          "description": "Earlier today, Xiaomi gave us a tour, or rather, a preview of its new Smart Home product line up. The majority of products on display were already on sale, save for one or two being relatively new. Greeting the group first is the kitchen area, where Xiaomi had its entire appliance section lined up. An […]\nThe post Photo Essay: Xiaomi Smart Home Showcase appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387108/photo-essay-xiaomi-smart-home-showcase/",
+          "publishedOn": "2026-03-18T08:29:39.000Z",
+          "wordCount": 12485,
+          "title": "Photo Essay: Xiaomi Smart Home Showcase",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Xiaomi-Smart-Home-Showcase-2026-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=387126",
+          "author": "Heirul Kamel",
+          "description": "The Omoda C9 PHEV has officially launched in Malaysia, arriving roughly eight months after its initial local preview. The model makes its market debut as a fully imported (CBU) unit, limited to just 50 units, before transitioning to locally assembled (CKD) production that is already underway in Shah Alam. The C9 PHEV adopts a version […]\nThe post Omoda C9 PHEV Launches In Malaysia; Priced At RM208,800 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387126/omoda-c9-phev-launches-in-malaysia/",
+          "publishedOn": "2026-03-18T08:15:02.000Z",
+          "wordCount": 13150,
+          "title": "Omoda C9 PHEV Launches In Malaysia; Priced At RM208,800",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/omoda-c9-phev-launch-malaysia-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=387118",
+          "author": "Kiran Ganesan",
+          "description": "In preparation for the upcoming World Cup 2026, FIFA has announced a partnership with YouTube to expand the tournament’s reach. In a joint statement released yesterday, the two revealed that YouTube has been designated as FIFA’s “Preferred Platform” for video content, similar to the organisation’s earlier move with TikTok. Much like that deal, fans will […]\nThe post FIFA Joins Forces With YouTube For World Cup 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387118/fifa-youtube-world-cup-2026/",
+          "publishedOn": "2026-03-18T08:02:13.000Z",
+          "wordCount": 12043,
+          "title": "FIFA Joins Forces With YouTube For World Cup 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/FIFA-Joins-Forces-With-YouTube-For-World-Cup-2026-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=387099",
+          "author": "Ian Chee",
+          "description": "Back in December of last year, CelcomDigi added Prime Video to its StreamMORE lineup. Today, the telco announced a new addition to the service in the form of sooka. Now both prepaid and postpaid customers of the telco can get access to the streaming service as an add-on. In conjunction with the launch, CelcomDigi is throwing […]\nThe post CelcomDigi Now Has sooka As Part Of Its StreamMORE Service appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387099/celcomdigi-sooka-part-of-streammore-service/",
+          "publishedOn": "2026-03-18T07:57:10.000Z",
+          "wordCount": 12183,
+          "title": "CelcomDigi Now Has sooka As Part Of Its StreamMORE Service",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/CelcomDigi-sooka.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=387104",
+          "author": "Kiran Ganesan",
+          "description": "We’ve discussed at length how the Galaxy S26 Ultra doesn’t offer much compared to the Galaxy S25 Ultra, aside from the new Privacy Display feature. To quickly bring you up to speed, the feature is essentially a built-in privacy screen protector that limits viewing angles from prying eyes. However, recent reports suggest that this new […]\nThe post Samsung Galaxy S26 Ultra Users Report Eye Strain, Headaches Over Display Issue appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387104/samsung-galaxy-s26-ultra-users-display-issue/",
+          "publishedOn": "2026-03-18T06:23:53.000Z",
+          "wordCount": 13023,
+          "title": "Samsung Galaxy S26 Ultra Users Report Eye Strain, Headaches Over Display Issue",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Ultra-Privacy-Display-3-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=387077",
+          "author": "Nurul Kamil",
+          "description": "YTL AI Labs is working to further the country’s sovereign AI ambitions. Recently, the YTL Power International Berhad subsidiary has partnered with NVIDIA to develop a new model using the latter’s Nemotron open models. Dubbed ILMU-Nemo-30B, it is the latest addition to the growing suite of AI models built by Malaysians. ILMU-Nemo-30B is an agentic […]\nThe post YTL AI Labs, NVIDIA Partner For New AI Model To Boost Malaysia’s Sovereign AI Capabilities appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387077/ytl-ai-labs-nvidia-ai-model/",
+          "publishedOn": "2026-03-18T04:41:30.000Z",
+          "wordCount": 12294,
+          "title": "YTL AI Labs, NVIDIA Partner For New AI Model To Boost Malaysia’s Sovereign AI Capabilities",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/ytl-ai-labs-nvidia-ilmu-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=387064",
+          "author": "Ian Chee",
+          "description": "Xiaomi subsidiary POCO said last week that it will be launching the X8 series of phones. As promised, the POCO X8 series is now official, with two Pro models and an Ultra. Of the two Pro models, one is the, well, standard variant of it, while the other comes with a fancy Iron Man skin […]\nThe post POCO X8 Pro, Pro Max Now Official In Malaysia; Starts From RM1,499 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387064/poco-x8-pro-pro-max-official-malaysia-from-rm1499/",
+          "publishedOn": "2026-03-18T04:35:51.000Z",
+          "wordCount": 12291,
+          "title": "POCO X8 Pro, Pro Max Now Official In Malaysia; Starts From RM1,499",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/POCO-X8-Pro-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=387047",
+          "author": "Heirul Kamel",
+          "description": "NVIDIA CEO Jensen Huang isn’t backing down from the criticism surrounding DLSS 5, the company’s latest push into AI-driven neural rendering. Speaking during a press Q&A at GTC 2026, Huang dismissed the backlash outright, insisting that those criticising the technology simply have it wrong. “Well, first of all, they’re completely wrong,” he said, addressing complaints […]\nThe post Jensen Huang Defends DLSS 5, Says Critics Are “Completely Wrong” appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387047/nvidia-jensen-huang-doubles-down-on-dlss-5/",
+          "publishedOn": "2026-03-18T03:28:23.000Z",
+          "wordCount": 12720,
+          "title": "Jensen Huang Defends DLSS 5, Says Critics Are “Completely Wrong”",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/NVIDIA-DLSS-5-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=387033",
+          "author": "Newsdesk",
+          "description": "During this blessed month, where every act of kindness carries a deeper meaning, the spirit of giving takes centre stage. Inspired by the values of compassion and the importance of sharing rezeki (blessings), AEON Bank brings this ethos to life through its Ramadan and Syawal campaign, “Niat di Hati, Budi Terpateri”. The campaign is built […]\nThe post A Better Banking Experience with AEON Bank This Ramadan and Syawal appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387033/a-better-banking-experience-with-aeon-bank-this-ramadan-and-syawal/",
+          "publishedOn": "2026-03-18T03:15:48.000Z",
+          "wordCount": 13826,
+          "title": "A Better Banking Experience with AEON Bank This Ramadan and Syawal",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/A-Better-Banking-Experience-with-AEON-Bank-This-Ramadan-and-Syawal-KV-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=387027",
+          "author": "Heirul Kamel",
+          "description": "Prime Minister Anwar Ibrahim has announced a 50% discount on highway toll charges nationwide in conjunction with the upcoming Hari Raya Aidilfitri celebrations. The move follows similar initiatives introduced by the government during major festive periods. The toll discount takes effect from 12.01am on 18 March and will run until 11.59pm on 19 March. It […]\nThe post PM Announces 50% Toll Discount For Hari Raya Aidilfitri 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/387027/pm-announces-toll-discount-hari-raya-2026/",
+          "publishedOn": "2026-03-18T02:06:21.000Z",
+          "wordCount": 12215,
+          "title": "PM Announces 50% Toll Discount For Hari Raya Aidilfitri 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/03/npe-toll-01a.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=386931",
           "author": "Ian Chee",
@@ -21773,106 +21841,6 @@
           "wordCount": 10612,
           "title": "Licensed Taxi Drivers In Klang Valley Can Now Operate On Bolt",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/bolt-licensed-taxi-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384996",
-          "author": "Kiran Ganesan",
-          "description": "MSI has announced that it is collaborating with Blizzard Entertainment to create limited-edition World of Warcraft: Midnight GeForce RTX 5070 graphics cards. As the name suggests, MSI designed the new product to coincide with the upcoming expansion pack, which will launch later this month. Typically, these special-edition cards offer little beyond a redesigned exterior. These […]\nThe post MSI Unveils Two World of Warcraft: Midnight-Themed GeForce RTX 5070 GPUs appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384996/msi-unveils-two-world-of-warcraft-midnight-themed-geforce-rtx-5070-gpus/",
-          "publishedOn": "2026-03-03T08:41:54.000Z",
-          "wordCount": 10919,
-          "title": "MSI Unveils Two World of Warcraft: Midnight-Themed GeForce RTX 5070 GPUs",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/MSI-Unveils-Two-World-of-Warcraft-Themed-GPUs-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384995",
-          "author": "Nurul Kamil",
-          "description": "MWC 2026 is in full swing, and Tecno is among the companies putting gadgets on display. While some of the new items showcased at the event are products launching on the global stage, others are prototypes with unconventional designs. The Tecno Pova Neon falls in the latter category. Visually, the handset resembles any other model […]\nThe post The Tecno Pova Neon Packs Lightning In Its Back Panel appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384995/tecno-pova-neon/",
-          "publishedOn": "2026-03-03T08:27:00.000Z",
-          "wordCount": 10679,
-          "title": "The Tecno Pova Neon Packs Lightning In Its Back Panel",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/tecno-pova-neon-ai-eink-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384984",
-          "author": "Ian Chee",
-          "description": "Two years ago, cashback and rewards platform ShopBack ended support for its Buy Now Pay Later scheme. Now, the company is also ending support for it being used as a payment method. In a recent troubleshooting help page, the company announced that ShopBack Pay will no longer be available in Malaysia. This takes effect on […]\nThe post ShopBack Pay To Get Discontinued In Malaysia From 25 March appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384984/shopback-pay-discontinued-malaysia-25-march/",
-          "publishedOn": "2026-03-03T08:20:08.000Z",
-          "wordCount": 10535,
-          "title": "ShopBack Pay To Get Discontinued In Malaysia From 25 March",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/ShopBack.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384993",
-          "author": "John Law",
-          "description": "Boost Bank is announcing that it has partnered up with Great Eastern General Insurance. In celebration of the new partnership, the two companies are now offering customers and Malaysians a new Protect Jar insurance coverage. “Boost Bank has partnered with Great Eastern to provide trusted and affordable insurance protection directly to you. Through this partnership, […]\nThe post Boost Bank Partners With Great Eastern General Insurance; Offers New Protect Jar With 3.3% P.A. Interest appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384993/boost-bank-partners-with-great-eastern-general-insurance-offers-new-protect-jar-with-3-3-p-a-interest/",
-          "publishedOn": "2026-03-03T08:02:42.000Z",
-          "wordCount": 10658,
-          "title": "Boost Bank Partners With Great Eastern General Insurance; Offers New Protect Jar With 3.3% P.A. Interest",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Boost-Bank-Great-Eastern-General-Insurance-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384966",
-          "author": "John Law",
-          "description": "Lenovo is denying that it ever said that the first generation Legion Go gaming handheld will no longer receive support in the form of driver and BIOS updates. The response comes after a post from its Korea-based customer service message was circulated on Korean forums and Reddit, stating that the PC brand would shift its […]\nThe post Lenovo Denies That It Ended Driver And BIOS Support For Legion Go appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384966/lenovo-denies-that-it-ended-driver-and-bios-support-for-legion-go/",
-          "publishedOn": "2026-03-03T07:32:17.000Z",
-          "wordCount": 10836,
-          "title": "Lenovo Denies That It Ended Driver And BIOS Support For Legion Go",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/11/Lenovo-Legion-Go-9.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384968",
-          "author": "Heirul Kamel",
-          "description": "Honda Malaysia has officially launched not one, but two new hybrid variants of its 6th generation CR-V model. The SUV now comes in a e:HEV E and the flagship e:HEV RS trim (shown above), and marks the first time two hybrid versions are available within a single line-up for the local market. Honda says the […]\nThe post Honda Malaysia Launches New CR-V e:HEV Variants; Starts From RM178,200 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384968/honda-malaysia-new-cr-v-ehev-variants/",
-          "publishedOn": "2026-03-03T07:21:27.000Z",
-          "wordCount": 11015,
-          "title": "Honda Malaysia Launches New CR-V e:HEV Variants; Starts From RM178,200",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/2026-honda-cr-v-ehev-rs-e-malaysia-launch-9.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384949",
-          "author": "Nurul Kamil",
-          "description": "Back in 2024, Grab launched Group Rides in select regions. Now, the ride hailing platform has brought the feature to Malaysia. As the name says, the feature allows multiple passengers to seamlessly share a single ride. With this new functionality, users can coordinate trips directly within the app. Naturally, a host must first initiate the […]\nThe post Grab Introduces Group Ride Feature In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384949/grab-group-ride-malaysia/",
-          "publishedOn": "2026-03-03T05:56:28.000Z",
-          "wordCount": 10923,
-          "title": "Grab Introduces Group Ride Feature In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/grab-logo-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384935",
-          "author": "Kiran Ganesan",
-          "description": "vivo has finally unveiled its latest flagship, the X300 Ultra, at MWC 2026. The company previously claimed that the device would represent its “most advanced exploration to date in mobile imaging and videography,” and it delivered with a 200MP 1/1.4-inch telephoto sensor and a 400mm ZEISS telephoto extender lens. Unfortunately, at the time of writing, […]\nThe post vivo Unveils X300 Ultra, 400mm Telephoto Extender Lens At MWC 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384935/vivo-unveils-x300-ultra-400mm-telephoto-extender-lens-at-mwc-2026/",
-          "publishedOn": "2026-03-03T05:10:59.000Z",
-          "wordCount": 11454,
-          "title": "vivo Unveils X300 Ultra, 400mm Telephoto Extender Lens At MWC 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/vivo-Unveils-X300-Ultra-400mm-Telephoto-Extender-Lens-At-MWC-2026-extended.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384930",
-          "author": "Ian Chee",
-          "description": "Last week, TM announced that it’s signing a three-year 5G wholesale agreement with U Mobile. This means using the orange telco’s 5G Multi-Operator Core Network (MOCN). At the same time, this also means dropping its contract with DNB in the process. More recently, DNB has said that it has rejected TM’s notice to terminate the […]\nThe post DNB Rejects TM Contract Termination, Says Agreement Still Valid appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384930/dnb-rejects-tm-contract-termination-says-still-valid/",
-          "publishedOn": "2026-03-03T04:51:59.000Z",
-          "wordCount": 10925,
-          "title": "DNB Rejects TM Contract Termination, Says Agreement Still Valid",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2022/08/dnb-5g-u-mobile-maxis.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=384925",
-          "author": "Ian Chee",
-          "description": "The Soundcore sub-brand of Anker has released over-ear headphones before, but they are few compared to its wireless earbuds. If you’re a fan of the former, then there’s good news. As part of its MWC 2026 showcase, the company announced the Anker Soundcore Space 2. GizmoChina reports that these headphones make use of 40mm double-layer […]\nThe post Anker Launches Soundcore Space 2 Headphones; Available Globally On 21 April appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/384925/anker-soundcore-space-2-headphones-21-april/",
-          "publishedOn": "2026-03-03T03:37:54.000Z",
-          "wordCount": 10560,
-          "title": "Anker Launches Soundcore Space 2 Headphones; Available Globally On 21 April",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Anker-Soundcore-Space-2.jpg"
         }
       ]
     },
@@ -21881,6 +21849,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in",
+          "author": "Jai Vijayan",
+          "description": "Credential theft soared in the second half of 2025, thanks in part to the industrialization of infostealer malware and AI-enabled social engineering.",
+          "link": "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in",
+          "publishedOn": "2026-03-17T22:04:46.000Z",
+          "wordCount": null,
+          "title": "More Attackers Are Logging In, Not Breaking In",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods",
+          "author": "Alexander Culafi",
+          "description": "Ransomware actors are ditching Cobalt Strike in favor of native Windows tools, as payment rates hit record lows and data theft surges.",
+          "link": "https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods",
+          "publishedOn": "2026-03-17T21:41:12.000Z",
+          "wordCount": null,
+          "title": "Less Lucrative Ransomware Market Makes Attackers Alter Methods",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish",
+          "author": "Jai Vijayan",
+          "description": "In an unsuccessful phishing attack, threat actors leveraged trusted brands and domains to try to redirect a C-suite executive at Outpost24 to give up his credentials.",
+          "link": "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish",
+          "publishedOn": "2026-03-17T19:41:24.000Z",
+          "wordCount": null,
+          "title": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities",
+          "author": "Elizabeth Montalbano",
+          "description": "In a recent attack, the group showcased stealthier cross-network activity, thanks to its use of a new BYOVD technique and other tools.",
+          "link": "https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities",
+          "publishedOn": "2026-03-17T15:36:52.000Z",
+          "wordCount": null,
+          "title": "Warlock Ransomware Group Augments Post-Exploitation Activities",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
           "author": "Rob Wright",
@@ -22329,76 +22337,6 @@
           "publishedOn": "2026-03-03T22:24:22.000Z",
           "wordCount": null,
           "title": "Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking",
-          "author": "Jai Vijayan",
-          "description": "Like many other features and systems in modern cars, tire pressure sensors leak sensitive data that can be abused by threat actors.",
-          "link": "https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking",
-          "publishedOn": "2026-03-03T20:53:39.000Z",
-          "wordCount": null,
-          "title": "Vehicle Tire Pressure Sensors Enable Silent Tracking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks",
-          "author": "Alexander Culafi",
-          "description": "The exploitation activity against CVE-2026-21385, a high-severity memory corruption flaw, could be tied to commercial spyware or nation-state threat groups.",
-          "link": "https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks",
-          "publishedOn": "2026-03-03T20:28:05.000Z",
-          "wordCount": null,
-          "title": "Qualcomm Zero-Day Exploited in Targeted Android Attacks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail",
-          "author": "Or Eshed",
-          "description": "Lessons from history highlight why AI-enabled browsers require controlled enablement.",
-          "link": "https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail",
-          "publishedOn": "2026-03-03T17:40:21.000Z",
-          "wordCount": null,
-          "title": "Speakeasies to Shadow AI: Banning AI Browsers Will Fail",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis",
-          "author": "Alexander Culafi",
-          "description": "Workloads keep getting more complicated and organizations are struggling to keep up. So what's the play?",
-          "link": "https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis",
-          "publishedOn": "2026-03-03T12:57:19.000Z",
-          "wordCount": null,
-          "title": "AI Agent Overload: How to Solve the Workload Identity Crisis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks",
-          "author": "Elizabeth Montalbano",
-          "description": "Iran and its supporters have taken to cyberspace to retaliate for US-Israeli military action, with an aim to cause economic and physical disruption.",
-          "link": "https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks",
-          "publishedOn": "2026-03-03T11:30:31.000Z",
-          "wordCount": null,
-          "title": "As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
-          "author": "Jai Vijayan",
-          "description": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
-          "link": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
-          "publishedOn": "2026-03-02T22:34:36.000Z",
-          "wordCount": null,
-          "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
-          "author": "Arielle Waldman",
-          "description": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
-          "link": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
-          "publishedOn": "2026-03-02T21:32:04.000Z",
-          "wordCount": null,
-          "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
           "imageUrl": null
         }
       ]
