@@ -2,10 +2,117 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-03-20T08:53:02.655Z</updated>
+    <updated>2026-03-21T08:44:06.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages]]></title>
+        <id>https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html</id>
+        <link href="https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html"/>
+        <updated>2026-03-21T07:28:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm.
+The name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw"/>
+        <updated>2026-03-20T19:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the Web.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets]]></title>
+        <id>https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html</id>
+        <link href="https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html"/>
+        <updated>2026-03-20T17:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.
+The latest incident impacted GitHub Actions "aquasecurity/trivy-action" and "aquasecurity/setup-trivy," which are used to scan Docker container images for vulnerabilities and set up GitHub Actions workflow]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber OpSec Fail: Beast Gang Exposes Ransomware Server]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server</id>
+        <link href="https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server"/>
+        <updated>2026-03-20T16:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Files on a central cloud server used by the ransomware group highlight a systematic, aggressive attack on network backups as a key TTP.]]></summary>
+        <author>
+            <name>Robert Lemos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure]]></title>
+        <id>https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html</id>
+        <link href="https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html"/>
+        <updated>2026-03-20T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabilities.
+The security defect, tracked as CVE-2026-33017 (CVSS score: 9.3), is a case of missing authentication combined with code injection that could result in remote code execution.
+"The POST /api/v1]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interlock Ransomware Targets Cisco Enterprise Firewalls]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls</id>
+        <link href="https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls"/>
+        <updated>2026-03-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ransomware gang, known for double-extortion attacks, had access to a critical Cisco firewall vulnerability weeks before it was publicly disclosed.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Spring Sale 2026 Ongoing; Here Are Some Suggestions]]></title>
+        <id>https://www.lowyat.net/?p=387309</id>
+        <link href="https://www.lowyat.net/2026/387309/steam-spring-sale-2026/"/>
+        <updated>2026-03-20T10:58:24.000Z</updated>
+        <summary type="html"><![CDATA[It’s just past Chinese New Year, which is about time for another Steam Spring Sale to happen. It’s scheduled to keep going until 26 March at 10AM PT, or 1AM of 27 March for us in Malaysia. Overall, a pretty short duration of only a week, but as before, there are some steep discounts. As […]
+The post Steam Spring Sale 2026 Ongoing; Here Are Some Suggestions appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams]]></title>
+        <id>https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html</id>
+        <link href="https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html"/>
+        <updated>2026-03-20T10:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Thursday announced a new "advanced flow" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers in an attempt to balance openness with safety.
+The new changes come against the backdrop of a developer verification mandate the tech giant announced last year that requires all Android apps to be registered by verified developers to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html</id>
+        <link href="https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html"/>
+        <updated>2026-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI to generate personalized phishing emails, deepfakes and malware that evade traditional detection by impersonating normal user activity and bypassing legacy security models. As a result,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover]]></title>
+        <id>https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html</id>
+        <link href="https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html"/>
+        <updated>2026-03-20T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover.
+The vulnerability has been codenamed PolyShell by Sansec owing to the fact that the attack hinges on disguising malicious code as an image. There is no evidence that the shortcoming has been exploited in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubisoft To Cease Development At Red Storm Entertainment, Layoff More Than 100 Staff]]></title>
         <id>https://www.lowyat.net/?p=387304</id>
@@ -59,6 +166,16 @@ The post OPPO Find X9s, Find X9 Ultra Secure SIRIM Certification; Local Launch A
         <summary type="html"><![CDATA[MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says at RSAC 2026 Conference.]]></summary>
         <author>
             <name>Jai Vijayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With Government's Role Uncertain, Businesses Unite to Combat Fraud]]></title>
+        <id>https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud</id>
+        <link href="https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud"/>
+        <updated>2026-03-19T20:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Major industry leaders agree to share information and collaborate to boost defenses in the wake of distressing online scams.]]></summary>
+        <author>
+            <name>Arielle Waldman</name>
         </author>
     </entry>
     <entry>
@@ -2465,311 +2582,6 @@ The post Account Lockouts: Maybank Says Challenge Questions Triggered By Fraud M
 The post CelcomDigi, Maxis Pay RM327.8 Million Each To Acquire DNB Shares From MOF Inc appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cylake Offers AI-Native Security Without Relying on Cloud Services]]></title>
-        <id>https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services</id>
-        <link href="https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services"/>
-        <updated>2026-03-06T19:04:36.000Z</updated>
-        <summary type="html"><![CDATA[Cylake's platform will analyze security data locally and identify potential attacks for organizations concerned about data sovereignty.]]></summary>
-        <author>
-            <name>Dark Reading Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean APTs Use AI to Enhance IT Worker Scams]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams</id>
-        <link href="https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams"/>
-        <updated>2026-03-06T17:49:02.000Z</updated>
-        <summary type="html"><![CDATA[DPRK worker scams are old hat, but they're still working, thanks to AI tools that help with everything from face swapping to daily emails.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India]]></title>
-        <id>https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html</id>
-        <link href="https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html"/>
-        <updated>2026-03-06T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various implants.
-The activity is designed to produce a "high-volume, mediocre mass of implants" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU Auto Rules Shift Gears on Cybersecurity Standards]]></title>
-        <id>https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards</id>
-        <link href="https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards"/>
-        <updated>2026-03-06T15:05:55.000Z</updated>
-        <summary type="html"><![CDATA[The European Union is taking new precautions as climate change and cybersecurity threats rise across the automotive industry.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT]]></title>
-        <id>https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html</id>
-        <link href="https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html"/>
-        <updated>2026-03-06T14:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWorm, AsyncRAT, and Xeno RAT.
-The stealthy attack chain has been codenamed VOID#GEIST by Securonix Threat Research.
-At a high level, the obfuscated batch script is used to deploy a second]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran's Cyber-Kinetic War Doctrine Takes Shape]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine</id>
-        <link href="https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine"/>
-        <updated>2026-03-06T14:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Iran has been hacking IP cameras to plan missile strikes against its enemies, and mounting other attacks on physical assets, showing how cyber and kinetic warfare are fast becoming one in the same.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattack on Mexico's Gov't Agencies Highlight AI Threat]]></title>
-        <id>https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat</id>
-        <link href="https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat"/>
-        <updated>2026-03-06T13:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Using Anthropic's Claude, OpenAI's ChatGPT, and a detailed playbook prompt, a handful of cyberattackers reportedly gained access to government agencies and its citizens' data.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MACC Helps Shut Down LeakBase Cybercrime Forum In Global Crackdown]]></title>
-        <id>https://www.lowyat.net/?p=385618</id>
-        <link href="https://www.lowyat.net/2026/385618/macc-helps-shut-down-leakbase-cybercrime-forum-in-global-crackdown/"/>
-        <updated>2026-03-06T10:54:35.000Z</updated>
-        <summary type="html"><![CDATA[The Malaysian Anti-Corruption Commission (MACC, or SPRM) says it has seized digital evidence and helped shut down a domain linked to the LeakBase cybercrime forum as part of a coordinated international enforcement operation. The platform, active since 2021, functioned as a marketplace for stolen data and tools commonly used in hacking activities. The commission said […]
-The post MACC Helps Shut Down LeakBase Cybercrime Forum In Global Crackdown appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity]]></title>
-        <id>https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html</id>
-        <link href="https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html"/>
-        <updated>2026-03-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.
-Risk-based cybersecurity is the foundation of that model. When done right, it builds client trust, increases upsell opportunities, and drives recurring revenue. But to deliver this consistently and efficiently, you need the right technology and processes.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnePlus Teases 15T Specs; Features 7,500mAh Battery]]></title>
-        <id>https://www.lowyat.net/?p=385584</id>
-        <link href="https://www.lowyat.net/2026/385584/oneplus-teases-15t-specs-features-7500mah-battery/"/>
-        <updated>2026-03-06T10:28:29.000Z</updated>
-        <summary type="html"><![CDATA[Outside of its supposed shutdown, we haven’t heard much from OnePlus recently. However, that doesn’t mean the company has been lying dormant; if anything, the opposite is true. We say this because the company has been teasing its newest smartphone, the OnePlus 15T. Although the phone will not be released anytime soon, sources have revealed […]
-The post OnePlus Teases 15T Specs; Features 7,500mAh Battery appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor]]></title>
-        <id>https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html</id>
-        <link href="https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"/>
-        <updated>2026-03-06T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airports, non-profit, and the Israeli arm of a software company.
-The activity has been attributed to a state-sponsored hacking group called MuddyWater (aka Seedworm). It's affiliated with the Iranian]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Intel Core Ultra X9 378H Could Be In The Works]]></title>
-        <id>https://www.lowyat.net/?p=385587</id>
-        <link href="https://www.lowyat.net/2026/385587/intel-core-ultra-x9-378h-rumour/"/>
-        <updated>2026-03-06T10:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Intel has reportedly updated its mobile CPU roadmap with two additional SKUs. Specifically, it is adding a Core Ultra X9 378H and a Core 3 304, the latter being for the unreleased Wildcat Lake. According to information obtained by Videocardz, the Core Ultra X9 378H will also be a 16-core processor, comprising a four P-Cores, […]
-The post An Intel Core Ultra X9 378H Could Be In The Works appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi Shows Off Physical Concept Of Vision Gran Turismo]]></title>
-        <id>https://www.lowyat.net/?p=385556</id>
-        <link href="https://www.lowyat.net/2026/385556/xiaomi-shows-off-physical-concept-vision-gran-turismo/"/>
-        <updated>2026-03-06T09:46:46.000Z</updated>
-        <summary type="html"><![CDATA[At the very tail end of last month, Xiaomi unveiled the Vision Gran Turismo. The car was revealed as a digital hypercar, and one that’s made specifically for the PlayStation-exclusive Gran Turismo 7. A few short days later, the company revealed a physical concept of its electric hypercar in Barcelona, as part of its MWC […]
-The post Xiaomi Shows Off Physical Concept Of Vision Gran Turismo appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgrading Works And Data Migration For NIISe To Take Place From 9 To 15 March 2026]]></title>
-        <id>https://www.lowyat.net/?p=385581</id>
-        <link href="https://www.lowyat.net/2026/385581/upgrading-works-data-migration-niise/"/>
-        <updated>2026-03-06T09:15:26.000Z</updated>
-        <summary type="html"><![CDATA[The Home Ministry has announced that it will be upgrading the National Immigration Integrated System (NIISe) throughout next week. To be more specific, NIISe will be undergoing maintenance from 9 to 15 March 2026. In a statement, the ministry explained that in addition to the upgrades, it will be migrating data from the existing immigration […]
-The post Upgrading Works And Data Migration For NIISe To Take Place From 9 To 15 March 2026 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unifi TV Now Malaysia’s Exclusive Home For HBO Channels]]></title>
-        <id>https://www.lowyat.net/?p=385575</id>
-        <link href="https://www.lowyat.net/2026/385575/unifi-tv-now-malaysias-exclusive-home-for-hbo-channels/"/>
-        <updated>2026-03-06T08:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Unifi TV has announced that it now holds the exclusive rights to distribute four premium HBO channels in Malaysia. The channels, HBO, HBO Hits, HBO Family and Cinemax, are available following a new agreement with Warner Bros. Discovery. The development follows the removal of the same channels from Astro Malaysia Holdings earlier this month, with […]
-The post Unifi TV Now Malaysia’s Exclusive Home For HBO Channels appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks]]></title>
-        <id>https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html</id>
-        <link href="https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html"/>
-        <updated>2026-03-06T08:22:00.000Z</updated>
-        <summary type="html"><![CDATA[A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge devices with three different implants.
-The activity is being tracked by Cisco Talos under the moniker UAT-9244, describing it as closely associated with another cluster known as FamousSparrow.
-It's worth]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grab Introduces An In-App Food Guide Called 5-Star Eats]]></title>
-        <id>https://www.lowyat.net/?p=385565</id>
-        <link href="https://www.lowyat.net/2026/385565/grab-introduces-an-in-app-food-guide-called-5-star-eats/"/>
-        <updated>2026-03-06T08:14:09.000Z</updated>
-        <summary type="html"><![CDATA[As you may know, Grab has been gradually expanding its list of features in the past few months. Now, the company is introducing a brand-new function in the Grab app called 5-Star Eats. Unlike your conventional Grab selection, 5-Star Eats is an in-app food guide that, as per the official press release, “transforms authentic customer […]
-The post Grab Introduces An In-App Food Guide Called 5-Star Eats appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Launches Ryzen AI 400 And 400 PRO Series Desktop CPUs]]></title>
-        <id>https://www.lowyat.net/?p=385558</id>
-        <link href="https://www.lowyat.net/2026/385558/amd-launches-ryzen-ai-400-and-400-pro-series-desktop-cpus/"/>
-        <updated>2026-03-06T08:08:07.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this week at MWC 2026, AMD announced that it is expanding its portfolio with new Ryzen AI 400 Series and 400 PRO Series CPUs. The list includes a total of 12 models, divided into six for each series. With the Ryzen AI 400 Series, AMD is offering models with up to 8-cores, 16-threads, and […]
-The post AMD Launches Ryzen AI 400 And 400 PRO Series Desktop CPUs appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KTMB Launches KITS Style Prepaid Mastercard]]></title>
-        <id>https://www.lowyat.net/?p=385560</id>
-        <link href="https://www.lowyat.net/2026/385560/ktmb-launches-kits-style-prepaid-mastercard/"/>
-        <updated>2026-03-06T07:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Keretapi Tanah Melayu Berhad (KTMB) has officially introduced the KITS Style Prepaid Mastercard during a launch event at KL Sentral earlier this week. The co-branded card functions as a prepaid payment instrument designed for both public transport usage and everyday spending. Running on Mastercard’s global payment network, the card supports contactless “tap and go” transactions […]
-The post KTMB Launches KITS Style Prepaid Mastercard appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer]]></title>
-        <id>https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html</id>
-        <link href="https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html"/>
-        <updated>2026-03-06T06:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.
-The activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog]]></title>
-        <id>https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html</id>
-        <link href="https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html"/>
-        <updated>2026-03-06T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-The critical-severity vulnerabilities are listed below -
-
-CVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affecting]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CelcomDigi To Discontinue Celcom Life, MyDigi Apps On 1 April]]></title>
-        <id>https://www.lowyat.net/?p=385544</id>
-        <link href="https://www.lowyat.net/2026/385544/celcomdigi-discontinue-celcom-life-mydigi-apps-1-april/"/>
-        <updated>2026-03-06T06:09:15.000Z</updated>
-        <summary type="html"><![CDATA[It’s been awhile since the two halves of CelcomDigi got merged into a single entity, but the unified company launched a new app for customers of both halves late last year. Half a year later, the company is announcing that it will be retiring the two vestigial separate apps, Celcom Life and MyDigi. As such, […]
-The post CelcomDigi To Discontinue Celcom Life, MyDigi Apps On 1 April appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Supposedly Planning On Launching RTX 5050 9GB At Computex 2026]]></title>
-        <id>https://www.lowyat.net/?p=385533</id>
-        <link href="https://www.lowyat.net/2026/385533/nvidia-supposedly-planning-on-launching-rtx-5050-9gb-at-computex-2026/"/>
-        <updated>2026-03-06T05:43:26.000Z</updated>
-        <summary type="html"><![CDATA[The GeForce RTX 5050 made its debut back in July last year, and while we never got to review a unit, it’s now being rumoured that NVIDIA is planning to release a new version of the card with more graphics memory. And when we say “more”, we mean just one extra Gigabyte, bringing the total […]
-The post NVIDIA Supposedly Planning On Launching RTX 5050 9GB At Computex 2026 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Patent Shows Galaxy Z Flip Foldable With A Circular Outer Display]]></title>
-        <id>https://www.lowyat.net/?p=385539</id>
-        <link href="https://www.lowyat.net/2026/385539/samsung-patent-flip-foldable-circular-outer-display/"/>
-        <updated>2026-03-06T04:56:10.000Z</updated>
-        <summary type="html"><![CDATA[It looks like Samsung is experimenting with more designs for its foldable phones. A recently surfaced patent reveals a clamshell foldable not unlike the company’s existing Galaxy Z Flip range, but with a pretty distinct difference. The depicted device deviates from the current design in terms of the cover screen. Before getting into the details, […]
-The post Samsung Patent Shows Galaxy Z Flip Foldable With A Circular Outer Display appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox CEO Confirms Next-Gen Xbox Will Play PC Games; Codenamed Project Helix]]></title>
-        <id>https://www.lowyat.net/?p=385529</id>
-        <link href="https://www.lowyat.net/2026/385529/xbox-ceo-confirms-next-gen-xbox-play-pc-games-project-helix/"/>
-        <updated>2026-03-06T04:28:17.000Z</updated>
-        <summary type="html"><![CDATA[With the uncertainty of when the next-generation consoles are actually rolling around, Xbox has decided it should take the initiative by showing off a teaser. This comes in the form of what the Microsoft videogames division calls Project Helix. New Xbox CEO Asha Sharma also says that she will talk about it more next week […]
-The post Xbox CEO Confirms Next-Gen Xbox Will Play PC Games; Codenamed Project Helix appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp May Introduce Paid “Plus” Plan With More Customisation, Up To 20 Pinned Chats]]></title>
-        <id>https://www.lowyat.net/?p=385520</id>
-        <link href="https://www.lowyat.net/2026/385520/whatsapp-plus-plan/"/>
-        <updated>2026-03-06T02:11:09.000Z</updated>
-        <summary type="html"><![CDATA[WhatsApp might be planning to launch a new premium subscription plan to its platform. Called WhatsApp Plus, the plan is reportedly currently in development for both Android and iOS, with no confirmed release date yet. This information comes from an X post by WABetaInfo, which also detailed some of the perks included in WhatsApp Plus. […]
-The post WhatsApp May Introduce Paid “Plus” Plan With More Customisation, Up To 20 Pinned Chats appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nation-State Actor Embraces AI Malware Assembly Line]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line"/>
-        <updated>2026-03-05T21:56:07.000Z</updated>
-        <summary type="html"><![CDATA[Pakistan's APT36 threat group has begun using vibe-coding to churn out mediocre malware, but at a scale that could overwhelm defenses.]]></summary>
-        <author>
-            <name>Jai Vijayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform</id>
-        <link href="https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform"/>
-        <updated>2026-03-05T21:23:26.000Z</updated>
-        <summary type="html"><![CDATA[The phishing-as-a-service platform was popular among cyber threat actors because of its ability to bypass multifactor authentication defenses.]]></summary>
-        <author>
-            <name>Rob Wright</name>
         </author>
     </entry>
     <entry>
