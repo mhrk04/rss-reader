@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-03-21T08:44:06.862Z</updated>
+    <updated>2026-03-22T08:46:26.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks]]></title>
+        <id>https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html</id>
+        <link href="https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html"/>
+        <updated>2026-03-21T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday.
+"The campaign]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager]]></title>
+        <id>https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html</id>
+        <link href="https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html"/>
+        <updated>2026-03-21T10:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.
+The vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 out of a maximum of 10.0.
+"This vulnerability is remotely exploitable without authentication," Oracle said in an advisory. "If successfully]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026]]></title>
+        <id>https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html</id>
+        <link href="https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html"/>
+        <updated>2026-03-21T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch them by April 3, 2026.
+The vulnerabilities that have come under exploitation are listed below -
+
+CVE-2025-31277 (CVSS score: 8.8) - A vulnerability in Apple]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages]]></title>
         <id>https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html</id>
@@ -2535,51 +2571,6 @@ The post Sony May Be Testing Dynamic Pricing On PlayStation Store Games appeared
         <updated>2026-03-08T01:00:09.000Z</updated>
         <summary type="html"><![CDATA[POCO is expected to launch its X8 Pro and the X8 Pro Max soon. Ahead of this, the former has received SIRIM certification, indicating that the phone will be making its way to Malaysia as well. Curiously, only the X8 Pro model is on the database. For what it’s worth, though, an Iron Man edition […]
 The post POCO X8 Pro Spotted On SIRIM; May Launch On 17 March 2026 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues]]></title>
-        <id>https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html</id>
-        <link href="https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html"/>
-        <updated>2026-03-07T16:28:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities.
-The feature is available in a research preview to ChatGPT Pro, Enterprise, Business, and Edu customers via the Codex web with free usage for the next month.
-"It builds deep context about your project to identify]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model]]></title>
-        <id>https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html</id>
-        <link href="https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html"/>
-        <updated>2026-03-07T11:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla.
-Of these, 14 have been classified as high, seven have been classified as moderate, and one has been rated low in severity. The issues were addressed in Firefox 148, released late last month. The vulnerabilities were identified over a two-week period in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Account Lockouts: Maybank Says Challenge Questions Triggered By Fraud Monitoring]]></title>
-        <id>https://www.lowyat.net/?p=385667</id>
-        <link href="https://www.lowyat.net/2026/385667/account-lockouts-maybank-says-challenge-questions-triggered-by-fraud-monitoring/"/>
-        <updated>2026-03-07T04:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Maybank has responded to our queries regarding the MAE incident earlier this week which saw some users locked out of their accounts. According to the bank, the Challenge Questions (CQ) prompted during transactions are part of an existing security mechanism designed to counter scam activities. The clarification follows the disruption on 4 March 2026, when […]
-The post Account Lockouts: Maybank Says Challenge Questions Triggered By Fraud Monitoring appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CelcomDigi, Maxis Pay RM327.8 Million Each To Acquire DNB Shares From MOF Inc]]></title>
-        <id>https://www.lowyat.net/?p=385656</id>
-        <link href="https://www.lowyat.net/2026/385656/celcomdigi-maxis-dnb-shares-mof-inc/"/>
-        <updated>2026-03-07T03:00:11.000Z</updated>
-        <summary type="html"><![CDATA[CelcomDigi and Maxis have respectively finalised their acquisitions of a larger stake in Digital Nasional Berhad (DNB). The two telcos have made payments to acquire their corresponding shares of ordinary shares owned by Minister of Finance Inc (MOF Inc). In a filing with Bursa Malaysia, CelcomDigi announced that it had paid RM327.87 million on 6 […]
-The post CelcomDigi, Maxis Pay RM327.8 Million Each To Acquire DNB Shares From MOF Inc appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
         </author>
