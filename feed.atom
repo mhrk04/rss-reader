@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-03-28T08:51:53.430Z</updated>
+    <updated>2026-03-29T08:52:42.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Could Announce N1 SoC At Computex 2026]]></title>
+        <id>https://www.lowyat.net/?p=387648</id>
+        <link href="https://www.lowyat.net/2026/387648/nvidia-could-announce-n1-soc-at-computex-2026/"/>
+        <updated>2026-03-29T08:47:15.000Z</updated>
+        <summary type="html"><![CDATA[It’s been nearly a year since we had word of NVIDIA’s N1 SoC for laptops, and about two years since its CEO said it live that it was working with Dell to create the laptop using a dedicated CPU from the brand. Now, according to Taiwanese news outlet, CTEE, that day could be during Computex […]
+The post NVIDIA Could Announce N1 SoC At Computex 2026 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Temporarily Halts Memory Card Sales In Japan Due To Shortages]]></title>
+        <id>https://www.lowyat.net/?p=387643</id>
+        <link href="https://www.lowyat.net/2026/387643/sony-temporarily-halts-memory-card-sales-in-japan/"/>
+        <updated>2026-03-29T06:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Sony has recently announced that it is suspending memory card sales. In a statement made through the Sony Japan website, the company declared that it is no longer accepting orders for nearly all the products in its CFexpress and SD memory card lines. Among the affected products are CFexpress Type A, Type B, and SDXC/SDHC […]
+The post Sony Temporarily Halts Memory Card Sales In Japan Due To Shortages appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack]]></title>
+        <id>https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</id>
+        <link href="https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html"/>
+        <updated>2026-03-28T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.
+Handala Hack Team, which carried out the breach, said on its website that Patel "will now find his name among the list of successfully hacked victims." In a statement]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug]]></title>
+        <id>https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</id>
+        <link href="https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html"/>
+        <updated>2026-03-28T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.
+The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information.
+Per]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign]]></title>
         <id>https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</id>
@@ -2376,72 +2421,6 @@ The post Instagram To Drop End-To-End Encrypted DMs After 8 May 2026 appeared fi
         <updated>2026-03-15T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[Apple has yet to utter a peep about its long-rumoured foldable iPhone, but rumours have been aplenty as of late. Not long after a couple of renders leaked, details on the device’s storage options and pricing have emerged. This information on the upcoming foldable, which will allegedly carry the “Ultra” name, comes from serial leakster […]
 The post More Foldable iPhone Details Leak, Including Pricing And Storage Options appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration]]></title>
-        <id>https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html</id>
-        <link href="https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html"/>
-        <updated>2026-03-14T16:17:00.000Z</updated>
-        <summary type="html"><![CDATA[China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent.
-In a post shared on WeChat, CNCERT noted that the platform's "inherently weak default security configurations," coupled with its]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers]]></title>
-        <id>https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html</id>
-        <link href="https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html"/>
-        <updated>2026-03-14T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a "significant escalation" in how it propagates through the Open VSX registry.
-"Instead of requiring every malicious listing to embed the loader directly, the threat actor is now abusing extensionPack and extensionDependencies to turn initially standalone-looking extensions into transitive]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Sony PlayStation LEGO May Land During This Year’s Christmas Season]]></title>
-        <id>https://www.lowyat.net/?p=386672</id>
-        <link href="https://www.lowyat.net/2026/386672/a-sony-playstation-lego-may-land-during-this-years-christmas-season/"/>
-        <updated>2026-03-14T08:36:07.000Z</updated>
-        <summary type="html"><![CDATA[Rumours have it that Sony and LEGO are collaborating to create a toy set of the original PlayStation console that launched in 1994. The set itself was discovered by an Instagrammer, who then proceeded to post about it on their account. According to the leak, the PlayStation LEGO set will comprise 1,911 pieces. That’s smaller […]
-The post A Sony PlayStation LEGO May Land During This Year’s Christmas Season appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MITI To Explain Excess Capacity, Forced Labour Allegations In US Trade Probe]]></title>
-        <id>https://www.lowyat.net/?p=386661</id>
-        <link href="https://www.lowyat.net/2026/386661/miti-to-explain-excess-capacity-forced-labour-allegations-in-us-trade-probe/"/>
-        <updated>2026-03-14T06:39:18.000Z</updated>
-        <summary type="html"><![CDATA[The Ministry of Investment, Trade and Industry (MITI) will explain to the United States allegations of structural excess manufacturing capacity and the use of forced labour, both of which fall under an investigation conducted under Section 301(b) of the Trade Act of 1974. Its minister, Johari Abdul Ghani, said the government will clarify the issues […]
-The post MITI To Explain Excess Capacity, Forced Labour Allegations In US Trade Probe appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer Viper V4 Pro Retail Box Found In The Wild]]></title>
-        <id>https://www.lowyat.net/?p=386651</id>
-        <link href="https://www.lowyat.net/2026/386651/razer-viper-v4-pro-retail-box-found-in-the-wild/"/>
-        <updated>2026-03-14T06:23:31.000Z</updated>
-        <summary type="html"><![CDATA[We’re just about a year after the launch of the Razer Viper V3 Pro. Which means it’s about time a successor showed up. And indeed, it has, but probably not in the way the videogames peripheral brand intended. The retail box of the Viper V4 Pro has already appeared in the wild. And this is […]
-The post Razer Viper V4 Pro Retail Box Found In The Wild appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney+ Rolls Out Verts Vertical Video Feed In The US]]></title>
-        <id>https://www.lowyat.net/?p=386536</id>
-        <link href="https://www.lowyat.net/2026/386536/disney-verts-vertical-video-feed-us/"/>
-        <updated>2026-03-14T06:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Disney+ has hopped onto the short-form vertical video bandwagon with the launch of its own TikTok-style feed in the US. Called Verts, the feature is advertised as a “new way for fans to connect with the stories they love”. The idea here is for subscribers to find the next thing to watch by scrolling through […]
-The post Disney+ Rolls Out Verts Vertical Video Feed In The US appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
         </author>
