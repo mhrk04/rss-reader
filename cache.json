@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent implant.\n\"Every package contains three files (package.json, index.js, postinstall.js), has no description, repository,",
+          "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+          "publishedOn": "2026-04-05T05:07:00.000Z",
+          "wordCount": null,
+          "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9axxKrcvcFkL99SIB2AlrcEW2RIZ1Ff8PollH7XYSWrYSOgoPXKlF5rsdgyr9BSWVUa5oP07faI_DvxNyUk_rpuz5i2xuiEdlU-e929rCWpkLjDGRs4EBjzfBWQRJVtrWNtR-EKvWsR-PPO-Yfei5ONMyumlI12R7OHmIrsyzJtB5SJRTCSuKiyJQnTfK/s1600/database.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9axxKrcvcFkL99SIB2AlrcEW2RIZ1Ff8PollH7XYSWrYSOgoPXKlF5rsdgyr9BSWVUa5oP07faI_DvxNyUk_rpuz5i2xuiEdlU-e929rCWpkLjDGRs4EBjzfBWQRJVtrWNtR-EKvWsR-PPO-Yfei5ONMyumlI12R7OHmIrsyzJtB5SJRTCSuKiyJQnTfK/s1600/database.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild.\nThe vulnerability, tracked as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privilege escalation.\n\"An improper access control vulnerability [CWE-284] in FortiClient EMS may allow an",
+          "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+          "publishedOn": "2026-04-05T04:32:00.000Z",
+          "wordCount": null,
+          "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61_DDvLhdLZ8tHMrmQ8XlQ1vWwnEk-2lmYFnjw_1ZvJ4IUB4G7ffXU8pSd7JDknP0bqyaVVOTb1HJ62ujlQ_zfG3Lc7XMtLKUuZTO6v4jgrdqon90wrix6EaQNKtou3yz7Txf3ni5JOVn-D1-OcHB7e-UDxQI2ifZOBHAeDwFBnwAfanSeFn8EyP8oilj/s1600/fortinet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61_DDvLhdLZ8tHMrmQ8XlQ1vWwnEk-2lmYFnjw_1ZvJ4IUB4G7ffXU8pSd7JDknP0bqyaVVOTb1HJ62ujlQ_zfG3Lc7XMtLKUuZTO6v4jgrdqon90wrix6EaQNKtou3yz7Txf3ni5JOVn-D1-OcHB7e-UDxQI2ifZOBHAeDwFBnwAfanSeFn8EyP8oilj/s1600/fortinet.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025, following a two-year period of minimal targeting in the region.\nThe campaign has been attributed to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo Panda.\n\"This TA416 activity included multiple",
@@ -20460,70 +20492,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTlyFHjxX97gPhHFjyvPGAPsLFbWQSHzAofYEPTsqZS1Xyc4KjjMDOqW-N7Iku9d1cuOJLI7EMdA-kA5X86I2neC5efkXETfsIVOZcIEVfLxWKFEnR3qXfgpLxXvG3ZKixxV_bmEDxXIN_65QzgRKguXIJkQhzY50ROEEV5irUXNeuekFatz88Yk_BONZ/s1600/kace.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTlyFHjxX97gPhHFjyvPGAPsLFbWQSHzAofYEPTsqZS1Xyc4KjjMDOqW-N7Iku9d1cuOJLI7EMdA-kA5X86I2neC5efkXETfsIVOZcIEVfLxWKFEnR3qXfgpLxXvG3ZKixxV_bmEDxXIN_65QzgRKguXIJkQhzY50ROEEV5irUXNeuekFatz88Yk_BONZ/s1600/kace.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday.\n\"The campaign",
-          "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
-          "publishedOn": "2026-03-21T13:17:00.000Z",
-          "wordCount": null,
-          "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMsZnvgdoACYJn8WjDy_Lpvpy1iqvGpj-vb4hYfYTLujLp_5dm8WZKjl64LYwY4-MON0-1k8-F2K3KDu0QG7isYjhaMvre0E0vrqJCSP49r2j374JPbV6WvkTG8lwqwrxquX-3xrReaA3G-NQGvskSnlOtM1XRj1J3MdPuCK9lXC6vf8ZkrCizN6ohcLC/s1600/signal-whatsapp.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMsZnvgdoACYJn8WjDy_Lpvpy1iqvGpj-vb4hYfYTLujLp_5dm8WZKjl64LYwY4-MON0-1k8-F2K3KDu0QG7isYjhaMvre0E0vrqJCSP49r2j374JPbV6WvkTG8lwqwrxquX-3xrReaA3G-NQGvskSnlOtM1XRj1J3MdPuCK9lXC6vf8ZkrCizN6ohcLC/s1600/signal-whatsapp.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 out of a maximum of 10.0.\n\"This vulnerability is remotely exploitable without authentication,\" Oracle said in an advisory. \"If successfully",
-          "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
-          "publishedOn": "2026-03-21T10:24:00.000Z",
-          "wordCount": null,
-          "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIh9aqIMPc6elNLcqZwmxGq0BHfA3NS2kkxawAr-H7SzPJKmvc7tXrykcm664TGFkJUIb_BmGpJV0CkEjIxVoRfTCrc8br5bi_TL93Nv_g7J_c9ccucZL4e55lp_zyywwBeAzDIoA1bnI95ELRLCbOyVf0WX0CGgGHLun2uQFKhqeMKf16nBOeJTO7O77/s1600/oracle-flaw-hack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIh9aqIMPc6elNLcqZwmxGq0BHfA3NS2kkxawAr-H7SzPJKmvc7tXrykcm664TGFkJUIb_BmGpJV0CkEjIxVoRfTCrc8br5bi_TL93Nv_g7J_c9ccucZL4e55lp_zyywwBeAzDIoA1bnI95ELRLCbOyVf0WX0CGgGHLun2uQFKhqeMKf16nBOeJTO7O77/s1600/oracle-flaw-hack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch them by April 3, 2026.\nThe vulnerabilities that have come under exploitation are listed below -\n\nCVE-2025-31277 (CVSS score: 8.8) - A vulnerability in Apple",
-          "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-          "publishedOn": "2026-03-21T08:25:00.000Z",
-          "wordCount": null,
-          "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJQDea3eiUAONNSYkmQsjicwXBMSALOAUJi7yPHqOStd9N-KBADSGXjH5zJS66VPyzi7-w5ULK7Ax9qH66_Av9E3xIL8BB7sDKz9d-ZbmlyqeyfKyCUYBb15eOH5_keQQ-RUchVoh7NvguG3Ps8sau8Ik17QNOMVtmTkQEck9gao_1zcLPE8JE_qPvc4Q9/s1600/cisa-kev.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJQDea3eiUAONNSYkmQsjicwXBMSALOAUJi7yPHqOStd9N-KBADSGXjH5zJS66VPyzi7-w5ULK7Ax9qH66_Av9E3xIL8BB7sDKz9d-ZbmlyqeyfKyCUYBb15eOH5_keQQ-RUchVoh7NvguG3Ps8sau8Ik17QNOMVtmTkQEck9gao_1zcLPE8JE_qPvc4Q9/s1600/cisa-kev.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm.\nThe name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on",
-          "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-          "publishedOn": "2026-03-21T07:28:00.000Z",
-          "wordCount": null,
-          "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJqn31IC9aCQ9LMLCLRXgpwsa1gvtzXlYk20-1yRmCMYVM_MwGHedfSgbKl24yaeTx4fqRc4-vscge-d3P6sN8sErQBVGD0kgxMGzV-mDCI1wGFh87BB8me019zcennhvA6xyMHLnH9IKZ-txSWs9OwL5cGbg0X8sx_KZ2tj5A5awErRRRMbdSrw_cXs6a/s1600/npm-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJqn31IC9aCQ9LMLCLRXgpwsa1gvtzXlYk20-1yRmCMYVM_MwGHedfSgbKl24yaeTx4fqRc4-vscge-d3P6sN8sErQBVGD0kgxMGzV-mDCI1wGFh87BB8me019zcennhvA6xyMHLnH9IKZ-txSWs9OwL5cGbg0X8sx_KZ2tj5A5awErRRRMbdSrw_cXs6a/s1600/npm-malware.jpg"
         }
       ]
     },
@@ -20532,6 +20500,26 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=388423",
+          "author": "Nurul Kamil",
+          "description": "We’re still months away from the next generation of Google Pixel phones, but leaks are already circulating online. Last month, tipster OnLeaks shared a set of renders of the supposed Pixel 11 Pro Fold. Then not too long after that, the design for the base model emerged. And finally, earlier this week, the Pro and […]\nThe post Google Pixel 11 Pro, Pro XL CAD-Based Renders Appear Online appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/388423/google-pixel-11-pro-pro-xl-renders/",
+          "publishedOn": "2026-04-05T05:24:15.000Z",
+          "wordCount": 11087,
+          "title": "Google Pixel 11 Pro, Pro XL CAD-Based Renders Appear Online",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/google-pixel-11-pro-xl-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=388418",
+          "author": "Ian Chee",
+          "description": "The government is considering subsidising season passes for the Rapid Transit System (RTS) Link for citizens. Transport Minister Anthony Loke said that these passes would be limited to Malaysians. The Edge cites the minister as saying “from our experience, for a season pass to be worthwhile, there must be support or a government subsidy. On […]\nThe post Malaysia Considers Subsidising RTS Link Passes For Citizens appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/388418/malaysia-considers-subsidising-rts-link-passes-for-citizens/",
+          "publishedOn": "2026-04-04T12:02:32.000Z",
+          "wordCount": 10910,
+          "title": "Malaysia Considers Subsidising RTS Link Passes For Citizens",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/rts-link-first-phase-december-2025-1.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=388413",
           "author": "Heirul Kamel",
