@@ -19294,6 +19294,86 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in PaperCut",
+          "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
+          "publishedOn": "2026-04-21T06:23:00.000Z",
+          "wordCount": null,
+          "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1600/cisa-kev.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1600/cisa-kev.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection leading to the execution of arbitrary code.\nSGLang is a high-performance, open-source serving",
+          "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+          "publishedOn": "2026-04-20T17:14:00.000Z",
+          "wordCount": null,
+          "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push payloads. It’s not breaking systems—it’s bending trust.\nThere’s also a shift in how attacks run.",
+          "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+          "publishedOn": "2026-04-20T13:41:00.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The fastest way to fall in love with an AI tool is to watch the demo.\nEverything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team.\nBut most AI initiatives don't fail because of bad technology. They stall because what worked in the demo doesn't survive contact with real operations. The gap between a",
+          "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
+          "publishedOn": "2026-04-20T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Why Most AI Deployments Stall After the Demo",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihbqFqPAZp1E63toW329kiZdn6SI22yIZDqIGwAsO9Q2_Xi8g6qCWwj0dH2A4LupHGVzobsdiP9dcvAoSzXSKkte4q0yLnAN2V5wsntPma9PIiv4SzNQnU3wkFCztV-N8Dn36S_oP9tq3obvAVOUUPegjGguA1SUVYR2ptZigH9ET-5dTVZU966eoLh9A/s1600/tines.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihbqFqPAZp1E63toW329kiZdn6SI22yIZDqIGwAsO9Q2_Xi8g6qCWwj0dH2A4LupHGVzobsdiP9dcvAoSzXSKkte4q0yLnAN2V5wsntPma9PIiv4SzNQnU3wkFCztV-N8Dn36S_oP9tq3obvAVOUUPegjGguA1SUVYR2ptZigH9ET-5dTVZU966eoLh9A/s1600/tines.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain.\n\"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to",
+          "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+          "publishedOn": "2026-04-20T10:42:00.000Z",
+          "wordCount": null,
+          "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1600/mcp.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1600/mcp.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.",
@@ -20332,118 +20412,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGR6ZfT0_UppVPQsgk7lwTbzfybdDFY-HeJi9F6VE6HuN7-Ja-lpveDnPA-kcS7x8l1oZ0lUqPoEFdRTOMt0Z8H6EeT_NadV_P7bjlh8Je6Q-T5KAlOCzOWt-LyY3jY8RsTlRTUzuXsVwf_gs-_KyXw8G_LcFz2dY-2P9XozQWy2p9PneNGUMctvpIZYM/s1600/flowise.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGR6ZfT0_UppVPQsgk7lwTbzfybdDFY-HeJi9F6VE6HuN7-Ja-lpveDnPA-kcS7x8l1oZ0lUqPoEFdRTOMt0Z8H6EeT_NadV_P7bjlh8Je6Q-T5KAlOCzOWt-LyY3jY8RsTlRTUzuXsVwf_gs-_KyXw8G_LcFz2dY-2P9XozQWy2p9PneNGUMctvpIZYM/s1600/flowise.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid ongoing conflict in the Middle East.\nThe activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check Point.\n\"The campaign is primarily",
-          "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
-          "publishedOn": "2026-04-06T18:37:00.000Z",
-          "wordCount": null,
-          "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgf4g-Zhhi4P6IHkSqUlU3EzCQNKPJ1nV3mWfQAtS6gfGu6H7wuq5OgVXGvF1IM2afayopX3b0zj4bjVDYaO7dBc4rl0A0Y6GND1VkbLdug_ULVW6a6P7iNlhUFGwMsRSDHqbodsc8EeLcg2nXxDPXO0h8RABu_jr9o-5cx8g5GTXxFgDOx9PTRQIFECpL/s1600/iran.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgf4g-Zhhi4P6IHkSqUlU3EzCQNKPJ1nV3mWfQAtS6gfGu6H7wuq5OgVXGvF1IM2afayopX3b0zj4bjVDYaO7dBc4rl0A0Y6GND1VkbLdug_ULVW6a6P7iNlhUFGwMsRSDHqbodsc8EeLcg2nXxDPXO0h8RABu_jr9o-5cx8g5GTXxFgDOx9PTRQIFECpL/s1600/iran.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South Korea.\nThe attack chain, per Fortinet FortiGuard Labs, involves obfuscated Windows shortcut (LNK) files acting as the starting point to drop a decoy PDF",
-          "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
-          "publishedOn": "2026-04-06T16:24:00.000Z",
-          "wordCount": null,
-          "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh23Q23hk6n_d_f9evdsf7JVcn5OswTUqwd0B8EvWdftPQXN4K1V6nHICk_MvzLf4jUfCCHpUmaZIzECekbKf3PQ2w2gRlY-AphdBRZgyJHq7XQsyIS_vp6iT_fVLoDQ1TFA4DBLT32Q1sTY_WHjGRtzaYMOqMNThcg8JodZ-Aozj2OO21DQLj2agEojjdp/s1600/github.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh23Q23hk6n_d_f9evdsf7JVcn5OswTUqwd0B8EvWdftPQXN4K1V6nHICk_MvzLf4jUfCCHpUmaZIzECekbKf3PQ2w2gRlY-AphdBRZgyJHq7XQsyIS_vp6iT_fVLoDQ1TFA4DBLT32Q1sTY_WHjGRtzaYMOqMNThcg8JodZ-Aozj2OO21DQLj2agEojjdp/s1600/github.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Your attack surface no longer lives on one operating system, and neither do the campaigns targeting it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, taking advantage of the fact that many SOC workflows are still fragmented by platform. \nFor security leaders, this creates a",
-          "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
-          "publishedOn": "2026-04-06T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixIItKplcozAxhBXqaAcKz33D_p67WELaaBHZDIxGe7-qkKNWIITVvI4a3jSB_A17z89_XvJMprYsmkylYUvuWW4GeMWTWgBCWLWc3i_zPx4XtlW1PJDcbt1doyrUQlE1oeYbSNrmk1XZx-ROkvMyVvaLuryZ8k7MSnBbGEtQLledLStXEcyoapR4wAiA/s1600/cyberattacks.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixIItKplcozAxhBXqaAcKz33D_p67WELaaBHZDIxGe7-qkKNWIITVvI4a3jSB_A17z89_XvJMprYsmkylYUvuWW4GeMWTWgBCWLWc3i_zPx4XtlW1PJDcbt1doyrUQlE1oeYbSNrmk1XZx-ROkvMyVvaLuryZ8k7MSnBbGEtQLledLStXEcyoapR4wAiA/s1600/cyberattacks.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "This week had real hits. The key software got tampered with. Active bugs showed up in the tools people use every day. Some attacks didn’t even need much effort because the path was already there.\nOne weak spot now spreads wider than before. What starts small can reach a lot of systems fast. New bugs, faster use, less time to react.\nThat’s this week. Read&",
-          "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
-          "publishedOn": "2026-04-06T12:46:00.000Z",
-          "wordCount": null,
-          "title": "⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZyEpyaWHYHm8-TyNZQgYtoAqrsAUDZ0_onxgp1BUSV0khgAkwy7S9fMT75sRAm2blJXN6xw6i4r0fXP_hayN2Afrr7ul6egJc2nvFJUoWqmy0iJCr5JdK9-915pCFpEtRdlOMb-BYexGAPQPdKnGjWPbPlfGFx5qOo5Dhzfjes7_k-s5bYgFDEyMCT5BJ/s1600/recaps.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZyEpyaWHYHm8-TyNZQgYtoAqrsAUDZ0_onxgp1BUSV0khgAkwy7S9fMT75sRAm2blJXN6xw6i4r0fXP_hayN2Afrr7ul6egJc2nvFJUoWqmy0iJCr5JdK9-915pCFpEtRdlOMb-BYexGAPQPdKnGjWPbPlfGFx5qOo5Dhzfjes7_k-s5bYgFDEyMCT5BJ/s1600/recaps.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The most active piece of enterprise infrastructure in the company is the developer workstation. That laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI agents.\nIn March 2026, the TeamPCP threat actor proved just how valuable developer machines are. Their supply chain attack on",
-          "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
-          "publishedOn": "2026-04-06T11:45:00.000Z",
-          "wordCount": null,
-          "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMDHeEKBkLDrqXHQ8NZfqd3KdR2hzLuhCEQuQKp0yXA20kmu7JR385GZdV94U615EVunwKkJkDSHlqeoEiu5pB4uElhCSO_vOXWsVUUJvgNkmZE1Z22o_yIapvMEOwvqaG7B31S4ojGPnDwGVqd7zgdtg53IS0AsTkHJRBOvdwf726Fypp5CP7m-3rtc/s1600/liteLLM-breach.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMDHeEKBkLDrqXHQ8NZfqd3KdR2hzLuhCEQuQKp0yXA20kmu7JR385GZdV94U615EVunwKkJkDSHlqeoEiu5pB4uElhCSO_vOXWsVUUJvgNkmZE1Z22o_yIapvMEOwvqaG7B31S4ojGPnDwGVqd7zgdtg53IS0AsTkHJRBOvdwf726Fypp5CP7m-3rtc/s1600/liteLLM-breach.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors associated with Qilin and Warlock ransomware operations have been observed using the bring your own vulnerable driver (BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend Micro.\nQilin attacks analyzed by Talos have been found to deploy a malicious DLL named \"msimg32.dll,\"",
-          "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
-          "publishedOn": "2026-04-06T10:07:00.000Z",
-          "wordCount": null,
-          "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrUKOrJ2Y_pSYHNcKDjbrBsZa2igYlNorTwmH31JNSjdA7VP84kXj23nmkk7DTqlrCUsfCjNo6xt-niyZeKeCR7VtBzMWW9eNUKzU0WGnpmw2yYjHBdboP2uF2UA8CCsdclyeDlRJcU7DEOD8OrFthlhQX-OkgePmyT__ZDQA4IXgRYbnNtp21MoleCTU/s1600/lock-ransomware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrUKOrJ2Y_pSYHNcKDjbrBsZa2igYlNorTwmH31JNSjdA7VP84kXj23nmkk7DTqlrCUsfCjNo6xt-niyZeKeCR7VtBzMWW9eNUKzU0WGnpmw2yYjHBdboP2uF2UA8CCsdclyeDlRJcU7DEOD8OrFthlhQX-OkgePmyT__ZDQA4IXgRYbnNtp21MoleCTU/s1600/lock-ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.\nThe threat actor, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum. He",
-          "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-          "publishedOn": "2026-04-06T06:59:00.000Z",
-          "wordCount": null,
-          "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBHK8DX9E30isZVcn1e-a6p8bmNUAki0SmUh1Tkt9dP8L3D4_WcwT64CI5OVuh1brb1Z4pff7onp90K76ktHbs6-H6Kr0rq9Q2f03oW91e3mA5dN5XdLDyWNns5NcfXw7BKFzH28SbpaFo9l8TmMeZ7Mt6o1ePanKeFYGa8V1S9Rez_E30SIAx2yvfuNl/s1600/revil-ransomware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBHK8DX9E30isZVcn1e-a6p8bmNUAki0SmUh1Tkt9dP8L3D4_WcwT64CI5OVuh1brb1Z4pff7onp90K76ktHbs6-H6Kr0rq9Q2f03oW91e3mA5dN5XdLDyWNns5NcfXw7BKFzH28SbpaFo9l8TmMeZ7Mt6o1ePanKeFYGa8V1S9Rez_E30SIAx2yvfuNl/s1600/revil-ransomware.jpg"
         }
       ]
     },
@@ -20452,6 +20420,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=390449",
+          "author": "John Law",
+          "description": "A Redditor by the handle FunInformation8453 recently posted their alleged good fortunes on the PC Master Race subreddit, claiming that they had managed to purchase a brand new, sealed PNY RTX 4060 Ti GPU for the low, low price of just US$12 (~RM48). The Reddit user claims that they found the RTX 4060 Ti in […]\nThe post Redditor Claims To Have Scored NVIDIA RTX 4060 Ti From Bargain Bin For Just RM48 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390449/redditor-claims-to-have-scored-nvidia-rtx-4060-ti-from-bargain-bin-for-just-rm48/",
+          "publishedOn": "2026-04-21T09:26:14.000Z",
+          "wordCount": 15146,
+          "title": "Redditor Claims To Have Scored NVIDIA RTX 4060 Ti From Bargain Bin For Just RM48",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/PNY-RTX-4060-Ti-Bargain-Bin-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390451",
+          "author": "Kiran Ganesan",
+          "description": "Much like other major smartphone brands, Xiaomi typically releases its devices on a yearly cycle. However, a report suggests the upcoming Xiaomi 17T series could arrive earlier than expected. While the company has yet to confirm this, a SIRIM listing appears to support the claim, hinting at an earlier-than-usual release. As per the organisation, the […]\nThe post Xiaomi 17T Pro Appears on SIRIM; Series May Launch Sooner Than Expected appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390451/xiaomi-17t-pro-appears-on-sirm-series-may-launch-sooner-than-expected/",
+          "publishedOn": "2026-04-21T09:18:19.000Z",
+          "wordCount": 15628,
+          "title": "Xiaomi 17T Pro Appears on SIRIM; Series May Launch Sooner Than Expected",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Xiaomi-15T-Pro-Hands-On-Images-9.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390440",
+          "author": "Heirul Kamel",
+          "description": "Maybank has announced that it will relocate its head office from Menara Maybank to Merdeka 118, with the move set to take effect on 6 May 2026. The transition marks a significant shift for the bank, which has long been associated with its Jalan Tun Perak headquarters. Completed in November 2023 and officially opened in […]\nThe post Maybank Relocating Its Head Office To Merdeka 118 Next Month appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390440/maybank-relocating-its-head-office-to-merdeka-118-next-month/",
+          "publishedOn": "2026-04-21T08:40:27.000Z",
+          "wordCount": 15320,
+          "title": "Maybank Relocating Its Head Office To Merdeka 118 Next Month",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/maybank-merdeka-118_02.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390422",
+          "author": "John Law",
+          "description": "SK Hynix, the South Korean memory and semiconductor maker, recently announced that it has begun mass production of 192GB SOCAMM2 memory. The product is described by the maker as a next generation memory module standard, based on the 1cnm process (6th generation 10nm technology), LPDDR5X low-power DRAM. SOCAMM2, short for Small Outline Compression Attached Memory […]\nThe post SK Hynix Now Mass Producing 192GB SOCAMM2 Memory For AI Servers appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390422/sk-hynix-now-mass-producing-192gb-socamm2-memory-for-ai-servers/",
+          "publishedOn": "2026-04-21T08:15:49.000Z",
+          "wordCount": 15202,
+          "title": "SK Hynix Now Mass Producing 192GB SOCAMM2 Memory For AI Servers",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/SK-Hynix-SOCAMM2-AI-Server-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390382",
+          "author": "Nurul Kamil",
+          "description": "In addition to the MatePad Mini, Huawei announced a new wearable for the Malaysian market. The Watch GT Runner 2 is, as its name suggests, a smartwatch tailored for runners who want precise and intelligent performance tracking. Weighing roughly 34.5g without the strap, the watch features a titanium alloy bezel and a case composed of […]\nThe post Huawei Watch GT Runner 2 Arrives In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390382/huawei-watch-gt-runner-2-malaysia/",
+          "publishedOn": "2026-04-21T08:10:45.000Z",
+          "wordCount": 15159,
+          "title": "Huawei Watch GT Runner 2 Arrives In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/huawei-watch-gt-runner-2-launch-7.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390375",
+          "author": "Nurul Kamil",
+          "description": "Earlier this month, Huawei announced that it is launching the MatePad Mini in Malaysia. And just as promised, the brand’s latest tablet has arrived on our shores. Prior to the official release, the company listed the device on its website, so all the details aren’t exactly a mystery at this point. In case you missed […]\nThe post Huawei MatePad Mini Debuts In Malaysia With 8.8-Inch Display, 6,400mAh Battery appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390375/huawei-matepad-mini-malaysia/",
+          "publishedOn": "2026-04-21T07:32:57.000Z",
+          "wordCount": 15242,
+          "title": "Huawei MatePad Mini Debuts In Malaysia With 8.8-Inch Display, 6,400mAh Battery",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/huawei-matepad-mini-launch-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390401",
+          "author": "John Law",
+          "description": "Intel today held its official launch for its Panther Lake lineup in Malaysia today. Yes, we’re talking about the same lineup that launched in October last year, but to be fair, it’s the chipmaker’s first launch event in the country in like, a fairly long time. Again, today’s event is more for the chipmaker to […]\nThe post Intel Holds Official Launch For Panther Lake In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390401/intel-holds-official-launch-for-panther-lake-in-malaysia/",
+          "publishedOn": "2026-04-21T06:57:41.000Z",
+          "wordCount": 15285,
+          "title": "Intel Holds Official Launch For Panther Lake In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Intel-Panther-Lake-Launch-Malaysia-4-scaled.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390386",
+          "author": "Ian Chee",
+          "description": "We previously saw the Lenovo Legion Go 2 getting a price hike earlier in the month. This has hit the whole world, even if it has affected us to a lesser degree. More recently, it looks like even the Legion Go S has been hit as well. We have also been hit, but things are […]\nThe post Lenovo Legion Go S Gets Price Hike; Now Costs RM3,549 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390386/lenovo-legion-go-s-price-hike-now-rm3549/",
+          "publishedOn": "2026-04-21T06:09:24.000Z",
+          "wordCount": 15408,
+          "title": "Lenovo Legion Go S Gets Price Hike; Now Costs RM3,549",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/12/Lenovo-Legion-Go-S-Render-evleaks-2.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390389",
+          "author": "Kiran Ganesan",
+          "description": "Malaysian Star Wars fans are getting a special treat this coming Star Wars Day, as the Malaysian Philharmonic Orchestra (MPO) announced that it will present “Star Wars: A New Hope in Concert”. For those unaware, it is the full screening of a classic film that debuted in 1977, accompanied by a live performance of John […]\nThe post MPO To Perform Star Wars: A New Hope In May; Tickets Selling Fast appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390389/mpo-to-perform-star-wars-a-new-hope-in-may/",
+          "publishedOn": "2026-04-21T05:41:08.000Z",
+          "wordCount": 15207,
+          "title": "MPO To Perform Star Wars: A New Hope In May; Tickets Selling Fast",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/MPO-To-Perform-Star-Wars-A-New-Hope-In-May-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390352",
+          "author": "Kiran Ganesan",
+          "description": "Shortly after the launch of the Pura X Max, Huawei officially unveiled the Pura 90 series, complete with its gradient colour scheme. The series consists of the vanilla Pura 90, Pura 90 Pro, and Pura 90 Pro Max. Based on the naming convention alone, the smartphone line is the sequel to last year’s Pura 80 […]\nThe post Huawei Unveils Pura 90 Series In China With Massive Battery, OLED Display appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390352/huawei-unveils-pura-90-series-in-china/",
+          "publishedOn": "2026-04-21T04:01:25.000Z",
+          "wordCount": 16701,
+          "title": "Huawei Unveils Pura 90 Series In China With Massive Battery, OLED Display",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Pura-90-Pro-Max-9.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=390262",
           "author": "Nurul Kamil",
@@ -21626,106 +21694,6 @@
           "wordCount": 11162,
           "title": "Mercedes-Benz Recalls 2025 G580 EQ In The US Over Wheel Bolt Issue",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/G580photo_2025-06-26_12-24-40.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388531",
-          "author": "Ian Chee",
-          "description": "Chinese smartphone brand realme previously teased the launch of the 16 Pro series in the local market. Now, the series has been unveiled, confirming the two members – the 16 Pro and Pro Plus. This time around, the two are pretty easily identifiable at just a glance. One is the position of the company’s branding […]\nThe post realme 16 Pro Series Now Official In Malaysia; Starts From RM1,599 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388531/realme-16-pro-series-official-malaysia-from-rm1599/",
-          "publishedOn": "2026-04-06T08:58:11.000Z",
-          "wordCount": 11233,
-          "title": "realme 16 Pro Series Now Official In Malaysia; Starts From RM1,599",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/realme-16-Pro-series-mk-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388573",
-          "author": "Kiran Ganesan",
-          "description": "Earlier today, Batik Air announced new direct flights to Shanghai, China, and Sydney, Australia, beginning in June and July, respectively. In an official statement, the airline said the move aims to strengthen its international network and reflects its “continued commitment to supporting sustained travel demand” ahead of Visit Malaysia Year 2026. The Kuala Lumpur-Shanghai service […]\nThe post Batik Air To Launch Shanghai, Sydney Direct Flights From KL Starting Mid-2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388573/batik-air-launch-shanghai-sydney-flights-kl/",
-          "publishedOn": "2026-04-06T08:53:09.000Z",
-          "wordCount": 10959,
-          "title": "Batik Air To Launch Shanghai, Sydney Direct Flights From KL Starting Mid-2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Batik-Air-Shanghai-Sydney-Direct-Flights-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388566",
-          "author": "Heirul Kamel",
-          "description": "Sony’s Xperia 1 series has remained visually consistent for years, but that streak may be ending with the upcoming Sony Xperia 1 VIII. A series of leaked renders allegedly from case manufacturers circulating online suggest that the next flagship could introduce one of the most noticeable design shifts the lineup has seen in recent memory. […]\nThe post Sony Xperia 1 VIII Leak Suggests Major Camera, Display Redesign appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388566/sony-xperia-1-viii-leak-suggests-major-camera-display-redesign/",
-          "publishedOn": "2026-04-06T08:17:32.000Z",
-          "wordCount": 11309,
-          "title": "Sony Xperia 1 VIII Leak Suggests Major Camera, Display Redesign",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Sony-Xperia-1-VIII-leak-4-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388537",
-          "author": "Nurul Kamil",
-          "description": "The Apple MacBook Neo initially debuted last month as the brand’s new entry-level laptop. Now, the latest addition to the MacBook lineup is officially available for purchase on our shores. To recap, the MacBook Neo sports an aluminium build weighing 1.23kg. Furthermore, Apple has equipped the device with a 13-inch Liquid Retina display. This panel […]\nThe post Apple MacBook Neo Now Available In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388537/apple-macbook-neo-malaysia/",
-          "publishedOn": "2026-04-06T08:03:38.000Z",
-          "wordCount": 10912,
-          "title": "Apple MacBook Neo Now Available In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/apple-macbook-neo-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388524",
-          "author": "John Law",
-          "description": "AirAsia X has reportedly increased the fares of all its flights between 30% and 40%. And the reason it has done so is due to soaring jet fuel prices. Pricing for jet fuel has risen from an average of US$90 (~RM363) to an average of US$200 (~RM806) per barrel. In relation to that, the fee […]\nThe post AirAsia To Raise Fares By Up To 40% Amid Jet Fuel Surge appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388524/airasia-to-raise-fares-by-up-to-40-amid-jet-fuel-surge/",
-          "publishedOn": "2026-04-06T07:33:03.000Z",
-          "wordCount": 10995,
-          "title": "AirAsia To Raise Fares By Up To 40% Amid Jet Fuel Surge",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Airbus_A320-216_AirAsia_JP7522679.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388522",
-          "author": "Kiran Ganesan",
-          "description": "Redmagic has launched several smartphones over the past few months, but it has been a while since the company introduced a new gaming tablet. That said, it doesn’t look like Redmagic is stepping away from the segment anytime soon. In fact, the company is reportedly preparing to unveil a new device in China as early […]\nThe post Redmagic Confirms Gaming Tablet 5 Pro for China; Global Launch Coming Soon appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388522/redmagic-gaming-tablet-5-pro-china-global-soon/",
-          "publishedOn": "2026-04-06T05:50:13.000Z",
-          "wordCount": 11103,
-          "title": "Redmagic Confirms Gaming Tablet 5 Pro for China; Global Launch Coming Soon",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Redmagic-Astra.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388504",
-          "author": "Ian Chee",
-          "description": "While almost a staple in hobby stores around the country, Gundam plastic model kits (Gunpla) is seemingly not as big as the fandom would suggest. After all, unlike in Thailand and Singapore, we don’t have our own outlet of The Gundam Base to call our own. That changes next week, as one it scheduled for […]\nThe post The Gundam Base Malaysia To Open At Fahrenheit88 On 14 April appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388504/the-gundam-base-malaysia-fahrenheit88-14-april/",
-          "publishedOn": "2026-04-06T05:20:05.000Z",
-          "wordCount": 11156,
-          "title": "The Gundam Base Malaysia To Open At Fahrenheit88 On 14 April",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/The-Gundam-Base-Malaysia.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388506",
-          "author": "Nurul Kamil",
-          "description": "Edifier has launched a new desktop speaker in China. While not as outwardly quirky as the Huazai New Cyber unveiled last year, the Hecate Aurora has its own distinctive look. The device pairs a metallic rear case with a transparent acrylic front panel in a design inspired by the Braun Audio 300 turntable. Retro aesthetics […]\nThe post The Edifier Hecate Aurora Pairs RGB Lighting With Retro Aesthetics appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388506/edifier-hecate-aurora/",
-          "publishedOn": "2026-04-06T05:00:44.000Z",
-          "wordCount": 10860,
-          "title": "The Edifier Hecate Aurora Pairs RGB Lighting With Retro Aesthetics",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/edifier-hecate-aurora3.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388482",
-          "author": "Ian Chee",
-          "description": "CelcomDigi has announced the return of its Hajj Roaming Pass for those making the pilgrimage. Back for the second year in a row, it’s also gotten a price hike for the second year in a row. As for the final details, it looks to be a mix between the two prior iterations to some degree, […]\nThe post CelcomDigi Unveils 2026 Hajj Roaming Pass; 50 Days For RM148 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388482/celcomdigi-2026-hajj-roaming-pass-50-days-rm148/",
-          "publishedOn": "2026-04-06T04:18:12.000Z",
-          "wordCount": 11046,
-          "title": "CelcomDigi Unveils 2026 Hajj Roaming Pass; 50 Days For RM148",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/CelcomDigi-2026-Hajj-Roaming-Pass.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388464",
-          "author": "John Law",
-          "description": "Earlier during the annual NVIDIA GTC 2026, and just after its CEO, Jensen Huang, announced the imminent arrival of DLSS 5, there was a breakout session where some developers talked about applying neural rendering in practice. Specifically, the talk was about Neural Texture Compression (NTC) being put into practice. Basically, NTC is a technology that […]\nThe post NVIDIA Shows Off Neural Texture Compression Cutting VRAM Consumption Down by 85% appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388464/nvidia-shows-off-neural-texture-compression-cutting-vram-consumption-down-by-85/",
-          "publishedOn": "2026-04-06T04:05:39.000Z",
-          "wordCount": 11187,
-          "title": "NVIDIA Shows Off Neural Texture Compression Cutting VRAM Consumption Down by 85%",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/NVIDIA-NTC-Demo-GTC-2026-comparison-1.webp"
         }
       ]
     },
@@ -21734,6 +21702,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
+          "author": "Alexander Culafi",
+          "description": "Stolen OAuth tokens, which are at the root of these breaches, \"are the new attack surface, the new lateral movement,\" a researcher noted.",
+          "link": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
+          "publishedOn": "2026-04-20T21:01:31.000Z",
+          "wordCount": null,
+          "title": "Vercel Employee's AI Tool Access Led to Data Breach",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
+          "author": "Nate Nelson",
+          "description": "The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
+          "link": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
+          "publishedOn": "2026-04-20T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
+          "author": "Nate Nelson",
+          "description": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
+          "link": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
+          "publishedOn": "2026-04-20T14:33:35.000Z",
+          "wordCount": null,
+          "title": "WhatsApp Leaks User Metadata to Attackers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams",
           "author": "Becky Bracken",
@@ -22202,66 +22200,6 @@
           "publishedOn": "2026-04-07T13:00:00.000Z",
           "wordCount": null,
           "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github",
-          "author": "Jai Vijayan",
-          "description": "PRT-scan is the second in recent months where a threat actor appears to have leveraged AI for automated targeting of a widespread GitHub misconfiguration.",
-          "link": "https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github",
-          "publishedOn": "2026-04-06T21:38:53.000Z",
-          "wordCount": null,
-          "title": "AI-Assisted Supply Chain Attack Targets GitHub",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized",
-          "author": "Alexander Culafi",
-          "description": "The attack on the popular NPM package Axios is just one of many targeting maintainers and has shone a light on how threat actors can scale sophisticated social engineering campaigns.",
-          "link": "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized",
-          "publishedOn": "2026-04-06T20:55:44.000Z",
-          "wordCount": null,
-          "title": "Axios Attack Shows Social Complex Engineering Is Industrialized",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
-          "author": "Rob Wright",
-          "description": "The authentication bypass flaw, tracked as CVE-2026-35616, is the latest in a series of Fortinet vulnerabilities that have been exploited in the wild.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
-          "publishedOn": "2026-04-06T20:24:19.000Z",
-          "wordCount": null,
-          "title": "Fortinet Issues Emergency Patch for FortiClient Zero-Day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell",
-          "author": "Elizabeth Montalbano",
-          "description": "An emerging threat cluster tracked as UAT-10608 is exploiting vulnerable Web-exposed Next.js apps and using an automated tool to exfiltrate credentials, secrets, and other system data.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell",
-          "publishedOn": "2026-04-06T15:31:09.000Z",
-          "wordCount": null,
-          "title": "Automated Credential Harvesting Campaign Exploits React2Shell Flaw",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay",
-          "author": "Arielle Waldman",
-          "description": "Medical professionals are not going to stop using AI tools to manage growing workloads. Organizations should prioritize bolstering security protocols to limit their blast radius.",
-          "link": "https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay",
-          "publishedOn": "2026-04-06T14:07:50.000Z",
-          "wordCount": null,
-          "title": "Shadow AI in Healthcare Is Here to Stay",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix",
-          "author": "Robert Lemos",
-          "description": "In recognition of 21 generative AI risks, the standards groups recommends that companies take separate but linked approaches to defending GenAI and agentic AI systems.",
-          "link": "https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix",
-          "publishedOn": "2026-04-06T13:49:27.000Z",
-          "wordCount": null,
-          "title": "OWASP GenAI Security Project Gets Update, New Tools Matrix",
           "imageUrl": null
         }
       ]
