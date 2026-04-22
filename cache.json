@@ -19294,6 +19294,150 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector.\n\"The backdoor communicates with a dynamic DNS-based command-and-control server over HTTPS and supports remote shell access, file operations, and session management, indicating a continued espionage-focused capability set rather than",
+          "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
+          "publishedOn": "2026-04-22T07:58:00.000Z",
+          "wordCount": null,
+          "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHPkb7rlS_ueovJaV3s5KxgSQFfHhuZhvW8R8L9wG8j-trZvnmusj4EGvkOPah_XSqgJDLIiRWozv7RtA3o_1VaHYWnaH77PH2kOg2FYkc60uIc6WTf6frjbUp3IwhtB038_wojAl7G5OxcC4aSy5kLF48ssz_3xqLCD7bDbg6_i-RdY8tLvjxlj4Xc0o/s1600/indian-banks.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHPkb7rlS_ueovJaV3s5KxgSQFfHhuZhvW8R8L9wG8j-trZvnmusj4EGvkOPah_XSqgJDLIiRWozv7RtA3o_1VaHYWnaH77PH2kOg2FYkc60uIc6WTf6frjbUp3IwhtB038_wojAl7G5OxcC4aSy5kLF48ssz_3xqLCD7bDbg6_i-RdY8tLvjxlj4Xc0o/s1600/indian-banks.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring system.\n\"Sandbox escape vulnerability in Terrarium allows arbitrary code execution with root privileges on a host process via JavaScript prototype chain traversal,\" according to",
+          "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
+          "publishedOn": "2026-04-22T07:16:00.000Z",
+          "wordCount": null,
+          "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ3NMjiDO5jGFykZtDgbq7FvB0nT8CMXMucn5cumu_V80blg8Wt6cklpQnCeG-EuX6oGvqmQKRJxFlmynTBatMk0zgDDsdurGDcs5rXScEF_jVNV10bEqJSJcj5YsAtLS_Pag8LRPrUZr4w9M-JJldxaYYMxtf3zrGia8QjUq-PtjLk_g4-qkkINXx4uGY/s1600/sandbox.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ3NMjiDO5jGFykZtDgbq7FvB0nT8CMXMucn5cumu_V80blg8Wt6cklpQnCeG-EuX6oGvqmQKRJxFlmynTBatMk0zgDDsdurGDcs5rXScEF_jVNV10bEqJSJcj5YsAtLS_Pag8LRPrUZr4w9M-JJldxaYYMxtf3zrGia8QjUq-PtjLk_g4-qkkINXx4uGY/s1600/sandbox.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors associated with The Gentlemen ransomware‑as‑a‑service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC.\nAccording to new research published by Check Point, the command-and-control (C2 or C&C) server linked to SystemBC has led to the discovery of a botnet of more than 1,570 victims.\n\"SystemBC establishes SOCKS5 network tunnels within",
+          "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
+          "publishedOn": "2026-04-21T18:18:00.000Z",
+          "wordCount": null,
+          "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilP_Mn9bBsagBDSKxEcqQsy6typf-qNaLt59kGWS1jLvc22Z9AC8lY93_TZaBAUN3bx7PHgaGX8xfPIIipQgGZd5DViTIHxpnAS2mJj4X9EfkFWwlwPznOEgqu38CmzzUa4y4jUh6x0RBMkCG7AwRwLU6PhLNbbnOO1bq5sJxGVIy0GZije7IuCYZNuS4C/s1600/botnet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilP_Mn9bBsagBDSKxEcqQsy6typf-qNaLt59kGWS1jLvc22Z9AC8lY93_TZaBAUN3bx7PHgaGX8xfPIIipQgGZd5DViTIHxpnAS2mJj4X9EfkFWwlwPznOEgqu38CmzzUa4y4jUh6x0RBMkCG7AwRwLU6PhLNbbnOO1bq5sJxGVIy0GZije7IuCYZNuS4C/s1600/botnet.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged by them.\nThe vulnerabilities have been collectively codenamed BRIDGE:BREAK by Forescout Research Vedere Labs, which identified nearly 20,000 Serial-to-Ethernet converters exposed",
+          "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
+          "publishedOn": "2026-04-21T15:46:00.000Z",
+          "wordCount": null,
+          "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDEDMst3MIdrJaNrbo9p_7mjaF2nB_5UuQZR2JhNRNPw8h619BhPWYUZ0yYD-ix_jIluuAwjip4ho4huSuYqr4lXcperdn-4_tFKZ6yivKeOuDJd9O-1EDiwIvD1sPwRGL6keOFr5muqqXp2GWdOlpmi9_uQyREP_iiEz0ZoX-W4ACBSxYarYPb4CJTIY/s1600/hardware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDEDMst3MIdrJaNrbo9p_7mjaF2nB_5UuQZR2JhNRNPw8h619BhPWYUZ0yYD-ix_jIluuAwjip4ho4huSuYqr4lXcperdn-4_tFKZ6yivKeOuDJd9O-1EDiwIvD1sPwRGL6keOFr5muqqXp2GWdOlpmi9_uQyREP_iiEz0ZoX-W4ACBSxYarYPb4CJTIY/s1600/hardware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023.\nAngelo Martino, 41, of Land O'Lakes, Florida, teamed up with the operators of the BlackCat ransomware starting in April 2023 to assist the e-crime gang in extracting higher amounts as ransoms.\n\"Working as a negotiator on behalf of five different",
+          "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
+          "publishedOn": "2026-04-21T14:31:00.000Z",
+          "wordCount": null,
+          "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhau3OWhO8rBZT2xz8xcZ90Y8tYMmkZCI81G0GGeUkEHBQi4HzltJJJkzdQr6YS-4R8kZKSAf6Dc9YT6ifgHjmdQSpBvRgJbkEvzIW1dy57LQHQBJkc0YXS3zdYy6TTH8rklsIUGX32R0nk3hBrcYt804nqjBOND_ighh-SHyHHHBt-sJhfOszExZfVmwW8/s1600/ransomware-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhau3OWhO8rBZT2xz8xcZ90Y8tYMmkZCI81G0GGeUkEHBQi4HzltJJJkzdQr6YS-4R8kZKSAf6Dc9YT6ifgHjmdQSpBvRgJbkEvzIW1dy57LQHQBJkc0YXS3zdYy6TTH8rklsIUGX32R0nk3hBrcYt804nqjBOND_ighh-SHyHHHBt-sJhfOszExZfVmwW8/s1600/ransomware-hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage. \nThe root cause of slow MTTR is almost never \"not enough analysts.\" It is almost always the same structural problem: threat intelligence that exists",
+          "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+          "publishedOn": "2026-04-21T13:00:00.000Z",
+          "wordCount": null,
+          "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZct3ObvKWOQuvm1iZXNZ2nc7pHglILHvCbnLW1HDwUNdkgjuBap_OEBwgsXuxXBkIqmlYLgcccvPt28Knlm3jG5B3MOsXk40-bBUlhVLU3BqjWwSlxuSbiyfwHj-S15tikmwmgH37VhkaM5lMC2sL7bod_uOo0VxatuOekhYxdmkci38SzbsnZHkN-ho/s1600/boosters.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZct3ObvKWOQuvm1iZXNZ2nc7pHglILHvCbnLW1HDwUNdkgjuBap_OEBwgsXuxXBkIqmlYLgcccvPt28Knlm3jG5B3MOsXk40-bBUlhVLU3BqjWwSlxuSbiyfwHj-S15tikmwmgH37VhkaM5lMC2sL7bod_uOo0VxatuOekhYxdmkci38SzbsnZHkN-ho/s1600/boosters.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate.\n\"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Lukáš Štefanko said in a",
+          "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+          "publishedOn": "2026-04-21T12:45:00.000Z",
+          "wordCount": null,
+          "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcErEs-NVQwFX9tnOmYqQrfDjLm6WUB5jr8ltsA6bMOlVwmDwzBb5RbYAidS2jxdCPQ9RJtsgl453b7KbY8z_6tOjs0VIA7vF8LjM2OJqkZW8c1IM6TYwToxxp4dk8O0KiozATn5L4U40n2HK-Nya7tcimt1exRy9ZtYnri0XyMuM55W5AbC_8EAE0oDQC/s1600/android-nfc.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcErEs-NVQwFX9tnOmYqQrfDjLm6WUB5jr8ltsA6bMOlVwmDwzBb5RbYAidS2jxdCPQ9RJtsgl453b7KbY8z_6tOjs0VIA7vF8LjM2OJqkZW8c1IM6TYwToxxp4dk8O0KiozATn5L4U40n2HK-Nya7tcimt1exRy9ZtYnri0XyMuM55W5AbC_8EAE0oDQC/s1600/android-nfc.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen credentials.\nIdentity-based attacks remain a dominant initial access vector in breaches today. Attackers obtain valid credentials through credential stuffing",
+          "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+          "publishedOn": "2026-04-21T11:30:00.000Z",
+          "wordCount": null,
+          "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin_RithPNlLYdgxg906-M63Q0-Kv83Kl-WNjK8x5OjKiSgcDMaljvqb7XkLPoEeUDEMRdi4Cqh9DH-pv9QP1ViNjUi3q3qn5r_Lig04a3zO9TgkgiQqSLC50mE6q-6hr94bo4UnXnP5QksLGeAgSOemxUOZaXIw9Z2UHpZuinm7pqF9N0xtJNVovfojx0/s1600/door.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin_RithPNlLYdgxg906-M63Q0-Kv83Kl-WNjK8x5OjKiSgcDMaljvqb7XkLPoEeUDEMRdi4Cqh9DH-pv9QP1ViNjUi3q3qn5r_Lig04a3zO9TgkgiQqSLC50mE6q-6hr94bo4UnXnP5QksLGeAgSOemxUOZaXIw9Z2UHpZuinm7pqF9N0xtJNVovfojx0/s1600/door.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution.\nThe flaw, since patched, combines Antigravity's permitted file-creation capabilities with an insufficient input sanitization in Antigravity's native file-searching tool, find_by_name, to bypass the program's Strict",
+          "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+          "publishedOn": "2026-04-21T10:22:00.000Z",
+          "wordCount": null,
+          "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsCaDWCQOL4W8DvgT0eI2Q12HA0ThHQO8TZ-X02vqHH4lZfIeUUZ9yeQAHESn6Oe5AoqLEpTuRL9Gco-SPynh5K0fW8D0KFLEvnHnd48MHKL5OUFnw4lOPsAqBg2N8zlCEnoJMM7ZrtxyVuwhytN3SebEbluda4uN12VG2OVi6fV4SItz_57pdCGe7U0ai/s1600/ide.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsCaDWCQOL4W8DvgT0eI2Q12HA0ThHQO8TZ-X02vqHH4lZfIeUUZ9yeQAHESn6Oe5AoqLEpTuRL9Gco-SPynh5K0fW8D0KFLEvnHnd48MHKL5OUFnw4lOPsAqBg2N8zlCEnoJMM7ZrtxyVuwhytN3SebEbluda4uN12VG2OVi6fV4SItz_57pdCGe7U0ai/s1600/ide.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in PaperCut",
@@ -20284,134 +20428,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiMBUkucAS1NG7NHlk46hGqNyjv5iU5w1Z6HVNXgQywcDfTSOdtQWSqYA5ccSojgRB45ScYHFfyPWqe_9QbOZYo6u6V5qUAcRQIm4CfIDvkRqhs7rtPhmD7yNR4bn_StYbNZm2UWqXfeqXCUeDL1eneK7VyGnHfGbk3EatILzs_fKtRN6VxF8vnKDgQL_/s1600/plc.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiMBUkucAS1NG7NHlk46hGqNyjv5iU5w1Z6HVNXgQywcDfTSOdtQWSqYA5ccSojgRB45ScYHFfyPWqe_9QbOZYo6u6V5qUAcRQIm4CfIDvkRqhs7rtPhmD7yNR4bn_StYbNZm2UWqXfeqXCUeDL1eneK7VyGnHfGbk3EatILzs_fKtRN6VxF8vnKDgQL_/s1600/plc.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Russia-linked threat actor known as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since at least May 2025.\nThe large-scale exploitation campaign has been codenamed",
-          "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
-          "publishedOn": "2026-04-07T16:48:00.000Z",
-          "wordCount": null,
-          "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6xcrxyaKNQYXfVN-AHFfiSrJ_8SwW3v7MgKlJNBi-E5WIwT3ZNrNm4fcT0JZKHHLH9fbtMKdYhG_2DBHxkIy7-EydaWvEeeo4LDRPgAJ1K8i-YFeD9a0gPnw92xfN4FU3k7rQUhizsFLL8fiAo2YOw-ql-Ru07KtBUoA__B_fGYW4I6jnnn-OPwxoXnCx/s1600/router.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6xcrxyaKNQYXfVN-AHFfiSrJ_8SwW3v7MgKlJNBi-E5WIwT3ZNrNm4fcT0JZKHHLH9fbtMKdYhG_2DBHxkIy7-EydaWvEeeo4LDRPgAJ1K8i-YFeD9a0gPnw92xfN4FU3k7rQUhizsFLL8fiAo2YOw-ql-Ru07KtBUoA__B_fGYW4I6jnnn-OPwxoXnCx/s1600/router.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In the rapid evolution of the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security leaders: Identity programs are maturing, yet the risk is actually increasing.\nAccording to new research from the Ponemon Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems. These \"dark",
-          "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-          "publishedOn": "2026-04-07T16:29:00.000Z",
-          "wordCount": null,
-          "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHgJL0SczODx5PAnF85b8b0mRpiOOkIQdOWvhivyXu6H8UeZKH9ZUdaeW5IuU59q2hjMNioQWQ5vk1Km8yinGGc8GA079qvhTtFsp9PV76Kmp-3lpKh2zi3vgd_-6dFcOI6i1YHs7VkJ-p-HvOEuOwkjooBVSvYFOrVqXqNhZShZy3IUeD6BVHVvUIj50/s1600/webinar-cerby.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHgJL0SczODx5PAnF85b8b0mRpiOOkIQdOWvhivyXu6H8UeZKH9ZUdaeW5IuU59q2hjMNioQWQ5vk1Km8yinGGc8GA079qvhTtFsp9PV76Kmp-3lpKh2zi3vgd_-6dFcOI6i1YHs7VkJ-p-HvOEuOwkjooBVSvYFOrVqXqNhZShZy3IUeD6BVHVvUIj50/s1600/webinar-cerby.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins (AuthZ) under specific circumstances.\nThe vulnerability, tracked as CVE-2026-34040 (CVSS score: 8.8), stems from an incomplete fix for CVE-2024-41110, a maximum-severity vulnerability in the same component that came to light in July 2024.\n\"",
-          "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
-          "publishedOn": "2026-04-07T15:15:00.000Z",
-          "wordCount": null,
-          "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1fiR51KBq7hNIR1D2V9e0jituEJTVutYd8b9v6KR0YdA30xWCSKJo3nfIykSdYSjZNe7gvNj3Wf3HidhZ24n-piDo8LhrE6ctyZrcLYNcJwCSP0KEe7G0Fl_xJm676Dv-4bFEh63Vv_xZ1zb9qOKhfeWFN5IexOHligHBCTHyVLAMDl0aeL2olDxnjfch/s1600/ai-chat.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1fiR51KBq7hNIR1D2V9e0jituEJTVutYd8b9v6KR0YdA30xWCSKJo3nfIykSdYSjZNe7gvNj3Wf3HidhZ24n-piDo8LhrE6ctyZrcLYNcJwCSP0KEe7G0Fl_xJm676Dv-4bFEh63Vv_xZ1zb9qOKhfeWFN5IexOHligHBCTHyVLAMDl0aeL2olDxnjfch/s1600/ai-chat.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy botnet.\n\"A purpose-built Python scanner continuously sweeps major cloud IP ranges for vulnerable targets, automatically installing malicious nodes via ComfyUI-Manager if no exploitable node is already",
-          "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
-          "publishedOn": "2026-04-07T12:46:00.000Z",
-          "wordCount": null,
-          "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNAquH2CuNdKvNbKqIsmTqg2Rpb5SRn8zxBKdQliREzpq_Byd0ye0aD8IFVa1JUj09QnQVJVnAVET30DX0jRBK1LBXJ-16QC_GoiYDH2ibCfoYcttx3McOurmn9e4cSugeNgEQa-oVqR13I9K1h6ktgggudmT3u88I_iN_ksHQvuS2N0u0uGlUNTW_Tv9l/s1600/compfyui.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNAquH2CuNdKvNbKqIsmTqg2Rpb5SRn8zxBKdQliREzpq_Byd0ye0aD8IFVa1JUj09QnQVJVnAVET30DX0jRBK1LBXJ-16QC_GoiYDH2ibCfoYcttx3McOurmn9e4cSugeNgEQa-oVqR13I9K1h6ktgggudmT3u88I_iN_ksHQvuS2N0u0uGlUNTW_Tv9l/s1600/compfyui.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "When talking about credential security, the focus usually lands on breach prevention. This makes sense when IBM’s 2025 Cost of a Data Breach Report puts the average cost of a breach at $4.4 million. Avoiding even one major incident is enough to justify most security investments, but that headline figure obscures the more persistent problems caused by recurring credential",
-          "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-          "publishedOn": "2026-04-07T11:30:00.000Z",
-          "wordCount": null,
-          "title": "The Hidden Cost of Recurring Credential Incidents",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmTyBv8aWjZuBbedJ5TZkS6Y66K940b-vB3d1MoHwX2AXWb8xmabo8pN7pcFBicVbmRmK22bzd9nX3XceGzlcmkfej9nF5VJk1srniaJ2F28JEmeFynSREG8A_XMQBSSba4Rb6nn41RCXPT6p5a23xaEoM9Jxb4yvqStcl9j9cofRrotYh2dvxtrM7uc/s1600/out.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmTyBv8aWjZuBbedJ5TZkS6Y66K940b-vB3d1MoHwX2AXWb8xmabo8pN7pcFBicVbmRmK22bzd9nX3XceGzlcmkfej9nF5VJk1srniaJ2F28JEmeFynSREG8A_XMQBSSba4Rb6nn41RCXPT6p5a23xaEoM9Jxb4yvqStcl9j9cofRrotYh2dvxtrM7uc/s1600/out.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take full control of a host.\nThe efforts have been codenamed GPUBreach, GDDRHammer, and GeForge.\nGPUBreach goes a step further than GPUHammer, demonstrating for the first time that",
-          "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-          "publishedOn": "2026-04-07T08:38:00.000Z",
-          "wordCount": null,
-          "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD7E4oEicfW1OaHztWEuM4qrsJFnHRPJ41f8R-2VeKUFV3Y59XaBUctumc2R91miQ3dMPnwkEcpPMqFErKmPRJhS3VRceve1GOSGGUsP6WHGIfoQAuVV10JVy312CxGYvmb2xA_eQtuO69bNb-1NzYln9P4xbsFDoPgWG3BEdri4sRRj415XQr1NENZBh0/s1600/grpu.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD7E4oEicfW1OaHztWEuM4qrsJFnHRPJ41f8R-2VeKUFV3Y59XaBUctumc2R91miQ3dMPnwkEcpPMqFErKmPRJhS3VRceve1GOSGGUsP6WHGIfoQAuVV10JVy312CxGYvmb2xA_eQtuO69bNb-1NzYln9P4xbsFDoPgWG3BEdri4sRRj415XQr1NENZBh0/s1600/grpu.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A China-based threat actor known for deploying Medusa ransomware has been linked to the weaponization of a combination of zero-day and N-day vulnerabilities to orchestrate \"high-velocity\" attacks and break into susceptible internet-facing systems.\n\"The threat actor's high operational tempo and proficiency in identifying exposed perimeter assets have proven successful, with recent",
-          "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
-          "publishedOn": "2026-04-07T06:35:00.000Z",
-          "wordCount": null,
-          "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-ulbNH0WxLgcWOo1fnNpmYNLvHo4VW23VmfdGvDlcbd9IvuUBKMp1hY21B2NlBxtCNa5FCPEzjxPaLpOhz2uXR22uAmgHF0n-wJMb6DZmPFPjlC2QsYb0Vi4qvqmVzPcOmMr8NbwGSYYrceDknuVJ6xnzcDUUrmwO_ObAeq_Pmwf8AHeFlcQFwwpb-H3/s1600/medusa.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-ulbNH0WxLgcWOo1fnNpmYNLvHo4VW23VmfdGvDlcbd9IvuUBKMp1hY21B2NlBxtCNa5FCPEzjxPaLpOhz2uXR22uAmgHF0n-wJMb6DZmPFPjlC2QsYb0Vi4qvqmVzPcOmMr8NbwGSYYrceDknuVJ6xnzcDUUrmwO_ObAeq_Pmwf8AHeFlcQFwwpb-H3/s1600/medusa.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck.\nThe vulnerability in question is CVE-2025-59528 (CVSS score: 10.0), a code injection vulnerability that could result in remote code execution.\n\"The CustomMCP node allows users to input configuration settings for connecting",
-          "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
-          "publishedOn": "2026-04-07T05:56:00.000Z",
-          "wordCount": null,
-          "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGR6ZfT0_UppVPQsgk7lwTbzfybdDFY-HeJi9F6VE6HuN7-Ja-lpveDnPA-kcS7x8l1oZ0lUqPoEFdRTOMt0Z8H6EeT_NadV_P7bjlh8Je6Q-T5KAlOCzOWt-LyY3jY8RsTlRTUzuXsVwf_gs-_KyXw8G_LcFz2dY-2P9XozQWy2p9PneNGUMctvpIZYM/s1600/flowise.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGR6ZfT0_UppVPQsgk7lwTbzfybdDFY-HeJi9F6VE6HuN7-Ja-lpveDnPA-kcS7x8l1oZ0lUqPoEFdRTOMt0Z8H6EeT_NadV_P7bjlh8Je6Q-T5KAlOCzOWt-LyY3jY8RsTlRTUzuXsVwf_gs-_KyXw8G_LcFz2dY-2P9XozQWy2p9PneNGUMctvpIZYM/s1600/flowise.jpg"
         }
       ]
     },
@@ -20420,6 +20436,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=390638",
+          "author": "Heirul Kamel",
+          "description": "Alongside teasing the Luna Pro and Luna Ultra at NAB 2026, Insta360 also previewed a new wireless microphone, the Mic Pro. While details remain limited for now, the company is positioning it as a more visible, creator-focused accessory rather than something designed to stay hidden. Unlike most compact wireless microphones, the Mic Pro features a […]\nThe post Insta360 Mic Pro Teased With E-Ink Display And Direct Connect Audio appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390638/insta360-mic-pro-teased-with-e-ink-display-direct-connect/",
+          "publishedOn": "2026-04-22T09:41:32.000Z",
+          "wordCount": 15387,
+          "title": "Insta360 Mic Pro Teased With E-Ink Display And Direct Connect Audio",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/insta360-mic-pro-preview-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390597",
+          "author": "John Law",
+          "description": "Intel is reportedly planning on releasing more unlocked desktop CPUs, particularly in the lower-tier segment of the market. At least, that’s what Robert Hallock, the VP/GM, Enthusiast Channel Business of the blue chipmaker said. In an interview with German tech portal, PC Games Hardware, Hallock said that Intel wants to deliver “more and more unlocked […]\nThe post Intel Could Release More Unlocked Lower-Tier Desktop Core Series CPUs appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390597/intel-could-release-unlocked-lower-tier-desktop-core-series-cpus/",
+          "publishedOn": "2026-04-22T09:25:13.000Z",
+          "wordCount": 15400,
+          "title": "Intel Could Release More Unlocked Lower-Tier Desktop Core Series CPUs",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/11/Intel-Core-Ultra-5-245K-Vs-AMD-Ryzen-5-9600X-Main-4.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390621",
+          "author": "Kiran Ganesan",
+          "description": "If you are still using an older smartphone or have been delaying software updates, this may be worth noting, especially if you are a Public Bank user. The reason being is that the bank plans to end support for its mobile app on devices running older operating systems later this year. In an official notice, […]\nThe post Public Bank To End MyPB App Support For Older OS On 1 September appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390621/public-bank-end-mypb-app-support-older-os-1-september/",
+          "publishedOn": "2026-04-22T09:21:59.000Z",
+          "wordCount": 15034,
+          "title": "Public Bank To End MyPB App Support For Older OS On 1 September",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Public-Bank-To-End-MyPB-App-Support-For-Older-OS-On-1-September-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390582",
+          "author": "Ian Chee",
+          "description": "Tourism Malaysia has announced that Jalan Bukit Bintang will be closed next week, between 29 April and 2 May. This is in conjunction with not only Labour day, but also the Rain Rave Water Music Festival. Beyond the full closure on those days, the road will also be partially closed starting today, within certain time […]\nThe post Jalan Bukit Bintang To Close From 29 April To 2 May appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390582/jalan-bukit-bintang-close-29-april-2-may/",
+          "publishedOn": "2026-04-22T09:16:48.000Z",
+          "wordCount": 15039,
+          "title": "Jalan Bukit Bintang To Close From 29 April To 2 May",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Bukit-Bintang.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390556",
+          "author": "Nurul Kamil",
+          "description": "After much teasing, HONOR has unveiled the latest generation of its main numbered range of smartphones. Positioned as a new flagship lineup, the HONOR 600 series features a refreshed design and upgrades in terms of performance and camera. Much like last year’s iteration, this batch of handsets comprises two models, namely the base HONOR 600 […]\nThe post HONOR 600 Series Launched In Malaysia with 200MP Main Camera appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390556/honor-600-series-launched-in-malaysia-with-200mp-main-camera/",
+          "publishedOn": "2026-04-22T08:49:41.000Z",
+          "wordCount": 15975,
+          "title": "HONOR 600 Series Launched In Malaysia with 200MP Main Camera",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/honor-600-series-malaysia-15.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390583",
+          "author": "John Law",
+          "description": "ASUS officially announced the availability of two new ROG branded backpacks. These products are the ROG Archer Messenger 14 and Archer Backpack 16. ROG Archer Messenger 14 Featuring a slingbag design, the Archer Messenger redesigns the form factor for the everyday gamer or road warrior. It has breathable straps designed to  relieve pressure off the […]\nThe post ASUS Launches All-New ROG Archer Messenger 14 And Backpack 16 In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390583/asus-launches-all-new-rog-archer-messenger-14-and-backpack-16-in-malaysia/",
+          "publishedOn": "2026-04-22T07:16:05.000Z",
+          "wordCount": 15243,
+          "title": "ASUS Launches All-New ROG Archer Messenger 14 And Backpack 16 In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/ASUS-ROG-Archer-Messenger-14-Backpack-16-Glamour-Shot-1-scaled.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390550",
+          "author": "Ian Chee",
+          "description": "The Razer Atlas, the brand’s first glass mouse pad, launched back in 2023. It was an intriguing entry to be sure, though it’s definitely not a case of form over function. Though in testing, it did feel more like a control mat than a speed mat despite the hard surface, which is usually the norm […]\nThe post The Razer Atlas Glass Mouse Pad Gets A Pro Update appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390550/razer-atlas-glass-gets-pro-update/",
+          "publishedOn": "2026-04-22T06:20:54.000Z",
+          "wordCount": 15402,
+          "title": "The Razer Atlas Glass Mouse Pad Gets A Pro Update",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Razer-Atlas-Pro.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390561",
+          "author": "Kiran Ganesan",
+          "description": "Coinciding with the arrival of its new smartphones, OPPO has also introduced a flagship smartwatch and a pair of earbuds. These are the Watch X3, which features a titanium case, and the Enco Clip2 Open Earbuds, which promises up to 40 hours of continuous audio playback. Watch X3 We’ve already covered the watch in detail […]\nThe post OPPO Launches Enco Clip2 Open Earbuds, Watch X3 In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390561/oppo-launches-enco-clip2-open-earbuds-watch-x3-in-malaysia/",
+          "publishedOn": "2026-04-22T05:52:37.000Z",
+          "wordCount": 16060,
+          "title": "OPPO Launches Enco Clip2 Open Earbuds, Watch X3 In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/OPPO-Watch-X3-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390505",
+          "author": "Nurul Kamil",
+          "description": "DJI has expanded its lineup of smartphone gimbals with the launch of the Osmo Mobile 8P in China. As the name suggests, this model serves as the fancier sibling to the Osmo Mobile 8, which debuted internationally back in November. Naturally, there are a few notable upgrades alongside the familiar features. In addition to the […]\nThe post Newly Launched DJI Osmo Mobile 8P Already Listed On SIRIM appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390505/dji-osmo-mobile-8p-sirim/",
+          "publishedOn": "2026-04-22T04:35:29.000Z",
+          "wordCount": 15978,
+          "title": "Newly Launched DJI Osmo Mobile 8P Already Listed On SIRIM",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/dji-osmo-mobile-8p-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390499",
+          "author": "Heirul Kamel",
+          "description": "The AirPods Max 2, which was announced unexpectedly by Apple last month, is now available in Malaysia. You can now purchase it via the brand’s store at The Exchange TRX, as well as its official website. As revealed previously, the second-gen Apple wireless headset is priced at RM2,299 locally. To recap, the AirPods Max 2 […]\nThe post Apple AirPods Max 2 Now Available In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390499/apple-airpods-max-2-now-available-in-malaysia/",
+          "publishedOn": "2026-04-22T04:28:53.000Z",
+          "wordCount": 15330,
+          "title": "Apple AirPods Max 2 Now Available In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/airpods-max-2-launch-2.jpg"
+        },
         {
           "id": "https://www.lowyat.net/?p=390449",
           "author": "John Law",
@@ -21594,106 +21710,6 @@
           "wordCount": 10978,
           "title": "MOF Refutes Claims Of Additional BUDI95 Subsidy; Limit Remains At 200 Litres/Month",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/batch_fuel-station-petrol-pump.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388682",
-          "author": "Ian Chee",
-          "description": "Back in June last year, WhatsApp had announced its intention to release, among other things, channel subscriptions. The idea is to allow users to support their favourite channels for a monthly fee, and maybe get exclusive content in return. More recently, it looks like the Meta subsidiary has begun testing the feature in earnest. This […]\nThe post WhatsApp Currently Testing Premium Subscriptions For Channels On Android appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388682/whatsapp-testing-premium-subscriptions-for-channels-android/",
-          "publishedOn": "2026-04-07T09:14:04.000Z",
-          "wordCount": 10857,
-          "title": "WhatsApp Currently Testing Premium Subscriptions For Channels On Android",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/WhatsApp-iPad-mini-App-Store.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388684",
-          "author": "Nurul Kamil",
-          "description": "Huawei is preparing to release another addition to its tablet lineup on our shores. Following the debut of the MatePad 11.5 S 2026 last week, the brand began teasing the launch of the MatePad Mini. In a Facebook post, the company shared an image of the upcoming device with the tagline “Mini but Mighty”. While […]\nThe post Huawei To Launch MatePad Mini In Malaysia Soon appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388684/huawei-to-launch-matepad-mini-in-malaysia-soon/",
-          "publishedOn": "2026-04-07T07:43:29.000Z",
-          "wordCount": 10932,
-          "title": "Huawei To Launch MatePad Mini In Malaysia Soon",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/huawei-matepad-mini-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388635",
-          "author": "Ian Chee",
-          "description": "Beyond the laptops, Acer also unveiled its new batch of Aspire S All-In-One PCs. There are four variants, split between 23.8- and 27-inch sizes, with each getting two processor choices. These are reflected in their specific model numbers as well, which we’ll get to in a bit. Beyond that though,  most of the spec sheet is […]\nThe post Acer Refreshes Aspire S AIO PCs; Available From RM4,399 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388635/acer-aspire-s-aio-pcs-from-rm4399/",
-          "publishedOn": "2026-04-07T06:51:53.000Z",
-          "wordCount": 11174,
-          "title": "Acer Refreshes Aspire S AIO PCs; Available From RM4,399",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Acer-Aspire-S-AIO-2026-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388657",
-          "author": "Nurul Kamil",
-          "description": "Alongside the Swift Edge 14 AI, Acer has brought the Swift Go 16 AI to our shores. Equipped with an Intel Core Ultra Series 3 processor, the laptop promises performance without compromising portability. Among the highlights is its durable but light aluminium chassis, which weighs 1.36kg. The laptop sports a 16-inch 3K WQXGA+ OLED display […]\nThe post Acer Swift Go 16 AI Debuts In Malaysia For RM5,999 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388657/acer-swift-go-16-ai/",
-          "publishedOn": "2026-04-07T06:36:03.000Z",
-          "wordCount": 10860,
-          "title": "Acer Swift Go 16 AI Debuts In Malaysia For RM5,999",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/acer-swift-go-16-ai-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388652",
-          "author": "Kiran Ganesan",
-          "description": "If you tried making a midnight purchase earlier today with your CIMB debit card, you might have noticed that your transaction did not go through. That is because CIMB announced late last night that it will be carrying out scheduled maintenance for its debit card services, resulting in temporary downtime at selected times throughout April. […]\nThe post CIMB Announces Scheduled Maintenance For Debit Card Services appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388652/cimb-scheduled-maintenance-debit-card-services/",
-          "publishedOn": "2026-04-07T06:06:28.000Z",
-          "wordCount": 10963,
-          "title": "CIMB Announces Scheduled Maintenance For Debit Card Services",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/CIMB-Announces-Scheduled-Maintenance-For-Debit-Card-Services-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388633",
-          "author": "Nurul Kamil",
-          "description": "Today, Acer announced its newest laptops for the Malaysian market. Among them is the Swift Edge 14 AI, which the company has armed with the latest Intel Core Ultra Series 3 processors. Comprising two SKUs, the laptop features a new design with a magnesium-aluminium alloy chassis. The laptop sports a light build weighing under 1kg, […]\nThe post Acer Swift Edge 14 AI Available For Pre-Order; Priced From RM5,899 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388633/acer-swift-edge-14-ai/",
-          "publishedOn": "2026-04-07T04:40:28.000Z",
-          "wordCount": 10916,
-          "title": "Acer Swift Edge 14 AI Available For Pre-Order; Priced From RM5,899",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/acer-swift-edge-14-ai-6.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388611",
-          "author": "Kiran Ganesan",
-          "description": "LG has officially announced its 2026 QNED evo Mini LED TV lineup, headlined by ultra-large 115-inch and 100-inch models. The new series also includes additional variants under the QNED lineup, such as the QNED70. Beyond just size, LG says the TVs come equipped with AI-driven picture and audio features designed to enhance sports, gaming, and […]\nThe post LG Announces 2026 QNED Evo Mini LED TV Lineup; Includes A 115-Inch Model appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388611/lg-announces-2026-qned-evo-mini-led-tv-lineup/",
-          "publishedOn": "2026-04-07T04:34:07.000Z",
-          "wordCount": 11803,
-          "title": "LG Announces 2026 QNED Evo Mini LED TV Lineup; Includes A 115-Inch Model",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/LG-Launches-2026-QNED-Evo-Mini-LED-TV-Lineup-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388609",
-          "author": "Ian Chee",
-          "description": "With the launch of the realme 16 Pro, Pro Plus and the Pad 3, the brand also snuck in two wireless earbuds into the mix. These are the realme Buds T500 Pro and Buds Air 8. The former is noted to be an online exclusive, but beyond that, they’re pretty par for the course for […]\nThe post realme launches Buds T500 Pro, Buds Air 8; Starts From RM199 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388609/realme-buds-t500-pro-buds-air-8-from-rm199/",
-          "publishedOn": "2026-04-07T04:23:49.000Z",
-          "wordCount": 11213,
-          "title": "realme launches Buds T500 Pro, Buds Air 8; Starts From RM199",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/realme-Buds-T500-Pro-case-open.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388614",
-          "author": "Heirul Kamel",
-          "description": "Apple is reportedly moving closer to its long-rumoured foldable iPhone, as manufacturing partner Foxconn has begun trial production of the so-called iPhone Fold. The update comes via Chinese leakster Instant Digital, suggesting that the device has entered a key pre-production phase ahead of its expected 2026 debut. Trial production typically serves as a testing stage […]\nThe post iPhone Fold Reportedly Enters Trial Production; Possible Release By Late 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388614/iphone-fold-reportedly-enters-trial-production/",
-          "publishedOn": "2026-04-07T04:21:15.000Z",
-          "wordCount": 11558,
-          "title": "iPhone Fold Reportedly Enters Trial Production; Possible Release By Late 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/iPhone-Fold-New-Leak-Dec-2025-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388605",
-          "author": "Heirul Kamel",
-          "description": "Mercedes-Benz has issued a recall in the United States involving every 2025 Mercedes-Benz G580 EQ, following concerns related to its wheel bolts. The recall, first highlighted by InsideEVs and documented through the National Highway Traffic Safety Administration (NHTSA), affects 3,734 units currently on the road. According to the recall filing, the existing wheel bolts may […]\nThe post Mercedes-Benz Recalls 2025 G580 EQ In The US Over Wheel Bolt Issue appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388605/mercedes-benz-recalls-2025-g580-eq-us/",
-          "publishedOn": "2026-04-07T02:30:37.000Z",
-          "wordCount": 11162,
-          "title": "Mercedes-Benz Recalls 2025 G580 EQ In The US Over Wheel Bolt Issue",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/G580photo_2025-06-26_12-24-40.jpg"
         }
       ]
     },
@@ -21702,6 +21718,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme",
+          "author": "Alexander Culafi",
+          "description": "A cautionary tale illustrates why the person negotiating should never be involved with any part of the ransom payment process, experts noted.",
+          "link": "https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme",
+          "publishedOn": "2026-04-21T21:12:43.000Z",
+          "wordCount": null,
+          "title": "Ransomware Negotiator Pleads Guilty to BlackCat Scheme",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool",
+          "author": "Jai Vijayan",
+          "description": "Three proof-of-concept exploits are being used in active attacks against Microsoft's built-in security platform; two are unpatched.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool",
+          "publishedOn": "2026-04-21T19:12:40.000Z",
+          "wordCount": null,
+          "title": "Exploits Turn Windows Defender into Attacker Tool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk",
+          "author": "Elizabeth Montalbano",
+          "description": "The critical remote code execution flaw (CVE-2026-1731) in the remote monitoring and management tool can be exploited to spread ransomware and compromise supply chains.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk",
+          "publishedOn": "2026-04-21T15:29:17.000Z",
+          "wordCount": null,
+          "title": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
+          "author": "Elizabeth Montalbano",
+          "description": "The prompt injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
+          "publishedOn": "2026-04-21T15:00:50.000Z",
+          "wordCount": null,
+          "title": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy",
+          "author": "Nate Nelson",
+          "description": "China is spying on India's financial sector, for some reason, and it's not putting much effort into it, judging by some stale TTPs.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy",
+          "publishedOn": "2026-04-21T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Chinese APT Targets Indian Banks, Korean Policy Circles",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
           "author": "Alexander Culafi",
@@ -22140,66 +22206,6 @@
           "publishedOn": "2026-04-08T13:46:29.000Z",
           "wordCount": null,
           "title": "Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity",
-          "author": "Rob Wright",
-          "description": "Microsoft says the financially motivated cybercrime group has exploited N-day and zero-day vulnerabilities in campaigns predicated on speed.",
-          "link": "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity",
-          "publishedOn": "2026-04-07T20:15:07.000Z",
-          "wordCount": null,
-          "title": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data",
-          "author": "Alexander Culafi",
-          "description": "By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders as benign and return sensitive data to the attacker's server.",
-          "link": "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data",
-          "publishedOn": "2026-04-07T19:52:26.000Z",
-          "wordCount": null,
-          "title": "Grafana Patches AI Bug That Could Have Leaked User Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever",
-          "author": "Kristina Beek, Kelly Jackson Higgins",
-          "description": "Dark Reading's Kelly Jackson Higgins shares insights on the past, present, and future of cybersecurity after attending RSAC 2026 Conference.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever",
-          "publishedOn": "2026-04-07T14:57:16.000Z",
-          "wordCount": null,
-          "title": "RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends",
-          "author": "Alexander Culafi, Kristina Beek",
-          "description": "As AI dominated RSAC 2026, CISOs and industry leaders debated its role in security, from agentic applications to the challenges of scaling human involvement in decision-making.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends",
-          "publishedOn": "2026-04-07T14:36:44.000Z",
-          "wordCount": null,
-          "title": "Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics",
-          "author": "Joan Goodchild",
-          "description": "A panel of five C-suite leaders discuss how cybersecurity success is measured and why it isn't improving results.",
-          "link": "https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics",
-          "publishedOn": "2026-04-07T14:26:02.000Z",
-          "wordCount": null,
-          "title": "Lies, Damned Lies, and Cybersecurity Metrics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026",
-          "author": "Melinda Marks",
-          "description": "AI dominated the RSAC 2026 Conference and showed it's still humans in cybersecurity who matter most.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026",
-          "publishedOn": "2026-04-07T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference",
           "imageUrl": null
         }
       ]
