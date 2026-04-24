@@ -19294,6 +19294,102 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure.\nThe vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access sensitive data.\n\"A server-side",
+          "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+          "publishedOn": "2026-04-24T07:24:00.000Z",
+          "wordCount": null,
+          "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQrFbHBSUJCgc3WB8IsBaYhvbOnk7jwkU3MRHO7YVAFZBBwi7LE2OZzC_oddjsfbh_YwW7czfQ0FzCpHyztt-N8po5TkqZqsOhm_LpW4dxmzaDtGkud-vho2R409maf5r_QBAPjGUpfFShbENQ-qIpwaQ0eNmBgD7U-Pgu4uFgSzGRxt6O7kKLAg_PyVg/s1600/lmdeploy.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQrFbHBSUJCgc3WB8IsBaYhvbOnk7jwkU3MRHO7YVAFZBBwi7LE2OZzC_oddjsfbh_YwW7czfQ0FzCpHyztt-N8po5TkqZqsOhm_LpW4dxmzaDtGkud-vho2R409maf5r_QBAPjGUpfFShbENQ-qIpwaQ0eNmBgD7U-Pgu4uFgSzGRxt6O7kKLAg_PyVg/s1600/lmdeploy.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
+          "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+          "publishedOn": "2026-04-23T18:16:00.000Z",
+          "wordCount": null,
+          "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoBLtF5qmS63UuZJdrs4DtwoJRc6V3OK_4vUjCp-mHUs99AlJkzxcQgZH-tD0dFneYJHfBEumdGw42jcqcYHYiqmNHBtHZVB7m83pxPakcbupcdcRmDzg2fedK4doHPUwOfGoqY2a44VUwgK1g8cyZSgpMmpzcbWuBrzxvdalA9bkt8_26WkdIfZy6qqa/s1600/helpdesk.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoBLtF5qmS63UuZJdrs4DtwoJRc6V3OK_4vUjCp-mHUs99AlJkzxcQgZH-tD0dFneYJHfBEumdGw42jcqcYHYiqmNHBtHZVB7m83pxPakcbupcdcRmDzg2fedK4doHPUwOfGoqY2a44VUwgK1g8cyZSgpMmpzcbWuBrzxvdalA9bkt8_26WkdIfZy6qqa/s1600/helpdesk.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the application security company said.\n\"The attack appears to have leveraged",
+          "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+          "publishedOn": "2026-04-23T13:42:00.000Z",
+          "wordCount": null,
+          "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems behind apps is easier than breaking the apps themselves. The exploits are simple but still work",
+          "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+          "publishedOn": "2026-04-23T13:17:00.000Z",
+          "wordCount": null,
+          "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.\nWell, that world is already here.\nThanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets attacked is shrinking to zero. We call this the Collapsing Exploit Window, and it means your",
+          "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
+          "publishedOn": "2026-04-23T12:03:00.000Z",
+          "wordCount": null,
+          "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirgCFjBm7wVU1Nve1GwsT-mX4Fm9C2OB25FN0xsgQxB5H1y0XN-I4TrfFH3f47uWBie1-yNBz_K2tuml0FOagCnaxI5xQvqoVbpzOUU6bCoaBZLohQWPSWF4r2YSEXIQKt3FRdoSXjvAk8OTmysTV4uoPD87y-3Boh7UzcJoUFIQxkmB576KIDMtU0YHDx/s1600/miggo-webinar.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirgCFjBm7wVU1Nve1GwsT-mX4Fm9C2OB25FN0xsgQxB5H1y0XN-I4TrfFH3f47uWBie1-yNBz_K2tuml0FOagCnaxI5xQvqoVbpzOUU6bCoaBZLohQWPSWF4r2YSEXIQKt3FRdoSXjvAk8OTmysTV4uoPD87y-3Boh7UzcJoUFIQxkmB576KIDMtU0YHDx/s1600/miggo-webinar.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and patch bugs before adversaries can.\nMythos Preview, the model that led to Project Glasswing, found",
+          "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
+          "publishedOn": "2026-04-23T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzSPo6TkrJjcTvsuM1O71fiiZ7gnKw4PqqtKu_TeAaZNr5qAEfsfVvoZv64F7EFULRIv8SKePHZehY_0g9AqyqlnMdTPF-OLf1S9RwmB-edOgYKEg1Llw-6m87CQBglHxbK3oS0Brnwc9_x_oi56XGuxe1V9vN0KfoY9cUmU4mplEHeqQxO-5byx79YY/s1600/picus-main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzSPo6TkrJjcTvsuM1O71fiiZ7gnKw4PqqtKu_TeAaZNr5qAEfsfVvoZv64F7EFULRIv8SKePHZehY_0g9AqyqlnMdTPF-OLf1S9RwmB-edOgYKEg1Llw-6m87CQBglHxbK3oS0Brnwc9_x_oi56XGuxe1V9vN0KfoY9cUmU4mplEHeqQxO-5byx79YY/s1600/picus-main.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper.\n\"The group wields a wide array of tools mostly written in Go, using injectors and loaders to deploy and execute various backdoors in its arsenal,\" Slovakian cybersecurity company ESET said in a report shared with The Hacker",
@@ -20364,102 +20460,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPUQqw4JQlrmSih69TSpC28TmE2G1rOMs1k_jrdeQbXFFNV6nPvlVQh9oMIwtOLiVJVUxYZFZ0RDiXmLDOPXpF-pbaStwjml7hxE-OITfsVlk2wA-nKUOpcn9R7FjQe03OInZdN2p8GmkFXAvYBbDeU_IDX1wuQ4iqc46lM6SraDPXhbEcCt-LNL0YTck/s1600/slider.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPUQqw4JQlrmSih69TSpC28TmE2G1rOMs1k_jrdeQbXFFNV6nPvlVQh9oMIwtOLiVJVUxYZFZ0RDiXmLDOPXpF-pbaStwjml7hxE-OITfsVlk2wA-nKUOpcn9R7FjQe03OInZdN2p8GmkFXAvYBbDeU_IDX1wuQ4iqc46lM6SraDPXhbEcCt-LNL0YTck/s1600/slider.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit (SDK) called EngageLab SDK that could have put millions of cryptocurrency wallet users at risk.\n\"This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private data,\" the Microsoft Defender",
-          "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
-          "publishedOn": "2026-04-09T17:26:00.000Z",
-          "wordCount": null,
-          "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigi73Eo-lmEoLh8BcTJmWW5GrmLrm49pUkkl8zyxIg1YTEncbgCaY-wXarkWZuipJhJEubcJx-VEiHOv_NrMtPw1BoEU3Ni8gXNcKcbWX4TqBU8pikOAkRdCl-r_XvLz4oXmQ2IpY25bWzLFkXh_hezhx0jgUYiuRvrYVxhW-6x5J7m84HH_VeRtRzTGbW/s1600/vul-app.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigi73Eo-lmEoLh8BcTJmWW5GrmLrm49pUkkl8zyxIg1YTEncbgCaY-wXarkWZuipJhJEubcJx-VEiHOv_NrMtPw1BoEU3Ni8gXNcKcbWX4TqBU8pikOAkRdCl-r_XvLz4oXmQ2IpY25bWzLFkXh_hezhx0jgUYiuRvrYVxhW-6x5J7m84HH_VeRtRzTGbW/s1600/vul-app.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A previously undocumented threat cluster dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook.\n\"LucidRook is a sophisticated stager that embeds a Lua interpreter and Rust-compiled libraries within a dynamic-link library (DLL) to download and",
-          "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
-          "publishedOn": "2026-04-09T16:23:00.000Z",
-          "wordCount": null,
-          "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4smwzOHJUhoy2YQYZQpTIp9u5xk7vywCOtewG6WfLl1S3h1EO25k8GY6WSHovGYwTn4vo9uMFcoNX6XDa0-BC0mXJrTdSHtWGJDP1GIXqGvRnlqnqyPwzxxPFyjLx9yxEn1oeWs4r8fqq5xlS__yUA3nwf0DpZBiUh86FUx71PRBGbAP0gaNFAILqYgbT/s1600/phish.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4smwzOHJUhoy2YQYZQpTIp9u5xk7vywCOtewG6WfLl1S3h1EO25k8GY6WSHovGYwTn4vo9uMFcoNX6XDa0-BC0mXJrTdSHtWGJDP1GIXqGvRnlqnqyPwzxxPFyjLx9yxEn1oeWs4r8fqq5xlS__yUA3nwf0DpZBiUh86FUx71PRBGbAP0gaNFAILqYgbT/s1600/phish.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Thursday. Another week, another batch of things that probably should've been caught sooner but weren't.\nThis one's got some range — old vulnerabilities getting new life, a few \"why was that even possible\" moments, attackers leaning on platforms and tools you'd normally trust without thinking twice. Quiet escalations more than loud zero-days, but the kind that matter more in",
-          "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
-          "publishedOn": "2026-04-09T12:57:00.000Z",
-          "wordCount": null,
-          "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1600/threatsdays-main.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1600/threatsdays-main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls and creating new blind spots in what is known as shadow AI. While similar to the phenomenon of",
-          "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
-          "publishedOn": "2026-04-09T11:31:00.000Z",
-          "wordCount": null,
-          "title": "The Hidden Security Risks of Shadow AI in Enterprises",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO6OQHlRJgIjpCieiOfi48Mexu0Puimw_dz6w0h1spC2ZjcqifD2YPod5wd1AtUhr-e7CtAAoZ0bnRGnCH-BZRz4pDlB5Db2hJ4vFqsq5jc42UI4VTGXkxD8gNX1Ods9PpQZL4lk84RNL6EDSeI4YFCdjBgKSqKGimsqcsjekAAmr8CGYr3a2wPkchNYA/s1600/keeper.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO6OQHlRJgIjpCieiOfi48Mexu0Puimw_dz6w0h1spC2ZjcqifD2YPod5wd1AtUhr-e7CtAAoZ0bnRGnCH-BZRz4pDlB5Db2hJ4vFqsq5jc42UI4VTGXkxD8gNX1Ods9PpQZL4lk84RNL6EDSeI4YFCdjBgKSqKGimsqcsjekAAmr8CGYr3a2wPkchNYA/s1600/keeper.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December 2025.\nThe finding, detailed by EXPMON's Haifei Li, has been described as a highly-sophisticated PDF exploit. The artifact (\"Invoice540.pdf\") first appeared on the VirusTotal platform on November 28, 2025. A second",
-          "link": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
-          "publishedOn": "2026-04-09T11:15:00.000Z",
-          "wordCount": null,
-          "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKu6NdwE0kgawNywNJK7cGCEdRfzOKwsH9AeIT7zJ49RPq_KJAG3SyjH44SS8Zsd-gAUFDFKnfdpaFH8sAZT9wevB2fS0QVk-gCp8xg7j1XcwGJzv05xpoMN4O-oiEd1v3U3kuqW8cTGk0QlHPPS5GgifHq5DBgrE9R_6GxqxYb1erEN_qvAnUG6VFkx0/s1600/adobe.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKu6NdwE0kgawNywNJK7cGCEdRfzOKwsH9AeIT7zJ49RPq_KJAG3SyjH44SS8Zsd-gAUFDFKnfdpaFH8sAZT9wevB2fS0QVk-gCp8xg7j1XcwGJzv05xpoMN4O-oiEd1v3U3kuqW8cTGk0QlHPPS5GgifHq5DBgrE9R_6GxqxYb1erEN_qvAnUG6VFkx0/s1600/adobe.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to findings from Access Now, Lookout, and SMEX.\nTwo of the targets included prominent Egyptian journalists and government critics, Mostafa",
-          "link": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
-          "publishedOn": "2026-04-09T10:40:00.000Z",
-          "wordCount": null,
-          "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlfEPPxKdPdQANFPwRrggWpWL4wPe22B_Hdr5FpqDGHKTwN95xiQVwqqN896q_CkYvn-wrbDTXMl6wZ_aMD0YwEyRAI_9lzSZj_cg9-RhoNXMh-j16cA0n4CIT5y29FkOWFrQoV8oCv5OtZhMlhAKwqcgirImTOXoVzsJY76y6l-EWn86dAJfYNBy1ejW4/s1600/phone-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlfEPPxKdPdQANFPwRrggWpWL4wPe22B_Hdr5FpqDGHKTwN95xiQVwqqN896q_CkYvn-wrbDTXMl6wZ_aMD0YwEyRAI_9lzSZj_cg9-RhoNXMh-j16cA0n4CIT5y29FkOWFrQoV8oCv5OtZhMlhAKwqcgirImTOXoVzsJY76y6l-EWn86dAJfYNBy1ejW4/s1600/phone-hacking.jpg"
         }
       ]
     },
@@ -20468,6 +20468,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=390921",
+          "author": "John Law",
+          "description": "After the stellar performance of the Core Ultra 7 270K Plus, it was only natural that I take the Intel Core Ultra 5 250K Plus for a spin in the gaming sector. And boy, does it slap, hard. Specifications Design Like the 270K Plus, the 250K Plus isn’t looking to reinvent the wheel for the […]\nThe post Intel Core Ultra 5 250K Plus Review: Intel’s Mid-Range Groove Be Strong appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390921/intel-core-ultra-5-250k-plus-review/",
+          "publishedOn": "2026-04-24T09:45:57.000Z",
+          "wordCount": 15900,
+          "title": "Intel Core Ultra 5 250K Plus Review: Intel’s Mid-Range Groove Be Strong",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Intel-Core-Ultra-5-250K-Plus-Review-1-scaled.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390888",
+          "author": "Ian Chee",
+          "description": "Last month, MG Motor Malaysia announced that its local assembly plant in Pegoh, Alor Gajah, Melaka rolled out its first CKD S5 EV. Or more specifically, the LUX Long Range variant of said EV, based on the stats the company brought up. Though at the time, the brand only revealed that the car will have […]\nThe post MG S5 EV LUX Long Range CKD Price Starts From RM116,900 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390888/mg-s5-ev-lux-long-range-ckd-from-rm116900/",
+          "publishedOn": "2026-04-24T08:54:56.000Z",
+          "wordCount": 15203,
+          "title": "MG S5 EV LUX Long Range CKD Price Starts From RM116,900",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/MG-S5-EV-test-drive.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390892",
+          "author": "Kiran Ganesan",
+          "description": "Earlier this month, the Malaysian government introduced flexible work arrangements, including work-from-home (WFH), within the federal public sector. Now, Prime Minister Datuk Seri Anwar Ibrahim is urging the private sector to consider a similar approach to help reduce fuel consumption while maintaining productivity and morale. In his speech, he said employers should be more flexible […]\nThe post Anwar Urges Private Sector To Adopt WFH Arrangements As Fuel Costs Rise appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390892/anwar-urges-private-sector-wfh/",
+          "publishedOn": "2026-04-24T08:31:12.000Z",
+          "wordCount": 15304,
+          "title": "Anwar Urges Private Sector To Adopt WFH Arrangements As Fuel Costs Rise",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/flexible-working-arrangements-fwa-working-from-home-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390886",
+          "author": "John Law",
+          "description": "Shuhei Yoshida, the former president of Sony Interactive Entertainment (SIE), has surprisingly come to the defense of PC Ports, stating that they have been largely positive for the company. Yoshida says that the PC ports of Sony PlayStation games financially help the company recoup some of the initial development costs. By virtue of the ports […]\nThe post Former Sony PlayStation Head Becomes Unlikely Champion For PC Ports appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390886/former-sony-playstation-heads-becomes-unlikely-champion-for-pc-ports/",
+          "publishedOn": "2026-04-24T07:48:35.000Z",
+          "wordCount": 15215,
+          "title": "Former Sony PlayStation Head Becomes Unlikely Champion For PC Ports",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/Sony-PlayStation-5-PS5-logo-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390879",
+          "author": "Nurul Kamil",
+          "description": "According to a report by Reuters, SpaceX is looking to manufacture its own GPUs sometime in the future. While details on this supposed move are unclear, it seems that the company is considering this route as part of a broader push into AI infrastructure. So by GPU, we’re looking at AI accelerators, and not gaming […]\nThe post SpaceX Reportedly Aiming To Manufacture Its Own GPUs Amid Chip Supply Concerns appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390879/spacex-gpus-rumour/",
+          "publishedOn": "2026-04-24T06:08:10.000Z",
+          "wordCount": 15458,
+          "title": "SpaceX Reportedly Aiming To Manufacture Its Own GPUs Amid Chip Supply Concerns",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/elon-musk-spacex-acquires-xai-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390874",
+          "author": "Kiran Ganesan",
+          "description": "More AI chatbots are increasingly integrating third-party apps as companies look to make their platforms more capable and competitive. Anthropic’s Claude is the latest to do so, introducing support for external app connections that allow users to link the chatbot with a range of consumer services. In a statement released today, Anthropic said users can […]\nThe post Claude Introduces New Connectors For Spotify, Booking.com, And More appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390874/claude-introduces-new-connectors/",
+          "publishedOn": "2026-04-24T04:58:58.000Z",
+          "wordCount": 15093,
+          "title": "Claude Introduces New Connectors For Spotify, Booking.com, And More",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Claude-Introduces-New-Connectors-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390869",
+          "author": "Heirul Kamel",
+          "description": "Tim Cook has reflected on his time leading Apple, describing the launch of Apple Maps in 2012 as his “first really big mistake” as CEO. According to Bloomberg, Cook shared his milestones with staff during a recent internal town hall, alongside his oncoming successor John Ternus.  At launch, Apple Maps struggled with inaccurate directions, mislabelled […]\nThe post Tim Cook Reflects Time With Apple, Calls Apple Maps His “First Really Big Mistake” appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390869/tim-cook-reflects-time-with-apple/",
+          "publishedOn": "2026-04-24T04:46:05.000Z",
+          "wordCount": 15791,
+          "title": "Tim Cook Reflects Time With Apple, Calls Apple Maps His “First Really Big Mistake”",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2016/04/Tim-Cook-Apple.jpeg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390811",
+          "author": "Ian Chee",
+          "description": "Microsoft, alongside the Digital Ministry, announced the launch of our own Microsoft Elevate. This comes as part of the national AI capacity building initiative to strengthen AI readiness, as part of the country’s AI Nation 2030 ambitions. This is also in partnership with the National AI Office (NAIO), Sekretariat Majlis TVET Negara alongside Biji-biji Initiative […]\nThe post Microsoft Elevate Malaysia Officially Launches appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390811/microsoft-elevate-malaysia/",
+          "publishedOn": "2026-04-24T04:36:10.000Z",
+          "wordCount": 15058,
+          "title": "Microsoft Elevate Malaysia Officially Launches",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Microsoft-Elevate-Malaysia-minister-partners.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390860",
+          "author": "John Law",
+          "description": "The concept of a robot athlete, designed to be good at a specific sport, is nothing new and has been around for years. That being said, all those years of innovation and technology has given companies like Sony AI the means to create a robot that plays ping pong, or table tennis, far better than […]\nThe post Sony AI Has A Robot That Plays Ping Pong Better Than Human Players appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390860/sony-ai-has-a-robot-that-plays-ping-pong-better-than-human-players/",
+          "publishedOn": "2026-04-24T04:01:25.000Z",
+          "wordCount": 15121,
+          "title": "Sony AI Has A Robot That Plays Ping Pong Better Than Human Players",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Sony-AI-Ace-Ping-Pong-Machine-1-scaled.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=390836",
+          "author": "Heirul Kamel",
+          "description": "BMW XM Label has received an update in Malaysia, with BMW Malaysia now offering it as the sole variant in the XM lineup. First introduced in 2023, the high-performance Sports Activity Vehicle (SAV) from BMW M GmbH returns with expanded customisation options, improved standard equipment, and subtle refinements to both driving dynamics and cabin comfort. […]\nThe post BMW Introduces Updated XM Label Premium Hybrid SUV In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/390836/bmw-updated-xm-label-in-malaysia/",
+          "publishedOn": "2026-04-24T03:16:08.000Z",
+          "wordCount": 15473,
+          "title": "BMW Introduces Updated XM Label Premium Hybrid SUV In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/bmw-xm-label-update-malaysia_01.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=390754",
           "author": "Ian Chee",
@@ -21642,106 +21742,6 @@
           "wordCount": 14936,
           "title": "Apple’s M5-Powered MacBook Air Now Available In Malaysia",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/MacBook-Air-M5-1-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389021",
-          "author": "Ian Chee",
-          "description": "You don’t often see companies making their products open source, especially not intentionally. But it has happened every now and again, and recently, another brand has done the same. The company is Keychron, and it is making open source the designs of its mice and keyboards. According to Notebookcheck, the company’s CEO made the announcement […]\nThe post Keychron Makes Its Mouse, Keyboard Designs Open Source appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389021/keychron-makes-mouse-keyboard-designs-open-source/",
-          "publishedOn": "2026-04-09T09:09:54.000Z",
-          "wordCount": 10847,
-          "title": "Keychron Makes Its Mouse, Keyboard Designs Open Source",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Keychron-design-open-source.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389028",
-          "author": "Kiran Ganesan",
-          "description": "Whether we like it or not, we are all feeling the pinch of the ongoing fuel crisis caused by the West Asia conflict. In light of this, the Ministry of Transport (MOT) is calling on e-hailing companies to introduce more flexible approaches, including expanding carpool options, as a way to help users cut down on […]\nThe post Loke Urges E-Hailing Firms To Expand Carpooling Options Amidst Fuel Crisis appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389028/loke-urges-e-hailing-expand-carpooling-options/",
-          "publishedOn": "2026-04-09T06:23:08.000Z",
-          "wordCount": 11099,
-          "title": "Loke Urges E-Hailing Firms To Expand Carpooling Options Amidst Fuel Crisis",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/MOT-Urges-E-Hailing-Firms-To-Expand-Carpooling-Options-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389017",
-          "author": "Heirul Kamel",
-          "description": "The government is exploring new mechanisms to distribute targeted subsidies using the MyKasih system alongside the MyKad, including for diesel, as part of ongoing efforts to improve subsidy delivery. In a statement yesterday, Communications Minister Fahmi Fadzil said the proposal is currently being refined by the Ministry of Finance before it is presented to the […]\nThe post Govt Studying MyKasih And MyKad Integration For Targeted Diesel Subsidies appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389017/govt-studying-mykasih-mykad-integration-diesel-subsidies/",
-          "publishedOn": "2026-04-09T05:14:41.000Z",
-          "wordCount": 10980,
-          "title": "Govt Studying MyKasih And MyKad Integration For Targeted Diesel Subsidies",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/govt-mulls-mykasih-mykad-diesel-subsidies-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388961",
-          "author": "Ian Chee",
-          "description": "It looks like Micro RGB tech is becoming more common as a choice for TV makers to use, in addition to OLEDs. And as the tech advances, come up with more ways to make the colour reproduction of the former match the latter as much as possible. Sony has teased its own take, in what […]\nThe post Sony Teases True RGB TV Tech; For Better Colours To Match Up To OLED appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388961/sony-teases-true-rgb-tv-tech-better-colours-match-oled/",
-          "publishedOn": "2026-04-09T05:04:50.000Z",
-          "wordCount": 10944,
-          "title": "Sony Teases True RGB TV Tech; For Better Colours To Match Up To OLED",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Sony-Bravia-True-RGB.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388959",
-          "author": "John Law",
-          "description": "Samsung is now taking preorders for its G80SH Odyssey OLED 2026 OLED gaming monitor lineup, in conjunction with the 4.4 double-digit sale for the month of April. The preorder began on 4 April and will continue until 28 April. The preorders include three Odyssey OLED models: the 32-inch G73SH, as well as the 27-inch and […]\nThe post Samsung Opens Up Preorders For Its G80SH Odyssey OLED 2026 Monitor Lineup appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388959/samsung-opens-up-preorders-for-its-g80sh-odyssey-oled-2026-monitor-lineup/",
-          "publishedOn": "2026-04-09T04:55:54.000Z",
-          "wordCount": 11126,
-          "title": "Samsung Opens Up Preorders For Its G80SH Odyssey OLED 2026 Monitor Lineup",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Samsung-Odyssey-April-2026-Preorder-lineup-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388966",
-          "author": "Nurul Kamil",
-          "description": "HONOR has been dancing around the subject of its next smartphones these past few weeks. But now, the brand has finally outright given a name to the upcoming series. As expected, the HONOR 600 lineup will be making its debut here as the newest iteration of the company’s main numbered range. Aside from this, the […]\nThe post HONOR 600 Series Design Revealed Ahead Of Local Launch appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388966/honor-600-series-design-revealed-ahead-of-local-launch/",
-          "publishedOn": "2026-04-09T04:22:26.000Z",
-          "wordCount": 10980,
-          "title": "HONOR 600 Series Design Revealed Ahead Of Local Launch",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/honor-600-series-launch-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388964",
-          "author": "Newsdesk",
-          "description": "For the longest time, the idea of getting a flagship-level camera setup on a mid-range smartphone has felt a little out of reach. While plenty of brands have tried to bridge that gap, the results haven’t always lived up to expectations, either by providing a poor experience or carrying a steep price tag. With the […]\nThe post Master Portrait Photography With The realme 16 Pro+ appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388964/master-portrait-photography-with-the-realme-16-pro/",
-          "publishedOn": "2026-04-09T04:08:07.000Z",
-          "wordCount": 13084,
-          "title": "Master Portrait Photography With The realme 16 Pro+",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Master-Portrait-Photography-With-The-realme-16-Pro-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388939",
-          "author": "Kiran Ganesan",
-          "description": "Sony has announced a new initiative called “The Playerbase” via the PlayStation Blog, aimed at bringing fans directly into its games. At its core, the programme functions more like a curated contest than a public feature, with interested participants required to go through an application and selection process. The company will evaluate the shortlisted candidates […]\nThe post Sony Is Letting Fans Appear In Gran Turismo 7 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388939/sony-is-letting-fans-appear-in-gran-turismo-7/",
-          "publishedOn": "2026-04-09T02:49:07.000Z",
-          "wordCount": 11153,
-          "title": "Sony Is Letting Fans Appear In Gran Turismo 7",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Sony-Is-Letting-Fans-Appear-In-Gran-Turismo-7-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388936",
-          "author": "Nurul Kamil",
-          "description": "Dyson already makes a variety of appliances, but that doesn’t stop the brand from expanding its repertoire. The company has introduced its first portable handheld fan, called the HushJet Mini Cool Fan. If the name sounds a little familiar, that’s because the product uses the company’s proprietary air projection system, which first appeared on the […]\nThe post The Dyson HushJet Mini Cool Fan Is The Brand’s First Portable Handheld Fan appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388936/dyson-hushjet-mini-cool-fan/",
-          "publishedOn": "2026-04-09T02:44:23.000Z",
-          "wordCount": 11066,
-          "title": "The Dyson HushJet Mini Cool Fan Is The Brand’s First Portable Handheld Fan",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/dyson-hushjet-mini-cool-fan-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=388908",
-          "author": "Ian Chee",
-          "description": "Sony launched the ULT Tower 10 all the way back in 2024. Now, nearly two years later, it has gotten a follow-up of sorts. This comes in the form of the Tower 9AC, which essentially serves as a smaller, and slightly more affordable, alternative. Measuring in at about 410 x 910 x 456 mm, it’s […]\nThe post Sony Malaysia Announces ULT Tower 9AC; Priced At RM3,699 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/388908/sony-malaysia-announces-ult-tower-9ac-priced-at-rm3699/",
-          "publishedOn": "2026-04-09T02:00:06.000Z",
-          "wordCount": 10909,
-          "title": "Sony Malaysia Announces ULT Tower 9AC; Priced At RM3,699",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Sony-ULT-Tower-9AC-2.webp"
         }
       ]
     },
@@ -21750,6 +21750,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
+          "author": "Tara Seals",
+          "description": "The Chinese state-sponsored cyber threat is known for moving fast and trying odd attack vectors; now it's branching out in tools, victimology, and TTPs.",
+          "link": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
+          "publishedOn": "2026-04-24T01:00:00.000Z",
+          "wordCount": null,
+          "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
+          "author": "Nate Nelson",
+          "description": "The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
+          "publishedOn": "2026-04-24T01:00:00.000Z",
+          "wordCount": null,
+          "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets",
+          "author": "Jai Vijayan",
+          "description": "China's state-backed groups are now using covert networks of compromised devices to execute attacks in a low-cost, low-risk, and deniable way.",
+          "link": "https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets",
+          "publishedOn": "2026-04-23T20:52:24.000Z",
+          "wordCount": null,
+          "title": "China-Backed Hackers Are Industrializing Botnets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents",
+          "author": "Robert Lemos",
+          "description": "Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue threaten AI systems.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents",
+          "publishedOn": "2026-04-23T14:30:31.000Z",
+          "wordCount": null,
+          "title": "Bad Memories Still Haunt AI Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks",
+          "author": "Jai Vijayan",
+          "description": "The proof of concept revealed AI-based attacks unfold too fast for human defenders to respond, and that AI evinced more autonomous behavior than expected.",
+          "link": "https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks",
+          "publishedOn": "2026-04-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "'Zealot' Shows What AI's Capable of in Staged Cloud Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks",
+          "author": "Robert Lemos",
+          "description": "The volume of cyberattacks targeting Africa declined in the past year, with weekly attacks down 22%, as attackers seemingly shifted their focus to other regions.",
+          "link": "https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks",
+          "publishedOn": "2026-04-23T07:01:00.000Z",
+          "wordCount": null,
+          "title": "Africa Relinquishes Cyberattack Lead to Latin America — For Now",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
           "author": "Alexander Culafi",
@@ -21768,6 +21828,16 @@
           "publishedOn": "2026-04-22T14:48:05.000Z",
           "wordCount": null,
           "title": "DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/electricity-growing-area-cyber-risk",
+          "author": "Arielle Waldman",
+          "description": "IT has long been concerned about ensuring systems receive the right amount of electricity. Cyberattackers are realizing they can manipulate voltage fluctuations for their purposes, too.",
+          "link": "https://www.darkreading.com/cyber-risk/electricity-growing-area-cyber-risk",
+          "publishedOn": "2026-04-22T14:25:07.000Z",
+          "wordCount": null,
+          "title": "Electricity Is a Growing Area of Cyber Risk",
           "imageUrl": null
         },
         {
@@ -22148,46 +22218,6 @@
           "publishedOn": "2026-04-10T13:00:00.000Z",
           "wordCount": null,
           "title": "Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught",
-          "author": "Alexander Culafi",
-          "description": "Victims don't need to match the cybercrime group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.",
-          "link": "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught",
-          "publishedOn": "2026-04-09T20:50:37.000Z",
-          "wordCount": null,
-          "title": "Russia's 'Fancy Bear' APT Continues Its Global Onslaught",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues",
-          "author": "Elizabeth Montalbano",
-          "description": "Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues",
-          "publishedOn": "2026-04-09T20:13:34.000Z",
-          "wordCount": null,
-          "title": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history",
-          "author": "Nate Nelson",
-          "description": "The cybersecurity community is waiting with bated breath to see if Iranian hackers will honor a ceasefire that doesn't actually name or directly involve them.",
-          "link": "https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history",
-          "publishedOn": "2026-04-09T18:15:00.000Z",
-          "wordCount": null,
-          "title": "Do Ceasefires Slow Cyberattacks? History Suggests Not",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers",
-          "author": "Nate Nelson",
-          "description": "Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
-          "link": "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers",
-          "publishedOn": "2026-04-09T01:00:00.000Z",
-          "wordCount": null,
-          "title": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers",
           "imageUrl": null
         }
       ]
