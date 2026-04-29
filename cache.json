@@ -19294,6 +19294,134 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in  ConnectWise ScreenConnect",
+          "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+          "publishedOn": "2026-04-29T08:46:00.000Z",
+          "wordCount": null,
+          "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1600/windows-logo.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1600/windows-logo.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge.\nThe vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying",
+          "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
+          "publishedOn": "2026-04-29T05:34:00.000Z",
+          "wordCount": null,
+          "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command.\nThe flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a case of command injection that could allow an attacker with push access to a repository to achieve",
+          "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+          "publishedOn": "2026-04-28T18:19:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztlzahKA2HwUQiNDerhbX2l415JinNIW5jaU5tgskPVHqpMhba_NorYL9SSWRzLdSPjSnsxZKQic97f8H2Bx2G0Dsjb58dcdFuZoL0c5Gno3BVvYa4vi62_PNr1Qh-kBYED7YbTPw3fqQklMmnoPV0b1KYaienKHzIAtBuktMqyVCxGU0u8Hkd-zzYeNU/s1600/github.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztlzahKA2HwUQiNDerhbX2l415JinNIW5jaU5tgskPVHqpMhba_NorYL9SSWRzLdSPjSnsxZKQic97f8H2Bx2G0Dsjb58dcdFuZoL0c5Gno3BVvYa4vi62_PNr1Qh-kBYED7YbTPw3fqQklMmnoPV0b1KYaienKHzIAtBuktMqyVCxGU0u8Hkd-zzYeNU/s1600/github.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot).\n\"The malware disguises itself as a Minecraft hack called 'Slinky,'\" Brazil-based cybersecurity company ZenoX said in a technical report. \"It uses the official game icon to induce voluntary execution,",
+          "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+          "publishedOn": "2026-04-28T17:39:00.000Z",
+          "wordCount": null,
+          "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQf8Wzg1Ms0KVsO546uQuwlR3w_8qW1MQZExs5TgKCGHSNNS1UEnOITq-_y8HIrA_3n_gfq7Hm0IMb-XSRJSsGL1ncRPlPoyDX7cf_wFbEGAJCPkv6ZDBzjN1Nswe9-CMR3Tmn1F5KuVyWGdOkGEIbeI9R7zGKplJPofRFBx-Ru20JOGfAFEpiZOAlDBXh/s1600/hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQf8Wzg1Ms0KVsO546uQuwlR3w_8qW1MQZExs5TgKCGHSNNS1UEnOITq-_y8HIrA_3n_gfq7Hm0IMb-XSRJSsGL1ncRPlPoyDX7cf_wFbEGAJCPkv6ZDBzjN1Nswe9-CMR3Tmn1F5KuVyWGdOkGEIbeI9R7zGKplJPofRFBx-Ru20JOGfAFEpiZOAlDBXh/s1600/hackers.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery impossible even for the threat actors.\nThe fact that VECT's locker permanently destroys large files rather than encrypting them means even victims who opt to",
+          "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+          "publishedOn": "2026-04-28T14:01:00.000Z",
+          "wordCount": null,
+          "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji1Auw0eR5oiVkEiB8JPzjSCaFsUUiAOfNHrcsOzO4DElBB4gbQ20uu3p69nojIkLsgxZOj81fa7fK_dchUAx0WINAGMq3X0VSA7LH_Isc1hPAvls76rdLeSYCn40zw8P2xAikVwxb_pclaNQXER8G7nzPO41LAl0-ELu-i60_RLl7CLCWcC9gGrEC8oXw/s1600/vect.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji1Auw0eR5oiVkEiB8JPzjSCaFsUUiAOfNHrcsOzO4DElBB4gbQ20uu3p69nojIkLsgxZOj81fa7fK_dchUAx0WINAGMq3X0VSA7LH_Isc1hPAvls76rdLeSYCn40zw8P2xAikVwxb_pclaNQXER8G7nzPO41LAl0-ELu-i60_RLl7CLCWcC9gGrEC8oXw/s1600/vect.gif"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done.\nThat assumption is wrong. It is also a major reason Zero Trust programs stall.\nNew research my team just published puts numbers on it. The Cyber360: Defending the Digital Battlespace report, based on a survey of 500 security",
+          "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+          "publishedOn": "2026-04-28T11:58:00.000Z",
+          "wordCount": null,
+          "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrVD0Q_dTvO3tooHYWKp7i_lkLd6h30GSv_DDv4jIb_KZDY5heV39R01GFN6MWEq1JsilHFrd7EtDOBkmlkvXYAb7-w51A1SDN3AAiEAbuq7ZnNREakyHouZPVBMNhk_HnEOK8D7H5m51A2zcUvAvDjmPnrrzeZI_nQHFao1QbljV4ortyzuqbXsNR35c/s1600/everfox.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrVD0Q_dTvO3tooHYWKp7i_lkLd6h30GSv_DDv4jIb_KZDY5heV39R01GFN6MWEq1JsilHFrd7EtDOBkmlkvXYAb7-w51A1SDN3AAiEAbuq7ZnNREakyHouZPVBMNhk_HnEOK8D7H5m51A2zcUvAvDjmPnrrzeZI_nQHFao1QbljV4ortyzuqbXsNR35c/s1600/everfox.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution.\nThe vulnerability in question is CVE-2026-25874 (CVSS score: 9.3), which has been described as a case of untrusted data deserialization stemming from the use of the",
+          "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+          "publishedOn": "2026-04-28T11:18:00.000Z",
+          "wordCount": null,
+          "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yhcF_ELr7WEtcfHJTj6KXaci5hMzJMQzWlKpRwmiUDUDlRiLn5kZFpj4JkLxrqw0JBajNTAmlAxzIkQytW333ZnGJBKeGY-rBsLLrCPqATNkq3TvcBRbi61oogxsv5Z1a2REm5g7cpgfqKq_fnr2B1O1tPHDckGGiBA7YZY0Jcl7nWIzqaDYFGqEm3nZ/s1600/lerobots.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yhcF_ELr7WEtcfHJTj6KXaci5hMzJMQzWlKpRwmiUDUDlRiLn5kZFpj4JkLxrqw0JBajNTAmlAxzIkQytW333ZnGJBKeGY-rBsLLrCPqATNkq3TvcBRbi61oogxsv5Z1a2REm5g7cpgfqKq_fnr2B1O1tPHDckGGiBA7YZY0Jcl7nWIzqaDYFGqEm3nZ/s1600/lerobots.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "When patching isn’t fast enough, NDR helps contain the next era of threats.\nIf you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast.\nAnthropic’s new model, Claude Mythos, and its Project Glasswing, showed that finding exploitable vulnerabilities and subtle cracks",
+          "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+          "publishedOn": "2026-04-28T10:30:00.000Z",
+          "wordCount": null,
+          "title": "After Mythos: New Playbooks For a Zero-Window Era",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc6SWl21t5zRKK4OvMIg-ZtrnsRwKm8E3dglWBxBpyC_vXdsbGazi1uRcQagObPghUhK33RtvJOFEZ5-W7jCVBV36HOC-iepqOkjgHuvAHkmeoKRvMw-IJ7Cq8KUV5iBwVg-1yLJ7XmTGLab6a4ECZ11eGP8lCOLORbJcng1onSTv_L2aDYHSVmNCMjw/s1600/corelight.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc6SWl21t5zRKK4OvMIg-ZtrnsRwKm8E3dglWBxBpyC_vXdsbGazi1uRcQagObPghUhK33RtvJOFEZ5-W7jCVBV36HOC-iepqOkjgHuvAHkmeoKRvMw-IJ7Cq8KUV5iBwVg-1yLJ7XmTGLab6a4ECZ11eGP8lCOLORbJcng1onSTv_L2aDYHSVmNCMjw/s1600/corelight.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy. \nXu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks against American organizations and government agencies between February 2020 and June 2021, including",
@@ -20364,134 +20492,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrjpxBjlnOwelWhtbcyO3kBGpQwkfPkbL7RytRsDo26AL5rMz4inD_rjZLSfjy5R6skvnpiOA5M1LoDaAW1bCz4Isy4RMffGJVzgm4kYy5N-V1ijfLhVHefPcneHVGZyXZRjbLZZBHQRe3_QKhKfb5hss3a5hFveU8v2WkKHq-2wUmY_ocysIGGMP8GxdV/s1600/gpt.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrjpxBjlnOwelWhtbcyO3kBGpQwkfPkbL7RytRsDo26AL5rMz4inD_rjZLSfjy5R6skvnpiOA5M1LoDaAW1bCz4Isy4RMffGJVzgm4kYy5N-V1ijfLhVHefPcneHVGZyXZRjbLZZBHQRe3_QKhKfb5hss3a5hFveU8v2WkKHq-2wUmY_ocysIGGMP8GxdV/s1600/gpt.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Two high-severity security vulnerabilities have been disclosed in Composer, a package manager for PHP, that, if successfully exploited, could result in arbitrary command execution.\nThe vulnerabilities have been described as command injection flaws affecting the Perforce VCS (version control software) driver. Details of the two flaws are below -\n\nCVE-2026-40176 (CVSS",
-          "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
-          "publishedOn": "2026-04-14T15:57:00.000Z",
-          "wordCount": null,
-          "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP-RqcuX8QuBEwVkchLNSjyIAqQEuFwy0prqQ1gGqxpBFESQLuCzgGB7-cjYhJrbLhbTk_j8G4NedN06plhhqLd_Rpd01mTh8XcOHjvQ_UuJqfjTROZeh40WlSN_7gzRL4yVKX-Aj0ui2gOxo9l70b3Dy5R6srKjne-gQXIhL7fNAHYZ7rDm6-yWl4-_JD/s1600/php-code.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP-RqcuX8QuBEwVkchLNSjyIAqQEuFwy0prqQ1gGqxpBFESQLuCzgGB7-cjYhJrbLhbTk_j8G4NedN06plhhqLd_Rpd01mTh8XcOHjvQ_UuJqfjTROZeh40WlSN_7gzRL4yVKX-Aj0ui2gOxo9l70b3Dy5R6srKjne-gQXIhL7fNAHYZ7rDm6-yWl4-_JD/s1600/php-code.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational level.\n\"The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying",
-          "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
-          "publishedOn": "2026-04-14T14:56:00.000Z",
-          "wordCount": null,
-          "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjblrgfLU8m4awyQDEqyzwguow-RuCp4UH1k5DBkrUrP87A7tsEQPPaLD_D9M4VXF5mSNrmp1eurx_QW-nVjM1nNnkyEIFyFiry3nxE0Wq3xrT0L06S6B11rEHcWzB7q78RRQySSxwLAVIncgqO5qhtY6b0A_LzYF8wtvH94G_TLQEn8UIivqrJNkH88Nf7/s1600/android-rust.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjblrgfLU8m4awyQDEqyzwguow-RuCp4UH1k5DBkrUrP87A7tsEQPPaLD_D9M4VXF5mSNrmp1eurx_QW-nVjM1nNnkyEIFyFiry3nxE0Wq3xrT0L06S6B11rEHcWzB7q78RRQySSxwLAVIncgqO5qhtY6b0A_LzYF8wtvH94G_TLQEn8UIivqrJNkH88Nf7/s1600/android-rust.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into Google's Discover feed and trick users into enabling persistent browser notifications that lead to scareware and financial scams.\nThe campaign, which has been",
-          "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
-          "publishedOn": "2026-04-14T14:30:00.000Z",
-          "wordCount": null,
-          "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiON8Ew8R1EO7t3yoLoTFdM2hQsDW9AtBPPBcNuPup6ZmpGta3VyYlkhiqqRlW5CDWpnU_3IJ-EAbnV6nrfzJ4V3mdWIng75afS2TPvZOs-_MLc0a5lxiLwR5H-EWmi1C0ctYCBZSBNbF9CCGcdm7BrNaWunTp8QvBkmqJwq0Yvde9bQxbhooyIYaXRiebP/s1600/ad-fraud.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiON8Ew8R1EO7t3yoLoTFdM2hQsDW9AtBPPBcNuPup6ZmpGta3VyYlkhiqqRlW5CDWpnU_3IJ-EAbnV6nrfzJ4V3mdWIng75afS2TPvZOs-_MLc0a5lxiLwR5H-EWmi1C0ctYCBZSBNbF9CCGcdm7BrNaWunTp8QvBkmqJwq0Yvde9bQxbhooyIYaXRiebP/s1600/ad-fraud.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A nascent Android remote access trojan called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on Meta.\n\"Mirax integrates advanced Remote Access Trojan (RAT) capabilities, allowing threat actors to fully interact with compromised devices in real",
-          "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
-          "publishedOn": "2026-04-14T10:20:00.000Z",
-          "wordCount": null,
-          "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTMJQqqJsKQgPpv94bO9xAc_tQCEJXJrZGAEmCuyUghslqHdHDYmuVYqIVLGqMLi_ZuY_zEBoDdGDQRVAX0KyGq9QcuIzQ5LVbNLBnwUwW2R7IBg0gopxAI9ml44zJsKXEoc1ig8zRbVDBNK3B4LZRE0WljzIfwnSMHx8Mv1kWYTK5qnxOB1YYl_WNWMa/s1600/android-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTMJQqqJsKQgPpv94bO9xAc_tQCEJXJrZGAEmCuyUghslqHdHDYmuVYqIVLGqMLi_ZuY_zEBoDdGDQRVAX0KyGq9QcuIzQ5LVbNLBnwUwW2R7IBg0gopxAI9ml44zJsKXEoc1ig8zRbVDBNK3B4LZRE0WljzIfwnSMHx8Mv1kWYTK5qnxOB1YYl_WNWMa/s1600/android-malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly 400%.\nThe surge in AI-assisted development is creating a \"velocity gap\" where the density of high-impact vulnerabilities is scaling faster than",
-          "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
-          "publishedOn": "2026-04-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4H3KkiSOm6TbNn7e0Ceu3-etqqeLci47PtX9T-0WGgdGScHfd2tfFamA6oyOi62wWwKF7KwF_wcqNACSvRVJvH__1YKoP_fP7T5LFdDqX8jxFph0NSaVJjFEVhb0bjNvn5IWayqMwKyRNbp9mmW7f2JLs7I3pTF8yLuhCOHsbnpNVLrEVq6Uq63j8508/s1600/derailed.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4H3KkiSOm6TbNn7e0Ceu3-etqqeLci47PtX9T-0WGgdGScHfd2tfFamA6oyOi62wWwKF7KwF_wcqNACSvRVJvH__1YKoP_fP7T5LFdDqX8jxFph0NSaVJjFEVhb0bjNvn5IWayqMwKyRNbp9mmW7f2JLs7I3pTF8yLuhCOHsbnpNVLrEVq6Uq63j8508/s1600/derailed.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page visited.\nAccording to Socket, the extensions are published",
-          "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
-          "publishedOn": "2026-04-14T08:35:00.000Z",
-          "wordCount": null,
-          "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOmjr311c0yBDI593joFXQLaRdpm6DY67lbFv83YcYlRHaJkpocwXjDZDsV9F9DM-SavZwCOZ-fg10ncUJyW3ODlfBjqG6aK_ytdBfvXFGLswxeJ69oiZXfhGKdCgVO0Angg_qlYB6oAZYo-JQRKn4toBGWcS7OTDwPV0rkus7eNw-9BllIGJa2nkeKXn/s1600/chrome-telegram.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOmjr311c0yBDI593joFXQLaRdpm6DY67lbFv83YcYlRHaJkpocwXjDZDsV9F9DM-SavZwCOZ-fg10ncUJyW3ODlfBjqG6aK_ytdBfvXFGLswxeJ69oiZXfhGKdCgVO0Angg_qlYB6oAZYo-JQRKn4toBGWcS7OTDwPV0rkus7eNw-9BllIGJa2nkeKXn/s1600/chrome-telegram.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4 out of 10.0.\nIt relates to a case of unrestricted file upload that stems from improper validation of",
-          "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
-          "publishedOn": "2026-04-14T05:50:00.000Z",
-          "wordCount": null,
-          "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjthzbWdOOZKL2JKvluG78cobCs7bGxvHsfzSMHt4XgX1OO9h-r7W_dlYCCDrCoKo2dAXhh264NTGUrFKBpM8pv0WcePn5gUp1atSJ4-iC4_wr0jmo7nDZ46JYCs8P_5DLs5RcHi81-L7Wiw35cLHNWqCPe50LJ1a3tqfxwfB3S3ufQjYQfUrfRDwMo1BYE/s1600/showdoc.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjthzbWdOOZKL2JKvluG78cobCs7bGxvHsfzSMHt4XgX1OO9h-r7W_dlYCCDrCoKo2dAXhh264NTGUrFKBpM8pv0WcePn5gUp1atSJ4-iC4_wr0jmo7nDZ46JYCs8P_5DLs5RcHi81-L7Wiw35cLHNWqCPe50LJ1a3tqfxwfB3S3ufQjYQfUrfRDwMo1BYE/s1600/showdoc.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-21643 (CVSS score: 9.1) -  An SQL injection vulnerability in  Fortinet FortiClient EMS that could allow an unauthenticated attacker to",
-          "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
-          "publishedOn": "2026-04-14T05:39:00.000Z",
-          "wordCount": null,
-          "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkkewWzrjyqzejet7cyCWdTUMfgjGZgkDpis6rUlh7qnyPpmcN1k_vVdKvziAZq2cOkFQDrJNM8E6WE8Cl7oPNdq94MOXJLa0nkbEmAFCB_MnjLQzTy-WjHGa6yuLhm7dPzuW3YEQeFIfOT1Tr25NgALeTL6vFDhzmJrCRMLL0GBpOhkwQm_Zirk_9aNjr/s1600/warning.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkkewWzrjyqzejet7cyCWdTUMfgjGZgkDpis6rUlh7qnyPpmcN1k_vVdKvziAZq2cOkFQDrJNM8E6WE8Cl7oPNdq94MOXJLa0nkbEmAFCB_MnjLQzTy-WjHGa6yuLhm7dPzuW3YEQeFIfOT1Tr25NgALeTL6vFDhzmJrCRMLL0GBpOhkwQm_Zirk_9aNjr/s1600/warning.jpg"
         }
       ]
     },
@@ -20500,6 +20500,96 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=391369",
+          "author": "Nurul Kamil",
+          "description": "Google Translate officially launched on 28 April 2006. This means that as of this month, the translation service is twenty years old. In conjunction with this milestone, the company has announced a new feature to help learners nail the correct pronunciation. In a blog post commemorating the translation tool’s 20th anniversary, Google revealed that it […]\nThe post Google Translate App Gets AI-Powered Pronunciation Practice Tool appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391369/google-translate-app-pronunciation-practice/",
+          "publishedOn": "2026-04-29T09:32:03.000Z",
+          "wordCount": 15217,
+          "title": "Google Translate App Gets AI-Powered Pronunciation Practice Tool",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/google-translate-pronunciation-practice-01.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=391343",
+          "author": "Ian Chee",
+          "description": "Things look to be heating up in the war against (or indeed for) piracy. And it’s not surprising that Denuvo is involved in this latest development. The DRM company is reportedly working with 2K Games to implement a 14-day online check-in for certain games. This decision follows claims from those in the pirating scene that […]\nThe post Denuvo, 2K Games Add 14-Day Online Check-Ins To Counter Piracy appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391343/denuvo-2k-games-14-day-online-check-ins-counter-piracy/",
+          "publishedOn": "2026-04-29T09:25:13.000Z",
+          "wordCount": 15752,
+          "title": "Denuvo, 2K Games Add 14-Day Online Check-Ins To Counter Piracy",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2016/08/denuvo-logo.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=391360",
+          "author": "Heirul Kamel",
+          "description": "GALAX, one of the more recognisable names in the GPU market, has ceased to exist as an independent entity, following a restructuring that saw its entire global team dismissed. In an official statement shared by several media outlets, Taiwan-based Palit Microsystems confirmed that it has assumed full control of the brand, taking over all operations, […]\nThe post GALAX Brand Fully Taken Over By Palit Microsystems appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391360/galax-brand-fully-taken-over-by-palit-microsystems/",
+          "publishedOn": "2026-04-29T07:59:59.000Z",
+          "wordCount": 15277,
+          "title": "GALAX Brand Fully Taken Over By Palit Microsystems",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/galax-gpu-palit-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=391355",
+          "author": "Kiran Ganesan",
+          "description": "Despite the ongoing memory supply constraints, NVIDIA has quietly introduced a higher VRAM configuration of its GeForce RTX 5070 Laptop GPU. The new variant comes with 12GB of VRAM and will sit alongside the existing 8GB model, giving OEMs more flexibility in laptop configurations. While NVIDIA has yet to reveal official pricing, NotebookCheck suggests that […]\nThe post NVIDIA Quietly Introduces RTX 5070 Laptop GPU 12GB Variant appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391355/nvidia-quietly-introduces-rtx-5070-laptop-gpu-12gb-variant/",
+          "publishedOn": "2026-04-29T07:04:55.000Z",
+          "wordCount": 15232,
+          "title": "NVIDIA Quietly Introduces RTX 5070 Laptop GPU 12GB Variant",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/NVIDIA-file.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=391344",
+          "author": "Nurul Kamil",
+          "description": "Volatile global fuel prices could adversely affect electricity generation costs, in turn influencing tariffs for consumers. Despite this, the government assured that it will minimise the impact of the electricity cost changes on the public and business sector. Speaking during the Global Supply Crisis briefing, Economy Minister Akmal Nasrullah Mohd Nasir explained that measures are […]\nThe post Economy Minister: Govt Mitigating Impact Of Electricity Cost Changes On Consumers appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391344/economy-minister-govt-mitigating-impact-of-electricity-cost-changes-on-consumers/",
+          "publishedOn": "2026-04-29T05:39:45.000Z",
+          "wordCount": 15222,
+          "title": "Economy Minister: Govt Mitigating Impact Of Electricity Cost Changes On Consumers",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/economy-minister-akmal-nasrullah-mohd-nasir-01.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=391326",
+          "author": "Ian Chee",
+          "description": "You’ve probably seen over the weekend signs of a worrying development for people who buy digital games on PlayStation. But in case you missed it, some gamers have reported seeing a new 30-day online check-in requirement for some of these digital games. This is reminiscent of some fringe situations that can arise with free games […]\nThe post PlayStation Adds 30-Day Online Check-In DRM For Digital Games Bought After March appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391326/playstation-30-day-online-check-in-drm-digital-games-after-march/",
+          "publishedOn": "2026-04-29T04:48:07.000Z",
+          "wordCount": 15498,
+          "title": "PlayStation Adds 30-Day Online Check-In DRM For Digital Games Bought After March",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/PlayStation-Logo-1226-x-817.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=391332",
+          "author": "Heirul Kamel",
+          "description": "Valve has confirmed that a successor to its handheld gaming device is still in development, although details remain scarce for now. During a recent interview with IGN, Valve software engineer Pierre-Loup Griffais said the company is “hard at work” on what many expect to be the Steam Deck 2. The confirmation comes amid growing competition […]\nThe post Valve Confirms Steam Deck 2 Development Is Ongoing appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391332/valve-confirms-steam-deck-2-development-is-ongoing/",
+          "publishedOn": "2026-04-29T04:24:01.000Z",
+          "wordCount": 15777,
+          "title": "Valve Confirms Steam Deck 2 Development Is Ongoing",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/08/Steam-Deck-2023-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=391330",
+          "author": "Kiran Ganesan",
+          "description": "Apple has been steadily pushing its AI ambitions, including a more capable Siri, but we have yet to see the full extent of what its Apple Intelligence platform can actually deliver. That said, a new report now suggests the company could be bringing more AI-powered features to the Photos app in iOS 27. According to […]\nThe post Apple Reportedly Overhauling Photo Editor For iOS 27 With AI appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391330/apple-reportedly-overhauling-photo-editor-for-ios-27-with-ai/",
+          "publishedOn": "2026-04-29T04:13:56.000Z",
+          "wordCount": 15416,
+          "title": "Apple Reportedly Overhauling Photo Editor For iOS 27 With AI",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/07/Apple-Photos-app-1.jpg"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=391310",
+          "author": "Nurul Kamil",
+          "description": "DJI has been steadily releasing new products over the past few weeks. This time, the company has announced the Mic Mini 2 for the local market, just as it had promised earlier this month. The compact wireless mic already made its debut in China, so some of these details may already be familiar for those […]\nThe post DJI Mic Mini 2 Arrives In Malaysia With Colourful Magnetic Covers appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391310/dji-mic-mini-2-malaysia/",
+          "publishedOn": "2026-04-29T03:06:40.000Z",
+          "wordCount": 15385,
+          "title": "DJI Mic Mini 2 Arrives In Malaysia With Colourful Magnetic Covers",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/dji-mic-mini-2-01.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=391289",
           "author": "Kiran Ganesan",
@@ -21704,106 +21794,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Google-Launches-Personal-Intelligence-for-Gemini-in-Malaysia-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389512",
-          "author": "John Law",
-          "description": "Earlier this week, leakster site Videocardz reported on alleged details regarding the Intel Nova Lake-S lineup, with the possibility that there could be a 52-core variant in the works. Now, it’s being rumoured that there could be another variant, one fitted with a damn sight more Xe3P graphics cores. 12 Xe3P cores, to be precise. […]\nThe post Intel Rumoured To Be Considering Nova Lake-S SKU With 12 Xe3P Graphics Cores appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389512/intel-rumoured-to-be-considering-nova-lake-s-sku-with-12-xe3p-graphics-cores/",
-          "publishedOn": "2026-04-14T09:32:36.000Z",
-          "wordCount": 15333,
-          "title": "Intel Rumoured To Be Considering Nova Lake-S SKU With 12 Xe3P Graphics Cores",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Intel-Core-Ultra-7-270K-Core-Ultra-5-250K-Plus-Review-5-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389560",
-          "author": "Kiran Ganesan",
-          "description": "It has been a while since Redmi last introduced a new smartphone following the Note 15 series. Since the mid-range handset series launched in Malaysia, the brand has been busy with other products, including tablets and audio gear. Now, the brand is turning its attention back to smartphones with the introduction of the Redmi A7 […]\nThe post Redmi A7 Pro Launches In India; Coming To Malaysia Soon appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389560/redmi-a7-pro-launches-in-india-coming-to-malaysia-soon/",
-          "publishedOn": "2026-04-14T09:12:11.000Z",
-          "wordCount": 15365,
-          "title": "Redmi A7 Pro Launches In India; Coming To Malaysia Soon",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Redmi-A7-Pro-India-Launch-1-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389543",
-          "author": "Ian Chee",
-          "description": "Last month saw the appearance on the internet an unannounced Lenovo Legion smartphone. Beyond the Legion branding, it looks pretty unassuming otherwise. This harkens back to the Legion Y70 that appeared back in 2022, different camera island design notwithstanding. More recently though, the brand has teased a new upcoming legion phone, likely relating to the […]\nThe post Lenovo Teases New Generation Y70 Legion Phone appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389543/lenovo-teases-new-generation-y70-legion-phone/",
-          "publishedOn": "2026-04-14T09:07:47.000Z",
-          "wordCount": 15108,
-          "title": "Lenovo Teases New Generation Y70 Legion Phone",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Lenovo-Legion-Phone-teaser.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389540",
-          "author": "Heirul Kamel",
-          "description": "Jabra has introduced two new wireless headphones in Malaysia, the Evolve3 75 and Evolve3 85. Both models are designed for users who want a balance between high-quality audio and productivity, while maintaining comfort for extended use in office or hybrid work environments. Both headphones feature 32mm drivers and come equipped with Jabra’s latest technologies, including […]\nThe post Jabra Evolve3 75, Evolve3 85 Officially Launches In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389540/jabra-evolve3-75-evolve3-85-malaysia/",
-          "publishedOn": "2026-04-14T08:23:21.000Z",
-          "wordCount": 15201,
-          "title": "Jabra Evolve3 75, Evolve3 85 Officially Launches In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/jabra-evolve3-75-85-launch-malaysia_06.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389491",
-          "author": "Ian Chee",
-          "description": "Litt Tak Sdn Bhd previously teased the opening of The Gundam Base in Malaysia, the first of its kind in the country. Via an Instagram account, the distributor listed a couple of dates ahead of its grand opening on 14 April. As promised, the Gundam plastic model kit (Gunpla) speciality store is now open at […]\nThe post The Gundam Base Malaysia Is Now Officially Open appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389491/the-gundam-base-malaysia-officially-open/",
-          "publishedOn": "2026-04-14T08:09:12.000Z",
-          "wordCount": 16029,
-          "title": "The Gundam Base Malaysia Is Now Officially Open",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/The-Gundam-Base-Malaysia-entrance.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389506",
-          "author": "Nurul Kamil",
-          "description": "The government has introduced a rail-focused relief package, which includes discounts on Keretapi Tanah Melayu Bhd (KTMB) tickets. According to Transport Minister Anthony Loke, KTMB will begin offering a 30% discount on tickets starting tomorrow, 15 April 2026. This discount will be applicable across all Electric Train Service (ETS) routes, as well as the Ekspres […]\nThe post KTMB To Offer 30% Discount On Tickets Starting 15 April 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389506/ktmb-to-offer-30-discount-on-tickets-starting-15-april-2026/",
-          "publishedOn": "2026-04-14T08:01:20.000Z",
-          "wordCount": 15307,
-          "title": "KTMB To Offer 30% Discount On Tickets Starting 15 April 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/ktmb-ets-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389466",
-          "author": "John Law",
-          "description": "Airwallex officially set up shop in Malaysia today. Although it technically had a presence in the country since 2022, today marks the day that the company is announcing its foothold in Malaysia, as well as Southeast Asia. The announcement comes just a couple of weeks after Airwallex received its e-money and Class A licenses from […]\nThe post Airwallex Now Offers Full Suite Of Financial Services In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389466/airwallex-now-offers-full-suite-of-financial-services-in-malaysia/",
-          "publishedOn": "2026-04-14T07:34:05.000Z",
-          "wordCount": 15233,
-          "title": "Airwallex Now Offers Full Suite Of Financial Services In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Airwallex-Launch-April-2026-1-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389496",
-          "author": "Heirul Kamel",
-          "description": "Huawei has confirmed that its new Watch GT Runner 2 will be launching in Malaysia next week. It is positioned as a next-generation wearable built for users who want more precise and intelligent performance tracking.  The Watch GT Runner 2 features ultra-precise positioning and professional-grade metrics aimed at enabling more data-driven training. Huawei has equipped […]\nThe post Huawei Watch GT Runner 2 Launching In Malaysia Next Week appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389496/huawei-watch-gt-runner-2-launching-in-malaysia-next-week/",
-          "publishedOn": "2026-04-14T06:34:17.000Z",
-          "wordCount": 15621,
-          "title": "Huawei Watch GT Runner 2 Launching In Malaysia Next Week",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/huawei-watch-gt-runner-2-4.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389493",
-          "author": "Kiran Ganesan",
-          "description": "It’s no secret that many people find Mark Zuckerberg’s mannerisms and speaking style a little… unsettling. Over the years, the Meta Platforms CEO has often been jokingly compared to a robot, which is probably not helped by his very public enthusiasm for AI. Well, it looks like those jokes are not going away anytime soon, […]\nThe post Meta Reportedly Developing An AI Avatar Of Mark Zuckerberg appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389493/meta-developing-ai-avatar-mark-zuckerberg/",
-          "publishedOn": "2026-04-14T05:53:52.000Z",
-          "wordCount": 15313,
-          "title": "Meta Reportedly Developing An AI Avatar Of Mark Zuckerberg",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/mark-zuckerberg-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389477",
-          "author": "Nurul Kamil",
-          "description": "If you’re an Xbox PC Game Pass subscriber who thinks the subscription has gotten way too pricey, then you’re certainly not alone. Apparently, the new Microsoft Gaming CEO, Asha Sharma, agrees with the sentiment. According to The Verge, the executive wrote an internal memo to employees regarding the service. Specifically, this memo allegedly highlights the […]\nThe post Xbox CEO Reportedly Admits Game Pass Is Too Expensive For Players appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389477/xbox-ceo-game-pass-too-expensive-for-players/",
-          "publishedOn": "2026-04-14T04:07:18.000Z",
-          "wordCount": 15218,
-          "title": "Xbox CEO Reportedly Admits Game Pass Is Too Expensive For Players",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/xbox-ceo-asha-sharma-1.webp"
         }
       ]
     },
@@ -21812,6 +21802,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures",
+          "author": "Jai Vijayan",
+          "description": "The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures",
+          "publishedOn": "2026-04-28T21:38:39.000Z",
+          "wordCount": null,
+          "title": "BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later",
+          "author": "Dark Reading Staff",
+          "description": "Chris Inglis was the head civilian in charge at the NSA when the Snowden leak exploded. He gets candid about mistakes the organization made, and what CISOs need to know about spotting potential threats, media disclosures, and \"enculturation.\"",
+          "link": "https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later",
+          "publishedOn": "2026-04-28T20:38:59.000Z",
+          "wordCount": null,
+          "title": "NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
+          "author": "Alexander Culafi",
+          "description": "When 0APT and KryBit attacked each other, they exposed infrastructure and operational data, giving defenders rare insight into ransomware operations.",
+          "link": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
+          "publishedOn": "2026-04-28T20:13:30.000Z",
+          "wordCount": null,
+          "title": "Feuding Ransomware Groups Leak Each Other's Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
+          "author": "Jai Vijayan",
+          "description": "The malware has filled the gap created by last year's law enforcement takedowns of Lumma and Rhadamanthys.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
+          "publishedOn": "2026-04-28T19:07:16.000Z",
+          "wordCount": null,
+          "title": "Vidar Rises to Top of Chaotic Infostealer Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain",
+          "author": "Elizabeth Montalbano",
+          "description": "Attackers continue to scale a campaign to seed Open VSX with seemingly benign VS Code extensions that spread self-propagating malware.",
+          "link": "https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain",
+          "publishedOn": "2026-04-28T14:59:24.000Z",
+          "wordCount": null,
+          "title": "Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
           "author": "Alexander Culafi",
@@ -22230,36 +22270,6 @@
           "publishedOn": "2026-04-15T00:00:08.000Z",
           "wordCount": null,
           "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
-          "author": "Jai Vijayan",
-          "description": "Elevation-of-privilege bugs accounted for more than half of the 165 vulnerabilities patched, with two zero-days in that mix.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
-          "publishedOn": "2026-04-14T21:22:07.000Z",
-          "wordCount": null,
-          "title": "Privilege Elevation Dominates Massive Microsoft Patch Update",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses",
-          "author": "Rob Wright",
-          "description": "Stopping EDR killers, which employ bring-your-own-vulnerable-driver (BYOVD) attack techniques, is difficult, but not impossible.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses",
-          "publishedOn": "2026-04-14T20:20:34.000Z",
-          "wordCount": null,
-          "title": "EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
-          "author": "Elizabeth Montalbano",
-          "description": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
-          "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
-          "publishedOn": "2026-04-14T16:06:14.000Z",
-          "wordCount": null,
-          "title": "War Game Exercise Demonstrates How Social Media Manipulation Works",
           "imageUrl": null
         }
       ]
