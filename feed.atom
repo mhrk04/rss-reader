@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-04-30T10:15:14.499Z</updated>
+    <updated>2026-05-01T09:54:02.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft]]></title>
+        <id>https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html</id>
+        <link href="https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html"/>
+        <updated>2026-05-01T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.
+The activity has been attributed to the GitHub account "BufferZoneCorp," which has published a set of repositories that are associated with malicious Ruby gems and Go modules. As of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack]]></title>
+        <id>https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud</id>
+        <link href="https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud"/>
+        <updated>2026-04-30T21:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Several npm packages for SAP's cloud application development ecosystem have been compromised as TeamPCP's supply chain attacks broaden.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug"/>
+        <updated>2026-04-30T20:41:18.000Z</updated>
+        <summary type="html"><![CDATA[The proof-of-concept exploit code runs only 10 lines long, but luckily, a patch is already available.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next"/>
+        <updated>2026-04-30T19:09:21.000Z</updated>
+        <summary type="html"><![CDATA[In this latest installment of the Reporters' Notebook video series, we discuss how the new AI model threatens to completely upend cybersecurity, and what industry leaders are telling the press.]]></summary>
+        <author>
+            <name>Becky Bracken, Kristina Beek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials]]></title>
+        <id>https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html</id>
+        <link href="https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html"/>
+        <updated>2026-04-30T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.
+According to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories]]></title>
+        <id>https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html</id>
+        <link href="https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html"/>
+        <updated>2026-04-30T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install. It is definitely a busy time to be online.
+Security is always a moving target. Millions of servers are currently sitting online without any passwords, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle Red Bull Racing Team Revs Up Automation to Boost Security]]></title>
+        <id>https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security</id>
+        <link href="https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security"/>
+        <updated>2026-04-30T13:45:58.000Z</updated>
+        <summary type="html"><![CDATA[While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.]]></summary>
+        <author>
+            <name>Arielle Waldman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials]]></title>
+        <id>https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html</id>
+        <link href="https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html"/>
+        <updated>2026-04-30T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts.
+"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades]]></title>
+        <id>https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html</id>
+        <link href="https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html"/>
+        <updated>2026-04-30T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Intro
+A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating Search Engine Order (SEO)]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Unveils T7, T9 microSD Cards With Up To 1TB Capacity]]></title>
+        <id>https://www.lowyat.net/?p=391462</id>
+        <link href="https://www.lowyat.net/2026/391462/samsung-unveils-t7-t9-microsd-cards/"/>
+        <updated>2026-04-30T10:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Samsung has officially expanded its removable storage lineup with two new microSD cards, the T7 and T9. Samsung says the T7 is for “light gamers” and “intermediate creators” who need reliable everyday storage, while positioning the T9 as a higher-end option for professional creators and gaming enthusiasts. To start, the T7 focuses more on capacity, […]
+The post Samsung Unveils T7, T9 microSD Cards With Up To 1TB Capacity appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Illegear Announces Core Series Gaming Laptops; Available In 15-, 18-Inch Sizes]]></title>
         <id>https://www.lowyat.net/?p=391426</id>
@@ -2496,258 +2602,6 @@ The post Amazfit Announces Cheetah 2 Pro With Sapphire Display, 20-Day Battery L
 To that end, the agency has added the vulnerability, tracked as CVE-2026-34197 (CVSS score: 8.8), to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities"/>
-        <updated>2026-04-16T21:47:31.000Z</updated>
-        <summary type="html"><![CDATA[The National Institute of Standards and Technology carved a new path for vulnerability remediation by changing the way it prioritizes software flaws.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korea Uses ClickFix to Target macOS Users' Data]]></title>
-        <id>https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data</id>
-        <link href="https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data"/>
-        <updated>2026-04-16T19:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Harmless' Global Adware Transforms Into an AV Killer]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer"/>
-        <updated>2026-04-16T19:07:26.000Z</updated>
-        <summary type="html"><![CDATA[A benign looking update Dragon Boss pushed out in March 2025 established persistence via scheduled tasks and arranged for future payloads to be excluded from Windows Defender.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic]]></title>
-        <id>https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html</id>
-        <link href="https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html"/>
-        <updated>2026-04-16T17:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December 2025.
-"PowMix employs randomized command-and-control (C2) beaconing intervals, rather than persistent connection to the C2 server, to evade the network signature detections," Cisco Talos]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two-Factor Authentication Breaks Free from the Desktop]]></title>
-        <id>https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop</id>
-        <link href="https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop"/>
-        <updated>2026-04-16T15:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors know how to bypass security systems outside of traditional IT environments. Implementing 2FA could provide a needed extra security barrier in the physical world.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's Original Windows Secure Boot Certificate Is Expiring]]></title>
-        <id>https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire</id>
-        <link href="https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire"/>
-        <updated>2026-04-16T15:16:30.000Z</updated>
-        <summary type="html"><![CDATA[The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. Update those PCs soon.]]></summary>
-        <author>
-            <name>Jeffrey Schwartz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories]]></title>
-        <id>https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html</id>
-        <link href="https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html"/>
-        <updated>2026-04-16T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole "crime" part, ancient vulnerabilities somehow still ruining people's days, and enough supply chain drama to fill a season of television nobody asked for.
-Not]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment]]></title>
-        <id>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</id>
-        <link href="https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"/>
-        <updated>2026-04-16T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching.
-For every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections, andOAuth grants. When projects end or employees leave, most]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution]]></title>
-        <id>https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html</id>
-        <link href="https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html"/>
-        <updated>2026-04-16T11:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the service.
-The details of the vulnerabilities are below -
-
-CVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu]]></title>
-        <id>https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html</id>
-        <link href="https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html"/>
-        <updated>2026-04-16T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A bank approved a Taboola pixel. That pixel quietly redirected logged-in users to a Temu tracking endpoint. This occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation.
-
-Read the full technical breakdown in the Security Intelligence Brief. Download now →
-The "First-Hop Bias" Blind Spot
-Most&]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks]]></title>
-        <id>https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html</id>
-        <link href="https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html"/>
-        <updated>2026-04-16T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[A "novel" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency sectors.
-Dubbed REF6598 by Elastic Security Labs, the activity has been found to leverage]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Age Verification App Ready To Roll Out In European Union]]></title>
-        <id>https://www.lowyat.net/?p=389940</id>
-        <link href="https://www.lowyat.net/2026/389940/age-verification-app-european-union/"/>
-        <updated>2026-04-16T09:24:59.000Z</updated>
-        <summary type="html"><![CDATA[As governments begin implementing their own measures to ensure the safety of children online, the need for reliable age verification systems has become apparent. While individual platforms have their own processes, the European Union has proposed its own solution: an age verification app. In fact, said app is already “technically ready” and will soon be […]
-The post Age Verification App Ready To Roll Out In European Union appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alleged Xiaomi 18 Pro Renders Appear Online; Features Dedicated AI Button]]></title>
-        <id>https://www.lowyat.net/?p=389938</id>
-        <link href="https://www.lowyat.net/2026/389938/alleged-xiaomi-18-pro-renders-appear-online/"/>
-        <updated>2026-04-16T09:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Though it’s been a little over a month since Xiaomi launched its 17 series in Malaysia, a rumour suggests that the company is already working on the Xiaomi 18 Pro. Several rumours have surfaced talking about the device’s supposed specs, like a triple camera setup and a 7,000mAh battery. Today, rather than your usual spec […]
-The post Alleged Xiaomi 18 Pro Renders Appear Online; Features Dedicated AI Button appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk Shows Off New Tesla AI5 AI Chip]]></title>
-        <id>https://www.lowyat.net/?p=389932</id>
-        <link href="https://www.lowyat.net/2026/389932/elon-musk-shows-off-new-tesla-ai5-ai-chip/"/>
-        <updated>2026-04-16T08:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk, CEO of Tesla, recently gave the world its first glimpse of the AI5, his company’s upcoming AI chip. Additionally, he also mentioned that the AI6 and Dojo3 are already in development and will follow suit soon. Musk announced it via his social network, X. The AI5 is a fifth generation AI chip that […]
-The post Elon Musk Shows Off New Tesla AI5 AI Chip appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei Revives Watch-To-Earbuds Watch Buds 2]]></title>
-        <id>https://www.lowyat.net/?p=389927</id>
-        <link href="https://www.lowyat.net/2026/389927/huawei-revives-watch-to-earbuds-watch-buds-2/"/>
-        <updated>2026-04-16T07:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Huawei is supposedly resurrecting an old product from the grave in the form of the Watch Buds 2. The product’s announcement comes three years after the launch of the first generation Watch Buds. Then, as now, the Watch Buds 2 is a combination of a smartwatch that doubles as a casing for a pair of […]
-The post Huawei Revives Watch-To-Earbuds Watch Buds 2 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Puts Gemini On macOS, Windows Devices With New Native Apps]]></title>
-        <id>https://www.lowyat.net/?p=389913</id>
-        <link href="https://www.lowyat.net/2026/389913/google-gemini-macos-windows-apps/"/>
-        <updated>2026-04-16T07:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Google has been pretty busy this week. Aside from bringing Personal Intelligence to our shores, the company has announced a dedicated Gemini app for macOS. This app, which was coded in Swift, offers a native desktop experience that’s easily accessible without needing to switch tabs. Users can launch the app using a keyboard shortcut. Pressing […]
-The post Google Puts Gemini On macOS, Windows Devices With New Native Apps appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Microsoft To Refresh Surface Pro, Laptop Lines With New Chips, Better Display]]></title>
-        <id>https://www.lowyat.net/?p=389904</id>
-        <link href="https://www.lowyat.net/2026/389904/report-microsoft-to-refresh-surface-pro-laptop-lines/"/>
-        <updated>2026-04-16T06:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is reportedly preparing to refresh its Surface Pro and Surface Laptop lineup with new chips, improved displays, and a handful of quality-of-life upgrades, according to a report by Windows Central. The company is allegedly planning a two-stage rollout for the devices, with Intel-powered models arriving first, followed by Snapdragon variants at a later date. […]
-The post Report: Microsoft To Refresh Surface Pro, Laptop Lines With New Chips, Better Display appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign]]></title>
-        <id>https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html</id>
-        <link href="https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html"/>
-        <updated>2026-04-16T06:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The Computer Emergencies Response Team of Ukraine (CERT-UA) has disclosed details of a new campaign that has targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of stealing sensitive data from Chromium-based web browsers and WhatsApp.
-The activity, which was observed between March and April]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPO Details New AI Features For Find X9 Ultra; Pre-Orders Now Open]]></title>
-        <id>https://www.lowyat.net/?p=389888</id>
-        <link href="https://www.lowyat.net/2026/389888/oppo-find-x9-ultra-ai-features-pre-orders-malaysia/"/>
-        <updated>2026-04-16T06:06:02.000Z</updated>
-        <summary type="html"><![CDATA[OPPO is preparing to introduce the Find X9 Ultra as its latest flagship smartphone, with a global launch arriving soon. While the device is expected to push boundaries in mobile photography, the company has revealed that it will also come with a host of new AI features via ColorOS 16, designed to enhance everyday usability. […]
-The post OPPO Details New AI Features For Find X9 Ultra; Pre-Orders Now Open appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs"/>
-        <updated>2026-04-16T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While enterprises breaches make more headlines, smaller incidents tend to be under-reported, if at all, allowing campaigns to last longer with less disruption.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Games May Get 30-Day Price History]]></title>
-        <id>https://www.lowyat.net/?p=389886</id>
-        <link href="https://www.lowyat.net/2026/389886/steam-games-30-day-price-history/"/>
-        <updated>2026-04-16T05:53:39.000Z</updated>
-        <summary type="html"><![CDATA[While Valve has confirmed that it is testing some new additions in beta, other possible upcoming features are still being discovered via leaks. One example of the former is an FPS estimator for games based on your rig. An example of the latter has recently popped up, and it looks to be a 30-day price […]
-The post Steam Games May Get 30-Day Price History appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rolls-Royce Launches Project Nightingale; Two-Seater Convertible EV]]></title>
-        <id>https://www.lowyat.net/?p=389860</id>
-        <link href="https://www.lowyat.net/2026/389860/rolls-royce-project-nightingale-two-seater-convertible-ev/"/>
-        <updated>2026-04-16T05:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Luxury car makers getting into the EV game is not exactly news. What is though, is this specific one that Rolls-Royce is making. It’s a two seater convertible that the company is only calling Project Nightingale for now. It’s also something the BMW subsidiary notes to be the first of the Coachbuild Collection. Which is […]
-The post Rolls-Royce Launches Project Nightingale; Two-Seater Convertible EV appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Patent Hints At A Wide-Screen Version Of The Galaxy Z TriFold]]></title>
-        <id>https://www.lowyat.net/?p=389851</id>
-        <link href="https://www.lowyat.net/2026/389851/samsung-patent-wide-screen-galaxy-z-trifold/"/>
-        <updated>2026-04-16T04:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Huawei became the first to revive wide-screen foldables with the Pura X Max, but apparently Samsung refuses to be outdone. A newly surfaced patent suggests that the South Korean tech giant is working to create a wide version of its triple-panel smartphone—a Galaxy Z TriFold Wide, if you will. This patent depicts a device that […]
-The post Samsung Patent Hints At A Wide-Screen Version Of The Galaxy Z TriFold appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
         </author>
     </entry>
     <entry>

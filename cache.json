@@ -19294,6 +19294,86 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.\nThe activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has published a set of repositories that are associated with malicious Ruby gems and Go modules. As of",
+          "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+          "publishedOn": "2026-05-01T09:43:00.000Z",
+          "wordCount": null,
+          "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNz4euGufhcyWdY8TkRfdXBUj2XXZlzQWEb1QyI7otpos158ctsC236sEm2NAZ20sUZv4AOqrGCSTbjGsOOkMwhQv53ZjyrVXf9SVUsMfhvhQ4LzGL87j44f0kMkXRzBAoWeHDz8hywx4gbW_trN1mFk-xCCZatTf0zNsude7k-3WE9kIY_pPgza53qsdc/s1600/buffer.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNz4euGufhcyWdY8TkRfdXBUj2XXZlzQWEb1QyI7otpos158ctsC236sEm2NAZ20sUZv4AOqrGCSTbjGsOOkMwhQv53ZjyrVXf9SVUsMfhvhQ4LzGL87j44f0kMkXRzBAoWeHDz8hywx4gbW_trN1mFk-xCCZatTf0zNsude7k-3WE9kIY_pPgza53qsdc/s1600/buffer.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an",
+          "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+          "publishedOn": "2026-04-30T16:31:00.000Z",
+          "wordCount": null,
+          "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7hiQfVCFzoPBzfr5xqJ06qMjzv-zw_qiUcDTgyEM8RbEVk3PDztg9U5Vlkgvz6j7nX8ODtXwnTCC2wB78lupEmRjcxJTz74GJGSslsMQM-e5b8vG0W2gLFnbEzYAPKw05ZelkaNfy50VyLJeb-3EhwiGKfIP9qHNRpNG4MnFUnTBBOJ95vRJb-RbcFVxX/s1600/python.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7hiQfVCFzoPBzfr5xqJ06qMjzv-zw_qiUcDTgyEM8RbEVk3PDztg9U5Vlkgvz6j7nX8ODtXwnTCC2wB78lupEmRjcxJTz74GJGSslsMQM-e5b8vG0W2gLFnbEzYAPKw05ZelkaNfy50VyLJeb-3EhwiGKfIP9qHNRpNG4MnFUnTBBOJ95vRJb-RbcFVxX/s1600/python.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install. It is definitely a busy time to be online.\nSecurity is always a moving target. Millions of servers are currently sitting online without any passwords, and",
+          "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+          "publishedOn": "2026-04-30T13:55:00.000Z",
+          "wordCount": null,
+          "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwfqxUhPz38fAoq0CZr2tW8KqGW-Cr0zJloN9kS_80QO2e7yyah4N-nMKNxoSllB2tpyjKO25s2f8eFJNd2bBo50XRAVatMKnnk8ZAbRbz6kfQUhVUoD5vutOmFpYzojybY8aJZhA6KGL3sawNEyaqjlW63hAeEwrTsj8lnpou-4mThnzwCzO442aue-R0/s1600/threats.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwfqxUhPz38fAoq0CZr2tW8KqGW-Cr0zJloN9kS_80QO2e7yyah4N-nMKNxoSllB2tpyjKO25s2f8eFJNd2bBo50XRAVatMKnnk8ZAbRbz6kfQUhVUoD5vutOmFpYzojybY8aJZhA6KGL3sawNEyaqjlW63hAeEwrTsj8lnpou-4mThnzwCzO442aue-R0/s1600/threats.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts.\n\"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an",
+          "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+          "publishedOn": "2026-04-30T12:36:00.000Z",
+          "wordCount": null,
+          "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnv1KtLLlZSnm9a16bN-o_szrBiAIN_QljTfe09K4RzFxSqhFADtuXmRzOPZ_Poazif-VadFAnRnboCWX5yZtc5JntGopn5Fy6T1X2BexXelFOxYtEA7qULoTCkAMwEybLf42JJ_yGjSPf_T-tjYvbqxscVgZ6OyL65yKcTjC0KQL48pgYLZUmLjxfBBhd/s1600/malware-data.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnv1KtLLlZSnm9a16bN-o_szrBiAIN_QljTfe09K4RzFxSqhFADtuXmRzOPZ_Poazif-VadFAnRnboCWX5yZtc5JntGopn5Fy6T1X2BexXelFOxYtEA7qULoTCkAMwEybLf42JJ_yGjSPf_T-tjYvbqxscVgZ6OyL65yKcTjC0KQL48pgYLZUmLjxfBBhd/s1600/malware-data.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Intro\nA sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating Search Engine Order (SEO)",
+          "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+          "publishedOn": "2026-04-30T11:30:00.000Z",
+          "wordCount": null,
+          "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8d19xBfapc_ToA1XOK4xdQ815tfHldoYH0Cy7zsTwOoWlFNQDdubeXMv4Udo6DaFXWJK3lG4meqdmtLAuaCMfa7R1KM_EfiGE5cZItYx6NdnqjB-R_6neMFv5iIG6SjUDkRUUiZg_j7oOaueXGZb4M-K7EmJM3MCjSvgxfok9gTFNd9Qwdf-AKu_DsP4/s1600/github-2.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8d19xBfapc_ToA1XOK4xdQ815tfHldoYH0Cy7zsTwOoWlFNQDdubeXMv4Udo6DaFXWJK3lG4meqdmtLAuaCMfa7R1KM_EfiGE5cZItYx6NdnqjB-R_6neMFv5iIG6SjUDkRUUiZg_j7oOaueXGZb4M-K7EmJM3MCjSvgxfok9gTFNd9Qwdf-AKu_DsP4/s1600/github-2.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori.\n\"An unprivileged local user can write four controlled bytes into the page cache of any readable file on a Linux",
@@ -20396,118 +20476,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKAY7CueGuHevAtV544WN7RTKISrobQLFpjfi4kjdzP1I2BA3rnll69dv1kfvHYSCcU5tQISA0OOgcQVibKrl4o0AvtUyM9crfZuSb1XFH03iLtPglZeHn1e6S8urWxf_4CEH9-tCZdT9BBrvXOFygCxjO_AUmUXnzm4d37Q80fPw3lEn6Hb0_LWlP9XM5/s1600/apachemq.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKAY7CueGuHevAtV544WN7RTKISrobQLFpjfi4kjdzP1I2BA3rnll69dv1kfvHYSCcU5tQISA0OOgcQVibKrl4o0AvtUyM9crfZuSb1XFH03iLtPglZeHn1e6S8urWxf_4CEH9-tCZdT9BBrvXOFygCxjO_AUmUXnzm4d37Q80fPw3lEn6Hb0_LWlP9XM5/s1600/apachemq.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December 2025.\n\"PowMix employs randomized command-and-control (C2) beaconing intervals, rather than persistent connection to the C2 server, to evade the network signature detections,\" Cisco Talos",
-          "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
-          "publishedOn": "2026-04-16T17:52:00.000Z",
-          "wordCount": null,
-          "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaSAtFbXFX7aYFcwPPrHEMwEZ4VJp2mJQuYo3B3Q2Zrot1co_ilMUWffYOUUFHFRO6zwHHjlMCMOJcbnc_iF69KLU_1LpMhcfFk5YV8A4cdIchhqR1NQGEvyzpHGidnbvqwq2Tg_Y77VwMCpeSSluD8sPRcusqiraqLMCvUCA-QvUv5nCuh2Ns1U2jxNR1/s1600/powmix.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaSAtFbXFX7aYFcwPPrHEMwEZ4VJp2mJQuYo3B3Q2Zrot1co_ilMUWffYOUUFHFRO6zwHHjlMCMOJcbnc_iF69KLU_1LpMhcfFk5YV8A4cdIchhqR1NQGEvyzpHGidnbvqwq2Tg_Y77VwMCpeSSluD8sPRcusqiraqLMCvUCA-QvUv5nCuh2Ns1U2jxNR1/s1600/powmix.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole \"crime\" part, ancient vulnerabilities somehow still ruining people's days, and enough supply chain drama to fill a season of television nobody asked for.\nNot",
-          "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
-          "publishedOn": "2026-04-16T13:05:00.000Z",
-          "wordCount": null,
-          "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzTV_mwPjmV14aBlnHuLOX2yEZR6VGpmadgiPHtNBJV0KVNG_Oj2tnqE1cb3U9RhBXN-Mytte3jKs2n2dQwBhX2dYDETy5es4cGUkbW5bdIaV_hx8i3gWQhdaa7se1_Q8NY9t0q90EjUBNXt56_MxjT4YVV-R8D14jV3LequHu0llA84NnEK3PeU56Q54X/s1600/bull-main.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzTV_mwPjmV14aBlnHuLOX2yEZR6VGpmadgiPHtNBJV0KVNG_Oj2tnqE1cb3U9RhBXN-Mytte3jKs2n2dQwBhX2dYDETy5es4cGUkbW5bdIaV_hx8i3gWQhdaa7se1_Q8NY9t0q90EjUBNXt56_MxjT4YVV-R8D14jV3LequHu0llA84NnEK3PeU56Q54X/s1600/bull-main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching.\nFor every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections, andOAuth grants. When projects end or employees leave, most",
-          "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-          "publishedOn": "2026-04-16T11:55:00.000Z",
-          "wordCount": null,
-          "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6vJpO9kksCQDpSksNkqDFNUCbXD70dMGYqI6P9S_XPMY5d8BR8PVdrsVQP1ZJO_-nzL6eQShM3Cap9heQ5kAglsPjfxwIcXPSsf_cfgUVnGQ2XzIWVOuo7JhxMjnHYDN6r9KlQ6LqZJisRZkjatnWChuzUkSlXRa1hFseUPq28PZ5gjGR7L2WzTFdZ3fM/s1600/ghost.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6vJpO9kksCQDpSksNkqDFNUCbXD70dMGYqI6P9S_XPMY5d8BR8PVdrsVQP1ZJO_-nzL6eQShM3Cap9heQ5kAglsPjfxwIcXPSsf_cfgUVnGQ2XzIWVOuo7JhxMjnHYDN6r9KlQ6LqZJisRZkjatnWChuzUkSlXRa1hFseUPq28PZ5gjGR7L2WzTFdZ3fM/s1600/ghost.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the service.\nThe details of the vulnerabilities are below -\n\nCVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)",
-          "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
-          "publishedOn": "2026-04-16T11:27:00.000Z",
-          "wordCount": null,
-          "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A bank approved a Taboola pixel. That pixel quietly redirected logged-in users to a Temu tracking endpoint. This occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation.\n\nRead the full technical breakdown in the Security Intelligence Brief. Download now →\nThe \"First-Hop Bias\" Blind Spot\nMost&",
-          "link": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
-          "publishedOn": "2026-04-16T10:30:00.000Z",
-          "wordCount": null,
-          "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSzIRGweO7UJkqOLQTUDsqPy53XtIWCzyLklGJLfFxhneZiFpxg8zJRXukUqEsT4TbdFwUZbvTfwuexfGuiYjcDQ-iZDjqwZ2lDlCIhgopZWevBpdi4rr6GxgXpU6MmFnzdMpq_WGdA9PRfaNw_7eDAOugAV1tccfmREgbXveM1N15G2_L9lFxCq1Pv0/s1600/reflectiz.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSzIRGweO7UJkqOLQTUDsqPy53XtIWCzyLklGJLfFxhneZiFpxg8zJRXukUqEsT4TbdFwUZbvTfwuexfGuiYjcDQ-iZDjqwZ2lDlCIhgopZWevBpdi4rr6GxgXpU6MmFnzdMpq_WGdA9PRfaNw_7eDAOugAV1tccfmREgbXveM1N15G2_L9lFxCq1Pv0/s1600/reflectiz.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency sectors.\nDubbed REF6598 by Elastic Security Labs, the activity has been found to leverage",
-          "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-          "publishedOn": "2026-04-16T10:20:00.000Z",
-          "wordCount": null,
-          "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoBvtFhZbLfNE2AsVSzuOt5V9YMzAumIA2M9c7QVbp_i-xMwDIgVtDgCIi2bCYgH_PviS8P-Ap1k-8aVmHABqLzNGE9g014MM1gnfJEJPKbKczoCjPoI6PxZ77bNlz2dSlv8XqoVFyZZqQ6SWBue3rpRegb_k62HJkfMl39GHTBIIzZOGrv_iKbxOYV8E/s1600/el.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoBvtFhZbLfNE2AsVSzuOt5V9YMzAumIA2M9c7QVbp_i-xMwDIgVtDgCIi2bCYgH_PviS8P-Ap1k-8aVmHABqLzNGE9g014MM1gnfJEJPKbKczoCjPoI6PxZ77bNlz2dSlv8XqoVFyZZqQ6SWBue3rpRegb_k62HJkfMl39GHTBIIzZOGrv_iKbxOYV8E/s1600/el.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Computer Emergencies Response Team of Ukraine (CERT-UA) has disclosed details of a new campaign that has targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of stealing sensitive data from Chromium-based web browsers and WhatsApp.\nThe activity, which was observed between March and April",
-          "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
-          "publishedOn": "2026-04-16T06:20:00.000Z",
-          "wordCount": null,
-          "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3uHu3ez1qUhePM8e1rCVaEUwBzhu09tblZcAl6jlOEYHN1Zq2-rm-dyEOArGNUm63UjM-_Qs8XwFKUa46UxOwufTn4BmRlfv1xiwlxkk3XboMQu8d4fHpy5Vb5y_0zcpXw5Alg-V_Ud85gINtfz6pfOZWWcco9Dy0jkeRCPCF-ssY2zJjRge1d3PJf_c/s1600/uk.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3uHu3ez1qUhePM8e1rCVaEUwBzhu09tblZcAl6jlOEYHN1Zq2-rm-dyEOArGNUm63UjM-_Qs8XwFKUa46UxOwufTn4BmRlfv1xiwlxkk3XboMQu8d4fHpy5Vb5y_0zcpXw5Alg-V_Ud85gINtfz6pfOZWWcco9Dy0jkeRCPCF-ssY2zJjRge1d3PJf_c/s1600/uk.jpg"
         }
       ]
     },
@@ -20516,6 +20484,16 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=391462",
+          "author": "Kiran Ganesan",
+          "description": "Samsung has officially expanded its removable storage lineup with two new microSD cards, the T7 and T9. Samsung says the T7 is for “light gamers” and “intermediate creators” who need reliable everyday storage, while positioning the T9 as a higher-end option for professional creators and gaming enthusiasts. To start, the T7 focuses more on capacity, […]\nThe post Samsung Unveils T7, T9 microSD Cards With Up To 1TB Capacity appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/391462/samsung-unveils-t7-t9-microsd-cards/",
+          "publishedOn": "2026-04-30T10:29:36.000Z",
+          "wordCount": 15067,
+          "title": "Samsung Unveils T7, T9 microSD Cards With Up To 1TB Capacity",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Samsung-Unveils-T7-T9-microSD-Cards-1-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=391426",
           "author": "Ian Chee",
@@ -21705,106 +21683,6 @@
           "wordCount": 15382,
           "title": "Amazfit Announces Cheetah 2 Pro With Sapphire Display, 20-Day Battery Life",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Amazfit-Announces-Cheetah-2-Pro-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389940",
-          "author": "Nurul Kamil",
-          "description": "As governments begin implementing their own measures to ensure the safety of children online, the need for reliable age verification systems has become apparent. While individual platforms have their own processes, the European Union has proposed its own solution: an age verification app. In fact, said app is already “technically ready” and will soon be […]\nThe post Age Verification App Ready To Roll Out In European Union appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389940/age-verification-app-european-union/",
-          "publishedOn": "2026-04-16T09:24:59.000Z",
-          "wordCount": 15139,
-          "title": "Age Verification App Ready To Roll Out In European Union",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/european-union-age-verification-app-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389938",
-          "author": "Kiran Ganesan",
-          "description": "Though it’s been a little over a month since Xiaomi launched its 17 series in Malaysia, a rumour suggests that the company is already working on the Xiaomi 18 Pro. Several rumours have surfaced talking about the device’s supposed specs, like a triple camera setup and a 7,000mAh battery. Today, rather than your usual spec […]\nThe post Alleged Xiaomi 18 Pro Renders Appear Online; Features Dedicated AI Button appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389938/alleged-xiaomi-18-pro-renders-appear-online/",
-          "publishedOn": "2026-04-16T09:14:17.000Z",
-          "wordCount": 15415,
-          "title": "Alleged Xiaomi 18 Pro Renders Appear Online; Features Dedicated AI Button",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Alleged-Xiaomi-18-Pro-Renders-Appear-Online-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389932",
-          "author": "John Law",
-          "description": "Elon Musk, CEO of Tesla, recently gave the world its first glimpse of the AI5, his company’s upcoming AI chip. Additionally, he also mentioned that the AI6 and Dojo3 are already in development and will follow suit soon. Musk announced it via his social network, X. The AI5 is a fifth generation AI chip that […]\nThe post Elon Musk Shows Off New Tesla AI5 AI Chip appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389932/elon-musk-shows-off-new-tesla-ai5-ai-chip/",
-          "publishedOn": "2026-04-16T08:16:51.000Z",
-          "wordCount": 15192,
-          "title": "Elon Musk Shows Off New Tesla AI5 AI Chip",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Elon-Musk-AI5-AI-Chip-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389927",
-          "author": "John Law",
-          "description": "Huawei is supposedly resurrecting an old product from the grave in the form of the Watch Buds 2. The product’s announcement comes three years after the launch of the first generation Watch Buds. Then, as now, the Watch Buds 2 is a combination of a smartwatch that doubles as a casing for a pair of […]\nThe post Huawei Revives Watch-To-Earbuds Watch Buds 2 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389927/huawei-revives-watch-to-earbuds-watch-buds-2/",
-          "publishedOn": "2026-04-16T07:36:37.000Z",
-          "wordCount": 15266,
-          "title": "Huawei Revives Watch-To-Earbuds Watch Buds 2",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Huawei-Watch-Buds-2-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389913",
-          "author": "Nurul Kamil",
-          "description": "Google has been pretty busy this week. Aside from bringing Personal Intelligence to our shores, the company has announced a dedicated Gemini app for macOS. This app, which was coded in Swift, offers a native desktop experience that’s easily accessible without needing to switch tabs. Users can launch the app using a keyboard shortcut. Pressing […]\nThe post Google Puts Gemini On macOS, Windows Devices With New Native Apps appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389913/google-gemini-macos-windows-apps/",
-          "publishedOn": "2026-04-16T07:00:50.000Z",
-          "wordCount": 15237,
-          "title": "Google Puts Gemini On macOS, Windows Devices With New Native Apps",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/google-gemini-macos-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389904",
-          "author": "Kiran Ganesan",
-          "description": "Microsoft is reportedly preparing to refresh its Surface Pro and Surface Laptop lineup with new chips, improved displays, and a handful of quality-of-life upgrades, according to a report by Windows Central. The company is allegedly planning a two-stage rollout for the devices, with Intel-powered models arriving first, followed by Snapdragon variants at a later date. […]\nThe post Report: Microsoft To Refresh Surface Pro, Laptop Lines With New Chips, Better Display appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389904/report-microsoft-to-refresh-surface-pro-laptop-lines/",
-          "publishedOn": "2026-04-16T06:23:47.000Z",
-          "wordCount": 15624,
-          "title": "Report: Microsoft To Refresh Surface Pro, Laptop Lines With New Chips, Better Display",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/08/Microsoft-Surface-Laptop-7-Copilotplus-Product-Shot-12-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389888",
-          "author": "Heirul Kamel",
-          "description": "OPPO is preparing to introduce the Find X9 Ultra as its latest flagship smartphone, with a global launch arriving soon. While the device is expected to push boundaries in mobile photography, the company has revealed that it will also come with a host of new AI features via ColorOS 16, designed to enhance everyday usability. […]\nThe post OPPO Details New AI Features For Find X9 Ultra; Pre-Orders Now Open appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389888/oppo-find-x9-ultra-ai-features-pre-orders-malaysia/",
-          "publishedOn": "2026-04-16T06:06:02.000Z",
-          "wordCount": 15722,
-          "title": "OPPO Details New AI Features For Find X9 Ultra; Pre-Orders Now Open",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-back-hand.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389886",
-          "author": "Ian Chee",
-          "description": "While Valve has confirmed that it is testing some new additions in beta, other possible upcoming features are still being discovered via leaks. One example of the former is an FPS estimator for games based on your rig. An example of the latter has recently popped up, and it looks to be a 30-day price […]\nThe post Steam Games May Get 30-Day Price History appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389886/steam-games-30-day-price-history/",
-          "publishedOn": "2026-04-16T05:53:39.000Z",
-          "wordCount": 15142,
-          "title": "Steam Games May Get 30-Day Price History",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Steam-logo-stock-file-photo.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389860",
-          "author": "Ian Chee",
-          "description": "Luxury car makers getting into the EV game is not exactly news. What is though, is this specific one that Rolls-Royce is making. It’s a two seater convertible that the company is only calling Project Nightingale for now. It’s also something the BMW subsidiary notes to be the first of the Coachbuild Collection. Which is […]\nThe post Rolls-Royce Launches Project Nightingale; Two-Seater Convertible EV appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389860/rolls-royce-project-nightingale-two-seater-convertible-ev/",
-          "publishedOn": "2026-04-16T05:06:00.000Z",
-          "wordCount": 15090,
-          "title": "Rolls-Royce Launches Project Nightingale; Two-Seater Convertible EV",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Rolls-Royce-Project-Nightingale.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=389851",
-          "author": "Nurul Kamil",
-          "description": "Huawei became the first to revive wide-screen foldables with the Pura X Max, but apparently Samsung refuses to be outdone. A newly surfaced patent suggests that the South Korean tech giant is working to create a wide version of its triple-panel smartphone—a Galaxy Z TriFold Wide, if you will. This patent depicts a device that […]\nThe post Samsung Patent Hints At A Wide-Screen Version Of The Galaxy Z TriFold appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/389851/samsung-patent-wide-screen-galaxy-z-trifold/",
-          "publishedOn": "2026-04-16T04:09:25.000Z",
-          "wordCount": 15515,
-          "title": "Samsung Patent Hints At A Wide-Screen Version Of The Galaxy Z TriFold",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/samsung-galaxy-z-trifold-wide-1.webp"
         }
       ]
     },
@@ -21813,6 +21691,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud",
+          "author": "Rob Wright",
+          "description": "Several npm packages for SAP's cloud application development ecosystem have been compromised as TeamPCP's supply chain attacks broaden.",
+          "link": "https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud",
+          "publishedOn": "2026-04-30T21:01:18.000Z",
+          "wordCount": null,
+          "title": "TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
+          "author": "Nate Nelson",
+          "description": "The proof-of-concept exploit code runs only 10 lines long, but luckily, a patch is already available.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
+          "publishedOn": "2026-04-30T20:41:18.000Z",
+          "wordCount": null,
+          "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next",
+          "author": "Becky Bracken, Kristina Beek",
+          "description": "In this latest installment of the Reporters' Notebook video series, we discuss how the new AI model threatens to completely upend cybersecurity, and what industry leaders are telling the press.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next",
+          "publishedOn": "2026-04-30T19:09:21.000Z",
+          "wordCount": null,
+          "title": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
+          "author": "Arielle Waldman",
+          "description": "While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.",
+          "link": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
+          "publishedOn": "2026-04-30T13:45:58.000Z",
+          "wordCount": null,
+          "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector",
           "author": "Nate Nelson",
@@ -22211,66 +22129,6 @@
           "publishedOn": "2026-04-17T13:00:00.000Z",
           "wordCount": null,
           "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
-          "author": "Arielle Waldman",
-          "description": "The National Institute of Standards and Technology carved a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
-          "publishedOn": "2026-04-16T21:47:31.000Z",
-          "wordCount": null,
-          "title": "NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data",
-          "author": "Alexander Culafi",
-          "description": "Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.",
-          "link": "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data",
-          "publishedOn": "2026-04-16T19:42:45.000Z",
-          "wordCount": null,
-          "title": "North Korea Uses ClickFix to Target macOS Users' Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer",
-          "author": "Nate Nelson",
-          "description": "A benign looking update Dragon Boss pushed out in March 2025 established persistence via scheduled tasks and arranged for future payloads to be excluded from Windows Defender.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer",
-          "publishedOn": "2026-04-16T19:07:26.000Z",
-          "wordCount": null,
-          "title": "'Harmless' Global Adware Transforms Into an AV Killer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop",
-          "author": "Arielle Waldman",
-          "description": "Threat actors know how to bypass security systems outside of traditional IT environments. Implementing 2FA could provide a needed extra security barrier in the physical world.",
-          "link": "https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop",
-          "publishedOn": "2026-04-16T15:28:15.000Z",
-          "wordCount": null,
-          "title": "Two-Factor Authentication Breaks Free from the Desktop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire",
-          "author": "Jeffrey Schwartz",
-          "description": "The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. Update those PCs soon.",
-          "link": "https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire",
-          "publishedOn": "2026-04-16T15:16:30.000Z",
-          "wordCount": null,
-          "title": "Microsoft's Original Windows Secure Boot Certificate Is Expiring",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
-          "author": "Nate Nelson",
-          "description": "While enterprises breaches make more headlines, smaller incidents tend to be under-reported, if at all, allowing campaigns to last longer with less disruption.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
-          "publishedOn": "2026-04-16T06:00:00.000Z",
-          "wordCount": null,
-          "title": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs",
           "imageUrl": null
         }
       ]
