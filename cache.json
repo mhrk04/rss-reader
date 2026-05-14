@@ -19294,6 +19294,134 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON).\nThe security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
+          "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+          "publishedOn": "2026-05-14T09:25:50.000Z",
+          "wordCount": null,
+          "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1600/windowss.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1600/windowss.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks.\nCodenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
+          "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+          "publishedOn": "2026-05-14T07:06:15.000Z",
+          "wordCount": null,
+          "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEVPJhl5rAx5o22-s1GQ6E1KKHMlOsazAfObgwK72r5EGxr52OkNRHHQXJdHt39DQop0SAhxE_t9nMKgXxHNgYv1zyB-ZR1IqCIKUK2feTpx1swr4dZzKLpZ5uldjrOAX6qH-wYnUfRWieA2xQWPbAUB1JpXhkBGq4AA0Ft07F7MFqZSHCS9SMR6uXjoC/s1600/linux-2.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEVPJhl5rAx5o22-s1GQ6E1KKHMlOsazAfObgwK72r5EGxr52OkNRHHQXJdHt39DQop0SAhxE_t9nMKgXxHNgYv1zyB-ZR1IqCIKUK2feTpx1swr4dZzKLpZ5uldjrOAX6qH-wYnUfRWieA2xQWPbAUB1JpXhkBGq4AA0Ft07F7MFqZSHCS9SMR6uXjoC/s1600/linux-2.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years.\nThe vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
+          "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+          "publishedOn": "2026-05-14T06:00:09.000Z",
+          "wordCount": null,
+          "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview.\nMDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
+          "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+          "publishedOn": "2026-05-13T13:46:02.000Z",
+          "wordCount": null,
+          "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Iq16GS3jdGiIU24GHBkwg6unk05ctdgYwXO5df8zRu1qko95_XhszCjq6jlEIRozLsrtZHgi5GqDZnS1Sw_KDzUzsagwP0If3VswmYHsnuYwVseU2lapxQiPpItTdAiv-CCdTFR87ZVOu65buyvmvzmdWuJPKHuPA4DSo58HQIMAV__2ymsmRe2g3UVe/s1600/windows-ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Iq16GS3jdGiIU24GHBkwg6unk05ctdgYwXO5df8zRu1qko95_XhszCjq6jlEIRozLsrtZHgi5GqDZnS1Sw_KDzUzsagwP0If3VswmYHsnuYwVseU2lapxQiPpItTdAiv-CCdTFR87ZVOu65buyvmvzmdWuJPKHuPA4DSo58HQIMAV__2ymsmRe2g3UVe/s1600/windows-ai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting.\nThe activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
+          "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+          "publishedOn": "2026-05-13T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfGXVOYqF2EcrcnYIDCnTYdmWpV-uaZ5nV0_0ukZ8uCk19wFFOax_VvgwO8LtlIkVo8pvcSSBs8Afc66yo2PbiMDjq4UDqnytAqP-Nq8CqTOfEtqwuWRmjbUpRYzqaAXFnRiXozR34fXAPE8O6Gcix6f08Sped3oVUXcjIOTE04N8IInA0qVeG0Sc6LzB/s1600/energy-cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfGXVOYqF2EcrcnYIDCnTYdmWpV-uaZ5nV0_0ukZ8uCk19wFFOax_VvgwO8LtlIkVo8pvcSSBs8Afc66yo2PbiMDjq4UDqnytAqP-Nq8CqTOfEtqwuWRmjbUpRYzqaAXFnRiXozR34fXAPE8O6Gcix6f08Sped3oVUXcjIOTE04N8IInA0qVeG0Sc6LzB/s1600/energy-cyberattack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here.\nMost security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.\nThe real danger? While",
+          "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+          "publishedOn": "2026-05-13T11:52:43.000Z",
+          "wordCount": null,
+          "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKoTt2TCJhCZC7cgKpISoFL1hoD6YqAXVIIIzKZEyYmvXusJXxb2WQ_cYnjRCYdKeOJj2756fnWj2had24_OCECDq5bDf7y98vuYhsKSbrbRH1WYIqpwCF47lLsvrgFGLPkhomycGiEHqDa50OjwuwIZmH6cAu1vOXoXOiTzU4Si8qq6YPfo2r4OsP4KI/s1600/wiz.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKoTt2TCJhCZC7cgKpISoFL1hoD6YqAXVIIIzKZEyYmvXusJXxb2WQ_cYnjRCYdKeOJj2756fnWj2had24_OCECDq5bDf7y98vuYhsKSbrbRH1WYIqpwCF47lLsvrgFGLPkhomycGiEHqDa50OjwuwIZmH6cAu1vOXoXOiTzU4Si8qq6YPfo2r4OsP4KI/s1600/wiz.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed.\nMandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
+          "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+          "publishedOn": "2026-05-13T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg70Fxtk3MEmUdZjXl_ocBSlT80rWfXtIj2kxPvypzCSlEK4cqkm8lo16NXHjvyCw9niiPk2gKSPhgTjSFTZpetxg2As7QL0AyWWHoTuvtcp1Ok-ALMfcUwaUMAyE8asDu-KjVDoUP4VLCOSDPWHru7V-ix6Xs-VSHvHDJ8KRn6NLq_EJJBm0B4xwa9vbLp/s1600/pentera.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg70Fxtk3MEmUdZjXl_ocBSlT80rWfXtIj2kxPvypzCSlEK4cqkm8lo16NXHjvyCw9niiPk2gKSPhgTjSFTZpetxg2As7QL0AyWWHoTuvtcp1Ok-ALMfcUwaUMAyE8asDu-KjVDoUP4VLCOSDPWHru7V-ix6Xs-VSHvHDJ8KRn6NLq_EJJBm0B4xwa9vbLp/s1600/pentera.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack.\nOf the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by",
+          "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+          "publishedOn": "2026-05-13T10:36:10.000Z",
+          "wordCount": null,
+          "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution.\n\"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
@@ -20412,118 +20540,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, Onapsis, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-Hulud – has affected the following packages associated with SAP's",
-          "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-          "publishedOn": "2026-04-29T16:26:00.000Z",
-          "wordCount": null,
-          "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILiV-4oJHtNRt3-K52GIsgOaNUuN9owB5ky-Mk8FvRE3QmcqDg33oV3sCrzjgWEyIUfwTtn110bcMYVU3Lp61ArknIlPAcmMvbgJJ5-WheKYivyblon2tp79ux9pJmnYNv_ShhIAA5of3Wx7QzQRZs2mNuSQs6lLG23LKMVonvElcNMy6MXp6yVZO73F/s1600/sap-npm-hacks.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILiV-4oJHtNRt3-K52GIsgOaNUuN9owB5ky-Mk8FvRE3QmcqDg33oV3sCrzjgWEyIUfwTtn110bcMYVU3Lp61ArknIlPAcmMvbgJJ5-WheKYivyblon2tp79ux9pJmnYNv_ShhIAA5of3Wx7QzQRZs2mNuSQs6lLG23LKMVonvElcNMy6MXp6yVZO73F/s1600/sap-npm-hacks.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM).\nThe package in question is \"@validate-sdk/v2,\" which is listed on npm as a utility software development kit (SDK) for hashing, validation, encoding/decoding, and secure random generation. However, its real",
-          "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
-          "publishedOn": "2026-04-29T14:43:00.000Z",
-          "wordCount": null,
-          "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoAi4Ild7Dz2KtvraUPjGBgNHYScbOo2DzPh9iUn8IirHe8VYws7uF0A4wf2803kNMgLzCWg0oOZwXcdzRUx5-sbBPiABEN05-RtXTa2vMqOSa52E4FPELQba8QcIQBPXl6hOHuyN7cHldbTMMvxnA4UhxDk1Huh2W85I0EJeWdscqF5NdwRLjbtOXn7Zj/s1600/korean-hackers.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoAi4Ild7Dz2KtvraUPjGBgNHYScbOo2DzPh9iUn8IirHe8VYws7uF0A4wf2803kNMgLzCWg0oOZwXcdzRUx5-sbBPiABEN05-RtXTa2vMqOSa52E4FPELQba8QcIQBPXl6hOHuyN7cHldbTMMvxnA4UhxDk1Huh2W85I0EJeWdscqF5NdwRLjbtOXn7Zj/s1600/korean-hackers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\nWe aren't just talking about AI writing better phishing emails anymore. We’re talking about autonomous agents mapping Active Directory and seizing Domain Admin credentials in minutes.\nThe problem? Most defensive workflows",
-          "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-          "publishedOn": "2026-04-29T12:02:00.000Z",
-          "wordCount": null,
-          "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8vcicU2DANrmyA4GRttWV5sb4GPYdppuZax9v279s90O_uXz10MvgxpTyOR9s-tZoccR96ph-c7hZOwXORyLBYdWEsn3zCkrT_ivf6ZVApdMY6TL6jarUO4rNjR9nfc7XPTnmc6ttcKs_9aGOsOK4RoEnliEqVYrcOtL_d7Zys-51KZosLtWtlsOX4mo/s1600/thn.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8vcicU2DANrmyA4GRttWV5sb4GPYdppuZax9v279s90O_uXz10MvgxpTyOR9s-tZoccR96ph-c7hZOwXORyLBYdWEsn3zCkrT_ivf6ZVApdMY6TL6jarUO4rNjR9nfc7XPTnmc6ttcKs_9aGOsOK4RoEnliEqVYrcOtL_d7Zys-51KZosLtWtlsOX4mo/s1600/thn.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\"\nCrickets.\nThe room goes quiet because an honest answer requires context – which is something that patch counts and CVSS scores were never designed to provide. Exposure",
-          "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-          "publishedOn": "2026-04-29T11:30:00.000Z",
-          "wordCount": null,
-          "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher9s_mKSWufl-S-lAJfV_7PalFTxuPLyiublEI1g0S4mOPLkr21X8SDIXB8fo-hbUXOf07J8lXp7esCsDNp3d5lJ33kZam2mnpQWQ5jG1S56U5WyfuB12Igvk2bFrUHxlDu7z4NVom_3yHR21GMcQHCoF6MEg8oXdkm4iJcygaRtcBwoTh0Sd7umE0cph/s1600/xmcyber.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher9s_mKSWufl-S-lAJfV_7PalFTxuPLyiublEI1g0S4mOPLkr21X8SDIXB8fo-hbUXOf07J8lXp7esCsDNp3d5lJ33kZam2mnpQWQ5jG1S56U5WyfuB12Igvk2bFrUHxlDu7z4NVom_3yHR21GMcQHCoF6MEg8oXdkm4iJcygaRtcBwoTh0Sd7umE0cph/s1600/xmcyber.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert published by WebPros on Tuesday. It does not have an official identifier. The issue has been addressed in",
-          "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-          "publishedOn": "2026-04-29T09:37:00.000Z",
-          "wordCount": null,
-          "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ54sVYryCG3V_ZjHJwzuKBteLhpf8FnX131rudu9bvgYGDupWYtJHLYxGPjVON072t-CWz4hyQmxQmwIW6ZZzTXsiJhcfRHPBj1ag1H0PeFGB4KkZIAsyhR0bT_DQqCj2uf_a5Yza7VbeBd3xRIvf4VUZ8UBRM2iEY10bk3me9zotLNcLExjSMaoY3y4l/s1600/cpanel.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ54sVYryCG3V_ZjHJwzuKBteLhpf8FnX131rudu9bvgYGDupWYtJHLYxGPjVON072t-CWz4hyQmxQmwIW6ZZzTXsiJhcfRHPBj1ag1H0PeFGB4KkZIAsyhR0bT_DQqCj2uf_a5Yza7VbeBd3xRIvf4VUZ8UBRM2iEY10bk3me9zotLNcLExjSMaoY3y4l/s1600/cpanel.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in  ConnectWise ScreenConnect",
-          "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-          "publishedOn": "2026-04-29T08:46:00.000Z",
-          "wordCount": null,
-          "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1600/windows-logo.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1600/windows-logo.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge.\nThe vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying",
-          "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-          "publishedOn": "2026-04-29T05:34:00.000Z",
-          "wordCount": null,
-          "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg"
         }
       ]
     },
@@ -20532,6 +20548,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=392692",
+          "author": "John Law",
+          "description": "Dyson officially announced the Spot+Scrube Ai, the brand’s first robot vacuum cleaner. As part of its debut, the new robot vacuum is engineered to work on both wet and dry floors. “The Dyson Spot+Scrub Ai uses a three-step cleaning approach for consistent and precise cleaning, inspired by how humans spot-clean. It detects invisible stains and […]\nThe post Dyson Launches Spot+Scrub Ai Robot Vacuum appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392692/dyson-launches-spotscrub-ai-robot-vacuum/",
+          "publishedOn": "2026-05-14T09:56:58.000Z",
+          "wordCount": 15409,
+          "title": "Dyson Launches Spot+Scrub Ai Robot Vacuum",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Dyson-SpotScrub-Ai-Lifestyle-shot-1-scaled.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392685",
+          "author": "Nurul Kamil",
+          "description": "Monee Capital Malaysia Sdn Bhd, otherwise known as Monee, has announced SFinancing-i, a digital financing service. Touted as a Shariah-compliant option, the service is available for eligible Shopee users in Malaysia. According to the company, SFinancing-i is meant to offer greater financial flexibility. As such, those who meet the requirements can access the service directly […]\nThe post Shopee Users Can Now Access Shariah-Compliant Digital Financing With SFinancing-i appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392685/shopee-sfinancing-i/",
+          "publishedOn": "2026-05-14T09:44:39.000Z",
+          "wordCount": 15226,
+          "title": "Shopee Users Can Now Access Shariah-Compliant Digital Financing With SFinancing-i",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/shopee-sfinancing-i-03.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392660",
+          "author": "Kiran Ganesan",
+          "description": "If you’ve been using Instagram for some time now, then you might have noticed a small tab of photos at the bottom-right corner of your inbox. If you accidentally tap it and see a random set of images from people you follow, congratulations; you’ve just tried out the app’s newest feature, Instants. For the uninitiated, […]\nThe post Instagram Launches Instants, A New Spontaneous, Vanishing Photo Feature appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392660/instagram-launches-instants-spontaneous-vanishing-photo-feature/",
+          "publishedOn": "2026-05-14T09:17:25.000Z",
+          "wordCount": 16302,
+          "title": "Instagram Launches Instants, A New Spontaneous, Vanishing Photo Feature",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Instagram-Launches-Instants-3.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392661",
+          "author": "Heirul Kamel",
+          "description": "Alongside the recently launched Predator Helios Neo 16 and Predator Orion 5000, Acer Malaysia has also expanded its display lineup during the ongoing Predator Kasi Onz roadshow today.  Now available for the local market is the Predator XB273U X2 gaming monitor and the Nitro PG241Y P1 portable gaming display. Predator XB273U X2 The Predator XB273U […]\nThe post Acer Malaysia Launches Predator XB273U X2, Nitro PG241Y P1 Gaming Displays appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392661/acer-malaysia-predator-xb273u-x2-nitro-pg241y-p1/",
+          "publishedOn": "2026-05-14T08:42:28.000Z",
+          "wordCount": 15544,
+          "title": "Acer Malaysia Launches Predator XB273U X2, Nitro PG241Y P1 Gaming Displays",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/acer-predator-helios-neo-16-orion-5000-launch-malaysia_06.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392640",
+          "author": "Nurul Kamil",
+          "description": "Panasonic has announced the Lumix L10, its newest premium fixed lens camera. Designed to offer intuitive control for distraction-free shooting, it features a flat and compact build weighing roughly 508g. It also sports a metal exterior with a magnesium alloy case. This gets paired with a textured finish reminiscent of saffiano leather. Appearances aside, the […]\nThe post Panasonic Unveils Lumix L10 Premium Fixed Lens Camera appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392640/panasonic-unveils-lumix-l10-premium-fixed-lens-camera/",
+          "publishedOn": "2026-05-14T08:20:38.000Z",
+          "wordCount": 15546,
+          "title": "Panasonic Unveils Lumix L10 Premium Fixed Lens Camera",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/panasonic-lumix-l10-01.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392639",
+          "author": "John Law",
+          "description": "IO Interactive’s launch of 007 First Light is just around the corner. In conjunction with its imminent arrival and for a limited time, NVIDIA is partnering with the studio and bundling the game with the purchase of select GeForce RTX 50 Series GPUs. To be precise, the 007 First Light and NVIDIA campaign applies to […]\nThe post NVIDIA Bundles 007 First Light With Every Purchase Of GeForce RTX 50 Series GPUs appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392639/nvidia-bundles-007-first-light-with-every-purchase-of-geforce-rtx-50-series-gpus/",
+          "publishedOn": "2026-05-14T08:12:55.000Z",
+          "wordCount": 15538,
+          "title": "NVIDIA Bundles 007 First Light With Every Purchase Of GeForce RTX 50 Series GPUs",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/NVIDIA-007-First-Light-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392617",
+          "author": "Heirul Kamel",
+          "description": "Acer Malaysia has introduced several new gaming products during the first day of its Predator Kasi Onz Roadshow, which is currently taking place at Sunway Pyramid’s Blue Atrium until 17 May 2026. Among the highlights are the new Predator Helios Neo 16 gaming laptop and Predator Orion 5000 desktop PC, both aimed at gamers looking […]\nThe post Acer Predator Helios Neo 16, Predator Orion 5000 Launches In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392617/acer-predator-helios-neo-16-orion-5000-malaysia/",
+          "publishedOn": "2026-05-14T06:56:56.000Z",
+          "wordCount": 15794,
+          "title": "Acer Predator Helios Neo 16, Predator Orion 5000 Launches In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/acer-predator-helios-neo-16-orion-5000-launch-malaysia_02.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392592",
+          "author": "John Law",
+          "description": "Almost half a year after their reveal at CES 2026, the 2026 lineup of ASUS’ ROG Zephyrus G Series laptops has finally landed on our shores. That lineup includes the new Zephyrus G14 and G16. Zephyrus G14 Design-wise, ASUS has stated that both the G14 and G16 retain the same chassis design that is introduced […]\nThe post ASUS ROG Zephyrus G14 And G16 2026 Lineup Now Available In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392592/asus-rog-zephyrus-g14-and-g16-2026-lineup-now-available-in-malaysia/",
+          "publishedOn": "2026-05-14T06:35:10.000Z",
+          "wordCount": 16062,
+          "title": "ASUS ROG Zephyrus G14 And G16 2026 Lineup Now Available In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/ASUS-ROG-Zephyrus-G14-G16-1-scaled.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392535",
+          "author": "Ian Chee",
+          "description": "Nothing launched the Headphone (a) for the local market early last month. As is the brand’s way of doing things, the (a) denotes a more budget friendly version of the primary version of the product. Of course, with a price tag of RM699, it doesn’t quite fall into the category of budget headphones. Technically neither […]\nThe post Nothing Headphone (a) Lightning Review: Budget Construction, Solid Performance  appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392535/nothing-headphone-a-lightning-review/",
+          "publishedOn": "2026-05-14T05:31:18.000Z",
+          "wordCount": 16789,
+          "title": "Nothing Headphone (a) Lightning Review: Budget Construction, Solid Performance",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Nothing-Headphone-a.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392577",
+          "author": "Kiran Ganesan",
+          "description": "As previously reported, Sony has officially launched the Sony Alpha 7R VI in Malaysia. The new model continues the company’s long-running Alpha R series of mirrorless cameras, which is aimed at professionals looking for a versatile shooter for both studio and on-location work. The company also took the opportunity to unveil a new XLR adaptor […]\nThe post Sony Officially Launches Alpha 7R VI Mirrorless Camera In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392577/sony-officially-launches-alpha-7r-vi-mirrorless-camera-in-malaysia/",
+          "publishedOn": "2026-05-14T04:59:45.000Z",
+          "wordCount": 16694,
+          "title": "Sony Officially Launches Alpha 7R VI Mirrorless Camera In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Sony-Officially-launches-Alpha-7R-VI-Mirrorless-Camera-In-Malaysia-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=392508",
           "author": "John Law",
@@ -21546,96 +21662,6 @@
           "wordCount": 15176,
           "title": "Corsair Unveils ThermalProtect Cables To Prevent GPU Connectors Melting",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Corsair-Thermal-Protect-cable.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391369",
-          "author": "Nurul Kamil",
-          "description": "Google Translate officially launched on 28 April 2006. This means that as of this month, the translation service is twenty years old. In conjunction with this milestone, the company has announced a new feature to help learners nail the correct pronunciation. In a blog post commemorating the translation tool’s 20th anniversary, Google revealed that it […]\nThe post Google Translate App Gets AI-Powered Pronunciation Practice Tool appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391369/google-translate-app-pronunciation-practice/",
-          "publishedOn": "2026-04-29T09:32:03.000Z",
-          "wordCount": 15217,
-          "title": "Google Translate App Gets AI-Powered Pronunciation Practice Tool",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/google-translate-pronunciation-practice-01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391343",
-          "author": "Ian Chee",
-          "description": "Things look to be heating up in the war against (or indeed for) piracy. And it’s not surprising that Denuvo is involved in this latest development. The DRM company is reportedly working with 2K Games to implement a 14-day online check-in for certain games. This decision follows claims from those in the pirating scene that […]\nThe post Denuvo, 2K Games Add 14-Day Online Check-Ins To Counter Piracy appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391343/denuvo-2k-games-14-day-online-check-ins-counter-piracy/",
-          "publishedOn": "2026-04-29T09:25:13.000Z",
-          "wordCount": 15752,
-          "title": "Denuvo, 2K Games Add 14-Day Online Check-Ins To Counter Piracy",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2016/08/denuvo-logo.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391360",
-          "author": "Heirul Kamel",
-          "description": "GALAX, one of the more recognisable names in the GPU market, has ceased to exist as an independent entity, following a restructuring that saw its entire global team dismissed. In an official statement shared by several media outlets, Taiwan-based Palit Microsystems confirmed that it has assumed full control of the brand, taking over all operations, […]\nThe post GALAX Brand Fully Taken Over By Palit Microsystems appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391360/galax-brand-fully-taken-over-by-palit-microsystems/",
-          "publishedOn": "2026-04-29T07:59:59.000Z",
-          "wordCount": 15277,
-          "title": "GALAX Brand Fully Taken Over By Palit Microsystems",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/galax-gpu-palit-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391355",
-          "author": "Kiran Ganesan",
-          "description": "Despite the ongoing memory supply constraints, NVIDIA has quietly introduced a higher VRAM configuration of its GeForce RTX 5070 Laptop GPU. The new variant comes with 12GB of VRAM and will sit alongside the existing 8GB model, giving OEMs more flexibility in laptop configurations. While NVIDIA has yet to reveal official pricing, NotebookCheck suggests that […]\nThe post NVIDIA Quietly Introduces RTX 5070 Laptop GPU 12GB Variant appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391355/nvidia-quietly-introduces-rtx-5070-laptop-gpu-12gb-variant/",
-          "publishedOn": "2026-04-29T07:04:55.000Z",
-          "wordCount": 15232,
-          "title": "NVIDIA Quietly Introduces RTX 5070 Laptop GPU 12GB Variant",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/NVIDIA-file.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391344",
-          "author": "Nurul Kamil",
-          "description": "Volatile global fuel prices could adversely affect electricity generation costs, in turn influencing tariffs for consumers. Despite this, the government assured that it will minimise the impact of the electricity cost changes on the public and business sector. Speaking during the Global Supply Crisis briefing, Economy Minister Akmal Nasrullah Mohd Nasir explained that measures are […]\nThe post Economy Minister: Govt Mitigating Impact Of Electricity Cost Changes On Consumers appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391344/economy-minister-govt-mitigating-impact-of-electricity-cost-changes-on-consumers/",
-          "publishedOn": "2026-04-29T05:39:45.000Z",
-          "wordCount": 15222,
-          "title": "Economy Minister: Govt Mitigating Impact Of Electricity Cost Changes On Consumers",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/economy-minister-akmal-nasrullah-mohd-nasir-01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391326",
-          "author": "Ian Chee",
-          "description": "You’ve probably seen over the weekend signs of a worrying development for people who buy digital games on PlayStation. But in case you missed it, some gamers have reported seeing a new 30-day online check-in requirement for some of these digital games. This is reminiscent of some fringe situations that can arise with free games […]\nThe post PlayStation Adds 30-Day Online Check-In DRM For Digital Games Bought After March appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391326/playstation-30-day-online-check-in-drm-digital-games-after-march/",
-          "publishedOn": "2026-04-29T04:48:07.000Z",
-          "wordCount": 15498,
-          "title": "PlayStation Adds 30-Day Online Check-In DRM For Digital Games Bought After March",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/PlayStation-Logo-1226-x-817.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391332",
-          "author": "Heirul Kamel",
-          "description": "Valve has confirmed that a successor to its handheld gaming device is still in development, although details remain scarce for now. During a recent interview with IGN, Valve software engineer Pierre-Loup Griffais said the company is “hard at work” on what many expect to be the Steam Deck 2. The confirmation comes amid growing competition […]\nThe post Valve Confirms Steam Deck 2 Development Is Ongoing appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391332/valve-confirms-steam-deck-2-development-is-ongoing/",
-          "publishedOn": "2026-04-29T04:24:01.000Z",
-          "wordCount": 15777,
-          "title": "Valve Confirms Steam Deck 2 Development Is Ongoing",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/08/Steam-Deck-2023-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391330",
-          "author": "Kiran Ganesan",
-          "description": "Apple has been steadily pushing its AI ambitions, including a more capable Siri, but we have yet to see the full extent of what its Apple Intelligence platform can actually deliver. That said, a new report now suggests the company could be bringing more AI-powered features to the Photos app in iOS 27. According to […]\nThe post Apple Reportedly Overhauling Photo Editor For iOS 27 With AI appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391330/apple-reportedly-overhauling-photo-editor-for-ios-27-with-ai/",
-          "publishedOn": "2026-04-29T04:13:56.000Z",
-          "wordCount": 15416,
-          "title": "Apple Reportedly Overhauling Photo Editor For iOS 27 With AI",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/07/Apple-Photos-app-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391310",
-          "author": "Nurul Kamil",
-          "description": "DJI has been steadily releasing new products over the past few weeks. This time, the company has announced the Mic Mini 2 for the local market, just as it had promised earlier this month. The compact wireless mic already made its debut in China, so some of these details may already be familiar for those […]\nThe post DJI Mic Mini 2 Arrives In Malaysia With Colourful Magnetic Covers appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391310/dji-mic-mini-2-malaysia/",
-          "publishedOn": "2026-04-29T03:06:40.000Z",
-          "wordCount": 15385,
-          "title": "DJI Mic Mini 2 Arrives In Malaysia With Colourful Magnetic Covers",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/dji-mic-mini-2-01.webp"
         }
       ]
     },
@@ -21644,6 +21670,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
+          "author": "Arielle Waldman",
+          "description": "Security governance needs to be more than an annual compliance exercise. New companies are emerging to address risk-management gaps in current audit tools.",
+          "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
+          "publishedOn": "2026-05-13T21:17:07.000Z",
+          "wordCount": null,
+          "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
+          "author": "Alexander Culafi",
+          "description": "Threat actors are publishing RubyGems packages that include scrapers targeting public-facing UK government servers, but with no clear objective.",
+          "link": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
+          "publishedOn": "2026-05-13T21:09:20.000Z",
+          "wordCount": null,
+          "title": "Attackers Weaponize RubyGems for Data Dead Drops",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak",
+          "author": "Nate Nelson",
+          "description": "An OPSEC failure provides a window into what helped the ransomware group rise: a generous affiliate model, opportunistic TTPs, and an effective organizational structure.",
+          "link": "https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak",
+          "publishedOn": "2026-05-13T20:47:46.000Z",
+          "wordCount": null,
+          "title": "Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
+          "author": null,
+          "description": "Informa TechTarget's flagship cybersecurity media brand launches a special content series to mark two decades as a trusted source for cybersecurity professionals.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
+          "publishedOn": "2026-05-13T18:52:50.000Z",
+          "wordCount": null,
+          "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
+          "author": "Robert Lemos",
+          "description": "The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
+          "publishedOn": "2026-05-13T13:00:00.000Z",
+          "wordCount": null,
+          "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+          "author": "Alexander Culafi",
+          "description": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
+          "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+          "publishedOn": "2026-05-13T13:00:00.000Z",
+          "wordCount": null,
+          "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
           "author": "Jai Vijayan",
@@ -22022,46 +22108,6 @@
           "publishedOn": "2026-04-30T00:00:00.000Z",
           "wordCount": null,
           "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
-          "author": "Alexander Culafi",
-          "description": "Wiz used an AI reverse-engineering tool to pinpoint a vulnerability that previously would have been too costly and time-consuming to undertake.",
-          "link": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
-          "publishedOn": "2026-04-29T20:08:17.000Z",
-          "wordCount": null,
-          "title": "Reverse Engineering With AI Unearths High-Severity GitHub Bug",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr",
-          "author": "Jai Vijayan",
-          "description": "Flaws in OpenEMR's platform — used by more than 100,000 healthcare providers — enabled database compromise, remote code execution, and data theft.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr",
-          "publishedOn": "2026-04-29T19:32:42.000Z",
-          "wordCount": null,
-          "title": "AI Finds 38 Security Flaws in Electronic Health Record Platform",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error",
-          "author": "Elizabeth Montalbano",
-          "description": "The emerging ransomware has been deployed against victims of the TeamPCP supply chain attacks, but organizations should think twice before paying for a decryptor.",
-          "link": "https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error",
-          "publishedOn": "2026-04-29T15:23:53.000Z",
-          "wordCount": null,
-          "title": "Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities",
-          "author": "Robert Lemos",
-          "description": "An analysis of the destructive malware reveals sophisticated living-off-the-land (LotL) techniques and detailed strategies for the widespread deletion of data.",
-          "link": "https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities",
-          "publishedOn": "2026-04-29T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities",
           "imageUrl": null
         }
       ]
