@@ -19294,6 +19294,102 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is",
+          "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+          "publishedOn": "2026-05-18T11:23:41.000Z",
+          "wordCount": null,
+          "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nTopping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks.\n\"External control of a file name",
+          "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+          "publishedOn": "2026-05-18T10:54:05.000Z",
+          "wordCount": null,
+          "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.\nCodenamed MiniPlasma, the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver,",
+          "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+          "publishedOn": "2026-05-18T08:57:34.000Z",
+          "wordCount": null,
+          "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.\nThe list of identified packages is below -\n\nchalk-tempalte (825 Downloads)\n@deadcode09284814/axios-util (284 Downloads)\naxois-utils (963 Downloads)\ncolor-style-utils (934 Downloads)\n\n\"One of the packages (chalk-tempalte)",
+          "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+          "publishedOn": "2026-05-18T08:57:26.000Z",
+          "wordCount": null,
+          "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations.\nAccording to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design.\n\"Fast16's hook engine is selectively interested in",
+          "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+          "publishedOn": "2026-05-18T06:46:37.000Z",
+          "wordCount": null,
+          "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
+          "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+          "publishedOn": "2026-05-17T11:57:53.000Z",
+          "wordCount": null,
+          "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.\n\n\n  \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana\n  said\n  in a series of",
@@ -20540,22 +20636,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an",
-          "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-          "publishedOn": "2026-05-03T06:26:00.000Z",
-          "wordCount": null,
-          "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1600/linux-root.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1600/linux-root.jpg"
         }
       ]
     },
@@ -20564,6 +20644,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=392996",
+          "author": "John Law",
+          "description": "Last week, Samsung officially unveiled its 2026 AI TV lineup for the Malaysian market. That lineup includes a laundry list of different models, ranging from its latest Micro RGB models, right down to the UHD panels. Of course, Samsung’s main focus was the Micro RGB panels that it uses on its flagship models, as evidenced by […]\nThe post Photo Essay: Samsung Gives First Look Of 2026 TV Lineup appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392996/photo-essay-samsung-gives-first-look-of-2026-tv-lineup/",
+          "publishedOn": "2026-05-18T10:39:54.000Z",
+          "wordCount": 15494,
+          "title": "Photo Essay: Samsung Gives First Look Of 2026 TV Lineup",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Samsung-AI-TV-2026-Launch-1-scaled.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392992",
+          "author": "Heirul Kamel",
+          "description": "Xiaomi has officially confirmed that its upcoming 17T series smartphones will make their global debut on 28 May. The announcement was shared through the company’s social media channels, with Xiaomi calling the lineup “the biggest T Series upgrade yet.” Based on teasers and recent leaks, the series is expected to consist of two models: the […]\nThe post Xiaomi 17T Series Launching Globally On 28 May 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392992/xiaomi-17t-series-launching-globally-on-28-may-2026/",
+          "publishedOn": "2026-05-18T10:37:47.000Z",
+          "wordCount": 15352,
+          "title": "Xiaomi 17T Series Launching Globally On 28 May 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/xiaomi-17t-series-Pro-launch-teaser-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392983",
+          "author": "Nurul Kamil",
+          "description": "Last year, the realme P3 Ultra became the first member of the brand’s P series to arrive in Malaysia. Now, the company has announced that it is bringing more models in the lineup to our shores. The realme P4 series will be launching locally with three models, namely the P4x, the P4 Lite, and the […]\nThe post realme P4 Series To Launch In Malaysia With High-Capacity Batteries appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392983/realme-p4-series-launch-malaysia/",
+          "publishedOn": "2026-05-18T09:10:35.000Z",
+          "wordCount": 15489,
+          "title": "realme P4 Series To Launch In Malaysia With High-Capacity Batteries",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/realme-p4-series-01.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392974",
+          "author": "John Law",
+          "description": "Prime Minister Anwar Ibrahim says that his government will mull over increasing the BUDI95 quota for delivery riders. If approved, they would be given an additional 50 litres, bringing their total quota up to 250 litres. “I will bring it up for discussion at Tuesday’s meeting of the national economic action council,” the PM said […]\nThe post Government Considers Raising BUDI95 Quota For Delivery Riders appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392974/government-considers-raising-budi95-quota-for-delivery-riders/",
+          "publishedOn": "2026-05-18T09:00:13.000Z",
+          "wordCount": 15301,
+          "title": "Government Considers Raising BUDI95 Quota For Delivery Riders",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/BUDI95-BHP-1-scaled.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392955",
+          "author": "Ian Chee",
+          "description": "South Korean tech giant Samsung first revealed the Music Studio 5 and 7 speakers ahead of this year’s CES. You could see this as something adjacent to the Music Frame, which pulls double duty as both an audio product as well as a piece of interior decor. Both are now available for the local market, […]\nThe post Samsung Music Studio 5, 7 Speakers Now Available In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392955/samsung-music-studio-5-7-available-malaysia/",
+          "publishedOn": "2026-05-18T06:37:14.000Z",
+          "wordCount": 15336,
+          "title": "Samsung Music Studio 5, 7 Speakers Now Available In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Samsung-Music-Studio-7.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392956",
+          "author": "Heirul Kamel",
+          "description": "Setel has introduced a new Bill Payment feature for its app, allowing users to settle essential household bills directly within the platform. According to the company, this addition expands its services beyond fuel payments, while offering a more centralised way for Malaysians to manage recurring monthly commitments. Available starting today, the feature supports payments for […]\nThe post Setel Introduces New In-App Bill Payment Feature appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392956/setel-introduces-new-in-app-bill-payment-feature/",
+          "publishedOn": "2026-05-18T05:26:24.000Z",
+          "wordCount": 15176,
+          "title": "Setel Introduces New In-App Bill Payment Feature",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/setel-app-new-bill-payment-feature_04.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392952",
+          "author": "Ian Chee",
+          "description": "Messaging platform WhatsApp has introduced two forms of ephemeral messages over the years. One is View Once messages, which locks messages from being read beyond the initial instance, with the other being Disappearing Messages, which cleans out chat histories after a set amount of time. It looks like the platform is now testing a version […]\nThe post WhatsApp Tests Adding “After Reading” Timers To Disappearing Messages appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392952/whatsapp-tests-after-reading-timers/",
+          "publishedOn": "2026-05-18T04:00:46.000Z",
+          "wordCount": 15244,
+          "title": "WhatsApp Tests Adding “After Reading” Timers To Disappearing Messages",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/WhatsApp-iPad-mini-App-Store.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392944",
+          "author": "Nurul Kamil",
+          "description": "Last week, Google hosted the latest edition of The Android Show, which saw the reveal of Gemini Intelligence. Essentially, it is a suite of advanced AI-driven features for premium Android devices. These features allow Gemini to automate multi-step tasks in the background on the user’s behalf, among other things. That said, not everyone will be […]\nThe post Google Gemini Intelligence Will Be Limited To Select Flagship Android Devices appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392944/google-gemini-intelligence-flagship-android-devices/",
+          "publishedOn": "2026-05-18T03:00:28.000Z",
+          "wordCount": 15421,
+          "title": "Google Gemini Intelligence Will Be Limited To Select Flagship Android Devices",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Google-Gemini-Intelligence-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392933",
+          "author": "Ian Chee",
+          "description": "Microsoft has introduced various changes to the Start menu, mostly for the better, but not always. Another one is coming for Windows 11, which can probably be safely put into the former category. It’s the ability to let you choose your preferred Start menu size. Well, it doesn’t look like you don’t get granular adjustments […]\nThe post Microsoft Tests Letting Users Resize Windows 11 Start Menu appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392933/microsoft-tests-resize-windows-11-start-menu/",
+          "publishedOn": "2026-05-18T02:00:06.000Z",
+          "wordCount": 15287,
+          "title": "Microsoft Tests Letting Users Resize Windows 11 Start Menu",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/08/NEW-Windows-FileSharing-Update-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=392942",
+          "author": "Heirul Kamel",
+          "description": "Apple is reportedly preparing to make privacy a major selling point for its long-awaited AI overhaul of Siri, which is expected to be unveiled during the company’s upcoming Worldwide Developers Conference (WWDC 2026) in June. According to Bloomberg’s Mark Gurman, the company plans to position the revamped assistant as a more privacy-conscious alternative to competing […]\nThe post Apple’s Siri AI Chatbot Revamp Reportedly Includes Auto-Deleting Chat Histories appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/392942/apple-siri-chatbot-revamp-auto-deleting-chat-histories/",
+          "publishedOn": "2026-05-18T01:38:57.000Z",
+          "wordCount": 15376,
+          "title": "Apple’s Siri AI Chatbot Revamp Reportedly Includes Auto-Deleting Chat Histories",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/apple-siri-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=392924",
           "author": "John Law",
@@ -21688,36 +21868,6 @@
           "wordCount": 15283,
           "title": "Apple Mac mini With 256GB Of Storage Discontinued Amid Supply Constraints",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/apple-mac-mini-01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391523",
-          "author": "Heirul Kamel",
-          "description": "Google has reportedly introduced its more affordable YouTube Premium Lite subscription in Malaysia. According to X user @harkatpilu, the new plan has started appearing for some local users, suggesting that the rollout is already underway, albeit in a limited capacity. Based on screenshots shared online, YouTube Premium Lite is priced at RM12.90 per month, matching […]\nThe post YouTube Premium Lite Reportedly Rolling Out In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391523/youtube-premium-lite-reportedly-rolling-out-in-malaysia/",
-          "publishedOn": "2026-05-03T06:33:05.000Z",
-          "wordCount": 15409,
-          "title": "YouTube Premium Lite Reportedly Rolling Out In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/YouTube-Premium-Ad-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391512",
-          "author": "Ian Chee",
-          "description": "It’s been awhile since the now HP-owned HyperX brand launched new peripherals. But recently, it looks like the gaming subbrand has launched a few in two product categories. The first is a game controller called the Clutch Talon, and the other are the Cloud Stinger 3 headsets. The latter comes in both wired and wireless […]\nThe post HyperX Launches Clutch Talon Controller, Cloud Stinger 3 Headset appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391512/hyperx-clutch-talon-controller-cloud-stinger-3-headset/",
-          "publishedOn": "2026-05-03T06:02:52.000Z",
-          "wordCount": 15455,
-          "title": "HyperX Launches Clutch Talon Controller, Cloud Stinger 3 Headset",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/HyperX-Clutch-Talon-Cloud-Stinger-3.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=391500",
-          "author": "Nurul Kamil",
-          "description": "Xiaomi sub-brand REDMI is planning to release a new smartwatch for the global market. The Watch 6 has emerged on the company’s official website, roughly six months after its debut in China. Of course, as the name suggests, the wearable will serve as the successor to the Watch 5, which launched on our shores last […]\nThe post REDMI Watch 6 To Launch Globally With 12-Day Battery Life appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/391500/redmi-watch-6-to-launch-globally-with-12-day-battery-life/",
-          "publishedOn": "2026-05-03T04:22:23.000Z",
-          "wordCount": 15303,
-          "title": "REDMI Watch 6 To Launch Globally With 12-Day Battery Life",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/redmi-watch-6-01.webp"
         }
       ]
     },
@@ -21726,6 +21876,26 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
+          "author": "Shlomie Liberow",
+          "description": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
+          "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
+          "publishedOn": "2026-05-18T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Boring Stuff is Dangerous Now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
+          "author": "Alexander Culafi",
+          "description": "South Korea's local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
+          "publishedOn": "2026-05-18T01:00:00.000Z",
+          "wordCount": null,
+          "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
           "author": "Kelly Jackson Higgins, Becky Bracken",
