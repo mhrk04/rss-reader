@@ -19294,6 +19294,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.\n\nCalled staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
+          "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+          "publishedOn": "2026-05-23T16:35:10.000Z",
+          "wordCount": null,
+          "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.\n\n\"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
+          "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+          "publishedOn": "2026-05-23T16:07:51.000Z",
+          "wordCount": null,
+          "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.\n\n Project Glasswing  is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
+          "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+          "publishedOn": "2026-05-23T11:55:35.000Z",
+          "wordCount": null,
+          "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1600/claude-mythos-flaws.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1600/claude-mythos-flaws.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.\n\nThe affected packages include -\n\n\n  laravel-lang/lang\n  laravel-lang/http-statuses\n  laravel-lang/attributes\n  laravel-lang/actions\n\n\"The timing and pattern of the newly published tags",
+          "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+          "publishedOn": "2026-05-23T09:51:13.000Z",
+          "wordCount": null,
+          "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkqwlAgmL-HrE2pSx8xqfY4-AyYZ59wK4x5AWtnCXSHRoBO1wcYTpWw42Fe6VRoAT77e914MSqZW56fKX95IueHTCrk10XNn2Yxh7CU8iCdX5lzFowGeVkolW-4E3po81w9pFMsaLR_r85abtUv3bwvQMa6pP1BAiSj4DrmapTiYr1twfV61tvGdWJRgs8/s1600/lang-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkqwlAgmL-HrE2pSx8xqfY4-AyYZ59wK4x5AWtnCXSHRoBO1wcYTpWw42Fe6VRoAT77e914MSqZW56fKX95IueHTCrk10XNn2Yxh7CU8iCdX5lzFowGeVkolW-4E3po81w9pFMsaLR_r85abtUv3bwvQMa6pP1BAiSj4DrmapTiYr1twfV61tvGdWJRgs8/s1600/lang-hack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild.\n\nThe flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions.\n\n\"Any cPanel user (including an attacker or a compromised account) may",
@@ -20588,22 +20652,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the \"feature::LOADFEATUREFILE\" adminbin call that could result",
-          "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-          "publishedOn": "2026-05-09T07:16:00.000Z",
-          "wordCount": null,
-          "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg"
         }
       ]
     },
@@ -20612,6 +20660,56 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=393675",
+          "author": "Ian Chee",
+          "description": "The Steam Controller launched earlier in the month in select international markets. And beyond its unavailability elsewhere – including locally, at least in an official capacity – it was a pretty controversy-free controller. Until recently anyway, as a user reported that the wireless puck that it comes with nearly caused a fire. For context, the […]\nThe post Steam Controller Wireless Puck Nearly Causes Fire appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/393675/steam-controller-wireless-puck-nearly-causes-fire/",
+          "publishedOn": "2026-05-24T09:47:14.000Z",
+          "wordCount": 15517,
+          "title": "Steam Controller Wireless Puck Nearly Causes Fire",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/valve-steam-controller-hidden-video-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=393671",
+          "author": "John Law",
+          "description": "The Alliance for Open Media, or AOMedia for short, appears to be inching closer to the final 1.0.0 release of the AV2 codec. At least, that’s what the group would have us believe with the latest repository update. The more important point is that the finalised version of AV2 has seemingly received a release date, […]\nThe post AV2 Codec Could Receive Final Specification By End Of This Month appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/393671/av2-codec-could-receive-final-specification-by-end-of-this-month/",
+          "publishedOn": "2026-05-24T06:59:04.000Z",
+          "wordCount": 15551,
+          "title": "AV2 Codec Could Receive Final Specification By End Of This Month",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/AV2-codec-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=393667",
+          "author": "Heirul Kamel",
+          "description": "MYTV has announced that its MYTV Mana-Mana streaming platform will undergo a transition starting 1 June 2026, resulting in the suspension of its paid subscription offerings for the time being. The announcement was made via the company’s official Facebook page, although it did not provide specific details regarding the changes being planned. According to the […]\nThe post MYTV Mana-Mana To Undergo Transition; Paid Subscriptions Suspended From June 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/393667/mytv-mana-mana-to-undergo-transition-june-2026/",
+          "publishedOn": "2026-05-24T05:01:48.000Z",
+          "wordCount": 15503,
+          "title": "MYTV Mana-Mana To Undergo Transition; Paid Subscriptions Suspended From June 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/mytv-mana-mana-app-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=393661",
+          "author": "Nurul Kamil",
+          "description": "As the government continues to modernise its systems, the Department of Islamic Development Malaysia (JAKIM) has announced that it is leveraging artificial intelligence (AI) in the halal certification process. The aim of this move is to speed up approvals. According to JAKIM director-general Datuk Dr Sirajuddin Suhaimee, the tech will arrive with the new MyeHALAL […]\nThe post JAKIM To Implement AI In MyeHALAL 2.0 For Faster Halal Certifications appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/393661/jakim-ai-myehalal/",
+          "publishedOn": "2026-05-24T04:47:53.000Z",
+          "wordCount": 15451,
+          "title": "JAKIM To Implement AI In MyeHALAL 2.0 For Faster Halal Certifications",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/jakim-ai-myehalal-01.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=393632",
+          "author": "Ian Chee",
+          "description": "The Apple AirPods Max 2 is still a relatively new product that the bitten fruit brand has launched. So it’s a bit surprising to find out that the company may have another pair of headphones coming out of the pipeline soon. Or at least, that’s what a recent entry discovered within the US Federal Communications […]\nThe post New, Unannounced Apple Headphones Appear In US FCC Database appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/393632/new-unannounced-apple-headphones-appear-us-fcc/",
+          "publishedOn": "2026-05-23T11:13:32.000Z",
+          "wordCount": 15533,
+          "title": "New, Unannounced Apple Headphones Appear In US FCC Database",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/apple-headphones-A3577-US-FCC.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=393620",
           "author": "John Law",
@@ -21781,36 +21879,6 @@
           "wordCount": 15258,
           "title": "DJI Confirms Global Launch For Osmo Pocket 4P",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/dji-osmo-pocket-4p-01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392225",
-          "author": "Ian Chee",
-          "description": "MSI Malaysia has opened pre-orders for two of its gaming laptop series – the Raider and Crosshair. More specifically, these are the Raider 16 Max HX and the Crosshair 16 Max HX. There are two configurations in terms of internal specs for the former, and only one for the latter. Going in order, the two […]\nThe post MSI Opens Pre-Orders For New Raider, Crosshair Gaming Laptops appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392225/msi-pre-orders-new-raider-crosshair-gaming-laptops/",
-          "publishedOn": "2026-05-09T10:03:05.000Z",
-          "wordCount": 15444,
-          "title": "MSI Opens Pre-Orders For New Raider, Crosshair Gaming Laptops",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/MSI-Raider-Crosshair-16-HX-pre-order.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392228",
-          "author": "Heirul Kamel",
-          "description": "Qualcomm has officially announced its latest mobile chipsets, the Snapdragon 6 Gen 5 and Snapdragon 4 Gen 5. Designed for upper midrange and entry-level smartphones respectively, both platforms focus on delivering faster performance, smoother gaming experiences, and improved battery efficiency at lower price points. According to the company, both chipsets also introduce Snapdragon Smooth Motion […]\nThe post Qualcomm Unveils Snapdragon 6 Gen 5 And 4 Gen 5 For Midrange And Entry-Level Phones appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392228/qualcomm-unveils-snapdragon-6-gen-5-and-4-gen-5/",
-          "publishedOn": "2026-05-09T07:26:48.000Z",
-          "wordCount": 15868,
-          "title": "Qualcomm Unveils Snapdragon 6 Gen 5 And 4 Gen 5 For Midrange And Entry-Level Phones",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/qualcomm-snapdraghon-6-4-gen-5-unveiled-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392180",
-          "author": "Nurul Kamil",
-          "description": "Earlier this week, Huawei hosted a global launch event, during which it unveiled the MatePad Pro Max. Of course, the tablet is not the only device to debut on that day, as the brand also announced the nova 15 Max. As the name suggests, it is the newest addition to the nova range of smartphones. […]\nThe post Huawei nova 15 Max Launched Globally With 8,500mAh Battery appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392180/huawei-nova-15-max-global/",
-          "publishedOn": "2026-05-09T01:00:25.000Z",
-          "wordCount": 15295,
-          "title": "Huawei nova 15 Max Launched Globally With 8,500mAh Battery",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/huawei-nova-15-max-01.webp"
         }
       ]
     },
