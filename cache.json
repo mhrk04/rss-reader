@@ -19294,6 +19294,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections.\n\n\"Authentication bypass vulnerabilities in the",
+          "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+          "publishedOn": "2026-05-30T06:41:26.000Z",
+          "wordCount": null,
+          "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks.\n\nThe technique has been codenamed ChatGPhish by Permiso Security.\n\n\"The chatgpt.com response renderer trusts Markdown links and Markdown",
+          "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+          "publishedOn": "2026-05-29T18:07:12.000Z",
+          "wordCount": null,
+          "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1600/chatgpt-phishing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1600/chatgpt-phishing.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability.\n\n\"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised",
+          "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+          "publishedOn": "2026-05-29T14:39:56.000Z",
+          "wordCount": null,
+          "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, with the activities aligning with Kremlin state interests, specifically when it comes to",
+          "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+          "publishedOn": "2026-05-29T11:31:59.000Z",
+          "wordCount": null,
+          "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop.\n\nThe artifact moved from a prompt to a product. The risk surface moved with it.\n\nIn The Shadow Builders report (get it here), a",
@@ -20492,102 +20556,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS8AhChFEeH6IwT4x1eB5VAeGfriF4VVcwINAxXVIGyap3g0CKx0R2BdI4s99cE3Q5JHr-KUVHqdhAFNfQIrCTJ6p-vq7u5naMTwb-WFjgis4vBdR29M94wAT-Dqh46zsbo4heSJOVdFRxXzR3SgHt2ZoTPPBEbB3cu4azACiFFl7jcIGNxw1d_U7eVU9/s1600/funnel.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS8AhChFEeH6IwT4x1eB5VAeGfriF4VVcwINAxXVIGyap3g0CKx0R2BdI4s99cE3Q5JHr-KUVHqdhAFNfQIrCTJ6p-vq7u5naMTwb-WFjgis4vBdR29M94wAT-Dqh46zsbo4heSJOVdFRxXzR3SgHt2ZoTPPBEbB3cu4azACiFFl7jcIGNxw1d_U7eVU9/s1600/funnel.png"
-        },
-        {
-          "id": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Russian state-sponsored hacking group known as\n  \n    Turla\n  \n  has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts.\n\n\n\n  Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
-          "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-          "publishedOn": "2026-05-15T17:10:25.000Z",
-          "wordCount": null,
-          "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8BT1AOScncZQM_A-0WBdCzTDAHGHSey48_Mywhij-TJupCdzP3s3o-MIImRtMZcoV2OqX3RjRV4COpVqkB1mrH3d_zjwvSTwCEXOq_2m80HgDo-xwAZ1KpR1h8eN9dAHGcKN_PpcE0cBsnv67FcthDycHLBJMYs8NkPszWNiQqdbhyL0YIlwVJn4NtgaR/s1600/code.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8BT1AOScncZQM_A-0WBdCzTDAHGHSey48_Mywhij-TJupCdzP3s3o-MIImRtMZcoV2OqX3RjRV4COpVqkB1mrH3d_zjwvSTwCEXOq_2m80HgDo-xwAZ1KpR1h8eN9dAHGcKN_PpcE0cBsnv67FcthDycHLBJMYs8NkPszWNiQqdbhyL0YIlwVJn4NtgaR/s1600/code.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence.\n\n\n  The vulnerabilities, collectively dubbed\n  \n    Claw Chain\n  \n  by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
-          "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-          "publishedOn": "2026-05-15T13:35:04.000Z",
-          "wordCount": null,
-          "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_tK9S8jS_n5CK694-FLGjQP5_Mmpg7z9ZRiBayWsJLsuFRIm-8j1hTlhH90779FvnvhpiFKeGP9CzI5RCPsxQEnOzAIQsPzUsAJhUWtNm9iwf9C1W9DbDmqoQ_jjHhM7huYDV210OB9o1L9NPoJ0IL6R9Xc-V4JQ91Kn-b47_2ravRJ6-qlZOVrqsuAz/s1600/openclaw.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_tK9S8jS_n5CK694-FLGjQP5_Mmpg7z9ZRiBayWsJLsuFRIm-8j1hTlhH90779FvnvhpiFKeGP9CzI5RCPsxQEnOzAIQsPzUsAJhUWtNm9iwf9C1W9DbDmqoQ_jjHhM7huYDV210OB9o1L9NPoJ0IL6R9Xc-V4JQ91Kn-b47_2ravRJ6-qlZOVrqsuAz/s1600/openclaw.png"
-        },
-        {
-          "id": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
-          "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-          "publishedOn": "2026-05-15T11:00:00.000Z",
-          "wordCount": null,
-          "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner.\n\"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
-          "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-          "publishedOn": "2026-05-15T10:54:44.000Z",
-          "wordCount": null,
-          "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue.\n\"",
-          "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-          "publishedOn": "2026-05-15T06:19:04.000Z",
-          "wordCount": null,
-          "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png"
-        },
-        {
-          "id": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026.\nThe vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
-          "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-          "publishedOn": "2026-05-15T05:28:03.000Z",
-          "wordCount": null,
-          "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1600/cisa-exploit.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1600/cisa-exploit.png"
         }
       ]
     },
@@ -20596,6 +20564,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=394291",
+          "author": "John Law",
+          "description": "It’s more or less an open secret that NVIDIA will be announcing its ARM-based N1 processor to the world at Computex 2026. At this point, the brand’s not even bothered to hide and is now giving full-on teasers via social media, and through the accounts of its partner brands, to boot. Basically, NVIDIA posted a […]\nThe post NVIDIA Teases Launch Of N1 Laptops Ahead Of Computex 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/394291/nvidia-teases-launch-of-n1-laptops-ahead-of-computex-2026/",
+          "publishedOn": "2026-05-30T10:03:09.000Z",
+          "wordCount": 15627,
+          "title": "NVIDIA Teases Launch Of N1 Laptops Ahead Of Computex 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/NVIDIA-GeForce-RTX-5060-Launch-Computex-2025-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=394259",
+          "author": "Ian Chee",
+          "description": "Former and current OPPO subsidiary realme previously announced that it will be launching its P4 series of phones in the local market. At the time, the company has not shared a specific date as to when it will be launching the battery capacity-focused line. Things have since changed, with teasers on its official Facebook page […]\nThe post realme To Launch P4 Series On 3 June appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/394259/realme-to-launch-p4-series-3-june/",
+          "publishedOn": "2026-05-30T07:00:36.000Z",
+          "wordCount": 15594,
+          "title": "realme To Launch P4 Series On 3 June",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/29.5-KV_1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=394281",
+          "author": "Nurul Kamil",
+          "description": "The COROS Pace 4 is the latest model in the brand’s running-focused Pace lineup. Since its launch in Malaysia last year, the smartwatch has received some visual updates in the form of a Black Crystal variant. Now, the company has announced another version of the wearable for the local market. If the name doesn’t already […]\nThe post COROS Pace 4 Jakob Ingebrigtsen Edition Arrives In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/394281/coros-pace-4-jakob-ingebrigtsen-edition/",
+          "publishedOn": "2026-05-30T04:42:35.000Z",
+          "wordCount": 15520,
+          "title": "COROS Pace 4 Jakob Ingebrigtsen Edition Arrives In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/coros-pace-4-jakob-ingebrigtsen-edition-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=394277",
+          "author": "Heirul Kamel",
+          "description": "The National Registration Department (or also commonly known as “JPN”) has advised Malaysians not to rush to replace their existing MyKad, stressing that current identity cards remain valid for all official transactions, including the redemption of government subsidies and assistance programmes. In a statement issued yesterday, the department said the rollout of the new-generation MyKad […]\nThe post JPN: No Need To Rush For New MyKad Replacement appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/394277/jpn-no-need-to-rush-for-new-mykad-replacement/",
+          "publishedOn": "2026-05-30T03:31:25.000Z",
+          "wordCount": 15758,
+          "title": "JPN: No Need To Rush For New MyKad Replacement",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/JPN-counter-bernama-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=394261",
           "author": "Heirul Kamel",
@@ -21650,136 +21658,6 @@
           "wordCount": 15352,
           "title": "Xiaomi To Launch Clip-On Earbuds In China With 11mm Drivers, Hi-Res Audio",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/xiaomi-clip-on-earbuds-01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392843",
-          "author": "Kiran Ganesan",
-          "description": "Ongoing geopolitical conflicts, shipping disruptions, and rising costs continue to put pressure on global supply chains, with many Malaysians still feeling the effects through higher prices and supply uncertainty. To improve visibility into the situation, the Malaysian government has launched a new dashboard that tracks the global supply crisis and its impact on the country. […]\nThe post Govt Launches Global Supply Crisis Monitoring Dashboard Today appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392843/govt-launches-global-supply-crisis-monitoring-dashboard-today/",
-          "publishedOn": "2026-05-15T12:53:46.000Z",
-          "wordCount": 15355,
-          "title": "Govt Launches Global Supply Crisis Monitoring Dashboard Today",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Global-Supply-Crisis-Monitoring-Dashboard-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392859",
-          "author": "Heirul Kamel",
-          "description": "Chinese electric vehicle maker BYD has reaffirmed its commitment to the Malaysian market despite growing uncertainty surrounding the future of fully imported EVs following the government’s stricter new regulations. According to the New Straits Times, the company says it intends to continue investing in the country while working closely with authorities and local partners to […]\nThe post BYD Says It Remains Committed To Malaysia Despite New EV Import Rules appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392859/byd-committed-to-malaysia-despite-new-ev-import-rules/",
-          "publishedOn": "2026-05-15T12:48:38.000Z",
-          "wordCount": 15678,
-          "title": "BYD Says It Remains Committed To Malaysia Despite New EV Import Rules",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/BYD-Kuching-counter-hi-res-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392842",
-          "author": "Newsdesk",
-          "description": "Counterintuitively, these days a flagship device rarely means what it says on the in anymore. Instead, it more commonly refers to a range of products. As a result, some devices are more flagship than others. But that doesn’t mean that the runt of that particular litter is anything less than impressive. An example of both […]\nThe post vivo X300 FE & X300 Ultra: From Mobile Photography Essentials To The Ultimate Experience appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392842/vivo-x300-fe-x300-ultra-from-mobile-photography-essentials-to-ultimate-experience/",
-          "publishedOn": "2026-05-15T12:11:00.000Z",
-          "wordCount": 17108,
-          "title": "vivo X300 FE & X300 Ultra: From Mobile Photography Essentials To The Ultimate Experience",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/vivo-X300-Ultra-cameras-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392811",
-          "author": "John Law",
-          "description": "AMD has announced that it is officially bringing support for FSR4.1 to RDNA3 GPUs this year and more specifically, by July. Simply put, owners of AMD’s Radeon RX 7000 Series cards will soon be able to utilise the red CPU and GPU brand’s upscaling technology. “This July, RDNA 3 players will experience FSR Upscaling 4.1, […]\nThe post AMD Announces FSR4.1 Coming To RDNA3 GPUs This July appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392811/amd-announces-fsr4-1-coming-to-rdna3-gpus-this-july/",
-          "publishedOn": "2026-05-15T10:07:21.000Z",
-          "wordCount": 15486,
-          "title": "AMD Announces FSR4.1 Coming To RDNA3 GPUs This July",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/AMD-Radeon-RX-9060-XT-Launch-Computex-2025-Redstone-1.jpg"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392816",
-          "author": "Ian Chee",
-          "description": "ASUS has just announced that it is opening for pre-order the XREAL R1 AR glasses globally. First shown off as part of its CES lineup, the brand says that the glasses have “undergone months of meticulous optimisation to deliver a refined, system-level experience built around ROG’s immersive gaming ecosystem”. In case you missed it, the […]\nThe post ASUS Announces Global Pre-Order For XREAL R1 AR Glasses appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392816/asus-global-pre-order-xreal-r1-ar-glasses/",
-          "publishedOn": "2026-05-15T10:05:12.000Z",
-          "wordCount": 15293,
-          "title": "ASUS Announces Global Pre-Order For XREAL R1 AR Glasses",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/ASUS-ROG-XREAL-R1-AR-glasses.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392821",
-          "author": "Nurul Kamil",
-          "description": "The Malaysian Road Transport Department (JPJ) may be updating its strategy for detecting traffic offences. Apparently, the agency could rely on Automated Number Plate Recognition (ANPR) for enforcement, rather than deploying roadblocks. According to a report by paultan.org, JPJ has launched a new initiative, called the Automated Number Plate Recognition Integrated Enforcement Project (ANPR P-B). […]\nThe post JPJ May Adopt ANPR-Based System For Detecting Traffic Offences appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392821/jpj-anpr-system-traffic-offences/",
-          "publishedOn": "2026-05-15T09:55:43.000Z",
-          "wordCount": 15228,
-          "title": "JPJ May Adopt ANPR-Based System For Detecting Traffic Offences",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/jpj-anpr-integrated-enforcement-project-01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392817",
-          "author": "Kiran Ganesan",
-          "description": "It is not easy to earn recognition from a global tech giant, but Mohammad Hasif Afiq has proven it is not impossible. Today, the senior iOS engineer at Grab shared that he is the first Malaysian to be listed under Apple’s Developer Recognition program. He is among around 50 developers and community leaders worldwide selected […]\nThe post Mohammad Hasif Afiq Is The First Malaysian On Apple’s Developer Recognition Program appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392817/mohammad-hasif-afiq-apple-developer-recognition/",
-          "publishedOn": "2026-05-15T09:43:29.000Z",
-          "wordCount": 15619,
-          "title": "Mohammad Hasif Afiq Is The First Malaysian On Apple’s Developer Recognition Program",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Mohammad-Hasif-Afiq-Apples-Developer-Recognition-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392773",
-          "author": "Ian Chee",
-          "description": "Dyson has introduced a new product into its range of bladeless fans, called the Find+Follow Purifier Cool. It doesn’t look all that different to the other fans in the catalogue, save for one element. This one has a camera, and as the name suggests, it’s used to find you, and make sure fresh air follows […]\nThe post Dyson Has An Air Purifier With A Camera To Track You As It Blows Out Fresh Air appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392773/dyson-air-purifier-with-camera/",
-          "publishedOn": "2026-05-15T08:27:27.000Z",
-          "wordCount": 15339,
-          "title": "Dyson Has An Air Purifier With A Camera To Track You As It Blows Out Fresh Air",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Dyson-FindFollow-Purifier-Cool.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392801",
-          "author": "John Law",
-          "description": "The new Razer Blade 18 has been unveiled, nearly two months after the announcement of the refreshed Blade 16. In keeping with the theme, the laptop is designed with beefy specs and premium components, serving as the modern desktop replacement. Unlike the new Blade 16, this Blade 18 doesn’t run on Arrow Lake. Rather, it […]\nThe post Razer Unveils Refreshed Blade 18 With Intel Core Ultra 9 290HX Plus appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392801/razer-unveils-refreshed-blade-18-with-intel-core-ultra-9-290hx-plus/",
-          "publishedOn": "2026-05-15T08:08:59.000Z",
-          "wordCount": 15406,
-          "title": "Razer Unveils Refreshed Blade 18 With Intel Core Ultra 9 290HX Plus",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Razer-Blade-18-2026-4.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392792",
-          "author": "Nurul Kamil",
-          "description": "Toyota is expanding its range of electric vehicles with a companion to its newest Land Cruiser models. Described as an “electric personal mobility vehicle”, the Land Hopper is technically not a bike, since it sports three wheels. According to the car maker, this dual front-wheel configuration provides stable travel from low to high speeds on […]\nThe post Toyota Unveils Land Hopper Electric Vehicle With Foldable Design appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392792/toyota-land-hopper/",
-          "publishedOn": "2026-05-15T07:45:26.000Z",
-          "wordCount": 15301,
-          "title": "Toyota Unveils Land Hopper Electric Vehicle With Foldable Design",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/toyota-land-hopper-01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392783",
-          "author": "Heirul Kamel",
-          "description": "Digital Minister Gobind Singh Deo says Malaysia’s growing data centre industry needs to do more to address public concerns surrounding energy usage, water consumption, and noise pollution as the country pushes towards wider AI adoption. Speaking during the launch of NEXTDC’s KL1 Kuala Lumpur data centre in Petaling Jaya yesterday, Gobind acknowledged that questions surrounding […]\nThe post Gobind Urges Data Centre Industry To Address Noise, Sustainability Concerns From The Public appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392783/gobind-data-centre-industry-address-public-concerns/",
-          "publishedOn": "2026-05-15T04:50:53.000Z",
-          "wordCount": 15946,
-          "title": "Gobind Urges Data Centre Industry To Address Noise, Sustainability Concerns From The Public",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Gobind-Data-Centre-Industry-address-public-concerns-nextdc-3.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392770",
-          "author": "John Law",
-          "description": "Dell has announced its latest Alienware 15 gaming laptop. As the brand states, the laptop is the latest addition to the sub-brand’s 2026 lineup. Working from the outside-in, the Alienware 15 features a newly engineered chassis, and built to be more durable than its predecessors. The body is now made from a Nova Black polycarbonate […]\nThe post Dell Launches New Alienware 15 In AMD And Intel Flavours appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392770/dell-launches-new-alienware-15-in-amd-and-intel-flavours/",
-          "publishedOn": "2026-05-15T04:30:32.000Z",
-          "wordCount": 15636,
-          "title": "Dell Launches New Alienware 15 In AMD And Intel Flavours",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Alienware-15-3.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=392764",
-          "author": "Ian Chee",
-          "description": "It’s always a bummer when a driver update drops, and you find out you may be better off not updating it. This looks like it could be the case with the relatively new AMD Adrenalin 26.5.1 graphics driver, which was released last week. Some users have reported that the driver update is breaking the Zero […]\nThe post New AMD Graphics Driver May Break Zero RPM Feature appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/392764/amd-graphics-driver-break-zero-rpm/",
-          "publishedOn": "2026-05-15T04:17:21.000Z",
-          "wordCount": 15361,
-          "title": "New AMD Graphics Driver May Break Zero RPM Feature",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/03/AMD-Radeon-RX-7900-XT-testbench-1.jpg"
         }
       ]
     },
@@ -21788,6 +21666,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
+          "author": "John Klossner",
+          "description": "As part of Dark Reading's 20th anniversary package, we asked readers for a cybersecurity-related caption that captures their thoughts about the industry's last two decades.",
+          "link": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
+          "publishedOn": "2026-05-29T20:22:04.000Z",
+          "wordCount": null,
+          "title": "Name That Toon: Mark of (Cybersecurity) Progress",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
+          "author": "Alexander Culafi",
+          "description": "The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
+          "publishedOn": "2026-05-29T14:35:33.000Z",
+          "wordCount": null,
+          "title": "Asia's Cyber Insurance Market Shows Signs of Life",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises",
+          "author": "Robert Lemos",
+          "description": "Researchers discover an exploit chain combining over-permissioned roles, secrets discovery, and non-human identities that could have compromised a popular automation service.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises",
+          "publishedOn": "2026-05-29T13:00:01.000Z",
+          "wordCount": null,
+          "title": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation",
+          "author": "Nate Nelson",
+          "description": "Your organization's security failures have consequences for everyone else too, since this neo-Nazi-infested criminal gang uses its cyber winnings to support more violent and widespread crimes.",
+          "link": "https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation",
+          "publishedOn": "2026-05-29T12:00:00.000Z",
+          "wordCount": null,
+          "title": "'The Com' Cyberattacks Support Violence &amp; Sexploitation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
+          "author": "Nate Nelson",
+          "description": "The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.",
+          "link": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
+          "publishedOn": "2026-05-28T23:05:23.000Z",
+          "wordCount": null,
+          "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host",
           "author": "Jai Vijayan",
@@ -22226,26 +22154,6 @@
           "publishedOn": "2026-05-18T01:00:00.000Z",
           "wordCount": null,
           "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
-          "author": "Kelly Jackson Higgins, Becky Bracken",
-          "description": "Robert \"RSnake\" Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
-          "publishedOn": "2026-05-15T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Cyber Pioneers Ponder Past as Prologue",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
-          "author": "Robert Lemos",
-          "description": "A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.",
-          "link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
-          "publishedOn": "2026-05-15T01:00:00.000Z",
-          "wordCount": null,
-          "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
           "imageUrl": null
         }
       ]
