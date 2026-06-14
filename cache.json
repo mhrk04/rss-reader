@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.\n\nThe vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system.\n\n\"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary",
+          "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+          "publishedOn": "2026-06-13T13:23:03.000Z",
+          "wordCount": null,
+          "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns.\n\nThe AI company said it received an order at 5:21 p.m. ET, instructing it to suspend",
@@ -20796,22 +20812,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU44Ejz__EFKfpIrEypTxhK3KW7XV3oiEIJEWAC-_PyhbhUvOZzmv3SCAmiuGZdFNdzYIDR2GLwOAhX9nIaAoOD4iFXucpEpB4Ym2vMAqvayyi1JkYyqj2uEYAXPGbXe5dzYNw5a__5KnXvrnJsEVtwnJJs6v_zBlfl3sKo0J83QwylgCL1A2Vck1HktJ8/s1600/botnet.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU44Ejz__EFKfpIrEypTxhK3KW7XV3oiEIJEWAC-_PyhbhUvOZzmv3SCAmiuGZdFNdzYIDR2GLwOAhX9nIaAoOD4iFXucpEpB4Ym2vMAqvayyi1JkYyqj2uEYAXPGbXe5dzYNw5a__5KnXvrnJsEVtwnJJs6v_zBlfl3sKo0J83QwylgCL1A2Vck1HktJ8/s1600/botnet.png"
-        },
-        {
-          "id": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections.\n\n\"Authentication bypass vulnerabilities in the",
-          "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-          "publishedOn": "2026-05-30T06:41:26.000Z",
-          "wordCount": null,
-          "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg"
         }
       ]
     },
@@ -20820,6 +20820,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=395826",
+          "author": "Ian Chee",
+          "description": "It’s probably safe to say that Microsoft is not exactly happy with its Xbox division and its performance. Last year, when the company laid off about 9,000 staffers, people from the Xbox division were not spared. And now, it looks like the Windows maker is considering more drastic measures, including spinning Xbox off into a […]\nThe post Microsoft Considers Spinning Off Xbox Into A Separate Company appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/395826/microsoft-considers-spin-off-xbox-separate-company/",
+          "publishedOn": "2026-06-14T09:30:17.000Z",
+          "wordCount": 15494,
+          "title": "Microsoft Considers Spinning Off Xbox Into A Separate Company",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Microsoft-Unveils-Limited-Edition-Xbox-Series-X25-Console-4.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=395820",
+          "author": "Heirul Kamel",
+          "description": "Less than a year after entering the Malaysian market, iCAUR has announced that it has surpassed 3,000 vehicle deliveries nationwide. Alongside the milestone, the EV brand is introducing enhanced warranty coverage for all 2026-registered vehicles. Under the updated package, iCAUR is extending warranty protection for the power battery, drive unit, and high-voltage components to 10 […]\nThe post iCAUR Malaysia Extends Component Warranty To 10 Years/200,000km appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/395820/icaur-malaysia-extends-component-warranty/",
+          "publishedOn": "2026-06-14T07:17:56.000Z",
+          "wordCount": 15400,
+          "title": "iCAUR Malaysia Extends Component Warranty To 10 Years/200,000km",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/icaur-malaysia-extends-ev-component-warranty-3.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=395817",
+          "author": "Nurul Kamil",
+          "description": "Earlier this week, Insta360 officially launched the Luna Ultra, marking its entry into the handheld gimbal camera segment. On the same day, DJI filed two patent infringement lawsuits against the company in the US. Essentially, the drone maker is alleging that Insta360 copied the design and underlying technologies of its Osmo Pocket series. Now, Insta360 […]\nThe post Insta360 Hits Back At DJI With Two Countersuits Over Five Patents appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/395817/insta360-dji-countersuits/",
+          "publishedOn": "2026-06-14T06:08:10.000Z",
+          "wordCount": 15598,
+          "title": "Insta360 Hits Back At DJI With Two Countersuits Over Five Patents",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/insta360-luna-series-head-tracking-feature-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=395811",
+          "author": "Ian Chee",
+          "description": "Thanks to the memory shortage crisis, anything that uses them has seen their prices steadily go up since the shortage began. This naturally includes phones, and brands have been considering raising prices of their wares, if they have not already done it. Carl Pei, the guy behind the Nothing brand of phones, says that prices […]\nThe post Carl Pei: Phone Prices Will Continue To Rise appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/395811/carl-pei-phone-prices-continue-rise/",
+          "publishedOn": "2026-06-13T11:27:26.000Z",
+          "wordCount": 15494,
+          "title": "Carl Pei: Phone Prices Will Continue To Rise",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/nothing-phone-4a-series-malaysia-11.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=395805",
           "author": "Heirul Kamel",
@@ -21879,46 +21919,6 @@
           "wordCount": 16011,
           "title": "Acer Adds Predator Helios 18 AI, Nitro 16 To Its Gaming Laptop Lineup",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Acer-Predator-Helios-18-AI.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394291",
-          "author": "John Law",
-          "description": "It’s more or less an open secret that NVIDIA will be announcing its ARM-based N1 processor to the world at Computex 2026. At this point, the brand’s not even bothered to hide and is now giving full-on teasers via social media, and through the accounts of its partner brands, to boot. Basically, NVIDIA posted a […]\nThe post NVIDIA Teases Launch Of N1 Laptops Ahead Of Computex 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394291/nvidia-teases-launch-of-n1-laptops-ahead-of-computex-2026/",
-          "publishedOn": "2026-05-30T10:03:09.000Z",
-          "wordCount": 15627,
-          "title": "NVIDIA Teases Launch Of N1 Laptops Ahead Of Computex 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/NVIDIA-GeForce-RTX-5060-Launch-Computex-2025-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394259",
-          "author": "Ian Chee",
-          "description": "Former and current OPPO subsidiary realme previously announced that it will be launching its P4 series of phones in the local market. At the time, the company has not shared a specific date as to when it will be launching the battery capacity-focused line. Things have since changed, with teasers on its official Facebook page […]\nThe post realme To Launch P4 Series On 3 June appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394259/realme-to-launch-p4-series-3-june/",
-          "publishedOn": "2026-05-30T07:00:36.000Z",
-          "wordCount": 15594,
-          "title": "realme To Launch P4 Series On 3 June",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/29.5-KV_1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394281",
-          "author": "Nurul Kamil",
-          "description": "The COROS Pace 4 is the latest model in the brand’s running-focused Pace lineup. Since its launch in Malaysia last year, the smartwatch has received some visual updates in the form of a Black Crystal variant. Now, the company has announced another version of the wearable for the local market. If the name doesn’t already […]\nThe post COROS Pace 4 Jakob Ingebrigtsen Edition Arrives In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394281/coros-pace-4-jakob-ingebrigtsen-edition/",
-          "publishedOn": "2026-05-30T04:42:35.000Z",
-          "wordCount": 15520,
-          "title": "COROS Pace 4 Jakob Ingebrigtsen Edition Arrives In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/coros-pace-4-jakob-ingebrigtsen-edition-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394277",
-          "author": "Heirul Kamel",
-          "description": "The National Registration Department (or also commonly known as “JPN”) has advised Malaysians not to rush to replace their existing MyKad, stressing that current identity cards remain valid for all official transactions, including the redemption of government subsidies and assistance programmes. In a statement issued yesterday, the department said the rollout of the new-generation MyKad […]\nThe post JPN: No Need To Rush For New MyKad Replacement appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394277/jpn-no-need-to-rush-for-new-mykad-replacement/",
-          "publishedOn": "2026-05-30T03:31:25.000Z",
-          "wordCount": 15758,
-          "title": "JPN: No Need To Rush For New MyKad Replacement",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/JPN-counter-bernama-1.webp"
         }
       ]
     },
