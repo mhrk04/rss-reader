@@ -2,10 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-06-19T12:14:27.984Z</updated>
+    <updated>2026-06-20T10:37:27.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys]]></title>
+        <id>https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html</id>
+        <link href="https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html"/>
+        <updated>2026-06-20T09:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites.
+
+The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve: High Steam Controller Demand Means Shipments Could Extend Into 2027]]></title>
+        <id>https://www.lowyat.net/?p=396323</id>
+        <link href="https://www.lowyat.net/2026/396323/valve-high-steam-controller-demand-shipments-extend-into-2027/"/>
+        <updated>2026-06-20T09:26:51.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Controller looks to be a pretty great controller. If it weren’t for its restriction of only being usable with Steam out of the box, it would be only a mild exaggeration to say that it’s perfect. Perhaps because of that, and Valve not being a company known for producing much that’s physical, means […]
+The post Valve: High Steam Controller Demand Means Shipments Could Extend Into 2027 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scammers Create Fake NVIDIA RTX 4090 With Plastic Die And Scrap Memory]]></title>
+        <id>https://www.lowyat.net/?p=396314</id>
+        <link href="https://www.lowyat.net/2026/396314/scammers-create-fake-nvidia-rtx-4090-with-plastic-die-and-scrap-memory/"/>
+        <updated>2026-06-20T08:29:31.000Z</updated>
+        <summary type="html"><![CDATA[In today’s report of hardware scammers and fake GPUs, we head back to China, where technician Brother Zhang received a broken RTX 4090. The problem, though, is that the level of fakery didn’t just end at the GPU die being an entirely different model, it wasn’t even real. Brother Zhang shows in his Bilibili video […]
+The post Scammers Create Fake NVIDIA RTX 4090 With Plastic Die And Scrap Memory appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rapid KL RM150 Monthly Travel Pass Now Available Via TNG eWallet]]></title>
+        <id>https://www.lowyat.net/?p=396309</id>
+        <link href="https://www.lowyat.net/2026/396309/rapid-kl-rm150-monthly-travel-pass-now-available-via-tng-ewallet/"/>
+        <updated>2026-06-20T06:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Rapid KL has announced that its RM150 Rapid Monthly travel pass is now available digitally through the Touch ‘n Go (TNG) eWallet app. The move allows users to purchase and activate the unlimited public transport pass without visiting station counters. As advertised on the tin, the Rapid Monthly pass provides unlimited travel for 30 consecutive […]
+The post Rapid KL RM150 Monthly Travel Pass Now Available Via TNG eWallet appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMF Phone 3 Pro Cancelled Amid Rising Memory Costs]]></title>
+        <id>https://www.lowyat.net/?p=396304</id>
+        <link href="https://www.lowyat.net/2026/396304/cmf-phone-3-pro-cancelled/"/>
+        <updated>2026-06-20T06:23:53.000Z</updated>
+        <summary type="html"><![CDATA[The CMF Phone 2 Pro launched in April last year, so naturally, one should expect to hear about its successor by now. While rumours of such a device emerged a few months back, there was no official word on its existence. Now, Nothing co-founder Akis Evangelidis has revealed that there will be no CMF Phone […]
+The post CMF Phone 3 Pro Cancelled Amid Rising Memory Costs appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain]]></title>
+        <id>https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html</id>
+        <link href="https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html"/>
+        <updated>2026-06-19T18:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.
+
+That code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use.
+
+This is not a remote attack. It requires]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes]]></title>
+        <id>https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html</id>
+        <link href="https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html"/>
+        <updated>2026-06-19T18:33:07.000Z</updated>
+        <summary type="html"><![CDATA[The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor.
+
+This mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller.
+
+"They also incorporate third-party or]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution]]></title>
+        <id>https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html</id>
+        <link href="https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html"/>
+        <updated>2026-06-19T15:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.
+
+Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host.
+
+No credentials, no sign-in screen, and no further user interaction once]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites]]></title>
+        <id>https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html</id>
+        <link href="https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html"/>
+        <updated>2026-06-19T15:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Dutch law enforcement authorities, along with counterparts from  Canada  , Germany, and the U.S., have disrupted malicious infrastructure associated with  SocGholish  and cleaned up nearly 15,000 infected WordPress websites.
+
+"With these actions we deprive cybercriminals of access to infected computer systems," Maikel Rollman of the Netherlands National High Tech Crime Unit said.
+
+"This prevents]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices]]></title>
+        <id>https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html</id>
+        <link href="https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html"/>
+        <updated>2026-06-19T14:00:21.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices.
+
+The sweeping campaign, believed to be the work of Russian-speaking threat actors, has been codenamed FortiBleed. The number of compromised devices stands at]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stressors, AI Forcing Changes to Cybersecurity Teams]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams"/>
+        <updated>2026-06-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis.]]></summary>
+        <author>
+            <name>Robert Lemos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Assistive to Agentic: The AI Shift That's Redefining Threat Management]]></title>
+        <id>https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html</id>
+        <link href="https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html"/>
+        <updated>2026-06-19T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Have TCGs Become Too Valuable Of A Hobby?]]></title>
         <id>https://www.lowyat.net/?p=396284</id>
@@ -2702,257 +2848,6 @@ The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of
 The post vivo X Fold6 May Feature 6,900mAh Battery, Dimensity 9500 Chip appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposed Fuel Tank Gauges Under Attack in the US]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us"/>
-        <updated>2026-06-05T19:04:36.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are taking advantage of Internet-exposed tank gauges by breaching gas stations, opening the door to disruption.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks]]></title>
-        <id>https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html</id>
-        <link href="https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html"/>
-        <updated>2026-06-05T18:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively.
-
-According to JFrog, the information stealer "scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo Essay: Innodisk At Computex 2026]]></title>
-        <id>https://www.lowyat.net/?p=394924</id>
-        <link href="https://www.lowyat.net/2026/394924/photo-essay-innodisk-at-computex-2026/"/>
-        <updated>2026-06-05T17:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Innodisk is another mainstay at Computex. At Computex 2026, the company basically showed off more of the usual fare in enterprise and surveillance technology. This year, the company is working with all three major companies across the board. Basically, that includes Intel, Qualcomm, and NVIDIA. With Intel, Innodisk has systems that are powered by the […]
-The post Photo Essay: Innodisk At Computex 2026 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps]]></title>
-        <id>https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html</id>
-        <link href="https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html"/>
-        <updated>2026-06-05T14:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.
-
-The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news source:
-
-
-  govlens[.]net, which]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adaptive, Agentic AI Worms Loom as Next Enterprise Threat]]></title>
-        <id>https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat</id>
-        <link href="https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat"/>
-        <updated>2026-06-05T14:40:11.000Z</updated>
-        <summary type="html"><![CDATA[AI worms, or "viruses with wings and brains," adapt to new environments, seek out vulnerabilities, and will likely strike within a year, researchers say.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump AI Order Seeks Voluntary Frontier Model Testing]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing"/>
-        <updated>2026-06-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The White House's executive order establishes voluntary framework for early government access to frontier models while investing in federal security.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perodua Doubles Down On QV-E Battery Leasing, Says It “Protects” EV Owners]]></title>
-        <id>https://www.lowyat.net/?p=394918</id>
-        <link href="https://www.lowyat.net/2026/394918/perodua-doubles-down-on-qv-e-battery-leasing/"/>
-        <updated>2026-06-05T12:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Perodua has released a new promotional video explaining the Battery As A Service (BaaS) programme for its first electric vehicle, the QV-E. The move appears to be part of the local automaker’s continuing effort to address public concerns surrounding Malaysia’s first battery leasing model for electric vehicles. The short video largely reiterates the same talking […]
-The post Perodua Doubles Down On QV-E Battery Leasing, Says It “Protects” EV Owners appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework]]></title>
-        <id>https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html</id>
-        <link href="https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html"/>
-        <updated>2026-06-05T12:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where "OP" stands for "opponent") that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework.
-
-ReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China.
-
-"OP-512 was highly]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver]]></title>
-        <id>https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html</id>
-        <link href="https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html"/>
-        <updated>2026-06-05T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Wants A Global Pause On AI Development]]></title>
-        <id>https://www.lowyat.net/?p=394904</id>
-        <link href="https://www.lowyat.net/2026/394904/anthropic-global-pause-ai-development/"/>
-        <updated>2026-06-05T11:11:28.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, we’ve seen considerable advancements in the artificial intelligence (AI) space. From generative AI to autonomous agents, major tech companies are continuing to push for more developments. In the midst of all this, Anthropic has suggested that it’s time for the world to hit the pause button, as advanced AI may eventually outpace […]
-The post Anthropic Wants A Global Pause On AI Development appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 BYD Atto 3 Officially Launches In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=394910</id>
-        <link href="https://www.lowyat.net/2026/394910/2026-byd-atto-3-officially-launches-in-malaysia/"/>
-        <updated>2026-06-05T11:06:57.000Z</updated>
-        <summary type="html"><![CDATA[BYD has officially launched the 2026 BYD Atto 3 for the Malaysian market, introducing a significant refresh for its popular electric vehicle. Interestingly, Malaysia is also the first market in the Asia-Pacific region to receive the updated model. The new Atto 3 is offered in two variants: Ultra and Premium. While both feature updated styling […]
-The post 2026 BYD Atto 3 Officially Launches In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare CEO: Bots Have Surpassed Human Traffic Online For the First Time]]></title>
-        <id>https://www.lowyat.net/?p=394899</id>
-        <link href="https://www.lowyat.net/2026/394899/cloudflare-ceo-bots-surpassed-human-traffic-online/"/>
-        <updated>2026-06-05T10:10:30.000Z</updated>
-        <summary type="html"><![CDATA[“Welp, that happened faster than I predicted.” Those were the words of Matthew Prince, CEO and co-founder of Cloudflare, after he shared data indicating that bots now generate more web traffic than humans. Prince accompanied the remark with a Cloudflare Radar dashboard posted on X. According to the dashboard, automated traffic now accounts for 57.3% […]
-The post Cloudflare CEO: Bots Have Surpassed Human Traffic Online For the First Time appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You May Not Want The Steam Controller Anymore Once You Find Out Its Potential Price]]></title>
-        <id>https://www.lowyat.net/?p=394890</id>
-        <link href="https://www.lowyat.net/2026/394890/steam-controller-potential-price/"/>
-        <updated>2026-06-05T09:51:02.000Z</updated>
-        <summary type="html"><![CDATA[Local videogames retailer M4G announced that it’s taking pre-orders for the Steam Controller on its official Facebook page. The post says that you have to visit one of three outlets to place said pre-order, but details are otherwise limited. Fortunately for us, one of those outlets is pretty nearby, so we dropped by to ask […]
-The post You May Not Want The Steam Controller Anymore Once You Find Out Its Potential Price appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites]]></title>
-        <id>https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html</id>
-        <link href="https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html"/>
-        <updated>2026-06-05T08:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise.
-
-The vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution bug impacting all versions of the plugin up to, and including, 1.9.12. A patch for the flaw was]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyGOV App To Stream FIFA World Cup 2026 Matches]]></title>
-        <id>https://www.lowyat.net/?p=394885</id>
-        <link href="https://www.lowyat.net/2026/394885/mygov-app-to-stream-fifa-world-cup-2026-matches/"/>
-        <updated>2026-06-05T07:30:45.000Z</updated>
-        <summary type="html"><![CDATA[The Ministry of Digital has announced that the MyGOV app will soon allow users to stream FIFA World Cup 2026 matches directly through the platform, adding an unexpected entertainment feature to what was originally conceived as a one-stop government services app. According to the ministry, Malaysians who have registered for MyDigital ID will be able […]
-The post MyGOV App To Stream FIFA World Cup 2026 Matches appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins]]></title>
-        <id>https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html</id>
-        <link href="https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html"/>
-        <updated>2026-06-05T07:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff.
-
-Recent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts.
-
-It is an obvious target. More than]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shokz Announces Two New Clip-On Earbuds; Coming To Malaysia Soon]]></title>
-        <id>https://www.lowyat.net/?p=394868</id>
-        <link href="https://www.lowyat.net/2026/394868/shokz-two-new-clip-on-earbuds-malaysia-soon/"/>
-        <updated>2026-06-05T06:02:15.000Z</updated>
-        <summary type="html"><![CDATA[Whether it’s ear-hook buds or bone conduction headphones, Shokz is no stranger to open-ear audio gear. Continuing its push in the category, the brand has officially announced two new clip-on earbuds: the flagship OpenDots 2 and the OpenDots Air. Both models will arrive in Malaysia soon. According to the company, the OpenDots 2 introduces a […]
-The post Shokz Announces Two New Clip-On Earbuds; Coming To Malaysia Soon appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Videogames Retailer Opens Pre-Orders For Steam Controller]]></title>
-        <id>https://www.lowyat.net/?p=394837</id>
-        <link href="https://www.lowyat.net/2026/394837/local-videogames-retailer-pre-orders-steam-controller/"/>
-        <updated>2026-06-05T05:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Like the Steam Deck, the Steam Controller is unlikely to be available in Malaysia in an official capacity. So if you have been holding out hope that it would still be purchasable via one of the local videogames retailers, your wish has just come true. One such retailer, M4G, has announced that it is taking […]
-The post Local Videogames Retailer Opens Pre-Orders For Steam Controller appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network]]></title>
-        <id>https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html</id>
-        <link href="https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html"/>
-        <updated>2026-06-05T05:34:19.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network.
-
-"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes," Hunt.io said in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA RTX Spark Laptops: I Held The Future Of Laptops]]></title>
-        <id>https://www.lowyat.net/?p=394846</id>
-        <link href="https://www.lowyat.net/2026/394846/nvidia-rtx-spark-laptops-i-held-the-future-of-laptops/"/>
-        <updated>2026-06-05T04:58:35.000Z</updated>
-        <summary type="html"><![CDATA[The NVIDIA RTX Spark is no longer a secret, and it’s not an exaggeration to say that the brand is very clearly taking the fight to its rivals. And that list of rivals is the full Monty – I’m talking Intel, AMD, and Qualcomm, and all in ways that are surprising. We got to spend […]
-The post NVIDIA RTX Spark Laptops: I Held The Future Of Laptops appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infinix Hot 70 Launches In Malaysia With One-Tap AI, 6,000mAh Battery]]></title>
-        <id>https://www.lowyat.net/?p=394828</id>
-        <link href="https://www.lowyat.net/2026/394828/infinix-hot-70-malaysia/"/>
-        <updated>2026-06-05T04:32:43.000Z</updated>
-        <summary type="html"><![CDATA[The Infinix Hot 70 made a considerably early debut last month. Following this initial announcement, the brand has officially brought the phone to our shores. As the latest addition to the entry-level Hot range, the handset focuses on durability, everyday AI features, as well as expressive aesthetics. Out of all the previously announced colourways, only […]
-The post Infinix Hot 70 Launches In Malaysia With One-Tap AI, 6,000mAh Battery appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer Refreshes Its Rogue Backpacks; Now In V4 Incarnation]]></title>
-        <id>https://www.lowyat.net/?p=394825</id>
-        <link href="https://www.lowyat.net/2026/394825/razer-rogue-backpacks-v4/"/>
-        <updated>2026-06-05T04:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Videogames peripheral brand Razer has a handful of more lifestyle-oriented products that are still tangentially related to gaming. One example is the Rogue series of backpacks, and the company has now announced a refresh for these, now in their V4 incarnation. And while their previous cross-brand promos had prices that could scare even the wealthiest […]
-The post Razer Refreshes Its Rogue Backpacks; Now In V4 Incarnation appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
         </author>
     </entry>
     <entry>

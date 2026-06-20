@@ -19294,6 +19294,118 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites.\n\nThe vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens",
+          "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+          "publishedOn": "2026-06-20T09:56:04.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.\n\nThat code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use.\n\nThis is not a remote attack. It requires",
+          "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+          "publishedOn": "2026-06-19T18:37:41.000Z",
+          "wordCount": null,
+          "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor.\n\nThis mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller.\n\n\"They also incorporate third-party or",
+          "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+          "publishedOn": "2026-06-19T18:33:07.000Z",
+          "wordCount": null,
+          "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1600/edr-killer.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1600/edr-killer.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.\n\nSteer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host.\n\nNo credentials, no sign-in screen, and no further user interaction once",
+          "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+          "publishedOn": "2026-06-19T15:30:47.000Z",
+          "wordCount": null,
+          "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wJOg5Y5vAn_dM0DcIB6SwV2B34iO0H-moeyuWLJ_DF1KgEEZMBGtKPDXYk0pL4wclWbnSmOB74sqReSZoGI2_SwUSzKSscUxEdvuJFx_sCIfU7UplU2k5s4UA0cOVAZT_s80PDTek6OGfrsnE8f6QxrQU58rBqPiuk_J__Yja3YNzZLzd-6s8Ji1PBhc/s1600/agent.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wJOg5Y5vAn_dM0DcIB6SwV2B34iO0H-moeyuWLJ_DF1KgEEZMBGtKPDXYk0pL4wclWbnSmOB74sqReSZoGI2_SwUSzKSscUxEdvuJFx_sCIfU7UplU2k5s4UA0cOVAZT_s80PDTek6OGfrsnE8f6QxrQU58rBqPiuk_J__Yja3YNzZLzd-6s8Ji1PBhc/s1600/agent.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Dutch law enforcement authorities, along with counterparts from  Canada  , Germany, and the U.S., have disrupted malicious infrastructure associated with  SocGholish  and cleaned up nearly 15,000 infected WordPress websites.\n\n\"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said.\n\n\"This prevents",
+          "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+          "publishedOn": "2026-06-19T15:07:54.000Z",
+          "wordCount": null,
+          "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-D7cu6ZQpoZXfPa_eYHuQijjkt6mJRjmoIS9eSnCGPPgyXNz-AChti_zkCGmlefTdBm5bvbyxXbrJVbpVJIneqvDmIMR8t7gXEyBn2JJFrZLW-hTbo_e8UHBFuh9tfki-QyVk2g5_XqbbSX52HYTNSpNzJng8lMfZiIHT3pMQBTjTeZwSqx2khJt2uAk/s1600/endgame.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-D7cu6ZQpoZXfPa_eYHuQijjkt6mJRjmoIS9eSnCGPPgyXNz-AChti_zkCGmlefTdBm5bvbyxXbrJVbpVJIneqvDmIMR8t7gXEyBn2JJFrZLW-hTbo_e8UHBFuh9tfki-QyVk2g5_XqbbSX52HYTNSpNzJng8lMfZiIHT3pMQBTjTeZwSqx2khJt2uAk/s1600/endgame.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices.\n\nThe sweeping campaign, believed to be the work of Russian-speaking threat actors, has been codenamed FortiBleed. The number of compromised devices stands at",
+          "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
+          "publishedOn": "2026-06-19T14:00:21.000Z",
+          "wordCount": null,
+          "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0NmhjowFYAIQws_hl2u1bMpkeyma6TUk8UumS90AdqbBjW_NJ5h97i1yV9uJ_GT6zT8A9jaruiGkhqvn0jb4LuaHDDbGtjZbB7tQQibuQmH4WTDeAI898xZnyDuUQOAvzPHooO7C2S2PQFPIvkmwZ8LTLO4xLUP5ygQVuZI3E0quggcAEvtOqKzx4zKdw/s1600/cisa-fortinet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0NmhjowFYAIQws_hl2u1bMpkeyma6TUk8UumS90AdqbBjW_NJ5h97i1yV9uJ_GT6zT8A9jaruiGkhqvn0jb4LuaHDDbGtjZbB7tQQibuQmH4WTDeAI898xZnyDuUQOAvzPHooO7C2S2PQFPIvkmwZ8LTLO4xLUP5ygQVuZI3E0quggcAEvtOqKzx4zKdw/s1600/cisa-fortinet.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Introduction\n\nThe average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead",
+          "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
+          "publishedOn": "2026-06-19T11:58:00.000Z",
+          "wordCount": null,
+          "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaBfyINQL8sJZiLP4VnJgWMBOmH-8zY01vQ3E7OWZM9sdPvFQzOrFgaEpJOcRqODwrKDMXjt1HiKZmYYKF4pr22BBcbVBqx31coqBTKsgsf43CPEoW430X177toxpnfpVBTogjlrBMOrsLJgpERpCliEP4h5_2gyu3h2Dy_hJwiV6AI3nbKyp5NvNVgzQ/s1600/filigran-main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaBfyINQL8sJZiLP4VnJgWMBOmH-8zY01vQ3E7OWZM9sdPvFQzOrFgaEpJOcRqODwrKDMXjt1HiKZmYYKF4pr22BBcbVBqx31coqBTKsgsf43CPEoW430X177toxpnfpVBTogjlrBMOrsLJgpERpCliEP4h5_2gyu3h2Dy_hJwiV6AI3nbKyp5NvNVgzQ/s1600/filigran-main.png"
+        },
+        {
           "id": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time.\n\nIt doesn't fit the problem anymore.\n\nShadow AI has shifted from a data leakage concern to an access control problem. The threat isn't",
@@ -20748,118 +20860,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYckKvOFV_Xz1o-nUKCcjlMQmOxdFC6FMzIjMnE4GSPPJ9kQxDLqOmK9WhofViemB5grKkMJDV_KPnQAuLci5RtV3sCOei2Fzk31qOdIk3Jeroj_6NVxoa0VX0Bw5nwwzffBp4o3hoDysRntjOxTR7akhfDV_1ZIpmcQKFMsxdvb00KYypSv7daJTqYHXb/s1600/cisco-exploit.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYckKvOFV_Xz1o-nUKCcjlMQmOxdFC6FMzIjMnE4GSPPJ9kQxDLqOmK9WhofViemB5grKkMJDV_KPnQAuLci5RtV3sCOei2Fzk31qOdIk3Jeroj_6NVxoa0VX0Bw5nwwzffBp4o3hoDysRntjOxTR7akhfDV_1ZIpmcQKFMsxdvb00KYypSv7daJTqYHXb/s1600/cisco-exploit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively.\n\nAccording to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
-          "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-          "publishedOn": "2026-06-05T18:05:30.000Z",
-          "wordCount": null,
-          "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFimSGBOnvlCj_r6fiLdzK6V8DLTIQYjROKxHgQH8QxyRVIL3NDpQe9lBISjqCSjcZNl6VPhHVFtdJ8gPe2FfNjR9kGND1GSZmgx9T_32_Aii5nf_fMLkmBxwkKrJKbmZpcAG8xyj868aHfZ9RePlwlPDfMbI4uDlOCknlGH62Ifdf-nak6qmy4u-9i7X3/s1600/npm-worm.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFimSGBOnvlCj_r6fiLdzK6V8DLTIQYjROKxHgQH8QxyRVIL3NDpQe9lBISjqCSjcZNl6VPhHVFtdJ8gPe2FfNjR9kGND1GSZmgx9T_32_Aii5nf_fMLkmBxwkKrJKbmZpcAG8xyj868aHfZ9RePlwlPDfMbI4uDlOCknlGH62Ifdf-nak6qmy4u-9i7X3/s1600/npm-worm.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.\n\nThe Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news source:\n\n\n  govlens[.]net, which",
-          "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-          "publishedOn": "2026-06-05T14:53:40.000Z",
-          "wordCount": null,
-          "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework.\n\nReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China.\n\n\"OP-512 was highly",
-          "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-          "publishedOn": "2026-06-05T12:33:38.000Z",
-          "wordCount": null,
-          "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiab_7FEmO4woH_bG4spUNJRFCFvvmpF9ggnhOlkIf7f0Ma7z4oEwL0MxFSe4CstBBQRLFsYxObArJESQWOkwOPIQgO7m17DQFE997ZPe9hBnUPWiY-rabco7Q_OE2LYgp5UuqDfSxk8jvCJvLriBKb6OQAN9ovQbqSTOGD13SWnU3P12FTLgfvMe5sTgPN/s1600/chinese.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiab_7FEmO4woH_bG4spUNJRFCFvvmpF9ggnhOlkIf7f0Ma7z4oEwL0MxFSe4CstBBQRLFsYxObArJESQWOkwOPIQgO7m17DQFE997ZPe9hBnUPWiY-rabco7Q_OE2LYgp5UuqDfSxk8jvCJvLriBKb6OQAN9ovQbqSTOGD13SWnU3P12FTLgfvMe5sTgPN/s1600/chinese.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest",
-          "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
-          "publishedOn": "2026-06-05T11:20:00.000Z",
-          "wordCount": null,
-          "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdgNCJHCuVqNf4dGZYDAmzpytkCd3NBt-TKUtEo-bSBKeuqJzzk7CGB5l-JxHyIz5mVjHRn7csD0zZNm4MipX2Kwhfx8gB_Qdk8XcMg6kuoOaiBvcZT1LGlmfRGsC2avDBRtTWb9I-hzENpGkSFRouv7YSUiKHAXZ7qmYEbTdwe9dsVQCj_RRxUnaSyE/s1600/main.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdgNCJHCuVqNf4dGZYDAmzpytkCd3NBt-TKUtEo-bSBKeuqJzzk7CGB5l-JxHyIz5mVjHRn7csD0zZNm4MipX2Kwhfx8gB_Qdk8XcMg6kuoOaiBvcZT1LGlmfRGsC2avDBRtTWb9I-hzENpGkSFRouv7YSUiKHAXZ7qmYEbTdwe9dsVQCj_RRxUnaSyE/s1600/main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise.\n\nThe vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution bug impacting all versions of the plugin up to, and including, 1.9.12. A patch for the flaw was",
-          "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-          "publishedOn": "2026-06-05T08:38:59.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKOwHRwFSrcOI7vBYVGbebtc3DwR3w7SYc9l7FUXp1yXc_N2MbNNlEXtfRjVneU4wz2YB8PqC_k54o_6ZpB2oKZKhVBlK7IC-CGU05B5GgE7qS26MBxKIWLZTC2rNhVf2vufJcwh7RK4zuH-twWCcd_eZtNm25Pmn-pQyOXcB7N_C9918yOP7C1K4KrNz/s1600/wordpress.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKOwHRwFSrcOI7vBYVGbebtc3DwR3w7SYc9l7FUXp1yXc_N2MbNNlEXtfRjVneU4wz2YB8PqC_k54o_6ZpB2oKZKhVBlK7IC-CGU05B5GgE7qS26MBxKIWLZTC2rNhVf2vufJcwh7RK4zuH-twWCcd_eZtNm25Pmn-pQyOXcB7N_C9918yOP7C1K4KrNz/s1600/wordpress.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff.\n\nRecent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts.\n\nIt is an obvious target. More than",
-          "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
-          "publishedOn": "2026-06-05T07:01:41.000Z",
-          "wordCount": null,
-          "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMkj_adwzUUFP7yWyIFVKIKKQGDjqfvPuxKoR4mrrJ_SX3EACoJ3toLV3ZkYmePeA-nKWWfVC-90aOa5yjepuVYNy2lc820-onK23EJN4JU9G9e6QR471FTzPvByhyI7-bkGntT7hLxGXyTqSi7TpLMGqhfiKTQz01jN461HvEGxYY075LsqsB_tqEprcN/s1600/fifa-2026-scams.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMkj_adwzUUFP7yWyIFVKIKKQGDjqfvPuxKoR4mrrJ_SX3EACoJ3toLV3ZkYmePeA-nKWWfVC-90aOa5yjepuVYNy2lc820-onK23EJN4JU9G9e6QR471FTzPvByhyI7-bkGntT7hLxGXyTqSi7TpLMGqhfiKTQz01jN461HvEGxYY075LsqsB_tqEprcN/s1600/fifa-2026-scams.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network.\n\n\"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
-          "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
-          "publishedOn": "2026-06-05T05:34:19.000Z",
-          "wordCount": null,
-          "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibu0mX9Tusu3siXFJzPskfA1ZYZ2OdRJTegsJFkffBc9cBBPGWguTUAI3PPAaFy-WIjziA9PIrMrZNVuFVNmbFhOSPLv6mMBPvjWnR-WQGBD2fvGFTJT358yWFFTxeFSS87aQ_fj30G2VdsGlBjy2KJiby4CS-k3X9FjjpyTGxljOo373cUaZKhdBvWZ_a/s1600/cloud-emails.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibu0mX9Tusu3siXFJzPskfA1ZYZ2OdRJTegsJFkffBc9cBBPGWguTUAI3PPAaFy-WIjziA9PIrMrZNVuFVNmbFhOSPLv6mMBPvjWnR-WQGBD2fvGFTJT358yWFFTxeFSS87aQ_fj30G2VdsGlBjy2KJiby4CS-k3X9FjjpyTGxljOo373cUaZKhdBvWZ_a/s1600/cloud-emails.jpg"
         }
       ]
     },
@@ -20868,6 +20868,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net/",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=396323",
+          "author": "Ian Chee",
+          "description": "The Steam Controller looks to be a pretty great controller. If it weren’t for its restriction of only being usable with Steam out of the box, it would be only a mild exaggeration to say that it’s perfect. Perhaps because of that, and Valve not being a company known for producing much that’s physical, means […]\nThe post Valve: High Steam Controller Demand Means Shipments Could Extend Into 2027 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/396323/valve-high-steam-controller-demand-shipments-extend-into-2027/",
+          "publishedOn": "2026-06-20T09:26:51.000Z",
+          "wordCount": 15467,
+          "title": "Valve: High Steam Controller Demand Means Shipments Could Extend Into 2027",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/valve-steam-controller-hidden-video-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=396314",
+          "author": "John Law",
+          "description": "In today’s report of hardware scammers and fake GPUs, we head back to China, where technician Brother Zhang received a broken RTX 4090. The problem, though, is that the level of fakery didn’t just end at the GPU die being an entirely different model, it wasn’t even real. Brother Zhang shows in his Bilibili video […]\nThe post Scammers Create Fake NVIDIA RTX 4090 With Plastic Die And Scrap Memory appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/396314/scammers-create-fake-nvidia-rtx-4090-with-plastic-die-and-scrap-memory/",
+          "publishedOn": "2026-06-20T08:29:31.000Z",
+          "wordCount": 15550,
+          "title": "Scammers Create Fake NVIDIA RTX 4090 With Plastic Die And Scrap Memory",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Fake-RTX-4090-Plastic-Die-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=396309",
+          "author": "Heirul Kamel",
+          "description": "Rapid KL has announced that its RM150 Rapid Monthly travel pass is now available digitally through the Touch ‘n Go (TNG) eWallet app. The move allows users to purchase and activate the unlimited public transport pass without visiting station counters. As advertised on the tin, the Rapid Monthly pass provides unlimited travel for 30 consecutive […]\nThe post Rapid KL RM150 Monthly Travel Pass Now Available Via TNG eWallet appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/396309/rapid-kl-rm150-monthly-travel-pass-now-available-via-tng-ewallet/",
+          "publishedOn": "2026-06-20T06:32:56.000Z",
+          "wordCount": 15725,
+          "title": "Rapid KL RM150 Monthly Travel Pass Now Available Via TNG eWallet",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/rapid-kl-monthly-pass-tng-ewallet_03.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=396304",
+          "author": "Nurul Kamil",
+          "description": "The CMF Phone 2 Pro launched in April last year, so naturally, one should expect to hear about its successor by now. While rumours of such a device emerged a few months back, there was no official word on its existence. Now, Nothing co-founder Akis Evangelidis has revealed that there will be no CMF Phone […]\nThe post CMF Phone 3 Pro Cancelled Amid Rising Memory Costs appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/396304/cmf-phone-3-pro-cancelled/",
+          "publishedOn": "2026-06-20T06:23:53.000Z",
+          "wordCount": 15642,
+          "title": "CMF Phone 3 Pro Cancelled Amid Rising Memory Costs",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/cmf-phone-2-pro-hands-on_07.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=396284",
           "author": "Kiran Ganesan",
@@ -21902,126 +21942,6 @@
           "wordCount": 15457,
           "title": "vivo X Fold6 May Feature 6,900mAh Battery, Dimensity 9500 Chip",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/vivo-X-Fold5-Product-Shot-2-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394924",
-          "author": "John Law",
-          "description": "Innodisk is another mainstay at Computex. At Computex 2026, the company basically showed off more of the usual fare in enterprise and surveillance technology. This year, the company is working with all three major companies across the board. Basically, that includes Intel, Qualcomm, and NVIDIA. With Intel, Innodisk has systems that are powered by the […]\nThe post Photo Essay: Innodisk At Computex 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394924/photo-essay-innodisk-at-computex-2026/",
-          "publishedOn": "2026-06-05T17:03:20.000Z",
-          "wordCount": 15114,
-          "title": "Photo Essay: Innodisk At Computex 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Innodisk-Computex-2026-1-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394918",
-          "author": "Heirul Kamel",
-          "description": "Perodua has released a new promotional video explaining the Battery As A Service (BaaS) programme for its first electric vehicle, the QV-E. The move appears to be part of the local automaker’s continuing effort to address public concerns surrounding Malaysia’s first battery leasing model for electric vehicles. The short video largely reiterates the same talking […]\nThe post Perodua Doubles Down On QV-E Battery Leasing, Says It “Protects” EV Owners appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394918/perodua-doubles-down-on-qv-e-battery-leasing/",
-          "publishedOn": "2026-06-05T12:55:32.000Z",
-          "wordCount": 16231,
-          "title": "Perodua Doubles Down On QV-E Battery Leasing, Says It “Protects” EV Owners",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Perodua-QV-E19.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394904",
-          "author": "Nurul Kamil",
-          "description": "In recent years, we’ve seen considerable advancements in the artificial intelligence (AI) space. From generative AI to autonomous agents, major tech companies are continuing to push for more developments. In the midst of all this, Anthropic has suggested that it’s time for the world to hit the pause button, as advanced AI may eventually outpace […]\nThe post Anthropic Wants A Global Pause On AI Development appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394904/anthropic-global-pause-ai-development/",
-          "publishedOn": "2026-06-05T11:11:28.000Z",
-          "wordCount": 15732,
-          "title": "Anthropic Wants A Global Pause On AI Development",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/anthropic-claude-opus-ai-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394910",
-          "author": "Heirul Kamel",
-          "description": "BYD has officially launched the 2026 BYD Atto 3 for the Malaysian market, introducing a significant refresh for its popular electric vehicle. Interestingly, Malaysia is also the first market in the Asia-Pacific region to receive the updated model. The new Atto 3 is offered in two variants: Ultra and Premium. While both feature updated styling […]\nThe post 2026 BYD Atto 3 Officially Launches In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394910/2026-byd-atto-3-officially-launches-in-malaysia/",
-          "publishedOn": "2026-06-05T11:06:57.000Z",
-          "wordCount": 15818,
-          "title": "2026 BYD Atto 3 Officially Launches In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/byd-atto-3-facelift-malaysia-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394899",
-          "author": "Kiran Ganesan",
-          "description": "“Welp, that happened faster than I predicted.” Those were the words of Matthew Prince, CEO and co-founder of Cloudflare, after he shared data indicating that bots now generate more web traffic than humans. Prince accompanied the remark with a Cloudflare Radar dashboard posted on X. According to the dashboard, automated traffic now accounts for 57.3% […]\nThe post Cloudflare CEO: Bots Have Surpassed Human Traffic Online For the First Time appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394899/cloudflare-ceo-bots-surpassed-human-traffic-online/",
-          "publishedOn": "2026-06-05T10:10:30.000Z",
-          "wordCount": 15442,
-          "title": "Cloudflare CEO: Bots Have Surpassed Human Traffic Online For the First Time",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/artificial-intelligence-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394890",
-          "author": "Ian Chee",
-          "description": "Local videogames retailer M4G announced that it’s taking pre-orders for the Steam Controller on its official Facebook page. The post says that you have to visit one of three outlets to place said pre-order, but details are otherwise limited. Fortunately for us, one of those outlets is pretty nearby, so we dropped by to ask […]\nThe post You May Not Want The Steam Controller Anymore Once You Find Out Its Potential Price appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394890/steam-controller-potential-price/",
-          "publishedOn": "2026-06-05T09:51:02.000Z",
-          "wordCount": 15523,
-          "title": "You May Not Want The Steam Controller Anymore Once You Find Out Its Potential Price",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/steam-controller-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394885",
-          "author": "Heirul Kamel",
-          "description": "The Ministry of Digital has announced that the MyGOV app will soon allow users to stream FIFA World Cup 2026 matches directly through the platform, adding an unexpected entertainment feature to what was originally conceived as a one-stop government services app. According to the ministry, Malaysians who have registered for MyDigital ID will be able […]\nThe post MyGOV App To Stream FIFA World Cup 2026 Matches appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394885/mygov-app-to-stream-fifa-world-cup-2026-matches/",
-          "publishedOn": "2026-06-05T07:30:45.000Z",
-          "wordCount": 15611,
-          "title": "MyGOV App To Stream FIFA World Cup 2026 Matches",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/MyGOV-splash-screen.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394868",
-          "author": "Kiran Ganesan",
-          "description": "Whether it’s ear-hook buds or bone conduction headphones, Shokz is no stranger to open-ear audio gear. Continuing its push in the category, the brand has officially announced two new clip-on earbuds: the flagship OpenDots 2 and the OpenDots Air. Both models will arrive in Malaysia soon. According to the company, the OpenDots 2 introduces a […]\nThe post Shokz Announces Two New Clip-On Earbuds; Coming To Malaysia Soon appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394868/shokz-two-new-clip-on-earbuds-malaysia-soon/",
-          "publishedOn": "2026-06-05T06:02:15.000Z",
-          "wordCount": 16274,
-          "title": "Shokz Announces Two New Clip-On Earbuds; Coming To Malaysia Soon",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Shokz-Announces-Two-New-Clip-On-Earbuds-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394837",
-          "author": "Ian Chee",
-          "description": "Like the Steam Deck, the Steam Controller is unlikely to be available in Malaysia in an official capacity. So if you have been holding out hope that it would still be purchasable via one of the local videogames retailers, your wish has just come true. One such retailer, M4G, has announced that it is taking […]\nThe post Local Videogames Retailer Opens Pre-Orders For Steam Controller appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394837/local-videogames-retailer-pre-orders-steam-controller/",
-          "publishedOn": "2026-06-05T05:50:39.000Z",
-          "wordCount": 15441,
-          "title": "Local Videogames Retailer Opens Pre-Orders For Steam Controller",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/steam-controller-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394846",
-          "author": "John Law",
-          "description": "The NVIDIA RTX Spark is no longer a secret, and it’s not an exaggeration to say that the brand is very clearly taking the fight to its rivals. And that list of rivals is the full Monty – I’m talking Intel, AMD, and Qualcomm, and all in ways that are surprising. We got to spend […]\nThe post NVIDIA RTX Spark Laptops: I Held The Future Of Laptops appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394846/nvidia-rtx-spark-laptops-i-held-the-future-of-laptops/",
-          "publishedOn": "2026-06-05T04:58:35.000Z",
-          "wordCount": 17080,
-          "title": "NVIDIA RTX Spark Laptops: I Held The Future Of Laptops",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/NVIDIA-RTX-Spark-Demo-Session-Computex-2026-1-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394828",
-          "author": "Nurul Kamil",
-          "description": "The Infinix Hot 70 made a considerably early debut last month. Following this initial announcement, the brand has officially brought the phone to our shores. As the latest addition to the entry-level Hot range, the handset focuses on durability, everyday AI features, as well as expressive aesthetics. Out of all the previously announced colourways, only […]\nThe post Infinix Hot 70 Launches In Malaysia With One-Tap AI, 6,000mAh Battery appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394828/infinix-hot-70-malaysia/",
-          "publishedOn": "2026-06-05T04:32:43.000Z",
-          "wordCount": 15625,
-          "title": "Infinix Hot 70 Launches In Malaysia With One-Tap AI, 6,000mAh Battery",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/infinix-hot-70-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=394825",
-          "author": "Ian Chee",
-          "description": "Videogames peripheral brand Razer has a handful of more lifestyle-oriented products that are still tangentially related to gaming. One example is the Rogue series of backpacks, and the company has now announced a refresh for these, now in their V4 incarnation. And while their previous cross-brand promos had prices that could scare even the wealthiest […]\nThe post Razer Refreshes Its Rogue Backpacks; Now In V4 Incarnation appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/394825/razer-rogue-backpacks-v4/",
-          "publishedOn": "2026-06-05T04:14:37.000Z",
-          "wordCount": 15607,
-          "title": "Razer Refreshes Its Rogue Backpacks; Now In V4 Incarnation",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Rogue-V4-KV.webp"
         }
       ]
     },
@@ -22030,6 +21950,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
+          "author": "Robert Lemos",
+          "description": "As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
+          "publishedOn": "2026-06-19T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk",
           "author": "Jai Vijayan",
@@ -22428,36 +22358,6 @@
           "publishedOn": "2026-06-08T16:13:41.000Z",
           "wordCount": null,
           "title": "'Hades' Campaign Against PyPI Puts New Spin on Shai-Hulud",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us",
-          "author": "Nate Nelson",
-          "description": "Threat actors are taking advantage of Internet-exposed tank gauges by breaching gas stations, opening the door to disruption.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us",
-          "publishedOn": "2026-06-05T19:04:36.000Z",
-          "wordCount": null,
-          "title": "Exposed Fuel Tank Gauges Under Attack in the US",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat",
-          "author": "Robert Lemos",
-          "description": "AI worms, or \"viruses with wings and brains,\" adapt to new environments, seek out vulnerabilities, and will likely strike within a year, researchers say.",
-          "link": "https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat",
-          "publishedOn": "2026-06-05T14:40:11.000Z",
-          "wordCount": null,
-          "title": "Adaptive, Agentic AI Worms Loom as Next Enterprise Threat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing",
-          "author": "Alexander Culafi",
-          "description": "The White House's executive order establishes voluntary framework for early government access to frontier models while investing in federal security.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing",
-          "publishedOn": "2026-06-05T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Trump AI Order Seeks Voluntary Frontier Model Testing",
           "imageUrl": null
         }
       ]
