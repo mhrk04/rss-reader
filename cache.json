@@ -19294,6 +19294,166 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network.\n\nAn attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt.\n\nThe same research found Quick Share flaws that",
+          "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+          "publishedOn": "2026-06-30T09:27:58.000Z",
+          "wordCount": null,
+          "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCyrr25-wXst4kOLIEi1-Q1d5XMVDCvWqUacEoSRsLn6C5CbKoXGLb4nzTB-DVr9cLOkyuIT5wyMrQICAVhQFlTsXrR_Ng9CBBXPZGeK_rLtOVXh5C8CsrZHaGyJ5WukGI3vTpMOw1S09_U9j_s5rzEFcYq55g7ZmOthGTPw5XxJJkALMH9VOxr0DjX8Vi/s1600/share-ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCyrr25-wXst4kOLIEi1-Q1d5XMVDCvWqUacEoSRsLn6C5CbKoXGLb4nzTB-DVr9cLOkyuIT5wyMrQICAVhQFlTsXrR_Ng9CBBXPZGeK_rLtOVXh5C8CsrZHaGyJ5WukGI3vTpMOw1S09_U9j_s5rzEFcYq55g7ZmOthGTPw5XxJJkALMH9VOxr0DjX8Vi/s1600/share-ai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker.\n\nThe targets included OpenAI's ChatGPT Atlas, Perplexity's Comet, and Anthropic's Claude browser extension.\n\nAn",
+          "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+          "publishedOn": "2026-06-30T08:37:19.000Z",
+          "wordCount": null,
+          "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitNDarGF3uRKXTWC12cbM97uJW3DxiLuQwmplVLHEqdrUZJdzbkMz6Wc524z5Xu2GGSyNYhMT_m9kGqqGjRmIxDf0fy_ZXCx3f6G7JvvCFkcdga3PTnUR8XqfrPtIH_9_yrb9n7VaJZTqsLK4CznHRTcYZA1B84r2T_Jl5YYjnUbwUAvyGo4K05ckMnyYG/s1600/ai-prompt.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitNDarGF3uRKXTWC12cbM97uJW3DxiLuQwmplVLHEqdrUZJdzbkMz6Wc524z5Xu2GGSyNYhMT_m9kGqqGjRmIxDf0fy_ZXCx3f6G7JvvCFkcdga3PTnUR8XqfrPtIH_9_yrb9n7VaJZTqsLK4CznHRTcYZA1B84r2T_Jl5YYjnUbwUAvyGo4K05ckMnyYG/s1600/ai-prompt.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API.\n\nThe flaw, tracked as CVE-2026-8037, carries a CVSS score of 9.8 according to ZDI. A patch is available. If you run LoadMaster with the API enabled, update now.\n\nProgress published its advisory on June",
+          "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+          "publishedOn": "2026-06-30T07:38:07.000Z",
+          "wordCount": null,
+          "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtFZGtJwnGA8dQHmNpd8Pzgx4p0wSq_e2hyphenhyphen2bZwWBQEDK8QPAi2CEOR_Nbns5jhRw9mMSPv6RBe2IqRO1c9fIMvMlUAV14B3VQE7-csMvfMQK6Qr3THGlxQY3C9HiYW_TYHGzok-TWFmMoMkto0OA8fNsQuvADEaJNFQYdIrXXzHGJEhyqpKRC2IFCaRM6/s1600/loadmaster.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtFZGtJwnGA8dQHmNpd8Pzgx4p0wSq_e2hyphenhyphen2bZwWBQEDK8QPAi2CEOR_Nbns5jhRw9mMSPv6RBe2IqRO1c9fIMvMlUAV14B3VQE7-csMvfMQK6Qr3THGlxQY3C9HiYW_TYHGzok-TWFmMoMkto0OA8fNsQuvADEaJNFQYdIrXXzHGJEhyqpKRC2IFCaRM6/s1600/loadmaster.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security.\n\nThe WebKit vulnerabilities are listed below -\n\n\n  CVE-2026-43707 - A memory corruption issue that could result in an",
+          "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+          "publishedOn": "2026-06-30T07:15:07.000Z",
+          "wordCount": null,
+          "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgEWbrJH-z_uAL6GFaOqplYF1ewSOBvFpaKD24W74VEBaSO-pW3sy0I0e57Bmc9yBKV4vb6zWYaVjd-oTSy2sSQNSubgQHcmFav_bp3HnySXcSGR-ocRiUfYcXgUXm44XZyrdNnIq2JqJxZQG5bnbui12eVoG3GPgVnGy9AE6vfDp3km5TTtf6rjPv6FZV/s1600/apple-updates-ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgEWbrJH-z_uAL6GFaOqplYF1ewSOBvFpaKD24W74VEBaSO-pW3sy0I0e57Bmc9yBKV4vb6zWYaVjd-oTSy2sSQNSubgQHcmFav_bp3HnySXcSGR-ocRiUfYcXgUXm44XZyrdNnIq2JqJxZQG5bnbui12eVoG3GPgVnGy9AE6vfDp3km5TTtf6rjPv6FZV/s1600/apple-updates-ai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber.\n\nThe vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be abused to take over susceptible instances.\n\n\"Easily exploitable vulnerability allows",
+          "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+          "publishedOn": "2026-06-30T05:04:06.000Z",
+          "wordCount": null,
+          "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYwCBjb2uPzIs-8BNIxo90ae4xRgxzM1av-ijebBJ32Y2DEvRUvM-jMd6S535UdnbPKrLtFHxm0k9Lo7GJgVjCWCrH-0RNFZukDv7shdA02IkDs1Iqx8C-uH2hOCyfpJ01tmNVGhrvQ-6FGlmdjnCP0nXrq7zl5KVL3XZ84I9QTImD5DM8HYoJbA0A1P3w/s1600/oracle.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYwCBjb2uPzIs-8BNIxo90ae4xRgxzM1av-ijebBJ32Y2DEvRUvM-jMd6S535UdnbPKrLtFHxm0k9Lo7GJgVjCWCrH-0RNFZukDv7shdA02IkDs1Iqx8C-uH2hOCyfpJ01tmNVGhrvQ-6FGlmdjnCP0nXrq7zl5KVL3XZ84I9QTImD5DM8HYoJbA0A1P3w/s1600/oracle.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results.\n\nMicrosoft says Google removed it from the store after responsible disclosure. The extension was called \"",
+          "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+          "publishedOn": "2026-06-29T18:40:09.000Z",
+          "wordCount": null,
+          "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcObOpyIQZzuiNoFu6Lv4jCDh64o1WYrC3stGdk58mMRg69RT56svVrXVwu618f6szk2lj_Tqbt6b7Rg25yV0cauxIDTbMAI8cbftKVYibIt5SMeaOT2zE3oeuu-RLI7M1mkEV3zirqDiO-nLMikX7QixM2EpVIdKQERGc7I_0p58L4J-s5mBjSCpgHc/s1600/pp-ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcObOpyIQZzuiNoFu6Lv4jCDh64o1WYrC3stGdk58mMRg69RT56svVrXVwu618f6szk2lj_Tqbt6b7Rg25yV0cauxIDTbMAI8cbftKVYibIt5SMeaOT2zE3oeuu-RLI7M1mkEV3zirqDiO-nLMikX7QixM2EpVIdKQERGc7I_0p58L4J-s5mBjSCpgHc/s1600/pp-ai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform.\n\nThe optional feature is designed to help users connect with someone on the service through usernames, as opposed to directly sharing their phone numbers. Username reservations will start rolling out starting today,",
+          "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+          "publishedOn": "2026-06-29T16:09:21.000Z",
+          "wordCount": null,
+          "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio-ZtaOMuibm1cwTHj1YFNRqRbs2GdaipPSXv1pzX9qcUI2VS6MGjpxEcNnhU0zniwOokUFL530mntMPSO2X8CjA3ybwYDXEwsJb9sV7nP9QWiDHLTiYV6Yf10B9qHNTdqsU3hn-ac8mzmzghyphenhyphenrhvgSJQBEgP723mfcyNA4y1ck5wKPBY1ELzb_xpQhB_s/s1600/whatsapp-usernames.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio-ZtaOMuibm1cwTHj1YFNRqRbs2GdaipPSXv1pzX9qcUI2VS6MGjpxEcNnhU0zniwOokUFL530mntMPSO2X8CjA3ybwYDXEwsJb9sV7nP9QWiDHLTiYV6Yf10B9qHNTdqsU3hn-ac8mzmzghyphenhyphenrhvgSJQBEgP723mfcyNA4y1ck5wKPBY1ELzb_xpQhB_s/s1600/whatsapp-usernames.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel.\n\nAcronis Threat Research Unit found active compromises inside Indian government networks, including machines used by senior administrative staff, and worked with",
+          "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+          "publishedOn": "2026-06-29T15:03:40.000Z",
+          "wordCount": null,
+          "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4479X60pqma2HNkNzrVQuQlGImd-48w4eYTTW-wylTLfK7XfLPtmNOMi79oy48LNiFg-4a_vqF378ZobR2Dy6VTO38VxbsFc_l8xQypwe-V43txSB7f73JS142E4uBXjrLKx0lcS-UOUMZ45kLeYgaqCjg2Je2TElLosoBvARIQpzam5q3ckk5CVXsoAF/s1600/india-china.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4479X60pqma2HNkNzrVQuQlGImd-48w4eYTTW-wylTLfK7XfLPtmNOMi79oy48LNiFg-4a_vqF378ZobR2Dy6VTO38VxbsFc_l8xQypwe-V43txSB7f73JS142E4uBXjrLKx0lcS-UOUMZ45kLeYgaqCjg2Je2TElLosoBvARIQpzam5q3ckk5CVXsoAF/s1600/india-china.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.\n\nThe noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting.\n\nHere’s the full Monday recap.\n\n⚡ Threat of the Week\n\nNew DirtyClone Linux Kernel Flaw Lets Local",
+          "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+          "publishedOn": "2026-06-29T14:41:07.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXmUW2VYnBd5oSyq6V328rZOIdanacqm-k4Wae2x53iAvPb7YvO7rqDcfWTklR_skhgLDVTThASQvf4UATgFVoVy1iHddO0Nxp9zkhuVEROXkqDAEyyWZZWzMZLNy1apXbCj1xttx9kYI_jPbLmV5hmUHJEkS_Efo9GiFAg5snM_JNwWKDDbMW5wuvwyl/s1600/thn-recap-main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXmUW2VYnBd5oSyq6V328rZOIdanacqm-k4Wae2x53iAvPb7YvO7rqDcfWTklR_skhgLDVTThASQvf4UATgFVoVy1iHddO0Nxp9zkhuVEROXkqDAEyyWZZWzMZLNy1apXbCj1xttx9kYI_jPbLmV5hmUHJEkS_Efo9GiFAg5snM_JNwWKDDbMW5wuvwyl/s1600/thn-recap-main.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App.\n\nThe templates power bogus cryptocurrency exchanges, multi-language pig-butchering operations, WhatsApp phishing networks, fake gambling platforms, brand-impersonation",
+          "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+          "publishedOn": "2026-06-29T11:57:40.000Z",
+          "wordCount": null,
+          "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK82zgZh0edVIi1z4Rs0V9v_8tn_Mh_X6_H5TQYnFwEtbrE1dhjw5Z-9U99Lojet5RdcrIgwJK0bZusY4u22qKVFBzpCuHihAzXd4RNuJQGSxEfdNlBH4GFZYedXXohyQdbfNYIxr9LV6KFgUyX3CWVjfsOiIQRq3JEXmGRrR9afqsfMoeR-BH_kZmTCKd/s1600/phish-uni.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK82zgZh0edVIi1z4Rs0V9v_8tn_Mh_X6_H5TQYnFwEtbrE1dhjw5Z-9U99Lojet5RdcrIgwJK0bZusY4u22qKVFBzpCuHihAzXd4RNuJQGSxEfdNlBH4GFZYedXXohyQdbfNYIxr9LV6KFgUyX3CWVjfsOiIQRq3JEXmGRrR9afqsfMoeR-BH_kZmTCKd/s1600/phish-uni.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by",
@@ -20620,166 +20780,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhweJrEaMuAEZCtL6h2H2XMxWOMGzKSktYq9kDvwXAGvIAt39-gz3irXruUA0KVSSupFdIh13o2F5quHfout07-tOHYK334xgNwRq5WcVbfyL5T1i-jYVCGLuVksBYExOncAm72ZuyRacuSG8a1ssx6jrxN8WcQ5Q91gYN3MYh-rWcY_86jVcbvZJbabPR1/s1600/litespeed.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhweJrEaMuAEZCtL6h2H2XMxWOMGzKSktYq9kDvwXAGvIAt39-gz3irXruUA0KVSSupFdIh13o2F5quHfout07-tOHYK334xgNwRq5WcVbfyL5T1i-jYVCGLuVksBYExOncAm72ZuyRacuSG8a1ssx6jrxN8WcQ5Q91gYN3MYh-rWcY_86jVcbvZJbabPR1/s1600/litespeed.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email.\n\nThe way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims' own Google Workspace rules to copy any message",
-          "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-          "publishedOn": "2026-06-15T19:44:06.000Z",
-          "wordCount": null,
-          "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE7EMoBrh5-6_V336v7LMFfChDVp-Sux8RX-UY5zhONtACR6kiz2w_VQ9o7e8nuqaWCqbxrvzPgSrruvEXN0jw_zKnaeVl73yDnfqbVqTPDnjHDPJPuBLd9vhGCJIl1BuqSblleOG9zG9YgbriqE7oiCuTEBQRDadsFOgQdN9PjdOglDeI_y2ZV5-Ehbo/s1600/google-china.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE7EMoBrh5-6_V336v7LMFfChDVp-Sux8RX-UY5zhONtACR6kiz2w_VQ9o7e8nuqaWCqbxrvzPgSrruvEXN0jw_zKnaeVl73yDnfqbVqTPDnjHDPJPuBLd9vhGCJIl1BuqSblleOG9zG9YgbriqE7oiCuTEBQRDadsFOgQdN9PjdOglDeI_y2ZV5-Ehbo/s1600/google-china.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi).\n\nAccording to a report published by Proofpoint, the threat actor has been found orchestrating phishing campaigns using developer role recruitment or code review themes",
-          "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
-          "publishedOn": "2026-06-15T19:32:52.000Z",
-          "wordCount": null,
-          "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqLMLYAQa1ICXVdOhmxnFqqoh_YonevmQPjEtYbmqLsdFC7JJnGc_F7K1no96DjZhTicVxI7sJUO04JM3e64Ko2eh1X6NlEqpKO2Nc1MKCzDPdqlmPZzTphhJlL7ibJ1CLRsIaVBZZvWtm7mv_jXLT53iwjlRVjBnyKCypFigPA0mZzFew-02Xp_aKu9o/s1600/northkorea.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqLMLYAQa1ICXVdOhmxnFqqoh_YonevmQPjEtYbmqLsdFC7JJnGc_F7K1no96DjZhTicVxI7sJUO04JM3e64Ko2eh1X6NlEqpKO2Nc1MKCzDPdqlmPZzTphhJlL7ibJ1CLRsIaVBZZvWtm7mv_jXLT53iwjlRVjBnyKCypFigPA0mZzFew-02Xp_aKu9o/s1600/northkorea.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed\n\nLiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenAI-compatible interface.\n\nA server takeover exposes every provider key it holds, the secrets that",
-          "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
-          "publishedOn": "2026-06-15T16:39:01.000Z",
-          "wordCount": null,
-          "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiH9LcMRhk5Li59rG05yXoOOofNzGpeG1MMSKQqhFCGW_28n0SjLKd9D4MC68N7jPP6dF2h2l8gW1OE7Y7akY2fckld2w1UKa3itsrCKeDjo_2vgzuvL3HxZpJ5naBx5LgPdjxhekaFONzBtR9SoJw-ugGVXOuceLQQPvJzcj7SSCgbRsqurOgnIgZppo/s1600/litellm.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiH9LcMRhk5Li59rG05yXoOOofNzGpeG1MMSKQqhFCGW_28n0SjLKd9D4MC68N7jPP6dF2h2l8gW1OE7Y7akY2fckld2w1UKa3itsrCKeDjo_2vgzuvL3HxZpJ5naBx5LgPdjxhekaFONzBtR9SoJw-ugGVXOuceLQQPvJzcj7SSCgbRsqurOgnIgZppo/s1600/litellm.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search.\n\nResearchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were",
-          "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
-          "publishedOn": "2026-06-15T15:09:05.000Z",
-          "wordCount": null,
-          "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH3B8zgsVZmHEyLi8McE-eOrGvwf6Uh3zyqWrttvaEddXJCot7sybI1o-Ly5Q1TtuEJx9BzXol3oaXSFdzFif_5fg0TE3bFA7cuuNewVB2QiZC9HuWNsVDLZlpANK_qnbk_DfBgO1fRgpUbYbc_dL60zHQFxxFN4DgYDVI-D1LsA-8dkcVKpNjAStg9b4/s1600/ms365.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH3B8zgsVZmHEyLi8McE-eOrGvwf6Uh3zyqWrttvaEddXJCot7sybI1o-Ly5Q1TtuEJx9BzXol3oaXSFdzFif_5fg0TE3bFA7cuuNewVB2QiZC9HuWNsVDLZlpANK_qnbk_DfBgO1fRgpUbYbc_dL60zHQFxxFN4DgYDVI-D1LsA-8dkcVKpNjAStg9b4/s1600/ms365.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod.\n\nThis week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point.\n\nScroll through the full Monday Cybersecurity",
-          "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
-          "publishedOn": "2026-06-15T13:49:29.000Z",
-          "wordCount": null,
-          "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdohah5P1Lv9egIZCwwxpEdcV4phYigmhvgzB3ulDhSeeffe4qDsVoowrzaTD6WsgwyjKIdJ_vzvnsUJ78zn5oxOl83qUj5ie8NN_MF8pMbdcikrPpV9vAUgm-7NLOztqN17uTx-dktpkgcQSFrmulSyCtE3MCGHOe5yQRVDFbsrx0DUjoHTa76k4Oos/s1600/thn-recap.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdohah5P1Lv9egIZCwwxpEdcV4phYigmhvgzB3ulDhSeeffe4qDsVoowrzaTD6WsgwyjKIdJ_vzvnsUJ78zn5oxOl83qUj5ie8NN_MF8pMbdcikrPpV9vAUgm-7NLOztqN17uTx-dktpkgcQSFrmulSyCtE3MCGHOe5yQRVDFbsrx0DUjoHTa76k4Oos/s1600/thn-recap.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe.\n\nThat usually means sharing a temporary \"first-day\" password so employees can access systems for the first time. The issue is that these passwords don't always stay temporary. They may be sent over email or SMS, reused across accounts,",
-          "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
-          "publishedOn": "2026-06-15T11:30:00.000Z",
-          "wordCount": null,
-          "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDj2pDJr4F9HBYmRTjOtetTz0h0vViw1lMZp6N0YAS5bGKv8ELJ1hjEcSffQg4xCTqhpIEkLchZxDXn-JNCQdUELSWNW5FcfHceLFvjAvVFXNJq5tClyqJ4onrgYp4lX3axgc2u0QU_k9MQoyjLfZt1RV3ZPapqVaZXrJy6H2wn4dw1dYWS1S4iou-dDI/s1600/outpost24.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDj2pDJr4F9HBYmRTjOtetTz0h0vViw1lMZp6N0YAS5bGKv8ELJ1hjEcSffQg4xCTqhpIEkLchZxDXn-JNCQdUELSWNW5FcfHceLFvjAvVFXNJq5tClyqJ4onrgYp4lX3axgc2u0QU_k9MQoyjLfZt1RV3ZPapqVaZXrJy6H2wn4dw1dYWS1S4iou-dDI/s1600/outpost24.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family.\n\nThe cluster spans 38 separate Chrome Web Store publisher accounts and three brand backends: tabplugins[.]com, yowgames[.]com, and chromewallpaper[.]com. They have been collectively installed 105,000 times. The",
-          "link": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-          "publishedOn": "2026-06-15T11:07:50.000Z",
-          "wordCount": null,
-          "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXEEp49DrIDRyHxMpdUoO-A9TL3T6P-7mUwImILVRSRl940D39uZbouVIhM1j8ZVEpxfTskTrLB5qrDDQ07yp7TFGTXSBhQqlwNLyN49sCW38MZds5YQP_c1lhrkl0aizSaU0ZpBpf9NS3WGD9k5BZhh52ZDuyrtxSwUrXgkjRnWMAgLq3FT6dLG0sCAfh/s1600/chrome-traffic.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXEEp49DrIDRyHxMpdUoO-A9TL3T6P-7mUwImILVRSRl940D39uZbouVIhM1j8ZVEpxfTskTrLB5qrDDQ07yp7TFGTXSBhQqlwNLyN49sCW38MZds5YQP_c1lhrkl0aizSaU0ZpBpf9NS3WGD9k5BZhh52ZDuyrtxSwUrXgkjRnWMAgLq3FT6dLG0sCAfh/s1600/chrome-traffic.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites.\n\nWhen a site administrator was logged in as the file loaded, the code created an admin account under the attacker's control and installed a hidden plugin that opened a way back in. Ordinary visitors did not trigger it",
-          "link": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
-          "publishedOn": "2026-06-15T09:59:38.000Z",
-          "wordCount": null,
-          "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5TE5Z8cG6zx7J64PdC2qxAh0h0o-KRwA1vEBvunxSEWkh5QmlsaIe2zKWUL7yX28chYs9zWMwA6eBcmTzfRIaKtyI53hKlLTSar9d4EMnjPQiY8KoQ0JldPkCQvc6B4EbO2ktcQV07rr4nf_RFBnA_eNHXChsNTOzvB3Fv7-0ENUDa8W8ut1rAdVOFAjh/s1600/wordpress.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5TE5Z8cG6zx7J64PdC2qxAh0h0o-KRwA1vEBvunxSEWkh5QmlsaIe2zKWUL7yX28chYs9zWMwA6eBcmTzfRIaKtyI53hKlLTSar9d4EMnjPQiY8KoQ0JldPkCQvc6B4EbO2ktcQV07rr4nf_RFBnA_eNHXChsNTOzvB3Fv7-0ENUDa8W8ut1rAdVOFAjh/s1600/wordpress.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of fraudulent activity targeting users across the Middle East and North Africa by employing various fraudulent Facebook accounts impersonating politicians, public figures, and trusted organizations.\n\n\"These accounts promoted fake offers, including free mobile internet packages, financial compensation, and government subsidy programs,\" Group-IB",
-          "link": "https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html",
-          "publishedOn": "2026-06-15T06:30:22.000Z",
-          "wordCount": null,
-          "title": "Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-L0YMpJQcSqCJeQR6NevaPeBZW1uc13Y3nV37mR6tEuSsuMxWV6RrohLtgsVqG_Ja_kBoZTAMcKXlaG-OfyjrLDAUwhO_pQifFv64iRc-HE0nAAMJ88BF_xEQwOj39EdAE5ZTNU7q7y3SjBjKsvBZckb_jcg1FzMM9YRe9OV9UFsNyjH2km2jAXvBIdTa/s1600/phishing-sniperdz.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-L0YMpJQcSqCJeQR6NevaPeBZW1uc13Y3nV37mR6tEuSsuMxWV6RrohLtgsVqG_Ja_kBoZTAMcKXlaG-OfyjrLDAUwhO_pQifFv64iRc-HE0nAAMJ88BF_xEQwOj39EdAE5ZTNU7q7y3SjBjKsvBZckb_jcg1FzMM9YRe9OV9UFsNyjH2km2jAXvBIdTa/s1600/phishing-sniperdz.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Palo Alto Networks has revealed that it has observed \"active exploitation\" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals.\n\nThe vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway components of PAN-OS software that could be exploited by bad",
-          "link": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
-          "publishedOn": "2026-06-15T06:17:32.000Z",
-          "wordCount": null,
-          "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFIs6j0CgFzSojDqSi_UsqRzjlbYcRsrJG714Yh40TZXU4ZzlB_Do-7nbx5WGGvOS7mV3TojQLTiHbFS57BtgCo4hlF0DebzDtrSh5YzXkqNhjEI4JG97N_vpkFzeJP3V-adbSsPYRdYCQklFdweodtTJHywVHA5HiqgvYOp5eyxW0aQxKVacua9F9w3_/s1600/paloalto-vpn.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFIs6j0CgFzSojDqSi_UsqRzjlbYcRsrJG714Yh40TZXU4ZzlB_Do-7nbx5WGGvOS7mV3TojQLTiHbFS57BtgCo4hlF0DebzDtrSh5YzXkqNhjEI4JG97N_vpkFzeJP3V-adbSsPYRdYCQklFdweodtTJHywVHA5HiqgvYOp5eyxW0aQxKVacua9F9w3_/s1600/paloalto-vpn.jpg"
         }
       ]
     },
@@ -20788,6 +20788,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=397314",
+          "author": "John Law",
+          "description": "TikTok Shop and the Ministry of Domestic Trade and Cost of Living (KPDN) have announced a partnership, where both entities will be collaborating to provide Malaysian merchants and consumers with economic support through various measures. This includes reduced commission fees on essentials, providing nationwide shipping rebates, and discounts on daily necessities. “As part of the […]\nThe post TikTok Shop And KPDN Partner Up To Offer Reduced Commission Fees On Essential Goods appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397314/tiktok-shop-kpdn-reduced-commission/",
+          "publishedOn": "2026-06-30T11:05:31.000Z",
+          "wordCount": 15537,
+          "title": "TikTok Shop And KPDN Partner Up To Offer Reduced Commission Fees On Essential Goods",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/TikTok-Shop-KPDN-Collab-1-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397299",
+          "author": "Ian Chee",
+          "description": "Acer first revealed the most recent refresh of the Predator Helios 18 AI back at Computex 2026. At the time, the company did not have details about if it will be available on our shores, or what it will cost if it does. Now, there’s good news on both ends, but while pricing details are […]\nThe post Acer Launches Predator Helios 18 AI In Two Variants appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397299/acer-predator-helios-18-ai-two-variants/",
+          "publishedOn": "2026-06-30T10:43:25.000Z",
+          "wordCount": 15853,
+          "title": "Acer Launches Predator Helios 18 AI In Two Variants",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Acer-Predator-Helios-18-AI-lid.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397305",
+          "author": "Kiran Ganesan",
+          "description": "Xiaomi, OPPO, and vivo are among the biggest smartphone makers in China. However, even they are not immune to the ongoing global RAM shortage. As a result, all three brands have reportedly informed their suppliers that they will once again cut their smartphone production targets by as much as 30% for 2026. The report comes […]\nThe post Xiaomi, OPPO, vivo Reportedly Slash Smartphone Production Again By Up To 30% appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397305/xiaomi-oppo-vivo-slash-production-30/",
+          "publishedOn": "2026-06-30T10:02:52.000Z",
+          "wordCount": 15416,
+          "title": "Xiaomi, OPPO, vivo Reportedly Slash Smartphone Production Again By Up To 30%",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Oppo-Find-X9-Ultra-Product-Shot-8-1240x930.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397301",
+          "author": "Nurul Kamil",
+          "description": "Qualcomm has officially announced the dates for this year’s Snapdragon Summit. The event will be taking place from 22 to 24 September 2026. Once again, the company will be hosting the summit in Hawaii. As Qualcomm’s biggest annual showcase, the event typically marks the launch of the latest flagship mobile processors. Although the company’s announcement […]\nThe post Qualcomm Officially Announces Snapdragon Summit 2026 Dates appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397301/qualcomm-snapdragon-summit-2026-dates/",
+          "publishedOn": "2026-06-30T09:58:00.000Z",
+          "wordCount": 15794,
+          "title": "Qualcomm Officially Announces Snapdragon Summit 2026 Dates",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/qualcomm-snapdragon-summit-2026-date-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397295",
+          "author": "John Law",
+          "description": "Samsung, SK Hynix, and Micron have been slapped with lawsuits in a US District Court in California. 17 plaintiffs are now accusing the three major memory makers of illegally coordinating DRAM supply and, in turn, inflating prices by roughly 700% over the past four years. The class action lawsuit, Garciaguirre v. Samsung Electronics, accuses the […]\nThe post Samsung, SK Hynix, And Micron Are Getting Sued Over DRAM Price Fixing appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397295/samsung-skhynix-micron-price-fixing/",
+          "publishedOn": "2026-06-30T09:44:48.000Z",
+          "wordCount": 15433,
+          "title": "Samsung, SK Hynix, And Micron Are Getting Sued Over DRAM Price Fixing",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Samsung-HBM4-Chips-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397300",
+          "author": "Heirul Kamel",
+          "description": "TV6, RTM’s retro-themed television channel, will officially cease broadcasting from 1 July 2026. The announcement was made through a notice shared on the channel’s official social media accounts. For the uninitiated, TV6 first began trial broadcasts on 1 March 2021 before expanding to a 20-hour daily schedule later that year. Unlike the broadcaster’s other television […]\nThe post RTM To Shut Down TV6 Starting Tomorrow appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397300/rtm-shut-down-tv6-july-2026/",
+          "publishedOn": "2026-06-30T09:41:09.000Z",
+          "wordCount": 15225,
+          "title": "RTM To Shut Down TV6 Starting Tomorrow",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/TV6-RTM-hi-res-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397265",
+          "author": "Ian Chee",
+          "description": "PlayStation may be headed towards a version of its own “this is an Xbox” phase, if a recent Q&A session is to be taken at face value. With the surprising success of the PS Portal, Sony Interactive Entertainment may be looking at a future where it tries to “broaden usage scenarios”. This is part of […]\nThe post Sony: Next-Generation PlayStation Will Go “Beyond The Living Room” appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397265/next-gen-playstation-beyond-living-room/",
+          "publishedOn": "2026-06-30T08:59:08.000Z",
+          "wordCount": 15580,
+          "title": "Sony: Next-Generation PlayStation Will Go “Beyond The Living Room”",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/PS5-size-comparison.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397276",
+          "author": "John Law",
+          "description": "Details about Apple’s upcoming iPhone 18 Pro are reportedly part of the data breach suffered by Indian supplier, Tata Electronics. The files, which supposedly contain data about the unreleased device’s suppliers, components, and even images of it, were posted on the dark web. As you can imagine, the security breach at Tata Electronics has caused […]\nThe post Apple iPhone 18 Pro Details Reportedly Included In Tata Data Leak appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397276/apple-iphone-18-pro-tata-data-leak/",
+          "publishedOn": "2026-06-30T07:09:50.000Z",
+          "wordCount": 15507,
+          "title": "Apple iPhone 18 Pro Details Reportedly Included In Tata Data Leak",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/iPhone-17-Pro-Max-Product-Shot-10-1024x683.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397278",
+          "author": "Kiran Ganesan",
+          "description": "If you recall, the Malaysian government had previously announced plans to introduce a basic Medical and Health Insurance/Takaful (MHIT) plan in January 2027. Ahead of its nationwide rollout, Finance Minister II Datuk Seri Amir Hamzah Azizan has announced that the Basic MHIT Plan will enter its pilot phase by the end of July. In addition […]\nThe post Amir Hamzah: Govt To Launch Basic MHIT Plan Pilot In July appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397278/amir-hamzah-govt-basic-mhit-plan-pilot/",
+          "publishedOn": "2026-06-30T06:37:05.000Z",
+          "wordCount": 15715,
+          "title": "Amir Hamzah: Govt To Launch Basic MHIT Plan Pilot In July",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Govt-To-Launch-Basic-MHIT-Plan-Pilot-In-July-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397277",
+          "author": "Nurul Kamil",
+          "description": "Apple has released a round of software updates for its devices. Although iOS 26.5.2, iPadOS 26.5.2, and macOS 26.5.2 do not introduce any new features, users should install the updates as they include fixes for nearly 30 security issues. Originally planned for version 26.6 for each operating system, these fixes arrived early as a response […]\nThe post Apple Releases Security Updates Early Amid AI-Driven Security Risks appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397277/apple-security-updates-ai-risks/",
+          "publishedOn": "2026-06-30T06:31:09.000Z",
+          "wordCount": 15500,
+          "title": "Apple Releases Security Updates Early Amid AI-Driven Security Risks",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/apple-software-update-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=397227",
           "author": "Ian Chee",
@@ -21877,86 +21977,6 @@
           "wordCount": 16209,
           "title": "EA Launches EA Advertising to Expand In-Game Ads Across Its Titles",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/EA-Electronic-Arts-Logo-Lowyat-Own-1-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=395862",
-          "author": "Ian Chee",
-          "description": "The second national automaker Perodua has announced that it is adjusting the price of the QV-E battery electric vehicle (BEV) downwards. This is following “a major localisation shift resulting in better efficiency” to the production of its first purely electric car. Alongside making the EV more affordable, it is also giving potential customers the option […]\nThe post Perodua Adjusts QV-E Pricing Downward; Introduces Outright Purchase Option appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/395862/perodua-adjusts-qv-e-pricing-introduces-purchase-option/",
-          "publishedOn": "2026-06-15T11:38:07.000Z",
-          "wordCount": 15512,
-          "title": "Perodua Adjusts QV-E Pricing Downward; Introduces Outright Purchase Option",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Perodua-QV-E11.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=395870",
-          "author": "Kiran Ganesan",
-          "description": "Typically, when a person performs an interbank cash withdrawal, they are charged an additional RM1 fee. However, that will soon be a thing of the past as banks across Malaysia will waive this fee starting 1 July 2026. This change will apply to both Automated Teller Machines (ATMs) and Smart Recycler Machines (SRMs). The Association […]\nThe post Banks In Malaysia To Remove Interbank Cash Withdrawal Fee From July 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/395870/banks-in-malaysia-to-remove-interbank-cash-withdrawal-fee/",
-          "publishedOn": "2026-06-15T09:57:32.000Z",
-          "wordCount": 15236,
-          "title": "Banks In Malaysia To Remove Interbank Cash Withdrawal Fee From July 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Bank-RHB-ATM-Stock-Image.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=395871",
-          "author": "Nurul Kamil",
-          "description": "Earlier this month, the vivo X Fold6 began appearing in leaks, revealing a few of its specifications. Shortly after that, the brand started sharing teasers for the foldable on Weibo, confirming a few of the rumours while also revealing some new information. The new reveals include details on the device’s display and camera. Based on […]\nThe post vivo Reveals X Fold6 Specs Ahead Of China Launch; Teleconverter Support Confirmed appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/395871/vivo-x-fold6-specs-china-launch/",
-          "publishedOn": "2026-06-15T09:34:08.000Z",
-          "wordCount": 15553,
-          "title": "vivo Reveals X Fold6 Specs Ahead Of China Launch; Teleconverter Support Confirmed",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/vivo-x-fold6-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=395863",
-          "author": "Nurul Kamil",
-          "description": "Online scams are becoming more prevalent in the country. According to Inspector-General of Police Tan Sri Mohd Khalid Ismail, 66,204 online scam cases were recorded last year, marking a drastic 87% increase compared to the 35,368 cases recorded in 2024. Mohd Khalid went on to note that the financial losses in 2025 amounted to RM2.97 […]\nThe post IGP: Online Scam Cases Jumped By 87% To 66,204 Last Year appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/395863/igp-online-scam-cases-jumped-by-87-percent/",
-          "publishedOn": "2026-06-15T07:57:02.000Z",
-          "wordCount": 15368,
-          "title": "IGP: Online Scam Cases Jumped By 87% To 66,204 Last Year",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/igp-online-scam-cases-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=395857",
-          "author": "Ian Chee",
-          "description": "Chinese phonemakers have been pushing the limits of smartphone battery capacity lately, and it’s no surprise that it’s another such brand that has pushed the envelope further. And the phone in question is launching soon too. Per the brand’s own teasers on Chinese social media site Weibo, the HONOR X80 Pro Max is set to […]\nThe post HONOR X80 Pro Max To Launch On 22 June With 11,000 mAh Battery appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/395857/honor-x80-pro-max-launch-22-june-11000-mah-battery/",
-          "publishedOn": "2026-06-15T06:50:30.000Z",
-          "wordCount": 15541,
-          "title": "HONOR X80 Pro Max To Launch On 22 June With 11,000 mAh Battery",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/HONOR-X80-Pro-Max-China-launch.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=395851",
-          "author": "Ian Chee",
-          "description": "You’ve probably heard a lot about the Microsoft Flight Simulator, but have you ever heard of the Google Earth Flight Simulator? Neither have I, until today anyway. It is worth noting though that if you were a dedicated user of the Google Earth desktop software, this would not be news to you, as the mode […]\nThe post Google Earth Adds Flight Simulator Mode To Web Version appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/395851/google-earth-flight-simulator-web/",
-          "publishedOn": "2026-06-15T04:09:23.000Z",
-          "wordCount": 15621,
-          "title": "Google Earth Adds Flight Simulator Mode To Web Version",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Google-Earth-flight-simulator.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=395840",
-          "author": "Nurul Kamil",
-          "description": "These days, driving an EV has become easier, with owners having more options for charging their vehicles. And for those looking for even more convenience in that regard, Xiaomi may have an answer. The company’s auto division has announced a new home charging robotic arm. This robotic EV charger can autonomously plug into vehicles, eliminating […]\nThe post Xiaomi To Release Robotic EV Charger In Q4 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/395840/xiaomi-robotic-ev-charger/",
-          "publishedOn": "2026-06-15T04:00:48.000Z",
-          "wordCount": 15636,
-          "title": "Xiaomi To Release Robotic EV Charger In Q4 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/xiaomi-robotic-ev-charger-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=395829",
-          "author": "Kiran Ganesan",
-          "description": "We are officially halfway through the year, and this is usually when Samsung begins unveiling some of the products that will make up its second-half lineup. While the company has yet to announce any new devices, Samsung Czech Republic appears to have revealed the Galaxy A27 5G ahead of schedule. We checked the website ourselves […]\nThe post Samsung Czech Prematurely Lists Galaxy A27, Revealing All Of Its Specs appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/395829/samsung-czech-prematurely-lists-galaxy-a27-revealing-all-of-its-specs/",
-          "publishedOn": "2026-06-15T03:47:07.000Z",
-          "wordCount": 16065,
-          "title": "Samsung Czech Prematurely Lists Galaxy A27, Revealing All Of Its Specs",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Samsung-Czech-Prematurely-Lists-Galaxy-A27-1.webp"
         }
       ]
     },
@@ -21965,6 +21985,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials",
+          "author": "Jai Vijayan",
+          "description": "The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise systems.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials",
+          "publishedOn": "2026-06-29T21:29:15.000Z",
+          "wordCount": null,
+          "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
+          "author": "Nate Nelson",
+          "description": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
+          "publishedOn": "2026-06-29T21:05:29.000Z",
+          "wordCount": null,
+          "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
+          "author": "Nate Nelson",
+          "description": "Does life feel Orwellian sometimes? One researcher has a solution for you: graphic tees that confuse the neural networks in surveillance cameras.",
+          "link": "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
+          "publishedOn": "2026-06-29T19:38:04.000Z",
+          "wordCount": null,
+          "title": "Can Clothes Make You Invisible to Facial Recognition?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage",
+          "author": "Alexander Culafi",
+          "description": "Nation-state attackers breach water systems through weak passwords, exposed PLCs, and poor segmentation — not sophisticated malware.",
+          "link": "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage",
+          "publishedOn": "2026-06-29T19:12:08.000Z",
+          "wordCount": null,
+          "title": "Iran, Russia, China Target Water Systems for Sabotage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
+          "author": "Elizabeth Montalbano",
+          "description": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
+          "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
+          "publishedOn": "2026-06-29T11:44:42.000Z",
+          "wordCount": null,
+          "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
           "author": "Bree Fowler",
@@ -22363,66 +22433,6 @@
           "publishedOn": "2026-06-16T15:10:48.000Z",
           "wordCount": null,
           "title": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/http-2-bomb-attacks-telcos-healthcare",
-          "author": "Nate Nelson",
-          "description": "The denial-of-service (DoS) exploit takes advantage of two features in HTTP/2 that were designed to save Internet bandwith, not power massive amplification attacks.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/http-2-bomb-attacks-telcos-healthcare",
-          "publishedOn": "2026-06-15T19:31:37.000Z",
-          "wordCount": null,
-          "title": "HTTP/2 Bomb Attacks Put Telcos, Healthcare Orgs at Risk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft",
-          "author": "Alexander Culafi",
-          "description": "The critical, three-stage attack is now patched, but it's part of a new group of AI prompt-injection issues that use hidden URLs and other variables.",
-          "link": "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft",
-          "publishedOn": "2026-06-15T19:27:48.000Z",
-          "wordCount": null,
-          "title": "Copilot 'SearchLeak' Attack Allows 1-Click Data Theft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
-          "author": "Elizabeth Montalbano",
-          "description": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to target numerous institutions and exfiltrate sensitive data.",
-          "link": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
-          "publishedOn": "2026-06-15T17:00:45.000Z",
-          "wordCount": null,
-          "title": "China-Nexus Actor Spies on US Researchers Undetected for a Year",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/most-cisos-report-pressure-to-bury-bad-security-news",
-          "author": "Arielle Waldman",
-          "description": "Executive leaders may not be saying it aloud, but business objectives and priorities don't always promote timely disclosures.",
-          "link": "https://www.darkreading.com/cyber-risk/most-cisos-report-pressure-to-bury-bad-security-news",
-          "publishedOn": "2026-06-15T16:45:59.000Z",
-          "wordCount": null,
-          "title": "Most CISOs Report Pressure to Bury Bad Security News",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering",
-          "author": "Arun Vishwanath",
-          "description": "AI-native operating systems are shifting the responsibility to stay vigilant against social engineering cyberattacks from the user onto the system itself.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering",
-          "publishedOn": "2026-06-15T15:08:32.000Z",
-          "wordCount": null,
-          "title": "The Beginning of the End of Social Engineering",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
-          "author": "Robert Lemos",
-          "description": "Anthropic abruptly suspended all access to Fable 5 and Mythos 5 after receiving an export control directive that banned foreign nationals from using the technology.",
-          "link": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
-          "publishedOn": "2026-06-15T12:17:22.000Z",
-          "wordCount": null,
-          "title": "US Cracks Down on Anthropic AI Models Amid Abuse Concerns",
           "imageUrl": null
         }
       ]
