@@ -19294,6 +19294,102 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards.\n\nThe flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on",
+          "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+          "publishedOn": "2026-07-03T20:19:31.000Z",
+          "wordCount": null,
+          "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out.\n\nBad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.\n\nThe AI caught one flaw and missed",
+          "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+          "publishedOn": "2026-07-03T19:40:01.000Z",
+          "wordCount": null,
+          "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.\n\nAvalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one",
+          "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+          "publishedOn": "2026-07-03T18:55:24.000Z",
+          "wordCount": null,
+          "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legitimate \"rollup-plugin-polyfill-node\" project, down to the description, repository metadata, and",
+          "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+          "publishedOn": "2026-07-03T16:07:15.000Z",
+          "wordCount": null,
+          "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.\n\n\"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations,\" Kaspersky said in a technical analysis published today. \"",
+          "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+          "publishedOn": "2026-07-03T13:36:33.000Z",
+          "wordCount": null,
+          "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/european-parliament-member.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.\n\n\"Through forensic analysis of his device, we found that the attackers could have had",
+          "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
+          "publishedOn": "2026-07-03T11:05:43.000Z",
+          "wordCount": null,
+          "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.\n\nThe stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
@@ -20796,150 +20892,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.\n\nThat code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use.\n\nThis is not a remote attack. It requires",
-          "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-          "publishedOn": "2026-06-19T18:37:41.000Z",
-          "wordCount": null,
-          "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor.\n\nThis mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller.\n\n\"They also incorporate third-party or",
-          "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-          "publishedOn": "2026-06-19T18:33:07.000Z",
-          "wordCount": null,
-          "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1600/edr-killer.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1600/edr-killer.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.\n\nSteer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host.\n\nNo credentials, no sign-in screen, and no further user interaction once",
-          "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-          "publishedOn": "2026-06-19T15:30:47.000Z",
-          "wordCount": null,
-          "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wJOg5Y5vAn_dM0DcIB6SwV2B34iO0H-moeyuWLJ_DF1KgEEZMBGtKPDXYk0pL4wclWbnSmOB74sqReSZoGI2_SwUSzKSscUxEdvuJFx_sCIfU7UplU2k5s4UA0cOVAZT_s80PDTek6OGfrsnE8f6QxrQU58rBqPiuk_J__Yja3YNzZLzd-6s8Ji1PBhc/s1600/agent.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wJOg5Y5vAn_dM0DcIB6SwV2B34iO0H-moeyuWLJ_DF1KgEEZMBGtKPDXYk0pL4wclWbnSmOB74sqReSZoGI2_SwUSzKSscUxEdvuJFx_sCIfU7UplU2k5s4UA0cOVAZT_s80PDTek6OGfrsnE8f6QxrQU58rBqPiuk_J__Yja3YNzZLzd-6s8Ji1PBhc/s1600/agent.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Dutch law enforcement authorities, along with counterparts from  Canada  , Germany, and the U.S., have disrupted malicious infrastructure associated with  SocGholish  and cleaned up nearly 15,000 infected WordPress websites.\n\n\"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said.\n\n\"This prevents",
-          "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
-          "publishedOn": "2026-06-19T15:07:54.000Z",
-          "wordCount": null,
-          "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-D7cu6ZQpoZXfPa_eYHuQijjkt6mJRjmoIS9eSnCGPPgyXNz-AChti_zkCGmlefTdBm5bvbyxXbrJVbpVJIneqvDmIMR8t7gXEyBn2JJFrZLW-hTbo_e8UHBFuh9tfki-QyVk2g5_XqbbSX52HYTNSpNzJng8lMfZiIHT3pMQBTjTeZwSqx2khJt2uAk/s1600/endgame.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-D7cu6ZQpoZXfPa_eYHuQijjkt6mJRjmoIS9eSnCGPPgyXNz-AChti_zkCGmlefTdBm5bvbyxXbrJVbpVJIneqvDmIMR8t7gXEyBn2JJFrZLW-hTbo_e8UHBFuh9tfki-QyVk2g5_XqbbSX52HYTNSpNzJng8lMfZiIHT3pMQBTjTeZwSqx2khJt2uAk/s1600/endgame.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices.\n\nThe sweeping campaign, believed to be the work of Russian-speaking threat actors, has been codenamed FortiBleed. The number of compromised devices stands at",
-          "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
-          "publishedOn": "2026-06-19T14:00:21.000Z",
-          "wordCount": null,
-          "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0NmhjowFYAIQws_hl2u1bMpkeyma6TUk8UumS90AdqbBjW_NJ5h97i1yV9uJ_GT6zT8A9jaruiGkhqvn0jb4LuaHDDbGtjZbB7tQQibuQmH4WTDeAI898xZnyDuUQOAvzPHooO7C2S2PQFPIvkmwZ8LTLO4xLUP5ygQVuZI3E0quggcAEvtOqKzx4zKdw/s1600/cisa-fortinet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0NmhjowFYAIQws_hl2u1bMpkeyma6TUk8UumS90AdqbBjW_NJ5h97i1yV9uJ_GT6zT8A9jaruiGkhqvn0jb4LuaHDDbGtjZbB7tQQibuQmH4WTDeAI898xZnyDuUQOAvzPHooO7C2S2PQFPIvkmwZ8LTLO4xLUP5ygQVuZI3E0quggcAEvtOqKzx4zKdw/s1600/cisa-fortinet.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Introduction\n\nThe average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead",
-          "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
-          "publishedOn": "2026-06-19T11:58:00.000Z",
-          "wordCount": null,
-          "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaBfyINQL8sJZiLP4VnJgWMBOmH-8zY01vQ3E7OWZM9sdPvFQzOrFgaEpJOcRqODwrKDMXjt1HiKZmYYKF4pr22BBcbVBqx31coqBTKsgsf43CPEoW430X177toxpnfpVBTogjlrBMOrsLJgpERpCliEP4h5_2gyu3h2Dy_hJwiV6AI3nbKyp5NvNVgzQ/s1600/filigran-main.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaBfyINQL8sJZiLP4VnJgWMBOmH-8zY01vQ3E7OWZM9sdPvFQzOrFgaEpJOcRqODwrKDMXjt1HiKZmYYKF4pr22BBcbVBqx31coqBTKsgsf43CPEoW430X177toxpnfpVBTogjlrBMOrsLJgpERpCliEP4h5_2gyu3h2Dy_hJwiV6AI3nbKyp5NvNVgzQ/s1600/filigran-main.png"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time.\n\nIt doesn't fit the problem anymore.\n\nShadow AI has shifted from a data leakage concern to an access control problem. The threat isn't",
-          "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
-          "publishedOn": "2026-06-19T10:30:00.000Z",
-          "wordCount": null,
-          "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6R48ZeaNtIzMVc6atNjuxbNYFUfiFCJ_cE1qE_85yGOOavsX0ijvQGdv9QZ2-4Lky8mTOPhrNIydUvLS2DtGkkFXYJFRTT99Vbb03s3Rtk9pTariHdQ2on2RGxiAsMQnySj7AJfxUtBxO1aJTupjkQvDvt5jp1klznY9_WHckqm64F-BbCtCR2UoJ968/s1600/tines-main.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6R48ZeaNtIzMVc6atNjuxbNYFUfiFCJ_cE1qE_85yGOOavsX0ijvQGdv9QZ2-4Lky8mTOPhrNIydUvLS2DtGkkFXYJFRTT99Vbb03s3Rtk9pTariHdQ2on2RGxiAsMQnySj7AJfxUtBxO1aJTupjkQvDvt5jp1klznY9_WHckqm64F-BbCtCR2UoJ968/s1600/tines-main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026.\n\nTo that end, organizations will be unable to connect to Salesforce via the app until further notice, the American cloud-based software company noted in an alert published this week.\n\n\"Salesforce took",
-          "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
-          "publishedOn": "2026-06-19T09:03:57.000Z",
-          "wordCount": null,
-          "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7q_DYP5ExkNSDd8Y10rOfYtTIs6sNXxdE6X55nsvKVllZZ14U9mqUY23nzGGPhXx515NVPMI5Btp4MM5qUx0V1lKDvURtKBICbblPPYuN1VSCN12-J0RmpBKCSM0veZc_9hNt1TnD9PdkNTQi8x337E9cPmLn7uyHOPw0_HshcbxKqVnmgOAjJHOOw6g/s1600/salesforce.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7q_DYP5ExkNSDd8Y10rOfYtTIs6sNXxdE6X55nsvKVllZZ14U9mqUY23nzGGPhXx515NVPMI5Btp4MM5qUx0V1lKDvURtKBICbblPPYuN1VSCN12-J0RmpBKCSM0veZc_9hNt1TnD9PdkNTQi8x337E9cPmLn7uyHOPw0_HshcbxKqVnmgOAjJHOOw6g/s1600/salesforce.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users.\n\nThe vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth audio SDK that makes it possible to pair a Bluetooth audio device without user consent.",
-          "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
-          "publishedOn": "2026-06-19T06:36:09.000Z",
-          "wordCount": null,
-          "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvlr0i44MWKmuHJKLS1V3uKSMse7tVsRFBTpyD1VGLaRZy24qq4bIb6K3Db1s0eKtuh3TkLCYFWn6eJ-uEkVnkO9CbPHHUlD3j8Z-SEFFr9A1X6ndd-fQd6UKTAyXO0DhUI2ZTe1sc4Eq7NLoGUyjQUkKmhHp99QGz3WTcFAnucAnfiioLDFiGaTbI8Wvx/s1600/apple.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvlr0i44MWKmuHJKLS1V3uKSMse7tVsRFBTpyD1VGLaRZy24qq4bIb6K3Db1s0eKtuh3TkLCYFWn6eJ-uEkVnkO9CbPHHUlD3j8Z-SEFFr9A1X6ndd-fQd6UKTAyXO0DhUI2ZTe1sc4Eq7NLoGUyjQUkKmhHp99QGz3WTcFAnucAnfiioLDFiGaTbI8Wvx/s1600/apple.jpg"
         }
       ]
     },
@@ -20948,6 +20900,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=397680",
+          "author": "John Law",
+          "description": "In today’s story of “GPUs burnt wrong”, the potential fire hazard revolves around an NVIDIA RTX 5090. The victim here, though, wasn’t the GPU, but a PCIe 5.0 riser cable that got a little too close for comfort, literally. The card in question was an ASUS TUF Gaming RTX 5090 owned by one RareSiren292. As […]\nThe post Vertically Mounted NVIDIA RTX 5090 Melts PCIe Riser Cable appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397680/nvidia-rtx-5090-pcie-riser-melt/",
+          "publishedOn": "2026-07-04T10:12:06.000Z",
+          "wordCount": 15052,
+          "title": "Vertically Mounted NVIDIA RTX 5090 Melts PCIe Riser Cable",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/PCIe-Riser-5.0-Cable-Metled-backplate-RTX-5090-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397587",
+          "author": "Ian Chee",
+          "description": "As the world experienced mixed reactions when Rockstar Games opened Grand Theft Auto VI (GTA 6) for pre-order and revealed its prices, its denizens did not know that something that would have a greater impact in the world of videogames was on the way. We got just that this week, with PlayStation announcing that game […]\nThe post GTA 6 Pricing, PlayStation Going Digital Only, And Why You Can Blame Nintendo For Both appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397587/gta-6-pricing-ps-digital-only-nintendo/",
+          "publishedOn": "2026-07-04T04:00:43.000Z",
+          "wordCount": 15775,
+          "title": "GTA 6 Pricing, PlayStation Going Digital Only, And Why You Can Blame Nintendo For Both",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Grand-Theft-Auto-VI-Ultimate-Edition-bonus-outfits-3.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397667",
+          "author": "Nurul Kamil",
+          "description": "It seems REDMI is planning to release quite a few smartphones fairly soon. Not long after rumours of the Note 17 series started circulating, a new device appeared on certification databases, including SIRIM. The REDMI 17 5G is set to succeed last year’s model, and much like the Note lineup, it’s also skipping a number. […]\nThe post REDMI 17 5G Listed On SIRIM; May Feature 7,500mAh Battery appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397667/redmi-17-5g-sirim/",
+          "publishedOn": "2026-07-04T02:35:15.000Z",
+          "wordCount": 15082,
+          "title": "REDMI 17 5G Listed On SIRIM; May Feature 7,500mAh Battery",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/redmi-15-5g-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=397660",
+          "author": "John Law",
+          "description": "A recent update on a LInux Kernel patch alludes to a new, third core type in AMD’s unreleased Zen 6 CPU architecture. Supposedly, the upcoming architecture could have a third “low power” core type. The update was spotted by Phoronix, and honestly, it’s a sign that AMD is taking a page out of its rival, […]\nThe post New Leak Reveals Low Power Core Type In AMD Zen 6 Architecture appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/397660/amd-zen-6-low-power-core-leak/",
+          "publishedOn": "2026-07-03T11:32:48.000Z",
+          "wordCount": 15130,
+          "title": "New Leak Reveals Low Power Core Type In AMD Zen 6 Architecture",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/AMD-Ryzen-7-9850X3D-3-1024x768.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=397638",
           "author": "John Law",
@@ -22127,106 +22119,6 @@
           "wordCount": 15642,
           "title": "CMF Phone 3 Pro Cancelled Amid Rising Memory Costs",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/cmf-phone-2-pro-hands-on_07.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396284",
-          "author": "Kiran Ganesan",
-          "description": "Just yesterday, the Royal Malaysian Customs Department (JKDM) issued a reminder advising travellers to declare trading cards when travelling overseas, even if they are not intended for commercial purposes. The department noted that this helps travellers avoid potential duties or taxes when re-entering the country. The reminder raises an interesting question about why such guidance […]\nThe post Have TCGs Become Too Valuable Of A Hobby? appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396284/has-tcgs-become-too-valuable-of-a-hobby/",
-          "publishedOn": "2026-06-19T11:41:16.000Z",
-          "wordCount": 18662,
-          "title": "Have TCGs Become Too Valuable Of A Hobby?",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Are-TCGs-Still-Worth-Pursuing-Today-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396208",
-          "author": "Ian Chee",
-          "description": "Back in 2024, Hotlink announced permanent quota upgrades for the Postpaid 45, 60 and 70 plans. It looks like these plans are gone now, and are replaced by two other plans, the Postpaid 50 and 75. On one hand, yes, they do cost more a month. But on the other, even the new Postpaid 50 […]\nThe post Hotlink Quietly Introduces Postpaid 50, 75 Plans; Offering From 500GB Data A Month appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396208/hotlink-postpaid-50-75-plans-from-500gb-data-a-month/",
-          "publishedOn": "2026-06-19T11:07:09.000Z",
-          "wordCount": 15443,
-          "title": "Hotlink Quietly Introduces Postpaid 50, 75 Plans; Offering From 500GB Data A Month",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Hotlink-Postpaid-50-plan.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396274",
-          "author": "Nurul Kamil",
-          "description": "Earlier this year, Dyson revealed that it would be bringing the PencilWash to Malaysia. Now, about four months after the initial announcement, the brand has made good on its promise. The all-purpose cleaner has officially arrived on our shores. Of course, the company already spilled all there is to know about the cleaning appliance back […]\nThe post Dyson PencilWash Now Available In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396274/dyson-pencilwash-malaysia/",
-          "publishedOn": "2026-06-19T09:54:31.000Z",
-          "wordCount": 15617,
-          "title": "Dyson PencilWash Now Available In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/02/Dyson-PencilWash-Malaysia-8.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396209",
-          "author": "John Law",
-          "description": "The Oppo Find X9 Ultra is a flagship phone in a sea of other premium smartphones, making every effort to differentiate itself, although little effort appears to be needed in doing so. Armed with Hasselblad imaging technology, a sleek, solid chassis, and a (really expensive) fixed zoom lens kit, the phone is marketed to the […]\nThe post Oppo Find X9 Ultra Review: The Camera Alone Is Stunning appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396209/oppo-find-x9-ultra-review-the-camera-alone-is-stunning/",
-          "publishedOn": "2026-06-19T09:00:01.000Z",
-          "wordCount": 18373,
-          "title": "Oppo Find X9 Ultra Review: The Camera Alone Is Stunning",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Oppo-Find-X9-Ultra-Product-Shot-1-scaled.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396248",
-          "author": "Heirul Kamel",
-          "description": "Tesla Malaysia will soon discontinue the one-time purchase option for its Full Self-Driving (FSD) Capability package. The company reportedly shared the announcement through a now-expired Instagram Stories post which was initially sighted by Paultan.org, informing customers that they have until 30 June 2026 to purchase the feature outright. Once the deadline passes, Tesla is expected […]\nThe post Tesla Malaysia To End One-Time FSD Purchase Option On 30 June appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396248/tesla-malaysia-to-end-one-time-fsd-purchase-option-on-30-june/",
-          "publishedOn": "2026-06-19T08:55:09.000Z",
-          "wordCount": 16340,
-          "title": "Tesla Malaysia To End One-Time FSD Purchase Option On 30 June",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/tesla-fsd-malaysia-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396170",
-          "author": "Ian Chee",
-          "description": "The Unreal Fest Chicago 2026 happened earlier this week, and as you’d expect, Epic Games took the opportunity to properly reveal the upcoming Unreal Engine 6. Despite the announcement, the engine itself is far from ready. In fact, early access to it will only be available at the end of next year. The full release […]\nThe post Unreal Engine 6 Gets Early Access Release By End 2027, Full Release By Mid-2029 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396170/unreal-engine-6-early-access-release-end-2027-full-release-by-mid-2029/",
-          "publishedOn": "2026-06-19T07:14:57.000Z",
-          "wordCount": 15938,
-          "title": "Unreal Engine 6 Gets Early Access Release By End 2027, Full Release By Mid-2029",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Unreal-Engine.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396196",
-          "author": "Newsdesk",
-          "description": "Sandisk recently revealed its latest line of SSDs for the PlayStation 5 and PlayStation 5 Pro. Obviously, these are designed to expand the console’s storage capacity. However, to expand is to expend higher-than-average funds, specifically the price of five PlayStation 5 consoles, going up to $2,960 (~RM11,989) a pop. The Optimus GX PRO 850P SSD […]\nThe post New Sandisk PlayStation 5 SSD Can Cost As Much As Five Consoles appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396196/new-sandisk-playstation-5-ssd-can-cost-as-much-as-five-consoles/",
-          "publishedOn": "2026-06-19T06:44:50.000Z",
-          "wordCount": 15611,
-          "title": "New Sandisk PlayStation 5 SSD Can Cost As Much As Five Consoles",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/SandiskPS5-SSD-1-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396180",
-          "author": "Nurul Kamil",
-          "description": "realme sub-brand TechLife has unveiled a selection of new products for the Malaysian market. This lineup includes a new tablet called the Pad Plus 2, as well as two wearables, namely the Smart Watch L2 and the Wireless Earbuds+ 2. Pad Plus 2 The TechLife Pad Plus 2 comes in your choice of Storm Grey […]\nThe post TechLife Pad Plus 2, Smart Watch L2, Wireless Earbuds+ 2 Arrive In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396180/techlife-pad-plus-2-smart-watch-l2-wireless-earbuds-2/",
-          "publishedOn": "2026-06-19T05:38:44.000Z",
-          "wordCount": 15899,
-          "title": "TechLife Pad Plus 2, Smart Watch L2, Wireless Earbuds+ 2 Arrive In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/techlife-pad-plus-2-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396171",
-          "author": "John Law",
-          "description": "Back at Computex 2026, MSI had its third generation Claw EX 8 AI+ gaming handheld out on the floor, an opportunity that we gladly took for a hands on, with our initial impressions of it falling in the “colour us impressed” bracket. The only thing missing at that point was pricing, up until recently. The […]\nThe post MSI Claw EX 8 AI+ Will Retail At A Steep US$1,799 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396171/msi-claw-ex-8-ai-will-retail-at-a-steep-us1799/",
-          "publishedOn": "2026-06-19T05:29:34.000Z",
-          "wordCount": 15660,
-          "title": "MSI Claw EX 8 AI+ Will Retail At A Steep US$1,799",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/MSI-Claw-EX-8-AI-Pricing-Official-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=396172",
-          "author": "Kiran Ganesan",
-          "description": "LEGO is no stranger to creating replica consoles and arcade cabinets. However, this would be the first time the toy company has made a fully functional pinball machine. Much like the original games you see in arcades, the LEGO Icons Arcade Pinball Machines come with a spring-loaded ball launcher, spinning bumpers, ramps, and flippers. Users […]\nThe post LEGO Announces Its First Fully Functional Pinball Machine appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/396172/lego-announces-its-first-fully-functional-pinball-machine/",
-          "publishedOn": "2026-06-19T04:56:57.000Z",
-          "wordCount": 15476,
-          "title": "LEGO Announces Its First Fully Functional Pinball Machine",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/LEGO-Announces-Its-First-Fully-Functional-Pinball-Machine-1.webp"
         }
       ]
     },
@@ -22235,6 +22127,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
+          "author": "Robert Lemos",
+          "description": "Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?",
+          "link": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
+          "publishedOn": "2026-07-03T13:01:00.000Z",
+          "wordCount": null,
+          "title": "Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
           "author": "Nate Nelson",
@@ -22703,16 +22605,6 @@
           "publishedOn": "2026-06-22T14:12:11.000Z",
           "wordCount": null,
           "title": "He Thought He Was Secure; His Phone Number Got Stolen Anyway",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
-          "author": "Robert Lemos",
-          "description": "As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
-          "publishedOn": "2026-06-19T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
           "imageUrl": null
         }
       ]
