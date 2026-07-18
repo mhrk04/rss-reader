@@ -19294,6 +19294,182 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it.\n\nAn anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until",
+          "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+          "publishedOn": "2026-07-17T21:20:10.000Z",
+          "wordCount": null,
+          "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s1600/wordpress-core.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s1600/wordpress-core.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.\n\nOpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-service bug and named it, published the",
+          "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+          "publishedOn": "2026-07-17T20:20:53.000Z",
+          "wordCount": null,
+          "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s1600/openssl.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s1600/openssl.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.\n\nThe malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an \"unprecedented\" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,",
+          "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+          "publishedOn": "2026-07-17T18:54:51.000Z",
+          "wordCount": null,
+          "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.\n\nA Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late.\n\nThe intel feed behind that counter",
+          "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+          "publishedOn": "2026-07-17T17:12:23.000Z",
+          "wordCount": null,
+          "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.\n\nExpel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using",
+          "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+          "publishedOn": "2026-07-17T16:39:16.000Z",
+          "wordCount": null,
+          "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges.\n\n\"Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto wallet stealer, a file stealer, a",
+          "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+          "publishedOn": "2026-07-17T13:48:56.000Z",
+          "wordCount": null,
+          "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other apps in the background by imitating taps and typing.\n\nGoogle has to ship it in the next major release, Android 18, and by 1 August 2027 at",
+          "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+          "publishedOn": "2026-07-17T11:44:41.000Z",
+          "wordCount": null,
+          "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUt3BtyXt68oBeDmMvhp3Sg9c8WNu5xCMYsjqNGGg1A84ykQQ3qpk3Kfsq-msZGxHxtu-gZjML5fDvgV7CoakS6D-_-h2oWAd4m8b4dIS9p1C_003gGvCmg1SDwE7HYc64tdglQW5JWq6XYfssJibuxnxwtd7pu7fbvvkzDIPqdBOQwguwPKAXC2zVOU/s1600/google-android.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUt3BtyXt68oBeDmMvhp3Sg9c8WNu5xCMYsjqNGGg1A84ykQQ3qpk3Kfsq-msZGxHxtu-gZjML5fDvgV7CoakS6D-_-h2oWAd4m8b4dIS9p1C_003gGvCmg1SDwE7HYc64tdglQW5JWq6XYfssJibuxnxwtd7pu7fbvvkzDIPqdBOQwguwPKAXC2zVOU/s1600/google-android.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed.\n\nNow the focus shifts to the trusted",
+          "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+          "publishedOn": "2026-07-17T11:30:00.000Z",
+          "wordCount": null,
+          "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.\n\nHis wife, Maria Yurova, told REN TV that border officers pulled him out of the departure hall at Yerevan's Zvartnots airport, held up a phone with a photo of him off his VKontakte page, and walked him into a side",
+          "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+          "publishedOn": "2026-07-17T10:53:31.000Z",
+          "wordCount": null,
+          "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuThPnDJrVLJe0_WqKVz_AE9vh2H5NFoGoYlcbqF99J6sjNeWxhrrAEZKsctTKWp4TaEQKQcsdejihH7wBzgS0eaiwJ9bp04rAo2H2d2C-aydo2wrPvhAQgRsP351HM-l0P3JBoHQkwwQPqKOSIaYLKQ4Dpb_F54BjqErS5AUa5Q9RAZttEZmK0Yvqwk/s1600/REvil-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuThPnDJrVLJe0_WqKVz_AE9vh2H5NFoGoYlcbqF99J6sjNeWxhrrAEZKsctTKWp4TaEQKQcsdejihH7wBzgS0eaiwJ9bp04rAo2H2d2C-aydo2wrPvhAQgRsP351HM-l0P3JBoHQkwwQPqKOSIaYLKQ4Dpb_F54BjqErS5AUa5Q9RAZttEZmK0Yvqwk/s1600/REvil-hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders.\n\nIt gets in because someone pasted a command into a Run box and pressed Enter. Microsoft laid out two of the delivery chains on Thursday. Its Defender Experts team, the",
+          "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+          "publishedOn": "2026-07-17T08:56:39.000Z",
+          "wordCount": null,
+          "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering.\n\nRussian cybersecurity company Kaspersky, which uncovered the activity in February 2026, said it was aimed at government and diplomatic entities in",
+          "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+          "publishedOn": "2026-07-17T08:46:45.000Z",
+          "wordCount": null,
+          "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026.\n\nThe vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
@@ -20988,118 +21164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards.\n\nThe flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on",
-          "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-          "publishedOn": "2026-07-03T20:19:31.000Z",
-          "wordCount": null,
-          "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out.\n\nBad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.\n\nThe AI caught one flaw and missed",
-          "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-          "publishedOn": "2026-07-03T19:40:01.000Z",
-          "wordCount": null,
-          "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.\n\nAvalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one",
-          "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-          "publishedOn": "2026-07-03T18:55:24.000Z",
-          "wordCount": null,
-          "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legitimate \"rollup-plugin-polyfill-node\" project, down to the description, repository metadata, and",
-          "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-          "publishedOn": "2026-07-03T16:07:15.000Z",
-          "wordCount": null,
-          "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.\n\n\"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations,\" Kaspersky said in a technical analysis published today. \"",
-          "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-          "publishedOn": "2026-07-03T13:36:33.000Z",
-          "wordCount": null,
-          "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/european-parliament-member.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.\n\n\"Through forensic analysis of his device, we found that the attackers could have had",
-          "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
-          "publishedOn": "2026-07-03T11:05:43.000Z",
-          "wordCount": null,
-          "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.\n\nThe stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
-          "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-          "publishedOn": "2026-07-03T08:03:37.000Z",
-          "wordCount": null,
-          "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
         }
       ]
     },
@@ -21108,6 +21172,76 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=398975",
+          "author": "Ian Chee",
+          "description": "PlayStation started the month by declaring that physical videogames are dead, at least for its consoles starting 2028. You’d think that, of all the companies that should be worried, it would be GameStop which, famously or infamously depending on perspective, has been known for second-hand games sales. But the company’s CEO Ryan Cohen has recently […]\nThe post GameStop CEO: End Of Physical Videogames Sales “Doesn’t Matter” appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/398975/gamestop-ceo-end-physical-doesnt-matter/",
+          "publishedOn": "2026-07-18T09:29:41.000Z",
+          "wordCount": 14814,
+          "title": "GameStop CEO: End Of Physical Videogames Sales “Doesn’t Matter”",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/GameStop-2000-x-1333-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=398974",
+          "author": "John Law",
+          "description": "Bethesda Game Studios, the developer behind Fallout, Elder Scrolls, and Starfield, recently posted on social media, giving confirmation that Fallout 5 is indeed in the works. Just…don’t expect the game to release anytime soon. The announcement comes at a time when Microsoft’s Xbox, Asha Sharma, has been on something of a job slashing spree, with […]\nThe post Fallout 5 Has Been Confirmed By Bethesda, Just Don’t Expect It Anytime Soon appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/398974/fallout-5-has-been-confirmed-by-bethesda-just-dont-expect-it-anytime-soon/",
+          "publishedOn": "2026-07-18T09:29:04.000Z",
+          "wordCount": 14921,
+          "title": "Fallout 5 Has Been Confirmed By Bethesda, Just Don’t Expect It Anytime Soon",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Fallout-3-New-Vegas-Remake-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=398971",
+          "author": "Heirul Kamel",
+          "description": "Apple has quietly increased the price of its Apple Music subscription in Malaysia, marking the second price hike for the streaming service since 2022. The updated pricing is already reflected on the company’s subscription page and applies to the Individual, Student, and Family plans. The latest revision comes as Apple raises subscription prices for the […]\nThe post Apple Music Subscription Prices Increased In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/398971/apple-music-price-hike-july-2026/",
+          "publishedOn": "2026-07-18T07:21:03.000Z",
+          "wordCount": 14780,
+          "title": "Apple Music Subscription Prices Increased In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/09/Apple-Music-Haptics-ios-18_02.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=398945",
+          "author": "Nurul Kamil",
+          "description": "Earlier this year, POCO launched the X8 series, which comprises two Pro models. The lack of a base model suggested that it may have been scrapped. Reports prior to the lineup’s release also indicated that the Xiaomi sub-brand was doing away with the standard X8, much as it had done with its F8 series. Now, […]\nThe post POCO X8 Reportedly Launching After All; May Feature Massive 9,000mAh Battery appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/398945/poco-x8-leak/",
+          "publishedOn": "2026-07-18T01:00:34.000Z",
+          "wordCount": 14901,
+          "title": "POCO X8 Reportedly Launching After All; May Feature Massive 9,000mAh Battery",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/poco-x7-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=398931",
+          "author": "Ian Chee",
+          "description": "If you are old enough to remember CRT TVs, you’d probably be very appreciative of the display technology that we have today. But for those looking for a nostalgia fix – or looking for a way to get their kids to experience the olden days – there’s an emulator for that experience. For now, it […]\nThe post There’s A CRT Monitor Emulator For macOS With Percussive Maintenance Implementation appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/398931/crt-emulator-percussive-maintenance/",
+          "publishedOn": "2026-07-17T11:00:33.000Z",
+          "wordCount": 14892,
+          "title": "There’s A CRT Monitor Emulator For macOS With Percussive Maintenance Implementation",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/CRT-emulator-horz.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=398926",
+          "author": "John Law",
+          "description": "As promised by AMD, the red chipmaker has officially launched the Ryzen 7 7700X3D. Announced back during Computex 2026, the CPU is both new and old, in that it is the latest 3D V-Cache processor, but it is part of the Ryzen 7000 Series, a CPU generation that was announced nearly four years ago, and […]\nThe post AMD Ryzen 7 7700X3D Now Available appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/398926/amd-ryzen-7-7700x3d-now-available/",
+          "publishedOn": "2026-07-17T10:46:48.000Z",
+          "wordCount": 14789,
+          "title": "AMD Ryzen 7 7700X3D Now Available",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/AMD-Ryzen-7-7700x3d-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=398950",
+          "author": "Heirul Kamel",
+          "description": "Infinix has officially introduced the HOT 70 Pro 5G, expanding its existing line-up with a higher-end mode. While the company has yet to announce market availability, the device is already making its way through regulatory approvals in Malaysia. Based on our findings, the Infinix HOT 70 Pro has been spotted in the SIRIM database after […]\nThe post Newly Unveiled Infinix HOT 70 Pro Spotted In SIRIM; Local Launch Appears Imminent appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/398950/infinix-hot-70-pro-sirim/",
+          "publishedOn": "2026-07-17T10:40:48.000Z",
+          "wordCount": 14943,
+          "title": "Newly Unveiled Infinix HOT 70 Pro Spotted In SIRIM; Local Launch Appears Imminent",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/infinix-hot-70-pro-sirim-malaysia-5.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=398935",
           "author": "Kiran Ganesan",
@@ -22227,116 +22361,6 @@
           "wordCount": 15082,
           "title": "REDMI 17 5G Listed On SIRIM; May Feature 7,500mAh Battery",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/redmi-15-5g-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397660",
-          "author": "John Law",
-          "description": "A recent update on a LInux Kernel patch alludes to a new, third core type in AMD’s unreleased Zen 6 CPU architecture. Supposedly, the upcoming architecture could have a third “low power” core type. The update was spotted by Phoronix, and honestly, it’s a sign that AMD is taking a page out of its rival, […]\nThe post New Leak Reveals Low Power Core Type In AMD Zen 6 Architecture appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397660/amd-zen-6-low-power-core-leak/",
-          "publishedOn": "2026-07-03T11:32:48.000Z",
-          "wordCount": 15130,
-          "title": "New Leak Reveals Low Power Core Type In AMD Zen 6 Architecture",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/AMD-Ryzen-7-9850X3D-3-1024x768.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397638",
-          "author": "John Law",
-          "description": "In addition to quietly raising the SRP for its Core Ultra 200S Plus Series, Intel has reportedly restarted production of its older Raptor Lake desktop CPU lineup. The list includes both its 13th and 14th Gen CPUs. The news stems from the China-based Channel Gate forums, with the original post (removed now) that the blue […]\nThe post Intel Seems To Have Restarted Production Of 13th And 14th Gen Core CPUs appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397638/intel-restart-production-13th-14th-gen/",
-          "publishedOn": "2026-07-03T10:39:21.000Z",
-          "wordCount": 15119,
-          "title": "Intel Seems To Have Restarted Production Of 13th And 14th Gen Core CPUs",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/10/Intel-Core-i9-14900K-product-shot-1-3.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397643",
-          "author": "Heirul Kamel",
-          "description": "The Malaysian Automotive Association (MAA) is advising prospective electric vehicle (EV) buyers to consider purchasing in-stock imported models that remain unaffected by Malaysia’s new completely built-up (CBU) EV import requirements. The association also reminded dealers that they must clearly disclose whether a vehicle comes from existing inventory or new stock at the point of sale, […]\nThe post MAA Advises Buyers To Consider Existing EV Stock As New CBU Import Rules Take Effect appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397643/maa-advises-buyers-consider-existing-ev-stock/",
-          "publishedOn": "2026-07-03T10:16:45.000Z",
-          "wordCount": 15201,
-          "title": "MAA Advises Buyers To Consider Existing EV Stock As New CBU Import Rules Take Effect",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Zeekr-7X-facelif6.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397644",
-          "author": "Newsdesk",
-          "description": "The end is in sight for this decade-long legal battle over Android, with Google losing its chance to overturn a €4.1 billion fine (~RM19 billion). The European Court of Justice ruled the search engine unfair in how it handled Android. This long-running saga first started when the European Commission imposed its penalty on Google in […]\nThe post Google Loses Final Appeal In €4.1 Billion Android Antitrust Case appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397644/google-eu-android-antitrust-case/",
-          "publishedOn": "2026-07-03T09:47:40.000Z",
-          "wordCount": 15084,
-          "title": "Google Loses Final Appeal In €4.1 Billion Android Antitrust Case",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Google-Android-Logo-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397639",
-          "author": "Nurul Kamil",
-          "description": "At the tail end of last month, the government announced the Budi Diesel programme. This initiative fully came into effect earlier this week, replacing the previous system with a targeted subsidy akin to the Budi95 programme. To help Malaysians with this transition, the Road Transport Department (JPJ) has announced that it will extend its operations […]\nThe post JPJ Operating On Weekends This Month For Budi Diesel Applications appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397639/jpj-weekends-budi-diesel-applications/",
-          "publishedOn": "2026-07-03T09:41:59.000Z",
-          "wordCount": 15066,
-          "title": "JPJ Operating On Weekends This Month For Budi Diesel Applications",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/budi95-ron95-petrol-fuel-subsidy-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397628",
-          "author": "Kiran Ganesan",
-          "description": "Xiaomi has officially launched the Xiaomi Desktop Speaker Pro Set in Malaysia. The audio system consists of a tiltable desktop soundbar and a wireless subwoofer. The set offers five EQ presets for music, bass, vocals, games, and movies. Both the soundbar and subwoofer also feature RGB lighting, with the former equipped with 24 LEDs and […]\nThe post Xiaomi Desktop Speaker Pro Set Now Available In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397628/xiaomi-desktop-speaker-pro-set-malaysia/",
-          "publishedOn": "2026-07-03T08:39:56.000Z",
-          "wordCount": 15061,
-          "title": "Xiaomi Desktop Speaker Pro Set Now Available In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Xiaomi-Desktop-Speaker-Pro-Set-Lands-In-Malaysia-1-1240x653.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397618",
-          "author": "Nurul Kamil",
-          "description": "Samsung is gearing up to launch its newest crop of foldable phones. At the same time, though, the brand is working on its AI-powered smart glasses. During Google I/O 2026, it revealed two designs for the Galaxy Glasses, which were created in collaboration with Gentle Monster and Warby Parker. Although the company is still keeping […]\nThe post Samsung Galaxy Glasses Controls Revealed In Recent Leak appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397618/samsung-galaxy-glasses-leak/",
-          "publishedOn": "2026-07-03T08:25:10.000Z",
-          "wordCount": 15143,
-          "title": "Samsung Galaxy Glasses Controls Revealed In Recent Leak",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/samsung-galaxy-glasses-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397472",
-          "author": "Ian Chee",
-          "description": "When Marvel Tokon: Fighting Souls was first revealed over a year ago, people compared it to older Marvel fighting games made by Capcom. Not particularly surprising, since those games were not only a staple of the 90s, it would later lead to the formerly illustrious Marvel vs. Capcom series. But with Tokon, this would be […]\nThe post Marvel Tokon: Fighting Souls Preview: Not Just An ArcSys Marvel Super Heroes appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397472/marvel-tokon-fighting-souls-preview/",
-          "publishedOn": "2026-07-03T08:20:39.000Z",
-          "wordCount": 15433,
-          "title": "Marvel Tokon: Fighting Souls Preview: Not Just An ArcSys Marvel Super Heroes",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Marvel-Tokon-0.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397614",
-          "author": "Heirul Kamel",
-          "description": "Bank Negara Malaysia (BNM) has announced plans to phase out proprietary QR payment networks over the next two years as part of its push towards a fully interoperable QR payment ecosystem. Under the central bank’s newly issued Interoperable Fund Transfer Framework (IFTF), existing proprietary systems must cease operations by 30 June 2028, while affected payment […]\nThe post BNM To Phase Out Proprietary QR Payment Networks In Malaysia By 2028 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397614/bnm-proprietary-qr-payment-networks-phase-out-2028/",
-          "publishedOn": "2026-07-03T07:52:22.000Z",
-          "wordCount": 15350,
-          "title": "BNM To Phase Out Proprietary QR Payment Networks In Malaysia By 2028",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/paynet-duitnow-cashless-malaysia_01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397588",
-          "author": "John Law",
-          "description": "It appears that Intel has quietly raised the prices of its Core Ultra Plus 200S Plus desktop processors. And it’s thanks to the eagle eye of prominent leakster harukaze5719. At launch, the original pricing for the Core Ultra 5 250K Plus and Ultra 7 270K Plus were set at US$199 (~RM809) and US$299 (~RM1,219) respectively, […]\nThe post Intel Has Quietly Raised The Price For The Core Ultra 7 270K Plus And Ultra 5 250K Plus appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397588/intel-raise-price-core-ultra-200s-plus/",
-          "publishedOn": "2026-07-03T07:08:08.000Z",
-          "wordCount": 15124,
-          "title": "Intel Has Quietly Raised The Price For The Core Ultra 7 270K Plus And Ultra 5 250K Plus",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Intel-Core-Ultra-7-270K-Core-Ultra-5-250K-Plus-Review-5-1240x698.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397589",
-          "author": "Nurul Kamil",
-          "description": "Today, Prime Minister Datuk Seri Anwar Ibrahim officially launched the Teksi Madani programme. This initiative is aimed at modernising the nation’s taxi industry. As part of the programme, the government is introducing a new taxi, as well as a few initiatives to support taxi drivers. Moving forward, the Proton S70 will serve as the new […]\nThe post Teksi Madani Programme Launched With Proton S70 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397589/teksi-madani-proton-s70/",
-          "publishedOn": "2026-07-03T06:35:31.000Z",
-          "wordCount": 14926,
-          "title": "Teksi Madani Programme Launched With Proton S70",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/teksi-madani-proton-s70-2.webp"
         }
       ]
     },
@@ -22345,6 +22369,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
+          "author": "Nate Nelson",
+          "description": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
+          "publishedOn": "2026-07-17T20:01:13.000Z",
+          "wordCount": null,
+          "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
+          "author": "R. Justin Martin",
+          "description": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
+          "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
+          "publishedOn": "2026-07-17T16:43:13.000Z",
+          "wordCount": null,
+          "title": "The Real AI Threat Is Blind Trust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
+          "author": "Alexander Culafi",
+          "description": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
+          "publishedOn": "2026-07-17T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
+          "author": "Jeffrey Schwartz",
+          "description": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
+          "link": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
+          "publishedOn": "2026-07-17T11:50:25.000Z",
+          "wordCount": null,
+          "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
           "author": "Arielle Waldman",
@@ -22773,26 +22837,6 @@
           "publishedOn": "2026-07-06T16:36:50.000Z",
           "wordCount": null,
           "title": "JadePuffer: The First Complete LLM-Driven Ransomware Attack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
-          "author": "Robert Lemos",
-          "description": "Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?",
-          "link": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
-          "publishedOn": "2026-07-03T13:01:00.000Z",
-          "wordCount": null,
-          "title": "Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
-          "author": "Nate Nelson",
-          "description": "Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.",
-          "link": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
-          "publishedOn": "2026-07-02T23:01:00.000Z",
-          "wordCount": null,
-          "title": "Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs",
           "imageUrl": null
         }
       ]

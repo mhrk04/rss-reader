@@ -2,10 +2,237 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-07-17T10:06:15.777Z</updated>
+    <updated>2026-07-18T09:41:25.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GameStop CEO: End Of Physical Videogames Sales “Doesn’t Matter”]]></title>
+        <id>https://www.lowyat.net/?p=398975</id>
+        <link href="https://www.lowyat.net/2026/398975/gamestop-ceo-end-physical-doesnt-matter/"/>
+        <updated>2026-07-18T09:29:41.000Z</updated>
+        <summary type="html"><![CDATA[PlayStation started the month by declaring that physical videogames are dead, at least for its consoles starting 2028. You’d think that, of all the companies that should be worried, it would be GameStop which, famously or infamously depending on perspective, has been known for second-hand games sales. But the company’s CEO Ryan Cohen has recently […]
+The post GameStop CEO: End Of Physical Videogames Sales “Doesn’t Matter” appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fallout 5 Has Been Confirmed By Bethesda, Just Don’t Expect It Anytime Soon]]></title>
+        <id>https://www.lowyat.net/?p=398974</id>
+        <link href="https://www.lowyat.net/2026/398974/fallout-5-has-been-confirmed-by-bethesda-just-dont-expect-it-anytime-soon/"/>
+        <updated>2026-07-18T09:29:04.000Z</updated>
+        <summary type="html"><![CDATA[Bethesda Game Studios, the developer behind Fallout, Elder Scrolls, and Starfield, recently posted on social media, giving confirmation that Fallout 5 is indeed in the works. Just…don’t expect the game to release anytime soon. The announcement comes at a time when Microsoft’s Xbox, Asha Sharma, has been on something of a job slashing spree, with […]
+The post Fallout 5 Has Been Confirmed By Bethesda, Just Don’t Expect It Anytime Soon appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music Subscription Prices Increased In Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=398971</id>
+        <link href="https://www.lowyat.net/2026/398971/apple-music-price-hike-july-2026/"/>
+        <updated>2026-07-18T07:21:03.000Z</updated>
+        <summary type="html"><![CDATA[Apple has quietly increased the price of its Apple Music subscription in Malaysia, marking the second price hike for the streaming service since 2022. The updated pricing is already reflected on the company’s subscription page and applies to the Individual, Student, and Family plans. The latest revision comes as Apple raises subscription prices for the […]
+The post Apple Music Subscription Prices Increased In Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POCO X8 Reportedly Launching After All; May Feature Massive 9,000mAh Battery]]></title>
+        <id>https://www.lowyat.net/?p=398945</id>
+        <link href="https://www.lowyat.net/2026/398945/poco-x8-leak/"/>
+        <updated>2026-07-18T01:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, POCO launched the X8 series, which comprises two Pro models. The lack of a base model suggested that it may have been scrapped. Reports prior to the lineup’s release also indicated that the Xiaomi sub-brand was doing away with the standard X8, much as it had done with its F8 series. Now, […]
+The post POCO X8 Reportedly Launching After All; May Feature Massive 9,000mAh Battery appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code]]></title>
+        <id>https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html</id>
+        <link href="https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"/>
+        <updated>2026-07-17T21:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it.
+
+An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests]]></title>
+        <id>https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html</id>
+        <link href="https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html"/>
+        <updated>2026-07-17T20:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.
+
+OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-service bug and named it, published the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inc Ransomware Exploits SonicWall SMA Zero-Days]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days"/>
+        <updated>2026-07-17T20:01:13.000Z</updated>
+        <summary type="html"><![CDATA[When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT]]></title>
+        <id>https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html</id>
+        <link href="https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"/>
+        <updated>2026-07-17T18:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.
+
+The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an "unprecedented" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens]]></title>
+        <id>https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html</id>
+        <link href="https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"/>
+        <updated>2026-07-17T17:12:23.000Z</updated>
+        <summary type="html"><![CDATA[A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.
+
+A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late.
+
+The intel feed behind that counter]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real AI Threat Is Blind Trust]]></title>
+        <id>https://www.darkreading.com/application-security/real-ai-threat-blind-trust</id>
+        <link href="https://www.darkreading.com/application-security/real-ai-threat-blind-trust"/>
+        <updated>2026-07-17T16:43:13.000Z</updated>
+        <summary type="html"><![CDATA[AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.]]></summary>
+        <author>
+            <name>R. Justin Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft]]></title>
+        <id>https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html</id>
+        <link href="https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html"/>
+        <updated>2026-07-17T16:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.
+
+Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images]]></title>
+        <id>https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html</id>
+        <link href="https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html"/>
+        <updated>2026-07-17T13:48:56.000Z</updated>
+        <summary type="html"><![CDATA[North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges.
+
+"Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto wallet stealer, a file stealer, a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap"/>
+        <updated>2026-07-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Bets 'Agentic Defense' Strategy Can Outpace Attackers]]></title>
+        <id>https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers</id>
+        <link href="https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers"/>
+        <updated>2026-07-17T11:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.]]></summary>
+        <author>
+            <name>Jeffrey Schwartz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants]]></title>
+        <id>https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html</id>
+        <link href="https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html"/>
+        <updated>2026-07-17T11:44:41.000Z</updated>
+        <summary type="html"><![CDATA[The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other apps in the background by imitating taps and typing.
+
+Google has to ship it in the next major release, Android 18, and by 1 August 2027 at]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?]]></title>
+        <id>https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html</id>
+        <link href="https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html"/>
+        <updated>2026-07-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed.
+
+Now the focus shifts to the trusted]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s A CRT Monitor Emulator For macOS With Percussive Maintenance Implementation]]></title>
+        <id>https://www.lowyat.net/?p=398931</id>
+        <link href="https://www.lowyat.net/2026/398931/crt-emulator-percussive-maintenance/"/>
+        <updated>2026-07-17T11:00:33.000Z</updated>
+        <summary type="html"><![CDATA[If you are old enough to remember CRT TVs, you’d probably be very appreciative of the display technology that we have today. But for those looking for a nostalgia fix – or looking for a way to get their kids to experience the olden days – there’s an emulator for that experience. For now, it […]
+The post There’s A CRT Monitor Emulator For macOS With Percussive Maintenance Implementation appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man]]></title>
+        <id>https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html</id>
+        <link href="https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html"/>
+        <updated>2026-07-17T10:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.
+
+His wife, Maria Yurova, told REN TV that border officers pulled him out of the departure hall at Yerevan's Zvartnots airport, held up a phone with a photo of him off his VKontakte page, and walked him into a side]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7 7700X3D Now Available]]></title>
+        <id>https://www.lowyat.net/?p=398926</id>
+        <link href="https://www.lowyat.net/2026/398926/amd-ryzen-7-7700x3d-now-available/"/>
+        <updated>2026-07-17T10:46:48.000Z</updated>
+        <summary type="html"><![CDATA[As promised by AMD, the red chipmaker has officially launched the Ryzen 7 7700X3D. Announced back during Computex 2026, the CPU is both new and old, in that it is the latest 3D V-Cache processor, but it is part of the Ryzen 7000 Series, a CPU generation that was announced nearly four years ago, and […]
+The post AMD Ryzen 7 7700X3D Now Available appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly Unveiled Infinix HOT 70 Pro Spotted In SIRIM; Local Launch Appears Imminent]]></title>
+        <id>https://www.lowyat.net/?p=398950</id>
+        <link href="https://www.lowyat.net/2026/398950/infinix-hot-70-pro-sirim/"/>
+        <updated>2026-07-17T10:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Infinix has officially introduced the HOT 70 Pro 5G, expanding its existing line-up with a higher-end mode. While the company has yet to announce market availability, the device is already making its way through regulatory approvals in Malaysia. Based on our findings, the Infinix HOT 70 Pro has been spotted in the SIRIM database after […]
+The post Newly Unveiled Infinix HOT 70 Pro Spotted In SIRIM; Local Launch Appears Imminent appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nubia Officially Unveils NaviX Ultra AI Agent Smartphone Ahead Of WAIC 2026]]></title>
         <id>https://www.lowyat.net/?p=398935</id>
@@ -15,6 +242,30 @@
 The post nubia Officially Unveils NaviX Ultra AI Agent Smartphone Ahead Of WAIC 2026 appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files]]></title>
+        <id>https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html</id>
+        <link href="https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html"/>
+        <updated>2026-07-17T08:56:39.000Z</updated>
+        <summary type="html"><![CDATA[ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders.
+
+It gets in because someone pasted a command into a Run box and pressed Enter. Microsoft laid out two of the delivery chains on Thursday. Its Defender Experts team, the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage]]></title>
+        <id>https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html</id>
+        <link href="https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html"/>
+        <updated>2026-07-17T08:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering.
+
+Russian cybersecurity company Kaspersky, which uncovered the activity in February 2026, said it was aimed at government and diplomatic entities in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -3021,233 +3272,6 @@ The post GTA 6 Pricing, PlayStation Going Digital Only, And Why You Can Blame Ni
 The post REDMI 17 5G Listed On SIRIM; May Feature 7,500mAh Battery appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices]]></title>
-        <id>https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html</id>
-        <link href="https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html"/>
-        <updated>2026-07-03T20:19:31.000Z</updated>
-        <summary type="html"><![CDATA[Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards.
-
-The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android]]></title>
-        <id>https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html</id>
-        <link href="https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html"/>
-        <updated>2026-07-03T19:40:01.000Z</updated>
-        <summary type="html"><![CDATA[A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out.
-
-Bad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.
-
-The AI caught one flaw and missed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Avalon Malware Framework Packs CrownX Ransomware Capabilities]]></title>
-        <id>https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html</id>
-        <link href="https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"/>
-        <updated>2026-07-03T18:55:24.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.
-
-Avalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets]]></title>
-        <id>https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html</id>
-        <link href="https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html"/>
-        <updated>2026-07-03T16:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.
-
-According to JFrog, the packages "rollup-packages-polyfill-core" and "rollup-runtime-polyfill-core" mimic the legitimate "rollup-plugin-polyfill-node" project, down to the description, repository metadata, and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer]]></title>
-        <id>https://thehackernews.com/2026/07/armored-likho-targets-government.html</id>
-        <link href="https://thehackernews.com/2026/07/armored-likho-targets-government.html"/>
-        <updated>2026-07-03T13:36:33.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.
-
-"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations," Kaspersky said in a technical analysis published today. "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders]]></title>
-        <id>https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders</id>
-        <link href="https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders"/>
-        <updated>2026-07-03T13:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Leak Reveals Low Power Core Type In AMD Zen 6 Architecture]]></title>
-        <id>https://www.lowyat.net/?p=397660</id>
-        <link href="https://www.lowyat.net/2026/397660/amd-zen-6-low-power-core-leak/"/>
-        <updated>2026-07-03T11:32:48.000Z</updated>
-        <summary type="html"><![CDATA[A recent update on a LInux Kernel patch alludes to a new, third core type in AMD’s unreleased Zen 6 CPU architecture. Supposedly, the upcoming architecture could have a third “low power” core type. The update was spotted by Phoronix, and honestly, it’s a sign that AMD is taking a page out of its rival, […]
-The post New Leak Reveals Low Power Core Type In AMD Zen 6 Architecture appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Parliament Member Investigating Spyware Was Hacked With Pegasus]]></title>
-        <id>https://thehackernews.com/2026/07/european-parliament-member.html</id>
-        <link href="https://thehackernews.com/2026/07/european-parliament-member.html"/>
-        <updated>2026-07-03T11:05:43.000Z</updated>
-        <summary type="html"><![CDATA[A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.
-
-"Through forensic analysis of his device, we found that the attackers could have had]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Seems To Have Restarted Production Of 13th And 14th Gen Core CPUs]]></title>
-        <id>https://www.lowyat.net/?p=397638</id>
-        <link href="https://www.lowyat.net/2026/397638/intel-restart-production-13th-14th-gen/"/>
-        <updated>2026-07-03T10:39:21.000Z</updated>
-        <summary type="html"><![CDATA[In addition to quietly raising the SRP for its Core Ultra 200S Plus Series, Intel has reportedly restarted production of its older Raptor Lake desktop CPU lineup. The list includes both its 13th and 14th Gen CPUs. The news stems from the China-based Channel Gate forums, with the original post (removed now) that the blue […]
-The post Intel Seems To Have Restarted Production Of 13th And 14th Gen Core CPUs appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAA Advises Buyers To Consider Existing EV Stock As New CBU Import Rules Take Effect]]></title>
-        <id>https://www.lowyat.net/?p=397643</id>
-        <link href="https://www.lowyat.net/2026/397643/maa-advises-buyers-consider-existing-ev-stock/"/>
-        <updated>2026-07-03T10:16:45.000Z</updated>
-        <summary type="html"><![CDATA[The Malaysian Automotive Association (MAA) is advising prospective electric vehicle (EV) buyers to consider purchasing in-stock imported models that remain unaffected by Malaysia’s new completely built-up (CBU) EV import requirements. The association also reminded dealers that they must clearly disclose whether a vehicle comes from existing inventory or new stock at the point of sale, […]
-The post MAA Advises Buyers To Consider Existing EV Stock As New CBU Import Rules Take Effect appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Loses Final Appeal In €4.1 Billion Android Antitrust Case]]></title>
-        <id>https://www.lowyat.net/?p=397644</id>
-        <link href="https://www.lowyat.net/2026/397644/google-eu-android-antitrust-case/"/>
-        <updated>2026-07-03T09:47:40.000Z</updated>
-        <summary type="html"><![CDATA[The end is in sight for this decade-long legal battle over Android, with Google losing its chance to overturn a €4.1 billion fine (~RM19 billion). The European Court of Justice ruled the search engine unfair in how it handled Android. This long-running saga first started when the European Commission imposed its penalty on Google in […]
-The post Google Loses Final Appeal In €4.1 Billion Android Antitrust Case appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Newsdesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPJ Operating On Weekends This Month For Budi Diesel Applications]]></title>
-        <id>https://www.lowyat.net/?p=397639</id>
-        <link href="https://www.lowyat.net/2026/397639/jpj-weekends-budi-diesel-applications/"/>
-        <updated>2026-07-03T09:41:59.000Z</updated>
-        <summary type="html"><![CDATA[At the tail end of last month, the government announced the Budi Diesel programme. This initiative fully came into effect earlier this week, replacing the previous system with a targeted subsidy akin to the Budi95 programme. To help Malaysians with this transition, the Road Transport Department (JPJ) has announced that it will extend its operations […]
-The post JPJ Operating On Weekends This Month For Budi Diesel Applications appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi Desktop Speaker Pro Set Now Available In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=397628</id>
-        <link href="https://www.lowyat.net/2026/397628/xiaomi-desktop-speaker-pro-set-malaysia/"/>
-        <updated>2026-07-03T08:39:56.000Z</updated>
-        <summary type="html"><![CDATA[Xiaomi has officially launched the Xiaomi Desktop Speaker Pro Set in Malaysia. The audio system consists of a tiltable desktop soundbar and a wireless subwoofer. The set offers five EQ presets for music, bass, vocals, games, and movies. Both the soundbar and subwoofer also feature RGB lighting, with the former equipped with 24 LEDs and […]
-The post Xiaomi Desktop Speaker Pro Set Now Available In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy Glasses Controls Revealed In Recent Leak]]></title>
-        <id>https://www.lowyat.net/?p=397618</id>
-        <link href="https://www.lowyat.net/2026/397618/samsung-galaxy-glasses-leak/"/>
-        <updated>2026-07-03T08:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Samsung is gearing up to launch its newest crop of foldable phones. At the same time, though, the brand is working on its AI-powered smart glasses. During Google I/O 2026, it revealed two designs for the Galaxy Glasses, which were created in collaboration with Gentle Monster and Warby Parker. Although the company is still keeping […]
-The post Samsung Galaxy Glasses Controls Revealed In Recent Leak appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel Tokon: Fighting Souls Preview: Not Just An ArcSys Marvel Super Heroes]]></title>
-        <id>https://www.lowyat.net/?p=397472</id>
-        <link href="https://www.lowyat.net/2026/397472/marvel-tokon-fighting-souls-preview/"/>
-        <updated>2026-07-03T08:20:39.000Z</updated>
-        <summary type="html"><![CDATA[When Marvel Tokon: Fighting Souls was first revealed over a year ago, people compared it to older Marvel fighting games made by Capcom. Not particularly surprising, since those games were not only a staple of the 90s, it would later lead to the formerly illustrious Marvel vs. Capcom series. But with Tokon, this would be […]
-The post Marvel Tokon: Fighting Souls Preview: Not Just An ArcSys Marvel Super Heroes appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords]]></title>
-        <id>https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html</id>
-        <link href="https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html"/>
-        <updated>2026-07-03T08:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.
-
-The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNM To Phase Out Proprietary QR Payment Networks In Malaysia By 2028]]></title>
-        <id>https://www.lowyat.net/?p=397614</id>
-        <link href="https://www.lowyat.net/2026/397614/bnm-proprietary-qr-payment-networks-phase-out-2028/"/>
-        <updated>2026-07-03T07:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Bank Negara Malaysia (BNM) has announced plans to phase out proprietary QR payment networks over the next two years as part of its push towards a fully interoperable QR payment ecosystem. Under the central bank’s newly issued Interoperable Fund Transfer Framework (IFTF), existing proprietary systems must cease operations by 30 June 2028, while affected payment […]
-The post BNM To Phase Out Proprietary QR Payment Networks In Malaysia By 2028 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Has Quietly Raised The Price For The Core Ultra 7 270K Plus And Ultra 5 250K Plus]]></title>
-        <id>https://www.lowyat.net/?p=397588</id>
-        <link href="https://www.lowyat.net/2026/397588/intel-raise-price-core-ultra-200s-plus/"/>
-        <updated>2026-07-03T07:08:08.000Z</updated>
-        <summary type="html"><![CDATA[It appears that Intel has quietly raised the prices of its Core Ultra Plus 200S Plus desktop processors. And it’s thanks to the eagle eye of prominent leakster harukaze5719. At launch, the original pricing for the Core Ultra 5 250K Plus and Ultra 7 270K Plus were set at US$199 (~RM809) and US$299 (~RM1,219) respectively, […]
-The post Intel Has Quietly Raised The Price For The Core Ultra 7 270K Plus And Ultra 5 250K Plus appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teksi Madani Programme Launched With Proton S70]]></title>
-        <id>https://www.lowyat.net/?p=397589</id>
-        <link href="https://www.lowyat.net/2026/397589/teksi-madani-proton-s70/"/>
-        <updated>2026-07-03T06:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Today, Prime Minister Datuk Seri Anwar Ibrahim officially launched the Teksi Madani programme. This initiative is aimed at modernising the nation’s taxi industry. As part of the programme, the government is introducing a new taxi, as well as a few initiatives to support taxi drivers. Moving forward, the Proton S70 will serve as the new […]
-The post Teksi Madani Programme Launched With Proton S70 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs]]></title>
-        <id>https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs</id>
-        <link href="https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs"/>
-        <updated>2026-07-02T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
         </author>
     </entry>
     <entry>
