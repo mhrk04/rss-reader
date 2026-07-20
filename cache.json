@@ -19294,6 +19294,118 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02.\n\nThe overflow lets an attacker \"execute code in the context of the current process,\" per the",
+          "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+          "publishedOn": "2026-07-20T09:10:56.000Z",
+          "wordCount": null,
+          "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential",
+          "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+          "publishedOn": "2026-07-20T09:07:11.000Z",
+          "wordCount": null,
+          "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected and responded to the incident targeting its production infrastructure earlier last week.\n\n\"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
+          "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+          "publishedOn": "2026-07-20T05:27:26.000Z",
+          "wordCount": null,
+          "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.\n\nThe rogue gems are listed below -\n\n\n  git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026\n  Dendreo (versions 1.1.3, 1.1.4) -",
+          "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+          "publishedOn": "2026-07-20T05:15:39.000Z",
+          "wordCount": null,
+          "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade.\n\nTriggering it can crash or restart the worker, causing a denial of",
+          "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+          "publishedOn": "2026-07-19T20:42:49.000Z",
+          "wordCount": null,
+          "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv10OUCjBseEZieeN1rxtwm17pPCAoe6OC1jvCTXCumjIImhz5Y08lYWBpSIGBSkDJN-wBcGmUTmPEp8U74bgd2Cv3rwmSmtUDlmOYR7f-0Xs3xL_xkjpkNm8W8vzNvFNfmTNiqs9TNcNmT1bo8xWb9XGzPnuaByxKSl9_eOqg3yDbtAtYh0epFo-4Wg/s1600/nginx-rce-flaw.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv10OUCjBseEZieeN1rxtwm17pPCAoe6OC1jvCTXCumjIImhz5Y08lYWBpSIGBSkDJN-wBcGmUTmPEp8U74bgd2Cv3rwmSmtUDlmOYR7f-0Xs3xL_xkjpkNm8W8vzNvFNfmTNiqs9TNcNmT1bo8xWb9XGzPnuaByxKSl9_eOqg3yDbtAtYh0epFo-4Wg/s1600/nginx-rce-flaw.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware.\n\nAccording to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's",
+          "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+          "publishedOn": "2026-07-19T13:30:55.000Z",
+          "wordCount": null,
+          "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz79enQjrnXLRTDKacoJm6HMEpOZX59zUr-X-czDXaohlQymWPOYcD0ERz14lU9Sp_6DubTeBvC1085D3vh6VwMqreCDn8F9ZKkcrvgSTlCfwS1RhmT7ubTPrc5VRd5tX7dHAJAu8n8PUy94X3a72vYU4vO769JGWttb3x9gp9lXUkilEnloggpXyk2p/s1600/click.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz79enQjrnXLRTDKacoJm6HMEpOZX59zUr-X-czDXaohlQymWPOYcD0ERz14lU9Sp_6DubTeBvC1085D3vh6VwMqreCDn8F9ZKkcrvgSTlCfwS1RhmT7ubTPrc5VRd5tX7dHAJAu8n8PUy94X3a72vYU4vO769JGWttb3x9gp9lXUkilEnloggpXyk2p/s1600/click.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026.\n\nCybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this",
+          "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+          "publishedOn": "2026-07-19T13:18:56.000Z",
+          "wordCount": null,
+          "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s1600/sma-sonicwall.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s1600/sma-sonicwall.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it.\n\nAn anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until",
@@ -21141,6 +21253,106 @@
       "siteUrl": "https://www.lowyat.net",
       "articles": [
         {
+          "id": "https://www.lowyat.net/?p=399088",
+          "author": "Ian Chee",
+          "description": "Smart Malaysia launched the #5 electric SUV at the tail end of last year. The EV was launched with two variants, the Premium and the Brabus, the latter being the one with higher performance figures as the name suggests. Today, the brand has announced that there’s a Laser Red limited edition paintjob for said Brabus […]\nThe post Smart #5 Gets RM10,000 Price Hike; Brabus Model Gets Laser Red Limited Edition appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399088/smart-5-rm10000-hike-brabus-laser-red/",
+          "publishedOn": "2026-07-20T10:57:51.000Z",
+          "wordCount": 14837,
+          "title": "Smart #5 Gets RM10,000 Price Hike; Brabus Model Gets Laser Red Limited Edition",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Smart-5-Brabus-Laser-Red-Edition.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399116",
+          "author": "Heirul Kamel",
+          "description": "Reto, the company behind Kodak-branded cameras such as the Charmera, has introduced a new analogue offering in the form of the Kodak EC35. Designed under licence from the established imaging brand, the new 35mm film camera aims to provide a straightforward shooting experience for beginners and casual users. Unlike more advanced film cameras, the EC35 […]\nThe post Kodak Unveils New EC35 Film Camera With Retro Sliding Lens Cover appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399116/kodak-unveils-new-ec35-film-camera/",
+          "publishedOn": "2026-07-20T10:52:13.000Z",
+          "wordCount": 14943,
+          "title": "Kodak Unveils New EC35 Film Camera With Retro Sliding Lens Cover",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/kodak-reto-ec35-4.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399104",
+          "author": "Kiran Ganesan",
+          "description": "If you may recall, Marshall introduced the Stockwell III to the international market back in June. Now, after more than a month, the company officially announced that its latest portable speaker will be available for purchase in Malaysia on 30 July. As we previously reported, the Stockwell III retains the same overall appearance as its […]\nThe post Marshall To Officially Launch Stockwell III In Malaysia On 30 July appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399104/marshall-stockwell-iii-malaysia-30-july/",
+          "publishedOn": "2026-07-20T10:41:10.000Z",
+          "wordCount": 14798,
+          "title": "Marshall To Officially Launch Stockwell III In Malaysia On 30 July",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Marshall-Stockwell-III-Malaysia-30-July-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399082",
+          "author": "John Law",
+          "description": "DIY modding and PC gaming usually go hand in hand, and if there’s one concept we’ve seen taken to the limit over and over, it’s hardcore DIY PC enthusiasts attempting to run systems on homemade power supplies. Enter the Uwos Lab, a self-proclaimed “mad scientist” YouTuber who decided (on a whim, we’re guessing) to build […]\nThe post Hardcore DIY Enthusiast Successfully Runs PC On A Powerbank Made Up Of 192 AA Batteries appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399082/diy-enthusiast-192-aa-batteries/",
+          "publishedOn": "2026-07-20T09:50:39.000Z",
+          "wordCount": 14994,
+          "title": "Hardcore DIY Enthusiast Successfully Runs PC On A Powerbank Made Up Of 192 AA Batteries",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Makeshift-Powerbank-192-AA-batteries-1-1240x934.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399089",
+          "author": "Nurul Kamil",
+          "description": "Over the weekend, Prime Minister Datuk Seri Anwar Ibrahim launched PMX.AI, which as the name suggests is an AI-powered digital twin. Available through WhatsApp, the AI avatar enables Malaysians to interact with a virtual version of the Prime Minister. However, not too long after its release, the chatbot has been temporarily taken offline. Users attempting […]\nThe post PMX.AI Taken Offline Shortly After Launch For System Upgrades appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399089/pmx-ai-offline-system-upgrades/",
+          "publishedOn": "2026-07-20T09:15:48.000Z",
+          "wordCount": 14855,
+          "title": "PMX.AI Taken Offline Shortly After Launch For System Upgrades",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/anwar-ibrahim-pmx-ai-whatsapp-chatbot-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399047",
+          "author": "Ian Chee",
+          "description": "Omoda & Jaecoo Malaysia announced over the weekend that it is opening bookings for the upcoming J5 EV ahead of its official launch. Because of that, there’s no exact price for the EV just yet. Instead, the company has provided an estimated price of RM125,000 instead. The company has also made the J5 EV available […]\nThe post Jaecoo J5 EV Now Available For Booking; Price Estimated at RM125,000 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399047/jaecoo-j5-ev-booking-estimated-rm125000/",
+          "publishedOn": "2026-07-20T08:44:53.000Z",
+          "wordCount": 14868,
+          "title": "Jaecoo J5 EV Now Available For Booking; Price Estimated at RM125,000",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Jaecoo-J5-EV.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399073",
+          "author": "John Law",
+          "description": "Remember when we reported on NVIDIA CEO Jensen Huang’s signed leather jacket being auctioned off at a starting bid of US$40,000 (~RM163,644)? Well, the auction at Sotheby’s has concluded, with the final bid reaching US$960,000 (~RM3,927,456). Let’s put that price in another context: for that amount, you could purchase about 240 GeForce RTX 5090 GPUs. […]\nThe post NVIDIA’s Jensen Huang’s Leather Jacket Has Been Auctioned Off For Nearly US$1 Million appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399073/nvidias-jensen-huangs-leather-jacket-has-been-auctioned-off-for-nearly-us1-million/",
+          "publishedOn": "2026-07-20T08:04:10.000Z",
+          "wordCount": 14776,
+          "title": "NVIDIA’s Jensen Huang’s Leather Jacket Has Been Auctioned Off For Nearly US$1 Million",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/NVIDIA-Blue-Newton-Engine-2-1024x640.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399074",
+          "author": "Kiran Ganesan",
+          "description": "The 2026 FIFA World Cup has just concluded, but some countries are already vying for the chance to host football’s biggest tournament. While most of the interest has come from Europe, Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi believes Malaysia should also aspire to stage the prestigious event one day. Zahid Hamidi also […]\nThe post Zahid Hamidi Wants Malaysia To Host The FIFA World Cup One Day  appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399074/zahid-hamidi-want-malaysia-world-cup/",
+          "publishedOn": "2026-07-20T07:59:58.000Z",
+          "wordCount": 14894,
+          "title": "Zahid Hamidi Wants Malaysia To Host The FIFA World Cup One Day",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Zahid-Hamidi-Wants-Malaysia-To-Host-The-FIFA-World-Cup-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399056",
+          "author": "John Law",
+          "description": "Since its unveiling during Computex 2026, details about the NVIDIA RTX Spark have been far and few, and even our brief time with the laptops powered by the ARM-based chipset yielded little information about its technical specs. That is, until recently. Posted on the TPU forums by user Fouquin, they shared a Cinebench 2026 screenshot […]\nThe post NVIDIA RTX Spark In Microsoft Surface Laptop Ultra Appears On Cinebench 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399056/nvidia-rtx-spark-in-microsoft-surface-laptop-ultra-appears-on-cinebench-2026/",
+          "publishedOn": "2026-07-20T06:19:14.000Z",
+          "wordCount": 14929,
+          "title": "NVIDIA RTX Spark In Microsoft Surface Laptop Ultra Appears On Cinebench 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/NVIDIA-RTX-Spark-Demo-Session-Computex-2026-5-1240x931.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399057",
+          "author": "Nurul Kamil",
+          "description": "The HONOR Robot Phone has made several public appearances over the past few months, with the most recent showcase taking place at the World Artificial Intelligence Conference (WAIC) 2026. During the event, the company opened pre-orders for the handset in China, indicating that a commercial launch is imminent. Although the brand has yet to reveal […]\nThe post HONOR Opens Robot Phone Pre-Orders In China Ahead Of August Launch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399057/honor-robot-phone-pre-orders-china/",
+          "publishedOn": "2026-07-20T06:13:47.000Z",
+          "wordCount": 14873,
+          "title": "HONOR Opens Robot Phone Pre-Orders In China Ahead Of August Launch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/honor-robot-phone-1.webp"
+        },
+        {
           "id": "https://www.lowyat.net/?p=399000",
           "author": "Heirul Kamel",
           "description": "Prime Minister Datuk Seri Anwar Ibrahim has officially launched PMX.AI, an artificial intelligence-powered digital twin that allows Malaysians to interact with a virtual version of him through WhatsApp. Amusingly, the Prime Minister’s initials are also “AI”, although in this case, it stands for both Anwar Ibrahim and Artificial Intelligence.  Announced through Anwar’s social media channels […]\nThe post PM Anwar Ibrahim Launches PMX.AI WhatsApp Chatbot appeared first on Lowyat.NET.",
@@ -22289,36 +22501,6 @@
           "wordCount": 15280,
           "title": "There’s A Steam Summer Sale Simulator For Your Faux Retail Therapy Needs",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Steam-Summer-Sale-simulator-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397703",
-          "author": "John Law",
-          "description": "Back in December last year, Ayaneo officially announced the Next 2, the gaming handheld powered by AMD’s Strix Halo Ryzen AI Max+ 395 APU, with no potential launch date. Until now. The company’s CEO announced that the Next 2 will be available starting July this year, but fell short of an exact date. As for […]\nThe post Ayaneo Next 2 Strix Halo To Launch This Month; Starts From RM12,210 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397703/ayaneo-next-2-july-launch/",
-          "publishedOn": "2026-07-05T09:00:16.000Z",
-          "wordCount": 15004,
-          "title": "Ayaneo Next 2 Strix Halo To Launch This Month; Starts From RM12,210",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Ayaneo-Next-2-Official-July-2026-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397701",
-          "author": "Ian Chee",
-          "description": "At the very start of the month, PlayStation announced that there will be no more discs for games releasing from 2028 onwards. Which means that unless a new medium is released, “physical” games will be codes in boxes. More recently a message sent to developers and publishers via a private developer portal looks to be […]\nThe post PlayStation Tells Publishers New Games At Retail Will Use Digital Codes appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397701/playstation-new-games-retail-codes/",
-          "publishedOn": "2026-07-05T07:39:35.000Z",
-          "wordCount": 15056,
-          "title": "PlayStation Tells Publishers New Games At Retail Will Use Digital Codes",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/PlayStation-Logo-1226-x-817.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=397693",
-          "author": "Nurul Kamil",
-          "description": "It seems things are continuing to change for OPPO-affiliated brands OnePlus and realme. Following whispers of the former scaling back its global operations, a recent report by Smartprix has claimed that OxygenOS and realme UI are being discontinued. Furthermore, future devices will run ColorOS. Citing a “highly reliable and seasoned” industry insider, the publication stated […]\nThe post OnePlus And realme Reportedly Switching To OPPO’s ColorOS For Future Devices appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/397693/oneplus-realme-oppos-coloros/",
-          "publishedOn": "2026-07-05T04:16:33.000Z",
-          "wordCount": 15059,
-          "title": "OnePlus And realme Reportedly Switching To OPPO’s ColorOS For Future Devices",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/oppo-find-x9-pro-photography-video-coloros-16_07.webp"
         }
       ]
     },
