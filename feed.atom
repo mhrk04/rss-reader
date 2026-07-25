@@ -2,10 +2,210 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-07-24T10:25:41.510Z</updated>
+    <updated>2026-07-25T09:56:00.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sony Patent Indicates Magnetic Analogue Sticks For PlayStation Controller]]></title>
+        <id>https://www.lowyat.net/?p=399722</id>
+        <link href="https://www.lowyat.net/2026/399722/sony-patent-magnetic-analogue-sticks/"/>
+        <updated>2026-07-25T09:17:59.000Z</updated>
+        <summary type="html"><![CDATA[For the longest time, potentiometers were the default tech for controller analogue sticks. More recently, the issue of stick drift has become more prominent, leading to non-contact magnetic tech like Hall Effect and Tunneling Magnetoresistance (TMR) sticks proliferating. That said, the boom of such tech happened in the middle of the console generation, so you’d […]
+The post Sony Patent Indicates Magnetic Analogue Sticks For PlayStation Controller appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HONOR Confirms Robot Phone Launch For August, Unveils Refreshed Branding]]></title>
+        <id>https://www.lowyat.net/?p=399717</id>
+        <link href="https://www.lowyat.net/2026/399717/honor-robot-phone-august-new-branding/"/>
+        <updated>2026-07-25T08:45:10.000Z</updated>
+        <summary type="html"><![CDATA[HONOR has officially confirmed that its highly anticipated Robot Phone will make its global debut this August. While the company has yet to reveal an exact launch date, the announcement marks the first time it has committed to a specific release window after previously stating that the device would arrive sometime in the third quarter […]
+The post HONOR Confirms Robot Phone Launch For August, Unveils Refreshed Branding appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git]]></title>
+        <id>https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html</id>
+        <link href="https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html"/>
+        <updated>2026-07-25T08:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server.
+
+An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iQOO 15 Ultra Listed In EEC Database Alongside Mysterious New Device; May Launch Globally Soon]]></title>
+        <id>https://www.lowyat.net/?p=399709</id>
+        <link href="https://www.lowyat.net/2026/399709/iqoo-15-ultra-eec-database/"/>
+        <updated>2026-07-25T04:59:31.000Z</updated>
+        <summary type="html"><![CDATA[The iQOO 15 Ultra launched in China at the start of this year as the most premium member of the vivo sub-brand’s main numbered series. At the time, the phone maker offered no indication that the handset would be making its way out of its home market. This wasn’t out of the ordinary, as the […]
+The post iQOO 15 Ultra Listed In EEC Database Alongside Mysterious New Device; May Launch Globally Soon appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISOs vs. Boards: Myth or Misunderstanding?]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-"/>
+        <updated>2026-07-24T21:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.]]></summary>
+        <author>
+            <name>Arielle Waldman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation"/>
+        <updated>2026-07-24T19:45:02.000Z</updated>
+        <summary type="html"><![CDATA[The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.]]></summary>
+        <author>
+            <name>Robert Lemos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery]]></title>
+        <id>https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html</id>
+        <link href="https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"/>
+        <updated>2026-07-24T15:12:35.000Z</updated>
+        <summary type="html"><![CDATA[The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware.
+
+"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller]]></title>
+        <id>https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html</id>
+        <link href="https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html"/>
+        <updated>2026-07-24T14:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.
+
+They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vatican's Official Prayer App Leaks 700K+ Global Users' PII]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii"/>
+        <updated>2026-07-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default Azure Automation Setting Enables Cross-Tenant Identity Takeover]]></title>
+        <id>https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover</id>
+        <link href="https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover"/>
+        <updated>2026-07-24T12:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.]]></summary>
+        <author>
+            <name>Jeffrey Schwartz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link]]></title>
+        <id>https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html</id>
+        <link href="https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html"/>
+        <updated>2026-07-24T11:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization.
+
+The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers]]></title>
+        <id>https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html</id>
+        <link href="https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"/>
+        <updated>2026-07-24T11:45:17.000Z</updated>
+        <summary type="html"><![CDATA[A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.
+
+XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do]]></title>
+        <id>https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html</id>
+        <link href="https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html"/>
+        <updated>2026-07-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively landed is that understanding the intent of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTM Sukan+ Comes To Astro For Glasgow 2026 Commonwealth Games]]></title>
+        <id>https://www.lowyat.net/?p=399699</id>
+        <link href="https://www.lowyat.net/2026/399699/rtm-sukan-astro-2026-commonwealth-games/"/>
+        <updated>2026-07-24T11:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday, Astro announced that it will once again collaborate with RTM for the Glasgow 2026 Commonwealth Games. The partnership will bring two new channels to the provider: Sukan+ (channel 806) and Berita RTM (channel 505). For those unaware, the former channel is a free-to-air Malaysian sports television channel that will give Astro customers coverage of […]
+The post RTM Sukan+ Comes To Astro For Glasgow 2026 Commonwealth Games appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[boAt Announces Nirvana Eutopia 2 ANC Headphones]]></title>
+        <id>https://www.lowyat.net/?p=399680</id>
+        <link href="https://www.lowyat.net/2026/399680/boat-nirvana-eutopia-2-anc-headphones/"/>
+        <updated>2026-07-24T10:54:02.000Z</updated>
+        <summary type="html"><![CDATA[boAt first made its local presence known back in March of this year, with two pairs of TWS buds and a powerbank. The company has announced a new pair of wireless headphones, in the form of the Nirvana Eutopia 2 ANC. Unlike the wireless earbuds that the brand brought into the local market earlier, though, […]
+The post boAt Announces Nirvana Eutopia 2 ANC Headphones appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigabyte Z890 Aorus Elite Duo X Review: Mid-Range Board With Lots Of Connectivity]]></title>
+        <id>https://www.lowyat.net/?p=399673</id>
+        <link href="https://www.lowyat.net/2026/399673/gigabyte-z890-aorus-elite-duo-x-review/"/>
+        <updated>2026-07-24T10:39:04.000Z</updated>
+        <summary type="html"><![CDATA[The Gigabyte Z890 Aorus Elite Duo X is a motherboard that launched at the same time Intel’s Core Ultra 200S Plus series processors hit the market. This motherboard is unique in a handful of ways, allowing PC users to maximise the performance of the Core Ultra 7 270K Plus and Core Ultra 5 250K Plus. […]
+The post Gigabyte Z890 Aorus Elite Duo X Review: Mid-Range Board With Lots Of Connectivity appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry]]></title>
+        <id>https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html</id>
+        <link href="https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html"/>
+        <updated>2026-07-24T10:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection.
+
+The agent then worked through the ministry's network on its own, checking hosts for ways to gain root access, hunting through file systems, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Chickens Resurfaces With Four New Malware Families and Modular Implants]]></title>
+        <id>https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html</id>
+        <link href="https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html"/>
+        <updated>2026-07-24T10:09:24.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings.
+
+The malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken, and a modified web browser credential]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ford, Apple To Work Together To Improve Driver-Assistance Tech]]></title>
         <id>https://www.lowyat.net/?p=399632</id>
@@ -3064,342 +3264,6 @@ The vulnerability has been described as a case of stored cross-site scripting (X
 The post Chinese Gamers Allowed By Courts To Inherit Accounts Of Dead Gamer Relatives appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jen Ellis: Connecting Cyber Community With Political Machinery]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery"/>
-        <updated>2026-07-10T19:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.]]></summary>
-        <author>
-            <name>Ericka Chickowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Flock to Healthcare Businesses as Attacks Surge]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge</id>
-        <link href="https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge"/>
-        <updated>2026-07-10T16:51:34.000Z</updated>
-        <summary type="html"><![CDATA[While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat]]></title>
-        <id>https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html</id>
-        <link href="https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html"/>
-        <updated>2026-07-10T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a "credible external security threat."
-
-The company has temporarily disabled access to the affected accounts, a step it says it took "out of an abundance of caution" while it works with internal and external security]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages]]></title>
-        <id>https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html</id>
-        <link href="https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html"/>
-        <updated>2026-07-10T16:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases.
-
-The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot]]></title>
-        <id>https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html</id>
-        <link href="https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html"/>
-        <updated>2026-07-10T15:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers.
-
-Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched]]></title>
-        <id>https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html</id>
-        <link href="https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html"/>
-        <updated>2026-07-10T14:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks.
-
-No old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins out.
-
-This is not an emergency for most owners. The attack needs]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws]]></title>
-        <id>https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html</id>
-        <link href="https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html"/>
-        <updated>2026-07-10T14:19:50.000Z</updated>
-        <summary type="html"><![CDATA[Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host.
-
-A brief description of the high-severity vulnerabilities is as follows -
-
-
-  GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fresh ATM Crypto Software Bugs: Jackpot or Bust?]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust"/>
-        <updated>2026-07-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Countries Jump on the Social Media 'Ban Wagon']]></title>
-        <id>https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon</id>
-        <link href="https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon"/>
-        <updated>2026-07-10T13:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic]]></title>
-        <id>https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html</id>
-        <link href="https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html"/>
-        <updated>2026-07-10T13:15:23.000Z</updated>
-        <summary type="html"><![CDATA[The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.
-
-Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware via counterfeit installers using SEO poisoning techniques, it belies their true organizational]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redditor Exposes Fake 16TB SSD Scam After Finding Weights And A microSD Card Inside]]></title>
-        <id>https://www.lowyat.net/?p=398312</id>
-        <link href="https://www.lowyat.net/2026/398312/redditor-exposes-fake-16tb-ssd-scam-after-finding-weights-and-a-microsd-card-inside/"/>
-        <updated>2026-07-10T13:13:10.000Z</updated>
-        <summary type="html"><![CDATA[One Reddit user recently shared their discovery of a fake 16TB SSD purchased from eBay for under $30 (~RM122). Instead of a high-capacity drive, the enclosure only contained a small board, a microSD card, and some weights hot-glued inside to mimic the feel of a legitimate SSD. u/Hartkralle explained that they regularly purchase suspicious storage […]
-The post Redditor Exposes Fake 16TB SSD Scam After Finding Weights And A microSD Card Inside appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Coding: Do Security Risks Outweigh Productivity Gains?]]></title>
-        <id>https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains</id>
-        <link href="https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains"/>
-        <updated>2026-07-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI coding tools cost $19-$200/month/user, but security scanning, remediation, and false positives add hidden costs. Are the productivity gains worth it?]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers]]></title>
-        <id>https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html</id>
-        <link href="https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html"/>
-        <updated>2026-07-10T11:47:43.000Z</updated>
-        <summary type="html"><![CDATA[A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.
-
-FoxIO researcher Sébastien Féry disclosed the flaw on July 8 and nicknamed it XRING. He says it needs no login and no malformed packets: about 260 bytes of ordinary QPACK traffic takes the server]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale]]></title>
-        <id>https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html</id>
-        <link href="https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html"/>
-        <updated>2026-07-10T11:39:40.000Z</updated>
-        <summary type="html"><![CDATA[Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their asset and exposure data into a single view, and every downstream security program inherits whatever the inventory gets wrong.
-
-Lumen Technologies, a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites]]></title>
-        <id>https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html</id>
-        <link href="https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html"/>
-        <updated>2026-07-10T11:30:02.000Z</updated>
-        <summary type="html"><![CDATA[A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites.
-
-Far fewer were actually broken into, but the exposed files showed researchers how a mass site-hacking operation runs from the inside.
-
-The operation, now tracked as]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking]]></title>
-        <id>https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html</id>
-        <link href="https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html"/>
-        <updated>2026-07-10T10:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure.
-
-The apps flagged with at least one problem have been installed more than 2.4 billion times.
-
-The problems are basic, not sophisticated. 29 apps let user traffic leak outside]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTuber Turns AMD Ryzen AI Halo Mini PC Workstation Into SteamOS-Powered Gaming Console]]></title>
-        <id>https://www.lowyat.net/?p=398303</id>
-        <link href="https://www.lowyat.net/2026/398303/youtuber-amd-ryzen-ai-halo-steamos/"/>
-        <updated>2026-07-10T10:43:02.000Z</updated>
-        <summary type="html"><![CDATA[The AMD Ryzen AI Halo mini PC has been available for a little while now, but to own it, you’d need to fork out US$4,000 (~RM16,276). While designed as a “competitor” to the NVIDIA RTX Spark, one YouTuber decided to transform the all-in-one workstation into a gaming console, running on SteamOS. The project or initiative, […]
-The post YouTuber Turns AMD Ryzen AI Halo Mini PC Workstation Into SteamOS-Powered Gaming Console appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access]]></title>
-        <id>https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html</id>
-        <link href="https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html"/>
-        <updated>2026-07-10T10:30:20.000Z</updated>
-        <summary type="html"><![CDATA[A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks.
-
-The threat actor, tracked by Okta under the moniker O-UNC-066, has deployed a panel-controlled phishing kit that's capable of targeting the passkey enrollment process. The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Is Making Cards, But They Aren’t For Your PC]]></title>
-        <id>https://www.lowyat.net/?p=398292</id>
-        <link href="https://www.lowyat.net/2026/398292/nvidia-geforce-trading-cards-series-1/"/>
-        <updated>2026-07-10T09:29:03.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA is working on a new wave of cards. This time, though, they’re not graphics cards but trading cards. Called the GeForce Trading Cards Series 1, the collectibles feature artwork based on NVIDIA’s GPUs, games, RTX technologies, and tech demos. Like most trading cards, each card comes with its own unique design. According to the […]
-The post NVIDIA Is Making Cards, But They Aren’t For Your PC appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australians Will Need A Real Driving License To Play GTA 6]]></title>
-        <id>https://www.lowyat.net/?p=398268</id>
-        <link href="https://www.lowyat.net/2026/398268/australians-driving-license-play-gta-6/"/>
-        <updated>2026-07-10T09:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Grand Theft Auto VI (GTA 6) is poised to be the next big thing in gaming, simply by virtue of being the next entry in the Rockstar Games series. For Australia though, it looks like it won’t be something that they can just download and play. Since the country’s Classification Board (ACB) has rated GTA […]
-The post Australians Will Need A Real Driving License To Play GTA 6 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets]]></title>
-        <id>https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html</id>
-        <link href="https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html"/>
-        <updated>2026-07-10T09:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and take everything it controls.
-
-Coinspect has confirmed one coordinated sweep on May]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC Gamer’s Father Resurrects Dead NVIDIA RTX 3070 With Capacitor From Old Radio]]></title>
-        <id>https://www.lowyat.net/?p=398266</id>
-        <link href="https://www.lowyat.net/2026/398266/pc-gamer-rtx-3070-repair-capacitor/"/>
-        <updated>2026-07-10T08:40:13.000Z</updated>
-        <summary type="html"><![CDATA[Over the years, we’ve covered stories about scammers selling gamers anything else other than the GPU they ordered, along with a handful of GPUs arrived faulty or DOA. Well, today’s story is surprisingly wholesome and somewhat biblical: the resurrection of a dead NVIDIA RTX 3070. Here’s the story: Almost a fortnight ago, a Redditor by […]
-The post PC Gamer’s Father Resurrects Dead NVIDIA RTX 3070 With Capacitor From Old Radio appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi Officially Unveils The Sky Nomad, Its New Electric SUV]]></title>
-        <id>https://www.lowyat.net/?p=398269</id>
-        <link href="https://www.lowyat.net/2026/398269/xiaomi-unveils-sky-nomad-electric-suv/"/>
-        <updated>2026-07-10T08:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Xiaomi has officially taken the wraps off its new Sky Nomad SUV series, offering the first proper look at its upcoming flagship family-oriented model while revealing more details about its highly flexible cabin design. Unlike the performance-focused SU7 sedan and YU7 SUV, the new lineup is aimed at buyers looking for a spacious lifestyle vehicle […]
-The post Xiaomi Officially Unveils The Sky Nomad, Its New Electric SUV appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks]]></title>
-        <id>https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html</id>
-        <link href="https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html"/>
-        <updated>2026-07-10T08:10:12.000Z</updated>
-        <summary type="html"><![CDATA[A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple victims and working with two other cybersecurity professionals to target additional victims in 2023.
-
-In a sentencing memorandum, federal prosecutors described Martino as a "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BYD Malaysia To Launch Denza Z9GT On 15 July]]></title>
-        <id>https://www.lowyat.net/?p=398230</id>
-        <link href="https://www.lowyat.net/2026/398230/byd-malaysia-launch-denza-z9gt-15-july/"/>
-        <updated>2026-07-10T06:09:03.000Z</updated>
-        <summary type="html"><![CDATA[BYD Malaysia has announced that it will be launching the Denza Z9GT next week. More specifically, the car will debut on 15 July, marking not only its first appearance in the country, but also Asia Pacific in general. It’s got the performance that you’d expect from a car with GT in the name, but also […]
-The post BYD Malaysia To Launch Denza Z9GT On 15 July appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NACSA, Huawei Malaysia To Collaborate On AI Security, Digital Sovereignty]]></title>
-        <id>https://www.lowyat.net/?p=398245</id>
-        <link href="https://www.lowyat.net/2026/398245/nacsa-huawei-ai-security-sovereignty/"/>
-        <updated>2026-07-10T05:37:48.000Z</updated>
-        <summary type="html"><![CDATA[Huawei Malaysia has officially announced that it has signed a Memorandum of Understanding (MoU) with the National Cyber Security Agency (NACSA). The agreement aims to promote collaboration in Malaysia’s cyber security and cryptology initiatives, including cooperation in artificial intelligence (AI) security and digital sovereignty. The MoU was signed during the NACSA Cyber Security Summit (NCSS) […]
-The post NACSA, Huawei Malaysia To Collaborate On AI Security, Digital Sovereignty appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 10-Core Zen 6 Medusa Point APU Appears On Geekbench]]></title>
-        <id>https://www.lowyat.net/?p=398233</id>
-        <link href="https://www.lowyat.net/2026/398233/amd-10-core-zen-6-medusa-point-apu-appears-on-geekbench/"/>
-        <updated>2026-07-10T05:31:10.000Z</updated>
-        <summary type="html"><![CDATA[While AMD is expected to announce its next generation Zen 6 architecture next year – presumably at CES 2027 – some performance metrics of a 10-core Medusa Point APU have appeared on Geekbench. And from the looks of it, it’s looking promising. The Zen 6 sample, codenamed AMD Plum-MDS1, scored 3,174 on the single-core test […]
-The post AMD 10-Core Zen 6 Medusa Point APU Appears On Geekbench appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony RX10 V Officially Launches; Malaysian Pre-Order Available Soon]]></title>
-        <id>https://www.lowyat.net/?p=398232</id>
-        <link href="https://www.lowyat.net/2026/398232/sony-rx10-v-launch-malaysia/"/>
-        <updated>2026-07-10T04:38:43.000Z</updated>
-        <summary type="html"><![CDATA[After nearly eight years, Sony has finally introduced the successor to its popular bridge camera. The new RX10 V retains the versatile 24-600mm equivalent zoom lens that made its predecessor a favourite among professional photographers, while packing a host of upgrades in autofocus, video, and overall performance. Much like the RX10 IV from 2017, the […]
-The post Sony RX10 V Officially Launches; Malaysian Pre-Order Available Soon appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer Hammerhead V3 X HyperSpeed Gets Xbox, PlayStation Editions]]></title>
-        <id>https://www.lowyat.net/?p=398217</id>
-        <link href="https://www.lowyat.net/2026/398217/razer-hammerhead-v3-x-xbox-playstation/"/>
-        <updated>2026-07-10T04:14:39.000Z</updated>
-        <summary type="html"><![CDATA[Razer launched the Hammerhead V3 HyperSpeed wireless earbuds back in April, alongside its X model. As the X denotes, it’s usually a more budget-friendly option with some concessions made to bring its asking price down. Now, said budget-friendly model is getting non-limited special editions for the two primary console platforms, Xbox and PlayStation. That being […]
-The post Razer Hammerhead V3 X HyperSpeed Gets Xbox, PlayStation Editions appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
         </author>
     </entry>
     <entry>
