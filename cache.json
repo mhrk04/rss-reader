@@ -19294,6 +19294,86 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL.\n\nConfiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
+          "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+          "publishedOn": "2026-07-25T18:48:44.000Z",
+          "wordCount": null,
+          "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process.\n\nTracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
+          "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+          "publishedOn": "2026-07-25T12:52:43.000Z",
+          "wordCount": null,
+          "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1600/fastjson.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1600/fastjson.gif"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose.\n\nThat model is changing.\n\nRecent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting",
+          "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+          "publishedOn": "2026-07-25T10:14:21.000Z",
+          "wordCount": null,
+          "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH4zKTZ_Lk6D_VXZEKWwF1k02-iDwrNY9MH7zrX_sotEB_f9m7-qvQkAbfTvW5YQyBVlVdSS3D4_0ky60KOzTABlPuPKEpDXwpnWO3eTtud33d8oxf54HilW5EgDJPwo0ea4rktguzjfMBnRy0yLGch1l2vLdY4GnG12imJqBIdZzhYRb04XcVP67KaxPM/s1600/insuretrap.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH4zKTZ_Lk6D_VXZEKWwF1k02-iDwrNY9MH7zrX_sotEB_f9m7-qvQkAbfTvW5YQyBVlVdSS3D4_0ky60KOzTABlPuPKEpDXwpnWO3eTtud33d8oxf54HilW5EgDJPwo0ea4rktguzjfMBnRy0yLGch1l2vLdY4GnG12imJqBIdZzhYRb04XcVP67KaxPM/s1600/insuretrap.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign.\n\n\"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
+          "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+          "publishedOn": "2026-07-25T10:14:03.000Z",
+          "wordCount": null,
+          "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims.\n\nSwiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis.\n\n\"The portal combined build generation, finance,",
+          "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+          "publishedOn": "2026-07-25T09:53:41.000Z",
+          "wordCount": null,
+          "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server.\n\nAn ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction",
@@ -21084,54 +21164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and executes a native binary, one build each for Windows, macOS, and Linux.\n\nSocket flagged the release six minutes after it was published. If you or one of your",
-          "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-          "publishedOn": "2026-07-11T17:59:26.000Z",
-          "wordCount": null,
-          "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026.\n\n\"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and",
-          "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-          "publishedOn": "2026-07-11T17:49:31.000Z",
-          "wordCount": null,
-          "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.\n\nThe vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier.\n\n\"The",
-          "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-          "publishedOn": "2026-07-11T06:45:55.000Z",
-          "wordCount": null,
-          "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg"
         }
       ]
     },
@@ -21140,6 +21172,36 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=399737",
+          "author": "Nurul Kamil",
+          "description": "Rumours over the past few months have indicated that Xiaomi won’t be releasing an Ultra variant in its upcoming flagship smartphone lineup. Instead, the phone maker is supposedly planning to bring at least one of the Pro models to the global market. Now, recent reports suggest that the Xiaomi 18 Pro and Pro Max will […]\nThe post Xiaomi 18 Pro Series May Launch Globally With Secondary Display, New AI Button appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399737/xiaomi-18-pro-series-global/",
+          "publishedOn": "2026-07-26T06:38:38.000Z",
+          "wordCount": 15029,
+          "title": "Xiaomi 18 Pro Series May Launch Globally With Secondary Display, New AI Button",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/xiaomi-17-Pro-series-hands-on_11.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399734",
+          "author": "Ian Chee",
+          "description": "Google is set to launch the Pixel 11 family of phones next month. While there have been leaks making claims of some spec sheet items, including a possible RAM reduction, nothing has been said about its price so far. Granted, the common consensus is probably that the company will be raising prices with the usual […]\nThe post Google Executive Hints At Price Hikes For Pixel 11 Line appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399734/google-hints-price-hikes-pixel-11-line/",
+          "publishedOn": "2026-07-26T05:29:35.000Z",
+          "wordCount": 14832,
+          "title": "Google Executive Hints At Price Hikes For Pixel 11 Line",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/google-pixel-11-pro-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=399728",
+          "author": "John Law",
+          "description": "Two individuals in China recently made headlines after they were detained by local authorities for allegedly stealing 16 RAM modules from gaming PCs installed in hotel rooms. Not only that, but it is alleged that the duo had hit four Esports Hotels within that region. The case of the stolen RAM sticks reportedly occurred in […]\nThe post Multiple Esports Hotels In China Become Victim To RAM Theft appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/399728/multiple-esports-hotels-in-china-become-victim-to-ram-theft/",
+          "publishedOn": "2026-07-25T11:47:08.000Z",
+          "wordCount": 14852,
+          "title": "Multiple Esports Hotels In China Become Victim To RAM Theft",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Lexar-Ares-DDR5.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=399722",
           "author": "Ian Chee",
@@ -22309,36 +22371,6 @@
           "wordCount": 15239,
           "title": "Apple Sues OpenAI, Two Former Staffers For Stealing Trade Secrets",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/06/apple-store-trx-interior_IMG_1795.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=398333",
-          "author": "Heirul Kamel",
-          "description": "Just days after opening bookings for its inaugural Kuching-Kuala Lumpur jet service, AirBorneo has announced its first international route. The Sarawak-owned airline will begin daily flights between Kuching and Singapore on 22 July, with ticket sales opening this 13 July. Initially, the airline will operate two daily flights to Kuala Lumpur using wet-leased aircraft while […]\nThe post AirBorneo To Launch Kuching-Singapore Flights On 22 July appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/398333/airborneo-kuching-singapore-flights/",
-          "publishedOn": "2026-07-11T10:51:50.000Z",
-          "wordCount": 15273,
-          "title": "AirBorneo To Launch Kuching-Singapore Flights On 22 July",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/airborneo-opens-singapore-route-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=398325",
-          "author": "Ian Chee",
-          "description": "It’s time for another Razer collab, and this time it’s with Cinnamoroll, a Sanrio character to contrast the much more well-known Hello Kitty. On that note, this collaboration comes in the form of a special edition Kraken Kitty V2 BT headset, much like the Hello Kitty one from 2024. In the same vein, you can […]\nThe post The Razer Kraken Kitty V2 BT Cinnamoroll Edition Replaces Cat Ears With Droopy Ones appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/398325/razer-kraken-kitty-v2-bt-cinnamoroll/",
-          "publishedOn": "2026-07-11T07:38:12.000Z",
-          "wordCount": 15241,
-          "title": "The Razer Kraken Kitty V2 BT Cinnamoroll Edition Replaces Cat Ears With Droopy Ones",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Razer-Kraken-Kitty-V2-BT-Cinnamoroll-Edition.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=398320",
-          "author": "John Law",
-          "description": "Chinese courts recently ruled in favour of gamers in the country, allowing for multiple Chinese families to “inherit the game accounts of deceased relatives”. The cases were part of a drawn-out legal issue in China, which addresses the subject of digital ownership, long after the owner of said game account has passed. The news was […]\nThe post Chinese Gamers Allowed By Courts To Inherit Accounts Of Dead Gamer Relatives appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/398320/chinese-gamers-court-inheritance/",
-          "publishedOn": "2026-07-11T01:00:48.000Z",
-          "wordCount": 15466,
-          "title": "Chinese Gamers Allowed By Courts To Inherit Accounts Of Dead Gamer Relatives",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/ASUS-ROG-Xbox-Ally-X-21-1024x768.webp"
         }
       ]
     },
