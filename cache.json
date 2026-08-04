@@ -19294,6 +19294,118 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager.\n\n\"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the second",
+          "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+          "publishedOn": "2026-08-04T09:03:23.000Z",
+          "wordCount": null,
+          "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case of incomplete patching for CVE-2026-18556 (CVSS score: 8.2) that allows",
+          "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+          "publishedOn": "2026-08-04T07:00:13.000Z",
+          "wordCount": null,
+          "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments.\n\nOne of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
+          "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+          "publishedOn": "2026-08-03T18:43:53.000Z",
+          "wordCount": null,
+          "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.\n\nUnit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key",
+          "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+          "publishedOn": "2026-08-03T16:24:47.000Z",
+          "wordCount": null,
+          "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.\n\nIn a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
+          "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+          "publishedOn": "2026-08-03T16:15:13.000Z",
+          "wordCount": null,
+          "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.\n\nSome of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
+          "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+          "publishedOn": "2026-08-03T14:03:11.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value.\n\nWith so many new AI",
+          "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+          "publishedOn": "2026-08-03T11:30:00.000Z",
+          "wordCount": null,
+          "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit toolkit.\n\n\"",
@@ -21036,166 +21148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.\n\n\"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP",
-          "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-          "publishedOn": "2026-07-20T18:23:03.000Z",
-          "wordCount": null,
-          "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV.\n\nWhat makes it more than a",
-          "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-          "publishedOn": "2026-07-20T17:29:50.000Z",
-          "wordCount": null,
-          "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050.\n\nGroup-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks",
-          "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-          "publishedOn": "2026-07-20T14:33:43.000Z",
-          "wordCount": null,
-          "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch.\n\nHere is the full",
-          "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-          "publishedOn": "2026-07-20T13:32:26.000Z",
-          "wordCount": null,
-          "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s1600/cyberrecap.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s1600/cyberrecap.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops.\n\nThat is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence",
-          "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-          "publishedOn": "2026-07-20T12:13:39.000Z",
-          "wordCount": null,
-          "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnZdcdM-XJQ9tmIQw7h4gqSDABg-Ip1mzizMoR9zRcyQmaG7OGlQSp1ad0RsZSflsvdKVn0bs4EXdPthnHgiC76as_RVG-W7vZ88AHvJ2HhCLEaQOlNukhrTl6NSq6sgAHGiGUXemDrbZePvUDIi2oxWb60rRX5lkxA5bsFBJplBkaVQTZ5R0EjOrJTaQ/s1600/ip-camera-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnZdcdM-XJQ9tmIQw7h4gqSDABg-Ip1mzizMoR9zRcyQmaG7OGlQSp1ad0RsZSflsvdKVn0bs4EXdPthnHgiC76as_RVG-W7vZ88AHvJ2HhCLEaQOlNukhrTl6NSq6sgAHGiGUXemDrbZePvUDIi2oxWb60rRX5lkxA5bsFBJplBkaVQTZ5R0EjOrJTaQ/s1600/ip-camera-hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
-          "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-          "publishedOn": "2026-07-20T11:30:00.000Z",
-          "wordCount": null,
-          "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPz_r-By1h0xZL5FiBqJIALstL79CJXVbUweKybWr0EG7qKcLPYSo750ATDQjzd9tE6piMt4-TkFY4mT87Q58Jg_0jHMCveyydooFMjk5hKUk0jQA_Uxp6WamlMsFIjXcws2ighKsjC907P45OIhcimimpm-ECyQ_bq5erQ2MTvH7HGwzGgXrxQSIBBx0/s1600/xmcyber.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPz_r-By1h0xZL5FiBqJIALstL79CJXVbUweKybWr0EG7qKcLPYSo750ATDQjzd9tE6piMt4-TkFY4mT87Q58Jg_0jHMCveyydooFMjk5hKUk0jQA_Uxp6WamlMsFIjXcws2ighKsjC907P45OIhcimimpm-ECyQ_bq5erQ2MTvH7HGwzGgXrxQSIBBx0/s1600/xmcyber.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02.\n\nThe overflow lets an attacker \"execute code in the context of the current process,\" per the",
-          "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-          "publishedOn": "2026-07-20T09:10:56.000Z",
-          "wordCount": null,
-          "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential",
-          "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-          "publishedOn": "2026-07-20T09:07:11.000Z",
-          "wordCount": null,
-          "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected and responded to the incident targeting its production infrastructure earlier last week.\n\n\"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
-          "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-          "publishedOn": "2026-07-20T05:27:26.000Z",
-          "wordCount": null,
-          "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.\n\nThe rogue gems are listed below -\n\n\n  git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026\n  Dendreo (versions 1.1.3, 1.1.4) -",
-          "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-          "publishedOn": "2026-07-20T05:15:39.000Z",
-          "wordCount": null,
-          "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg"
         }
       ]
     },
@@ -21204,6 +21156,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=400510",
+          "author": "John Law",
+          "description": "Asus, Gigabyte, and MSI are rumoured to be preparing for another round of price hikes, but this time for motherboards. Word of the increase first swirled about on the Chinese forum, Board Channels, which is known for carrying news and rumours surrounding PC parts. An exact number has yet to be determined, but the forum […]\nThe post Motherboard Prices Expected To Increase By As Much As 50% In Q3 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400510/motherboard-prices-expected-to-increase-by-as-much-as-50-in-q3-2026/",
+          "publishedOn": "2026-08-04T10:42:48.000Z",
+          "wordCount": 14118,
+          "title": "Motherboard Prices Expected To Increase By As Much As 50% In Q3 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Gigabyte-X870E-Aero-X3D-Wood-1-1024x768.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400499",
+          "author": "Nurul Kamil",
+          "description": "Much like a smartphone or a PC, smart TVs are susceptible to security vulnerabilities. In one such instance, some apps on the Samsung smart TV platform have been found to have functions that could expose users’ internet connection to outsiders. That said, the South Korean tech giant has addressed the problem, confirming that it is […]\nThe post Samsung To Ban Smart TV Apps That Quietly Expose Users’ Internet Connections appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400499/samsung-smart-tv-apps-ban/",
+          "publishedOn": "2026-08-04T09:44:06.000Z",
+          "wordCount": 14110,
+          "title": "Samsung To Ban Smart TV Apps That Quietly Expose Users’ Internet Connections",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/Samsung-NEO-QLED-8K-TV-2025-6-1024x576.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400496",
+          "author": "John Law",
+          "description": "It’s being reported that some Lenovo Legion Go owners have encountered a problem in which their gaming handhelds are getting bricked, and that this happened right after it updated to the latest BIOS N3CN42WW. The update ends with the same result: the console shows a black screen while the light on the power button, controller […]\nThe post Some Lenovo Legion Go Owners Are Saying Their Handhelds Are Getting Bricked After A BIOS Update appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400496/lenovo-legion-go-bios-brick/",
+          "publishedOn": "2026-08-04T09:36:05.000Z",
+          "wordCount": 14132,
+          "title": "Some Lenovo Legion Go Owners Are Saying Their Handhelds Are Getting Bricked After A BIOS Update",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/11/Lenovo-Legion-Go-9.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400475",
+          "author": "Ian Chee",
+          "description": "Malaysia previously provided incentives to encourage electric vehicle (EV) adoption, including tax exemptions for four years. But it looks like the government is thinking of going in the opposite direction, in the name of expanding the public charging network. Bernama cites Investment, Trade and Industry Minister Johari Abdul Ghani as saying that the government is […]\nThe post Govt Considers EV Sales Levy To Fund Public Charging Network appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400475/govt-ev-sale-levy-fund-charging-network/",
+          "publishedOn": "2026-08-04T08:38:34.000Z",
+          "wordCount": 14087,
+          "title": "Govt Considers EV Sales Levy To Fund Public Charging Network",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/10/gentari-ev-charging-station-battery-solar.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400487",
+          "author": "Heirul Kamel",
+          "description": "Zeekr Malaysia has introduced expanded ownership benefits for its customers, including an extended warranty programme and complimentary electric vehicle health inspections across its authorised service centres nationwide. The initiatives come as the automaker marks 5,000 cumulative vehicle deliveries in the country, though it positions the new benefits primarily as measures to provide greater long-term ownership […]\nThe post Zeekr Malaysia Announces Extended Warranty, Free EV Health Checks For Owners appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400487/zeekr-malaysia-extended-warranty/",
+          "publishedOn": "2026-08-04T06:00:41.000Z",
+          "wordCount": 14207,
+          "title": "Zeekr Malaysia Announces Extended Warranty, Free EV Health Checks For Owners",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/04-Zeekr-Space-Sunway-City-Delivery-Bay.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400476",
+          "author": "Nurul Kamil",
+          "description": "Last month, Microsoft announced Xbox Backward Compatibility on PC, a programme which allows gamers to play classic Xbox titles across PC and handhelds. Now, it seems that the company is building on the idea. According to a report by The Verge, Microsoft is planning to bring Xbox 360 games to PC as well. This information […]\nThe post Microsoft Reportedly Bringing Xbox 360 Games To PC appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400476/microsoft-xbox-360-games-pc/",
+          "publishedOn": "2026-08-04T05:45:03.000Z",
+          "wordCount": 14117,
+          "title": "Microsoft Reportedly Bringing Xbox 360 Games To PC",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Microsoft-Unveils-Limited-Edition-Xbox-Series-X25-Console-4.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400466",
+          "author": "John Law",
+          "description": "German overclocker Roman Hartung, also known as der8auer, recently took it upon himself to see if an old myth of PC building and CPU cooling actually works: dissipating heat by way of a chimney-style heatsink. To that end, he actually built a really tall heatsink. To be precise, the myth isn’t anything new and is […]\nThe post der8auer Builds A Chimney-Style CPU Cooler To Dispel A Myth appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400466/der8auer-builds-a-chimney-style-cpu-cooler-to-dispel-a-myth/",
+          "publishedOn": "2026-08-04T05:37:39.000Z",
+          "wordCount": 14084,
+          "title": "der8auer Builds A Chimney-Style CPU Cooler To Dispel A Myth",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/der8auer-chimney-style-cooler-1-1240x698.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400470",
+          "author": "Ian Chee",
+          "description": "The Sony WH-1000XM6 comes in a lot of colour options, which is usually not the highlight of the product line. But the company has added one more to the list, complete with pre-order bonuses for this new colour variant. This new colourway is, oddly enough, called Olive Grey, and looks to be a mix of […]\nThe post Sony WH-1000XM6 Gets New Olive Grey Colour With Online Discounts appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400470/sony-wh-1000xm6-olive-grey-discounts/",
+          "publishedOn": "2026-08-04T05:05:35.000Z",
+          "wordCount": 14081,
+          "title": "Sony WH-1000XM6 Gets New Olive Grey Colour With Online Discounts",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Sony-WH-1000XM6-Olive-Grey-pre-order.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400467",
+          "author": "Heirul Kamel",
+          "description": "The Road Transport Department (JPJ) is facing renewed calls to address persistent technical problems with its MyJPJ app. According to a former Member of Parliament, the platform is failing to deliver the convenience expected from a digital public service. In a statement, former Tenom MP Datuk Raime Unggi said he had personally encountered problems while […]\nThe post JPJ Urged To Fix Persistent MyJPJ App Glitches appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400467/jpj-urged-to-fix-myjpj-glitches/",
+          "publishedOn": "2026-08-04T04:48:07.000Z",
+          "wordCount": 14037,
+          "title": "JPJ Urged To Fix Persistent MyJPJ App Glitches",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/6301043114788982925.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400450",
+          "author": "Nurul Kamil",
+          "description": "The HONOR Watch 6 first appeared on the SIRIM database back in May. Now, a few months later, the device has arrived on our shores as the latest addition to the brand’s smartwatch lineup. In terms of design, the wearable more closely resembles the Watch 5 Ultra than the vanilla Watch 5. It features a […]\nThe post HONOR Watch 6 Now Available In Malaysia With Longer 17-Day Battery Life appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400450/honor-watch-6-malaysia/",
+          "publishedOn": "2026-08-04T02:24:28.000Z",
+          "wordCount": 14111,
+          "title": "HONOR Watch 6 Now Available In Malaysia With Longer 17-Day Battery Life",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/honor-watch-6-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=400442",
           "author": "Ian Chee",
@@ -22363,106 +22415,6 @@
           "wordCount": 14883,
           "title": "CIMB Adds Apple Pay Support For Credit Cards",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/CIMB-Adds-Apple-Pay-Support-For-Credit-Card-3.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399088",
-          "author": "Ian Chee",
-          "description": "Smart Malaysia launched the #5 electric SUV at the tail end of last year. The EV was launched with two variants, the Premium and the Brabus, the latter being the one with higher performance figures as the name suggests. Today, the brand has announced that there’s a Laser Red limited edition paintjob for said Brabus […]\nThe post Smart #5 Gets RM10,000 Price Hike; Brabus Model Gets Laser Red Limited Edition appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399088/smart-5-rm10000-hike-brabus-laser-red/",
-          "publishedOn": "2026-07-20T10:57:51.000Z",
-          "wordCount": 14837,
-          "title": "Smart #5 Gets RM10,000 Price Hike; Brabus Model Gets Laser Red Limited Edition",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Smart-5-Brabus-Laser-Red-Edition.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399116",
-          "author": "Heirul Kamel",
-          "description": "Reto, the company behind Kodak-branded cameras such as the Charmera, has introduced a new analogue offering in the form of the Kodak EC35. Designed under licence from the established imaging brand, the new 35mm film camera aims to provide a straightforward shooting experience for beginners and casual users. Unlike more advanced film cameras, the EC35 […]\nThe post Kodak Unveils New EC35 Film Camera With Retro Sliding Lens Cover appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399116/kodak-unveils-new-ec35-film-camera/",
-          "publishedOn": "2026-07-20T10:52:13.000Z",
-          "wordCount": 14943,
-          "title": "Kodak Unveils New EC35 Film Camera With Retro Sliding Lens Cover",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/kodak-reto-ec35-4.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399104",
-          "author": "Kiran Ganesan",
-          "description": "If you may recall, Marshall introduced the Stockwell III to the international market back in June. Now, after more than a month, the company officially announced that its latest portable speaker will be available for purchase in Malaysia on 30 July. As we previously reported, the Stockwell III retains the same overall appearance as its […]\nThe post Marshall To Officially Launch Stockwell III In Malaysia On 30 July appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399104/marshall-stockwell-iii-malaysia-30-july/",
-          "publishedOn": "2026-07-20T10:41:10.000Z",
-          "wordCount": 14798,
-          "title": "Marshall To Officially Launch Stockwell III In Malaysia On 30 July",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Marshall-Stockwell-III-Malaysia-30-July-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399082",
-          "author": "John Law",
-          "description": "DIY modding and PC gaming usually go hand in hand, and if there’s one concept we’ve seen taken to the limit over and over, it’s hardcore DIY PC enthusiasts attempting to run systems on homemade power supplies. Enter the Uwos Lab, a self-proclaimed “mad scientist” YouTuber who decided (on a whim, we’re guessing) to build […]\nThe post Hardcore DIY Enthusiast Successfully Runs PC On A Powerbank Made Up Of 192 AA Batteries appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399082/diy-enthusiast-192-aa-batteries/",
-          "publishedOn": "2026-07-20T09:50:39.000Z",
-          "wordCount": 14994,
-          "title": "Hardcore DIY Enthusiast Successfully Runs PC On A Powerbank Made Up Of 192 AA Batteries",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Makeshift-Powerbank-192-AA-batteries-1-1240x934.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399089",
-          "author": "Nurul Kamil",
-          "description": "Over the weekend, Prime Minister Datuk Seri Anwar Ibrahim launched PMX.AI, which as the name suggests is an AI-powered digital twin. Available through WhatsApp, the AI avatar enables Malaysians to interact with a virtual version of the Prime Minister. However, not too long after its release, the chatbot has been temporarily taken offline. Users attempting […]\nThe post PMX.AI Taken Offline Shortly After Launch For System Upgrades appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399089/pmx-ai-offline-system-upgrades/",
-          "publishedOn": "2026-07-20T09:15:48.000Z",
-          "wordCount": 14855,
-          "title": "PMX.AI Taken Offline Shortly After Launch For System Upgrades",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/anwar-ibrahim-pmx-ai-whatsapp-chatbot-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399047",
-          "author": "Ian Chee",
-          "description": "Omoda & Jaecoo Malaysia announced over the weekend that it is opening bookings for the upcoming J5 EV ahead of its official launch. Because of that, there’s no exact price for the EV just yet. Instead, the company has provided an estimated price of RM125,000 instead. The company has also made the J5 EV available […]\nThe post Jaecoo J5 EV Now Available For Booking; Price Estimated at RM125,000 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399047/jaecoo-j5-ev-booking-estimated-rm125000/",
-          "publishedOn": "2026-07-20T08:44:53.000Z",
-          "wordCount": 14868,
-          "title": "Jaecoo J5 EV Now Available For Booking; Price Estimated at RM125,000",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Jaecoo-J5-EV.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399073",
-          "author": "John Law",
-          "description": "Remember when we reported on NVIDIA CEO Jensen Huang’s signed leather jacket being auctioned off at a starting bid of US$40,000 (~RM163,644)? Well, the auction at Sotheby’s has concluded, with the final bid reaching US$960,000 (~RM3,927,456). Let’s put that price in another context: for that amount, you could purchase about 240 GeForce RTX 5090 GPUs. […]\nThe post NVIDIA’s Jensen Huang’s Leather Jacket Has Been Auctioned Off For Nearly US$1 Million appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399073/nvidias-jensen-huangs-leather-jacket-has-been-auctioned-off-for-nearly-us1-million/",
-          "publishedOn": "2026-07-20T08:04:10.000Z",
-          "wordCount": 14776,
-          "title": "NVIDIA’s Jensen Huang’s Leather Jacket Has Been Auctioned Off For Nearly US$1 Million",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/NVIDIA-Blue-Newton-Engine-2-1024x640.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399074",
-          "author": "Kiran Ganesan",
-          "description": "The 2026 FIFA World Cup has just concluded, but some countries are already vying for the chance to host football’s biggest tournament. While most of the interest has come from Europe, Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi believes Malaysia should also aspire to stage the prestigious event one day. Zahid Hamidi also […]\nThe post Zahid Hamidi Wants Malaysia To Host The FIFA World Cup One Day  appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399074/zahid-hamidi-want-malaysia-world-cup/",
-          "publishedOn": "2026-07-20T07:59:58.000Z",
-          "wordCount": 14894,
-          "title": "Zahid Hamidi Wants Malaysia To Host The FIFA World Cup One Day",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Zahid-Hamidi-Wants-Malaysia-To-Host-The-FIFA-World-Cup-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399056",
-          "author": "John Law",
-          "description": "Since its unveiling during Computex 2026, details about the NVIDIA RTX Spark have been far and few, and even our brief time with the laptops powered by the ARM-based chipset yielded little information about its technical specs. That is, until recently. Posted on the TPU forums by user Fouquin, they shared a Cinebench 2026 screenshot […]\nThe post NVIDIA RTX Spark In Microsoft Surface Laptop Ultra Appears On Cinebench 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399056/nvidia-rtx-spark-in-microsoft-surface-laptop-ultra-appears-on-cinebench-2026/",
-          "publishedOn": "2026-07-20T06:19:14.000Z",
-          "wordCount": 14929,
-          "title": "NVIDIA RTX Spark In Microsoft Surface Laptop Ultra Appears On Cinebench 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/NVIDIA-RTX-Spark-Demo-Session-Computex-2026-5-1240x931.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399057",
-          "author": "Nurul Kamil",
-          "description": "The HONOR Robot Phone has made several public appearances over the past few months, with the most recent showcase taking place at the World Artificial Intelligence Conference (WAIC) 2026. During the event, the company opened pre-orders for the handset in China, indicating that a commercial launch is imminent. Although the brand has yet to reveal […]\nThe post HONOR Opens Robot Phone Pre-Orders In China Ahead Of August Launch appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399057/honor-robot-phone-pre-orders-china/",
-          "publishedOn": "2026-07-20T06:13:47.000Z",
-          "wordCount": 14873,
-          "title": "HONOR Opens Robot Phone Pre-Orders In China Ahead Of August Launch",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/honor-robot-phone-1.webp"
         }
       ]
     },
@@ -22471,6 +22423,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
+          "author": "Nate Nelson",
+          "description": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
+          "link": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
+          "publishedOn": "2026-08-04T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
+          "author": "Alexander Culafi",
+          "description": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
+          "publishedOn": "2026-08-03T21:21:11.000Z",
+          "wordCount": null,
+          "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
+          "author": "Arielle Waldman",
+          "description": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.",
+          "link": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
+          "publishedOn": "2026-08-03T20:42:28.000Z",
+          "wordCount": null,
+          "title": "New Tool Traces AI Videos Back to Their Source",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
+          "author": "Jai Vijayan",
+          "description": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
+          "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
+          "publishedOn": "2026-08-03T20:31:12.000Z",
+          "wordCount": null,
+          "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
+          "author": "Elizabeth Montalbano",
+          "description": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
+          "publishedOn": "2026-08-03T15:42:18.000Z",
+          "wordCount": null,
+          "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
+          "author": "Dirk Schrader",
+          "description": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
+          "publishedOn": "2026-08-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Is There Really a Fix for CISO Fatigue?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
           "author": "Nate Nelson",
@@ -22939,66 +22951,6 @@
           "publishedOn": "2026-07-21T13:00:00.000Z",
           "wordCount": null,
           "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
-          "author": "Jai Vijayan",
-          "description": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
-          "publishedOn": "2026-07-20T21:38:18.000Z",
-          "wordCount": null,
-          "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
-          "author": "Rob Wright",
-          "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
-          "publishedOn": "2026-07-20T20:26:56.000Z",
-          "wordCount": null,
-          "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
-          "author": "Marc Maiffret, James Maude, Dennis Fisher",
-          "description": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
-          "publishedOn": "2026-07-20T19:32:04.000Z",
-          "wordCount": null,
-          "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
-          "author": "Robert Lemos",
-          "description": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
-          "publishedOn": "2026-07-20T19:07:01.000Z",
-          "wordCount": null,
-          "title": "CISOs Feel the Heat Over AI Risk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-          "author": "Elizabeth Montalbano",
-          "description": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
-          "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-          "publishedOn": "2026-07-20T18:30:22.000Z",
-          "wordCount": null,
-          "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-          "author": "Olga Polishchuk",
-          "description": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
-          "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-          "publishedOn": "2026-07-20T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Cybersecurity Keeps Events 'Uneventful'",
           "imageUrl": null
         }
       ]
