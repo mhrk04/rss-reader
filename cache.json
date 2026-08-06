@@ -19294,6 +19294,262 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and ran commands from inside the database engine.\n\nHuntress, which tracks the toolkit as khunt,",
+          "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+          "publishedOn": "2026-08-06T09:19:23.000Z",
+          "wordCount": null,
+          "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1600/oracle-root.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1600/oracle-root.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them.\n\nIn several of the attack paths, the model never ran at all, so system prompts, content filters, and model-level guardrails never got a chance to intervene.\n\nThe affected products include Amazon",
+          "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+          "publishedOn": "2026-08-06T08:57:30.000Z",
+          "wordCount": null,
+          "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNMtOKfZBxSDQ1928IVtFay3f8_6go4rnTY6yFaQYCzAdGt3e6uBkZfZkoFtHbS_cEbTCri3ZNVVO7BbuvoVpjGCLSpdphneotNbiXRT3vciQT6dzPa0K81_ee8Al2rxx7GlT5qTS3_B2MKjCCUcHut1pdIeqaLBRjoD5ZqttMcHxZ5AwKea3eL-wruta7/s1600/agent-sdk.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNMtOKfZBxSDQ1928IVtFay3f8_6go4rnTY6yFaQYCzAdGt3e6uBkZfZkoFtHbS_cEbTCri3ZNVVO7BbuvoVpjGCLSpdphneotNbiXRT3vciQT6dzPa0K81_ee8Al2rxx7GlT5qTS3_B2MKjCCUcHut1pdIeqaLBRjoD5ZqttMcHxZ5AwKea3eL-wruta7/s1600/agent-sdk.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink.\n\nAccording to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The backdoors are designed such that they start automatically and attempt to beacon to Chinese",
+          "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+          "publishedOn": "2026-08-06T08:05:22.000Z",
+          "wordCount": null,
+          "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3VqhMa79pNymspvzHhSpHG4HCDAGn4nAD-7ZwQgDuSOELhM0xxHASqfnd2ThEv8XJ0tM58bPsGPHcobfoaEEWW4Am9H-Wd9bpb-QqYRQfFcFKrvbLjwEGYu0VfIAclBcVn9PpMWS02ZAtOa7hhwg8e45cYcgYYX0C1_yQptZh7-ZvqFHpf-9uqq5csbCj/s1600/router-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3VqhMa79pNymspvzHhSpHG4HCDAGn4nAD-7ZwQgDuSOELhM0xxHASqfnd2ThEv8XJ0tM58bPsGPHcobfoaEEWW4Am9H-Wd9bpb-QqYRQfFcFKrvbLjwEGYu0VfIAclBcVn9PpMWS02ZAtOa7hhwg8e45cYcgYYX0C1_yQptZh7-ZvqFHpf-9uqq5csbCj/s1600/router-hacking.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021.\n\nBetween 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in California, New York and Nebraska, and others abroad, according to the Justice Department.",
+          "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+          "publishedOn": "2026-08-06T07:19:54.000Z",
+          "wordCount": null,
+          "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsIRDdzzjtJRcq3kiouQy7I8wwCFvWIKA5VHAKEVdGC2OJL3WCGnKPZUvAHUi-Jrz9yLN5pfTtS0QI8MRUuSbGOlbg_3jNktHGZSb4wsOKvjcwehZYqL671hB0UgjVjUPnKju5QFDO4BXhjePhJuvGDw_mJs1scXXI_veItNxCej7uEwjKfTHzc9Nkm90/s1600/Ransom-Cartel.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsIRDdzzjtJRcq3kiouQy7I8wwCFvWIKA5VHAKEVdGC2OJL3WCGnKPZUvAHUi-Jrz9yLN5pfTtS0QI8MRUuSbGOlbg_3jNktHGZSb4wsOKvjcwehZYqL671hB0UgjVjUPnKju5QFDO4BXhjePhJuvGDw_mJs1scXXI_veItNxCej7uEwjKfTHzc9Nkm90/s1600/Ransom-Cartel.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA).\n\nThe vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserialization of untrusted data that could allow an unauthenticated attacker with access to a TeamCity server",
+          "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+          "publishedOn": "2026-08-06T06:51:43.000Z",
+          "wordCount": null,
+          "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts.\n\nThe intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario, personally took at least $495,000 from",
+          "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+          "publishedOn": "2026-08-06T06:04:30.000Z",
+          "wordCount": null,
+          "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks.\n\nThe server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
+          "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+          "publishedOn": "2026-08-05T18:44:31.000Z",
+          "wordCount": null,
+          "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes.\n\nTo that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive",
+          "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+          "publishedOn": "2026-08-05T18:33:47.000Z",
+          "wordCount": null,
+          "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.\n\nOne such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6.\n\n\"Advertisements for Poison Claude",
+          "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+          "publishedOn": "2026-08-05T15:36:03.000Z",
+          "wordCount": null,
+          "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3V9f5UsiH1E6dHfRvy0DEOYvcK14BatMbbLVfdPjLbu3PMInRmVXDi4xoGw-pSIuxUjZS1rdv4X7N1V9xRoV9RRVfaYdAWI6OTxKZzOhAlHYh6dKZNeAWCPkaPdGAvwgcOwFQ0atoRBUxKfE_KfhJpnm1yV1tXr5_Wv2yqND0vZCMMEfRB0V220SZbne/s1600/ai-access.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3V9f5UsiH1E6dHfRvy0DEOYvcK14BatMbbLVfdPjLbu3PMInRmVXDi4xoGw-pSIuxUjZS1rdv4X7N1V9xRoV9RRVfaYdAWI6OTxKZzOhAlHYh6dKZNeAWCPkaPdGAvwgcOwFQ0atoRBUxKfE_KfhJpnm1yV1tXr5_Wv2yqND0vZCMMEfRB0V220SZbne/s1600/ai-access.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it.\n\nA third flaw could expose sensitive data and control-plane details through application programming interface (API) routes",
+          "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+          "publishedOn": "2026-08-05T15:14:05.000Z",
+          "wordCount": null,
+          "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNyDWyCEMrA99LxVQMqKNr188rBBjKa6Kg3nHdjVLxWCCVgfqa0cChHo_JWbHgbSLHgZVpcgWn0kw0FUySWhScczQi6LNme-wY9rkUAxE-IvoFLvfum-zWxEnppDBu6bAHBO0ObN39kCDwSK4jnsqdCAOhCPGG0FtoLX_2vvCi2DcoWPmzGUk6Hs_gB4/s1600/paperclipai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNyDWyCEMrA99LxVQMqKNr188rBBjKa6Kg3nHdjVLxWCCVgfqa0cChHo_JWbHgbSLHgZVpcgWn0kw0FUySWhScczQi6LNme-wY9rkUAxE-IvoFLvfum-zWxEnppDBu6bAHBO0ObN39kCDwSK4jnsqdCAOhCPGG0FtoLX_2vvCi2DcoWPmzGUk6Hs_gB4/s1600/paperclipai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5\n  A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'",
+          "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+          "publishedOn": "2026-08-05T14:27:30.000Z",
+          "wordCount": null,
+          "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer.\n\nThe new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
+          "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+          "publishedOn": "2026-08-05T13:41:27.000Z",
+          "wordCount": null,
+          "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1600/npm-c2.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1600/npm-c2.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds.\n\nThe vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim",
+          "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+          "publishedOn": "2026-08-05T11:43:27.000Z",
+          "wordCount": null,
+          "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,",
+          "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+          "publishedOn": "2026-08-05T11:43:19.000Z",
+          "wordCount": null,
+          "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1.\n\nThe file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its",
+          "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+          "publishedOn": "2026-08-05T11:04:23.000Z",
+          "wordCount": null,
+          "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.\n\nWe scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896",
+          "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+          "publishedOn": "2026-08-05T10:35:29.000Z",
+          "wordCount": null,
+          "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif"
+        },
+        {
           "id": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed.\n\nThe \"evil twin\" extensions were uploaded to the repository between July 26 and August 1, 2026, according to Manifold Security. The packages have been removed from Open VSX as of",
@@ -20956,166 +21212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more.\n\nReports filed before that date, including those already in GitHub's growing triage queue, will retain the previous payout terms.\n\nGitHub said the",
-          "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-          "publishedOn": "2026-07-22T18:37:42.000Z",
-          "wordCount": null,
-          "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_hf7CZEiSANTI34m9Js55tSVk79YZVYvTHW2LwHyOCuvdK-9KWDu3R3eKJDlYJucrv7cUuf7ogDSakCE53IJ56483ktg8xGepMnB6NUGokxPqDsXEuIRXV3R_-d32GgrNI19Y-TrxvVAR3bnOlfgvcDVZYBGs-j5p-VouykZ517zpJ5kUOhtIf6R2sL3/s1600/github-bugbounty.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_hf7CZEiSANTI34m9Js55tSVk79YZVYvTHW2LwHyOCuvdK-9KWDu3R3eKJDlYJucrv7cUuf7ogDSakCE53IJ56483ktg8xGepMnB6NUGokxPqDsXEuIRXV3R_-d32GgrNI19Y-TrxvVAR3bnOlfgvcDVZYBGs-j5p-VouykZ517zpJ5kUOhtIf6R2sL3/s1600/github-bugbounty.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment.\n\nThe high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.10, and 26.04. The disclosure comes as",
-          "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-          "publishedOn": "2026-07-22T18:07:16.000Z",
-          "wordCount": null,
-          "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNwrZh7WuJhViXJ0c2i53cRV82jkdqS1FS9vHeNyOd19AITMQIA03JOnpqLyp7eHJoqa8L_V-eimCMZQNyba09AUvDHQ_n1NdAzmMFOg5FPp7gSymlqtjMcJ5UdyHRtK67wQ9hhusynzExbC9AWstVxaR9koev6e0PhySMPElKOFVwmge25lODZfyQkVD/s1600/ubuntu.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNwrZh7WuJhViXJ0c2i53cRV82jkdqS1FS9vHeNyOd19AITMQIA03JOnpqLyp7eHJoqa8L_V-eimCMZQNyba09AUvDHQ_n1NdAzmMFOg5FPp7gSymlqtjMcJ5UdyHRtK67wQ9hhusynzExbC9AWstVxaR9koev6e0PhySMPElKOFVwmge25lODZfyQkVD/s1600/ubuntu.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data.\n\nThe shortcoming has been codenamed HermeticReader by Guardio Labs. It's officially tracked as CVE-2026-48294 (CVSS score: 7.4), with the vulnerability",
-          "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-          "publishedOn": "2026-07-22T15:01:21.000Z",
-          "wordCount": null,
-          "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf4tAo-p42ED3dQRVz6O7qldcTuY-ztwtPbNnnJFBHd-yJDm2dJmYNPtprB3IFhF9-7xExM_6jzqElcEotSZPEXwVYoiqG7Wh6isEjRAZkqzIyL4TYXUL3pK8hp53PdCHotDcUAZ9LVCJLDPX3PPZqDKIaFDlTnB5MbaRH0-ohMCzBAmdRDC_E6O5rGUtd/s1600/adobe.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf4tAo-p42ED3dQRVz6O7qldcTuY-ztwtPbNnnJFBHd-yJDm2dJmYNPtprB3IFhF9-7xExM_6jzqElcEotSZPEXwVYoiqG7Wh6isEjRAZkqzIyL4TYXUL3pK8hp53PdCHotDcUAZ9LVCJLDPX3PPZqDKIaFDlTnB5MbaRH0-ohMCzBAmdRDC_E6O5rGUtd/s1600/adobe.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path traversal impacting Windmill's \"get_log_file\" endpoint (\"/api/w/{workspace}/jobs_u/get_log_file/{filename}\").\n\n\"The filename parameter is concatenated into",
-          "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-          "publishedOn": "2026-07-22T12:36:36.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnFuvwtbu7JlyR-HJX7Eyz41wIZYMuzDLiZ1XlV2ipWOE-d2aPRZkYZn8nCWJynhewu3iTAR8H15UaKqmeAMkb85_m2NpSjRyaNlp6gTgKwswcVtwzjQ8A6pQXESU-AIwRUf6qUkeVDewHfGovPjgN0lKC2lHBb3dkSJGs3NYhmv5_QawPER0P4xFGpHf/s1600/git.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnFuvwtbu7JlyR-HJX7Eyz41wIZYMuzDLiZ1XlV2ipWOE-d2aPRZkYZn8nCWJynhewu3iTAR8H15UaKqmeAMkb85_m2NpSjRyaNlp6gTgKwswcVtwzjQ8A6pQXESU-AIwRUf6qUkeVDewHfGovPjgN0lKC2lHBb3dkSJGs3NYhmv5_QawPER0P4xFGpHf/s1600/git.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned.\n\nAccording to McKinsey's State of AI report, 76 percent of employees now use AI in some capacity at work, up from 55",
-          "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-          "publishedOn": "2026-07-22T11:58:00.000Z",
-          "wordCount": null,
-          "title": "The Fastest Path to AI Adoption Runs Through Security",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely.\n\nThe CrowdStrike Global Threat Report estimates around 79% of attacks are malware-free, as threat actors rely on",
-          "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-          "publishedOn": "2026-07-22T11:25:35.000Z",
-          "wordCount": null,
-          "title": "Why Modern SOCs Need Multi-Layered Detections",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_BCT5VYzHAi2ZYmYF84NAe3JitSR-U0uk4JZeuJf-hgHgwMXRj1_44z0DfwmtHqFZMxeEYGHR4AlvuIe-_4oAGvQlVnCm9peV1-H0nZ__XbPIcKlz_7RxoPuR7C2IMBZ7B27ABzkk9Zv08DOaKAefwt72n8H0WBP8Z8TBajQwEzBt10hFwE3-70o0A5V/s1600/corelight.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_BCT5VYzHAi2ZYmYF84NAe3JitSR-U0uk4JZeuJf-hgHgwMXRj1_44z0DfwmtHqFZMxeEYGHR4AlvuIe-_4oAGvQlVnCm9peV1-H0nZ__XbPIcKlz_7RxoPuR7C2IMBZ7B27ABzkk9Zv08DOaKAefwt72n8H0WBP8Z8TBajQwEzBt10hFwE3-70o0A5V/s1600/corelight.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it.\n\nIn a joint announcement on Monday, the Frankfurt public prosecutor's cybercrime unit (ZIT) and Germany's Federal Criminal Police Office (BKA)",
-          "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-          "publishedOn": "2026-07-22T06:38:45.000Z",
-          "wordCount": null,
-          "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain.\n\nThe package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Json library and is a trojanized fork. Seven versions of the package have been published to the",
-          "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-          "publishedOn": "2026-07-22T06:00:06.000Z",
-          "wordCount": null,
-          "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds.\n\nThe flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
-          "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-          "publishedOn": "2026-07-22T04:57:52.000Z",
-          "wordCount": null,
-          "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week.\n\nThe AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
-          "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-          "publishedOn": "2026-07-22T04:18:33.000Z",
-          "wordCount": null,
-          "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
         }
       ]
     },
@@ -21124,6 +21220,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=400733",
+          "author": "Ian Chee",
+          "description": "Sony has already told investors that it’s not backing down from the decision to end physical game discs for the PlayStation consoles. Since the decision is about as set in stone as it can get, it looks like the company is now allocating some resources to get the word out to every potential buyer of […]\nThe post Some PS5 Boxes Warn Buyers That Discs Will Be Gone In 2028 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400733/ps5-boxes-warn-buyers-discs-gone-2028/",
+          "publishedOn": "2026-08-06T10:16:44.000Z",
+          "wordCount": 14131,
+          "title": "Some PS5 Boxes Warn Buyers That Discs Will Be Gone In 2028",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/PlayStation-5-disc-drive.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400755",
+          "author": "John Law",
+          "description": "As the Steam Machine slowly gains traction — not here, for obvious reasons that we’ve mentioned before — and during its launch, one customisable aesthetic Valve promised owners of its console-like PC the ability to make custom faceplates for it. Well, one owner and Redditor has taken that promise to the task and created a […]\nThe post Redditor Builds Steam Machine Face Plate That Doubles As Magnetic Steam Controller Charging Dock appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400755/redditor-builds-steam-machine-face-plate-that-doubles-as-magnetic-steam-controller-charging-dock/",
+          "publishedOn": "2026-08-06T10:03:35.000Z",
+          "wordCount": 14138,
+          "title": "Redditor Builds Steam Machine Face Plate That Doubles As Magnetic Steam Controller Charging Dock",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Steam-Machine-Docking-Faceplate-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400744",
+          "author": "Nurul Kamil",
+          "description": "At this point, you’ve probably heard that Insta360 is planning to launch a follow-up to last year’s X5. The X6 was the star of multiple leaks over the course of July, revealing almost all there is to know about the action camera. Now, the brand has confirmed the launch date for the device, and it’s […]\nThe post Insta360 X6 Confirmed To Launch On 12 August 2026 With 1-Inch Sensors appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400744/insta360-x6-launch/",
+          "publishedOn": "2026-08-06T09:04:52.000Z",
+          "wordCount": 14103,
+          "title": "Insta360 X6 Confirmed To Launch On 12 August 2026 With 1-Inch Sensors",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/insta360-x6-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400695",
+          "author": "John Law",
+          "description": "Samsung Malaysia is officially launching two new Odyssey G8 Series gaming monitors. These monitors are the Odyssey G8, G80HS, and G80HF. G8 G80HS Starting with the Odyssey G8 G80HS, this gaming monitor features a 32-inch monitor but instead of 4K resolution, it is the first Odyssey monitor to feature 6K (6,144 x 3,456) resolution. Other […]\nThe post Samsung Launches New Odyssey G8 Series Gaming Monitor appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400695/samsung-launches-new-odyssey-g8-series-gaming-monitor/",
+          "publishedOn": "2026-08-06T08:46:47.000Z",
+          "wordCount": 14103,
+          "title": "Samsung Launches New Odyssey G8 Series Gaming Monitor",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Samsung-Odyssey-G8-2026-Series-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400739",
+          "author": "Heirul Kamel",
+          "description": "MBSB has recently added Samsung Wallet and Google Pay support for its Visa Debit Card-i. This enables customers to make contactless payments using eligible Android devices without needing to carry their physical card. The bank said the move reflects the growing adoption of digital payments in Malaysia, with electronic payment transactions rising 25% to 18.4 […]\nThe post MBSB Adds Samsung Wallet And Google Pay Support For Visa Debit Card-i appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400739/mbsb-samsung-wallet-google-pay/",
+          "publishedOn": "2026-08-06T08:25:15.000Z",
+          "wordCount": 14220,
+          "title": "MBSB Adds Samsung Wallet And Google Pay Support For Visa Debit Card-i",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/mbsb-samsung-wallet-google-pay-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400731",
+          "author": "Kiran Ganesan",
+          "description": "Microsoft appears to be doubling down on backwards compatibility for its next-generation Xbox console. Following earlier reports that the company is working to bring Xbox and Xbox 360 games to Windows PCs, a newly leaked internal memo obtained by The Verge suggests that its next console, codenamed Project Helix, could take that effort even further. […]\nThe post Project Helix Could Support Every Xbox Game Ever Made, According To Leaked Documents appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400731/project-helix-support-every-xbox-game/",
+          "publishedOn": "2026-08-06T07:55:28.000Z",
+          "wordCount": 14316,
+          "title": "Project Helix Could Support Every Xbox Game Ever Made, According To Leaked Documents",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/New-Xbox-Logo.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400726",
+          "author": "Ian Chee",
+          "description": "Last month, the Redmi 17 made a couple of appearances in SIRIM. The first to show up was the 5G model, with the 4G version appearing at the end of the month. Now, both are available on Shopee, listed by the Xiaomi Official Store. The former even comes with two storage options, bringing the total […]\nThe post Redmi 17 Now Available In Malaysia; Prices Start From RM699 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400726/redmi-17-available-malaysia-from-rm699/",
+          "publishedOn": "2026-08-06T07:39:49.000Z",
+          "wordCount": 14072,
+          "title": "Redmi 17 Now Available In Malaysia; Prices Start From RM699",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Redmi-17-5G.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400717",
+          "author": "Nurul Kamil",
+          "description": "Those looking to dabble in AI-assisted coding already have a lot of options when it comes to tools and agents, such as Anthropic’s Claude Code and OpenAI’s Codex. Now, Meta is throwing its hat into the ring with its first AI coding agent. The company has launched an early beta of Muse Code, a terminal-based […]\nThe post Meta Takes On Anthropic And OpenAI With Muse Code, Its First AI Coding Agent appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400717/meta-muse-code/",
+          "publishedOn": "2026-08-06T07:15:17.000Z",
+          "wordCount": 14151,
+          "title": "Meta Takes On Anthropic And OpenAI With Muse Code, Its First AI Coding Agent",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/meta-muse-code-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400691",
+          "author": "Ian Chee",
+          "description": "Back in September last year, BMW announced the iX3 50 xDrive electric SUV, the first of its cars that’s part of the Neue Klasse (New Class in German) portfolio. Now, the car has made its way to our shores, and it looks like it also picked up the M Sport Pro tag on its way […]\nThe post BMW Malaysia Launches iX3 50 xDrive M Sport Pro appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400691/bmw-ix3-50-xdrive-m-sport-pro-malaysia/",
+          "publishedOn": "2026-08-06T06:25:20.000Z",
+          "wordCount": 14279,
+          "title": "BMW Malaysia Launches iX3 50 xDrive M Sport Pro",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/BMW-iX3-50-xDrive-M-Sport-Pro.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=400689",
+          "author": "John Law",
+          "description": "A PC gamer recently shared their tale of how Asus recently cancelled their order of an ROG Astral RTX 5090, for which they paid US4,607 (~RM18,842) in full. Then, to add insult to injury, it tried to charge him US$5,090 (~RM20,818) for the card, nearly RM2,000 more than what the original buyer paid. As the […]\nThe post Asus Cancelled A Customer’s ROG Astral RTX 5090 Order Despite Them Having Already Paid For It appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/400689/asus-rog-astral-rtx-5090-cancel/",
+          "publishedOn": "2026-08-06T05:58:06.000Z",
+          "wordCount": 14285,
+          "title": "Asus Cancelled A Customer’s ROG Astral RTX 5090 Order Despite Them Having Already Paid For It",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/ASUS-ROG-Astral-RTX-5080-White-2-1240x930.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=400637",
           "author": "Kiran Ganesan",
@@ -22283,96 +22479,6 @@
           "wordCount": 14865,
           "title": "New Google Pixel Watch 5 Leak Suggests No Chip Upgrade, But More RAM",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/google-pixel-watch-5-leak-1-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399320",
-          "author": "John Law",
-          "description": "XGIMI, the China-based projector brand, has officially set up shop in Malaysia. To commemorate the launch of the projectors, the brand has introduced five projector models, though two are technically considered hero products. The projectors are the Vibe One; the Elfin Flip Plus; the MoGo 4 Series; the Aura 2; and the Horizon 20 Series. […]\nThe post XGIMI Officially Enters The Malaysian Market With Its Projector Lineup appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399320/xgimi-official-malaysia/",
-          "publishedOn": "2026-07-22T08:29:36.000Z",
-          "wordCount": 14978,
-          "title": "XGIMI Officially Enters The Malaysian Market With Its Projector Lineup",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/XGIMI-1-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399327",
-          "author": "Kiran Ganesan",
-          "description": "The Malaysian government is proposing harsher penalties for motorists who continue driving despite having their licences suspended or revoked. Under the Road Transport (Amendment) Bill 2026, offenders could face up to three years’ imprisonment if found guilty. The proposed change comes through an amendment to Section 32 of the Road Transport Act 1987 (Act 333). […]\nThe post Driving With Suspended Licence Could Mean Up To Three Years In Jail Under New Bill appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399327/driving-suspended-licence-jail-new-bill/",
-          "publishedOn": "2026-07-22T07:43:42.000Z",
-          "wordCount": 14792,
-          "title": "Driving With Suspended Licence Could Mean Up To Three Years In Jail Under New Bill",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/08/driving-licence.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399321",
-          "author": "Heirul Kamel",
-          "description": "The Malaysian authorities have moved against Network School, a private technology-focused commune operating in Forest City, Johor, after it sparked controversy over allegations involving Israeli nationals and non-compliance with licensing requirements. Earlier today, the Iskandar Puteri City Council (MBIP) officially shut down and sealed the organisation’s premises, while the Malaysia Digital Economy Corporation (MDEC) announced […]\nThe post Authorities Seizes Network School Premises In Forest City appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399321/authorities-seizes-network-school-forest-city/",
-          "publishedOn": "2026-07-22T07:02:26.000Z",
-          "wordCount": 15127,
-          "title": "Authorities Seizes Network School Premises In Forest City",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/network-school-forest-city-binance-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399308",
-          "author": "Ian Chee",
-          "description": "It was quite a while ago when Razer first announced the V3 edition of its Seiren microphone. Following the launch of the Pro model last month, the videogames peripheral company decided that the baseline model needed an upgrade. This brings us to the Razer Seiren V3 Chroma 32-Bit DSP, with the upgrade in question being […]\nThe post Razer Announces Seiren V3 Chroma 32-Bit DSP; Upgrading The Original V3 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399308/razer-seiren-v3-chroma-32-bit-dsp/",
-          "publishedOn": "2026-07-22T06:26:07.000Z",
-          "wordCount": 14832,
-          "title": "Razer Announces Seiren V3 Chroma 32-Bit DSP; Upgrading The Original V3",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Razer-Seiren-V3-Chroma-32-Bit-DSP.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399294",
-          "author": "Nurul Kamil",
-          "description": "Garmin has officially announced its first screenless fitness tracker. The CIRQA is the brand’s answer to products like Google’s Fitbit Air, promising distraction-free round-the-clock health monitoring. Its discreet and inconspicuous design makes it suitable for users who want to maintain healthy lifestyles without the hassle of an additional display. The device features a fibre-reinforced polymer […]\nThe post Garmin CIRQA Officially Launched As The Brand’s First Screenless Fitness Tracker appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399294/garmin-cirqa-screenless-fitness-tracker/",
-          "publishedOn": "2026-07-22T05:28:34.000Z",
-          "wordCount": 14933,
-          "title": "Garmin CIRQA Officially Launched As The Brand’s First Screenless Fitness Tracker",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/garmin-cirqa-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399288",
-          "author": "Ian Chee",
-          "description": "Thanks to the very controversial announcement that PlayStation made to kick off July, we’ve had a lot of data making it to the surface. As you’d expect, these are used to make sense of, or even justify, the decision to kill physical discs for videogames from 2028 onwards. And because the data indicates as such, […]\nThe post Videogames Going Digital: A Trend Of The Times Or A Self-Fulfilling Prophecy? appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399288/videogames-digital-trend-or-not/",
-          "publishedOn": "2026-07-22T05:09:19.000Z",
-          "wordCount": 15559,
-          "title": "Videogames Going Digital: A Trend Of The Times Or A Self-Fulfilling Prophecy?",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/PS4-videogames-generic-stock.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399280",
-          "author": "Kiran Ganesan",
-          "description": "Purchasing semiconductor products amidst the ongoing supply crunch is already proving to be a challenge. Unfortunately, it seems things could soon get even more expensive, as a recent report says that Taiwan Semiconductor Manufacturing Company (TSMC) is planning to raise its prices by up to 10% starting next year. The move is reportedly aimed at […]\nThe post TSMC Raising Chipmaking Prices By Up To 10% In 2027; Devices May Get More Expensive appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399280/tsmc-raise-chipmaking-prices-by-10-2027/",
-          "publishedOn": "2026-07-22T04:28:36.000Z",
-          "wordCount": 14998,
-          "title": "TSMC Raising Chipmaking Prices By Up To 10% In 2027; Devices May Get More Expensive",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/TSMC-Raise-Chipmaking-Prices-10-2027-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399282",
-          "author": "Heirul Kamel",
-          "description": "More than 55.3 million users of AI music platform Suno had their personal information exposed in a cyberattack that took place last year, according to Have I Been Pwned (HIBP). This is from the same attack that was brought to light by 404 Media last week, which also revealed the platform’s controversial data gathering practice […]\nThe post Suno Data Breach Exposed Personal Information Of Over 55 Million Users appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399282/suno-data-breach-affects-55-mil-users/",
-          "publishedOn": "2026-07-22T03:39:02.000Z",
-          "wordCount": 15089,
-          "title": "Suno Data Breach Exposed Personal Information Of Over 55 Million Users",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/12/Suno-launches-Android-app-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399274",
-          "author": "Nurul Kamil",
-          "description": "By now, it’s no secret that AI models are capable of “going rogue” and behaving in unintended ways. In the latest incident, OpenAI lost control of its models during an internal security test last week. This resulted in a hack that compromised the systems of Hugging Face, an unaffiliated AI hosting platform. In a new […]\nThe post OpenAI Models Hacked Hugging Face To Cheat On A Benchmark appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399274/openai-hugging-face-hack/",
-          "publishedOn": "2026-07-22T03:35:58.000Z",
-          "wordCount": 14843,
-          "title": "OpenAI Models Hacked Hugging Face To Cheat On A Benchmark",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/hugging-face-logo-1.webp"
         }
       ]
     },
@@ -22381,6 +22487,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+          "author": "Tara Seals",
+          "description": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
+          "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+          "publishedOn": "2026-08-05T23:35:28.000Z",
+          "wordCount": null,
+          "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
+          "author": "Jai Vijayan",
+          "description": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.",
+          "link": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
+          "publishedOn": "2026-08-05T23:30:00.000Z",
+          "wordCount": null,
+          "title": "AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
+          "author": "Alexander Culafi",
+          "description": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
+          "link": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
+          "publishedOn": "2026-08-05T22:18:25.000Z",
+          "wordCount": null,
+          "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
+          "author": "Kristina Beek",
+          "description": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
+          "publishedOn": "2026-08-05T19:47:55.000Z",
+          "wordCount": null,
+          "title": "CSS: The Hidden Threat Lurking in Your Inbox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
+          "author": "Nate Nelson",
+          "description": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.",
+          "link": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
+          "publishedOn": "2026-08-05T19:08:36.000Z",
+          "wordCount": null,
+          "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
+          "author": "Elizabeth Montalbano",
+          "description": "Google has fixed the issues, which exploited a trust boundary between two AI agents with different privilege levels to trigger automation that could compromise the supply chain.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
+          "publishedOn": "2026-08-05T18:03:31.000Z",
+          "wordCount": null,
+          "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
           "author": "Robert Lemos",
@@ -22859,46 +23025,6 @@
           "publishedOn": "2026-07-22T23:50:01.000Z",
           "wordCount": null,
           "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
-          "author": "Jai Vijayan",
-          "description": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
-          "link": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
-          "publishedOn": "2026-07-22T21:29:01.000Z",
-          "wordCount": null,
-          "title": "Attackers Are Learning to Live Off the AI Toolchain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
-          "author": "Alexander Culafi",
-          "description": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
-          "link": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
-          "publishedOn": "2026-07-22T19:42:42.000Z",
-          "wordCount": null,
-          "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
-          "author": "Elizabeth Montalbano",
-          "description": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
-          "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
-          "publishedOn": "2026-07-22T15:53:47.000Z",
-          "wordCount": null,
-          "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
-          "author": "Alexander Culafi",
-          "description": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
-          "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
-          "publishedOn": "2026-07-22T11:30:00.000Z",
-          "wordCount": null,
-          "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
           "imageUrl": null
         }
       ]
