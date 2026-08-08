@@ -2,10 +2,259 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-08-07T09:07:59.748Z</updated>
+    <updated>2026-08-08T08:51:39.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple May Open A Second Official Store In Malaysia, With Putrajaya Looking Likely]]></title>
+        <id>https://www.lowyat.net/?p=400921</id>
+        <link href="https://www.lowyat.net/2026/400921/apple-store-putrajaya-job-vacancies/"/>
+        <updated>2026-08-08T07:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Apple may be preparing to open its second official retail store in Malaysia, with Putrajaya currently looking like the most likely location. The speculation comes after the company began advertising a sizeable number of retail positions through the career page on its official website, as well as on LinkedIn. At the time of writing, Apple’s […]
+The post Apple May Open A Second Official Store In Malaysia, With Putrajaya Looking Likely appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication]]></title>
+        <id>https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html</id>
+        <link href="https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html"/>
+        <updated>2026-08-08T06:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.
+
+The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist]]></title>
+        <id>https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html</id>
+        <link href="https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html"/>
+        <updated>2026-08-08T06:57:43.000Z</updated>
+        <summary type="html"><![CDATA[N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.
+
+"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques," the company said.
+
+"This is not a duplicate of our]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts]]></title>
+        <id>https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html</id>
+        <link href="https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html"/>
+        <updated>2026-08-08T06:52:16.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy S26 FE Leaks Again, Revealing All Colour Options]]></title>
+        <id>https://www.lowyat.net/?p=400863</id>
+        <link href="https://www.lowyat.net/2026/400863/samsung-galaxy-s26-fe-leak-colours/"/>
+        <updated>2026-08-08T01:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Samsung is gearing up to launch its next crop of products. Among the items on the list is the Galaxy S26 FE, which has already appeared in a few leaks. So far, we’ve heard rumours of a price hike, as well as some details on its chipset. Now, a recent report has offered another look […]
+The post Samsung Galaxy S26 FE Leaks Again, Revealing All Colour Options appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer]]></title>
+        <id>https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html</id>
+        <link href="https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html"/>
+        <updated>2026-08-07T18:48:17.000Z</updated>
+        <summary type="html"><![CDATA[A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.
+
+"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload," OpenSourceMalware researcher Paul]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets]]></title>
+        <id>https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html</id>
+        <link href="https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html"/>
+        <updated>2026-08-07T18:29:08.000Z</updated>
+        <summary type="html"><![CDATA[ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.
+
+The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture.
+
+"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data]]></title>
+        <id>https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html</id>
+        <link href="https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html"/>
+        <updated>2026-08-07T18:16:13.000Z</updated>
+        <summary type="html"><![CDATA[A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671.
+
+"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Generated Patches Fail Half the Time]]></title>
+        <id>https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time</id>
+        <link href="https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time"/>
+        <updated>2026-08-07T16:47:43.000Z</updated>
+        <summary type="html"><![CDATA[A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.]]></summary>
+        <author>
+            <name>Robert Lemos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP]]></title>
+        <id>https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html</id>
+        <link href="https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html"/>
+        <updated>2026-08-07T12:56:23.000Z</updated>
+        <summary type="html"><![CDATA[WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page.
+
+Tracked as CVE-2026-64638 (CVSS score: 8.9), the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Is Rolling Out Ask Maps Feature To Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=400899</id>
+        <link href="https://www.lowyat.net/2026/400899/google-ask-maps-feature-to-malaysia/"/>
+        <updated>2026-08-07T12:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Just over a week ago, Google said that it will be rolling out Gemini Spark in Malaysia. Now, the tech giant announced that the new Ask Maps feature is coming to the country as well. As the name suggests, it is the latest addition to the company Google Maps, which lets users communicate with the […]
+The post Google Is Rolling Out Ask Maps Feature To Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIROS Trials Minimum Advisory Speed Limits On Three Highways To Tackle Lane Hogging]]></title>
+        <id>https://www.lowyat.net/?p=400891</id>
+        <link href="https://www.lowyat.net/2026/400891/miros-trials-minimum-advisory-speed-limits/"/>
+        <updated>2026-08-07T12:20:13.000Z</updated>
+        <summary type="html"><![CDATA[The Malaysian Institute of Road Safety Research (MIROS) has begun a three-month pilot project to introduce minimum advisory speed limits on selected highways. The initiative, which started on 1 August, is intended to encourage motorists to use lanes according to their travelling speed and reduce instances of slow-moving vehicles occupying the rightmost lane. The proof-of-concept […]
+The post MIROS Trials Minimum Advisory Speed Limits On Three Highways To Tackle Lane Hogging appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech G512 X 75 Review: Tons Of Fun, Save For The Size]]></title>
+        <id>https://www.lowyat.net/?p=400862</id>
+        <link href="https://www.lowyat.net/2026/400862/logitech-g512-x-75-review/"/>
+        <updated>2026-08-07T12:15:34.000Z</updated>
+        <summary type="html"><![CDATA[The Logitech G512 X 75 marks exactly a year since I last reviewed a 75% keyboard, the last one having been the ASUS ROG Falcata. Fortunately, it’s not a keyboard of the split design variety, making this review considerably easier to deal with. What Am I Looking At? This G512 X model is the 75% […]
+The post Logitech G512 X 75 Review: Tons Of Fun, Save For The Size appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REDMI A7 Officially Unveiled In Malaysia With 13MP Rear Camera]]></title>
+        <id>https://www.lowyat.net/?p=400828</id>
+        <link href="https://www.lowyat.net/2026/400828/redmi-a7-malaysia/"/>
+        <updated>2026-08-07T12:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomi sub-brand REDMI has launched a selection of new smartphones for the local market. In addition to the newest members of its main numbered series, the company has announced the REDMI A7. The device is the more basic counterpart to the A7 Pro, which debuted back in April. Naturally, as an entry-level handset, the A7 […]
+The post REDMI A7 Officially Unveiled In Malaysia With 13MP Rear Camera appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Growing Up The Hard Way]]></title>
+        <id>https://thehackernews.com/2026/08/growing-up-hard-way.html</id>
+        <link href="https://thehackernews.com/2026/08/growing-up-hard-way.html"/>
+        <updated>2026-08-07T11:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Open Source had a great childhood.
+
+For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to leave a name. It was idyllic. It was also, in retrospect, a little feral.
+
+Then,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Models Made Real Life Viruses That Spread By Infecting Bacteria]]></title>
+        <id>https://www.lowyat.net/?p=400825</id>
+        <link href="https://www.lowyat.net/2026/400825/ai-models-made-real-life-viruses/"/>
+        <updated>2026-08-07T11:54:35.000Z</updated>
+        <summary type="html"><![CDATA[In less than a month, we’ve seen reports of AI models by different companies going too far, breaking containment, and doing things the layperson would associate with a computer virus. Now, there’s a report of another generative AI model making another virus, but this one is making real-life ones, not virtual ones. And since it’s […]
+The post AI Models Made Real Life Viruses That Spread By Infecting Bacteria appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers]]></title>
+        <id>https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html</id>
+        <link href="https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html"/>
+        <updated>2026-08-07T11:10:33.000Z</updated>
+        <summary type="html"><![CDATA[A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.
+
+The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148, released August 3, close it. Anyone running an older kernel with SCTP reachable should update.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables]]></title>
+        <id>https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html</id>
+        <link href="https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html"/>
+        <updated>2026-08-07T10:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables.
+
+Presented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails]]></title>
+        <id>https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html</id>
+        <link href="https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html"/>
+        <updated>2026-08-07T10:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have called attention to an active "widespread email-driven phishing campaign" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email.
+
+"The campaign uses residential proxies to disguise malicious sign-ins as ordinary consumer traffic,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day]]></title>
+        <id>https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html</id>
+        <link href="https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html"/>
+        <updated>2026-08-07T10:09:54.000Z</updated>
+        <summary type="html"><![CDATA[PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors.
+
+PortSwigger said a separate human-guided discovery cascade also exposed a zero-day in Apache Traffic Server. Kettle said HTTP Terminator tested 30,000 websites where]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access]]></title>
+        <id>https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html</id>
+        <link href="https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html"/>
+        <updated>2026-08-07T08:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID.
+
+The attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary Refresh Token (PRT), and add further authentication methods where tenant policies]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Deck Owner Brought Floppy Disk Gaming Back To Life, Sort Of]]></title>
         <id>https://www.lowyat.net/?p=400826</id>
@@ -26,6 +275,18 @@ The post Steam Deck Owner Brought Floppy Disk Gaming Back To Life, Sort Of appea
 The post ASUS Launches ExpertBook P Series In Malaysia appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets]]></title>
+        <id>https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html</id>
+        <link href="https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html"/>
+        <updated>2026-08-07T08:18:35.000Z</updated>
+        <summary type="html"><![CDATA[A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run.
+
+Novee Security ran the attack against each vendor's agent in the configuration that the vendor ships by default, and presented the work at Black Hat USA on August 5.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -114,6 +375,16 @@ The post OpenAI’s Ring-Shaped Smart Speaker Rumoured To Cost Over US$300 appea
         <summary type="html"><![CDATA[The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.]]></summary>
         <author>
             <name>Arielle Waldman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride"/>
+        <updated>2026-08-06T20:39:30.000Z</updated>
+        <summary type="html"><![CDATA[In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
         </author>
     </entry>
     <entry>
@@ -3100,321 +3371,6 @@ The post iQOO 15 Ultra Listed In EEC Database Alongside Mysterious New Device; M
         <summary type="html"><![CDATA[Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.]]></summary>
         <author>
             <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation"/>
-        <updated>2026-07-24T19:45:02.000Z</updated>
-        <summary type="html"><![CDATA[The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery]]></title>
-        <id>https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html</id>
-        <link href="https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"/>
-        <updated>2026-07-24T15:12:35.000Z</updated>
-        <summary type="html"><![CDATA[The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware.
-
-"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller]]></title>
-        <id>https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html</id>
-        <link href="https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html"/>
-        <updated>2026-07-24T14:15:21.000Z</updated>
-        <summary type="html"><![CDATA[Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.
-
-They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vatican's Official Prayer App Leaks 700K+ Global Users' PII]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii"/>
-        <updated>2026-07-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Default Azure Automation Setting Enables Cross-Tenant Identity Takeover]]></title>
-        <id>https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover</id>
-        <link href="https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover"/>
-        <updated>2026-07-24T12:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.]]></summary>
-        <author>
-            <name>Jeffrey Schwartz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link]]></title>
-        <id>https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html</id>
-        <link href="https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html"/>
-        <updated>2026-07-24T11:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization.
-
-The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers]]></title>
-        <id>https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html</id>
-        <link href="https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"/>
-        <updated>2026-07-24T11:45:17.000Z</updated>
-        <summary type="html"><![CDATA[A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.
-
-XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do]]></title>
-        <id>https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html</id>
-        <link href="https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html"/>
-        <updated>2026-07-24T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively landed is that understanding the intent of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTM Sukan+ Comes To Astro For Glasgow 2026 Commonwealth Games]]></title>
-        <id>https://www.lowyat.net/?p=399699</id>
-        <link href="https://www.lowyat.net/2026/399699/rtm-sukan-astro-2026-commonwealth-games/"/>
-        <updated>2026-07-24T11:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday, Astro announced that it will once again collaborate with RTM for the Glasgow 2026 Commonwealth Games. The partnership will bring two new channels to the provider: Sukan+ (channel 806) and Berita RTM (channel 505). For those unaware, the former channel is a free-to-air Malaysian sports television channel that will give Astro customers coverage of […]
-The post RTM Sukan+ Comes To Astro For Glasgow 2026 Commonwealth Games appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[boAt Announces Nirvana Eutopia 2 ANC Headphones]]></title>
-        <id>https://www.lowyat.net/?p=399680</id>
-        <link href="https://www.lowyat.net/2026/399680/boat-nirvana-eutopia-2-anc-headphones/"/>
-        <updated>2026-07-24T10:54:02.000Z</updated>
-        <summary type="html"><![CDATA[boAt first made its local presence known back in March of this year, with two pairs of TWS buds and a powerbank. The company has announced a new pair of wireless headphones, in the form of the Nirvana Eutopia 2 ANC. Unlike the wireless earbuds that the brand brought into the local market earlier, though, […]
-The post boAt Announces Nirvana Eutopia 2 ANC Headphones appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gigabyte Z890 Aorus Elite Duo X Review: Mid-Range Board With Lots Of Connectivity]]></title>
-        <id>https://www.lowyat.net/?p=399673</id>
-        <link href="https://www.lowyat.net/2026/399673/gigabyte-z890-aorus-elite-duo-x-review/"/>
-        <updated>2026-07-24T10:39:04.000Z</updated>
-        <summary type="html"><![CDATA[The Gigabyte Z890 Aorus Elite Duo X is a motherboard that launched at the same time Intel’s Core Ultra 200S Plus series processors hit the market. This motherboard is unique in a handful of ways, allowing PC users to maximise the performance of the Core Ultra 7 270K Plus and Core Ultra 5 250K Plus. […]
-The post Gigabyte Z890 Aorus Elite Duo X Review: Mid-Range Board With Lots Of Connectivity appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry]]></title>
-        <id>https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html</id>
-        <link href="https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html"/>
-        <updated>2026-07-24T10:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection.
-
-The agent then worked through the ministry's network on its own, checking hosts for ways to gain root access, hunting through file systems, and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golden Chickens Resurfaces With Four New Malware Families and Modular Implants]]></title>
-        <id>https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html</id>
-        <link href="https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html"/>
-        <updated>2026-07-24T10:09:24.000Z</updated>
-        <summary type="html"><![CDATA[The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings.
-
-The malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken, and a modified web browser credential]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ford, Apple To Work Together To Improve Driver-Assistance Tech]]></title>
-        <id>https://www.lowyat.net/?p=399632</id>
-        <link href="https://www.lowyat.net/2026/399632/ford-apple-improve-driver-assistance/"/>
-        <updated>2026-07-24T09:22:32.000Z</updated>
-        <summary type="html"><![CDATA[Carmakers and those who make navigation apps usually don’t work particularly closely together. But in what is described as a first, Ford has announced that it will be using Apple Maps, not just as a default navigation app, but also to have it integrated into driver-assistance tech. A bit more specifically, the integration is done […]
-The post Ford, Apple To Work Together To Improve Driver-Assistance Tech appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Wallet Now Supports Maybank MAE Scan & Pay]]></title>
-        <id>https://www.lowyat.net/?p=399671</id>
-        <link href="https://www.lowyat.net/2026/399671/samsung-wallet-maybank-mae-scan-pay/"/>
-        <updated>2026-07-24T09:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Samsung Malaysia has announced a partnership with Maybank that brings Maybank MAE Scan & Pay directly into Samsung Wallet, allowing eligible Galaxy users in Malaysia to make QR code payments without first opening the MAE app. The feature is now rolling out through the latest Samsung Wallet and software update, making Malaysia the first market […]
-The post Samsung Wallet Now Supports Maybank MAE Scan & Pay appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tecno Pova 8 5G Officially Lands In Malaysia With New Alive Matrix Display]]></title>
-        <id>https://www.lowyat.net/?p=399657</id>
-        <link href="https://www.lowyat.net/2026/399657/tecno-pova-8-5g-malaysia-2/"/>
-        <updated>2026-07-24T09:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this month, Tecno revealed that it is bringing the newest member of its Pova series to the local market. Now, just as promised, the Pova 8 5G has officially made its Malaysian debut. Since the smartphone was released in India not too long ago, its specifications aren’t exactly a secret. To recap, the device […]
-The post Tecno Pova 8 5G Officially Lands In Malaysia With New Alive Matrix Display appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats]]></title>
-        <id>https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html</id>
-        <link href="https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html"/>
-        <updated>2026-07-24T07:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code.
-
-Every version before 4.14.0 is affected. NodeBB has fixed them all, and administrators should be on 4.14.2.
-
-The simplest one takes a settings change. A]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alleged Images Of OPPO Find X10 Series Appear Online]]></title>
-        <id>https://www.lowyat.net/?p=399644</id>
-        <link href="https://www.lowyat.net/2026/399644/alleged-oppo-find-x10-series-appear/"/>
-        <updated>2026-07-24T07:19:45.000Z</updated>
-        <summary type="html"><![CDATA[OPPO is expected to unveil the Find X10 series sometime later in the year. As a result, the lineup of smartphones has been the subject of a few leaks, typically discussing their expected specifications. Now, leaked images of the alleged family have surfaced online. Not only do these images reveal three smartphone prototypes, which are […]
-The post Alleged Images Of OPPO Find X10 Series Appear Online appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTuber Gets Snapdragon X Elite Laptop To Run NVIDIA RTX 4060 via eGPU]]></title>
-        <id>https://www.lowyat.net/?p=399637</id>
-        <link href="https://www.lowyat.net/2026/399637/snapdragon-x-elite-rtx-4060-egpu/"/>
-        <updated>2026-07-24T07:14:27.000Z</updated>
-        <summary type="html"><![CDATA[Chinese TechTuber and hardware reviewer Chaowanke recently showed off their success in getting a Qualcomm Snapdragon X Elite laptop to work with an NVIDIA RTX 4060 as an eGPU. The laptop that they used in this case was a Lenovo Yoga Air 14s with Windows 11. The setup used by Chaowanke is, understandably, hodgepodge. The […]
-The post YouTuber Gets Snapdragon X Elite Laptop To Run NVIDIA RTX 4060 via eGPU appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe's Multilingual Reality Exposes AI Security Gaps]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps"/>
-        <updated>2026-07-24T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say]]></title>
-        <id>https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html</id>
-        <link href="https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html"/>
-        <updated>2026-07-24T06:58:27.000Z</updated>
-        <summary type="html"><![CDATA[Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0.
-
-All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying memory flaws may lead to remote code execution.
-
-Redis 6.2.23, 7.2.15, and 7.4.10]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks]]></title>
-        <id>https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html</id>
-        <link href="https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html"/>
-        <updated>2026-07-24T06:50:57.000Z</updated>
-        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems.
-
-The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing security flaws in WinRAR software to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Begins Testing Free Ad-Supported Game Streaming]]></title>
-        <id>https://www.lowyat.net/?p=399638</id>
-        <link href="https://www.lowyat.net/2026/399638/xbox-free-ad-supported-game-streaming/"/>
-        <updated>2026-07-24T06:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has announced its new gaming monetisation strategy for Xbox. In a blog post, the company revealed that it is testing an ad-supported option for its cloud game streaming service. Available for a limited time through the Xbox Insider programme, it allows eligible users to stream select games from their library for free, provided they […]
-The post Xbox Begins Testing Free Ad-Supported Game Streaming appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Agrees To Remove Automatic Install of Adware From Monitors After Microsoft Steps In]]></title>
-        <id>https://www.lowyat.net/?p=399614</id>
-        <link href="https://www.lowyat.net/2026/399614/lg-microsoft-adware-monitor/"/>
-        <updated>2026-07-24T05:25:47.000Z</updated>
-        <summary type="html"><![CDATA[LG has agreed to stop the automatic installation of adware, primarily that of McAfee pop-ups into the PCs of consumers without their consent, after Microsoft stepped in to deal with the situation. To put that into more localised terms: basically, Microsoft had to “turun padang” because LG messed up. Bad. Let’s recap what happened here: […]
-The post LG Agrees To Remove Automatic Install of Adware From Monitors After Microsoft Steps In appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garena To Publish Monster Hunter Outlanders In SEA]]></title>
-        <id>https://www.lowyat.net/?p=399624</id>
-        <link href="https://www.lowyat.net/2026/399624/garena-monster-hunter-outlanders-sea/"/>
-        <updated>2026-07-24T05:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Remember Monster Hunter Outlanders, the other mobile entry for the franchise, made by Timi Studio? It’s been awhile since the beta was announced, and now, it looks like the game is a few steps closer to being out in full. For the Southeast Asian region, or more specifically just Malaysia, Singapore and the Philippines, the […]
-The post Garena To Publish Monster Hunter Outlanders In SEA appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1 Could Reportedly Return To Malaysia After Eight Years]]></title>
-        <id>https://www.lowyat.net/?p=399615</id>
-        <link href="https://www.lowyat.net/2026/399615/f1-could-return-to-sepang-malaysia/"/>
-        <updated>2026-07-24T04:45:45.000Z</updated>
-        <summary type="html"><![CDATA[Formula One (F1) could reportedly make a return to Malaysia for the first time in eight years, with the Sepang International Circuit emerging as one of the venues being considered to replace the Bahrain Grand Prix later this season. According to a Reuters report citing multiple sources at the Hungarian Grand Prix, Sepang is among […]
-The post F1 Could Reportedly Return To Malaysia After Eight Years appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJI To Launch Osmo Pocket 4P Globally On 30 July]]></title>
-        <id>https://www.lowyat.net/?p=399605</id>
-        <link href="https://www.lowyat.net/2026/399605/dji-osmo-pocket-4p-globally-30-july/"/>
-        <updated>2026-07-24T04:02:41.000Z</updated>
-        <summary type="html"><![CDATA[A month ago, we reported on a brief incident where DJI Malaysia said in a Facebook Reel that the upcoming Osmo Pocket 4P would launch on 29 June. However, the post was later deleted, and the date came and went without any sign of the camera. Now, DJI’s global team has officially confirmed that the […]
-The post DJI To Launch Osmo Pocket 4P Globally On 30 July appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets"/>
-        <updated>2026-07-23T21:23:18.000Z</updated>
-        <summary type="html"><![CDATA[A state-sponsored threat group, dubbed "Laundry Bear," sends "half-click" phishing emails that require a victim only to open or preview the message.]]></summary>
-        <author>
-            <name>Rob Wright</name>
         </author>
     </entry>
     <entry>
