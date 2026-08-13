@@ -19294,6 +19294,118 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.\n\nThe vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates.\n\n\"The authentication",
+          "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+          "publishedOn": "2026-08-13T06:09:48.000Z",
+          "wordCount": null,
+          "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.\n\nThe activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
+          "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+          "publishedOn": "2026-08-12T17:39:27.000Z",
+          "wordCount": null,
+          "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.\n\nThe extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
+          "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+          "publishedOn": "2026-08-12T14:09:50.000Z",
+          "wordCount": null,
+          "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.\n\nThe weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
+          "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+          "publishedOn": "2026-08-12T11:47:38.000Z",
+          "wordCount": null,
+          "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\n\nAccording to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness",
+          "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+          "publishedOn": "2026-08-12T11:41:34.000Z",
+          "wordCount": null,
+          "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.\n\nThe most severe of the flaws are listed below -\n\n\n  CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
+          "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+          "publishedOn": "2026-08-12T11:13:03.000Z",
+          "wordCount": null,
+          "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.\n\nThe vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
+          "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+          "publishedOn": "2026-08-12T09:01:54.000Z",
+          "wordCount": null,
+          "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.\n\nThreat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
@@ -21100,230 +21212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
-          "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-          "publishedOn": "2026-07-29T18:10:00.000Z",
-          "wordCount": null,
-          "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.\n\nThe vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's",
-          "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-          "publishedOn": "2026-07-29T15:39:30.000Z",
-          "wordCount": null,
-          "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter.\n\n\"A malicious actor with network access to vCenter",
-          "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-          "publishedOn": "2026-07-29T15:31:15.000Z",
-          "wordCount": null,
-          "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls.\n\nBraham's water plant went offline, and the city asked residents to minimize",
-          "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-          "publishedOn": "2026-07-29T13:48:36.000Z",
-          "wordCount": null,
-          "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.\n\nAccording to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies",
-          "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-          "publishedOn": "2026-07-29T13:42:57.000Z",
-          "wordCount": null,
-          "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.\n\nThe conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change?\n\nThe honest answer is",
-          "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-          "publishedOn": "2026-07-29T12:15:00.000Z",
-          "wordCount": null,
-          "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update.\n\n\"No settings or additional user interaction are required,\" Eten Zou,",
-          "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-          "publishedOn": "2026-07-29T11:57:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s1600/tor-exploit.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s1600/tor-exploit.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack.\n\nAccording to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January",
-          "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-          "publishedOn": "2026-07-29T11:13:10.000Z",
-          "wordCount": null,
-          "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law.\n\nThe principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
-          "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-          "publishedOn": "2026-07-29T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
-          "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-          "publishedOn": "2026-07-29T08:58:27.000Z",
-          "wordCount": null,
-          "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack.\n\nThe latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
-          "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-          "publishedOn": "2026-07-29T07:51:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account.\n\nTracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
-          "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-          "publishedOn": "2026-07-29T07:47:19.000Z",
-          "wordCount": null,
-          "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9I3aoAsUS5yCtKTvSX6LYxjKfJu-RShA1QmcUiBLu760VFfeqd6D4NfH3ttKHoQkfWT57oL0_4KJBovY7nshgiGQ4R5wimWh-2k48f9qjdlJtjKqK0oM5vxquJFPuguLbBkbqzA7xc4NgjQaxkcU7tVSQ0a3GyXreEyvdvR4NmERWPbkiR6Um2thKfY/s1600/Gitea-rce.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9I3aoAsUS5yCtKTvSX6LYxjKfJu-RShA1QmcUiBLu760VFfeqd6D4NfH3ttKHoQkfWT57oL0_4KJBovY7nshgiGQ4R5wimWh-2k48f9qjdlJtjKqK0oM5vxquJFPuguLbBkbqzA7xc4NgjQaxkcU7tVSQ0a3GyXreEyvdvR4NmERWPbkiR6Um2thKfY/s1600/Gitea-rce.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers.\n\nThey linked the framework to a fake \"公安一网通办\" Public Security service application targeting Android users in China. The kit supports payment-password",
-          "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-          "publishedOn": "2026-07-29T07:07:23.000Z",
-          "wordCount": null,
-          "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.\n\nThe list of affected packages is as follows -\n\n\n  @joyfill/layouts@0.1.2-2773.beta.0\n  @joyfill/components@4.0.0-rc24-2773-beta.4\n\nThe two packages \"contain an import-time JavaScript implant that resolves encrypted code",
-          "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-          "publishedOn": "2026-07-29T04:20:57.000Z",
-          "wordCount": null,
-          "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg"
         }
       ]
     },
@@ -21332,6 +21220,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=401450",
+          "author": "Heirul Kamel",
+          "description": "Shopee users in Malaysia can now pay for their purchases using TNG eWallet, fulfilling a long-requested feature. However, there is a catch: the payment option is only available through DuitNow QR. Interestingly, the e-commerce platform still lists Touch ‘n Go and even Boost e-wallets as unsupported payment methods. The new DuitNow QR option therefore gives […]\nThe post Shopee Malaysia Finally Adds TNG eWallet Support, But Not How You’d Expect appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401450/shopee-tng-ewallet-duitnow-qr/",
+          "publishedOn": "2026-08-13T07:55:28.000Z",
+          "wordCount": 14150,
+          "title": "Shopee Malaysia Finally Adds TNG eWallet Support, But Not How You’d Expect",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/shopee-tng-ewallet-duitnow-qr-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=401251",
+          "author": "Ian Chee",
+          "description": "Marvel’s Wolverine is scheduled for launch on 15 September. To commemorate the launch, PlayStation has announced a limited edition bundle PS5 featuring the titular character. Officially, it’s named the PS5 Digital Edition – Marvel’s Wolverine Battle Yellow Limited Edition Bundle. In it are the console itself with a theme-appropriate set of console covers rather than […]\nThe post PlayStation Reveals Limited Edition PS5 Console Bundles Featuring Marvel’s Wolverine appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401251/limited-edition-ps5-bundles-wolverine/",
+          "publishedOn": "2026-08-13T06:58:32.000Z",
+          "wordCount": 14063,
+          "title": "PlayStation Reveals Limited Edition PS5 Console Bundles Featuring Marvel’s Wolverine",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/PS5-Wolverine-limited-edition.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=401435",
+          "author": "Kiran Ganesan",
+          "description": "Intel CEO Lip-Bu Tan has recently expressed interest in exploring new memory architectures, describing them as one of his “pet projects”. He also hinted at the possibility of stacking memory with CPUs. Previously, Tan thought of memory as a commodity business. However, it has since become a strategic asset amid growing demand driven by AI. […]\nThe post Intel CEO Eyes A Return To Memory; Hints At Memory-CPU Architecture appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401435/intel-ceo-eyes-a-return-to-memory/",
+          "publishedOn": "2026-08-13T06:41:11.000Z",
+          "wordCount": 14295,
+          "title": "Intel CEO Eyes A Return To Memory; Hints At Memory-CPU Architecture",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/intel-ceo-lip-bu-tan-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=401335",
+          "author": "Heirul Kamel",
+          "description": "When it comes to handheld gaming PCs (no, I refuse to call them consoles when they have Windows installed), having a touchpad and a built-in kickstand are among the key criteria I look for. After considering various options, including the many models we have reviewed, I eventually decided to settle on the 2023 Lenovo Legion […]\nThe post Lenovo Legion Go 2 Long-Term Review: Versatility, Still Unmatched appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401335/lenovo-legion-go-2-long-term-review/",
+          "publishedOn": "2026-08-13T06:20:49.000Z",
+          "wordCount": 15927,
+          "title": "Lenovo Legion Go 2 Long-Term Review: Versatility, Still Unmatched",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/lenovo-legion-go-2-review_10.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=401402",
+          "author": "John Law",
+          "description": "Zotac recently turned 20 years old and to celebrate, it launched a 20th anniversary edition of its GeForce RTX 5080 Solid Core OC graphics card. As per the name, the card is from a currently existing lineup, just in a different colourway. The new colourway, in this case, is a titanium colour finish, which is […]\nThe post Zotac Launches 20th Anniversary Edition RTX 5080 Solid Core OC appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401402/zotac-launches-20th-anniversary-edition-rtx-5080-solid-core-oc/",
+          "publishedOn": "2026-08-13T05:58:18.000Z",
+          "wordCount": 14057,
+          "title": "Zotac Launches 20th Anniversary Edition RTX 5080 Solid Core OC",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/ZT-B50800J2S-10P-image01-1240x856.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=401393",
+          "author": "Nurul Kamil",
+          "description": "The nubia A77 5G has officially launched in Malaysia as the brand’s newest addition to its smartphone lineup. Conceived as an accessible 5G-enabled device, it features a sleek yet durable design and a selection of everyday AI-driven features. Starting with the exterior, the new handset sports a 6.75-inch HD+ waterdrop display with a 120Hz refresh […]\nThe post nubia A77 5G Launched In Malaysia With 50MP Camera, Everyday AI Features appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401393/nubia-a77-5g-malaysia/",
+          "publishedOn": "2026-08-13T04:49:22.000Z",
+          "wordCount": 14128,
+          "title": "nubia A77 5G Launched In Malaysia With 50MP Camera, Everyday AI Features",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/nubia-a77-5g-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=401375",
+          "author": "Kiran Ganesan",
+          "description": "Xiaomi is expected to launch the successors to the POCO F8 series in the form of the POCO F9 series, more specifically the F9 Pro and F9 Ultra models. The two devices have already appeared in several certification databases, including Singapore’s IMDA and Indonesia’s SDPPI, suggesting that an international launch could be on the horizon. […]\nThe post POCO F9 Pro, F9 Ultra Tipped To Have A Larger Battery, 100W Fast Charging appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401375/poco-f9-pro-f9-ultra-tipped-battery/",
+          "publishedOn": "2026-08-13T03:33:25.000Z",
+          "wordCount": 14306,
+          "title": "POCO F9 Pro, F9 Ultra Tipped To Have A Larger Battery, 100W Fast Charging",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/poco-f8-series-01.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=401376",
+          "author": "Nurul Kamil",
+          "description": "HONOR recently launched its Robot Phone in China, and during the event, the brand took the opportunity to tease another new product. The phone maker offered a glimpse of the upcoming Magic9 series, revealing hints of a new design and upgrades to its imaging system. The teaser image itself does not show off the device […]\nThe post HONOR Magic9 Series With New Design Teased; China Launch In September appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401376/honor-magic9-teaser/",
+          "publishedOn": "2026-08-13T03:03:54.000Z",
+          "wordCount": 6459,
+          "title": "HONOR Magic9 Series With New Design Teased; China Launch In September",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/honor-magic9-teaser-1-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=401377",
+          "author": "Heirul Kamel",
+          "description": "Live streaming platform Twitch is now allowing Amazon, its parent company, to use streamer content to train generative AI models, with the feature enabled by default. Unsurprisingly, the move has sparked backlash from the platform’s community, particularly because creators have to manually opt out rather than explicitly agreeing to have their content used for AI […]\nThe post Twitch Is Training Amazon’s AI Models With Your Content; Here’s How To Opt Out appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401377/twitch-training-amazon-ai/",
+          "publishedOn": "2026-08-13T02:58:17.000Z",
+          "wordCount": 14375,
+          "title": "Twitch Is Training Amazon’s AI Models With Your Content; Here’s How To Opt Out",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/twitch-file-photo-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=401358",
+          "author": "Kiran Ganesan",
+          "description": "With the Made by Google event now in full force, the internet search giant has unveiled its newest wave of devices. While the main attraction for the event is the newest range of smartphones, the company’s newest accessory lineup, which will be the subject of this article. For your reference, we are talking about the […]\nThe post Google Officially Launches Pixel Watch 5, Pixel Tag appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/401358/google-launches-pixel-watch-5-pixel-tag/",
+          "publishedOn": "2026-08-12T15:37:22.000Z",
+          "wordCount": 14513,
+          "title": "Google Officially Launches Pixel Watch 5, Pixel Tag",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Google-Officially-Launches-Pixel-Watch-5-Pixel-Tag-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=401273",
           "author": "Kiran Ganesan",
@@ -22471,106 +22459,6 @@
           "wordCount": 14321,
           "title": "UGREEN Officially Launches Honkai: Star Rail Collection With Limited Collectible Gift Box",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/ugreen-honkai-star-rail-collection-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400007",
-          "author": "Ian Chee",
-          "description": "When you think of quantum computing, chances are, if you’re looking to take a university course on the subject, that you’re not looking for one within the country. Fortunately, there is now an in-country option, with Universiti Teknikal Malaysia Melaka (UTeM) being the first local university to offer it. The course in question is the […]\nThe post UTeM To Offer Degree In Quantum Computing; A First In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400007/utem-degree-quantum-computing-malaysia/",
-          "publishedOn": "2026-07-29T10:40:49.000Z",
-          "wordCount": 14044,
-          "title": "UTeM To Offer Degree In Quantum Computing; A First In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/UTeM.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400019",
-          "author": "John Law",
-          "description": "You can now get the Alienware AW2726DL gaming monitor in Malaysia. The monitor is considered a baseline option, but the specs are certainly far from basic. It comes in a standard 27-inch form factor and isn’t curved. It’s also IPS and not an OLED panel, but it has a resolution of QHD  (2,560 x 1440) […]\nThe post Alienware AW2726DL Gaming Monitor Now Available In Malaysia For RM609 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400019/alienware-aw2726dl-gaming-monitor-now-available-in-malaysia-for-rm609/",
-          "publishedOn": "2026-07-29T09:49:34.000Z",
-          "wordCount": 14038,
-          "title": "Alienware AW2726DL Gaming Monitor Now Available In Malaysia For RM609",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Alienware-AW2726DL-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400020",
-          "author": "Nurul Kamil",
-          "description": "CelcomDigi has announced that it is partnering with Buy Now Pay Later (BNPL) service SPayLater for a limited time promotion on selected smartphone bundles under its Pakej MegaJimat plan. From now until the end of the year, the telco is offering an exclusive 0% instalment fee option for six months on eligible devices. To put […]\nThe post CelcomDigi Partners With SPayLater For Limited Time 0% Instalment Fee Smartphone Offer appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400020/celcomdigi-spaylater-offer-smartphones/",
-          "publishedOn": "2026-07-29T09:34:08.000Z",
-          "wordCount": 14054,
-          "title": "CelcomDigi Partners With SPayLater For Limited Time 0% Instalment Fee Smartphone Offer",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/celcomdigi-spaylater-0-instalment-fee-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400003",
-          "author": "John Law",
-          "description": "Earlier today, Dell held an event to show off the range of laptops and desktops that it is finally bringing into Malaysia. Specifically, it was focused on its Pro and XPS range. These products aren’t new and were technically announced earlier this year. The Dell Pro laptops, in this case, were announced back in March […]\nThe post We Got Up Close With Dell’s Productivity Laptop Range appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400003/we-got-up-close-with-dells-productivity-laptop-range/",
-          "publishedOn": "2026-07-29T08:37:49.000Z",
-          "wordCount": 14199,
-          "title": "We Got Up Close With Dell’s Productivity Laptop Range",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Dell-Pro-Series-2026-2-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400004",
-          "author": "Ian Chee",
-          "description": "The OPPO Reno16 launched earlier in the month with two memory and storage configurations. These are the 8GB + 256GB configuration, which was tagged with a RM2,699 price, and 12GB + 256GB, which costs RM2,999 instead. Recently, the company has announced a new 12GB + 512GB model. It’s a slightly bigger price jump than between […]\nThe post OPPO Reno16 Gets 12GB + 512GB Configuration appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400004/oppo-reno16-12gb-512gb-configuration/",
-          "publishedOn": "2026-07-29T08:07:21.000Z",
-          "wordCount": 14019,
-          "title": "OPPO Reno16 Gets 12GB + 512GB Configuration",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/oppo-reno16-series-preview-malaysia_02.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399999",
-          "author": "Heirul Kamel",
-          "description": "The Malaysian Anti-Corruption Commission (MACC, or also known as SPRM) has uncovered a syndicate accused of compromising the Malaysian Immigration System (MyIMMs) to fraudulently process Temporary Employment Visit Passes (PLKS). The operation led to the arrest of 12 individuals, with authorities estimating that the scheme caused around RM2.4 million in losses to the government. The […]\nThe post MACC Busts Alleged MyIMMs Hacking Syndicate; Six Immigration Staff Arrested appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399999/macc-busts-myimms-hacking-syndicate/",
-          "publishedOn": "2026-07-29T05:08:35.000Z",
-          "wordCount": 14141,
-          "title": "MACC Busts Alleged MyIMMs Hacking Syndicate; Six Immigration Staff Arrested",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/myIMMs-file-pic-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399979",
-          "author": "Nurul Kamil",
-          "description": "WhatsApp is finally addressing one of the shortcomings of its web client. The latest update adds support for both audio and video calls to WhatsApp Web, bringing it more in line with the app versions for Android, iOS, and desktop. Additionally, the messaging platform has introduced a few more features to improve the user experience. […]\nThe post WhatsApp Rolls Out Overdue Web Calling Feature, Waiting Room, And More appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399979/whatsapp-web-calling/",
-          "publishedOn": "2026-07-29T04:34:51.000Z",
-          "wordCount": 14043,
-          "title": "WhatsApp Rolls Out Overdue Web Calling Feature, Waiting Room, And More",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/whtasapp-web-calling-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399984",
-          "author": "Ian Chee",
-          "description": "Videogames peripheral brand Razer has taken another break from making what the brand is known for. Its most recent release is another non-gaming product, though you can tangentially use it for that purpose. It’s simply called the Travel Case Folio for Portable Keyboards, and it’s exactly what it says on the tin. Notably though, it’s […]\nThe post Razer Now Has A Travel Case Folio For Portable Keyboards appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399984/razer-travel-case-folio-for-keyboards/",
-          "publishedOn": "2026-07-29T04:25:27.000Z",
-          "wordCount": 14074,
-          "title": "Razer Now Has A Travel Case Folio For Portable Keyboards",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Razer-Travel-Case-Folio-for-Portable-Keyboards.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399964",
-          "author": "Nurul Kamil",
-          "description": "According to recent leaks, Nothing is preparing to launch its first ever smartwatch later this year. Now, it seems that the startup’s budget sub-brand is also looking to explore new territory. CMF has started sharing cryptic teasers on its official X account, hinting at an upcoming audio product. The first of these teasers follows Nothing’s […]\nThe post CMF Starts Teasing A Mysterious New Audio Product appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399964/cmf-new-audio-product/",
-          "publishedOn": "2026-07-29T03:09:54.000Z",
-          "wordCount": 14118,
-          "title": "CMF Starts Teasing A Mysterious New Audio Product",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/cmf-clip-pro-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=399961",
-          "author": "Heirul Kamel",
-          "description": "Apple has officially launched Apple Upgrade, a new leasing programme that allows customers in the United States to access the latest iPhones, Macs, iPads, and Apple Watches through monthly payments. Developed in partnership with Klarna, the service replaces both the iPhone Upgrade Program and iPhone Payments in the US, while expanding to cover more of […]\nThe post Apple Upgrade Launches In The US; Lets Customers Lease iPhones, Macs, iPads, And Apple Watches appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/399961/apple-upgrade-launch-us/",
-          "publishedOn": "2026-07-29T02:22:27.000Z",
-          "wordCount": 14241,
-          "title": "Apple Upgrade Launches In The US; Lets Customers Lease iPhones, Macs, iPads, And Apple Watches",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/apple-upgrade-launch-US-1.webp"
         }
       ]
     },
@@ -22579,6 +22467,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+          "author": "Nate Nelson",
+          "description": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.",
+          "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+          "publishedOn": "2026-08-13T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
+          "author": "Jai Vijayan",
+          "description": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
+          "publishedOn": "2026-08-12T21:08:54.000Z",
+          "wordCount": null,
+          "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
+          "author": "Richard Thurston",
+          "description": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+          "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
+          "publishedOn": "2026-08-12T16:28:04.000Z",
+          "wordCount": null,
+          "title": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
+          "author": "Robert Lemos",
+          "description": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
+          "publishedOn": "2026-08-12T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
+          "author": "Richard Thurston",
+          "description": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
+          "publishedOn": "2026-08-12T12:41:03.000Z",
+          "wordCount": null,
+          "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
           "author": "Jai Vijayan",
@@ -22977,76 +22915,6 @@
           "publishedOn": "2026-07-29T23:26:46.000Z",
           "wordCount": null,
           "title": "Cybersecurity, Then &amp; Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-          "author": "Alexander Culafi",
-          "description": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
-          "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-          "publishedOn": "2026-07-29T19:48:12.000Z",
-          "wordCount": null,
-          "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
-          "author": "Rob Wright",
-          "description": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
-          "publishedOn": "2026-07-29T19:46:20.000Z",
-          "wordCount": null,
-          "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
-          "author": "Fahmida Y. Rashid",
-          "description": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
-          "publishedOn": "2026-07-29T17:43:38.000Z",
-          "wordCount": null,
-          "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
-          "author": "Dark Reading Editorial Team",
-          "description": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
-          "publishedOn": "2026-07-29T17:35:23.000Z",
-          "wordCount": null,
-          "title": "Hugging Face Hack Lessons for Cyber Defenders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
-          "author": "Ericka Chickowski",
-          "description": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
-          "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
-          "publishedOn": "2026-07-29T17:06:52.000Z",
-          "wordCount": null,
-          "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
-          "author": "Elizabeth Montalbano",
-          "description": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
-          "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
-          "publishedOn": "2026-07-29T14:40:33.000Z",
-          "wordCount": null,
-          "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-          "author": "Jeffrey Schwartz",
-          "description": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
-          "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-          "publishedOn": "2026-07-28T21:33:23.000Z",
-          "wordCount": null,
-          "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
           "imageUrl": null
         }
       ]
