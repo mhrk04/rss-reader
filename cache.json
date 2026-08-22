@@ -19294,6 +19294,86 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0.\n\n\"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
+          "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+          "publishedOn": "2026-08-21T18:53:00.000Z",
+          "wordCount": null,
+          "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine.\n\nThe driver, BTR.sys (Boot Time Removal Tool), is a",
+          "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+          "publishedOn": "2026-08-21T15:52:10.000Z",
+          "wordCount": null,
+          "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.\n\nKaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet.\n\n\"The malware spread through the built-in updaters of",
+          "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+          "publishedOn": "2026-08-21T15:41:44.000Z",
+          "wordCount": null,
+          "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
+          "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+          "publishedOn": "2026-08-21T11:21:39.000Z",
+          "wordCount": null,
+          "title": "Wazuh and AI For Enhanced SOC Workflows",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.\n\nFour of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
+          "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+          "publishedOn": "2026-08-21T10:03:11.000Z",
+          "wordCount": null,
+          "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
@@ -20892,198 +20972,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DF22WirQj4KZe5A4NxYmG3UhC2o4BRQ4AybyFlmr80n5Wkf15sbtMn11P0msoMyAe65WBqMpL2XBsqTiHdDNNH1i6qz11ydD9X4AIOoiaSfCYb1MCe7dfJD0n4TEIc5_83tsMq5zJ5zVpGbpCq7b8rACen1oMvW8XGBbz3T4hy_9J6igpOk0oCDp6vkA/s1600/progress.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DF22WirQj4KZe5A4NxYmG3UhC2o4BRQ4AybyFlmr80n5Wkf15sbtMn11P0msoMyAe65WBqMpL2XBsqTiHdDNNH1i6qz11ydD9X4AIOoiaSfCYb1MCe7dfJD0n4TEIc5_83tsMq5zJ5zVpGbpCq7b8rACen1oMvW8XGBbz3T4hy_9J6igpOk0oCDp6vkA/s1600/progress.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.\n\n\"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul",
-          "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-          "publishedOn": "2026-08-07T18:48:17.000Z",
-          "wordCount": null,
-          "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.\n\nThe macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture.\n\n\"",
-          "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-          "publishedOn": "2026-08-07T18:29:08.000Z",
-          "wordCount": null,
-          "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671.\n\n\"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via",
-          "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-          "publishedOn": "2026-08-07T18:16:13.000Z",
-          "wordCount": null,
-          "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page.\n\nTracked as CVE-2026-64638 (CVSS score: 8.9), the",
-          "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-          "publishedOn": "2026-08-07T12:56:23.000Z",
-          "wordCount": null,
-          "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to leave a name. It was idyllic. It was also, in retrospect, a little feral.\n\nThen,",
-          "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-          "publishedOn": "2026-08-07T11:55:26.000Z",
-          "wordCount": null,
-          "title": "Growing Up The Hard Way",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz974dYXx9klEa_qhJoTHKqb5QNoQwTpxsMKoZeqsvQtvWZPgPKobw1QySvcNGgnFocbYaFaaBGsB4COPaw-fqqgOHERJEVc8sgRSjto5VCrQeIWr5Nz21r3PjMTIXmwUmvakUlP4sB3iYqF2qXiabCvrqKFyFBq3GzOUwqM7LGRV68q_Ib9zt1ilCBJo/s1600/open-source.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz974dYXx9klEa_qhJoTHKqb5QNoQwTpxsMKoZeqsvQtvWZPgPKobw1QySvcNGgnFocbYaFaaBGsB4COPaw-fqqgOHERJEVc8sgRSjto5VCrQeIWr5Nz21r3PjMTIXmwUmvakUlP4sB3iYqF2qXiabCvrqKFyFBq3GzOUwqM7LGRV68q_Ib9zt1ilCBJo/s1600/open-source.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148, released August 3, close it. Anyone running an older kernel with SCTP reachable should update.",
-          "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-          "publishedOn": "2026-08-07T11:10:33.000Z",
-          "wordCount": null,
-          "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTGemKyDLZPr_sBbt2AdOQMEBEcRFzic8_Ddtkx92vtPOfFdoiwxJ60b00usecTjHuIGUJuUIR2aB8MU2P7-GLc0NOuWsa3ctofrA2-wD38wgI4Fke3moSskWjiRJEXT8Yxl7Ye56NgGl9DZKr8zf974rHRsc1PtHie_iIPVyD18HMx49S02tGZ2EeDY/s1600/linux-sctp.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTGemKyDLZPr_sBbt2AdOQMEBEcRFzic8_Ddtkx92vtPOfFdoiwxJ60b00usecTjHuIGUJuUIR2aB8MU2P7-GLc0NOuWsa3ctofrA2-wD38wgI4Fke3moSskWjiRJEXT8Yxl7Ye56NgGl9DZKr8zf974rHRsc1PtHie_iIPVyD18HMx49S02tGZ2EeDY/s1600/linux-sctp.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables.\n\nPresented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
-          "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-          "publishedOn": "2026-08-07T10:58:38.000Z",
-          "wordCount": null,
-          "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email.\n\n\"The campaign uses residential proxies to disguise malicious sign-ins as ordinary consumer traffic,",
-          "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-          "publishedOn": "2026-08-07T10:38:27.000Z",
-          "wordCount": null,
-          "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors.\n\nPortSwigger said a separate human-guided discovery cascade also exposed a zero-day in Apache Traffic Server. Kettle said HTTP Terminator tested 30,000 websites where",
-          "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-          "publishedOn": "2026-08-07T10:09:54.000Z",
-          "wordCount": null,
-          "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID.\n\nThe attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary Refresh Token (PRT), and add further authentication methods where tenant policies",
-          "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-          "publishedOn": "2026-08-07T08:52:11.000Z",
-          "wordCount": null,
-          "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81b6_YckjrqqfRrJQNRdIf3nu4xfqLNScukFYEao4VeF5QNlt16sbEwrdutizdB9Q1nOWRQpqeSZg4gYZsL8cIhRSJ43XJqMKWKgdKF28oeTl19HQQ75dnOKVHsa6DtXr4zhlmIF43nbUWV5jyEh4D1TjIvBKjgoAX2MpUbjJH3cN4hd4zDvIu_t4Jec/s1600/windows-hello-keys.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81b6_YckjrqqfRrJQNRdIf3nu4xfqLNScukFYEao4VeF5QNlt16sbEwrdutizdB9Q1nOWRQpqeSZg4gYZsL8cIhRSJ43XJqMKWKgdKF28oeTl19HQQ75dnOKVHsa6DtXr4zhlmIF43nbUWV5jyEh4D1TjIvBKjgoAX2MpUbjJH3cN4hd4zDvIu_t4Jec/s1600/windows-hello-keys.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run.\n\nNovee Security ran the attack against each vendor's agent in the configuration that the vendor ships by default, and presented the work at Black Hat USA on August 5.",
-          "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-          "publishedOn": "2026-08-07T08:18:35.000Z",
-          "wordCount": null,
-          "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguukj-eRhx9RtAq9X96hAxHi0IU3ZWgM_W5XkdWhF8ezevuBQygkpv-ku5PSri9Gt5hRkNVxe6HmJJr5Mg33X_PhOGziqaho9bwm-mkRZSBl2jo94XF3jRwTZOb_PocueKWJkEtvl7kG_YqmbVfUxNht8_ODzLOERIqQteMdPxnWpobM-c9-fHhn0cLMQ/s1600/claude-github.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguukj-eRhx9RtAq9X96hAxHi0IU3ZWgM_W5XkdWhF8ezevuBQygkpv-ku5PSri9Gt5hRkNVxe6HmJJr5Mg33X_PhOGziqaho9bwm-mkRZSBl2jo94XF3jRwTZOb_PocueKWJkEtvl7kG_YqmbVfUxNht8_ODzLOERIqQteMdPxnWpobM-c9-fHhn0cLMQ/s1600/claude-github.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain.\n\n\"The connection is supported by overlapping domains, malware deployment paths, staging techniques, backend infrastructure,",
-          "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
-          "publishedOn": "2026-08-07T06:50:05.000Z",
-          "wordCount": null,
-          "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1600/TeamPCP.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1600/TeamPCP.jpg"
         }
       ]
     },
@@ -21092,6 +20980,86 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=402256",
+          "author": "John Law",
+          "description": "Malaysia is aiming to have its locally manufactured ARM chips enter the production stage by 2030. It also hopes to be able to use said chips in its own semiconductor supply chain in the same year. Akmal Nasrullah Mohd Nasir, Economy Minister, explained that the companies in Malaysia received the technologies and permission from ARM, […]\nThe post Malaysia Wants Locally Manufactured ARM Chips To Enter Production By 2030 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/402256/malaysia-wants-locally-manufactured-arm-chips-to-enter-production-by-2030/",
+          "publishedOn": "2026-08-22T07:09:43.000Z",
+          "wordCount": 14013,
+          "title": "Malaysia Wants Locally Manufactured ARM Chips To Enter Production By 2030",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/ARM-Stock-Photo-EuroNews-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=402244",
+          "author": "Nurul Kamil",
+          "description": "It looks like POCO is gearing up to launch the next generation of its F series. The F9 Pro and F9 Ultra have appeared in quite a few leaks over the past couple of weeks, revealing their designs and specifications. Now, the Ultra model has popped up on the SIRIM database, indicating that the phone […]\nThe post POCO F9 Ultra Now Listed On SIRIM; Local Launch Soon appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/402244/poco-f9-ultra-now-listed-on-sirim/",
+          "publishedOn": "2026-08-22T02:59:30.000Z",
+          "wordCount": 14326,
+          "title": "POCO F9 Ultra Now Listed On SIRIM; Local Launch Soon",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/poco-f9-ultra-leak-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=402230",
+          "author": "Heirul Kamel",
+          "description": "Ascend Airways Malaysia has secured approval from the Civil Aviation Authority of Malaysia (CAAM) to include passenger operations in its Air Operator Certificate (AOC). The approval follows the successful completion of the airline’s AOC variation process, bringing it closer to launching passenger services. The approval also adds its first passenger aircraft, a Boeing 737-800 registered […]\nThe post Ascend Airways Malaysia Expected To Begin Passenger Operations By End-2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/402230/ascend-airways-msia-ops-end-2026/",
+          "publishedOn": "2026-08-21T10:56:47.000Z",
+          "wordCount": 14066,
+          "title": "Ascend Airways Malaysia Expected To Begin Passenger Operations By End-2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/ascend-airways-malaysia-to-start-operations-in-november-2025-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=402231",
+          "author": "John Law",
+          "description": "Samsung Electronics (Samsung) is raising the prices the manufacturing of new chips by up to 15% for new orders, according to sources close to Reuters. The move comes as the demand for AI chips continues to chip away at the already constricted supply of the component. Demand from Chinese customers, in particular, are reportedly the […]\nThe post Samsung Raises Chip Manufacturing Prices For New Orders By 15% appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/402231/samsung-raises-chip-manufacturing-prices-for-new-orders-by-15/",
+          "publishedOn": "2026-08-21T10:15:07.000Z",
+          "wordCount": 14127,
+          "title": "Samsung Raises Chip Manufacturing Prices For New Orders By 15%",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Samsung-stock-Pexel-Uday-Veeru-1-1240x828.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=402238",
+          "author": "Heirul Kamel",
+          "description": "Telekom Malaysia Bhd (TM) has expressed interest in participating in the SALAM submarine cable project, which aims to strengthen connectivity between Peninsular Malaysia and East Malaysia. Group chief executive officer Datuk Amar Huzaimi Md Deris said the company is evaluating its options and is keen to participate in the initiative. “We are very optimistic in […]\nThe post TM Keen To Participate In SALAM Submarine Cable Project appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/402238/tm-salam-submarine-cable-project/",
+          "publishedOn": "2026-08-21T10:13:02.000Z",
+          "wordCount": 14050,
+          "title": "TM Keen To Participate In SALAM Submarine Cable Project",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/submarine-cable-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=402233",
+          "author": "Kiran Ganesan",
+          "description": "After being teased earlier this week, vivo Malaysia has officially announced that the vivo V80 Lite 5G will launch in the country on 3 September 2026. Based on the provided press release, there is no indication that the company plans to rebrand the device as the vivo S2, as previously reported. Alongside the launch announcement, […]\nThe post vivo V80 Lite 5G To Launch In Malaysia On 3 September With 10,000mAh Battery appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/402233/vivo-v80-lite-launch-malaysia-3-sept/",
+          "publishedOn": "2026-08-21T09:50:24.000Z",
+          "wordCount": 14084,
+          "title": "vivo V80 Lite 5G To Launch In Malaysia On 3 September With 10,000mAh Battery",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/vivo-V80-Lite-5G-Launch-Malaysia-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=402221",
+          "author": "John Law",
+          "description": "AirAsia and more specifically, AirAsia X, is dropping its flight route between KL and Sydney. In doing this, low-cost carrier will redeploy the freed flight capacity to other cities within Australia. AirAsia has blamed “increased cost pressured, softer demand, and the need to strategically align the airline’s network and fleet”. In return to axing the […]\nThe post AirAsia Is Axing Its Kuala Lumpur-Sydney Route appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/402221/airasia-is-axing-its-kuala-lumpur-sydney-route/",
+          "publishedOn": "2026-08-21T09:25:00.000Z",
+          "wordCount": 14014,
+          "title": "AirAsia Is Axing Its Kuala Lumpur-Sydney Route",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/11/Airbus_A320-216_AirAsia_JP7522679.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=402222",
+          "author": "Heirul Kamel",
+          "description": "OpenAI has rolled out a new ChatGPT feature for Mac that allows the chatbot to interact directly with Apple’s Messages app, including reading, writing and sending iMessages. According to Bloomberg, the integration can also search through conversations and provide summaries or other information based on a user’s message history. The feature was promoted in a […]\nThe post ChatGPT Gains iMessage Access Feature On Mac, Raising Privacy Concerns appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/402222/chatgpt-imessage-privacy-concerns/",
+          "publishedOn": "2026-08-21T09:17:43.000Z",
+          "wordCount": 14186,
+          "title": "ChatGPT Gains iMessage Access Feature On Mac, Raising Privacy Concerns",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/openai-chatgpt-apple-mac-imessage_02.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=402200",
           "author": "Nurul Kamil",
@@ -22241,136 +22209,6 @@
           "wordCount": 14145,
           "title": "Samsung Galaxy S26 FE Leaks Again, Revealing All Colour Options",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/samsung-galaxy-s26-fe-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400899",
-          "author": "Kiran Ganesan",
-          "description": "Just over a week ago, Google said that it will be rolling out Gemini Spark in Malaysia. Now, the tech giant announced that the new Ask Maps feature is coming to the country as well. As the name suggests, it is the latest addition to the company Google Maps, which lets users communicate with the […]\nThe post Google Is Rolling Out Ask Maps Feature To Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400899/google-ask-maps-feature-to-malaysia/",
-          "publishedOn": "2026-08-07T12:33:43.000Z",
-          "wordCount": 14216,
-          "title": "Google Is Rolling Out Ask Maps Feature To Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Google-Ask-Maps-1-1240x698.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400891",
-          "author": "Heirul Kamel",
-          "description": "The Malaysian Institute of Road Safety Research (MIROS) has begun a three-month pilot project to introduce minimum advisory speed limits on selected highways. The initiative, which started on 1 August, is intended to encourage motorists to use lanes according to their travelling speed and reduce instances of slow-moving vehicles occupying the rightmost lane. The proof-of-concept […]\nThe post MIROS Trials Minimum Advisory Speed Limits On Three Highways To Tackle Lane Hogging appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400891/miros-trials-minimum-advisory-speed-limits/",
-          "publishedOn": "2026-08-07T12:20:13.000Z",
-          "wordCount": 14461,
-          "title": "MIROS Trials Minimum Advisory Speed Limits On Three Highways To Tackle Lane Hogging",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/04/DUKE-Highway-second-location-MLFF-POC-open-toll-payment-system-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400862",
-          "author": "John Law",
-          "description": "The Logitech G512 X 75 marks exactly a year since I last reviewed a 75% keyboard, the last one having been the ASUS ROG Falcata. Fortunately, it’s not a keyboard of the split design variety, making this review considerably easier to deal with. What Am I Looking At? This G512 X model is the 75% […]\nThe post Logitech G512 X 75 Review: Tons Of Fun, Save For The Size appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400862/logitech-g512-x-75-review/",
-          "publishedOn": "2026-08-07T12:15:34.000Z",
-          "wordCount": 14588,
-          "title": "Logitech G512 X 75 Review: Tons Of Fun, Save For The Size",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Logitech-G512-X-75-Review-1-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400828",
-          "author": "Nurul Kamil",
-          "description": "Xiaomi sub-brand REDMI has launched a selection of new smartphones for the local market. In addition to the newest members of its main numbered series, the company has announced the REDMI A7. The device is the more basic counterpart to the A7 Pro, which debuted back in April. Naturally, as an entry-level handset, the A7 […]\nThe post REDMI A7 Officially Unveiled In Malaysia With 13MP Rear Camera appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400828/redmi-a7-malaysia/",
-          "publishedOn": "2026-08-07T12:00:19.000Z",
-          "wordCount": 14148,
-          "title": "REDMI A7 Officially Unveiled In Malaysia With 13MP Rear Camera",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/redmi-a7-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400825",
-          "author": "Ian Chee",
-          "description": "In less than a month, we’ve seen reports of AI models by different companies going too far, breaking containment, and doing things the layperson would associate with a computer virus. Now, there’s a report of another generative AI model making another virus, but this one is making real-life ones, not virtual ones. And since it’s […]\nThe post AI Models Made Real Life Viruses That Spread By Infecting Bacteria appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400825/ai-models-made-real-life-viruses/",
-          "publishedOn": "2026-08-07T11:54:35.000Z",
-          "wordCount": 14192,
-          "title": "AI Models Made Real Life Viruses That Spread By Infecting Bacteria",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/LEGO-model-of-bacteriophage-virus.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400826",
-          "author": "John Law",
-          "description": "Remember a couple of weeks ago, when we reported on a gamer who transformed old 2.5-inch SATA SSDs into game cartridges? Well, meet the Steam Deck owner who gave the floppy disk medium new life. Honestly, it’s a…kind of, sort of situation with this, plus a pinch of “but why?” thrown into the pot. The […]\nThe post Steam Deck Owner Brought Floppy Disk Gaming Back To Life, Sort Of appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400826/steam-deck-owner-brought-floppy-disk-gaming-back-to-life-sort-of/",
-          "publishedOn": "2026-08-07T08:41:14.000Z",
-          "wordCount": 14205,
-          "title": "Steam Deck Owner Brought Floppy Disk Gaming Back To Life, Sort Of",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Steam-Deck-Floppy-Disk-1-1240x681.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400827",
-          "author": "Heirul Kamel",
-          "description": "Not long after launching the ExpertBook Ultra in Malaysia, ASUS has expanded its business laptop lineup with three new ExpertBook P Series models. The range comprises the ExpertBook P3 G1, ExpertBook P5 G1 and ExpertBook PM5 G2, with each model targeting a different level of performance and AI capability. Unlike the ExpertBook Ultra, which focuses […]\nThe post ASUS Launches ExpertBook P Series In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400827/asus-expertbook-p-series-malaysia/",
-          "publishedOn": "2026-08-07T08:31:06.000Z",
-          "wordCount": 14544,
-          "title": "ASUS Launches ExpertBook P Series In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/asus-expertbook-p5-g1-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400802",
-          "author": "Ian Chee",
-          "description": "Manga readers would probably have had friends ask this common question – “where can I read manga online?” – more than a handful of times. The good news is that, at least if the title was officially published by Shueisha, there’s now an official direction to point them to. That direction is towards Manga Million, […]\nThe post Shueisha Launches Manga Million; An Official Platform To Read Translated Manga appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400802/shueisha-manga-million-official-manga/",
-          "publishedOn": "2026-08-07T06:31:23.000Z",
-          "wordCount": 14159,
-          "title": "Shueisha Launches Manga Million; An Official Platform To Read Translated Manga",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Manga-Million.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400803",
-          "author": "Nurul Kamil",
-          "description": "Dell has announced a new video conferencing monitor for the local market. As the name suggests, the Dell Pro P 43 4K Huddle Conferencing Monitor (P4326QEB) is designed for huddle rooms. Conceived as an all-in-one conferencing solution for small meeting spaces, it can accommodate up to six people. In terms of specifications, the monitor features […]\nThe post Dell Pro P 43 4K Huddle Conferencing Monitor Now Available In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400803/dell-pro-p-43-4k-monitor-malaysia/",
-          "publishedOn": "2026-08-07T05:53:27.000Z",
-          "wordCount": 14100,
-          "title": "Dell Pro P 43 4K Huddle Conferencing Monitor Now Available In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/dell-pro-p-43-4k-huddle-conferencing-monitor-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400792",
-          "author": "Ian Chee",
-          "description": "Leaks of the Google Pixel Watch 5 from last month already showed what it would look like, and to some degree, its spec sheet. A more recent leak sheds light on some of the features that you can expect from the smartwatch made by the internet search giant. These come via reliable leakster Evan Blass, […]\nThe post Third Round Of Google Pixel Watch 5 Leak Showcases Some Features appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400792/3rd-google-pixel-watch-5-leak-features/",
-          "publishedOn": "2026-08-07T04:44:41.000Z",
-          "wordCount": 14122,
-          "title": "Third Round Of Google Pixel Watch 5 Leak Showcases Some Features",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Alleged-Google-Pixel-Watch-5-Press-Renders-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400776",
-          "author": "John Law",
-          "description": "Grand Theft Auto VI, or GTA VI, is one of the most hotly anticipated titles set to launch this year, and every gamer, game developer, and publisher knows this. To date, however, there has been but two trailers for the game, and that was posted all the way back at the end of 2025. That’s […]\nThe post GTA VI Extended Look Premiers On 27 August; Netflix Gets Early Access appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400776/gta-vi-extended-look-premiers-on-27-august-netflix-gets-early-access/",
-          "publishedOn": "2026-08-07T04:10:06.000Z",
-          "wordCount": 14123,
-          "title": "GTA VI Extended Look Premiers On 27 August; Netflix Gets Early Access",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/GTA-VI-Poster-Netflix-Extended-Look-1-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400781",
-          "author": "Heirul Kamel",
-          "description": "OpenAI is rolling out several updates to its ChatGPT platform starting today. The changes affect both free and paid users, with GPT-5.6 Luna becoming the default model for Free and Go subscribers and GPT-5.6 Sol receiving a number of improvements for Plus and Pro users. However, the company notes that the latter only applies to […]\nThe post ChatGPT Free And Go Users Get GPT-5.6 Luna; Unlimited Chat Coming Soon appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400781/chatgpt-free-go-luna-unlimited-chat/",
-          "publishedOn": "2026-08-07T03:59:54.000Z",
-          "wordCount": 14411,
-          "title": "ChatGPT Free And Go Users Get GPT-5.6 Luna; Unlimited Chat Coming Soon",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/05/Apple-OpenAI-ChatGPT-deal-1-1024x768.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=400777",
-          "author": "Nurul Kamil",
-          "description": "Technically, OpenAI has already stepped into the consumer hardware space with its Codex Micro keyboard last month. But this was not the long-rumoured device that the company has been working on with former Apple design chief Jony Ive. Said device will supposedly be a screenless smart speaker, and ahead of any official announcements, more details […]\nThe post OpenAI’s Ring-Shaped Smart Speaker Rumoured To Cost Over US$300 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/400777/openai-smart-speaker/",
-          "publishedOn": "2026-08-07T03:56:02.000Z",
-          "wordCount": 14152,
-          "title": "OpenAI’s Ring-Shaped Smart Speaker Rumoured To Cost Over US$300",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/OpenAI-file-pic-1.webp"
         }
       ]
     },
@@ -22380,6 +22218,26 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+          "author": "Robert Lemos",
+          "description": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
+          "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+          "publishedOn": "2026-08-21T17:36:53.000Z",
+          "wordCount": null,
+          "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
+          "author": "Darshan Tiwari",
+          "description": "Government agencies with smaller budgets need support — and here's how you can help.",
+          "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
+          "publishedOn": "2026-08-21T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Calling on Cyber Pros to Help Defend City Hall",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
           "author": "Darshan Tiwari",
           "description": "Government agencies with smaller budgets need support — and here's how you can help.",
@@ -22387,6 +22245,16 @@
           "publishedOn": "2026-08-21T14:00:00.000Z",
           "wordCount": null,
           "title": "Calling on Cyber Pros to Help Defend City Hall",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+          "author": "Alexander Culafi",
+          "description": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+          "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+          "publishedOn": "2026-08-21T13:30:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI Adds Controls That Should've Been There Already",
           "imageUrl": null
         },
         {
@@ -22797,26 +22665,6 @@
           "publishedOn": "2026-08-10T15:59:27.000Z",
           "wordCount": null,
           "title": "Sherlock Holmes was the “OG” Social Engineer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
-          "author": "Robert Lemos",
-          "description": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
-          "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
-          "publishedOn": "2026-08-07T16:47:43.000Z",
-          "wordCount": null,
-          "title": "AI-Generated Patches Fail Half the Time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
-          "author": "Arielle Waldman",
-          "description": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
-          "publishedOn": "2026-08-06T21:42:50.000Z",
-          "wordCount": null,
-          "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
           "imageUrl": null
         }
       ]
