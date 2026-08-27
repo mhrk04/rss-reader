@@ -2,10 +2,412 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-08-26T08:52:57.244Z</updated>
+    <updated>2026-08-27T19:01:30.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026"/>
+        <updated>2026-08-27T17:25:09.000Z</updated>
+        <summary type="html"><![CDATA[This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.]]></summary>
+        <author>
+            <name>Becky Bracken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE]]></title>
+        <id>https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html</id>
+        <link href="https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html"/>
+        <updated>2026-08-27T15:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Credit: Hacktron
+Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal flaw affecting servers that use a Windows filesystem.
+
+The Windows path traversal, tracked as CVE-2026-75604&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories]]></title>
+        <id>https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html</id>
+        <link href="https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html"/>
+        <updated>2026-08-27T15:12:16.000Z</updated>
+        <summary type="html"><![CDATA[A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine.
+
+The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting before showing their real behavior, exposed systems getting scanned, and exploit windows shrinking again. Different]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers]]></title>
+        <id>https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html</id>
+        <link href="https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html"/>
+        <updated>2026-08-27T13:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers.
+
+The security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindguard. The latest version of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi Officially Unveils REDMI Note 17 Series Ahead Of Local Launch]]></title>
+        <id>https://www.lowyat.net/?p=402591</id>
+        <link href="https://www.lowyat.net/2026/402591/xiaomi-unveils-redmi-note-17-series/"/>
+        <updated>2026-08-27T12:19:26.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomi has officially unveiled the REDMI Note 17 series ahead of its official launch in Malaysia. According to the company, the series in question consists of four different models: the standard REDMI Note 17, a 5G variant, a Pro 5G version, and the first Pro Max model. Unfortunately, the company did not reveal the pricing […]
+The post Xiaomi Officially Unveils REDMI Note 17 Series Ahead Of Local Launch appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy S26 FE Hands On: The Same “Familar Design, Updated Internals” Move]]></title>
+        <id>https://www.lowyat.net/?p=402532</id>
+        <link href="https://www.lowyat.net/2026/402532/samsung-galaxy-s26-fe-hands-on/"/>
+        <updated>2026-08-27T12:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Samsung’s Galaxy S26 FE has come a little early this year. I honestly wasn’t expecting the Korean giant to release it so soon, given that rumours of it only just began floating about the internet. But, for better or worse, Samsung gave us some time with the phone, and we got to see what the […]
+The post Samsung Galaxy S26 FE Hands On: The Same “Familar Design, Updated Internals” Move appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Build Security Operations Ready for AI-Powered Attacks]]></title>
+        <id>https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html</id>
+        <link href="https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"/>
+        <updated>2026-08-27T11:56:30.000Z</updated>
+        <summary type="html"><![CDATA[Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.
+
+Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle.
+
+The challenge is no longer just finding another vulnerability or]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks]]></title>
+        <id>https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html</id>
+        <link href="https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html"/>
+        <updated>2026-08-27T11:56:26.000Z</updated>
+        <summary type="html"><![CDATA[The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and Checkmarx KICS and the AI gateway LiteLLM.
+
+Louis Michael Gaebler, 23, and Ruben Ian Thomson, 21, appeared in Perth Magistrates Court on August 27,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Data Says About AI in Security Operations in 2026]]></title>
+        <id>https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html</id>
+        <link href="https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html"/>
+        <updated>2026-08-27T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI daily. Another 56% are currently testing it out, and only 4% have no plans to adopt it.
+
+For the teams already using AI, what is actually changing? Here are the ten biggest]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Hackers Phish EU Officials Over Messaging Apps]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps"/>
+        <updated>2026-08-27T11:16:01.000Z</updated>
+        <summary type="html"><![CDATA[EU governments are trying to move away from popular messaging apps as nation-state threat groups shift their focus from email to Signal and WhatsApp.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools]]></title>
+        <id>https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html</id>
+        <link href="https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html"/>
+        <updated>2026-08-27T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT.
+
+"The samples employ diverse lure themes, suggesting an effort to appeal to a broad range of potential victims. These include government notices, public health materials, real estate-related content, and other topics," Acronis Threat]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parkson Credit Partners Up With Boost Bank To Expand Digital Services]]></title>
+        <id>https://www.lowyat.net/?p=402559</id>
+        <link href="https://www.lowyat.net/2026/402559/parkson-credit-boost-bank/"/>
+        <updated>2026-08-27T10:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Boost Bank recently entered into a partnership with Parkson Credit, the latter being a venture group owned by the Parkson Retail Group. Through the partnership, Parkson Credit is hoping to leverage its partner’s digital banking infrastructure to deliver more frictionless, customer-centric solutions. “As Parkson Credit continues to evolve, our ambition is to make financial services […]
+The post Parkson Credit Partners Up With Boost Bank To Expand Digital Services appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operation Bluebird Launches Twitter.now]]></title>
+        <id>https://www.lowyat.net/?p=402542</id>
+        <link href="https://www.lowyat.net/2026/402542/operation-bluebird-live-at-twitter-now/"/>
+        <updated>2026-08-27T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in December, a Virginia startup going by Operation Bluebird announced that it wanted to bring back Twitter. After all, the social media platform that everyone colloquially calls that is actually X, which sits under the SpaceX umbrella, and is therefore owned by Elon Musk. The startup said at the time that the Twitter name […]
+The post Operation Bluebird Launches Twitter.now appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address]]></title>
+        <id>https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html</id>
+        <link href="https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html"/>
+        <updated>2026-08-27T09:33:38.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela.
+
+GoCaracal provides operators with remote shell access and payload execution, while the extended profile adds browser data theft, keylogging, remote desktop control]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS Introduces Three New Ace Gaming Monitors For Esports]]></title>
+        <id>https://www.lowyat.net/?p=402567</id>
+        <link href="https://www.lowyat.net/2026/402567/asus-introduces-new-ace-gaming-monitors/"/>
+        <updated>2026-08-27T09:10:29.000Z</updated>
+        <summary type="html"><![CDATA[ASUS announced that it will be rolling out three new gaming monitors later this year. All three are part of the company’s Ace line of products and are especially marketed with esports players in mind. The lineup consists of the ROG Swift OLED PG259QWS Ace, the ROG Strix OLED XG259QDPG Ace, and the ROG Strix […]
+The post ASUS Introduces Three New Ace Gaming Monitors For Esports appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eligible SOCAR Users Can Now Get Up To RM200 In Mobility Credits On GoCar]]></title>
+        <id>https://www.lowyat.net/?p=402543</id>
+        <link href="https://www.lowyat.net/2026/402543/socar-users-rm200-credits-gocar/"/>
+        <updated>2026-08-27T08:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this month, SOCAR confirmed that it is ceasing its car-sharing operations in Malaysia. With the service set to officially end on 31 August 2026, existing users must seek out other rental platforms. Among the available alternatives is GoCar Mobility (GoCar), which has announced an offer for eligible SOCAR users. This initiative is aimed at […]
+The post Eligible SOCAR Users Can Now Get Up To RM200 In Mobility Credits On GoCar appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access]]></title>
+        <id>https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html</id>
+        <link href="https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html"/>
+        <updated>2026-08-27T08:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell.
+
+Dubbed GPUThor, the attack was developed by researchers at the University of Toronto, who hammered four DRAM]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs]]></title>
+        <id>https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html</id>
+        <link href="https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html"/>
+        <updated>2026-08-27T07:05:28.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2019-1068 - A remote code execution vulnerability in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Honda City Available For Booking In Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=402509</id>
+        <link href="https://www.lowyat.net/2026/402509/2026-honda-city-for-booking-malaysia/"/>
+        <updated>2026-08-27T06:29:04.000Z</updated>
+        <summary type="html"><![CDATA[Honda Malaysia has announced that the 2026 Honda City is now open for booking. It will be available in both petrol and hybrid models. It’s a bigger facelift than before, with a narrower grille and slimmer LED headlights. The long light bar being integrated also gives a cleaner and sleeker look, as opposed to the […]
+The post 2026 Honda City Available For Booking In Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA And Perplexity Launch New “Portable Computer” Agent]]></title>
+        <id>https://www.lowyat.net/?p=402525</id>
+        <link href="https://www.lowyat.net/2026/402525/nvidia-and-perplexity-launches-new-portable-computer-agent/"/>
+        <updated>2026-08-27T04:57:47.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA and Perplexity have officially and jointly launched a new Agentic AI platform named simply as Portable Computer. Simply put, it’s an agent that doesn’t necessarily lean on the cloud, or the usual cost of tokens that run it. As NVIDIA puts it, the Portable Computer agent is designed to work optimally on its DGX […]
+The post NVIDIA And Perplexity Launch New “Portable Computer” Agent appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung One UI 9 Simplifies The Switch From iPhone]]></title>
+        <id>https://www.lowyat.net/?p=402515</id>
+        <link href="https://www.lowyat.net/2026/402515/samsung-one-ui-9-switch-from-iphone/"/>
+        <updated>2026-08-27T04:52:05.000Z</updated>
+        <summary type="html"><![CDATA[When changing phones, moving data from the old device to the new one can be a tedious process. To address these woes, companies have introduced features or apps that allow for quick transfers during setup. Now, Samsung has further streamlined its take on the idea. With the One UI 9 update, Smart Switch has simplified […]
+The post Samsung One UI 9 Simplifies The Switch From iPhone appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockstar Games Finally Addresses “Heartbreaking” GTA VI Leaks]]></title>
+        <id>https://www.lowyat.net/?p=402505</id>
+        <link href="https://www.lowyat.net/2026/402505/rockstar-games-gta-vi-leaks/"/>
+        <updated>2026-08-27T03:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Grand Theft Auto VI, or GTA VI, is scheduled to launch later this year, after roughly a decade of development and multiple delays. However, ahead of its official release, clips showcasing the game began circulating online, revealing elements like gameplay, cutscenes, and maps. Now, developer Rockstar Games has issued a statement addressing these leaks. In […]
+The post Rockstar Games Finally Addresses “Heartbreaking” GTA VI Leaks appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Caracal Adds New Malware to Cyber Espionage Arsenal]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal"/>
+        <updated>2026-08-26T21:33:06.000Z</updated>
+        <summary type="html"><![CDATA[GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.]]></summary>
+        <author>
+            <name>Jai Vijayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HTTP Terminator' Hunts for Novel Desync Attacks]]></title>
+        <id>https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks</id>
+        <link href="https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks"/>
+        <updated>2026-08-26T19:54:34.000Z</updated>
+        <summary type="html"><![CDATA[James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques.]]></summary>
+        <author>
+            <name>darkreading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Flags That Expose Fake North Korean IT Workers]]></title>
+        <id>https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers</id>
+        <link href="https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers"/>
+        <updated>2026-08-26T19:21:24.000Z</updated>
+        <summary type="html"><![CDATA[North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Malware Hijacks Update System for Car Head Units]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units"/>
+        <updated>2026-08-26T17:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations]]></title>
+        <id>https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html</id>
+        <link href="https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html"/>
+        <updated>2026-08-26T16:42:03.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country.
+
+The activity has been attributed to a Chinese state-sponsored group known as QTFY, employed by Nanjing Xinjiuwei Network Technology Company (南京鑫玖维网络科技有限公司).&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler]]></title>
+        <id>https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html</id>
+        <link href="https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html"/>
+        <updated>2026-08-26T15:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC).
+
+Group-IB, in a new analysis published today, described the cyber espionage actor as among the most active Iranian APT groups in 2026. Nimbus Manticore (aka]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions]]></title>
+        <id>https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html</id>
+        <link href="https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html"/>
+        <updated>2026-08-26T13:44:31.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.
+
+In a report shared with The Hacker News ahead of publication, Island characterized the $320/month service as a subscription-based phishing platform that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing]]></title>
+        <id>https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html</id>
+        <link href="https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html"/>
+        <updated>2026-08-26T13:07:02.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes.
+
+Both organizations were fully compromised at the domain level, and in both, the red team also]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code]]></title>
+        <id>https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html</id>
+        <link href="https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html"/>
+        <updated>2026-08-26T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it.
+
+The flaws, tracked as CVE-2026-19913 and CVE-2026-19912, both stem from the same unsafe deserialization in the mwEmbedLoader.php endpoint of the mwEmbed player]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine]]></title>
+        <id>https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html</id>
+        <link href="https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html"/>
+        <updated>2026-08-26T11:36:49.000Z</updated>
+        <summary type="html"><![CDATA[The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then waits for a human to decide if it should escalate to an investigation.
+
+Given the volume of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month]]></title>
+        <id>https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month</id>
+        <link href="https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month"/>
+        <updated>2026-08-26T11:33:40.000Z</updated>
+        <summary type="html"><![CDATA[The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests]]></title>
+        <id>https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html</id>
+        <link href="https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html"/>
+        <updated>2026-08-26T10:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs.
+
+The original incident was first reported by ABC News on August 10, based on chat logs and screenshots the user supplied. He had asked an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation]]></title>
+        <id>https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html</id>
+        <link href="https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"/>
+        <updated>2026-08-26T09:38:45.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn.
+
+The accounts "were being used to promote the International Burke Institute (IBI), a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interpol's Jackal IV Disrupts West African Crime Infrastructure]]></title>
         <id>https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure</id>
@@ -2733,426 +3135,6 @@ The post Intel Nova Lake 8P+12E CPU To Retain 36MB L3 Cache appeared first on Lo
 The post Shopee Malaysia Finally Adds TNG eWallet Support, But Not How You’d Expect appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belgium's eID Authentication Opens Citizen Accounts to RCE]]></title>
-        <id>https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce</id>
-        <link href="https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce"/>
-        <updated>2026-08-13T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation Reveals Limited Edition PS5 Console Bundles Featuring Marvel’s Wolverine]]></title>
-        <id>https://www.lowyat.net/?p=401251</id>
-        <link href="https://www.lowyat.net/2026/401251/limited-edition-ps5-bundles-wolverine/"/>
-        <updated>2026-08-13T06:58:32.000Z</updated>
-        <summary type="html"><![CDATA[Marvel’s Wolverine is scheduled for launch on 15 September. To commemorate the launch, PlayStation has announced a limited edition bundle PS5 featuring the titular character. Officially, it’s named the PS5 Digital Edition – Marvel’s Wolverine Battle Yellow Limited Edition Bundle. In it are the console itself with a theme-appropriate set of console covers rather than […]
-The post PlayStation Reveals Limited Edition PS5 Console Bundles Featuring Marvel’s Wolverine appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel CEO Eyes A Return To Memory; Hints At Memory-CPU Architecture]]></title>
-        <id>https://www.lowyat.net/?p=401435</id>
-        <link href="https://www.lowyat.net/2026/401435/intel-ceo-eyes-a-return-to-memory/"/>
-        <updated>2026-08-13T06:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Intel CEO Lip-Bu Tan has recently expressed interest in exploring new memory architectures, describing them as one of his “pet projects”. He also hinted at the possibility of stacking memory with CPUs. Previously, Tan thought of memory as a commodity business. However, it has since become a strategic asset amid growing demand driven by AI. […]
-The post Intel CEO Eyes A Return To Memory; Hints At Memory-CPU Architecture appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo Legion Go 2 Long-Term Review: Versatility, Still Unmatched]]></title>
-        <id>https://www.lowyat.net/?p=401335</id>
-        <link href="https://www.lowyat.net/2026/401335/lenovo-legion-go-2-long-term-review/"/>
-        <updated>2026-08-13T06:20:49.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to handheld gaming PCs (no, I refuse to call them consoles when they have Windows installed), having a touchpad and a built-in kickstand are among the key criteria I look for. After considering various options, including the many models we have reviewed, I eventually decided to settle on the 2023 Lenovo Legion […]
-The post Lenovo Legion Go 2 Long-Term Review: Versatility, Still Unmatched appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Exploit SharePoint Authentication Bypass After Public PoC Release]]></title>
-        <id>https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html</id>
-        <link href="https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"/>
-        <updated>2026-08-13T06:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.
-
-The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates.
-
-"The authentication]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zotac Launches 20th Anniversary Edition RTX 5080 Solid Core OC]]></title>
-        <id>https://www.lowyat.net/?p=401402</id>
-        <link href="https://www.lowyat.net/2026/401402/zotac-launches-20th-anniversary-edition-rtx-5080-solid-core-oc/"/>
-        <updated>2026-08-13T05:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Zotac recently turned 20 years old and to celebrate, it launched a 20th anniversary edition of its GeForce RTX 5080 Solid Core OC graphics card. As per the name, the card is from a currently existing lineup, just in a different colourway. The new colourway, in this case, is a titanium colour finish, which is […]
-The post Zotac Launches 20th Anniversary Edition RTX 5080 Solid Core OC appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nubia A77 5G Launched In Malaysia With 50MP Camera, Everyday AI Features]]></title>
-        <id>https://www.lowyat.net/?p=401393</id>
-        <link href="https://www.lowyat.net/2026/401393/nubia-a77-5g-malaysia/"/>
-        <updated>2026-08-13T04:49:22.000Z</updated>
-        <summary type="html"><![CDATA[The nubia A77 5G has officially launched in Malaysia as the brand’s newest addition to its smartphone lineup. Conceived as an accessible 5G-enabled device, it features a sleek yet durable design and a selection of everyday AI-driven features. Starting with the exterior, the new handset sports a 6.75-inch HD+ waterdrop display with a 120Hz refresh […]
-The post nubia A77 5G Launched In Malaysia With 50MP Camera, Everyday AI Features appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POCO F9 Pro, F9 Ultra Tipped To Have A Larger Battery, 100W Fast Charging]]></title>
-        <id>https://www.lowyat.net/?p=401375</id>
-        <link href="https://www.lowyat.net/2026/401375/poco-f9-pro-f9-ultra-tipped-battery/"/>
-        <updated>2026-08-13T03:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Xiaomi is expected to launch the successors to the POCO F8 series in the form of the POCO F9 series, more specifically the F9 Pro and F9 Ultra models. The two devices have already appeared in several certification databases, including Singapore’s IMDA and Indonesia’s SDPPI, suggesting that an international launch could be on the horizon. […]
-The post POCO F9 Pro, F9 Ultra Tipped To Have A Larger Battery, 100W Fast Charging appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR Magic9 Series With New Design Teased; China Launch In September]]></title>
-        <id>https://www.lowyat.net/?p=401376</id>
-        <link href="https://www.lowyat.net/2026/401376/honor-magic9-teaser/"/>
-        <updated>2026-08-13T03:03:54.000Z</updated>
-        <summary type="html"><![CDATA[HONOR recently launched its Robot Phone in China, and during the event, the brand took the opportunity to tease another new product. The phone maker offered a glimpse of the upcoming Magic9 series, revealing hints of a new design and upgrades to its imaging system. The teaser image itself does not show off the device […]
-The post HONOR Magic9 Series With New Design Teased; China Launch In September appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitch Is Training Amazon’s AI Models With Your Content; Here’s How To Opt Out]]></title>
-        <id>https://www.lowyat.net/?p=401377</id>
-        <link href="https://www.lowyat.net/2026/401377/twitch-training-amazon-ai/"/>
-        <updated>2026-08-13T02:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Live streaming platform Twitch is now allowing Amazon, its parent company, to use streamer content to train generative AI models, with the feature enabled by default. Unsurprisingly, the move has sparked backlash from the platform’s community, particularly because creators have to manually opt out rather than explicitly agreeing to have their content used for AI […]
-The post Twitch Is Training Amazon’s AI Models With Your Content; Here’s How To Opt Out appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-running Data Theft Campaign Targeting Salesforce, ServiceNow]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow"/>
-        <updated>2026-08-12T21:08:54.000Z</updated>
-        <summary type="html"><![CDATA[The "City-Forum" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.]]></summary>
-        <author>
-            <name>Jai Vijayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor]]></title>
-        <id>https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html</id>
-        <link href="https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"/>
-        <updated>2026-08-12T17:39:27.000Z</updated>
-        <summary type="html"><![CDATA[The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.
-
-The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming"/>
-        <updated>2026-08-12T16:28:04.000Z</updated>
-        <summary type="html"><![CDATA[Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises]]></summary>
-        <author>
-            <name>Richard Thurston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Officially Launches Pixel Watch 5, Pixel Tag]]></title>
-        <id>https://www.lowyat.net/?p=401358</id>
-        <link href="https://www.lowyat.net/2026/401358/google-launches-pixel-watch-5-pixel-tag/"/>
-        <updated>2026-08-12T15:37:22.000Z</updated>
-        <summary type="html"><![CDATA[With the Made by Google event now in full force, the internet search giant has unveiled its newest wave of devices. While the main attraction for the event is the newest range of smartphones, the company’s newest accessory lineup, which will be the subject of this article. For your reference, we are talking about the […]
-The post Google Officially Launches Pixel Watch 5, Pixel Tag appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One]]></title>
-        <id>https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html</id>
-        <link href="https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html"/>
-        <updated>2026-08-12T14:09:50.000Z</updated>
-        <summary type="html"><![CDATA[A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure.
-
-The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition"/>
-        <updated>2026-08-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart Leaders Transform Security Operations Without Going Bananas]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas"/>
-        <updated>2026-08-12T12:41:03.000Z</updated>
-        <summary type="html"><![CDATA[The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.]]></summary>
-        <author>
-            <name>Richard Thurston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning]]></title>
-        <id>https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html</id>
-        <link href="https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"/>
-        <updated>2026-08-12T11:47:38.000Z</updated>
-        <summary type="html"><![CDATA[A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.
-
-The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enterprise Defenses Recovered at the Edge and Collapsed Inside]]></title>
-        <id>https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html</id>
-        <link href="https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html"/>
-        <updated>2026-08-12T11:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.
-
-According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws]]></title>
-        <id>https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html</id>
-        <link href="https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"/>
-        <updated>2026-08-12T11:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.
-
-The most severe of the flaws are listed below -
-
-
-  CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access]]></title>
-        <id>https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html</id>
-        <link href="https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"/>
-        <updated>2026-08-12T09:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.
-
-The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazfit T-Rex Dual Solar Appears In SIRIM; Possibly Launching Soon]]></title>
-        <id>https://www.lowyat.net/?p=401273</id>
-        <link href="https://www.lowyat.net/2026/401273/amazfit-t-rex-dual-solar-sirim/"/>
-        <updated>2026-08-12T08:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Though Amazfit has a wide range of smartwatches under its belt, it has yet to launch one that comes with solar charging capabilities like Garmin has. However, that may soon change as a few news outlets have spotted what seems to be the brand’s first solar-powered watch making its appearance in certification databases, including SIRM. […]
-The post Amazfit T-Rex Dual Solar Appears In SIRIM; Possibly Launching Soon appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U Mobile Partners With OpenAI To Embed AI Across Its Business]]></title>
-        <id>https://www.lowyat.net/?p=401277</id>
-        <link href="https://www.lowyat.net/2026/401277/u-mobile-partners-with-openai/"/>
-        <updated>2026-08-12T08:47:50.000Z</updated>
-        <summary type="html"><![CDATA[U Mobile has announced a strategic collaboration with OpenAI as part of its push to become Malaysia’s first AI-enabled telecommunications provider. The partnership will see the two companies explore ways to integrate OpenAI’s AI capabilities across U Mobile’s operations, workforce, customer experiences, and enterprise offerings. As part of the collaboration, the telco will gain early […]
-The post U Mobile Partners With OpenAI To Embed AI Across Its Business appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations]]></title>
-        <id>https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html</id>
-        <link href="https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html"/>
-        <updated>2026-08-12T08:04:52.000Z</updated>
-        <summary type="html"><![CDATA[Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.
-
-Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modder Makes SteamBoy, A Game Boy-Sized Steam Deck]]></title>
-        <id>https://www.lowyat.net/?p=401237</id>
-        <link href="https://www.lowyat.net/2026/401237/steamboy-game-boy-sized-steam-deck/"/>
-        <updated>2026-08-12T08:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Redditor and modder PhyFawkes recently showed their latest project called the SteamBoy. And honestly, it’s left this writer with a level of pain, cringe, and horror over what they’re looking at, simply because they own a Steam Deck, and this is painful to look at, to say the least. If the name wasn’t a dead […]
-The post Modder Makes SteamBoy, A Game Boy-Sized Steam Deck appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code]]></title>
-        <id>https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html</id>
-        <link href="https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"/>
-        <updated>2026-08-12T07:31:40.000Z</updated>
-        <summary type="html"><![CDATA[SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.
-
-The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation.
-
-"SAP Commerce Cloud allows an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marshall Acton IV And Stanmore IV To Officially Arrive In Malaysia On 20 August 2026]]></title>
-        <id>https://www.lowyat.net/?p=401239</id>
-        <link href="https://www.lowyat.net/2026/401239/marshall-acton-iv-stanmore-iv-malaysia/"/>
-        <updated>2026-08-12T07:22:28.000Z</updated>
-        <summary type="html"><![CDATA[Marshall has announced two new additions to its range of Bluetooth home speakers for the Malaysian market. The Acton IV and Stanmore IV serve as the successors to the Acton III and Stanmore III, which officially debuted globally back in 2022. According to the brand, the new speakers pack enhanced sound and powerful performance into […]
-The post Marshall Acton IV And Stanmore IV To Officially Arrive In Malaysia On 20 August 2026 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Images Of Xbox Elite 3 Controller Prototype Appear Online]]></title>
-        <id>https://www.lowyat.net/?p=401212</id>
-        <link href="https://www.lowyat.net/2026/401212/live-xbox-elite-3-appear-online/"/>
-        <updated>2026-08-12T07:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Back in May, we saw a glimpse of what could be the next Xbox Elite controller, or indeed a prototype of one, as shared by Tecnoblog. One sample of this has been found in the wild, and posted by a Reddit user going by ssuberlex. The post has been removed since, but not before other […]
-The post Live Images Of Xbox Elite 3 Controller Prototype Appear Online appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access]]></title>
-        <id>https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html</id>
-        <link href="https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"/>
-        <updated>2026-08-12T06:41:38.000Z</updated>
-        <summary type="html"><![CDATA[The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.
-
-The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet.
-
-RoguePlanet has been described]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS]]></title>
-        <id>https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html</id>
-        <link href="https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html"/>
-        <updated>2026-08-12T06:15:58.000Z</updated>
-        <summary type="html"><![CDATA[Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.
-
-The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palit Expands GeForce RTX 5060 Ti Lineup With Three New Models]]></title>
-        <id>https://www.lowyat.net/?p=401225</id>
-        <link href="https://www.lowyat.net/2026/401225/palit-expands-geforce-rtx-5060-ti-lineup-with-three-new-models/"/>
-        <updated>2026-08-12T05:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Palit added three new RTX 5060 Ti models to its portfolio. These models include the Infinity 3, Dual, and White Series, and all three are available in both 8GB and 16GB variations of the GPU. The Infinity 3, as its name suggests, is a triple-fan RTX 5060 Ti and the model that essentially features heavy-duty […]
-The post Palit Expands GeForce RTX 5060 Ti Lineup With Three New Models appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedMagic Astra 2 To Go On Sale Globally On 26 August; Official Price Revealed]]></title>
-        <id>https://www.lowyat.net/?p=401187</id>
-        <link href="https://www.lowyat.net/2026/401187/redmagic-astra-2-sale-26-august-price/"/>
-        <updated>2026-08-12T05:31:30.000Z</updated>
-        <summary type="html"><![CDATA[It has been some time since RedMagic introduced the Gaming Tablet 5 Pro in China, which is known internationally as the Astra 2. While the company’s Malaysian branch has yet to make any formal announcements, its international website has confirmed that the tablet will soon be available for purchase globally. According to RedMagic’s international website, […]
-The post RedMagic Astra 2 To Go On Sale Globally On 26 August; Official Price Revealed appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Rakyat Digital Portal Launched With Literacy And Skill Hubs, Free AI Subscription Opportunities]]></title>
-        <id>https://www.lowyat.net/?p=401190</id>
-        <link href="https://www.lowyat.net/2026/401190/rakyat-digital-portal-launched/"/>
-        <updated>2026-08-12T04:41:46.000Z</updated>
-        <summary type="html"><![CDATA[The Malaysian government has officially launched the new Rakyat Digital portal. This update consolidates multiple initiatives focused on digital literacy and skills into a single platform, with the goal of equipping Malaysians with the necessary competence as the country moves forward with its AI ambitions. Created by the Ministry of Digital through the MyDIGITAL Corporation, […]
-The post New Rakyat Digital Portal Launched With Literacy And Skill Hubs, Free AI Subscription Opportunities appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer Updates Naga Line With V3 Pro Entry; Costs RM769]]></title>
-        <id>https://www.lowyat.net/?p=401194</id>
-        <link href="https://www.lowyat.net/2026/401194/razer-naga-v3-pro-costs-rm769/"/>
-        <updated>2026-08-12T04:33:07.000Z</updated>
-        <summary type="html"><![CDATA[UPDATE (1:30 PM): After reaching out to a Razer rep, we’re told that only the two main buttons on the mouse make use of optical switches. The rest are conventional mechanical buttons. ORIGINAL STORY (12:33 PM): It’s been nearly four years since Razer last added an entry into its Naga line of MMO-centric gaming mice. Back […]
-The post Razer Updates Naga Line With V3 Pro Entry; Costs RM769 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPO, vivo Deny Rumours Of Joint Vlogging Camera Development]]></title>
-        <id>https://www.lowyat.net/?p=401188</id>
-        <link href="https://www.lowyat.net/2026/401188/oppo-vivo-deny-vlogging-camera-collab/"/>
-        <updated>2026-08-12T02:55:22.000Z</updated>
-        <summary type="html"><![CDATA[Rumours of a major collaboration between OPPO and vivo on a new imaging product have been firmly shut down. Both smartphone brands have denied reports claiming they had finalised a strategic partnership to jointly develop and launch a pocket gimbal camera using shared imaging technology. In statements to Nandu Bay Finance, as reported by ITHome, […]
-The post OPPO, vivo Deny Rumours Of Joint Vlogging Camera Development appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's Patch Tuesday Deluge Continues With August Updates]]></title>
-        <id>https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues</id>
-        <link href="https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues"/>
-        <updated>2026-08-11T21:42:34.000Z</updated>
-        <summary type="html"><![CDATA[Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.]]></summary>
-        <author>
-            <name>Jai Vijayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa"/>
-        <updated>2026-08-11T21:16:25.000Z</updated>
-        <summary type="html"><![CDATA[The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.]]></summary>
-        <author>
-            <name>Rob Wright</name>
         </author>
     </entry>
     <entry>
