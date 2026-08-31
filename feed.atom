@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-08-30T13:44:57.395Z</updated>
+    <updated>2026-08-31T16:05:29.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More]]></title>
+        <id>https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html</id>
+        <link href="https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html"/>
+        <updated>2026-08-31T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The boring parts caused most of the trouble.
+
+A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional.
+
+Elsewhere, fake apps, helpful support calls, cheap banking kits, exposed systems, and weak defaults kept]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions]]></title>
+        <id>https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html</id>
+        <link href="https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html"/>
+        <updated>2026-08-31T12:14:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions.
+
+Russian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets]]></title>
+        <id>https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html</id>
+        <link href="https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html"/>
+        <updated>2026-08-31T11:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security.
+
+The two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime group, leading to the discovery of its]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance]]></title>
+        <id>https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html</id>
+        <link href="https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html"/>
+        <updated>2026-08-31T11:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether an agent’s access is legitimate.
+
+
+AI has moved from the browser tab to the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs]]></title>
+        <id>https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html</id>
+        <link href="https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html"/>
+        <updated>2026-08-31T09:04:55.000Z</updated>
+        <summary type="html"><![CDATA[A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks.
+
+Sygnia, the incident response firm that investigated the intrusion, said the actor]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims]]></title>
+        <id>https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html</id>
+        <link href="https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html"/>
+        <updated>2026-08-31T07:56:53.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted.
+
+Last week, the DoJ said the National Aeronautics and Space Administration, Federal Reserve, Department of Energy, Department of Justice, Department]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bandai Announces The Tamagotchi Ring That’s Fully Functional]]></title>
         <id>https://www.lowyat.net/?p=402743</id>
@@ -3006,61 +3081,6 @@ The post Lenovo Quietly Launches ThinkStation P4 In Malaysia With AMD Ryzen PRO 
 The post nubia Launches Neo 5 Max; A “PadPhone” With A 7.5-Inch Screen appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No, AI Doesn’t “Go Rogue”. It Just Does What It’s Told.]]></title>
-        <id>https://www.lowyat.net/?p=401403</id>
-        <link href="https://www.lowyat.net/2026/401403/ai-doesnt-go-rogue/"/>
-        <updated>2026-08-17T03:25:39.000Z</updated>
-        <summary type="html"><![CDATA[At this point, we can probably expect modern AI to behave in unexpected ways. You’ve probably heard of OpenAI’s runaway models: agents that escaped containment and went on a hacking spree. Not long after that, both Anthropic and Meta revealed that their models had some of their own mishaps. With these incidents in mind, one […]
-The post No, AI Doesn’t “Go Rogue”. It Just Does What It’s Told. appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Reportedly Working On Over-Ear Headphones For The First Time In A Decade]]></title>
-        <id>https://www.lowyat.net/?p=401707</id>
-        <link href="https://www.lowyat.net/2026/401707/samsung-reportedly-over-ear-headphones/"/>
-        <updated>2026-08-17T03:19:12.000Z</updated>
-        <summary type="html"><![CDATA[We previously reported that Samsung seems to be dabbling in different earphone styles. If the leaked images are to be believed, we could expect a TWS with an ear hook design and the brand’s first clip-on buds. Now, another batch of images surfaced online, this time hinting at the tech giant’s possible return to developing […]
-The post Samsung Reportedly Working On Over-Ear Headphones For The First Time In A Decade appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OPPO Find X10 Ultra, vivo X500 Ultra Reportedly Remaining Exclusive To China]]></title>
-        <id>https://www.lowyat.net/?p=401708</id>
-        <link href="https://www.lowyat.net/2026/401708/oppo-vivo-ultra-exclusive-china/"/>
-        <updated>2026-08-17T03:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, both OPPO and vivo brought the Ultra variants of their respective flagship smartphone lineups to the global market. Now, if you were holding off on buying either of these devices in hopes of getting your hands on their successors, you may be out of luck. A recent rumour suggests that the selection […]
-The post OPPO Find X10 Ultra, vivo X500 Ultra Reportedly Remaining Exclusive To China appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Users Can Now Remove Visible Watermarks From Images Generated With Google Gemini]]></title>
-        <id>https://www.lowyat.net/?p=401682</id>
-        <link href="https://www.lowyat.net/2026/401682/google-gemini-visible-watermarks/"/>
-        <updated>2026-08-16T06:09:26.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI image outputs are becoming more convincing, leading to concerns about distinguishing between real and fabricated content. One way to identify AI-generated images is through the embedded watermarks, although looking for the visible Gemini logo is not always a reliable method. This is especially true now that Google is giving users the option to […]
-The post Users Can Now Remove Visible Watermarks From Images Generated With Google Gemini appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK Hynix Refunds Customer For Faulty SSD Instead of Replacing It]]></title>
-        <id>https://www.lowyat.net/?p=401667</id>
-        <link href="https://www.lowyat.net/2026/401667/sk-hynix-refunds-customer-for-faulty-ssd-instead-of-replacing-it/"/>
-        <updated>2026-08-16T04:56:42.000Z</updated>
-        <summary type="html"><![CDATA[SK Hynix is one of three major memory makers in the world, after Samsung and Micron, that have been reaping the benefits of the memory shortage and boom. However, this hasn’t necessarily bode well for consumers, especially if they’re getting a warranty replacement for products from the brand. According to one Redditor, they tried to […]
-The post SK Hynix Refunds Customer For Faulty SSD Instead of Replacing It appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
         </author>
     </entry>
     <entry>
