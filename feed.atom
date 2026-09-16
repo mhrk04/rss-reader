@@ -2,10 +2,180 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-09-15T13:24:50.567Z</updated>
+    <updated>2026-09-16T13:24:04.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security]]></title>
+        <id>https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html</id>
+        <link href="https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html"/>
+        <updated>2026-09-16T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity.
+
+From there, a single compromised identity can open the door to sensitive data, business systems, and additional cloud]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation]]></title>
+        <id>https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html</id>
+        <link href="https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html"/>
+        <updated>2026-09-16T11:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw.
+
+"In Cellular Modem, there is a possible permission bypass due to a logic error in the code," according to a description of the bug in the NIST National Vulnerability Database]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Intelligence Alone Won't Close the Exploitation Gap]]></title>
+        <id>https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html</id>
+        <link href="https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html"/>
+        <updated>2026-09-16T11:15:48.000Z</updated>
+        <summary type="html"><![CDATA[A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelerate the path from exposure to breach faster than most security programs are built to react.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks]]></title>
+        <id>https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html</id>
+        <link href="https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html"/>
+        <updated>2026-09-16T11:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild.
+
+The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects the following versions -
+
+
+  Acronis Backup plugin for cPanel & WHM (Linux]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells]]></title>
+        <id>https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html</id>
+        <link href="https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html"/>
+        <updated>2026-09-16T05:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.
+
+"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution," Wordfence said.
+
+The WordPress security company said it has blocked over]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens]]></title>
+        <id>https://thehackernews.com/2026/09/active-exploitation-attempts-target.html</id>
+        <link href="https://thehackernews.com/2026/09/active-exploitation-attempts-target.html"/>
+        <updated>2026-09-16T05:18:06.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.
+
+The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw.
+
+"JWT authentication]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Op Targets South Korean Media &amp; Automotive Sectors]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive"/>
+        <updated>2026-09-16T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks.]]></summary>
+        <author>
+            <name>Robert Lemos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Issues Emergency Fixes After Massive Patch Tuesday]]></title>
+        <id>https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday</id>
+        <link href="https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday"/>
+        <updated>2026-09-15T20:16:00.000Z</updated>
+        <summary type="html"><![CDATA[You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk"/>
+        <updated>2026-09-15T19:27:19.000Z</updated>
+        <summary type="html"><![CDATA[The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI
+At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment. Throughout the session, they will share insights that address key topics raised by the Black Hat Review Board, including model safeguards, evaluation and containment practices, defensive use cases for AI, and the broader implications of increasingly autonomous systems for the cybersecurity community.
+The session will trace the models' attack path, including how frontier models are sandboxed during evaluations, how the models exploited a zero-day vulnerability to gain internet access, and how they identified and leveraged a remote code execution path on Hugging Face infrastructure. Drawing on the joint investigation, the speakers will explain how the activity was detected, contained, and investigated. They will also discuss the changes OpenAI is making to strengthen evaluation environments, containment controls, and monitoring capabilities, as well as the role AI systems played in supporting the investigation and response.
+In addition to the technical reconstruction of the incident, the session will address broader questions relevant to the security community, including lessons for improving AI system security, defensive applications of AI in incident response, and approaches to mitigating emerging risks associated with increasingly capable models.
+The discussion will also examine alignment challenges associated with long-running agents, including reward hacking, shifts in model behavior and persona over extended trajectories, and information sharing across multi-agent systems. Finally, the speakers will explore what this incident suggests about emerging AI cyber capabilities and how organizations can use AI to strengthen prevention, detection, investigation, and response efforts.]]></summary>
+        <author>
+            <name>darkreading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens]]></title>
+        <id>https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html</id>
+        <link href="https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html"/>
+        <updated>2026-09-15T18:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.
+
+Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VectraRAT Can Hack Windows Enterprises for $250 per Month]]></title>
+        <id>https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises</id>
+        <link href="https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises"/>
+        <updated>2026-09-15T16:45:37.000Z</updated>
+        <summary type="html"><![CDATA[The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists]]></title>
+        <id>https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html</id>
+        <link href="https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html"/>
+        <updated>2026-09-15T16:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world.
+
+The malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercedes-Benz Malaysia Previews 2026 CLA 200 Hybrid, Electric GLC 300 4MATIC]]></title>
+        <id>https://www.lowyat.net/?p=404444</id>
+        <link href="https://www.lowyat.net/2026/404444/mercedes-cla-200-hybrid-electric-glc300/"/>
+        <updated>2026-09-15T15:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Mercedes-Benz Malaysia has recently previewed two cars that it will be selling in the local market soon. These are the hybrid CLA 200 and the electric GLC 300. The former is noted to be locally assembled in Pekan, Pahang. This model is also related to the CLA 250+ EV that was launched last month. That […]
+The post Mercedes-Benz Malaysia Previews 2026 CLA 200 Hybrid, Electric GLC 300 4MATIC appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BambooToken Malware Uses MQTT to Control Windows and Linux Systems]]></title>
+        <id>https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html</id>
+        <link href="https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html"/>
+        <updated>2026-09-15T15:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.
+
+The emerging malware family, codenamed BambooToken, is assessed to be active since at least February 2023 and put to use in attacks targeting organizations across Asia and South America.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds]]></title>
         <id>https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html</id>
@@ -2948,278 +3118,6 @@ The post Dyson Announced A US$500 Electric Toothbrush With A Camera, Because Why
         <updated>2026-09-02T03:44:21.000Z</updated>
         <summary type="html"><![CDATA[Videogames peripheral brand Razer has its Kishi line of controllers for mobile phones that focus on ergonomics, as well as mirroring conventional controller tech like back buttons. But if you want something that’s made purely with portability in mind, then the company has something else for you. It’s the recently announced Prio, which the company […]
 The post The Razer Prio Is A Very Collapsible Mobile Controller appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency"/>
-        <updated>2026-09-02T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Pounce on Critical Artifactory Bug Following Disclosure]]></title>
-        <id>https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure</id>
-        <link href="https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure"/>
-        <updated>2026-09-01T21:05:53.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.]]></summary>
-        <author>
-            <name>Jai Vijayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stronger Security Drives Ransomware Groups to Recruit From Within]]></title>
-        <id>https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within</id>
-        <link href="https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within"/>
-        <updated>2026-09-01T21:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise"/>
-        <updated>2026-09-01T20:48:52.000Z</updated>
-        <summary type="html"><![CDATA[The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.]]></summary>
-        <author>
-            <name>Rob Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Model Evaluator METR Hit by Credential Theft, Probing]]></title>
-        <id>https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing</id>
-        <link href="https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing"/>
-        <updated>2026-09-01T20:13:09.000Z</updated>
-        <summary type="html"><![CDATA[In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure]]></title>
-        <id>https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html</id>
-        <link href="https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html"/>
-        <updated>2026-09-01T17:53:11.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.
-
-The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory.
-
-"JFrog Artifactory contains an authentication weakness that, under default]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems]]></title>
-        <id>https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html</id>
-        <link href="https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html"/>
-        <updated>2026-09-01T17:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.
-
-Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as "specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers." The adversary]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds]]></title>
-        <id>https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html</id>
-        <link href="https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html"/>
-        <updated>2026-09-01T14:07:20.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices.
-
-"The injected code runs two operations against a site's visitors: a mobile ad-fraud and gambling-redirect]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain]]></title>
-        <id>https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain</id>
-        <link href="https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain"/>
-        <updated>2026-09-01T13:56:42.000Z</updated>
-        <summary type="html"><![CDATA[The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POCO X8 Officially Debuts In Malaysia With 8,340mAh Battery]]></title>
-        <id>https://www.lowyat.net/?p=402841</id>
-        <link href="https://www.lowyat.net/2026/402841/poco-x8-malaysia/"/>
-        <updated>2026-09-01T13:11:17.000Z</updated>
-        <summary type="html"><![CDATA[POCO has announced a selection of new smartphones for the local market. Alongside the flagship F8 series, the brand unveiled the base X8. The device serves as the latest addition to the X8 series, which launched earlier this year. The phone features a 6.83-inch AMOLED display protected with Corning Gorilla Glass Victus 2. This panel […]
-The post POCO X8 Officially Debuts In Malaysia With 8,340mAh Battery appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests]]></title>
-        <id>https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html</id>
-        <link href="https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html"/>
-        <updated>2026-09-01T13:08:58.000Z</updated>
-        <summary type="html"><![CDATA[The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript.
-
-Russian cybersecurity company Kaspersky is tracking the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POCO F9 Ultra, F9 Pro Officially Launches In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=402839</id>
-        <link href="https://www.lowyat.net/2026/402839/poco-f9-ultra-pro-launch-malaysia/"/>
-        <updated>2026-09-01T13:04:06.000Z</updated>
-        <summary type="html"><![CDATA[POCO has officially launched the F9 Ultra and F9 Pro in Malaysia, introducing its latest flagship smartphones with upgrades spanning performance, displays, imaging and battery life. The company has also announced the next phase of its partnership with Bose, with both models featuring audio tuning through Sound by Bose technology. The POCO F9 Series is […]
-The post POCO F9 Ultra, F9 Pro Officially Launches In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Confirms DLSS 5 Will Be Available Starting 3 September]]></title>
-        <id>https://www.lowyat.net/?p=402832</id>
-        <link href="https://www.lowyat.net/2026/402832/nvidia-confirms-dlss-5-will-be-available-starting-3-september/"/>
-        <updated>2026-09-01T13:00:42.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA has officially confirmed that DLSS 5 will be available from 3 September (4 September for us) onwards. The very first title that will be leveraging the technology is what has already been known since the first leak: NBA 2K27. NVIDIA’s official confirmation puts to rest the rumours and leaks that have occurred with DLSS […]
-The post NVIDIA Confirms DLSS 5 Will Be Available Starting 3 September appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones]]></title>
-        <id>https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html</id>
-        <link href="https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html"/>
-        <updated>2026-09-01T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The most common way into a company last year was to ask.
-
-A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most common initial access method Microsoft’s team observed last year, accounting]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Announces New Odyssey Monitor Lineup]]></title>
-        <id>https://www.lowyat.net/?p=402823</id>
-        <link href="https://www.lowyat.net/2026/402823/samsung-new-odyssey-monitor-lineup/"/>
-        <updated>2026-09-01T11:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Samsung has announced its gaming monitor lineup for the upcoming year. Unveiled during Gamescom 2026, the collection includes the Odyssey OLED G9 G95SJ, Odyssey OLED G8 G80SJ, Odyssey OLED G7 G75SJ, and the Odyssey G6 G60H. Starting with the G9 G95SJ, it features a 49-inch QD-OLED panel with a Dual QHD resolution (5,120 x 1,440), […]
-The post Samsung Announces New Odyssey Monitor Lineup appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive 12TB Steam Leak Exposes A Decade Of Valve, Third-Party Game Data]]></title>
-        <id>https://www.lowyat.net/?p=402815</id>
-        <link href="https://www.lowyat.net/2026/402815/massive-12tb-steam-leak-decade-of-data/"/>
-        <updated>2026-09-01T10:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Valve has reportedly suffered one of its biggest leaks yet. More than 12TB of data has surfaced online, which allegedly contains a vast amount of material uploaded to Steam between 2003 and 2013. Not only did this data include the gaming giant’s own titles like Portal 2 and the cancelled Half-Life 2: Episode 3, but […]
-The post Massive 12TB Steam Leak Exposes A Decade Of Valve, Third-Party Game Data appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation Announces Ad-Supported Live TV On PS5]]></title>
-        <id>https://www.lowyat.net/?p=402800</id>
-        <link href="https://www.lowyat.net/2026/402800/playstation-ad-supported-live-tv-on-ps5/"/>
-        <updated>2026-09-01T09:36:03.000Z</updated>
-        <summary type="html"><![CDATA[For those who remember the days leading up to the launch of the PS4 – and by extension the Xbox One – today’s announcement will definitely elicit a heavy sense of irony. This is because PlayStation has announced what it calls Live TV on PS5, at least in the US market. And it’s really just […]
-The post PlayStation Announces Ad-Supported Live TV On PS5 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Steal METR API Key and Consume AI Credits Worth About $600,000]]></title>
-        <id>https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html</id>
-        <link href="https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html"/>
-        <updated>2026-09-01T09:05:30.000Z</updated>
-        <summary type="html"><![CDATA[METR (short for Model Evaluation and Threat Research and pronounced "Meter"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered "two notable security incidents" where external actors attempted to gain unauthorized access to its systems.
-
-No sensitive information is believed to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis]]></title>
-        <id>https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html</id>
-        <link href="https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html"/>
-        <updated>2026-09-01T08:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis.
-
-The idea, ESET said in a series of posts on X, is to deliberately trip a large language model's (LLM) safety mechanisms and prevent its]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G.Skill Launches Low-Profile Flare X5X DDR5 RAM Lineup]]></title>
-        <id>https://www.lowyat.net/?p=402801</id>
-        <link href="https://www.lowyat.net/2026/402801/g-skill-launches-low-profile-flare-x5x-ddr5-ram-lineup/"/>
-        <updated>2026-09-01T08:11:10.000Z</updated>
-        <summary type="html"><![CDATA[G.Skill has launched a new line of DDR5 RAM, the Flare X5X. The new series comes with several features, but more importantly,  it’s low profile and has a discrete design. The discrete look is minimalist by design, and devoid of RGB lighting, providing a clean aesthetic. Ultimately, this set of memory kit is all about […]
-The post G.Skill Launches Low-Profile Flare X5X DDR5 RAM Lineup appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity]]></title>
-        <id>https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html</id>
-        <link href="https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"/>
-        <updated>2026-09-01T07:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.
-
-The vulnerabilities in question are listed below -
-
-
-  CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user.
-  CVE-2026-66066 aka]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR X9e Pro Shows Up At National Day Parade Ahead Of Local Launch]]></title>
-        <id>https://www.lowyat.net/?p=402786</id>
-        <link href="https://www.lowyat.net/2026/402786/honor-x9e-pro-national-day-parade/"/>
-        <updated>2026-09-01T06:13:03.000Z</updated>
-        <summary type="html"><![CDATA[HONOR is set to launch a new smartphone on our shores pretty soon. During the National Day Parade, the company showed off the X9e Pro alongside its HONOR Robotics D1 humanoid robot. The smartphone will serve as the latest addition to the brand’s durability-focused mid-range X9 series. For now, details on the device remain under […]
-The post HONOR X9e Pro Shows Up At National Day Parade Ahead Of Local Launch appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U Mobile Launches ULTRA Home 5G Pro With Up To 2Gbps Speeds, 2TB Monthly Quota]]></title>
-        <id>https://www.lowyat.net/?p=402779</id>
-        <link href="https://www.lowyat.net/2026/402779/u-mobile-launches-ultra-home-5g-pro/"/>
-        <updated>2026-09-01T06:00:39.000Z</updated>
-        <summary type="html"><![CDATA[U Mobile has officially launched its new 5G home broadband service, the ULTRA Home 5G Pro, in Malaysia. The service offers speeds of up to 2Gbps, alongside 8×8 MIMO 5G-Advanced (5G-A) broadband, AI-Powered Game Turbo, and an ULTRA Performance WiFi 7 5G-A router. According to the press release, the new service is designed for increasingly […]
-The post U Mobile Launches ULTRA Home 5G Pro With Up To 2Gbps Speeds, 2TB Monthly Quota appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyKad Printing Services Face Disruptions; Expected To Last Until 7 September]]></title>
-        <id>https://www.lowyat.net/?p=402773</id>
-        <link href="https://www.lowyat.net/2026/402773/mykad-printing-disruptions-until-7-sept/"/>
-        <updated>2026-09-01T05:52:30.000Z</updated>
-        <summary type="html"><![CDATA[The National Registration Department (JPN) has announced that there will be disruptions to the printing of the MyKad as it transitions from the existing structure to the new one. Via its official social media channels, it announced that these disruptions are expected to last through to 7 September. For those looking to get it, the […]
-The post MyKad Printing Services Face Disruptions; Expected To Last Until 7 September appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
         </author>
