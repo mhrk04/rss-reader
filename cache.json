@@ -19294,6 +19294,198 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system.\n\nThis was security research,",
+          "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+          "publishedOn": "2026-09-19T10:01:10.000Z",
+          "wordCount": null,
+          "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.\n\nThe vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior.\n\n\"SolarWinds",
+          "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+          "publishedOn": "2026-09-19T09:31:17.000Z",
+          "wordCount": null,
+          "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution.\n\n\"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote",
+          "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+          "publishedOn": "2026-09-19T08:18:54.000Z",
+          "wordCount": null,
+          "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal.\n\nThe incidents occurred in May 2026 as part of a test run conducted by Israeli company Irregular. The evaluation partner was also involved in similar hacks disclosed",
+          "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+          "publishedOn": "2026-09-19T07:51:34.000Z",
+          "wordCount": null,
+          "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18.\n\nThe French security company had kept his GitHub access open. CrowdSec says his laptop was compromised in May's supply chain attack on TanStack, in which malicious versions of TanStack's npm packages stole credentials from",
+          "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+          "publishedOn": "2026-09-19T07:14:54.000Z",
+          "wordCount": null,
+          "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2025-39682 (CVSS score: 9.8) - An improper check for unusual or exceptional conditions vulnerability in the TLS receive path",
+          "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+          "publishedOn": "2026-09-19T06:24:10.000Z",
+          "wordCount": null,
+          "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated.\n\nThe flaws",
+          "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+          "publishedOn": "2026-09-18T18:02:24.000Z",
+          "wordCount": null,
+          "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfmcEQbMRp9dJbUmuhA3LSquz7yG3lph_Nbh6NqiVGOPOiOoKYcWbspSqEDBpeyUMH-KK_DHWoBSFmaZPE_BlWRjy4swhpEPCBJ-p2NCJRTceTeDx84tDToap0VrFW304zxv0nKsRSVOMM3GPhFyJ7GZkGPG92N3aKvW3edGBBdoAJl0_fH6IehDA0I8/s1600/linux-kernel.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfmcEQbMRp9dJbUmuhA3LSquz7yG3lph_Nbh6NqiVGOPOiOoKYcWbspSqEDBpeyUMH-KK_DHWoBSFmaZPE_BlWRjy4swhpEPCBJ-p2NCJRTceTeDx84tDToap0VrFW304zxv0nKsRSVOMM3GPhFyJ7GZkGPG92N3aKvW3edGBBdoAJl0_fH6IehDA0I8/s1600/linux-kernel.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install.\n\nThe security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only",
+          "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+          "publishedOn": "2026-09-18T16:56:19.000Z",
+          "wordCount": null,
+          "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.\n\nThe attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
+          "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+          "publishedOn": "2026-09-18T15:24:16.000Z",
+          "wordCount": null,
+          "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0.\n\n\"Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,\"",
+          "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+          "publishedOn": "2026-09-18T12:47:04.000Z",
+          "wordCount": null,
+          "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In July 2025, someone registered a domain that used to belong to a content delivery network.  The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of websites, code repositories, and documentation pages still carry hard-coded references to hostnames beneath it. \n\nThe new owner holds",
+          "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+          "publishedOn": "2026-09-18T11:01:16.000Z",
+          "wordCount": null,
+          "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday.\n\nThe firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no",
+          "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+          "publishedOn": "2026-09-18T11:01:01.000Z",
+          "wordCount": null,
+          "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's Republic of Korea's (DPRK) Contagious Interview campaign: BeaverTail and",
@@ -20972,118 +21164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said.\n\nThe",
-          "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-          "publishedOn": "2026-09-04T15:57:15.000Z",
-          "wordCount": null,
-          "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
-          "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-          "publishedOn": "2026-09-04T15:20:19.000Z",
-          "wordCount": null,
-          "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors.\n\nThe attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and",
-          "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-          "publishedOn": "2026-09-04T14:51:13.000Z",
-          "wordCount": null,
-          "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag & Drop Form Builder that allows unauthenticated attackers to upload files of any type, including",
-          "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-          "publishedOn": "2026-09-04T08:48:45.000Z",
-          "wordCount": null,
-          "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers have been requested for them.\n\n\"We recommend all server owners and Desktop users",
-          "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-          "publishedOn": "2026-09-04T07:35:14.000Z",
-          "wordCount": null,
-          "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAssembly engine.\n\n\"Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote",
-          "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-          "publishedOn": "2026-09-04T07:18:47.000Z",
-          "wordCount": null,
-          "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjelmC2UuYemuI1nBeaecfPBZ1Bfb5nz6T51_OhCUPHJivX8ioIjrYMVtVsjsrcA0xbEe_O4iMthJ2xwXWJVhAb5CCJlhnJS4McM9IpmPww86RSznT3h7pg5DYOXlnwon616y-1s2qwbWbmR40B5JCvYbtwM8lD5Fk5yLHWS7IKmH5pXQ8qO4SfEasBhhsq/s1600/chrome-v8-exploit.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjelmC2UuYemuI1nBeaecfPBZ1Bfb5nz6T51_OhCUPHJivX8ioIjrYMVtVsjsrcA0xbEe_O4iMthJ2xwXWJVhAb5CCJlhnJS4McM9IpmPww86RSznT3h7pg5DYOXlnwon616y-1s2qwbWbmR40B5JCvYbtwM8lD5Fk5yLHWS7IKmH5pXQ8qO4SfEasBhhsq/s1600/chrome-v8-exploit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\"\n\nThe development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" cybersecurity capability threshold under its Preparedness Framework.\n\n\"Astra is state-of-the-art on computer use, browsing, software engineering,",
-          "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-          "publishedOn": "2026-09-04T06:47:52.000Z",
-          "wordCount": null,
-          "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1600/gpt6.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1600/gpt6.jpg"
         }
       ]
     },
@@ -21092,6 +21172,66 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=404699",
+          "author": "Heirul Kamel",
+          "description": "OPPO has officially launched the A7 Pro Series in Malaysia, comprising the A7 Pro 5G and A7 Pro Max 5G. Both models target the mid-range segment, with large-capacity batteries and ergonomic designs being among their main selling points. Both models are available now through OPPO Malaysia’s official and authorised distribution channels, including on Shopee [1] […]\nThe post OPPO A7 Pro Series Launches In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404699/oppo-a7-pro-series-launch-malaysia/",
+          "publishedOn": "2026-09-19T10:00:48.000Z",
+          "wordCount": 14152,
+          "title": "OPPO A7 Pro Series Launches In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/oppo-a7-series-pro-max-launch-malaysia_08.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404696",
+          "author": "John Law",
+          "description": "Lenovo recently requested that a US California court dismiss its lawsuit against PC brand and rival Asus. The company also reportedly went as far as to request that it dismiss it with prejudice. Quick English lesson: to dismiss something with prejudice in a court of law means that the lawsuit cannot be refiled. Interestingly, Lenovo […]\nThe post Lenovo Is Dropping Patent Lawsuit Against Asus In The US appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404696/lenovo-is-dropping-patent-lawsuit-against-asus-in-the-us/",
+          "publishedOn": "2026-09-19T08:05:11.000Z",
+          "wordCount": 14121,
+          "title": "Lenovo Is Dropping Patent Lawsuit Against Asus In The US",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Lenovo-Tab-Plus-Gen-2-To-Launch-In-Malaysia-This-September-6.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404651",
+          "author": "Ian Chee",
+          "description": "If you have any interest in robotaxis, or just self driving cars in general, then you’ll know the name Waymo. The Alphabet company, and sister to the internet search giant Google, has been plugging away in the US, but reports indicate that it has been looking for an overseas expansion for a while. One such […]\nThe post Google Sister Company Waymo To Expand To Singapore in 2028 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404651/waymo-to-expand-to-singapore-in-2028/",
+          "publishedOn": "2026-09-19T04:00:23.000Z",
+          "wordCount": 14039,
+          "title": "Google Sister Company Waymo To Expand To Singapore in 2028",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2021/12/Geely-waymo-exterior.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404680",
+          "author": "Nurul Kamil",
+          "description": "Bose launched the Ultra Open Earbuds back in 2024, so it shouldn’t come as a surprise that the brand has recently announced a successor. Predictably called the Ultra Open Earbuds (2nd Gen), the new audio device retains the familiar open-ear cuff design while also introducing a few notable upgrades. Each earbud features an adjustable flex […]\nThe post Bose Announces Ultra Open Earbuds (2nd Gen) With Longer 9-Hour Battery Life appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404680/bose-ultra-open-earbuds-2nd-gen/",
+          "publishedOn": "2026-09-19T01:00:03.000Z",
+          "wordCount": 14234,
+          "title": "Bose Announces Ultra Open Earbuds (2nd Gen) With Longer 9-Hour Battery Life",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/bose-ultra-open-earbuds-2nd-gen-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404667",
+          "author": "Kiran Ganesan",
+          "description": "ZTE has launched a wide range of products in the past, ranging from smartphones to tablets and other peripherals and accessories. While the company has launched a few odd items before, this would be the first time it ever launched a 3-in-1 device that features a 10,000mAh power bank that has global roaming and a […]\nThe post ZTE’s U15S Is A Global Roaming, Wi-Fi 6 Hotspot, 10,000mAh Powerbank appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404667/zte-u15s-roaming-hotspot-powerbank/",
+          "publishedOn": "2026-09-18T17:22:25.000Z",
+          "wordCount": 14313,
+          "title": "ZTE’s U15S Is A Global Roaming, Wi-Fi 6 Hotspot, 10,000mAh Powerbank",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/ZTE-U15S-1-1240x697.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404679",
+          "author": "Ian Chee",
+          "description": "The iPhone Duo marks Apple’s entry into the market of foldables. It’s usually a pretty big deal, and as you’d expect, analysts are predicting that it will sell like gangbusters. Ironically, at the same time, its reveal may have helped drive up the sales for the incumbent Samsung. A report out of the tech giant’s […]\nThe post Samsung Saw 10% Increase In Galaxy Z Fold8 Sales After iPhone Duo Reveal appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404679/samsung-10-fold8-sales-after-iphone-duo/",
+          "publishedOn": "2026-09-18T16:29:02.000Z",
+          "wordCount": 14289,
+          "title": "Samsung Saw 10% Increase In Galaxy Z Fold8 Sales After iPhone Duo Reveal",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold8-Review-24.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=404655",
           "author": "Heirul Kamel",
@@ -22151,126 +22291,6 @@
           "wordCount": 14075,
           "title": "The UGREEN MagFlow Pro Is The First Power Bank With Built-In Liquid Cooling",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/ugreen-magflow-pro-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403442",
-          "author": "Heirul Kamel",
-          "description": "Some phones offer action camera-like stabilisation, while others such as the Honor Robot Phone have taken things a step further with a deployable gimballed camera. RugOne, however, is taking a very different approach with the Xsnap 7 Pro, a rugged smartphone that comes with a built-in detachable action camera that can function independently. In a […]\nThe post RugOne Xsnap 7 Pro Packs A Detachable Action Camera Into A Rugged Phone appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403442/rugone-xsnap-7-pro-ifa-2026/",
-          "publishedOn": "2026-09-04T14:50:05.000Z",
-          "wordCount": 14317,
-          "title": "RugOne Xsnap 7 Pro Packs A Detachable Action Camera Into A Rugged Phone",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/rugone-xsnap-7-pro-ifa-2026-3.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403422",
-          "author": "Nurul Kamil",
-          "description": "One of the companies present at IFA 2026 is Anker, and it has announced a sizable selection of new products. The lineup includes charging accessories and audio devices. This launch follows the unification of its five brands under a single name, promising a more consistent experience. Although this marks a major shift for the company, […]\nThe post Anker Announces New Charging And Audio Products At IFA 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403422/anker-charging-audio-products-ifa-2026/",
-          "publishedOn": "2026-09-04T14:00:24.000Z",
-          "wordCount": 14184,
-          "title": "Anker Announces New Charging And Audio Products At IFA 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/anker-charging-audio-lineup-ifa-2026-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403413",
-          "author": "Kiran Ganesan",
-          "description": "We’ve seen a lot of concept phones over the past few years, but the most realistic phone that may hit the market is TECNO’s bezelless concept phone. And as the company previously promised, the experimental handset officially made its first appearance at IFA 2026. TECNO Next-Gen Borderless Concept Phone To jog your memory, TECNO’s device […]\nThe post TECNO Unveils Bezelless Concept Phone At IFA 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403413/tecno-unveils-bezelless-concept-phone/",
-          "publishedOn": "2026-09-04T12:15:24.000Z",
-          "wordCount": 14217,
-          "title": "TECNO Unveils Bezelless Concept Phone At IFA 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/TECNO-Unveils-Bezelless-Concept-Phone-At-IFA-2026-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403386",
-          "author": "John Law",
-          "description": "Remember the Lenovo Yoga 9n 2-in-1 that leaked back at the end of July? Well, the brand has pulled back the veil and unveiled two models at IFA 2026 this week. Specifically, there’s the Yoga Pro 9n and the Yoga 9n 2-in-1. The Yoga Pro 9n appears to be a standard laptop, while the 2-in-1 […]\nThe post Lenovo Unveils Two Yoga 9n Laptops Powered By NVIDIA RTX Spark appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403386/lenovo-unveil-two-yoga-9n-laptops-powered-by-nvidia-rtx-spark/",
-          "publishedOn": "2026-09-04T10:32:49.000Z",
-          "wordCount": 14125,
-          "title": "Lenovo Unveils Two Yoga 9n Laptops Powered By NVIDIA RTX Spark",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Lenovo-Yoga-9n-Series-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403363",
-          "author": "Ian Chee",
-          "description": "When NVIDIA first announced DLSS 5, the tech was meant to be exclusive to its latest, greatest and priciest GeForce RTX 50-series graphics cards. And even then, only one game is known so far to have gotten the tech, at least on an official basis, which is NBA 2K27. But since modders have managed to […]\nThe post NVIDIA To Officially Bring DLSS 5 To RTX 40-Series GPUs appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403363/nvidia-to-bring-dlss-5-to-rtx-40-series/",
-          "publishedOn": "2026-09-04T09:39:49.000Z",
-          "wordCount": 14133,
-          "title": "NVIDIA To Officially Bring DLSS 5 To RTX 40-Series GPUs",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/NVIDIA-DLSS-5-Control-Unofficial-Mod-1-1240x645.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403387",
-          "author": "Newsdesk",
-          "description": "With the official launch of the REDMI Note 17 Pro Max 5G, we have entered into a new era of unprecedented durability and reliability. For generations, the smartphone series has been steadily but constantly raising the bar of what it means to be a well-rounded smartphone, and this one is no different. Don’t let its […]\nThe post REDMI Note 17 Pro Max 5G, Built To Last Through The Years In More Ways Than One appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403387/redmi-note-17-pro-max-5g-built-to-last-through-the-years-in-more-ways-than-one/",
-          "publishedOn": "2026-09-04T09:31:24.000Z",
-          "wordCount": 15062,
-          "title": "REDMI Note 17 Pro Max 5G, Built To Last Through The Years In More Ways Than One",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/REDMI-Note-17-Pro-Max-Sponsored-Images-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403376",
-          "author": "Kiran Ganesan",
-          "description": "Huawei had just recently hosted a new major launch event where it debuted its newest smartwatch in the form of the Watch D3. However, that isn’t the only wearable the company debuted, as it has also introduced the Watch 6 series to the global market. Now, what makes this year’s entry different from the last […]\nThe post Huawei Watch 6 Series Now Official With Ceramic Designs, Up To 11-Day Battery Life appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403376/huawei-watch-6-series-now-official/",
-          "publishedOn": "2026-09-04T06:50:39.000Z",
-          "wordCount": 14285,
-          "title": "Huawei Watch 6 Series Now Official With Ceramic Designs, Up To 11-Day Battery Life",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Huawei-Watch-6-Series-1-1240x581.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403331",
-          "author": "John Law",
-          "description": "Dell officially launched the self-named Dell 14S laptop earlier this week during IFA 2026. The new laptop is powered by Intel’s Wildcat Lake, aimed towards students and young professionals in the market. Marketed as one of the “affordable alternatives” to the Apple Macbook Neo, the laptop is lightweight enough at 2.53lbs, which is just about […]\nThe post Dell 14S With Intel Wildcat Lake Gets Reveal At IFA 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403331/dell-14s-with-intel-wildcat-lake-gets-reveal-at-ifa-2026/",
-          "publishedOn": "2026-09-04T06:35:41.000Z",
-          "wordCount": 14072,
-          "title": "Dell 14S With Intel Wildcat Lake Gets Reveal At IFA 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Dell-14S-IFA-2026-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403332",
-          "author": "Nurul Kamil",
-          "description": "The star of Acer’s IFA 2026 reveals has to be, without a doubt, the Project DualPlay Mini. Much like its non-mini counterpart, the device is not a full-fledged consumer product, but rather a proof of concept for demonstrating the company’s innovations. Conceived as a 2-in-1 handheld console, mini laptop hybrid, it aims to answer the […]\nThe post Acer Project DualPlay Mini Hands On: More For Play Than Work appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403332/acer-project-dualplay-mini-hands-on/",
-          "publishedOn": "2026-09-04T06:28:52.000Z",
-          "wordCount": 14584,
-          "title": "Acer Project DualPlay Mini Hands On: More For Play Than Work",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/acer-project-dualplay-mini-hands-on-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403358",
-          "author": "Heirul Kamel",
-          "description": "Lenovo has officially unveiled the IdeaPad Vibe, a new range of affordable productivity laptops that appears to be aimed squarely at devices such as Apple’s MacBook Neo and Dell’s XPS 13. The laptops made their official debut at IFA 2026, bringing a colourful design alongside a surprisingly flexible selection of hardware. The IdeaPad Vibe first […]\nThe post Lenovo Officially Unveils The IdeaPad Vibe, It’s Budget-Friendly MacBook Neo Competitor appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403358/lenovo-ideapad-vibe-official/",
-          "publishedOn": "2026-09-04T06:16:46.000Z",
-          "wordCount": 14240,
-          "title": "Lenovo Officially Unveils The IdeaPad Vibe, It’s Budget-Friendly MacBook Neo Competitor",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/lenovo-ideapad-vibe-unveiling-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403326",
-          "author": "Ian Chee",
-          "description": "With every tentpole videogame title, it’s safe to expect some sort of special edition hardware to come with it. It’s no different with Grand Theft Auto VI, as PlayStation has announced two different colour variants of the limited edition DualSense controller. Considering the game in question, it’s actually surprising that the company didn’t go all […]\nThe post PlayStation Reveals Grand Theft Auto VI Limited-Edition DualSense Controller appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403326/grand-theft-auto-vi-dualsense/",
-          "publishedOn": "2026-09-04T06:10:32.000Z",
-          "wordCount": 14066,
-          "title": "PlayStation Reveals Grand Theft Auto VI Limited-Edition DualSense Controller",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Grand-Theft-Auto-VI-Limited-Edition-DualSense.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403319",
-          "author": "John Law",
-          "description": "Ahead of IFA 2026, Asus gave early visitors at the exhibition a look at its latest ProArt laptops and mini PC, all powered by the NVIDIA RTX Spark. These items include the ProArt P14, P16, and the ProArt GR1X Mini PC. ProArt P14 And P16 We’ve actually talked about the RTX Spark-powered ProArt laptop series […]\nThe post IFA 2026: Asus Debuts ProArt Laptops And Mini PC With NVIDIA RTX Spark appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403319/asus-proart-rtx-spark-ifa-2026/",
-          "publishedOn": "2026-09-04T04:21:38.000Z",
-          "wordCount": 14172,
-          "title": "IFA 2026: Asus Debuts ProArt Laptops And Mini PC With NVIDIA RTX Spark",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Asus-ProArt-Series-IFA-2026-Lineup-1-1240x795.webp"
         }
       ]
     },
@@ -22279,6 +22299,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+          "author": null,
+          "description": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+          "publishedOn": "2026-09-18T20:24:51.000Z",
+          "wordCount": null,
+          "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+          "author": "Rob Wright",
+          "description": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+          "publishedOn": "2026-09-18T19:26:47.000Z",
+          "wordCount": null,
+          "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+          "author": null,
+          "description": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+          "publishedOn": "2026-09-18T19:23:48.000Z",
+          "wordCount": null,
+          "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+          "author": "Vishnu Galata",
+          "description": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+          "publishedOn": "2026-09-18T18:15:20.000Z",
+          "wordCount": null,
+          "title": "MFA Won't Save You From OAuth Consent Abuse",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
           "author": "Nate Nelson",
@@ -22587,36 +22647,6 @@
           "publishedOn": "2026-09-08T12:00:00.000Z",
           "wordCount": null,
           "title": "Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
-          "author": "Robert Lemos",
-          "description": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
-          "publishedOn": "2026-09-04T15:57:31.000Z",
-          "wordCount": null,
-          "title": "Companies Have 6 Months to Prepare for Automated Attacks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
-          "author": "Alexander Culafi",
-          "description": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
-          "publishedOn": "2026-09-04T13:00:00.000Z",
-          "wordCount": null,
-          "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
-          "author": "Robert Lemos",
-          "description": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
-          "link": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
-          "publishedOn": "2026-09-04T12:15:03.000Z",
-          "wordCount": null,
-          "title": "Insurers Search for Answers to Rein in Rogue AI",
           "imageUrl": null
         }
       ]
