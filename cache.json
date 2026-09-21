@@ -19294,6 +19294,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy. Even the research side is getting messy, with more findings, more automation, and not",
+          "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+          "publishedOn": "2026-09-21T14:24:13.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.\n\nThe backdoor \"automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes screenshots, and accepts arbitrary",
+          "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+          "publishedOn": "2026-09-21T14:15:40.000Z",
+          "wordCount": null,
+          "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)",
+          "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+          "publishedOn": "2026-09-21T08:39:38.000Z",
+          "wordCount": null,
+          "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks.\n\nCybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
+          "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+          "publishedOn": "2026-09-21T06:06:44.000Z",
+          "wordCount": null,
+          "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in",
@@ -21052,38 +21116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5.\n\nSuccessful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or",
-          "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-          "publishedOn": "2026-09-06T09:32:38.000Z",
-          "wordCount": null,
-          "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.\n\nOne of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner.\n\nThe company named the four programs ProManager, WinUpdate, SoftManager, and",
-          "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-          "publishedOn": "2026-09-06T08:34:20.000Z",
-          "wordCount": null,
-          "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg"
         }
       ]
     },
@@ -21092,6 +21124,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=404802",
+          "author": "Heirul Kamel",
+          "description": "vivo has officially launched its flagship X500 Pro series in China, comprising the X500 Pro and X500 Pro Max. Both models are powered by MediaTek’s Dimensity 9600 Pro chipset and feature camera systems developed with ZEISS, while each also supports photography kits and telephoto lenses designed specifically for the respective model. vivo is also touting […]\nThe post vivo X500 Pro Series Launches In China; Malaysia Arrival Set For Late October appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404802/vivo-x500-pro-series-launch-china/",
+          "publishedOn": "2026-09-21T14:23:17.000Z",
+          "wordCount": 14676,
+          "title": "vivo X500 Pro Series Launches In China; Malaysia Arrival Set For Late October",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/vivo-x500-pro-series-launch-china_15.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404820",
+          "author": "Kiran Ganesan",
+          "description": "TVs come in all shapes and sizes, but most are either mounted on a wall or placed on a fixed stand. Hisense, however, is taking a different approach with its new RoamView, a touchscreen display that can be moved around your home on a wheeled stand. The new display is the company’s latest addition to […]\nThe post Hisense RoamView Is A Moveable 32-Inch Touchscreen TV With A Built-In Battery appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404820/hisense-roamview-movable-touchscreen-tv/",
+          "publishedOn": "2026-09-21T09:25:17.000Z",
+          "wordCount": 14290,
+          "title": "Hisense RoamView Is A Moveable 32-Inch Touchscreen TV With A Built-In Battery",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Hisense-RoamView-1-1240x697.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404819",
+          "author": "Ian Chee",
+          "description": "Earlier in the month, we saw teasers for what looks like a Harry Potter Edition for the realme 16 Pro. Today, the brand has officially revealed the special edition phone, and it looks like the tie-in comes with a pair of TWS buds as well. More specifically, it’s the realme Buds T500 Pro. Unfortunately, both […]\nThe post Realme 16 Pro Harry Potter Edition Now Official In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404819/realme-16-pro-harry-potter-edition/",
+          "publishedOn": "2026-09-21T09:13:20.000Z",
+          "wordCount": 14257,
+          "title": "Realme 16 Pro Harry Potter Edition Now Official In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/realme-16-Pro-5G-Harry-Potter-Edition-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404778",
+          "author": "Nurul Kamil",
+          "description": "Huawei is preparing to release some new products in Malaysia soon. Last week, the brand began sharing a few teasers on its social media platforms, revealing that a launch event will be taking place in the very near future. And now, the company has confirmed that this event will mark the arrival of the Watch […]\nThe post Huawei Watch GT 7 Series Officially Launching Locally Next Week appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404778/huawei-watch-gt-7-series-launch/",
+          "publishedOn": "2026-09-21T06:41:02.000Z",
+          "wordCount": 14196,
+          "title": "Huawei Watch GT 7 Series Officially Launching Locally Next Week",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/huawei-watch-gt-7-series-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404774",
+          "author": "Ian Chee",
+          "description": "Apple announced the new iPhone 18 Pro and Pro Max, which are essentially identical phones in different sizes. The new party piece for both is the variable aperture, which, while new among Apple phones, is not new for smartphones as a whole. At any rate, the folks at iFixit gave both variants the usual teardown […]\nThe post iPhone 18 Pro Teardown By iFixit Reveals Variable Aperture Details appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404774/iphone-18-pro-teardown-ifixit/",
+          "publishedOn": "2026-09-21T06:26:01.000Z",
+          "wordCount": 14167,
+          "title": "iPhone 18 Pro Teardown By iFixit Reveals Variable Aperture Details",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/iPphone-18-Pro-teardown-iFixit.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404775",
+          "author": "Kiran Ganesan",
+          "description": "For years, Samsung, SK Hynix, and Micron have dominated the global memory chip market, supplying DRAM for everything from smartphones and PCs to servers. However, that dominance could face a stronger challenge from China, as the country’s leading DRAM maker, ChangXin Memory Technologies (CXMT), has announced that its fifth-generation technology platform has entered mass production. […]\nThe post CXMT’s New G5 DRAM Platform Enters Mass Production With 50% More Dies Per Wafer appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404775/cxmt-new-g5-dram-enters-mass-production/",
+          "publishedOn": "2026-09-21T05:27:24.000Z",
+          "wordCount": 14086,
+          "title": "CXMT’s New G5 DRAM Platform Enters Mass Production With 50% More Dies Per Wafer",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/CXMT-G5-DRAM-Platform-Enters-Mass-Production-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404770",
+          "author": "Ian Chee",
+          "description": "Ads in videogames have always been seen as a negative, but it’s often justified in free-to-play titles because the developers have to make money in some other way. So it’s always a little worrying when there’s news about new ad tech appearing in the videogames space. Microsoft appears to have a new patent describing just […]\nThe post Microsoft Patent Describes Freezing Games To Show Players Ads appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404770/microsoft-patent-freezing-games-show-ad/",
+          "publishedOn": "2026-09-21T03:37:14.000Z",
+          "wordCount": 14082,
+          "title": "Microsoft Patent Describes Freezing Games To Show Players Ads",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Microsoft-patent-ad.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404763",
+          "author": "Kiran Ganesan",
+          "description": "After multiple reports and speculation, Xiaomi has officially confirmed that it will launch the Xiaomi 18 Pro series in China soon. According to the company’s official Weibo post, the lineup will make its debut in its home market on 23 September. The company is expected to launch the 18 Pro and 18 Pro Max models. […]\nThe post Xiaomi 18 Pro Series To Launch In China On 23 September With Dual 200MP Cameras appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404763/xiaomi-18-pro-series-china-on-23-sept/",
+          "publishedOn": "2026-09-21T03:00:43.000Z",
+          "wordCount": 14084,
+          "title": "Xiaomi 18 Pro Series To Launch In China On 23 September With Dual 200MP Cameras",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Xiaomi-18-Pro-Series-Launch-China-1-1240x698.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404755",
+          "author": "Nurul Kamil",
+          "description": "It looks like DJI is planning to release a new compact aerial drone sometime in the near future. The Neo 3 has cropped up in a recent leak, offering us an idea of what to expect. Last week, seasoned tipster Igor Bogdanov posted an image of the device’s retail packaging on X. Then, over the […]\nThe post DJI Neo 3 Packaging Leak Reveals New Design, Fly More Combo Contents appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404755/dji-neo-3-packaging-leak/",
+          "publishedOn": "2026-09-21T02:36:56.000Z",
+          "wordCount": 14217,
+          "title": "DJI Neo 3 Packaging Leak Reveals New Design, Fly More Combo Contents",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/dji-neo-3-leak-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=404714",
+          "author": "Nurul Kamil",
+          "description": "Samsung is gearing up to launch the newest additions to its flagship tablet lineup, namely the Galaxy Tab S12+ and the Galaxy Tab S12 Ultra. Although the South Korean tech giant has yet to disclose details on the devices, there has been no shortage of leaks. This time, German publication WinFuture has revealed the key […]\nThe post Samsung Galaxy Tab S12 Series Specifications And Launch Date Leaked appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/404714/samsung-galaxy-tab-s12-series-leak-2/",
+          "publishedOn": "2026-09-21T01:00:12.000Z",
+          "wordCount": 14308,
+          "title": "Samsung Galaxy Tab S12 Series Specifications And Launch Date Leaked",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/samsung-galaxy-tab-s12-ultra-leak-2.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=404722",
           "author": "Nurul Kamil",
@@ -22161,46 +22293,6 @@
           "wordCount": 14024,
           "title": "Leapmotor C10 And B10 Now Locally Assembled In Malaysia",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Stellantis-Leapmotor-B10-and-C10-CKD-Gurun-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403498",
-          "author": "Heirul Kamel",
-          "description": "BYD is set to announce its next move for further expansion in Malaysia within the next week, potentially providing more clarity on its long-discussed local manufacturing plans. According to Bernama, company vice-president Liu Xueliang said BYD is continuing to explore ways to work with local partners while supporting the development of Malaysia’s new energy vehicle […]\nThe post BYD To Reveal Local Development Plan Within A Week appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403498/byd-malaysia-development-plan/",
-          "publishedOn": "2026-09-06T09:31:25.000Z",
-          "wordCount": 14221,
-          "title": "BYD To Reveal Local Development Plan Within A Week",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/BYD-Logo-2026-1-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403497",
-          "author": "Ian Chee",
-          "description": "Late last month, Virginia startup Operation Bluebird launched Twitter.now, its own take on the old social media platform after the original was taken over by Elon Musk and renamed X. Recently, the social media site has rebranded as Tweet.app instead. The company also maintains its version of the blue bird logo. This is because, according […]\nThe post Operation Bluebird Rebrands Twitter.now To Tweet.app appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403497/operationbluebird-twitter-now-tweet-app/",
-          "publishedOn": "2026-09-06T09:30:50.000Z",
-          "wordCount": 14043,
-          "title": "Operation Bluebird Rebrands Twitter.now To Tweet.app",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Tweet.app_.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403489",
-          "author": "John Law",
-          "description": "An Amazon customer recently became (another) victim of an online scam, after they ordered an NVIDIA RTX 5080 and received something else entirely. The story goes that the Amazon customer and Redditor initially ordered an MSI GeForce RTX 5080 Suprim Liquid SOC for about US$1,400 (~RM5,662). Note that they had purchased the card from a […]\nThe post Buyer Spends RM5,600 On RTX 5080 On Amazon, Gets Vacuum Mug Instead appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403489/buyer-spends-rm5600-on-rtx-5080-on-amazon-gets-vacuum-mug-instead/",
-          "publishedOn": "2026-09-06T09:12:22.000Z",
-          "wordCount": 14130,
-          "title": "Buyer Spends RM5,600 On RTX 5080 On Amazon, Gets Vacuum Mug Instead",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Amazon-RTX-5080-scam-September-2026.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=403480",
-          "author": "Nurul Kamil",
-          "description": "Samsung is preparing to refresh its entry-level smartphone lineup with the Galaxy A18, which was previously spotted on Geekbench. Now, a new leak has revealed more about the upcoming handset, leaving little to the imagination. Android Headlines has shared a set of renders depicting the device, and along with them, the full specifications. These details […]\nThe post Samsung Galaxy A18 4G Leak Reveals Familiar Specs At A Higher Price appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/403480/samsung-galaxy-a18-4g-leak/",
-          "publishedOn": "2026-09-06T05:46:53.000Z",
-          "wordCount": 14179,
-          "title": "Samsung Galaxy A18 4G Leak Reveals Familiar Specs At A Higher Price",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/samsung-galaxy-a18-4g-leak-1.webp"
         }
       ]
     },
