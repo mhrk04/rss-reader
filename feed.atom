@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-09-25T13:35:27.874Z</updated>
+    <updated>2026-09-26T12:57:25.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link]]></title>
+        <id>https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html</id>
+        <link href="https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html"/>
+        <updated>2026-09-26T09:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.
+
+The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild]]></title>
+        <id>https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html</id>
+        <link href="https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"/>
+        <updated>2026-09-26T08:49:53.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerabilities in question are as follows -
+
+
+  CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack]]></title>
+        <id>https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html</id>
+        <link href="https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html"/>
+        <updated>2026-09-26T07:48:33.000Z</updated>
+        <summary type="html"><![CDATA[Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.
+
+"Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems," said Frank Balonis, Chief]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness"/>
+        <updated>2026-09-25T18:39:32.000Z</updated>
+        <summary type="html"><![CDATA[When autonomous AI agents "escape the sandbox," the real story isn't rogue machines — it's the same access-control failures we've seen for decades.]]></summary>
+        <author>
+            <name>Jerry Bui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Missed: Google Gemini Joins the AI Escape Party]]></title>
+        <id>https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party</id>
+        <link href="https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party"/>
+        <updated>2026-09-25T17:56:23.000Z</updated>
+        <summary type="html"><![CDATA[In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.]]></summary>
+        <author>
+            <name>Rob Wright, Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stopping IT Worker Scams Requires Revamped HR Process]]></title>
+        <id>https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process</id>
+        <link href="https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process"/>
+        <updated>2026-09-25T14:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.]]></summary>
+        <author>
+            <name>Robert Lemos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware]]></title>
+        <id>https://thehackernews.com/2026/09/compromised-github-actions-came-back.html</id>
+        <link href="https://thehackernews.com/2026/09/compromised-github-actions-came-back.html"/>
+        <updated>2026-09-25T14:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign.
+
+The affected GitHub Actions are listed below -
+
+
+  actions-cool/issues-helper
+  actions-cool/maintain-one-comment
+
+Visiting either of the repositories now shows the message: "Access to this]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence]]></title>
+        <id>https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html</id>
+        <link href="https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html"/>
+        <updated>2026-09-25T13:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain.
+
+The latest artifacts, per Jamf Threat Labs, continue to rely on the same JavaScript for Automation (JXA) dropper mechanism, but modify the lure and the delivery method.
+
+"Where earlier variants embedded their payload key material]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The SOC Doesn't Need to Start Over with Every Alert]]></title>
         <id>https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html</id>
@@ -2995,126 +3096,6 @@ The post iQOO 16 Design Revealed With New Holographic Finish appeared first on L
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Threat Actor Generates 1M Personalized Fraud Emails in 3 Days]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days"/>
-        <updated>2026-09-11T19:21:08.000Z</updated>
-        <summary type="html"><![CDATA[Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate]]></title>
-        <id>https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate</id>
-        <link href="https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate"/>
-        <updated>2026-09-11T18:44:03.000Z</updated>
-        <summary type="html"><![CDATA[A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpiderSilk Hunts External Threats With AI-Based Scanner]]></title>
-        <id>https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning</id>
-        <link href="https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning"/>
-        <updated>2026-09-11T18:27:28.000Z</updated>
-        <summary type="html"><![CDATA[The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.]]></summary>
-        <author>
-            <name>Agam Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Is So Good at Scamming Humans]]></title>
-        <id>https://www.darkreading.com/cyber-risk/ai-scamming-humans</id>
-        <link href="https://www.darkreading.com/cyber-risk/ai-scamming-humans"/>
-        <updated>2026-09-11T18:14:06.000Z</updated>
-        <summary type="html"><![CDATA[Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.]]></summary>
-        <author>
-            <name>darkreading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Governance Can't Wait]]></title>
-        <id>https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait</id>
-        <link href="https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait"/>
-        <updated>2026-09-11T17:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Adversaries can manipulate AI defensive reasoning to silently compromise target networks.]]></summary>
-        <author>
-            <name>Tony Anscombe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure]]></title>
-        <id>https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html</id>
-        <link href="https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"/>
-        <updated>2026-09-11T16:30:18.000Z</updated>
-        <summary type="html"><![CDATA[GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.
-
-The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks]]></title>
-        <id>https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html</id>
-        <link href="https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html"/>
-        <updated>2026-09-11T16:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax.
-
-Knowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a "teacher" to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain"/>
-        <updated>2026-09-11T15:48:27.000Z</updated>
-        <summary type="html"><![CDATA[From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Used to Automate Exploitation and Data Theft Across Multiple Victims]]></title>
-        <id>https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html</id>
-        <link href="https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"/>
-        <updated>2026-09-11T14:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.
-
-The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups (GTGs), span state-sponsored groups, financially motivated criminals, commercial]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection]]></title>
-        <id>https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html</id>
-        <link href="https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"/>
-        <updated>2026-09-11T14:10:20.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.
-
-The operation has been attributed to a cyber espionage group it calls GTG-20006 (where "GTG" stands for Generative Threat Group), which aligns with broader reporting linking the cluster to Midnight]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Critical Vulnerabilities Might Not Be Your Biggest Risk]]></title>
-        <id>https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html</id>
-        <link href="https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html"/>
-        <updated>2026-09-11T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise.
-
-A critical vulnerability may look alarming on a scanner report, but if it sits behind strong segmentation, identity controls, and other defenses that prevent an attacker]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LEGO PlayStation May Be Paired With An Astro Bot Set]]></title>
         <id>https://www.lowyat.net/?p=404108</id>
         <link href="https://www.lowyat.net/2026/404108/lego-playstation-paired-with-astro-bot/"/>
@@ -3178,56 +3159,6 @@ The post Ubisoft Games On Steam To No Longer Require Connect Launcher appeared f
 The post Asus ROG G1000 Gaming Desktop Now Available In Malaysia appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors]]></title>
-        <id>https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html</id>
-        <link href="https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html"/>
-        <updated>2026-09-11T07:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report.
-
-Wiz saw the attacks between August 15 and September 8. JFrog had fixed both flaws before then, so only servers that had not been updated were open to them.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor]]></title>
-        <id>https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html</id>
-        <link href="https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html"/>
-        <updated>2026-09-11T07:14:09.000Z</updated>
-        <summary type="html"><![CDATA[A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in research published Thursday.
-
-The attack started with a crafted link and ended with the attacker able to do anything the logged-in user could do. Tencent, which owns]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws]]></title>
-        <id>https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html</id>
-        <link href="https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html"/>
-        <updated>2026-09-11T06:46:18.000Z</updated>
-        <summary type="html"><![CDATA[PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation.
-
-The software development company said PaperCut NG/MF versions 26.0.5, 25.0.13 and 24.1.10 are now available for customers to download.
-
-"These are Regular Maintenance Releases (MR) that]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware]]></title>
-        <id>https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html</id>
-        <link href="https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html"/>
-        <updated>2026-09-11T06:19:59.000Z</updated>
-        <summary type="html"><![CDATA[Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.
-
-The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface of FMC software that could allow an unauthenticated, remote attacker to bypass]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
