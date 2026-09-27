@@ -19294,6 +19294,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.\n\nCitrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available.\n\nNetScaler ADC and",
+          "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+          "publishedOn": "2026-09-27T07:47:57.000Z",
+          "wordCount": null,
+          "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnnWi_EE_zogEngdPWZDYXQTXqcArqvXtXYDj7_yLDzfVamEw9Nx7taRyM1SQf8-78qtxnt3nhNzcn36WnzYwZvFDQNvglCilw0Ltb4NjVkjjC8GH2nOUTnxIBPvRn8JVPcXJaidmbU0A6z-1RiX_OKgcpkzvL6xV7aM_YpQj6XdYIfalQH3h6o3b7pQ/s1600/citrix-zero-day.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnnWi_EE_zogEngdPWZDYXQTXqcArqvXtXYDj7_yLDzfVamEw9Nx7taRyM1SQf8-78qtxnt3nhNzcn36WnzYwZvFDQNvglCilw0Ltb4NjVkjjC8GH2nOUTnxIBPvRn8JVPcXJaidmbU0A6z-1RiX_OKgcpkzvL6xV7aM_YpQj6XdYIfalQH3h6o3b7pQ/s1600/citrix-zero-day.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.\n\nThe new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users.\n\n\"The attack chain begins with a fake CAPTCHA page and",
+          "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+          "publishedOn": "2026-09-26T18:22:52.000Z",
+          "wordCount": null,
+          "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.\n\nThe ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution.\n\nThe vulnerability was first exploited as a zero-day",
+          "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+          "publishedOn": "2026-09-26T11:46:40.000Z",
+          "wordCount": null,
+          "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to",
+          "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+          "publishedOn": "2026-09-26T10:30:00.000Z",
+          "wordCount": null,
+          "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbfTXTCeNSvaPIRWOUJJxKPfYp45QnSjl24XZ1Set210zScJhg03o_TYX0QKPQdcSq-vkiWnymSqBu-bSwcCm1Kb2Te5do1VIcbCQjc_-TOOR6VwqRiHu5LE-tBb0gdrDjmPuDADfUraASQenGh-1gI4PF_xa2GwREsDM4vq4_C-aEU8EJsBBvhykJ1E0/s1600/sans-article.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbfTXTCeNSvaPIRWOUJJxKPfYp45QnSjl24XZ1Set210zScJhg03o_TYX0QKPQdcSq-vkiWnymSqBu-bSwcCm1Kb2Te5do1VIcbCQjc_-TOOR6VwqRiHu5LE-tBb0gdrDjmPuDADfUraASQenGh-1gI4PF_xa2GwREsDM4vq4_C-aEU8EJsBBvhykJ1E0/s1600/sans-article.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.\n\nThe cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions",
@@ -21116,54 +21180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2E2hmYwxfZ25xw5iPhCHaSDENcuEyEIaha9e_rIJCf68srth31FtjIiIlnOcEiSQDDuk2Vg-dQdNLfR753ePSoDntP3BS-MGbEH2DS8Ch5ihzhpiDZZm5UIzKCbL1vNJSwSABCYst8oG6Oa-7iBWaSF6WSTEkCJBAi9YEEwAmVEdGYvu-JWZnxwEX9ni/s1600/ms-outlook.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2E2hmYwxfZ25xw5iPhCHaSDENcuEyEIaha9e_rIJCf68srth31FtjIiIlnOcEiSQDDuk2Vg-dQdNLfR753ePSoDntP3BS-MGbEH2DS8Ch5ihzhpiDZZm5UIzKCbL1vNJSwSABCYst8oG6Oa-7iBWaSF6WSTEkCJBAi9YEEwAmVEdGYvu-JWZnxwEX9ni/s1600/ms-outlook.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nDetails of the vulnerabilities are as follows -\n\n\n  CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
-          "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-          "publishedOn": "2026-09-12T15:54:45.000Z",
-          "wordCount": null,
-          "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1600/jj.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1600/jj.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate",
-          "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-          "publishedOn": "2026-09-12T10:24:44.000Z",
-          "wordCount": null,
-          "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.\n\nOn May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the",
-          "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-          "publishedOn": "2026-09-12T09:07:56.000Z",
-          "wordCount": null,
-          "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg"
         }
       ]
     },
@@ -21172,6 +21188,56 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=405560",
+          "author": "Ian Chee",
+          "description": "Shortly after the breakup between PlayStation and Hideo Kojima, we saw reports citing insiders and their claims as to why the split happened. One of them was the potential cost of Kojima’s game, Physint, including one claim that it was on track to be well over budget in the long run. A few numbers for […]\nThe post Rumours Claim Physint Costs US$400 Million To Make; Insiders Say It’s A Lot Lower appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/405560/rumours-physint-us400m-insiders-lower/",
+          "publishedOn": "2026-09-27T10:55:49.000Z",
+          "wordCount": 13305,
+          "title": "Rumours Claim Physint Costs US$400 Million To Make; Insiders Say It’s A Lot Lower",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Physint.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=405554",
+          "author": "Nurul Kamil",
+          "description": "Although they haven’t become nearly as ubiquitous as other devices, AI-powered smart glasses seem to be the next big thing tech companies are banking on, with the likes of Apple looking to get into the game. Now, it looks like Insta360 may be looking to do the same, albeit with its own twist. Based on […]\nThe post Insta360 Reportedly Working On AI-Powered Smart Glasses appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/405554/insta360-ai-powered-smart-glasses/",
+          "publishedOn": "2026-09-27T10:03:45.000Z",
+          "wordCount": 13290,
+          "title": "Insta360 Reportedly Working On AI-Powered Smart Glasses",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/samsung-ai-smart-glasses-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=405542",
+          "author": "Heirul Kamel",
+          "description": "Apple’s upcoming iPad models could receive substantial hardware upgrades, according to details discovered in the company’s own code by MacRumors contributor Aaron Perris. The leaks reportedly reveal specifications for the 12th-generation entry-level iPad and eighth-generation iPad mini, with both models set to gain new chips and other notable changes. The iPad 12 is reportedly not […]\nThe post Apple Code Leak Reveals iPad 12, iPad mini 8 Details appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/405542/apple-code-leak-ipad-12-mini-8/",
+          "publishedOn": "2026-09-26T12:47:56.000Z",
+          "wordCount": 6837,
+          "title": "Apple Code Leak Reveals iPad 12, iPad mini 8 Details",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/03/iPad-A16-launches-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=405534",
+          "author": "Ian Chee",
+          "description": "There are many gaming peripherals out there, and outside of mainstays with big names, there are some other lesser-known brands with interesting products. One example is CRKD, pronounced as “cracked”, and it has what it calls the Atom+, a controller that’s small enough for you to use as a keychain. Despite its size, it’s surprisingly […]\nThe post CRKD Is An Accessory Maker With A Palm-Sized Controller With TMR Sticks appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/405534/crkd-keychain-controller-tmr-sticks/",
+          "publishedOn": "2026-09-26T11:58:38.000Z",
+          "wordCount": 13285,
+          "title": "CRKD Is An Accessory Maker With A Palm-Sized Controller With TMR Sticks",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/CRKD-Atom-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=405528",
+          "author": "Nurul Kamil",
+          "description": "By now, you’ve probably heard that Samsung is planning to release a pair of open-ear earbuds. The audio device, which has already appeared in multiple leaks over the past couple of months, has been referred to as both the Galaxy Buds On and the Galaxy Able (or Galaxy Buds Able). Now, a new set of […]\nThe post Samsung Galaxy Buds On Appears In Official-Looking Images appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/405528/samsung-galaxy-buds-on-leaked/",
+          "publishedOn": "2026-09-26T00:49:54.000Z",
+          "wordCount": 13330,
+          "title": "Samsung Galaxy Buds On Appears In Official-Looking Images",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/samsung-galaxy-buds-on-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=405514",
           "author": "Kiran Ganesan",
@@ -22201,146 +22267,6 @@
           "wordCount": 14078,
           "title": "Netflix Hikes Subscription Prices In Malaysia; Now Starts From RM19.90/Month",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/04/netflix-search-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404200",
-          "author": "John Law",
-          "description": "Just when you think that the issue of melting 12VHPWR connectors was about the worst thing to happen to NVIDIA’s RTX 40 and 50 Series GPUs, fate decides to step in and throw another case of melting 8-pin power connectors at our faces. Worse, the victim was an AMD Radeon RX 7000 Series GPU, and […]\nThe post Even 8-Pin Power Connectors Are Now Melting Down appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404200/even-8-pin-power-connectors-are-now-melting-down/",
-          "publishedOn": "2026-09-12T10:02:45.000Z",
-          "wordCount": 14081,
-          "title": "Even 8-Pin Power Connectors Are Now Melting Down",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Melted-8-pin-GPU-Connector-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404153",
-          "author": "Ian Chee",
-          "description": "Back in June, The Pokemon Company announced that it would be opening the first Pokemon Centre Pop-up Store in Malaysia, with another for Nintendo in general right next to it. The company even released an entry guide for the first three days of the pop-up stores’ opening, anticipating the huge crowd that would turn up. […]\nThe post Pokemon Centre, Nintendo Pop-Up Stores Open At Ombak KLCC appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404153/pokemon-centre-nintendo-pop-up-stores/",
-          "publishedOn": "2026-09-12T08:10:57.000Z",
-          "wordCount": 14220,
-          "title": "Pokemon Centre, Nintendo Pop-Up Stores Open At Ombak KLCC",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Pokemon-Centre-popup.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404150",
-          "author": "Heirul Kamel",
-          "description": "The Malaysian Communications and Multimedia Commission (MCMC) is reviewing a report by US-based artificial intelligence (AI) firm Anthropic detailing an alleged election-manipulation operation targeting Malaysian voters. The regulator has also firmly denied any involvement in the activities described in the report. In a statement issued yesterday, MCMC said it takes the matters raised in Anthropic’s […]\nThe post MCMC Probes Anthropic Report, Denies Involvement In Alleged Operations appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404150/mcmc-probes-anthropic-report/",
-          "publishedOn": "2026-09-12T01:47:46.000Z",
-          "wordCount": 14120,
-          "title": "MCMC Probes Anthropic Report, Denies Involvement In Alleged Operations",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/mcmc-file-photo-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404132",
-          "author": "Nurul Kamil",
-          "description": "vivo’s performance-focused sub-brand iQOO is preparing to unveil its newest flagship smartphone in China. Ahead of the official announcement, the company has started teasing the upcoming device. In a Weibo post, the phone maker shared an image showing the iQOO 16, revealing a new look. In this teaser, the device is depicted with a square […]\nThe post iQOO 16 Design Revealed With New Holographic Finish appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404132/iqoo-16-design-holographic-finish/",
-          "publishedOn": "2026-09-12T01:00:31.000Z",
-          "wordCount": 14146,
-          "title": "iQOO 16 Design Revealed With New Holographic Finish",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/iqoo-16-design-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404108",
-          "author": "Ian Chee",
-          "description": "Earlier in the month, Sony Interactive Entertainment and LEGO announced that the former’s very first console will be getting the brick treatment. As it turns out, The PlayStation set may be accompanied by another set that represents the console series’ mascot, Astro Bot. Such is the claim of leakster @BrickTapNews, who shared two images of […]\nThe post LEGO PlayStation May Be Paired With An Astro Bot Set appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404108/lego-playstation-paired-with-astro-bot/",
-          "publishedOn": "2026-09-11T10:02:53.000Z",
-          "wordCount": 14097,
-          "title": "LEGO PlayStation May Be Paired With An Astro Bot Set",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/LEGO-Astro-Bot-leak.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404122",
-          "author": "John Law",
-          "description": "If you’re in the market for a pair of 2.1 bookshelf speakers that also includes a subwoofer, Edifier may have you covered with the new S355DB. It’s got a pleasantly simple and unassuming design, and it’ll fit on just about every desk. What Am I Looking At? Design-wise, the Edifier S355DB isn’t trying to reinvent […]\nThe post Edifier S355DB Review: Decent-Sounding, Everyday Bookshelf Speakers appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404122/edifier-s355db-review/",
-          "publishedOn": "2026-09-11T09:48:47.000Z",
-          "wordCount": 14440,
-          "title": "Edifier S355DB Review: Decent-Sounding, Everyday Bookshelf Speakers",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Edifier-S355DB-Speakers-2-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404110",
-          "author": "Nurul Kamil",
-          "description": "About a week ago, BYD promised to disclose its EV development plan for Malaysia, particularly regarding local manufacturing operations and the future of its CKD facility in Tanjung Malim, Perak. Now, the Chinese automaker has announced that it will not be proceeding with the Tanjung Malim plant. However, this is not the end of the […]\nThe post BYD Cancels Tanjung Malim CKD Plant; Local Assembly To Proceed With Established Local Partner appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404110/byd-cancels-tanjung-malim-ckd-plant/",
-          "publishedOn": "2026-09-11T08:57:55.000Z",
-          "wordCount": 14132,
-          "title": "BYD Cancels Tanjung Malim CKD Plant; Local Assembly To Proceed With Established Local Partner",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/BYD-Logo-2026-2-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404109",
-          "author": "Kiran Ganesan",
-          "description": "Google has introduced a new Android feature that makes it easier to switch between password managers. The new system lets users transfer passwords and passkeys directly between supported password-manager apps without having to download them into an unencrypted file first. To start the transfer, users need to open their new password manager and select the […]\nThe post Google Introduces A Faster Way To Transfer Passwords On Android appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404109/google-faster-way-to-transfer-passwords/",
-          "publishedOn": "2026-09-11T08:46:04.000Z",
-          "wordCount": 13999,
-          "title": "Google Introduces A Faster Way To Transfer Passwords On Android",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Google-Introduces-Faster-Way-To-Transfer-Passwords-On-Android-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404094",
-          "author": "Ian Chee",
-          "description": "One point of friction with games on Steam is that, if the game was released by a publisher that has its own launcher, playing it on the Valve launcher still means having to install the publisher’s launcher. One such publisher is Ubisoft, but the good news is that the French company is looking to change […]\nThe post Ubisoft Games On Steam To No Longer Require Connect Launcher appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404094/ubisoft-games-steam-no-need-connect/",
-          "publishedOn": "2026-09-11T08:23:15.000Z",
-          "wordCount": 14092,
-          "title": "Ubisoft Games On Steam To No Longer Require Connect Launcher",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/Steam-logo-stock-file-photo.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404096",
-          "author": "John Law",
-          "description": "The Asus ROG G1000 Gaming desktop is now officially available for purchase in Malaysia. This desktop is quite possibly the dictionary definition of overkill, as well as a status symbol among gamers with too much disposable income. The aesthetics of the ROG G1000 is, of course, littered with the brand’s ROG branding, as are the […]\nThe post Asus ROG G1000 Gaming Desktop Now Available In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404096/asus-rog-g1000-available-malaysia/",
-          "publishedOn": "2026-09-11T07:35:50.000Z",
-          "wordCount": 14177,
-          "title": "Asus ROG G1000 Gaming Desktop Now Available In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/ASUS-ROG-G1000-Product-Shot-3-1240x827.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404083",
-          "author": "Kiran Ganesan",
-          "description": "If you may recall, Samsung is reportedly working on a new clip-on earpiece that could be called the Galaxy Able or Galaxy Buds On. So far, we’ve seen flat vector icons of the alleged wireless earbuds hidden within One UI’s code. Now, a recent report claims to have obtained what is said to be an […]\nThe post Samsung Galaxy Buds On Render, Features Leak Online; May Launch In Q4 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404083/samsung-galaxy-buds-on-render-leak/",
-          "publishedOn": "2026-09-11T05:39:42.000Z",
-          "wordCount": 14378,
-          "title": "Samsung Galaxy Buds On Render, Features Leak Online; May Launch In Q4 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Samsung-Galaxy-Buds-On-Render-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404078",
-          "author": "Heirul Kamel",
-          "description": "Anthropic has uncovered an AI-powered influence operation that allegedly uses its Claude chatbot to target Malaysian voters, according to the company’s latest threat intelligence report. The September 2026 report examines how AI is being used for malicious activities, including cyberattacks, influence operations, scams, surveillance, biological research and attempts to replicate AI models. The company identifies […]\nThe post Anthropic Discovers AI-Powered Operation Using Claude To Target Malaysian Voters appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404078/anthropic-ai-ops-claude-msian-voters/",
-          "publishedOn": "2026-09-11T04:54:12.000Z",
-          "wordCount": 14359,
-          "title": "Anthropic Discovers AI-Powered Operation Using Claude To Target Malaysian Voters",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/anthropic-claude-opus-ai-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404067",
-          "author": "Nurul Kamil",
-          "description": "Earlier this year, Nothing launched the Headphone (1) as its first pair of over-ear headphones. The London-based company then released a budget-friendly version a few months later. Now, it seems the brand is working on a more premium variant, and the device might hit the shelves soon. A new leak has offered some information on […]\nThe post Nothing Headphone (1) Pro Reportedly Launching This Month With Triple-Driver Setup appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404067/nothing-headphone-1-pro-leak/",
-          "publishedOn": "2026-09-11T04:18:32.000Z",
-          "wordCount": 14201,
-          "title": "Nothing Headphone (1) Pro Reportedly Launching This Month With Triple-Driver Setup",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/nothing-headphone-1-review_03.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404073",
-          "author": "Ian Chee",
-          "description": "Last we heard of Saudi Arabia’s Public Investment Fund (PIF) was early last month, when it completed the buyout of Electronic Arts (EA). More recently, it looks like executives at the sovereign wealth fund are looking to combine its recent acquisition with another, Savvy Games, to create a singular gaming giant. This could then be […]\nThe post Saudi Public Investment Fund Considers Merging EA With Savvy Games appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404073/saudi-considers-merging-ea-savvy-games/",
-          "publishedOn": "2026-09-11T04:11:54.000Z",
-          "wordCount": 14080,
-          "title": "Saudi Public Investment Fund Considers Merging EA With Savvy Games",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Electronic-Arts-EA-HQ-1-1024x683.webp"
         }
       ]
     },
