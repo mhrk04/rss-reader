@@ -19294,6 +19294,214 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.\n\nThe backdoor has been codenamed SC after the \"SC_\" markers present in the injected content. Sucuri has described the malware as a \"self-healing mesh\" that's",
+          "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+          "publishedOn": "2026-10-01T14:37:35.000Z",
+          "wordCount": null,
+          "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date",
+          "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+          "publishedOn": "2026-10-01T11:45:00.000Z",
+          "wordCount": null,
+          "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJsDvv_9QEV86mmDsIBPpGS2Kt2o8WPu2L6kUb9IExDqX-2lDKksEMMJp3NqFwDUqplX6JCeUpJfI_8rt_febX1CjMorRii_RpDccPPynWQHW_abdrNSWj774Ad0XH-RmiP-Lzki-Btsu6mh1cUsIffeSIOfUQ29qEJJwBTsaL-olM3GK18D2LYoxJlg/s1600/chain.png.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJsDvv_9QEV86mmDsIBPpGS2Kt2o8WPu2L6kUb9IExDqX-2lDKksEMMJp3NqFwDUqplX6JCeUpJfI_8rt_febX1CjMorRii_RpDccPPynWQHW_abdrNSWj774Ad0XH-RmiP-Lzki-Btsu6mh1cUsIffeSIOfUQ29qEJJwBTsaL-olM3GK18D2LYoxJlg/s1600/chain.png.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA \"core cluster of the activity,\" going back to the first week of July, has been attributed to individuals associated with Moonshot AI, a Chinese AI company based in Beijing. It did not cite any",
+          "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+          "publishedOn": "2026-10-01T10:42:36.000Z",
+          "wordCount": null,
+          "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoOullmVukPDhwbQ10zXHA-IqDVeMp55dybdLAhT-kkPDdJADbw8BETggWjHN3WF4HHpXLV8RDk4jHLVYlS9wWxZcbHMtEGGfGu-dGv2lFRzv3lJ1csgozieAguSQeE2Nhw5ZXBi1YIjaBbF5Al_kakh4wNXfjr4PJ-Q4QZxaHm4_Lha_aMxdQ3NPKRm0/s1600/moonshot.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoOullmVukPDhwbQ10zXHA-IqDVeMp55dybdLAhT-kkPDdJADbw8BETggWjHN3WF4HHpXLV8RDk4jHLVYlS9wWxZcbHMtEGGfGu-dGv2lFRzv3lJ1csgozieAguSQeE2Nhw5ZXBi1YIjaBbF5Al_kakh4wNXfjr4PJ-Q4QZxaHm4_Lha_aMxdQ3NPKRm0/s1600/moonshot.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could allow an unauthenticated, remote attacker to access an affected system with",
+          "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+          "publishedOn": "2026-10-01T10:33:16.000Z",
+          "wordCount": null,
+          "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.\n\n\"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" Koray Kavukcuoglu,",
+          "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+          "publishedOn": "2026-10-01T07:49:36.000Z",
+          "wordCount": null,
+          "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.\n\nThe trigger is a malicious PDF with a crafted embedded font that crashes unpatched iPhones and Macs. The code causes a crash, not an execution error. Turning the memory corruption into a working",
+          "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+          "publishedOn": "2026-10-01T05:54:41.000Z",
+          "wordCount": null,
+          "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u07cHr0A83x9aQdJE-_Emw6K1GzjR2eybdv9Rq_qi43Oi-M2U4eWqCkjvH5fUhw5wKSa-rvQ81gePKLYCqJXyrZpWHXOehEFq_QaTdYpy0O3LLUQGGYn1pxlUGUXwplloAHT3ZP7oMcF6al9A7q9XfnYNUhtBD0qw-GOWuKiyZl8zbrudyjWtEzHXC0/s1600/apple-whatsapp.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u07cHr0A83x9aQdJE-_Emw6K1GzjR2eybdv9Rq_qi43Oi-M2U4eWqCkjvH5fUhw5wKSa-rvQ81gePKLYCqJXyrZpWHXOehEFq_QaTdYpy0O3LLUQGGYn1pxlUGUXwplloAHT3ZP7oMcF6al9A7q9XfnYNUhtBD0qw-GOWuKiyZl8zbrudyjWtEzHXC0/s1600/apple-whatsapp.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist.\n\n\"Their investigation identified malicious activity involving third-party security products, including a zero-day vulnerability, and recovered a customized tool used by the attacker",
+          "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+          "publishedOn": "2026-10-01T05:21:10.000Z",
+          "wordCount": null,
+          "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure.\n\n\"We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,\" the software cryptocurrency wallet maker said. \"At this time, we have identified no immediate threat to MetaMask wallets.\"\n\nMetaMask",
+          "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+          "publishedOn": "2026-10-01T05:10:09.000Z",
+          "wordCount": null,
+          "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.\n\nLevelBlue's Threat Hunt Operations & Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler",
+          "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+          "publishedOn": "2026-10-01T04:35:34.000Z",
+          "wordCount": null,
+          "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.\n\nThe attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
+          "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+          "publishedOn": "2026-09-30T16:46:29.000Z",
+          "wordCount": null,
+          "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxFzgwNCn6YTNDvFIlEUKsnNOR9Y8UF__1rQ8N5BuMTKmJRPs-d_ilYcoeXwb03y07EXxnGyf5Ka8gyrKbFtzM2GoqYfrp79A-ZwHZyQDHEIU9twKFM67Glqk8eE4_j3fiHxNnPFl0euvHnKKfrmTd2aKcsMnebFQ4z73INLZfIdT66yH3MV5vOIBaMV5/s1600/zimbra-email.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxFzgwNCn6YTNDvFIlEUKsnNOR9Y8UF__1rQ8N5BuMTKmJRPs-d_ilYcoeXwb03y07EXxnGyf5Ka8gyrKbFtzM2GoqYfrp79A-ZwHZyQDHEIU9twKFM67Glqk8eE4_j3fiHxNnPFl0euvHnKKfrmTd2aKcsMnebFQ4z73INLZfIdT66yH3MV5vOIBaMV5/s1600/zimbra-email.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.\n\n\"Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected",
+          "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+          "publishedOn": "2026-09-30T16:32:59.000Z",
+          "wordCount": null,
+          "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOpLuI3TSRRvKO7zux2AsJKVNjC36RcaAJCYelekCSQRhpMSABekI8kmMGLZRBZN2biNqDGyKYY_0AqsXb2PMKS6M3sjeLBlt7UQ_IWhXPQ3_q9DGhetIgFeGkF1d_ZE-l2HZPTDID5FkqdLsv3G_wJ-Yckb-Q2I6FdCLo3-AS-pPbCIDRfgFiRzofpaA/s1600/windows-rmm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOpLuI3TSRRvKO7zux2AsJKVNjC36RcaAJCYelekCSQRhpMSABekI8kmMGLZRBZN2biNqDGyKYY_0AqsXb2PMKS6M3sjeLBlt7UQ_IWhXPQ3_q9DGhetIgFeGkF1d_ZE-l2HZPTDID5FkqdLsv3G_wJ-Yckb-Q2I6FdCLo3-AS-pPbCIDRfgFiRzofpaA/s1600/windows-rmm.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30.\n\nThe flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user. Fixed releases are available, and there is no workaround. It carries a",
+          "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+          "publishedOn": "2026-09-30T15:24:54.000Z",
+          "wordCount": null,
+          "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRBMRmTwQer5G9fB3V6UvczV_QEpVLnIpRMEjpkiSKOC1vvem-ZkM9zP2vgBIYDlH-jveY5oeV2qcYJ2YiVD1-z1q4bJNBrPYpewyUqOOgbl89xV3JCsQeor1fhrWLS6EEvtNCIHlyuNB8jRnDzqdO9bQZ4hNN0yvEE6ceXw0A43onar4xorpsnM1qog/s1600/cisco-admin.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRBMRmTwQer5G9fB3V6UvczV_QEpVLnIpRMEjpkiSKOC1vvem-ZkM9zP2vgBIYDlH-jveY5oeV2qcYJ2YiVD1-z1q4bJNBrPYpewyUqOOgbl89xV3JCsQeor1fhrWLS6EEvtNCIHlyuNB8jRnDzqdO9bQZ4hNN0yvEE6ceXw0A43onar4xorpsnM1qog/s1600/cisco-admin.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared",
+          "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+          "publishedOn": "2026-09-30T15:00:15.000Z",
+          "wordCount": null,
+          "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-E2KBc2Kl1xfsJ_ayeCwrbYODEJELskOif8C_YQFyt7DoGklZczzFD3IetvE9mFBUeQN9SQWCE41WtJA-NkE6dya1xAOznACZzeRCMRhvfSQaGipfmD-z1F2rWFPFGLvYSJwrfKhUrbdzwMc_b4OkpTA8huBozpABL2OBcxCM1cod7Hvr0eH23GgE1sEo/s1600/custom-gpt.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-E2KBc2Kl1xfsJ_ayeCwrbYODEJELskOif8C_YQFyt7DoGklZczzFD3IetvE9mFBUeQN9SQWCE41WtJA-NkE6dya1xAOznACZzeRCMRhvfSQaGipfmD-z1F2rWFPFGLvYSJwrfKhUrbdzwMc_b4OkpTA8huBozpABL2OBcxCM1cod7Hvr0eH23GgE1sEo/s1600/custom-gpt.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser.\n\nHere are the six most dangerous techniques that should be on every security team's radar in 2026.\n\n1.",
@@ -21116,182 +21324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiizrhUTj3tjdgb7IhljezkW3bnwYpTrYnUKKPyx7s7RWalycDu2JiqKhRZDgnpZdafbKxkyBrx4kjkpGTNSNXYZ-nL2wFQ_kKcRBVo14lJ5Da5SF2sq2-eOzHeRXxuJ3skSWSn5AC0XA4NjwQrhTWFOuFxvSRsmOC63AIKBxV-9bfmABkLGW4BgyfV3CSM/s1600/domain.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiizrhUTj3tjdgb7IhljezkW3bnwYpTrYnUKKPyx7s7RWalycDu2JiqKhRZDgnpZdafbKxkyBrx4kjkpGTNSNXYZ-nL2wFQ_kKcRBVo14lJ5Da5SF2sq2-eOzHeRXxuJ3skSWSn5AC0XA4NjwQrhTWFOuFxvSRsmOC63AIKBxV-9bfmABkLGW4BgyfV3CSM/s1600/domain.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote attacker to execute arbitrary operating system (OS) commands by taking advantage of a hard-coded",
-          "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-          "publishedOn": "2026-09-16T15:50:59.000Z",
-          "wordCount": null,
-          "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to be active since at least 2023, that involve new techniques for persistence and lateral movement.",
-          "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-          "publishedOn": "2026-09-16T15:27:49.000Z",
-          "wordCount": null,
-          "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension.\n\nOnce the extension was installed, it could access each product's built-in AI with a single click. On Comet, Edge,",
-          "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-          "publishedOn": "2026-09-16T14:36:44.000Z",
-          "wordCount": null,
-          "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories.\n\nBefore the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was accepted. The worm stole repository secrets and source code for the",
-          "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-          "publishedOn": "2026-09-16T13:37:07.000Z",
-          "wordCount": null,
-          "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.\n\nThe attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop 27, a version that Intel Macs cannot install.\n\nYuval Moravchick, who leads",
-          "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-          "publishedOn": "2026-09-16T13:14:05.000Z",
-          "wordCount": null,
-          "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity.\n\nFrom there, a single compromised identity can open the door to sensitive data, business systems, and additional cloud",
-          "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-          "publishedOn": "2026-09-16T11:58:00.000Z",
-          "wordCount": null,
-          "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw.\n\n\"In Cellular Modem, there is a possible permission bypass due to a logic error in the code,\" according to a description of the bug in the NIST National Vulnerability Database",
-          "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-          "publishedOn": "2026-09-16T11:15:58.000Z",
-          "wordCount": null,
-          "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVCezHTU2PU4DuL9ysF0nQFJLLR2QyxyexdJN5iv1QQnl4-mFFupADzryOhW_lsM_nI5OgHH5krMBLOErLl9GNmyJeaGEDGQNnhhyphenhyphenNs2ZXIwBLTIY8poIVxLKPNRRAipPFbKv_a7CPzE86rB_nItrsiirydPRuCZrvkDymktX28d1O7kSbEhIgmEPh6oy/s1600/pixel.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVCezHTU2PU4DuL9ysF0nQFJLLR2QyxyexdJN5iv1QQnl4-mFFupADzryOhW_lsM_nI5OgHH5krMBLOErLl9GNmyJeaGEDGQNnhhyphenhyphenNs2ZXIwBLTIY8poIVxLKPNRRAipPFbKv_a7CPzE86rB_nItrsiirydPRuCZrvkDymktX28d1O7kSbEhIgmEPh6oy/s1600/pixel.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelerate the path from exposure to breach faster than most security programs are built to react.",
-          "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-          "publishedOn": "2026-09-16T11:15:48.000Z",
-          "wordCount": null,
-          "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects the following versions -\n\n\n  Acronis Backup plugin for cPanel & WHM (Linux",
-          "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-          "publishedOn": "2026-09-16T11:08:54.000Z",
-          "wordCount": null,
-          "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.\n\n\"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,\" Wordfence said.\n\nThe WordPress security company said it has blocked over",
-          "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-          "publishedOn": "2026-09-16T05:48:28.000Z",
-          "wordCount": null,
-          "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.\n\nThe vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw.\n\n\"JWT authentication",
-          "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-          "publishedOn": "2026-09-16T05:18:06.000Z",
-          "wordCount": null,
-          "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg"
         }
       ]
     },
@@ -21300,6 +21332,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=406063",
+          "author": "John Law",
+          "description": "Framework is beginning to take preorders for the new 192GB configuration of the Framework Desktop. The compact all-in-one comes equipped with the AMD Ryzen AI Max+ Pro 495. We’ve already talked at length about the Gorgon Halo APU, so we’ll just got through the specifications of it quickly. Pro 495 is built on a 16-cores, […]\nThe post Framework Desktop With 192GB And Ryzen AI Max+ Pro 495 Now Up For Preorder appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406063/framework-desktop-with-192gb-and-ryzen-ai-max-pro-495-now-up-for-preorder/",
+          "publishedOn": "2026-10-01T09:18:42.000Z",
+          "wordCount": 13267,
+          "title": "Framework Desktop With 192GB And Ryzen AI Max+ Pro 495 Now Up For Preorder",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Framework-Desktop-192GB-1-1240x904.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=406066",
+          "author": "Nurul Kamil",
+          "description": "Huawei has officially launched the latest crop of smartphones for its home market. Succeeding last year’s Mate 80 lineup, the Mate 90 series serves as the brand’s flagship offering. This time, the company has introduced a total of five models, namely the vanilla Mate 90, the Mate 90 Pro, the Mate 90 Pro Max, the […]\nThe post Huawei Mate 90 Series Officially Debuts In China appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406066/huawei-mate-90-series-china/",
+          "publishedOn": "2026-10-01T09:08:47.000Z",
+          "wordCount": 13837,
+          "title": "Huawei Mate 90 Series Officially Debuts In China",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/huawei-mate-90-pro-max-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=406059",
+          "author": "Ian Chee",
+          "description": "Back in August, Xbox announced that it’s letting Insiders test the Disc-To-Digital feature, which grants your account the license to a game once you pop in the disc and install it onto your console. That feature is now available to everyone with an Xbox, with the granting of the digital licence also being made faster […]\nThe post Xbox Disc-To-Digital Feature Rolls Out To All appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406059/xbox-disc-to-digital-rolls-out-to-all/",
+          "publishedOn": "2026-10-01T08:53:08.000Z",
+          "wordCount": 13295,
+          "title": "Xbox Disc-To-Digital Feature Rolls Out To All",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/Xbox-Disc-to-Digital.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=406065",
+          "author": "Kiran Ganesan",
+          "description": "Three months after it initially debuted in China, vivo has officially launched its X Fold6 to the global market today. However, this piece of information shouldn’t really come as a surprise to anyone who’s been keeping up with recent rumours. According to the global press release, the company is positioning the device as a productivity […]\nThe post vivo X Fold6 Now Official Globally With 6,900mAh Battery, Dimensity 9500 Super appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406065/vivo-x-fold6-now-official-globally/",
+          "publishedOn": "2026-10-01T08:44:08.000Z",
+          "wordCount": 13506,
+          "title": "vivo X Fold6 Now Official Globally With 6,900mAh Battery, Dimensity 9500 Super",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/vivo-X-Fold6-Now-Official-Globally-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=406056",
+          "author": "Heirul Kamel",
+          "description": "Digital Nasional Berhad (DNB) has secured RM5.2 billion through a syndicated Islamic term financing exercise, strengthening its financial position as Malaysia moves into the next phase of its dual 5G network framework. The financing also provides the company with a new long-term funding structure as it prepares to operate under an ownership model led by […]\nThe post DNB Secures RM5.2 Billion Financing As MoF Inc Prepares To Exit appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406056/dnb-secures-rm5-2-billion-financing/",
+          "publishedOn": "2026-10-01T08:12:42.000Z",
+          "wordCount": 13476,
+          "title": "DNB Secures RM5.2 Billion Financing As MoF Inc Prepares To Exit",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/dnb-logo-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=406051",
+          "author": "John Law",
+          "description": "Borderless Gaming has become the latest upscaling tool to embrace the unofficial implementation of NVIDIA’s DLSS 5 Neural Rendering. The tool is available via Steam, costs RM19.50, and is currently the only tool to offer the upscaler, beating even Lossless Scaling. Simple Implementations, Sort Of Borderless Gaming makes a couple of things clear. Firstly, the […]\nThe post Borderless Gaming Now Implements DLSS 5 Without Any Modifications appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406051/borderless-gaming-now-implements-dlss-5-without-any-modifications/",
+          "publishedOn": "2026-10-01T08:08:21.000Z",
+          "wordCount": 13260,
+          "title": "Borderless Gaming Now Implements DLSS 5 Without Any Modifications",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Borderless-Gaming-upscaling-tool-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=406004",
+          "author": "Ian Chee",
+          "description": "Acer Malaysia has launched two things today. One is a new Predator Concept Store at Plaza Low Yat, and the other is the Predator Orion 7000 refresh. The latter is arguably the more important one, though it does look a bit strange when you compare it directly to the model that came before. In fact, […]\nThe post Acer Malaysia Launches Predator Orion 7000 Refresh Alongside New Concept Store appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406004/acer-malaysia-predator-orion-7000/",
+          "publishedOn": "2026-10-01T06:05:44.000Z",
+          "wordCount": 13260,
+          "title": "Acer Malaysia Launches Predator Orion 7000 Refresh Alongside New Concept Store",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Acer-Predator-Orion-7000-far.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=406023",
+          "author": "Kiran Ganesan",
+          "description": "[UPDATE: 1 Oct 2026  – 3:10pm]: Lenovo Malaysia reached out and told us that the mouse is indeed coming to Malaysia in November. However, the representative did not give a specific date. [Original Story: 1 Oct 2026  – 1:51pm]: Though Lenovo is largely known for its wide range of computers, the company has also released […]\nThe post Lenovo Unveils A Transparent Mouse With 90-Day Battery Life (Updated) appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406023/lenovo-mouse-90-day-battery-life/",
+          "publishedOn": "2026-10-01T05:51:20.000Z",
+          "wordCount": 13353,
+          "title": "Lenovo Unveils A Transparent Mouse With 90-Day Battery Life (Updated)",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Lenovo-Unveils-A-Transparent-Mouse-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=406007",
+          "author": "John Law",
+          "description": "Mini PCs and casings of that range seem to be all the rage right now, so needless to say, casings and chassis manufacturers like Kubb are going to milk the action for what it’s worth while it’s still in vogue. Recently, one of the company’s customers ordered one of its fanless systems with just one […]\nThe post This Kubb Mini PC Is Made Out Of 13kg Of Pure Gold appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406007/this-kubb-mini-pc-is-made-out-of-13kg-of-pure-gold/",
+          "publishedOn": "2026-10-01T05:43:29.000Z",
+          "wordCount": 13307,
+          "title": "This Kubb Mini PC Is Made Out Of 13kg Of Pure Gold",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Kubb-Fanless-Gold-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=406012",
+          "author": "Nurul Kamil",
+          "description": "Meta has been steadily rolling out safety features for younger users on its platforms, including Facebook and Instagram. Now, the company is bringing similar functions to WhatsApp with the introduction of parental controls. As detailed in a new blog post, these are a set of optional, flexible tools designed for teens. Created to help families […]\nThe post WhatsApp Rolls Out New Parental Controls For Teens appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/406012/whatsapp-parental-controls-teens/",
+          "publishedOn": "2026-10-01T05:10:18.000Z",
+          "wordCount": 13302,
+          "title": "WhatsApp Rolls Out New Parental Controls For Teens",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/whatsapp-parental-controls-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=405932",
           "author": "Nurul Kamil",
@@ -22424,16 +22556,6 @@
           "wordCount": 14314,
           "title": "New-Generation MyKad Rolls Out Today",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/jpn-new-gen-mykad-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=404464",
-          "author": "John Law",
-          "description": "Razer officially launched the Kraken V4 X Sensa HD Haptics Edition headphones. Basically, the headset is the V4 X that we reviewed back then, just with haptics installed. Then, as now, the Kraken V4 X Sensa HD Haptics Edition is a wired headset, featuring Razer’s Chroma RGB LEDs built into the back of the earcups. […]\nThe post Razer Announces Kraken V4 X Sensa HD Haptics Edition Headphones appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/404464/razer-announces-kraken-v4-x-sensa-hd-haptics-edition-headphones/",
-          "publishedOn": "2026-09-17T02:07:04.000Z",
-          "wordCount": 14056,
-          "title": "Razer Announces Kraken V4 X Sensa HD Haptics Edition Headphones",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Razer-Kraken-V4-X-Sensa-HD-Haptics-Edition-3-1240x697.webp"
         }
       ]
     },
@@ -22442,6 +22564,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
+          "author": "Nate Nelson",
+          "description": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
+          "publishedOn": "2026-10-01T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
+          "author": "Alexander Culafi",
+          "description": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
+          "publishedOn": "2026-09-30T21:25:47.000Z",
+          "wordCount": null,
+          "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
+          "author": "Jai Vijayan",
+          "description": "The new White House Accord on so-called \"Super Intelligence\" calls on companies to implement greater controls and oversight over AI safety.",
+          "link": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
+          "publishedOn": "2026-09-30T20:51:15.000Z",
+          "wordCount": null,
+          "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+          "author": null,
+          "description": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
+          "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+          "publishedOn": "2026-09-30T18:56:56.000Z",
+          "wordCount": null,
+          "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
+          "author": "Elizabeth Montalbano",
+          "description": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
+          "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
+          "publishedOn": "2026-09-30T15:02:25.000Z",
+          "wordCount": null,
+          "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
           "author": "Robert Lemos",
@@ -22900,36 +23072,6 @@
           "publishedOn": "2026-09-17T19:15:38.000Z",
           "wordCount": null,
           "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
-          "author": "Jai Vijayan",
-          "description": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
-          "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
-          "publishedOn": "2026-09-16T21:26:55.000Z",
-          "wordCount": null,
-          "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
-          "author": "Dark Reading Editorial Team",
-          "description": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
-          "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
-          "publishedOn": "2026-09-16T18:00:54.000Z",
-          "wordCount": null,
-          "title": "Fighting Your Dragons Through Tough Tech Times",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
-          "author": "Elizabeth Montalbano",
-          "description": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data.",
-          "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
-          "publishedOn": "2026-09-16T16:43:37.000Z",
-          "wordCount": null,
-          "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
           "imageUrl": null
         }
       ]
