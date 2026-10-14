@@ -19294,6 +19294,246 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability.\n\nThe security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS",
+          "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+          "publishedOn": "2026-10-14T12:30:42.000Z",
+          "wordCount": null,
+          "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine.\n\nThe curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash",
+          "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+          "publishedOn": "2026-10-14T12:13:36.000Z",
+          "wordCount": null,
+          "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake.\n\nThe call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes",
+          "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+          "publishedOn": "2026-10-14T11:50:00.000Z",
+          "wordCount": null,
+          "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.\n\nIts researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $",
+          "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+          "publishedOn": "2026-10-14T11:19:02.000Z",
+          "wordCount": null,
+          "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. \n\nDutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking",
+          "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+          "publishedOn": "2026-10-14T11:08:22.000Z",
+          "wordCount": null,
+          "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.\n\nTL;DR\n\n\n  During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own.\n  One login request let the user choose where the one-time passcode went.\n  The attack was the easy part. Proving it",
+          "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+          "publishedOn": "2026-10-14T11:00:00.000Z",
+          "wordCount": null,
+          "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine.\n\nThe bug is tracked as CVE-2026-74580 and named Vghost. Tencent Zhuque Lab, which found the",
+          "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+          "publishedOn": "2026-10-14T07:46:57.000Z",
+          "wordCount": null,
+          "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s1600/linux-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s1600/linux-exploit.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature.\n\nThe work was done in a lab as a proof of",
+          "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+          "publishedOn": "2026-10-14T05:52:28.000Z",
+          "wordCount": null,
+          "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.\n\nThese include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code",
+          "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+          "publishedOn": "2026-10-14T04:34:43.000Z",
+          "wordCount": null,
+          "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1600/windows-patch.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1600/windows-patch.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.\n\nAbdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
+          "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+          "publishedOn": "2026-10-14T01:59:25.000Z",
+          "wordCount": null,
+          "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.\n\nThe frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
+          "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+          "publishedOn": "2026-10-13T18:20:57.000Z",
+          "wordCount": null,
+          "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it.\n\nThe flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
+          "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+          "publishedOn": "2026-10-13T18:03:18.000Z",
+          "wordCount": null,
+          "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity.\n\nVolexity, which reported the flaws to Ivanti,",
+          "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+          "publishedOn": "2026-10-13T17:33:11.000Z",
+          "wordCount": null,
+          "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,",
+          "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+          "publishedOn": "2026-10-13T17:28:50.000Z",
+          "wordCount": null,
+          "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKBZR5elkBVKRcFO6lyde7XYDVO73IBxDvnx9-UkLst3GhVFuK8Yz3QBVIIEJABDjZuJMn8tyf7RLLPIRV8J8qe-OUULjnQRaQNyWricSsOjlKJoyYu8WOvs5PxBWQpzuiq8hlDlOY7zY-qIYDgQ6NFuifS5GbHbnLBET0OTfmsMC8797Mo5un9_ECyg8/s1600/sap-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKBZR5elkBVKRcFO6lyde7XYDVO73IBxDvnx9-UkLst3GhVFuK8Yz3QBVIIEJABDjZuJMn8tyf7RLLPIRV8J8qe-OUULjnQRaQNyWricSsOjlKJoyYu8WOvs5PxBWQpzuiq8hlDlOY7zY-qIYDgQ6NFuifS5GbHbnLBET0OTfmsMC8797Mo5un9_ECyg8/s1600/sap-hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials.\n\n\"Your configuration becomes validated and exempt from expiry after its first successful publish,\" the Microsoft-owned subsidiary",
+          "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+          "publishedOn": "2026-10-13T16:18:18.000Z",
+          "wordCount": null,
+          "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers.\n\nThe administrative penalty is the largest issued by the data protection watchdog, arguing the case merited a high fine because of the \"very serious\" nature of the breach. The infringements",
@@ -20892,150 +21132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a report (in French) published on Tuesday: it worked because of weak",
-          "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-          "publishedOn": "2026-09-29T17:47:01.000Z",
-          "wordCount": null,
-          "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.\n\nThe new Spectre v2 variant has been codenamed Branch Target Reuse (BTR).\n\n\"The key insight is that, while modern CPUs",
-          "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-          "publishedOn": "2026-09-29T17:20:17.000Z",
-          "wordCount": null,
-          "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft.\n\nThe campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached",
-          "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-          "publishedOn": "2026-09-29T17:20:08.000Z",
-          "wordCount": null,
-          "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n\"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base,\" the company",
-          "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-          "publishedOn": "2026-09-29T14:13:20.000Z",
-          "wordCount": null,
-          "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without their consent,\" OX Security researchers Nir Zadok, Moshe Siman Tov Bustan, and Vitalii Chepurko said in a technical",
-          "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-          "publishedOn": "2026-09-29T13:45:10.000Z",
-          "wordCount": null,
-          "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.\n\n\"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday.\n\nPolice said the individual is expected to appear before the",
-          "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-          "publishedOn": "2026-09-29T08:35:10.000Z",
-          "wordCount": null,
-          "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWsGNpV8Y5_YLcyxRYju8E3caiN3I3Zttrlvxhz5iXfzVIR_Ayp_d_Zn2Wk12ZBkz5nW4eYfKeEs-xxs9kYuS_paAwO3wJleeUxdMRbrbU_lXwWVuG7ajiFH0UOEcoj3almps5b54DXt-mGy73GhXjCQzGsNNDJkhdfJXRI9XWeFF5hfsr4zjQty-Wued5/s1600/1000111943.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWsGNpV8Y5_YLcyxRYju8E3caiN3I3Zttrlvxhz5iXfzVIR_Ayp_d_Zn2Wk12ZBkz5nW4eYfKeEs-xxs9kYuS_paAwO3wJleeUxdMRbrbU_lXwWVuG7ajiFH0UOEcoj3almps5b54DXt-mGy73GhXjCQzGsNNDJkhdfJXRI9XWeFF5hfsr4zjQty-Wued5/s1600/1000111943.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory.\n\nAffected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and",
-          "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-          "publishedOn": "2026-09-29T06:08:25.000Z",
-          "wordCount": null,
-          "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N5owhsoQXHTQV74afwfngdyitjwcW37BHLX2QKkq6xZAxP8_AOXAh1ODPj5DyvvmMUq3mKH9eR2B1r7owc6djzLViK2U4BY_hw3rTWmaHjhFEyyh8LPlUMPZ7MdWkqN7bjtQyMByBLrsI5m0mAU9y-IbrsAe9OPhZXHN63AWwuv_1OB5MSrpRdVZ9CM/s1600/mcp-python.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N5owhsoQXHTQV74afwfngdyitjwcW37BHLX2QKkq6xZAxP8_AOXAh1ODPj5DyvvmMUq3mKH9eR2B1r7owc6djzLViK2U4BY_hw3rTWmaHjhFEyyh8LPlUMPZ7MdWkqN7bjtQyMByBLrsI5m0mAU9y-IbrsAe9OPhZXHN63AWwuv_1OB5MSrpRdVZ9CM/s1600/mcp-python.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.\n\nThe development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer ditching a new release because of safety concerns,\" the news publication said.",
-          "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-          "publishedOn": "2026-09-29T05:12:32.000Z",
-          "wordCount": null,
-          "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiHpQjvEicRlkD9F-pR6I5h9MLRWRtX0Wd84u8ThZ5XIsZ-TZwHjTyXj93Z6GV0-5MNhAO2bCQCGfMHuoW7-0ovwpXFwxTy-gvBNJ3iCrlDjBAimAS-ayH7ZfzIL9kzMaV5Wn8FwBR17ehonB72Yvweyp4msb6uPEZxvnEj0QDMF2BDFYkPfU9_GGakFi/s1600/astra.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiHpQjvEicRlkD9F-pR6I5h9MLRWRtX0Wd84u8ThZ5XIsZ-TZwHjTyXj93Z6GV0-5MNhAO2bCQCGfMHuoW7-0ovwpXFwxTy-gvBNJ3iCrlDjBAimAS-ayH7ZfzIL9kzMaV5Wn8FwBR17ehonB72Yvweyp4msb6uPEZxvnEj0QDMF2BDFYkPfU9_GGakFi/s1600/astra.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions.\n\n\"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:",
-          "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-          "publishedOn": "2026-09-29T04:45:20.000Z",
-          "wordCount": null,
-          "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NfY2zvkkU95qQwwR7N_yQQf_H2AjYcXccbK2yH7xzzeAqmu3mH9ItszzC14M2suvDnfz6EBB-QzMkCTUBIgaoX9teGfhmBIBvU9R-wsKQBcC90f5lytvP-hYfCy8o-YTDTh8rIqz8mj1NIikN27BE2vsWyaRgiKPeAe3zbmrkdy6Dkg8htztnoyJwS4o/s1600/openai-chatbot.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NfY2zvkkU95qQwwR7N_yQQf_H2AjYcXccbK2yH7xzzeAqmu3mH9ItszzC14M2suvDnfz6EBB-QzMkCTUBIgaoX9teGfhmBIBvU9R-wsKQBcC90f5lytvP-hYfCy8o-YTDTh8rIqz8mj1NIikN27BE2vsWyaRgiKPeAe3zbmrkdy6Dkg8htztnoyJwS4o/s1600/openai-chatbot.jpg"
         }
       ]
     },
@@ -21044,6 +21140,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=407349",
+          "author": "Heirul Kamel",
+          "description": "The government is proposing to introduce a licensing regime for e-commerce platforms operating in Malaysia, including those based overseas that offer services to local consumers. The proposal is part of the upcoming E-Commerce Bill, which aims to strengthen oversight of online marketplaces, protect consumers, and ensure fairer competition for local businesses. The move follows the […]\nThe post Govt Proposes Licensing Regime For E-Commerce Platforms Under New Bill appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407349/govt-licensing-regime-e-commerce/",
+          "publishedOn": "2026-10-14T10:31:37.000Z",
+          "wordCount": 13393,
+          "title": "Govt Proposes Licensing Regime For E-Commerce Platforms Under New Bill",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/govt-e-commerce-licensing-regime-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=407342",
+          "author": "Nurul Kamil",
+          "description": "Anthropic has been among the more prominent parties warning the public about the dangers of AI, which shouldn’t come as much of a surprise, considering its own track record with misbehaving models. You’ve probably heard the story before: rogue agents escape containment to hack websites and corporate systems. But Anthropic’s latest research describes a different […]\nThe post Anthropic Warns Of Self-Replicating AI Worms Targeting Smart Devices appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407342/anthropic-ai-worms-smart-devices/",
+          "publishedOn": "2026-10-14T09:54:08.000Z",
+          "wordCount": 13403,
+          "title": "Anthropic Warns Of Self-Replicating AI Worms Targeting Smart Devices",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/anthropic-claude-opus-ai-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=407337",
+          "author": "Kiran Ganesan",
+          "description": "During the tabling of Budget 2026 on October 10, 2025, Prime Minister Datuk Seri Anwar Ibrahim announced plans for the Madani Submarine Cable (SALAM) project, a submarine cable system aimed at strengthening connectivity between Peninsular Malaysia, Sabah, and Sarawak. A year after the project was first announced, it is now expected to begin in the […]\nThe post SALAM Submarine Cable Project Expected To Begin In Q1 2027 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407337/salam-submarine-cable-begin-in-q1-2027/",
+          "publishedOn": "2026-10-14T08:51:48.000Z",
+          "wordCount": 13296,
+          "title": "SALAM Submarine Cable Project Expected To Begin In Q1 2027",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/submarine-cable-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=407331",
+          "author": "Heirul Kamel",
+          "description": "More than 400 scientists from 34 countries have called for an international body to oversee the containment and security of advanced artificial intelligence (AI) systems capable of conducting cyberattacks. The signatories include AI pioneers Geoffrey Hinton, a Nobel Prize winner, and Yoshua Bengio, a recipient of the Turing Award. In a recently published open letter, […]\nThe post Over 400 Scientists Call For International Oversight Of Cyber-Capable AI appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407331/over-400-scientists-ai-open-letter/",
+          "publishedOn": "2026-10-14T06:00:37.000Z",
+          "wordCount": 13355,
+          "title": "Over 400 Scientists Call For International Oversight Of Cyber-Capable AI",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/08/openai-Dall-E-now-available-for-free-ChatGPT-users-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=407327",
+          "author": "John Law",
+          "description": "It’s a whirlwind week for NVIDIA in the consumer graphics space, with one of the new updates being a new, faster Performance Mode for Frame Generation. The update will be applicable to GeForce RTX 40 Series, RTX 50 Series, and RTX Spark laptops. Preset C The new Frame Generation Performance Mode is called “Preset C”, […]\nThe post NVIDIA Introduces Faster DLSS Frame Generation Performance Mode On RTX 50 And 40 Series appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407327/nvidia-faster-dlss-performance-mode/",
+          "publishedOn": "2026-10-14T05:31:56.000Z",
+          "wordCount": 13277,
+          "title": "NVIDIA Introduces Faster DLSS Frame Generation Performance Mode On RTX 50 And 40 Series",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/04/Cyberpunk-2077-RT-Overdrive-Mode-DLSS3-On.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=407317",
+          "author": "Nurul Kamil",
+          "description": "Apple’s audio-focused sub-brand Beats has partnered with The Pokemon Company to launch a special edition of the Beats Pill wireless Bluetooth speaker. Set to release in select regions very soon, the Pokemon Beats Pill is based on two of the franchise’s popular Pokemon: Mimikyu and the series’ poster child, Pikachu. The portable speaker sports a […]\nThe post Special Edition Pokemon Beats Pill To Launch 15 October 2026 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407317/special-edition-pokemon-beats-pill/",
+          "publishedOn": "2026-10-14T05:22:49.000Z",
+          "wordCount": 13258,
+          "title": "Special Edition Pokemon Beats Pill To Launch 15 October 2026",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/pokemon-beats-pill-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=407315",
+          "author": "Heirul Kamel",
+          "description": "Malaysia is preparing to test a new smartphone-based disaster alert system next month. According to recent reports, the Malaysian Communications and Multimedia Commission (MCMC) is now in the final phase of developing the Cell Broadcast System (CBS), with a live test scheduled for 19 November 2026. The upcoming exercise will test the system’s ability to […]\nThe post MCMC To Test Cell Broadcast Disaster Alert System On 19 November appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407315/mcmc-cbs-alert-system-test-19-nov-2026/",
+          "publishedOn": "2026-10-14T04:37:40.000Z",
+          "wordCount": 13307,
+          "title": "MCMC To Test Cell Broadcast Disaster Alert System On 19 November",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/10/govt-exploring-smartphone-based-alerts-for-emergencies-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=407313",
+          "author": "Kiran Ganesan",
+          "description": "Despite the various leaks surrounding Grand Theft Auto VI (GTA VI), many are still excited to play Rockstar Games’ upcoming title. While the game is scheduled to launch on consoles next month, Rockstar has yet to announce a PC release date. However, a new report suggests that the PC version could arrive as early as […]\nThe post GTA VI Reportedly Launching On PC In Early 2027 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407313/gta-vi-reportedly-launch-pc-early-2027/",
+          "publishedOn": "2026-10-14T04:27:44.000Z",
+          "wordCount": 13346,
+          "title": "GTA VI Reportedly Launching On PC In Early 2027",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Grand-Theft-Auto-VI-Ultimate-Edition-bonus-outfits-3.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=407241",
+          "author": "Ian Chee",
+          "description": "In addition to the reveal of the HomeView, Apple has also announced a whole Home Collection of smart home accessories. This includes cameras, thermostats, and a smart lock, which was previously revealed to be made in collaboration with LG. With the official announcement, though, the bitten fruit brand revealed that there is at least one […]\nThe post Apple Home Collection Debuts With LG and Schneider Electric Collaboration appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407241/apple-home-collection-lg-schneider/",
+          "publishedOn": "2026-10-14T04:15:31.000Z",
+          "wordCount": 13237,
+          "title": "Apple Home Collection Debuts With LG and Schneider Electric Collaboration",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Apple-Home-Collection-family.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=407283",
+          "author": "John Law",
+          "description": "The Google Pixel Watch 5 is the search engine’s latest smartwatch and successor to last year’s Watch 4 and, honestly speaking, you wouldn’t think of it as anything more than a year-on-year upgrade. Having said that, its time as my daily driver made me yearn for it long after I had to return it. What […]\nThe post Google Pixel Watch 5 (41mm) Review: Solid Functions, Steep Price appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/407283/google-pixel-watch-5-41mm-review/",
+          "publishedOn": "2026-10-14T03:34:24.000Z",
+          "wordCount": 14085,
+          "title": "Google Pixel Watch 5 (41mm) Review: Solid Functions, Steep Price",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Google-Pixel-Watch-5-Review-1-1240x930.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=407177",
           "author": "Kiran Ganesan",
@@ -22198,101 +22394,6 @@
           "wordCount": 13420,
           "title": "TNG eWallet Partners With Webull To Bring US, Hong Kong And China Share Trading To GOfinance",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/TNG-eWallet-Partners-With-Webull-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=405833",
-          "author": "Nurul Kamil",
-          "description": "Proton EV subsidiary PRO-NET has announced a selection of benefits for both current and future customers. The automaker is offering these limited-time perks to celebrate the delivery of its 40,000th Proton e.MAS vehicle. As detailed in a press release, these benefits cover various areas, including charging. Of course, the most immediate benefit comes in the […]\nThe post Proton e.MAS Owners Can Enjoy 40% Discount On Charging From 1 To 5 October 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/405833/proton-e-mas-40-discount-charging/",
-          "publishedOn": "2026-09-29T11:02:40.000Z",
-          "wordCount": 6839,
-          "title": "Proton e.MAS Owners Can Enjoy 40% Discount On Charging From 1 To 5 October 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/proton-emas-charger-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=405829",
-          "author": "Ian Chee",
-          "description": "Garena previously announced pre-registrations for Monster Hunter Outlanders, as it will be the publisher for the game in Malaysia, Singapore, and the Philippines. Now, the game has a concrete release date of 29 October. The company has also opened pre-registrations on the Apple App Store and Google Play Store, whereas previously you had to do […]\nThe post Monster Hunter Outlanders To Launch On 29 October 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/405829/monster-hunter-outlanders-launch-29-oct/",
-          "publishedOn": "2026-09-29T10:18:36.000Z",
-          "wordCount": 13402,
-          "title": "Monster Hunter Outlanders To Launch On 29 October 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Monster-Hunter-Outlanders-Key-Art.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=405809",
-          "author": "Kiran Ganesan",
-          "description": "Suunto has officially launched its latest smartwatch, the Run 2, in Malaysia. Like its predecessor, which debuted last year, the new wearable is designed with runners in mind, featuring an exceptionally lightweight build that keeps it comfortable and unobtrusive during runs. Run 2 Specs We weren’t kidding when we said the watch is designed to […]\nThe post Suunto Run 2 To Land In Malaysia On 1 October With 10-Day Battery Life, Lighter Body appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/405809/suunto-run-2-in-malaysia-on-1-october/",
-          "publishedOn": "2026-09-29T08:54:46.000Z",
-          "wordCount": 13705,
-          "title": "Suunto Run 2 To Land In Malaysia On 1 October With 10-Day Battery Life, Lighter Body",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Suunto-Run-2-To-Land-In-Malaysia-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=405723",
-          "author": "Nurul Kamil",
-          "description": "Last week, Huawei announced that it is bringing the Watch GT 7 lineup to Malaysia. And just as promised, the wearables have made their official debut in the local market. Succeeding last year’s Watch GT 6 series, the new models come with a familiar look, albeit with some tweaks. Among the updates is the new […]\nThe post Huawei Watch GT 7 Series Goes Official In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/405723/huawei-watch-gt-7-series-malaysia/",
-          "publishedOn": "2026-09-29T08:20:31.000Z",
-          "wordCount": 13768,
-          "title": "Huawei Watch GT 7 Series Goes Official In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Huawei-Watch-GT-7-series-1-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=405798",
-          "author": "Heirul Kamel",
-          "description": "Rapid KL has begun installing platform safety barriers at stations along the Kelana Jaya and Ampang/Sri Petaling LRT lines, as part of its ongoing efforts to improve passenger safety and the overall travel experience. The installation work started on 1 August 1 2026, with the Putra Heights station selected as the pilot site for the […]\nThe post Rapid KL Begins Installing Platform Safety Barriers At LRT Stations appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/405798/rapid-kl-platform-barriers-lrt-pilot/",
-          "publishedOn": "2026-09-29T08:19:47.000Z",
-          "wordCount": 13536,
-          "title": "Rapid KL Begins Installing Platform Safety Barriers At LRT Stations",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Rapid-KL-LRT-platform-barrier-pilot-Putra-Heights-3.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=405793",
-          "author": "John Law",
-          "description": "NVIDIA launched the Open Agent Safety Platform, an open software platform and reference system that it says is designed to enhance and strengthen AI security, from agent testing to deployment. The timing of this deployment comes at a time when AI security is becoming a growing concern. Chief among these concerns is the fear of […]\nThe post NVIDIA Announces Open Agent Safety Platform To Strengthen AI Security appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/405793/nvidia-announces-open-agent-safety-platform-to-strengthen-ai-security/",
-          "publishedOn": "2026-09-29T07:34:17.000Z",
-          "wordCount": 13352,
-          "title": "NVIDIA Announces Open Agent Safety Platform To Strengthen AI Security",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/NVIDIA-RTX-Spark-SoC-Computex-2026-2-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=405774",
-          "author": "Kiran Ganesan",
-          "description": "Google officially introduced its first wave of Googlebooks earlier this month. While the new line of laptops is set to represent the company’s new direction moving forward, many are wondering what will happen to its existing Chromebook devices and ChromeOS. To address this concern, the search giant has announced its plans for the current system […]\nThe post Google Will Support ChromeOS Until 2034 As It Transitions To Googlebook OS appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/405774/google-will-support-chromeos-until-2034/",
-          "publishedOn": "2026-09-29T06:35:17.000Z",
-          "wordCount": 13210,
-          "title": "Google Will Support ChromeOS Until 2034 As It Transitions To Googlebook OS",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/Googlebook-2026-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=405760",
-          "author": "Ian Chee",
-          "description": "Malaysian payment solutions provider and merchant acquirer Gkash has announced that it now directly connects to Payments Network Malaysia (PayNet) as a direct participant. What this means is a more direct and streamlined connection between the two, which in turn means fewer payment-participant layers, giving the former more control over integration and transaction operations. Through […]\nThe post Gkash Connects Directly To PayNet For QR, Card, Online Payments appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/405760/gkash-connects-directly-paynet-payments/",
-          "publishedOn": "2026-09-29T05:43:48.000Z",
-          "wordCount": 13240,
-          "title": "Gkash Connects Directly To PayNet For QR, Card, Online Payments",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/GKash-PayNet.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=405749",
-          "author": "John Law",
-          "description": "Earlier yesterday, we reported on a modder who managed to get NVIDIA’s DLSS 5 and its Neural Rendering engine running on AMD Radeon GPUs through a simple installation process, albeit with the expected performance hit. Now, another developer and modder has reportedly managed to get the green team’s upscaler working on older RDNA3 Radeon RX […]\nThe post Modders Gets NVIDIA DLSS Running On Radeon RX 7000 Series GPUs appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/405749/modder-nvidia-dlss-radeon-7000/",
-          "publishedOn": "2026-09-29T04:26:40.000Z",
-          "wordCount": 13601,
-          "title": "Modders Gets NVIDIA DLSS Running On Radeon RX 7000 Series GPUs",
-          "enclosure": {
-            "url": "https://cdn.ayois.gay/dlss",
-            "length": "372752140",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.ayois.gay/dlss"
         }
       ]
     },
@@ -22301,6 +22402,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+          "author": "Robert Lemos",
+          "description": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+          "publishedOn": "2026-10-14T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Russian Influence Operation Widely Targeting Latin America",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+          "author": "Nate Nelson",
+          "description": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
+          "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+          "publishedOn": "2026-10-14T05:00:00.000Z",
+          "wordCount": null,
+          "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+          "author": "Tara Seals",
+          "description": "The scary surprises in the largest security update ever include security bypasses and unauthenticated RCEs.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+          "publishedOn": "2026-10-13T22:29:57.000Z",
+          "wordCount": null,
+          "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+          "author": "Nate Nelson",
+          "description": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+          "publishedOn": "2026-10-13T21:24:45.000Z",
+          "wordCount": null,
+          "title": "North Korea Phishes Ukrainians for War Intel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+          "author": "Alexander Culafi",
+          "description": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
+          "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+          "publishedOn": "2026-10-13T20:35:23.000Z",
+          "wordCount": null,
+          "title": "Anthropic Finds Ingredients for Future AI Worms",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
           "author": "Rob Wright",
@@ -22689,56 +22840,6 @@
           "publishedOn": "2026-09-30T07:00:00.000Z",
           "wordCount": null,
           "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
-          "author": "Jai Vijayan",
-          "description": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
-          "publishedOn": "2026-09-29T21:31:29.000Z",
-          "wordCount": null,
-          "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
-          "author": "Alexander Culafi",
-          "description": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
-          "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
-          "publishedOn": "2026-09-29T21:08:42.000Z",
-          "wordCount": null,
-          "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
-          "author": null,
-          "description": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
-          "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
-          "publishedOn": "2026-09-29T17:02:16.000Z",
-          "wordCount": null,
-          "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
-          "author": "Elizabeth Montalbano",
-          "description": "Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.",
-          "link": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
-          "publishedOn": "2026-09-29T15:12:39.000Z",
-          "wordCount": null,
-          "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
-          "author": "Rob Wright",
-          "description": "The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers' networks.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
-          "publishedOn": "2026-09-29T14:19:43.000Z",
-          "wordCount": null,
-          "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
           "imageUrl": null
         }
       ]
