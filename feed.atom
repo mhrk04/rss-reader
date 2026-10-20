@@ -2,10 +2,282 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-10-19T15:29:34.365Z</updated>
+    <updated>2026-10-20T13:29:43.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Use AI Agents To Make Over 1,200 Break-In Attempts On Over 100 Companies]]></title>
+        <id>https://www.lowyat.net/?p=407937</id>
+        <link href="https://www.lowyat.net/2026/407937/hackers-ai-agents-over-1200-break-in/"/>
+        <updated>2026-10-20T12:00:19.000Z</updated>
+        <summary type="html"><![CDATA[If you thought that AI agents going rogue – they didn’t, if you really think about it – and their ability to jump from device to device while figuring out unfamiliar ones on their own was bad news, it gets worse: they’re simply the harbinger of what’s to come. A recent report pointed out that […]
+The post Hackers Use AI Agents To Make Over 1,200 Break-In Attempts On Over 100 Companies appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Finds Hidden Crypto Miner On An Overheating Mac]]></title>
+        <id>https://www.lowyat.net/?p=407955</id>
+        <link href="https://www.lowyat.net/2026/407955/claude-code-hidden-crypto-miner-mac/"/>
+        <updated>2026-10-20T11:54:04.000Z</updated>
+        <summary type="html"><![CDATA[A developer investigating unusually high temperature readings on their Mac stumbled upon an unexpected culprit: a cryptocurrency miner quietly eating up the machine’s processing power. The discovery came while using Anthropic’s Claude Code to work on a temperature-monitoring app, with the AI assistant helping to trace the problem to an unauthorised XMRig process running in […]
+The post Claude Code Finds Hidden Crypto Miner On An Overheating Mac appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators]]></title>
+        <id>https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html</id>
+        <link href="https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html"/>
+        <updated>2026-10-20T11:41:06.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one.
+
+The text sat in the pages' code, never shown on screen, until it was removed by October 18. Whether the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Security Teams Can Do To Tame Wild Code]]></title>
+        <id>https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html</id>
+        <link href="https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html"/>
+        <updated>2026-10-20T11:33:04.000Z</updated>
+        <summary type="html"><![CDATA[A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees are building useful apps, agents, and automations faster than existing processes can support them]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns]]></title>
+        <id>https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html</id>
+        <link href="https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html"/>
+        <updated>2026-10-20T11:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys.
+
+Programs built on the new release will refuse connections to sites and services whose certificates were issued under those keys. The Go team says the keys belong to one certificate authority it has not]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader]]></title>
+        <id>https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html</id>
+        <link href="https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html"/>
+        <updated>2026-10-20T11:06:25.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO).
+
+The Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker Swallowtail, involved the use of a backdoor called HOOKEDGE and a previously]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident]]></title>
+        <id>https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html</id>
+        <link href="https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html"/>
+        <updated>2026-10-20T10:56:08.000Z</updated>
+        <summary type="html"><![CDATA[ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup.
+
+The company said it has completed the following actions since it began]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShopeePay Raises Money+ Wallet Limit To RM30,000]]></title>
+        <id>https://www.lowyat.net/?p=407948</id>
+        <link href="https://www.lowyat.net/2026/407948/shopeepay-raises-wallet-limit-rm30000/"/>
+        <updated>2026-10-20T09:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Earlier in the year, ShopeePay introduced its Money+ investment feature that allowed Malaysians to earn daily returns on idle cash. Now, the company has announced that users will be receiving a wallet limit increase from RM20,000 to RM30,000 at no added cost to the consumer. According to ShopeePay, the Money+ feature has helped “millions of […]
+The post ShopeePay Raises Money+ Wallet Limit To RM30,000 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iCAUR V25 Makes Its Official Debut In China]]></title>
+        <id>https://www.lowyat.net/?p=407938</id>
+        <link href="https://www.lowyat.net/2026/407938/icaur-v25-makes-its-official-debut-in-china/"/>
+        <updated>2026-10-20T09:28:34.000Z</updated>
+        <summary type="html"><![CDATA[iCAUR officially rolled out V25 during its iCAUR International User Summit. The BEV is the company’s latest model, joining the ranks of the V23 and V27, and serving as the middle ground between all three models. In keeping with the brand’s design philosophy, the iCAUR V25 retains that rugged off-road look, albeit with a premium […]
+The post iCAUR V25 Makes Its Official Debut In China appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECRL Economy Tickets Get 30% Discount For First Month]]></title>
+        <id>https://www.lowyat.net/?p=407920</id>
+        <link href="https://www.lowyat.net/2026/407920/ecrl-economy-30-discount-first-month/"/>
+        <updated>2026-10-20T08:47:21.000Z</updated>
+        <summary type="html"><![CDATA[It was announced back in August that the East Coast Rail Link (ECRL) service will be starting on 12 December, with ticket sales starting sometime in November. Today, at the Transport Expo Asia – which also saw the launch of the ALS RoboVan – Transport Minister Anthony Loke also announced that there will be a […]
+The post ECRL Economy Tickets Get 30% Discount For First Month appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware]]></title>
+        <id>https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html</id>
+        <link href="https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html"/>
+        <updated>2026-10-20T08:21:29.000Z</updated>
+        <summary type="html"><![CDATA[An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says.
+
+They were live on GitHub for up to 94 minutes, from 12:47 to 14:21 UTC,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaysians Can Now Apply For MyKad Replacements Via The MyGOV App]]></title>
+        <id>https://www.lowyat.net/?p=407922</id>
+        <link href="https://www.lowyat.net/2026/407922/malaysians-mykad-replacements-mygov-app/"/>
+        <updated>2026-10-20T08:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Those looking to replace their identity cards can now apply using their smartphones, eliminating the need to wait in line at the National Registration Department (JPN) counters. In a recent Facebook post, the Digital Ministry has announced that the MyGOV app now features a service that lets users apply for MyKad replacements directly on the […]
+The post Malaysians Can Now Apply For MyKad Replacements Via The MyGOV App appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[realme C01 Appears Online; Specs, Price, Images Revealed Ahead Of Schedule]]></title>
+        <id>https://www.lowyat.net/?p=407921</id>
+        <link href="https://www.lowyat.net/2026/407921/realme-c01-appears-online-revealed/"/>
+        <updated>2026-10-20T07:53:53.000Z</updated>
+        <summary type="html"><![CDATA[realme has already launched a number of smartphones this year, but it seems the company has no plans of slowing down just yet. A new device, dubbed the realme C01 (not to be confused with the realme C1), was recently spotted on several certification platforms, including Malaysia’s SIRIM database. While the company has yet to […]
+The post realme C01 Appears Online; Specs, Price, Images Revealed Ahead Of Schedule appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan]]></title>
+        <id>https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html</id>
+        <link href="https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html"/>
+        <updated>2026-10-20T07:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.
+
+The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALS Launches Level 4 Autonomous, RoboVan; Starts Six-Month Trial At Cyberjaya]]></title>
+        <id>https://www.lowyat.net/?p=407895</id>
+        <link href="https://www.lowyat.net/2026/407895/als-level-4-autonomous-robovan-trial/"/>
+        <updated>2026-10-20T06:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Autonomous Logistic Solutions (ALS) launched what it calls its Level 4 autonomous RoboVan for public-road operations. This is notable as it’s claimed to be the first time a Malaysian company has deployed a fully driverless vehicle on Malaysian public roads with a valid licence plate. The launch happened as part of the Transport Expo Asia […]
+The post ALS Launches Level 4 Autonomous, RoboVan; Starts Six-Month Trial At Cyberjaya appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge]]></title>
+        <id>https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html</id>
+        <link href="https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html"/>
+        <updated>2026-10-20T05:53:16.000Z</updated>
+        <summary type="html"><![CDATA[A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets.
+
+In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was "in frequent communications via WhatsApp]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazfit T-Rex Dual Solar To Officially Launch In Malaysia On 23 October]]></title>
+        <id>https://www.lowyat.net/?p=407901</id>
+        <link href="https://www.lowyat.net/2026/407901/amazfit-t-rex-dual-solar-launch-23-oct/"/>
+        <updated>2026-10-20T05:21:12.000Z</updated>
+        <summary type="html"><![CDATA[After making its global debut almost a full month ago, Amazfit Malaysia has announced that the new T-Rex Dual Solar has officially landed on our shores. As we’ve previously reported, the watch is the company’s first-ever solar-powered smartwatch that’s designed for multi-day exploration. Per the official press release, the T-Rex Dual Solar has a 660mAh […]
+The post Amazfit T-Rex Dual Solar To Officially Launch In Malaysia On 23 October appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xpeng To Bring Google Play Apps To Its Cars In Early 2027]]></title>
+        <id>https://www.lowyat.net/?p=407900</id>
+        <link href="https://www.lowyat.net/2026/407900/xpeng-google-play-apps-early-2027/"/>
+        <updated>2026-10-20T05:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Xpeng has expanded its collaboration with Google to bring Google Play to its vehicles, allowing drivers and passengers to access a wider selection of apps directly through the car’s infotainment system. The integration is scheduled to roll out in early 2027, although the company has yet to confirm which models and markets will receive it […]
+The post Xpeng To Bring Google Play Apps To Its Cars In Early 2027 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware]]></title>
+        <id>https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html</id>
+        <link href="https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html"/>
+        <updated>2026-10-20T04:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.
+
+According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Infiltrate Microsoft Tech Support Scam Operation]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation</id>
+        <link href="https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation"/>
+        <updated>2026-10-19T21:13:41.000Z</updated>
+        <summary type="html"><![CDATA[A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery]]></title>
+        <id>https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery</id>
+        <link href="https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery"/>
+        <updated>2026-10-19T19:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.]]></summary>
+        <author>
+            <name>Jai Vijayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs]]></title>
+        <id>https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps</id>
+        <link href="https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps"/>
+        <updated>2026-10-19T19:19:33.000Z</updated>
+        <summary type="html"><![CDATA[Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor]]></title>
+        <id>https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html</id>
+        <link href="https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html"/>
+        <updated>2026-10-19T17:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.
+
+According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell.
+
+The vulnerabilities]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor]]></title>
+        <id>https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html</id>
+        <link href="https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html"/>
+        <updated>2026-10-19T16:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16.
+
+Any site that installed and activated one of those copies should be treated as compromised, and the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OnlyFans Copyright Takedowns Expose Compromised Websites]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites</id>
@@ -3088,221 +3360,6 @@ They used a private Danish company's lawful right to look up records in the Cent
         <updated>2026-10-06T03:44:49.000Z</updated>
         <summary type="html"><![CDATA[Last week, Nothing announced the Headphone (1) Pro, an advanced update to the brand’s first over-ear headphones. It features a number of incremental upgrades, including better ANC and less weight, as well as some more substantial improvements like sporting a triple-driver setup. At the time, the company had no local pricing and availability details to […]
 The post Nothing Headphone (1) Pro Gets RM1,499 Price Tag; Pre-Orders Start Today appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes]]></title>
-        <id>https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes</id>
-        <link href="https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes"/>
-        <updated>2026-10-05T21:25:08.000Z</updated>
-        <summary type="html"><![CDATA[The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.]]></summary>
-        <author>
-            <name>Jai Vijayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes]]></title>
-        <id>https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html</id>
-        <link href="https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html"/>
-        <updated>2026-10-05T16:21:52.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.
-
-The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system.
-
-"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Impersonate US Officials for AI Cyber Espionage]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage"/>
-        <updated>2026-10-05T15:52:59.000Z</updated>
-        <summary type="html"><![CDATA[An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests]]></title>
-        <id>https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html</id>
-        <link href="https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html"/>
-        <updated>2026-10-05T14:20:43.000Z</updated>
-        <summary type="html"><![CDATA[A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook.
-
-There are actively exploited bugs in the mix, cleaner intrusion paths, smarter automation, and a long patch list waiting behind them. Some attacks are getting more capable. Others]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need for Speed: AI-Driven Attacks Are Changing Security Strategies]]></title>
-        <id>https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies</id>
-        <link href="https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies"/>
-        <updated>2026-10-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.]]></summary>
-        <author>
-            <name>Rob Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Credential Layer Is Expanding Faster Than Security Teams Can See It]]></title>
-        <id>https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html</id>
-        <link href="https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html"/>
-        <updated>2026-10-05T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, and Prevent. The journey starts with detection, because organizations first need to understand what credentials exist, where they live, and what they]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2]]></title>
-        <id>https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html</id>
-        <link href="https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html"/>
-        <updated>2026-10-05T11:46:25.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.
-
-"Cling is notable not because it introduces a new propagation technique, but because it repurposes ordinary STUN behavior into a practical command-and-control channel," Nozomi Networks said in a report]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access]]></title>
-        <id>https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html</id>
-        <link href="https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html"/>
-        <updated>2026-10-05T10:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.
-
-"Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files, mail, messages, and even browsing history – without users' full knowledge]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer Huntsman V3 HE Magnetic 8KHz TKL Review: Satisfaction At Every Keypress]]></title>
-        <id>https://www.lowyat.net/?p=406241</id>
-        <link href="https://www.lowyat.net/2026/406241/razer-huntsman-v3-he-8khz-tkl-review/"/>
-        <updated>2026-10-05T10:34:06.000Z</updated>
-        <summary type="html"><![CDATA[The Razer Huntsman V3 HE Magnetic 8KHz is an interesting specimen of a product, to say the least. While it is part of the storied Huntsman lineup of peripherals, which has been going strong for eight years, this product marks the company’s first true Hall Effect magnetic keyboard. As a result, it is capable of […]
-The post Razer Huntsman V3 HE Magnetic 8KHz TKL Review: Satisfaction At Every Keypress appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GWM Ora 5 HEV Opens For Booking In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=406388</id>
-        <link href="https://www.lowyat.net/2026/406388/gwm-ora-5-hev-opens-booking-malaysia/"/>
-        <updated>2026-10-05T10:15:29.000Z</updated>
-        <summary type="html"><![CDATA[GWM Malaysia has opened the order books for the new Ora 5 HEV in Malaysia, with the hybrid SUV carrying an estimated price of RM115,000. The company says its finalised pricing and full specifications will only be announced when the model officially launches in November. The Ora 5 HEV was first previewed locally at KLIMS […]
-The post GWM Ora 5 HEV Opens For Booking In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yinson GreenTech To Develop Malaysia’s First Electric Ferry]]></title>
-        <id>https://www.lowyat.net/?p=406353</id>
-        <link href="https://www.lowyat.net/2026/406353/yinson-greentech-malaysia-ev-ferry/"/>
-        <updated>2026-10-05T10:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Malaysia has electric buses, and it looks like we will also have electric ferries soon. Yinson GreenTech, via its maritime division marinEV, recently signed a memorandum of understanding with Langkawi Port Sdn Bhd to set up the country’s first commercial fully electric passenger ferry service. This will move passengers between Kuah, Langkawi and Kuala Perlis […]
-The post Yinson GreenTech To Develop Malaysia’s First Electric Ferry appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Japan’s New Gboard Puts The Keys On A Conveyor Belt]]></title>
-        <id>https://www.lowyat.net/?p=406344</id>
-        <link href="https://www.lowyat.net/2026/406344/google-gboard-conveyor-belt/"/>
-        <updated>2026-10-05T09:11:21.000Z</updated>
-        <summary type="html"><![CDATA[By now, Google Japan has become known for its unconventional and downright bizarre keyboards. Last year, it unveiled a version with rotary dials in lieu of keys. But perhaps the company figured operating such a device required too much movement, so this time, it came up with one that does all the moving for you. […]
-The post Google Japan’s New Gboard Puts The Keys On A Conveyor Belt appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE]]></title>
-        <id>https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html</id>
-        <link href="https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html"/>
-        <updated>2026-10-05T08:09:23.000Z</updated>
-        <summary type="html"><![CDATA[A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.
-
-The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number generator (PRNG) that can lead to a predictable key, which an attacker can then use to gain unauthorized access and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core Ultra 4000 Series Naming Will Supposedly Extend To Nova Lake-HX Mobile Segment]]></title>
-        <id>https://www.lowyat.net/?p=406328</id>
-        <link href="https://www.lowyat.net/2026/406328/intel-core-ultra-4000-series-naming-will-supposedly-extend-to-nova-lake-hx-mobile-segment/"/>
-        <updated>2026-10-05T07:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Intel will reportedly apply the “Core Ultra 4000 Series” naming convention not just to its desktop line, but also to its Nova Lake-HX mobile CPU lineup. This basically means that the enthusiast-grade mobile processor lineup will be labelled with a four-digit name, rather than three digits. The detail comes from serial leakster Jaykihn, who posted […]
-The post Intel Core Ultra 4000 Series Naming Will Supposedly Extend To Nova Lake-HX Mobile Segment appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyEG, Zetrix AI Ordered To Settle RM314 Million Arrears Immediately Amid Service Suspension]]></title>
-        <id>https://www.lowyat.net/?p=406329</id>
-        <link href="https://www.lowyat.net/2026/406329/myeg-zetrix-ai-rm314-million-arrears/"/>
-        <updated>2026-10-05T07:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Last week, the Road Transport Department (JPJ) declared that it is suspending services provided by MyEG Sdn Bhd and Zetrix AI Bhd. At the time, the department disclosed that the two firms under the MYEG Group failed to fulfil their obligations. Now, as the suspension takes effect today, Transport Minister Anthony Loke has demanded the […]
-The post MyEG, Zetrix AI Ordered To Settle RM314 Million Arrears Immediately Amid Service Suspension appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline]]></title>
-        <id>https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html</id>
-        <link href="https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html"/>
-        <updated>2026-10-05T06:40:19.000Z</updated>
-        <summary type="html"><![CDATA[Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.
-
-The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0.
-
-"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alleged Renders Of Google Fitbit Edge Leak Online, Could Be Fitbit Charge Successor]]></title>
-        <id>https://www.lowyat.net/?p=406308</id>
-        <link href="https://www.lowyat.net/2026/406308/alleged-google-fitbit-edge-leak-online/"/>
-        <updated>2026-10-05T06:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Google has launched a couple of new wearable devices this year. However, it seems that the search giant could be preparing to add another device to its lineup, or so a recent leak claims, in the form of the Fitbit Edge. The information comes from Android Headlines, which recently published what it claims are exclusive […]
-The post Alleged Renders Of Google Fitbit Edge Leak Online, Could Be Fitbit Charge Successor appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Casio Announces G-Shock Mudman GDG-B100; Features MIP LCD, Light Fitness Tracking]]></title>
-        <id>https://www.lowyat.net/?p=406293</id>
-        <link href="https://www.lowyat.net/2026/406293/casio-g-shock-mudman-gdg-b100-watches/"/>
-        <updated>2026-10-05T05:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Casio has launched its Mudman GDG-B100 series of G-Shock watches, which consists of three colour options. As you’d expect from a series that’s aimed at hikers, and outdoors people in general, you get a pretty rugged watch case that measures in at 63.6 × 49.6 × 16.2 mm, and weighing 66g. Notebookcheck reports that case […]
-The post Casio Announces G-Shock Mudman GDG-B100; Features MIP LCD, Light Fitness Tracking appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Freezes Open Source Bug Bounty Program Due To Flood Of AI Submissions]]></title>
-        <id>https://www.lowyat.net/?p=406290</id>
-        <link href="https://www.lowyat.net/2026/406290/google-freezes-open-source-bug-bounty/"/>
-        <updated>2026-10-05T03:56:49.000Z</updated>
-        <summary type="html"><![CDATA[Beyond restricting which Gemini models free and AI Plus users can use, Google has also announced that it is hitting pause on the Open Source Software Vulnerability Reward Program (OSS VRP). It’s only this specific bug bounty program that’s being paused, as the internet search giant still recommends bug bounty hunters contribute to other programs, […]
-The post Google Freezes Open Source Bug Bounty Program Due To Flood Of AI Submissions appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
         </author>
