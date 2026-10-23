@@ -19294,6 +19294,198 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
+          "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+          "publishedOn": "2026-10-23T11:25:43.000Z",
+          "wordCount": null,
+          "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
+          "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+          "publishedOn": "2026-10-23T11:11:23.000Z",
+          "wordCount": null,
+          "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
+          "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+          "publishedOn": "2026-10-23T09:36:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated.\n\nTheir \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
+          "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+          "publishedOn": "2026-10-23T08:40:43.000Z",
+          "wordCount": null,
+          "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22.\n\nThe cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
+          "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+          "publishedOn": "2026-10-23T08:35:45.000Z",
+          "wordCount": null,
+          "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought.\n\nThe attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
+          "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+          "publishedOn": "2026-10-23T07:40:45.000Z",
+          "wordCount": null,
+          "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22.\n\nThe flaw lets anyone who can log in to the orchestrator, even with a read-only customer account, gain operator privileges, the top level of control over it.\n\nFor",
+          "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+          "publishedOn": "2026-10-22T19:05:17.000Z",
+          "wordCount": null,
+          "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5jLAiZnSHOwYGjf-F6s4HR4ileDOwAkHiX9NyW30mGUqSzgdwGVdTzCTYkgmeoGtTRaSVm-h2IBwvJ9xd84OU2t3YXd8hf5PwlGdjh6VlcYZoCNkx6Yt0FY_JlVcM3AtXI4LQyidnOE86NMVwOGcztaFtV2Qq21X1pRQi6jxiITnQIoO14XLiOWaufI/s1600/velo.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5jLAiZnSHOwYGjf-F6s4HR4ileDOwAkHiX9NyW30mGUqSzgdwGVdTzCTYkgmeoGtTRaSVm-h2IBwvJ9xd84OU2t3YXd8hf5PwlGdjh6VlcYZoCNkx6Yt0FY_JlVcM3AtXI4LQyidnOE86NMVwOGcztaFtV2Qq21X1pRQi6jxiITnQIoO14XLiOWaufI/s1600/velo.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate CA certificates.\n\neMudhra said it will replace affected customers' certificates with free ones from partners, though its",
+          "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+          "publishedOn": "2026-10-22T18:12:43.000Z",
+          "wordCount": null,
+          "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5DGeZCzWnHOoA87UbpfzGUlpU9xBK1x5tJsYlWOoKtyEkTRjaN4cW_lMOKdtiSXVPhVMd6JhOMRhvFOxvn853LcLaCBSNK-_m4CDIDGt048SdHQQqu63ZSZ09Ymc3UhqD_TZoLaCM6eIJL6TSYbBVINceAi4paPvjxJ4i9uN3CKZQ2s5bT4Dc_jAcv8I/s1600/ssl.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5DGeZCzWnHOoA87UbpfzGUlpU9xBK1x5tJsYlWOoKtyEkTRjaN4cW_lMOKdtiSXVPhVMd6JhOMRhvFOxvn853LcLaCBSNK-_m4CDIDGt048SdHQQqu63ZSZ09Ymc3UhqD_TZoLaCM6eIJL6TSYbBVINceAi4paPvjxJ4i9uN3CKZQ2s5bT4Dc_jAcv8I/s1600/ssl.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet.\n\nBut those big headlines are only half the story. Stolen passwords, exposed",
+          "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+          "publishedOn": "2026-10-22T17:45:44.000Z",
+          "wordCount": null,
+          "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.\n\nOne of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network",
+          "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+          "publishedOn": "2026-10-22T17:01:53.000Z",
+          "wordCount": null,
+          "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.\n\nAccording to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
+          "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+          "publishedOn": "2026-10-22T16:12:31.000Z",
+          "wordCount": null,
+          "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026.\n\n\"Authorities identified",
+          "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+          "publishedOn": "2026-10-22T13:38:22.000Z",
+          "wordCount": null,
+          "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n\nNobody reviewed its access. Nobody owns it.\n\nIf an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
@@ -21212,166 +21404,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SUqM44FwmONOU6YH1yTi4I8iGU_UiDk42WA2vB_qjqzCN3xtWE_AVyF2xXmlrP68vAXN3Pe_J6f8h9B6M8vgEmcImGt55z2FRc0638eta0V-P2FvbI6O0h3TWBaOlxw72-0cnMH91J2wNykDTSpQM8cvKYPbQ-YBrnb7e2xxSJuC7B9sU4hoGBXs8KnO/s1600/china-hacker.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SUqM44FwmONOU6YH1yTi4I8iGU_UiDk42WA2vB_qjqzCN3xtWE_AVyF2xXmlrP68vAXN3Pe_J6f8h9B6M8vgEmcImGt55z2FRc0638eta0V-P2FvbI6O0h3TWBaOlxw72-0cnMH91J2wNykDTSpQM8cvKYPbQ-YBrnb7e2xxSJuC7B9sU4hoGBXs8KnO/s1600/china-hacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8.\n\nThe company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more",
-          "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-          "publishedOn": "2026-10-08T18:32:21.000Z",
-          "wordCount": null,
-          "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyj_ek8VTEYw5CpVqkAK63I01D84oGBvRsHmwpjeAfat3TCDqzhXqRWXWCGkNZKwH3rF0uyeuowCSGcBT-mLkdw-174FA0gGh8ZIVKOXUbXt9w0eTZZTlMGE-ySkZIIkswfxe0-cEU9ww6E8iIpWI2eDQU_NrsezDxIoE2WNBt8mDtG6nYeke9Ut17_JY/s1600/china-email.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyj_ek8VTEYw5CpVqkAK63I01D84oGBvRsHmwpjeAfat3TCDqzhXqRWXWCGkNZKwH3rF0uyeuowCSGcBT-mLkdw-174FA0gGh8ZIVKOXUbXt9w0eTZZTlMGE-ySkZIIkswfxe0-cEU9ww6E8iIpWI2eDQU_NrsezDxIoE2WNBt8mDtG6nYeke9Ut17_JY/s1600/china-email.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence.\n\nThe rest of the week isn't much more reassuring. Malicious code turned up in developer packages and extensions that",
-          "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-          "publishedOn": "2026-10-08T17:58:02.000Z",
-          "wordCount": null,
-          "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1600/t-day.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1600/t-day.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on those reports and other information. The alert names no attacker and no affected organization.\n\nJPCERT/",
-          "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-          "publishedOn": "2026-10-08T15:45:56.000Z",
-          "wordCount": null,
-          "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1600/japan.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1600/japan.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.\n\nAccording to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the cluster under the name Earth Sirrush (previously SHADOW-EARTH-065).\n\nASHVEIN,",
-          "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-          "publishedOn": "2026-10-08T15:26:56.000Z",
-          "wordCount": null,
-          "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks.\n\nThe activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and resulted in data exfiltration.\n\n\"In this activity, the threat actor leveraged",
-          "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-          "publishedOn": "2026-10-08T14:12:34.000Z",
-          "wordCount": null,
-          "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself.\n\nANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe",
-          "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-          "publishedOn": "2026-10-08T10:30:00.000Z",
-          "wordCount": null,
-          "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlTrJzuyuM3FgdyTkx-JLieOXeR9fK_hENZFrdItZ09E4ZFhk8UYOPslpbGGidTUGCDgcTHqY7wvYrThg-Hwl24MQhL63GIfmRsBLy9MJ7iDXn1XbbX1W_EgGFw9eRyT4LOJq0aoyWhmOHF3O5a9L5LcKNS1IJxQqs_UBwmOnPRmx3fXwUPpKeYdARVE/s1600/anyrun.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlTrJzuyuM3FgdyTkx-JLieOXeR9fK_hENZFrdItZ09E4ZFhk8UYOPslpbGGidTUGCDgcTHqY7wvYrThg-Hwl24MQhL63GIfmRsBLy9MJ7iDXn1XbbX1W_EgGFw9eRyT4LOJq0aoyWhmOHF3O5a9L5LcKNS1IJxQqs_UBwmOnPRmx3fXwUPpKeYdARVE/s1600/anyrun.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.\n\n\"The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code intercepts recovery phrases and private keys during wallet import flows and attempts to send those secrets to",
-          "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-          "publishedOn": "2026-10-08T09:46:32.000Z",
-          "wordCount": null,
-          "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1600/firefox-plugins.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1600/firefox-plugins.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM.\n\nThe reward is for information leading to his identification or location, the news outlet NTD reported this week, citing a notice",
-          "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-          "publishedOn": "2026-10-08T07:42:04.000Z",
-          "wordCount": null,
-          "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s1600/reward.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s1600/reward.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data.\n\nZohar Pinhasi (aka Zack Silver and Zack Green) has been charged with two counts of wire fraud and one count of wire",
-          "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-          "publishedOn": "2026-10-08T07:41:44.000Z",
-          "wordCount": null,
-          "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack.\n\nThe malicious version 0.5.144 \"contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code,\" Socket said",
-          "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-          "publishedOn": "2026-10-08T05:46:20.000Z",
-          "wordCount": null,
-          "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg"
         }
       ]
     },
@@ -21380,6 +21412,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=408273",
+          "author": "Ian Chee",
+          "description": "Since the start of the week, you likely have seen reports of Spotify starting to crack down on users sharing a Family Plan without being in the same household. It looks like the company has confirmed that it is indeed doing so, but rejects the framing of its actions, and is calling it a “routine […]\nThe post Spotify Confirms Family Plan Crackdown; Calls It A “Routine Improvement” appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408273/spotify-confirms-family-plan-crackdown/",
+          "publishedOn": "2026-10-23T10:48:37.000Z",
+          "wordCount": 13385,
+          "title": "Spotify Confirms Family Plan Crackdown; Calls It A “Routine Improvement”",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/01/Expiring-Licenses-Music-Streaming-Spotify-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408281",
+          "author": "Heirul Kamel",
+          "description": "The government is seeking an explanation from Waze over how it collects and handles Malaysians’ personal data, citing concerns over data security and the potential exposure of sensitive information. The move follows the government’s decision to prohibit civil servants from using the navigation app for official duties, with Prime Minister Datuk Seri Anwar Ibrahim now […]\nThe post Govt Wants Waze To Explain How It Handles Malaysians’ Data appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408281/govt-wants-waze-explain-data-handling/",
+          "publishedOn": "2026-10-23T10:06:20.000Z",
+          "wordCount": 13515,
+          "title": "Govt Wants Waze To Explain How It Handles Malaysians’ Data",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/waze-brett-jordan-unsplash.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408274",
+          "author": "Kiran Ganesan",
+          "description": "After more than a decade of selling dedicated 4K Blu-ray players, Sony Japan appears to be exiting the standalone UHD Blu-ray player market in its home country. This is because the company has discontinued its last UHD Blu-ray player, the UBP-X700/K, with shipment officially ending in its home market starting today. According to FlatpanelsHD, the […]\nThe post Sony Discontinues Its Last 4K Blu-ray Player In Japan appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408274/sony-discontinues-blu-ray-player-japan/",
+          "publishedOn": "2026-10-23T09:57:33.000Z",
+          "wordCount": 13513,
+          "title": "Sony Discontinues Its Last 4K Blu-ray Player In Japan",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Sony-Discontinues-Its-Last-4K-Blu-ray-Player-In-Japan-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408268",
+          "author": "John Law",
+          "description": "Developer and Miguel C has released the source code for Snapintosh OS. Basically, the program is an experimental project that brings the macOS 27 Golden Gate to Qualcomm  Snapdragon hardware and more specifically, the Snapdragon X2 Series laptops. As per the Readme on its GitHub page: “Snapintosh boots Apple’s macOS 27 (build 26A428) on an […]\nThe post Modder Brings Snapintosh macOS 27 Port Over To Snapdragon X2 Laptops appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408268/modder-brings-snapintosh-macos-27-port-over-to-snapdragon-x2-laptops/",
+          "publishedOn": "2026-10-23T08:52:44.000Z",
+          "wordCount": 13423,
+          "title": "Modder Brings Snapintosh macOS 27 Port Over To Snapdragon X2 Laptops",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Snapintosh-Qualcomm-Snapdragon-X2-Series-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408259",
+          "author": "Nurul Kamil",
+          "description": "U Mobile has announced that it is collaborating with Malaysia Rapid Transit Corporation (MRT Corp) to explore the provision of 4G and 5G in-building coverage (IBC) at the Immigration, Customs and Quarantine Complex (ICQC) in Bukit Chagar, Johor Bahru. This partnership, which was formalised through the signing of a Memorandum of Understanding (MoU), is aimed […]\nThe post U Mobile Partners With MRT Corp For 4G, 5G Coverage At RTS Link Gateway appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408259/u-mobile-mrt-corp-coverage-rts-link/",
+          "publishedOn": "2026-10-23T08:29:01.000Z",
+          "wordCount": 13333,
+          "title": "U Mobile Partners With MRT Corp For 4G, 5G Coverage At RTS Link Gateway",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/u-mobile-mrt-corp-mou-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408255",
+          "author": "Ian Chee",
+          "description": "Ever since the incident with Hugging Face involving OpenAI and its rogue agents, it seems like the number of incidents involving other rogue AI agents is popping up like mushrooms. Just earlier this month, there have been reports of rogue agents messing with the Wikimedia Foundation, as well as submitting fake homicide tips to the […]\nThe post US Banks Detect Access By AI Agents Without User Authorisation appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408255/banks-ai-agents-without-authorisation/",
+          "publishedOn": "2026-10-23T08:04:08.000Z",
+          "wordCount": 13362,
+          "title": "US Banks Detect Access By AI Agents Without User Authorisation",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/artificial-intelligence-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408249",
+          "author": "John Law",
+          "description": "A security researcher by the name of Sammy Hajhamid, or pepsipu on X, recently claimed that they have successfully jailbroken the Nintendo Switch 2 console. To celebrate their success, the first thing they did was to mod the avatars of Cinnamoroll, Peter Griffin, and Hatsune Miku into Mario Kart World. According to the developer, they […]\nThe post Researcher Claims To Have Successfully Jailbroken Nintendo Switch 2 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408249/researcher-claims-to-have-successfully-jailbroken-nintendo-switch-2/",
+          "publishedOn": "2026-10-23T07:41:33.000Z",
+          "wordCount": 13303,
+          "title": "Researcher Claims To Have Successfully Jailbroken Nintendo Switch 2",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Nintendo-Switch-2-Jailbreak-AI-Exploit-1-1240x694.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408238",
+          "author": "Nurul Kamil",
+          "description": "Those who pre-ordered the iPhone Duo should begin receiving their devices today. As Apple’s first ever foldable, the smartphone is capable of offering the same user experience regardless of whether it’s in its folded or unfolded state. That is, provided the app has been optimised for the new form factor. With this in mind, the […]\nThe post Apple Rolling Out “Made For iPhone Duo” Badge For Compatible Apps appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408238/apple-made-for-iphone-duo-badge/",
+          "publishedOn": "2026-10-23T05:51:47.000Z",
+          "wordCount": 13361,
+          "title": "Apple Rolling Out “Made For iPhone Duo” Badge For Compatible Apps",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/apple-made-for-iphone-duo-optimised-apps-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408229",
+          "author": "Heirul Kamel",
+          "description": "The National Security Council (MKN) has clarified that Google Maps is exempt from the government’s recent restriction on civil servants using Waze for official duties. Despite both navigation apps being owned by Google, the council said they are treated differently due to differences in their respective legal jurisdictions. In a statement, MKN said Google Maps […]\nThe post MKN: Google Maps Exempt From Civil Servants’ Ban Due To Being Under US Law appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408229/mkn-google-maps-exempt-from-ban/",
+          "publishedOn": "2026-10-23T04:19:37.000Z",
+          "wordCount": 13384,
+          "title": "MKN: Google Maps Exempt From Civil Servants’ Ban Due To Being Under US Law",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2020/08/maxresdefault.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408233",
+          "author": "Kiran Ganesan",
+          "description": "While the iPhone Duo has only just hit store shelves today, Apple is reportedly already working on its successor. According to Bloomberg’s Mark Gurman on his latest Power On podcast, the company is testing iPhone Duo 2 prototypes equipped with under-display Face ID on the outer screen. One of the main criticisms of the first-generation […]\nThe post Apple Reportedly Working On iPhone Duo 2; May Feature Face ID appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408233/apple-working-on-iphone-duo-2-face-id/",
+          "publishedOn": "2026-10-23T04:16:59.000Z",
+          "wordCount": 13287,
+          "title": "Apple Reportedly Working On iPhone Duo 2; May Feature Face ID",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/iphone-duo-launch-15.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=408184",
           "author": "Kiran Ganesan",
@@ -22534,111 +22666,6 @@
           "wordCount": 13383,
           "title": "Corsair Launches HS80 v2 MAX Wireless Gaming Headset; Arriving By Mid-November",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/corsair-hs80-v2-max-launch-4.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406791",
-          "author": "Nurul Kamil",
-          "description": "U Mobile has announced that it is offering a SIM-based Phone Number Verification (PNV) service via its ULTRA5G network. This service, which is the product of the telco’s partnership with Telenor Linx, provides businesses and developers with an easier way to securely authenticate users. Basically, the PNV service lets digital platforms and service providers verify […]\nThe post U Mobile Partners With Telenor Linx For SIM-Based Phone Number Verification appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406791/u-mobile-sim-phone-number-verification/",
-          "publishedOn": "2026-10-08T10:24:59.000Z",
-          "wordCount": 13247,
-          "title": "U Mobile Partners With Telenor Linx For SIM-Based Phone Number Verification",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/u-mobile-pnv-service-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406783",
-          "author": "Ian Chee",
-          "description": "Two weeks ago, OPPO unveiled the Find X10 series in its home market of China, with the line consisting of three models. More recently, the company has announced when it will be launching the series for the local market. That’s slated to happen closer to the end of the month, and as you’d expect, that’s […]\nThe post OPPO Find X10 Series To Launch Locally On 22 October appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406783/oppo-find-x10-launch-locally-22-october/",
-          "publishedOn": "2026-10-08T10:04:13.000Z",
-          "wordCount": 13257,
-          "title": "OPPO Find X10 Series To Launch Locally On 22 October",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/OPPO-Find-X10-Series-Official-Announcement.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406774",
-          "author": "Kiran Ganesan",
-          "description": "Outside of developing end-user devices and mass-producing SoCs, Samsung has also been working on improving its software and apps. The South Korean tech giant has announced a refreshed SmartThings app, which sits at the centre of its smart home platform. The main highlight of the refresh is SmartThings Now, which appears as cards at the […]\nThe post Samsung Gives SmartThings A Refresh With New Features, Faster Local Controls appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406774/samsung-gives-smartthings-a-refresh/",
-          "publishedOn": "2026-10-08T09:58:33.000Z",
-          "wordCount": 13504,
-          "title": "Samsung Gives SmartThings A Refresh With New Features, Faster Local Controls",
-          "enclosure": {
-            "url": "https://www.lowyat.net/wp-content/uploads/2026/10/Video-Samsung-Introduces-‘SmartThings-Now-in-New-Platform-Update-That-Brings-More-Intuitive-User-Experiences.mp4",
-            "length": "7662337",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Samsung-Gives-SmartThings-A-Refresh-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406766",
-          "author": "Heirul Kamel",
-          "description": "Malaysians can now gain three months of complimentary access to Coursera through the government-funded Global Learning Pass, which is offered via the Rakyat Digital portal as part of efforts to build digital and AI skills nationwide. The initiative is funded by the Ministry of Digital through MyDIGITAL Corporation, with Coursera serving as the online learning […]\nThe post Malaysians Get Free Three-Month Coursera Access Through Rakyat Digital appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406766/malaysia-coursera-rakyat-digital/",
-          "publishedOn": "2026-10-08T09:46:54.000Z",
-          "wordCount": 13393,
-          "title": "Malaysians Get Free Three-Month Coursera Access Through Rakyat Digital",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/mydigital-rakyat-digital-coursera_01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406753",
-          "author": "Nurul Kamil",
-          "description": "Earlier this week, a leak revealed that Infinix has another entry-level smartphone in the works. Now, the device in question has officially been announced for the local market. The Smart 20e is the latest addition to the Smart lineup, joining the Smart 20 launched back in April. Like its sibling, it focuses on everyday durability […]\nThe post Infinix Smart 20e Officially Launched In Malaysia With Unisoc T7250 Chipset appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406753/infinix-smart-20e-malaysia/",
-          "publishedOn": "2026-10-08T08:29:46.000Z",
-          "wordCount": 13381,
-          "title": "Infinix Smart 20e Officially Launched In Malaysia With Unisoc T7250 Chipset",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/infinix-smart-20e-launch-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406750",
-          "author": "John Law",
-          "description": "AMD is planning on expanding its fourth generation FidelityFX Super resolution, or FSR4, upscaling technology beyond its discrete graphics, and into the realm of APUs, gaming laptops, and gaming handheld devices powered by its chips. And it wants to do so before the end of 2026. At least, that is according to Jack Huynh, AMD […]\nThe post AMD To Bring FSR4 To Gaming Handhelds By End Of 2026 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406750/amd-to-bring-fsr4-to-gaming-handhelds-by-end-of-2026/",
-          "publishedOn": "2026-10-08T07:35:59.000Z",
-          "wordCount": 13315,
-          "title": "AMD To Bring FSR4 To Gaming Handhelds By End Of 2026",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/ASUS-ROG-Xbox-Ally-X-20th-anniversary-X-20-11-1240x931.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406734",
-          "author": "Heirul Kamel",
-          "description": "Lembaga Tabung Haji has temporarily suspended its services to depositors after detecting suspicious cyber activity on 7 October 2026. The institution said the move was taken as a precautionary measure while it conducts comprehensive monitoring of its systems. According to Tabung Haji, the temporary suspension is intended to protect the interests of depositors and ensure […]\nThe post Tabung Haji Temporarily Suspends Services After Detecting Suspicious Cyber Activity appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406734/tabung-haji-temp-suspends-services/",
-          "publishedOn": "2026-10-08T07:23:38.000Z",
-          "wordCount": 13153,
-          "title": "Tabung Haji Temporarily Suspends Services After Detecting Suspicious Cyber Activity",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/tabung-haji-the-edge-malaysia-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406731",
-          "author": "Kiran Ganesan",
-          "description": "ASUS has officially brought the new ProArt P14 (H7407) and ProArt P16 (H7607) laptops to the Malaysian market. Both laptops are available for pre-order from 8 to 31 October exclusively via the ASUS e-Store. By their names alone, it’s clear that these two laptops are nearly identical, with only a few key differences—most notably, their […]\nThe post ASUS ProArt P14, P16 RTX Spark Laptops Now Available For Pre-Order In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406731/asus-proart-p14-p16-pre-orde-malaysia/",
-          "publishedOn": "2026-10-08T07:19:14.000Z",
-          "wordCount": 13574,
-          "title": "ASUS ProArt P14, P16 RTX Spark Laptops Now Available For Pre-Order In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/ASUS-ProArt-P14-P16-RTX-Spark-Laptops-Pre-Order-1-1240x698.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406724",
-          "author": "Ian Chee",
-          "description": "When the reports of the Apple HomePad first surfaced, its nature of being the hub for smart home devices indicated that the iPhone maker was going to dive pretty deep into that specific market. More information about these have since surfaced, and it seems like the bitten fruit brand will not be making these smart […]\nThe post Apple To Work With LG For Other Smart Home Appliances appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406724/apple-with-lg-smart-home-appliances/",
-          "publishedOn": "2026-10-08T07:14:32.000Z",
-          "wordCount": 13279,
-          "title": "Apple To Work With LG For Other Smart Home Appliances",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/LG-Smart-Deadlock-Bolt-FCC.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406723",
-          "author": "Heirul Kamel",
-          "description": "Microsoft is giving Windows Search a major overhaul, turning the familiar Taskbar feature into more than just a way to find apps, files, and settings. Announced during Microsoft’s Windows and Surface event earlier today, the new Search experience takes on a chatbot-like function, with the ability to understand natural-language commands and perform thousands of quick […]\nThe post Microsoft Turns Windows 11’s Search Tool Into An AI-Powered PC Control Hub appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406723/microsoft-windows-search-ai-control-hub/",
-          "publishedOn": "2026-10-08T06:30:59.000Z",
-          "wordCount": 13460,
-          "title": "Microsoft Turns Windows 11’s Search Tool Into An AI-Powered PC Control Hub",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/microsoft-windows-11-search-hybrid-intelligence-1.webp"
         }
       ]
     },
@@ -22647,6 +22674,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+          "author": "Jeffrey Schwartz",
+          "description": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+          "publishedOn": "2026-10-23T11:38:28.000Z",
+          "wordCount": null,
+          "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+          "author": "Nate Nelson",
+          "description": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+          "publishedOn": "2026-10-23T03:30:00.000Z",
+          "wordCount": null,
+          "title": "State Bank of India Suffers a Customer PII Data Leak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+          "author": "Jai Vijayan",
+          "description": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+          "publishedOn": "2026-10-22T20:42:17.000Z",
+          "wordCount": null,
+          "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+          "author": "Rob Wright, Alexander Culafi",
+          "description": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
+          "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+          "publishedOn": "2026-10-22T20:33:10.000Z",
+          "wordCount": null,
+          "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+          "author": "Nate Nelson",
+          "description": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
+          "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+          "publishedOn": "2026-10-22T19:30:20.000Z",
+          "wordCount": null,
+          "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
+          "author": "Stephen Lawton",
+          "description": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
+          "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
+          "publishedOn": "2026-10-22T14:21:22.000Z",
+          "wordCount": null,
+          "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
           "author": "Robert Lemos",
@@ -23115,46 +23202,6 @@
           "publishedOn": "2026-10-09T13:00:00.000Z",
           "wordCount": null,
           "title": "Social Engineering AI Agents: The New BEC for 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-          "author": "Rob Wright",
-          "description": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
-          "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-          "publishedOn": "2026-10-08T20:39:44.000Z",
-          "wordCount": null,
-          "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
-          "author": "Robert Lemos",
-          "description": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
-          "publishedOn": "2026-10-08T19:08:16.000Z",
-          "wordCount": null,
-          "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-          "author": "Jai Vijayan",
-          "description": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-          "publishedOn": "2026-10-08T18:01:50.000Z",
-          "wordCount": null,
-          "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-          "author": "Kelly Jackson Higgins",
-          "description": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-          "publishedOn": "2026-10-08T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Writing the Next Chapter",
           "imageUrl": null
         }
       ]
