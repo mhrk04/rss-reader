@@ -19294,6 +19294,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
+          "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+          "publishedOn": "2026-10-25T06:54:29.000Z",
+          "wordCount": null,
+          "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
@@ -21308,38 +21324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do.\n\nThat gap is the clearest",
-          "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-          "publishedOn": "2026-10-10T11:00:00.000Z",
-          "wordCount": null,
-          "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.\n\nThe AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude -\n\n\n  Claude Mythos",
-          "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-          "publishedOn": "2026-10-10T09:18:45.000Z",
-          "wordCount": null,
-          "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg"
         }
       ]
     },
@@ -21348,6 +21332,36 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=408317",
+          "author": "Ian Chee",
+          "description": "If you remember, in late September, Xbox announced another step in its major reset that will see the next Halo game be developed by Activision, rather than Halo Studios. As part of that announcement, it was revealed that Undead Labs found a new publisher. Ninja Theory, on the other hand, will seemingly be closed as […]\nThe post Report: Arkane Studios Has Until November To Find A Buyer appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408317/arkane-studios-until-nov-to-find-buyer/",
+          "publishedOn": "2026-10-25T09:53:09.000Z",
+          "wordCount": 13252,
+          "title": "Report: Arkane Studios Has Until November To Find A Buyer",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Marvels-Blade-Arkane-Lyon.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408305",
+          "author": "Heirul Kamel",
+          "description": "Prime Minister Datuk Seri Anwar Ibrahim has revealed that a global investor plans to invest US$50 billion (~RM204 billion) in Malaysia’s artificial intelligence (AI), new technology and data centre sectors. The proposed investment will cover Kuching, Sarawak, and Peninsular Malaysia, although the investor’s identity has yet to be disclosed. Speaking at the Sentuhan Kasih Madani […]\nThe post PM: Global Investor Plans US$50 Billion Investment In AI, Data Centres In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408305/pm-investor-plans-us50-bil-investment/",
+          "publishedOn": "2026-10-25T03:58:48.000Z",
+          "wordCount": 13412,
+          "title": "PM: Global Investor Plans US$50 Billion Investment In AI, Data Centres In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/anwar-ibrahim-targeted-fuel-subsidies-01.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408306",
+          "author": "Nurul Kamil",
+          "description": "This year, Nothing has shifted its focus away from smartphones, with the only new additions being the Phone (4a) series and the Phone (4b). Given recent releases like the Headphone (1) Pro, the London-based company is concentrating its efforts on audio products, and it looks like another one could be arriving soon. A recent teaser […]\nThe post Nothing Begins Teasing New Product, Likely The Ear (3) Pro appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408306/nothing-ear-3-pro-teaser/",
+          "publishedOn": "2026-10-25T03:40:33.000Z",
+          "wordCount": 13291,
+          "title": "Nothing Begins Teasing New Product, Likely The Ear (3) Pro",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Nothing-Ear-3-open.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=408301",
           "author": "Ian Chee",
@@ -22512,36 +22526,6 @@
           "wordCount": 13291,
           "title": "New Gigabyte BIOS Update Points To Intel Raptor Lake Refresh With DDR4 Support",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Intel-Core-Series-Stock-Photo-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406921",
-          "author": "Ian Chee",
-          "description": "Having announced the Buds Neo, CMF has recently started teasing the next product it has rolling off the production floor. As usual, the company that’s related to Nothing starts off with teasers, and this time, while the teaser doesn’t exactly make it obvious what the entire thing looks like, the round grille indicates that it […]\nThe post CMF Teases Speaker S, M; Sri Lankan Online Retailer Reveals Them Early appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406921/cmf-tease-speaker-retailer-reveal-early/",
-          "publishedOn": "2026-10-10T09:13:56.000Z",
-          "wordCount": 13388,
-          "title": "CMF Teases Speaker S, M; Sri Lankan Online Retailer Reveals Them Early",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/CMF-Speaker-M.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406917",
-          "author": "Nurul Kamil",
-          "description": "The instances of AI models “going rogue” and getting into places they shouldn’t be have proven that the bots are really good at finding vulnerabilities in systems. So it shouldn’t come as a surprise that some companies have decided to leverage these capabilities. Anthropic has recently announced OSS Scanner, a free opt-in service that checks […]\nThe post Anthropic Announces Free AI-Powered Vulnerability Scanner For Open Source Projects appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406917/anthropic-free-vulnerability-scanner/",
-          "publishedOn": "2026-10-10T03:09:11.000Z",
-          "wordCount": 13263,
-          "title": "Anthropic Announces Free AI-Powered Vulnerability Scanner For Open Source Projects",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/anthropic-claude-opus-ai-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406913",
-          "author": "Heirul Kamel",
-          "description": "Google has teased its upcoming Fitbit Edge fitness tracker on social media, effectively confirming the name suggested by recent leaks while hinting at an 12 October 2026 reveal. The company shared a close-up image of the wearable alongside the caption, “Get an Edge on your health.” The posts, published on Instagram and X, show what […]\nThe post Google Teases Fitbit Edge, Hints At October 12 Reveal appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406913/google-teases-fitbit-edge/",
-          "publishedOn": "2026-10-10T00:55:39.000Z",
-          "wordCount": 13267,
-          "title": "Google Teases Fitbit Edge, Hints At October 12 Reveal",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/google-fitbit-edge-teaser-1.webp"
         }
       ]
     },
