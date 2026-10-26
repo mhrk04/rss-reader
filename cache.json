@@ -19294,6 +19294,150 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with.\n\nAnd that's not even the full story. A leaked key led to a software supply-chain",
+          "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+          "publishedOn": "2026-10-26T14:06:13.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1600/recap2monday.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1600/recap2monday.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say.\n\nAn attacker would first need a vulnerable Wasmtime build to compile a module they control, and one of the flaws affects only ARM64 systems. Fixed versions were released on",
+          "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+          "publishedOn": "2026-10-26T11:52:41.000Z",
+          "wordCount": null,
+          "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xq9w5oCep_lu7UpdVExPO7yRQ1tMz0YkxljYR_LmwG3WKowZ2CtLPh4F6kASJ7Xu0xJKy4uVzlwj7fPEO3fgKUELS4BqUtDZvGh1P-iqRslXNCLdkcJMCBGSKvJeqrrkeZdfPO9Wmv_v2VqdYEZVavTHw-QHUhli9QYGVhASuSRt3DETy8JMBz1D-kE/s1600/wasm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xq9w5oCep_lu7UpdVExPO7yRQ1tMz0YkxljYR_LmwG3WKowZ2CtLPh4F6kASJ7Xu0xJKy4uVzlwj7fPEO3fgKUELS4BqUtDZvGh1P-iqRslXNCLdkcJMCBGSKvJeqrrkeZdfPO9Wmv_v2VqdYEZVavTHw-QHUhli9QYGVhASuSRt3DETy8JMBz1D-kE/s1600/wasm.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into one coordinated view.\n\nSOC teams often first see the shape of an intrusion",
+          "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+          "publishedOn": "2026-10-26T11:23:56.000Z",
+          "wordCount": null,
+          "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app.\n\nThe kit's Telegram part matches Baohuo, a backdoor that Doctor",
+          "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+          "publishedOn": "2026-10-26T09:54:02.000Z",
+          "wordCount": null,
+          "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations.\n\nHuntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
+          "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+          "publishedOn": "2026-10-26T08:35:51.000Z",
+          "wordCount": null,
+          "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz.\n\nA GitHub safeguard that pauses",
+          "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+          "publishedOn": "2026-10-26T07:49:46.000Z",
+          "wordCount": null,
+          "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week.\n\nThe company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder.\n\nThe file",
+          "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+          "publishedOn": "2026-10-26T06:03:48.000Z",
+          "wordCount": null,
+          "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target.\n\nThe findings were",
+          "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+          "publishedOn": "2026-10-25T17:44:09.000Z",
+          "wordCount": null,
+          "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws.\n\n\"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via",
+          "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+          "publishedOn": "2026-10-25T17:19:46.000Z",
+          "wordCount": null,
+          "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
@@ -21333,6 +21477,106 @@
       "siteUrl": "https://www.lowyat.net",
       "articles": [
         {
+          "id": "https://www.lowyat.net/?p=408459",
+          "author": "Nurul Kamil",
+          "description": "Ahead of its scheduled “Pro and tell” event later this week, Apple has refreshed the iPad mini. This update brings a slew of upgrades, some of which were already detailed in prior leaks. Touted as the tech giant’s most versatile and capable iPad mini thus far, this 8th-generation model sports a thin and lightweight body […]\nThe post Apple Officially Unveils New iPad mini With OLED Display, A20 Pro Chip appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408459/apple-new-ipad-mini-oled-display/",
+          "publishedOn": "2026-10-26T14:25:42.000Z",
+          "wordCount": 13422,
+          "title": "Apple Officially Unveils New iPad mini With OLED Display, A20 Pro Chip",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/apple-ipad-mini-8th-gen-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408423",
+          "author": "Heirul Kamel",
+          "description": "One thing’s for certain: it took Apple a very long time to finally join the foldable smartphone bandwagon. Now that the iPhone Duo has finally arrived, the question is whether the company has spent the last eight years cooking up something worth the wait. In a first-party sense, the answer is yes, though there are […]\nThe post iPhone Duo Hands On: Late, Yet Early appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408423/iphone-duo-hands-on/",
+          "publishedOn": "2026-10-26T12:44:36.000Z",
+          "wordCount": 14179,
+          "title": "iPhone Duo Hands On: Late, Yet Early",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/apple-iphone-duo-hands-on_04.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408417",
+          "author": "Kiran Ganesan",
+          "description": "Dongfeng Motor Corporation’s electric vehicle (EV) franchise in Malaysia has attracted three potential bidders for its distribution and import rights from next year, according to a report by The Edge Malaysia. The parties are Sunway Bhd, Singapore-based Volt Auto Pte Ltd and Central Auto Distributors Bhd (CADB). CADB is reportedly pursuing the franchise through an […]\nThe post Report: Three Companies Vie For Dongfeng EV Franchise; CKD Assembly A Key Factor appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408417/companies-vie-for-dongfeng-ev-franchise/",
+          "publishedOn": "2026-10-26T10:43:01.000Z",
+          "wordCount": 13950,
+          "title": "Report: Three Companies Vie For Dongfeng EV Franchise; CKD Assembly A Key Factor",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/Dobgfeng-Vigo1-1024x512.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408406",
+          "author": "Nurul Kamil",
+          "description": "The Sigma fp launched all the way back in 2019 with the title of the world’s smallest and lightest pocketable full-frame camera. Now, roughly seven years later, the company has announced a successor. The Sigma FP2 brings some significant changes while also retaining the core ideas of the original. In terms of build, the new […]\nThe post Sigma FP2 Officially Announced With 24.5MP Sensor, 6K Open Gate Recording appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408406/sigma-fp2-officially-announced/",
+          "publishedOn": "2026-10-26T09:34:52.000Z",
+          "wordCount": 13314,
+          "title": "Sigma FP2 Officially Announced With 24.5MP Sensor, 6K Open Gate Recording",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/sigma-fp2-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408395",
+          "author": "John Law",
+          "description": "A Malaysian developer by the name of Alan Chung, frustrated by the disruptions presented by the locally developed navigation app, TuJu, decided to take matters into their own hands and developed their own navigation app. The app is called Lapan. A Numbers Dig The name of the navigation app is clearly a dig at the […]\nThe post Local Developer Creates TuJu Navigation App Rival, Lapan appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408395/local-developers-creates-tuju-navigation-app-rival-lapan/",
+          "publishedOn": "2026-10-26T08:46:51.000Z",
+          "wordCount": 13412,
+          "title": "Local Developer Creates TuJu Navigation App Rival, Lapan",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Lapan-Navigation-1-1240x930.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408383",
+          "author": "Heirul Kamel",
+          "description": "Marshall has introduced a new entry to its Bromley speaker line-up, this time with a model focused on portability. Called the Bromley 150, the latest party speaker features a more compact design while retaining the series’ signature styling, powerful audio output, and integrated stage lighting. The Bromley 150 measures 290 x 290 x 208mm and […]\nThe post Marshall Bromley 150 Portable Party Speaker Launches In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408383/marshall-bromley-150-malaysia-launch/",
+          "publishedOn": "2026-10-26T06:43:13.000Z",
+          "wordCount": 13266,
+          "title": "Marshall Bromley 150 Portable Party Speaker Launches In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/marshall-bromley-150-launch-malaysia_06.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408379",
+          "author": "John Law",
+          "description": "Bazzite, the custom open-source Linux OS that was designed to offer SteamOS-like functionality, is now extending its functionality out to gaming handhelds, the first being the Asus ROG Xbox Ally X20. The handheld now supports the OS, and the team says that Acer’s Intel Arc G3 Extreme-powered handheld is next on the list. “We’ve already […]\nThe post Bazzite Expands Support To Asus ROG Xbox Ally X20 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408379/bazzite-expands-support-to-asus-rog-xbox-ally-x20/",
+          "publishedOn": "2026-10-26T05:59:46.000Z",
+          "wordCount": 13303,
+          "title": "Bazzite Expands Support To Asus ROG Xbox Ally X20",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/ASUS-ROG-Xbox-Ally-X-20th-anniversary-X-20-1-1240x930.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408361",
+          "author": "Nurul Kamil",
+          "description": "Earlier this year, AEON Bank announced Neko Sensei, its cat-themed AI personal financial coach. Now, the digital banking app is building on the experience with the launch of a new Financial Purr-Sona feature. If the name doesn’t already clue you in, the feature assigns a relevant persona to the user based on their financial habits. […]\nThe post AEON Bank Unveils New AI-Powered Financial Purr-Sona Feature appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408361/aeon-bank-financial-purr-sona-feature/",
+          "publishedOn": "2026-10-26T05:54:50.000Z",
+          "wordCount": 13311,
+          "title": "AEON Bank Unveils New AI-Powered Financial Purr-Sona Feature",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/aeon-bank-financial-purr-sona-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408370",
+          "author": "Kiran Ganesan",
+          "description": "After launching globally back in September, Huawei Malaysia has officially announced that it will be bringing the Watch 6 series to the local market. According to the company, the device is slated to hit store shelves on 3 November. With that said, it isn’t the only device to go on sale that day, as the […]\nThe post HUAWEI Watch 6 Series To Land In Malaysia On 3 November appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408370/huawei-watch-6-series-malaysia-3-nov/",
+          "publishedOn": "2026-10-26T05:50:16.000Z",
+          "wordCount": 13771,
+          "title": "HUAWEI Watch 6 Series To Land In Malaysia On 3 November",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/HUAWEI-Watch-6-Series-Malaysia-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408350",
+          "author": "John Law",
+          "description": "RTIt is no secret just how valuable and sought-after the NVIDIA GeForce RTX 5090 is to the realm of AI and opportunists at this point, and there are plenty of horror stories to supplement those reports too. Between the scarcity and eye-gouging price tags, there is now video footage of Chinese factories stripping these cards […]\nThe post Leaked Video Shows How Chinese Factories Are Stripping RTX 5090 GPUs Of Their Chips appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408350/leaked-video-shows-how-chinese-factories-are-stripping-rtx-5090-gpus-of-their-chips/",
+          "publishedOn": "2026-10-26T03:55:33.000Z",
+          "wordCount": 13283,
+          "title": "Leaked Video Shows How Chinese Factories Are Stripping RTX 5090 GPUs Of Their Chips",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/NVIDIA-RTX-5090-disassembly-2.webp"
+        },
+        {
           "id": "https://www.lowyat.net/?p=408317",
           "author": "Ian Chee",
           "description": "If you remember, in late September, Xbox announced another step in its major reset that will see the next Halo game be developed by Activision, rather than Halo Studios. As part of that announcement, it was revealed that Undead Labs found a new publisher. Ninja Theory, on the other hand, will seemingly be closed as […]\nThe post Report: Arkane Studios Has Until November To Find A Buyer appeared first on Lowyat.NET.",
@@ -22486,46 +22730,6 @@
           "wordCount": 13406,
           "title": "NVIDIA Might Be Ending RTX 5090 Production in Favour Of RTX Pro Series",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/01/NVIDIA-GeForce-RTX-5090-FE-2-1024x768.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406954",
-          "author": "Ian Chee",
-          "description": "It was slightly over a week ago, on 2 October, when Ace Combat 8: Wings of Theve was released, but publisher Bandai Namco has announced that the game has sold over 1 million copies since. The announcement of the milestone comes via the company’s various accounts for different markets on X, with the posts also […]\nThe post Ace Combat 8 Hits 1 Million Sales In A Little Over A Week appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406954/ace-combat-8-1-million-sales-over-week/",
-          "publishedOn": "2026-10-11T11:52:26.000Z",
-          "wordCount": 13315,
-          "title": "Ace Combat 8 Hits 1 Million Sales In A Little Over A Week",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Ace-Combat-8-1-million.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406941",
-          "author": "John Law",
-          "description": "A video by Russian GPU repair specialist Vik-Off recently posted a video of the lengths scammers have gone and are willing to go with fake GPUs, while also showing how scary good they are getting at passing off fake RTX 4090 GPUs as the real deal. Step One: Making Verification Difficult One of the fake […]\nThe post New NVIDIA RTX 4090 Fakes Look Almost As Good As The Real Thing appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406941/new-nvidia-rtx-4090-fakes-look-almost-as-good-as-the-real-thing/",
-          "publishedOn": "2026-10-11T09:34:32.000Z",
-          "wordCount": 13445,
-          "title": "New NVIDIA RTX 4090 Fakes Look Almost As Good As The Real Thing",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Fake-RTX-4090-Looks-Almost-Real-1-1240x698.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406935",
-          "author": "Heirul Kamel",
-          "description": "The Road Transport Department (JPJ) has temporarily suspended the Vehicle Type Approval (VTA) for the Chery Omoda 5. The move follows a reported incident in which the SUV’s rear axle detached from the vehicle. JPJ said it takes the latest incident in Johor Bahru seriously, noting that it has raised public concerns over the vehicle’s […]\nThe post JPJ Suspends Chery Omoda 5 VTA Following Rear Axle Incident appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406935/jpj-suspends-chery-omoda-5-vta/",
-          "publishedOn": "2026-10-11T06:16:34.000Z",
-          "wordCount": 13410,
-          "title": "JPJ Suspends Chery Omoda 5 VTA Following Rear Axle Incident",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/chery-omoda-5-official-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406930",
-          "author": "Nurul Kamil",
-          "description": "Motherboard manufacturer Gigabyte has more or less confirmed that Intel will be releasing new processors for the LGA 1700 socket. The company has announced a new BIOS update for its lineup of Intel B760 and H610 motherboards. Essentially, this update will allow them to support the upcoming CPUs. So, users will be able to flash […]\nThe post New Gigabyte BIOS Update Points To Intel Raptor Lake Refresh With DDR4 Support appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406930/gigabyte-bios-update-intel-raptor-lake/",
-          "publishedOn": "2026-10-11T05:48:52.000Z",
-          "wordCount": 13291,
-          "title": "New Gigabyte BIOS Update Points To Intel Raptor Lake Refresh With DDR4 Support",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Intel-Core-Series-Stock-Photo-1.webp"
         }
       ]
     },
@@ -22534,6 +22738,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+          "author": "Christopher Walcutt",
+          "description": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+          "publishedOn": "2026-10-26T14:00:00.000Z",
+          "wordCount": null,
+          "title": "10 Software Security Practices Built for the Next 250 Years",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
           "author": "Arielle Waldman",
