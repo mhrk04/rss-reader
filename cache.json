@@ -19294,6 +19294,182 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.\n\nMicrosoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android version 6.2606.4246, so anyone using the app should update.\n\nIn the researchers' tests,",
+          "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+          "publishedOn": "2026-10-27T12:09:50.000Z",
+          "wordCount": null,
+          "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26.\n\nSomeone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve",
+          "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+          "publishedOn": "2026-10-27T11:46:00.000Z",
+          "wordCount": null,
+          "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. \n\nSome fake login pages go beyond stealing passwords. They can also capture MFA codes or hijack authenticated sessions, allowing attackers to gain",
+          "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+          "publishedOn": "2026-10-27T11:32:46.000Z",
+          "wordCount": null,
+          "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCX1RKz1isf0HwbYOFkKneC7maFNTVr0q0LTVHBsoGhEN5w7ZOfSLYqfq_6-oKzf51Vb3FJTVla21T-RrWus7Dxadw81UmqDBbw8rIWxfbBhPdI5tyAUQZSYwYaq9JetgW4_4yl1qbWU7ScrdxYjoTCot6v9gXMIyjsk4W66Z531z5oHaHHEguj6_EISU/s1600/keeper-password.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCX1RKz1isf0HwbYOFkKneC7maFNTVr0q0LTVHBsoGhEN5w7ZOfSLYqfq_6-oKzf51Vb3FJTVla21T-RrWus7Dxadw81UmqDBbw8rIWxfbBhPdI5tyAUQZSYwYaq9JetgW4_4yl1qbWU7ScrdxYjoTCot6v9gXMIyjsk4W66Z531z5oHaHHEguj6_EISU/s1600/keeper-password.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors.\n\nAccording to Russian cybersecurity company Kaspersky, the campaign has been active since at least July 2025. It's assessed to pick up",
+          "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+          "publishedOn": "2026-10-27T11:32:31.000Z",
+          "wordCount": null,
+          "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers.\n\n\"The next steps that we took were to disconnect that Amadey controller from all those",
+          "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+          "publishedOn": "2026-10-27T09:33:06.000Z",
+          "wordCount": null,
+          "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown.\n\nOpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an encrypted item the user cannot read. The method got past",
+          "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+          "publishedOn": "2026-10-27T08:22:43.000Z",
+          "wordCount": null,
+          "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsIWTk2-hgeO3hAG2ohh1yrK20QoX_O0WDYRc83Q9qg-Igk4mEbzap014Pya2lSNiYEvbRIzilTYToybQVVtR3sQH84nJj-kd8tGWOqW3D-ylLpwcxOfvONGVSzjNuu5piwltyECtuezAw4Q8R7S3lvH_g2z3EpDT_EuOOEJg1-FRrChaADA4S6scQkU/s1600/chatgpt-compact.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsIWTk2-hgeO3hAG2ohh1yrK20QoX_O0WDYRc83Q9qg-Igk4mEbzap014Pya2lSNiYEvbRIzilTYToybQVVtR3sQH84nJj-kd8tGWOqW3D-ylLpwcxOfvONGVSzjNuu5piwltyECtuezAw4Q8R7S3lvH_g2z3EpDT_EuOOEJg1-FRrChaADA4S6scQkU/s1600/chatgpt-compact.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.\n\n\"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP)",
+          "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+          "publishedOn": "2026-10-27T06:34:47.000Z",
+          "wordCount": null,
+          "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.\n\nThe PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments -\n\n\n  CVE-2026-109618 - An out-of-memory",
+          "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+          "publishedOn": "2026-10-27T04:37:59.000Z",
+          "wordCount": null,
+          "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.\n\nAccording to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks.\n\n\"When you",
+          "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+          "publishedOn": "2026-10-26T18:12:22.000Z",
+          "wordCount": null,
+          "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh3aURB79okzf_mo3sPzJy6vKRiWdPc4gyrE93xmMW-MRgYHrOuJ5yya0TpovJvi-2ol3GubNo5ir76ui-2jBo1jUvOd45Z8f98YeGVAECGcwgpRetuyxFxGWY8bBOB4a0G1H5YiYoYJ3Kd8YauFJGUIVTKYVHsLrvDElRe8sOuD4Y8CKMrAtCA6eJazr/s1600/m-code.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh3aURB79okzf_mo3sPzJy6vKRiWdPc4gyrE93xmMW-MRgYHrOuJ5yya0TpovJvi-2ol3GubNo5ir76ui-2jBo1jUvOd45Z8f98YeGVAECGcwgpRetuyxFxGWY8bBOB4a0G1H5YiYoYJ3Kd8YauFJGUIVTKYVHsLrvDElRe8sOuD4Y8CKMrAtCA6eJazr/s1600/m-code.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code.\n\nPHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. cURL leaves that off by default, but",
+          "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+          "publishedOn": "2026-10-26T17:45:57.000Z",
+          "wordCount": null,
+          "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGYEqFaRxRywsWzBt-2T2G_Jpdp4zy3iV7qI1alNGRaBf_8TMdzRQQb335GhASkVoXD3q9mGkiLjAog4ez9d7DHhl88lkNVvuhI74KiKZP0zZpb2O8yyqyDw12WoYTiGaq1AVfG9TfGcdNhP-DmRwuKJ4Pj4mr9rEo-TVLYxYSpmUogJUSFZFL_VaduQ/s1600/php-windows.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGYEqFaRxRywsWzBt-2T2G_Jpdp4zy3iV7qI1alNGRaBf_8TMdzRQQb335GhASkVoXD3q9mGkiLjAog4ez9d7DHhl88lkNVvuhI74KiKZP0zZpb2O8yyqyDw12WoYTiGaq1AVfG9TfGcdNhP-DmRwuKJ4Pj4mr9rEo-TVLYxYSpmUogJUSFZFL_VaduQ/s1600/php-windows.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware.\n\n\"A consistent pattern of attacker behavior has emerged across these incidents: the use of the same throwaway tenants, the same 'IT",
+          "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+          "publishedOn": "2026-10-26T15:52:40.000Z",
+          "wordCount": null,
+          "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1600/support.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1600/support.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with.\n\nAnd that's not even the full story. A leaked key led to a software supply-chain",
@@ -21372,102 +21548,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it.\n\nBut speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves.",
-          "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-          "publishedOn": "2026-10-12T15:16:26.000Z",
-          "wordCount": null,
-          "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every personal AI agent keep piling up.\n\nRegardless, the tech world is mesmerized by the capabilities and potential of these services. Less than a year",
-          "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-          "publishedOn": "2026-10-12T11:55:00.000Z",
-          "wordCount": null,
-          "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.\n\nOn Friday, the company said it was investigating reports of loss of funds from users in Southeast Asia who had purchased products from CryptoBilis. The incident is said to have resulted in losses totaling more than $86",
-          "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-          "publishedOn": "2026-10-12T11:21:48.000Z",
-          "wordCount": null,
-          "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nzJQQovkKtR-dl3ihW4VRAfIxiKwNwwVEHyH06we8iIkQbaxVqhryWIwB9MflLHfBYAd_opklCfnkLxg-GKqB2yt4CisdNcf2lRvOoaYHo9Pa6m1OWatzNsFHmY1ICBH_0P2XX4ykgFE7Gqviz0C0_8J0Qqz36_3gygDyHbot9z5obuYEHunIFsZmPQV/s1600/ledgers.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nzJQQovkKtR-dl3ihW4VRAfIxiKwNwwVEHyH06we8iIkQbaxVqhryWIwB9MflLHfBYAd_opklCfnkLxg-GKqB2yt4CisdNcf2lRvOoaYHo9Pa6m1OWatzNsFHmY1ICBH_0P2XX4ykgFE7Gqviz0C0_8J0Qqz36_3gygDyHbot9z5obuYEHunIFsZmPQV/s1600/ledgers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.\n\nThe vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated server-side request forgery (SSRF) that could allow a remote attacker \"to direct the appliance to issue requests on their",
-          "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-          "publishedOn": "2026-10-12T10:36:56.000Z",
-          "wordCount": null,
-          "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglEbu7YOWX4lrTm_x8p2FnL6B7z2hhGC0fKWPBSCVJqTt8l0rbcXFhQinT3ja0sVyx7hObbCQlmem9y4-wsxrwU6mtgsBIJjvH7rgC8n5w8DpEcv7G1N_u4dtOzA3qxVk22FPvly-ZmjsLJKdJqgTsKPtMHpit1oq-fk7jPFN1gTHLeJdF2JQRZ8yuwjxv/s1600/sonics.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglEbu7YOWX4lrTm_x8p2FnL6B7z2hhGC0fKWPBSCVJqTt8l0rbcXFhQinT3ja0sVyx7hObbCQlmem9y4-wsxrwU6mtgsBIJjvH7rgC8n5w8DpEcv7G1N_u4dtOzA3qxVk22FPvly-ZmjsLJKdJqgTsKPtMHpit1oq-fk7jPFN1gTHLeJdF2JQRZ8yuwjxv/s1600/sonics.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary PHP code on vulnerable WordPress websites, resulting in remote code execution (RCE). The",
-          "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-          "publishedOn": "2026-10-12T09:02:14.000Z",
-          "wordCount": null,
-          "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine.\n\nThe activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed",
-          "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-          "publishedOn": "2026-10-12T07:26:12.000Z",
-          "wordCount": null,
-          "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
         }
       ]
     },
@@ -21476,6 +21556,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=408555",
+          "author": "Heirul Kamel",
+          "description": "Apple continues to unveil new products this week, now with the introduction of an all-new M6 iMac, bringing improved performance and AI capabilities. The updated model retains the signature slim design of the brand’s all-in-one (AIO) desktop computer, while introducing faster connectivity and storage. The new iMac comes with a 24-inch 4.5K Retina display with […]\nThe post Apple Launches New iMac With M6 Chip In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408555/apple-launches-new-imac-with-m6-chip-in-malaysia/",
+          "publishedOn": "2026-10-27T14:09:32.000Z",
+          "wordCount": 13283,
+          "title": "Apple Launches New iMac With M6 Chip In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/apple-imac-m6-launch-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408548",
+          "author": "John Law",
+          "description": "NVIDIA board partners have reportedly been unable to place any new orders for the company’s GB202 GPUs and 32GB GDDR7 memory packages. The development, if true, is new, given that the source of this information says that it was previously able to make backorders, something that NVIDIA had previously allowed during supply shortages. The source […]\nThe post NVIDIA Board Partners Reportedly Unable To Order New Blackwell GPU and Memory Packages appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408548/nvidia-board-partners-reportedly-unable-to-order-new-blackwell-gpu-and-memory-packages/",
+          "publishedOn": "2026-10-27T11:44:57.000Z",
+          "wordCount": 13306,
+          "title": "NVIDIA Board Partners Reportedly Unable To Order New Blackwell GPU and Memory Packages",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/01/Zotac-Gaming-Arcticstorm-AIO-RTX-5090-3-1024x768.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408514",
+          "author": "Heirul Kamel",
+          "description": "vivo has officially launched its X500 series in Malaysia, comprising the X500, X500 Pro and X500 Pro Max. The new flagship lineup focuses on photography and videography, with all three models featuring ZEISS camera systems and the company’s latest OriginOS 7 software. Leading the range is the vivo X500 Pro Max, which features a 200MP […]\nThe post vivo X500 Series Officially Launches In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408514/vivo-x500-series-launch-malaysia/",
+          "publishedOn": "2026-10-27T11:41:11.000Z",
+          "wordCount": 13694,
+          "title": "vivo X500 Series Officially Launches In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/vivo-x500-series-launch-malaysia_08.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408532",
+          "author": "Kiran Ganesan",
+          "description": "In November last year, WhatsApp introduced a media hub to its Mac app and web version. Now, the company appears to be developing the feature for iOS, according to WABetaInfo. For those unfamiliar with the feature, the media hub is a centralised place where users can see all of the shared media and videos from […]\nThe post WhatsApp Developing New Media Hub Feature For iOS appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408532/whatsapp-developing-new-media-hub-ios/",
+          "publishedOn": "2026-10-27T09:22:34.000Z",
+          "wordCount": 13291,
+          "title": "WhatsApp Developing New Media Hub Feature For iOS",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/WhatsApp-Developing-Media-Hub-Feature-For-iOS-1-1240x697.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408530",
+          "author": "John Law",
+          "description": "Asus Malaysia is officially launching the ProArt RTX Series laptops in Malaysia. The laptops are already available in two models, the 14-inch P14 and 16-inch P16, and with two Unified Memory configurations, 48GB and 128GB. Both laptops are powered by the NVIDIA RTX Spark, which is the GPU brand’s first all-encompassing ARM-based processor, built in […]\nThe post Asus ProArt RTX Spark Series Laptops Now Available In Malaysia From RM18,999 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408530/asus-proart-rtx-spark-malaysia/",
+          "publishedOn": "2026-10-27T08:59:10.000Z",
+          "wordCount": 13287,
+          "title": "Asus ProArt RTX Spark Series Laptops Now Available In Malaysia From RM18,999",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/Asus-ProArt-Series-IFA-2026-Lineup-1-1240x795.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408515",
+          "author": "Nurul Kamil",
+          "description": "Fujifilm has announced a new addition to its Instax Evo range of hybrid instant cameras. If the name doesn’t already make it obvious, the Instax Mini Evo 2 is the successor to the original Instax Mini Evo, which launched about five years prior. Naturally, this model brings a few improvements and new features. In terms […]\nThe post Fujifilm Instax Mini Evo 2 Officially Announced; Launching In Malaysia Soon appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408515/fujifilm-instax-mini-evo-2/",
+          "publishedOn": "2026-10-27T08:29:55.000Z",
+          "wordCount": 13368,
+          "title": "Fujifilm Instax Mini Evo 2 Officially Announced; Launching In Malaysia Soon",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/fujifilm-instax-mini-evo-2-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408502",
+          "author": "Kiran Ganesan",
+          "description": "Following its rollout in Singapore and other markets, Google has brought its age assurance technology to Malaysia. As its name suggests, the feature estimates whether users are above or below 18 years old, allowing the company to provide “age-appropriate experiences” for those it believes are under 18.  According to the official blog, users estimated to […]\nThe post Google Officially Brings Age Assurance To Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408502/google-bring-age-assurance-to-malaysia/",
+          "publishedOn": "2026-10-27T05:01:25.000Z",
+          "wordCount": 13200,
+          "title": "Google Officially Brings Age Assurance To Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Google-Officially-Brings-Age-Assurance-To-Malaysia-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408491",
+          "author": "Ian Chee",
+          "description": "Razer has put up a teaser for something that it’s revealing on 3 November. On one hand, it’s a controller, and judging from the L1 and L2 on the shoulder button and trigger, it’s likely a PlayStation-licensed one and therefore a Raiju entry. That’s good news, simply because it will have the left analogue stick […]\nThe post Razer Teases What Looks Like A Signature Edition Raiju Controller appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408491/razer-teases-signature-edition-raiju/",
+          "publishedOn": "2026-10-27T04:56:24.000Z",
+          "wordCount": 13357,
+          "title": "Razer Teases What Looks Like A Signature Edition Raiju Controller",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Razer-Raiju-Signature-Edition-teaser.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408488",
+          "author": "Nurul Kamil",
+          "description": "Crunchyroll has announced that it is expanding access to its service for Malaysian viewers. Now, users can subscribe to the streaming service directly through the PlayStation Media Hub on PlayStation 5 (PS5) and PlayStation 4 (PS4). At the moment, the company is only offering a single plan, namely the Mega Fan membership. Priced at RM14.90 […]\nThe post Crunchyroll Announces Subscriptions Via PlayStation; Priced At RM14.90/Month appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408488/crunchyroll-subscriptions-playstation/",
+          "publishedOn": "2026-10-27T04:10:16.000Z",
+          "wordCount": 13276,
+          "title": "Crunchyroll Announces Subscriptions Via PlayStation; Priced At RM14.90/Month",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/crunchyroll-playstation-subscriptions-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408489",
+          "author": "John Law",
+          "description": "A new leak, allegedly of the 24-core Intel Nova Lake-S desktop CPU, was recently discovered in the PassMark PerformanceTest 11.1. The allege Core Ultra 4000 Series processor was listed under the generic “Intel 0000) name, and was reportedly submitted all the way back in September this year. One benchmark details that comes to light in […]\nThe post Alleged 24-Core Intel Nova Lake-S And Performance Metrics Leaks appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408489/alleged-24-core-intel-nova-lake-s-and-performance-metrics-leaks/",
+          "publishedOn": "2026-10-27T03:48:34.000Z",
+          "wordCount": 13239,
+          "title": "Alleged 24-Core Intel Nova Lake-S And Performance Metrics Leaks",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/03/Intel-Core-Ultra-7-270K-Plus-Review-2-1240x698.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=408459",
           "author": "Nurul Kamil",
@@ -22630,106 +22810,6 @@
           "wordCount": 13392,
           "title": "Google Fitbit Edge Officially Debuts With 1.34-Inch Display, Seven-Day Battery Life",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/google-fitbit-edge-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=407034",
-          "author": "Ian Chee",
-          "description": "The future of physical games has been the hot topic of the hobby ever since PlayStation announced that it will not be printing discs for games launching from 2028 onwards. So far, Microsoft has kept quiet about whether Project Helix will take physical discs when it rolls around, but it’s otherwise been gaining good press […]\nThe post Nintendo VP Of LatAm: No Plans To Ditch Physical appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/407034/nintendo-no-plans-to-ditch-physical/",
-          "publishedOn": "2026-10-12T10:20:22.000Z",
-          "wordCount": 13327,
-          "title": "Nintendo VP Of LatAm: No Plans To Ditch Physical",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/Nintendo-Switch-2-Aus-Unit-17-1024x768.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=407036",
-          "author": "John Law",
-          "description": "You know the saying: when it rains, it pours, and in Sony PlayStation’s case, it’s just been one dung storm after another on the PlayStation 5 (PS5), particularly with modders. Not only does it have to contend with modders getting AAA single-player titles running via emulation on PC, but another group of modders also appear […]\nThe post Modders Have Successfully Gotten Xbox Cloud Gaming And Windows Games Running On The PS5 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/407036/modders-have-successfully-gotten-xbox-cloud-gaming-and-windows-games-running-on-the-ps5/",
-          "publishedOn": "2026-10-12T09:53:47.000Z",
-          "wordCount": 13333,
-          "title": "Modders Have Successfully Gotten Xbox Cloud Gaming And Windows Games Running On The PS5",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/08/Sony-PlayStation-5-PS5-logo-1-1024x768.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=407018",
-          "author": "Ian Chee",
-          "description": "The Road Transport Department (JPJ) announced earlier today that only individuals or companies that have been approved as Registered Intermediaries are permitted to conduct transactions on behalf of clients at all of its offices and branches. This will be enforced at the very start of next year, with the department taking applications online starting 1 […]\nThe post JPJ: Only Registered Intermediaries Can Handle Transactions On Behalf Of Others appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/407018/jpj-registered-intermediaries-handle/",
-          "publishedOn": "2026-10-12T08:54:33.000Z",
-          "wordCount": 13247,
-          "title": "JPJ: Only Registered Intermediaries Can Handle Transactions On Behalf Of Others",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/jpj-online-survey-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=407025",
-          "author": "John Law",
-          "description": "Modders have gotten another PlayStation 5 (PS5) exclusive to run on the PC: Ghost of Yotei. The feat marks the second time these folks have managed get a AAA PS5 title running via emulation on PC, the first having been Insomniac Games’ Wolverine. That being said, getting Ghost of Yotei to run on PC has […]\nThe post Modders Have Gotten Ghost Of Yotei Running On PC, But Not Smoothly appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/407025/ghost-of-yotei-pc/",
-          "publishedOn": "2026-10-12T08:51:45.000Z",
-          "wordCount": 13391,
-          "title": "Modders Have Gotten Ghost Of Yotei Running On PC, But Not Smoothly",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/09/Sony-PS5-State-of-Play-September-2024-Ghost-of-Yotei-art-visuals-4.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=407021",
-          "author": "Kiran Ganesan",
-          "description": "Shortly after opening bookings for its Ora 5 HEV last week, GWM Malaysia is now accepting bookings for the Wey G9 Hi4 HEV. As its name suggests, this is the non-plug-in hybrid (HEV) version of the company’s luxury MPV, which debuted in Malaysia earlier this year. While bookings are now open, GWM Malaysia has yet […]\nThe post GWM Opens Booking For Wey G9 Hi4 HEV In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/407021/gwm-booking-wey-g9-hi4-hev-malaysia/",
-          "publishedOn": "2026-10-12T08:38:16.000Z",
-          "wordCount": 13234,
-          "title": "GWM Opens Booking For Wey G9 Hi4 HEV In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/GWM-Wey-G9-Hi4-HEV-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=407017",
-          "author": "Heirul Kamel",
-          "description": "[Update: 12 October 2026 6:50pm]: Train services on the KLIA Ekspres and KLIA Transit have returned to normal as of this evening. According to the latest service update, KLIA Ekspres services resumed at KL Sentral at 6:40pm and KLIA Terminal 2 at 6:35pm, while KLIA Transit services returned to normal at 6:33pm and 6:31pm, respectively. […]\nThe post KLIA Ekspres, Transit Services Disrupted By Cable Theft appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/407017/klia-ekspres-disrupted-cable-theft/",
-          "publishedOn": "2026-10-12T07:35:58.000Z",
-          "wordCount": 13339,
-          "title": "KLIA Ekspres, Transit Services Disrupted By Cable Theft",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/KLIA-Ekspres-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=407014",
-          "author": "Ian Chee",
-          "description": "Local telco U Mobile has announced that it has signed a Memorandum of Understanding (MoU) with renewable energy developer HLGY Energy Sdn Bhd. More specifically, the company is “focused on developing and operating utility-scaled solar and integrated energy solutions under the Corporate Renewable Energy Supply Scheme (CRESS) framework”. The two entities will be working together […]\nThe post U Mobile To Work With HLGY Energy On Next-Gen Smart Solar Farms appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/407014/u-mobile-hlgy-energy-smart-solar-farms/",
-          "publishedOn": "2026-10-12T07:03:31.000Z",
-          "wordCount": 13276,
-          "title": "U Mobile To Work With HLGY Energy On Next-Gen Smart Solar Farms",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/U-Mobile-HLGY-Energy-MoU.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406993",
-          "author": "Nurul Kamil",
-          "description": "Lembaga Tabung Haji has announced that its key systems and services have resumed operations following their temporary suspension last week. The financial institution also assured that depositors’ savings are confirmed safe. In a statement posted on its social media channels, Tabung Haji explained that it has restored these systems and functions after conducting comprehensive safety […]\nThe post Tabung Haji Core Services And Systems Restored Following Cyberattack; Depositors’ Savings Confirmed Safe appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406993/tabung-haji-systems-restored/",
-          "publishedOn": "2026-10-12T06:59:26.000Z",
-          "wordCount": 13325,
-          "title": "Tabung Haji Core Services And Systems Restored Following Cyberattack; Depositors’ Savings Confirmed Safe",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/tabung-haji-the-edge-malaysia-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406983",
-          "author": "Evelyn Chu",
-          "description": "For almost a decade now, Samsung’s foldable lineup has been the pinnacle of productivity devices, allowing you to work regardless of where you are with ease. That was true then, and it is true now with the Galaxy Z Fold8, Galaxy Fold8 Ultra, and Galaxy Flip8. As always, these devices have proved their usefulness and […]\nThe post Supercharge Your Productivity With The Samsung Galaxy Z8 Series appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406983/supercharge-your-productivity-with-the-samsung-galaxy-z8-series/",
-          "publishedOn": "2026-10-12T06:48:06.000Z",
-          "wordCount": 14171,
-          "title": "Supercharge Your Productivity With The Samsung Galaxy Z8 Series",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Samsung-Galaxy-Z8-Series-Sponsored-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=406999",
-          "author": "John Law",
-          "description": "Rumour has it that NVIDIA may be planning on halting production of its RTX 5090 GPUs, in order to redirect all supplies of the GB202 die to its RTX Pro Series lineup. Not only that, but it is also possible that it is reserving its supply of said GPU die to produce a version of […]\nThe post NVIDIA Might Be Ending RTX 5090 Production in Favour Of RTX Pro Series appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/406999/nvidia-might-be-ending-rtx-5090-production-in-favour-of-rtx-pro-series/",
-          "publishedOn": "2026-10-12T06:43:52.000Z",
-          "wordCount": 13406,
-          "title": "NVIDIA Might Be Ending RTX 5090 Production in Favour Of RTX Pro Series",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/01/NVIDIA-GeForce-RTX-5090-FE-2-1024x768.webp"
         }
       ]
     },
@@ -22738,6 +22818,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+          "author": "Robert Lemos",
+          "description": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
+          "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+          "publishedOn": "2026-10-27T00:26:50.000Z",
+          "wordCount": null,
+          "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+          "author": "Jai Vijayan",
+          "description": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
+          "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+          "publishedOn": "2026-10-26T21:44:33.000Z",
+          "wordCount": null,
+          "title": "Risks &amp; Rewards: How AI Is Redefining the CISO's Role",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+          "author": "Alexander Culafi",
+          "description": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
+          "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+          "publishedOn": "2026-10-26T20:59:26.000Z",
+          "wordCount": null,
+          "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+          "author": "Elizabeth Montalbano",
+          "description": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+          "publishedOn": "2026-10-26T18:01:40.000Z",
+          "wordCount": null,
+          "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
           "author": "Christopher Walcutt",
@@ -23236,46 +23356,6 @@
           "publishedOn": "2026-10-13T20:35:23.000Z",
           "wordCount": null,
           "title": "Anthropic Finds Ingredients for Future AI Worms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-          "author": "Rob Wright",
-          "description": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-          "publishedOn": "2026-10-12T21:42:42.000Z",
-          "wordCount": null,
-          "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-          "author": "Alexander Culafi",
-          "description": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
-          "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-          "publishedOn": "2026-10-12T20:00:53.000Z",
-          "wordCount": null,
-          "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-          "author": "Todd Thiemann",
-          "description": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-          "publishedOn": "2026-10-12T18:27:25.000Z",
-          "wordCount": null,
-          "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-          "author": "Fahmida Y. Rashid",
-          "description": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
-          "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-          "publishedOn": "2026-10-12T12:30:58.000Z",
-          "wordCount": null,
-          "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
           "imageUrl": null
         }
       ]
