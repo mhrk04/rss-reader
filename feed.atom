@@ -2,10 +2,340 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-10-27T14:18:59.456Z</updated>
+    <updated>2026-10-28T15:00:38.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Attacker Relentlessly Scans for Credentials by Impersonating AI Bots]]></title>
+        <id>https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials</id>
+        <link href="https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials"/>
+        <updated>2026-10-28T14:37:52.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch]]></title>
+        <id>https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html</id>
+        <link href="https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html"/>
+        <updated>2026-10-28T12:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.
+
+The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical Patch Update.
+
+Security researchers]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers]]></title>
+        <id>https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html</id>
+        <link href="https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"/>
+        <updated>2026-10-28T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network.
+
+UEFI firmware is the software that runs first when a computer is switched on, before the operating system. An attacker who can reach the machine]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wazuh and AI for Enhanced SOC Workflows]]></title>
+        <id>https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html</id>
+        <link href="https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html"/>
+        <updated>2026-10-28T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass]]></title>
+        <id>https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html</id>
+        <link href="https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"/>
+        <updated>2026-10-28T11:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.
+
+The list of eight vulnerabilities is as follows -
+
+
+  CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed]]></title>
+        <id>https://thehackernews.com/2026/10/american-organizations-under-attack.html</id>
+        <link href="https://thehackernews.com/2026/10/american-organizations-under-attack.html"/>
+        <updated>2026-10-28T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind.
+
+ANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israeli Ad Tech Firm Allegedly Targeted Starlink Users, Including In Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=408655</id>
+        <link href="https://www.lowyat.net/2026/408655/israeli-firm-allegedly-targeted-starlink-users/"/>
+        <updated>2026-10-28T10:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Discover-Tech, an Israeli advertising technology company is facing scrutiny over allegations that it used digital advertising systems to track and profile Starlink users around the world, including in Malaysia. According to a report by Reuters, cybersecurity researchers at TrendAI believe the firm was among the biggest buyers of digital advertisements shown to users of SpaceX’s […]
+The post Israeli Ad Tech Firm Allegedly Targeted Starlink Users, Including In Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaysian Customs Seize RM49.3 Million Worth Of AI Servers At KLIA Airport]]></title>
+        <id>https://www.lowyat.net/?p=408659</id>
+        <link href="https://www.lowyat.net/2026/408659/malaysia-customs-seize-ai-chips/"/>
+        <updated>2026-10-28T09:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Malaysian customs have foiled an attempt by specific parties attempting to smuggle advanced artificial intelligence (AI) chips through KLIA. The seized server chips are estimated to be worth around US$12.1 million (~RM49.3 million). Local authorities discovered 30 server units filled with advanced AI chips during an inspection at the KLIA free trade zone. Reuters does […]
+The post Malaysian Customs Seize RM49.3 Million Worth Of AI Servers At KLIA Airport appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Maxis, U Mobile Merger Talks Are Back On]]></title>
+        <id>https://www.lowyat.net/?p=408656</id>
+        <link href="https://www.lowyat.net/2026/408656/report-maxis-u-mobile-merger-talks-back/"/>
+        <updated>2026-10-28T09:41:30.000Z</updated>
+        <summary type="html"><![CDATA[You may recall that back in 2024, Bloomberg reported that there were talks of a buyout of local telco U Mobile by fellow telco Maxis. This comes following the merger of two other telcos to form CelcomDigi, currently the largest telco in Malaysia. The Edge reported back in February of this year that talks have […]
+The post Report: Maxis, U Mobile Merger Talks Are Back On appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA VI’s Massive 210GB Download Size Leaves Gamers Reeling]]></title>
+        <id>https://www.lowyat.net/?p=408649</id>
+        <link href="https://www.lowyat.net/2026/408649/gta-vi-210gb-download-size/"/>
+        <updated>2026-10-28T08:48:05.000Z</updated>
+        <summary type="html"><![CDATA[After several delays, Grand Theft Auto VI (GTA VI) is finally set to arrive on consoles in a couple of weeks. As the launch date draws ever closer, leaks have been cropping up left and right, with the latest one shedding some light on the game’s file size. If this leak proves accurate, it may […]
+The post GTA VI’s Massive 210GB Download Size Leaves Gamers Reeling appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple iPhone 18e May Feature A20 Chip, 24MP Selfie Camera, Says Leak]]></title>
+        <id>https://www.lowyat.net/?p=408645</id>
+        <link href="https://www.lowyat.net/2026/408645/apple-iphone-18e-a20-chip-24mp-leak/"/>
+        <updated>2026-10-28T08:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Apple has had a busy few weeks, with the company holding back-to-back launch events to unveil a range of devices. With more products reportedly in the pipeline, a new leak has now surfaced, offering details about the company’s upcoming devices. Interestingly, rather than hearing more about the vanilla iPhone 18, we now have alleged specifications […]
+The post Apple iPhone 18e May Feature A20 Chip, 24MP Selfie Camera, Says Leak appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits]]></title>
+        <id>https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html</id>
+        <link href="https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"/>
+        <updated>2026-10-28T08:15:07.000Z</updated>
+        <summary type="html"><![CDATA[An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.
+
+The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. One proof of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Term Review: Asus ProArt P16 RTX Spark – AI Agent-ing On Spark]]></title>
+        <id>https://www.lowyat.net/?p=408632</id>
+        <link href="https://www.lowyat.net/2026/408632/lt-review-asus-proart-p16-rtx-spark-ai/"/>
+        <updated>2026-10-28T07:50:55.000Z</updated>
+        <summary type="html"><![CDATA[In this next part of the long term review of the NVIDIA RTX Spark laptop, and namely the Asus ProArt P16 RTX Spark, I’m going to go be looking at the element that more or less defines the reason for its existence: Agentic AI. Given that I have already covered the internal specs and hardware […]
+The post Long Term Review: Asus ProArt P16 RTX Spark – AI Agent-ing On Spark appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering]]></title>
+        <id>https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html</id>
+        <link href="https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html"/>
+        <updated>2026-10-28T07:37:50.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.
+
+The move was in response to the service being used to commit and facilitate prolific criminal activity, including "the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach]]></title>
+        <id>https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html</id>
+        <link href="https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html"/>
+        <updated>2026-10-28T07:13:21.000Z</updated>
+        <summary type="html"><![CDATA[Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.
+
+The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service hosts Windows desktops used for FX trading,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers]]></title>
+        <id>https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html</id>
+        <link href="https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html"/>
+        <updated>2026-10-28T06:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch.
+
+The flaws are in how Tailscale SSH forwards network connections, a job the Tailscale background process carries out with root privileges. To use them, an attacker must]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws]]></title>
+        <id>https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html</id>
+        <link href="https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html"/>
+        <updated>2026-10-28T06:04:58.000Z</updated>
+        <summary type="html"><![CDATA[The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.
+
+Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature"/>
+        <updated>2026-10-28T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.]]></summary>
+        <author>
+            <name>Robert Lemos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges]]></title>
+        <id>https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html</id>
+        <link href="https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"/>
+        <updated>2026-10-28T05:42:26.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-111497 (CVSS score: 9.2) - An unchecked return value vulnerability in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMF Speaker S, M Now Available For Pre-Order In Malaysia; Priced From RM259]]></title>
+        <id>https://www.lowyat.net/?p=408627</id>
+        <link href="https://www.lowyat.net/2026/408627/cmf-speaker-s-m-available-pre-order/"/>
+        <updated>2026-10-28T05:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Just over two weeks after their unveiling, CMF has announced that its new Speaker S and Speaker M are now available for pre-order in Malaysia. They are priced at RM259 and RM459, respectively. For those unfamiliar with the brand, these are CMF’s first portable speakers. Both models sport the company’s signature bold colours and distinctive […]
+The post CMF Speaker S, M Now Available For Pre-Order In Malaysia; Priced From RM259 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Kiran Ganesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer Launches Reclusa Mini 65%; One Month After X Model]]></title>
+        <id>https://www.lowyat.net/?p=408610</id>
+        <link href="https://www.lowyat.net/2026/408610/razer-launches-reclusa-mini-65/"/>
+        <updated>2026-10-28T04:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Over a month after the unveiling of the Reclusa X Mini 65%, Razer finally showed off the base model of the keyboard. While it looks mostly like the same keyboard on the outside, the lack of the X makes it quite the different animal on the inside. With one simple change, it can do just […]
+The post Razer Launches Reclusa Mini 65%; One Month After X Model appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Cybercab Malaysia Roadshow To Hit Four Malls Across Selangor, Penang]]></title>
+        <id>https://www.lowyat.net/?p=408615</id>
+        <link href="https://www.lowyat.net/2026/408615/tesla-cybercab-malaysia-roadshow-to-hit-four-malls-across-selangor-penang/"/>
+        <updated>2026-10-28T04:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Heads up, fans of Elon Musk’s Tesla brand. The Tesla Cybercab is heading our way, and to commemorate its arrival, the vehicle will be going on tour. Specifically, the tour will be taking it to four malls in two states: Selangor and Penang. The two-seat robotaxi will first be on display at the Mid Valley […]
+The post Tesla Cybercab Malaysia Roadshow To Hit Four Malls Across Selangor, Penang appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaysians Can Now Make DuitNow QR Payments In Five Overseas Destinations]]></title>
+        <id>https://www.lowyat.net/?p=408603</id>
+        <link href="https://www.lowyat.net/2026/408603/duitnow-qr-payments-overseas/"/>
+        <updated>2026-10-28T03:45:48.000Z</updated>
+        <summary type="html"><![CDATA[Payments Network Malaysia (PayNet) is expanding its cross-border payment ecosystem by launching outbound DuitNow QR payment connectivity through Ant International’s Alipay+. This means that Malaysians travelling overseas can use their existing mobile banking apps to make QR payments at participating merchants. That is, provided they are in one of the following countries: China, Hong Kong […]
+The post Malaysians Can Now Make DuitNow QR Payments In Five Overseas Destinations appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability]]></title>
+        <id>https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability</id>
+        <link href="https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability"/>
+        <updated>2026-10-27T21:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.]]></summary>
+        <author>
+            <name>Becky Bracken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[External Teams Chats Anchor 15-Minute Malware Delivery]]></title>
+        <id>https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path</id>
+        <link href="https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path"/>
+        <updated>2026-10-27T20:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack]]></title>
+        <id>https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack</id>
+        <link href="https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack"/>
+        <updated>2026-10-27T19:58:06.000Z</updated>
+        <summary type="html"><![CDATA[A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.]]></summary>
+        <author>
+            <name>Jai Vijayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets]]></title>
+        <id>https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html</id>
+        <link href="https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html"/>
+        <updated>2026-10-27T18:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.
+
+TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills"/>
+        <updated>2026-10-27T17:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants]]></title>
+        <id>https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants</id>
+        <link href="https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants"/>
+        <updated>2026-10-27T16:47:20.000Z</updated>
+        <summary type="html"><![CDATA[The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Launches New iMac With M6 Chip In Malaysia]]></title>
         <id>https://www.lowyat.net/?p=408555</id>
@@ -15,6 +345,32 @@
 The post Apple Launches New iMac With M6 Chip In Malaysia appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption]]></title>
+        <id>https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html</id>
+        <link href="https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html"/>
+        <updated>2026-10-27T13:59:48.000Z</updated>
+        <summary type="html"><![CDATA[The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.
+
+The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads]]></title>
+        <id>https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html</id>
+        <link href="https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html"/>
+        <updated>2026-10-27T13:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.
+
+The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file.
+
+Patches for the flaw were released last month by Apple in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -3357,320 +3713,6 @@ The post Apple Home Collection Debuts With LG and Schneider Electric Collaborati
 The post Google Pixel Watch 5 (41mm) Review: Solid Functions, Steep Price appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room]]></title>
-        <id>https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html</id>
-        <link href="https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html"/>
-        <updated>2026-10-14T01:59:25.000Z</updated>
-        <summary type="html"><![CDATA[A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.
-
-Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday"/>
-        <updated>2026-10-13T22:29:57.000Z</updated>
-        <summary type="html"><![CDATA[The scary surprises in the largest security update ever include security bypasses and unauthenticated RCEs.]]></summary>
-        <author>
-            <name>Tara Seals</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korea Phishes Ukrainians for War Intel]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel"/>
-        <updated>2026-10-13T21:24:45.000Z</updated>
-        <summary type="html"><![CDATA[The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Finds Ingredients for Future AI Worms]]></title>
-        <id>https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms</id>
-        <link href="https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms"/>
-        <updated>2026-10-13T20:35:23.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be "challenging" to shut down.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets]]></title>
-        <id>https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html</id>
-        <link href="https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"/>
-        <updated>2026-10-13T18:20:57.000Z</updated>
-        <summary type="html"><![CDATA[Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.
-
-The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are "challenging to shut down," since "there's no centralized point to shut off."]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another]]></title>
-        <id>https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html</id>
-        <link href="https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html"/>
-        <updated>2026-10-13T18:03:18.000Z</updated>
-        <summary type="html"><![CDATA[A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it.
-
-The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far]]></title>
-        <id>https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html</id>
-        <link href="https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html"/>
-        <updated>2026-10-13T17:33:11.000Z</updated>
-        <summary type="html"><![CDATA[An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to "act immediately." A fix for the third is still pending, according to Volexity.
-
-Volexity, which reported the flaws to Ivanti,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft]]></title>
-        <id>https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html</id>
-        <link href="https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html"/>
-        <updated>2026-10-13T17:28:50.000Z</updated>
-        <summary type="html"><![CDATA[A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking]]></title>
-        <id>https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html</id>
-        <link href="https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html"/>
-        <updated>2026-10-13T16:18:18.000Z</updated>
-        <summary type="html"><![CDATA[GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials.
-
-"Your configuration becomes validated and exempt from expiry after its first successful publish," the Microsoft-owned subsidiary]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation]]></title>
-        <id>https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html</id>
-        <link href="https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html"/>
-        <updated>2026-10-13T13:12:32.000Z</updated>
-        <summary type="html"><![CDATA[The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers.
-
-The administrative penalty is the largest issued by the data protection watchdog, arguing the case merited a high fine because of the "very serious" nature of the breach. The infringements]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Announces Ray-Ban, Oakley Smart Glasses For Malaysian Market]]></title>
-        <id>https://www.lowyat.net/?p=407177</id>
-        <link href="https://www.lowyat.net/2026/407177/meta-announces-ray-ban-oakley-malaysia/"/>
-        <updated>2026-10-13T12:41:34.000Z</updated>
-        <summary type="html"><![CDATA[After years of waiting, Meta has finally announced that it will be bringing AI glasses to the Malaysian market. If you’ve kept up with the news surrounding the social media giant, then you’d know that that brand partnered up with EssilorLuxottica to bring the technology to life. Through this partnership, the technology is fitted into […]
-The post Meta Announces Ray-Ban, Oakley Smart Glasses For Malaysian Market appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls]]></title>
-        <id>https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html</id>
-        <link href="https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html"/>
-        <updated>2026-10-13T11:57:06.000Z</updated>
-        <summary type="html"><![CDATA[The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.
-
-With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A compromised account that looks legitimate at first could become the starting point for a much]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network]]></title>
-        <id>https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html</id>
-        <link href="https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html"/>
-        <updated>2026-10-13T11:09:10.000Z</updated>
-        <summary type="html"><![CDATA[Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.
-
-LG has issued a fix, according to an advisory published by SSD Secure Disclosure on October 12.
-
-The chain was tested on two TV models, the 32LQ636BPSA and the 27TQ600SW, running webOS 7.5.7-25 on firmware]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Walkthrough: Bitdefender AI Visibility and Control]]></title>
-        <id>https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html</id>
-        <link href="https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html"/>
-        <updated>2026-10-13T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.
-
-A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list.
-
-Someone downloads a local model runtime, a program that runs models directly on the machine instead of sending data to an external service, because they were told not to send company data]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA RTX 5080 24GB Now Has An Alleged Q1 2027 Launch Window]]></title>
-        <id>https://www.lowyat.net/?p=407164</id>
-        <link href="https://www.lowyat.net/2026/407164/nvidia-rtx-5080-24gb-now-has-an-alleged-q1-2027-launch-window/"/>
-        <updated>2026-10-13T08:52:19.000Z</updated>
-        <summary type="html"><![CDATA[Just a day ago, we reported on a rumour that NVIDIA could end production of the RTX 5090 and redirect the silicon towards its RTX Pro Series, as well as the manufacturing of a new RTX 5080 with 24GB GDDR7 memory. Now, adding on to that rumour is an alleged launch window for the latter. […]
-The post NVIDIA RTX 5080 24GB Now Has An Alleged Q1 2027 Launch Window appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers]]></title>
-        <id>https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html</id>
-        <link href="https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html"/>
-        <updated>2026-10-13T08:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.
-
-The attackers reached them through the controller that runs all of a store's fridges and freezers, a device made by Danish company Danfoss that maintenance firms can manage remotely. Les Mousquetaires]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control]]></title>
-        <id>https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html</id>
-        <link href="https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html"/>
-        <updated>2026-10-13T08:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says.
-
-Progress published all 31 on October 12 and scored five of them critical. Fixes have been available since September 10, in MarkLogic 11.3.7 and MarkLogic 12.1.0.
-
-Affected]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code]]></title>
-        <id>https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html</id>
-        <link href="https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html"/>
-        <updated>2026-10-13T08:43:37.000Z</updated>
-        <summary type="html"><![CDATA[GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.
-
-"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR 600S Now Official In Malaysia With 8,100mAh Battery, 50MP Camera]]></title>
-        <id>https://www.lowyat.net/?p=407166</id>
-        <link href="https://www.lowyat.net/2026/407166/honor-600s-now-official-in-malaysia/"/>
-        <updated>2026-10-13T08:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Back in August, we reported that HONOR introduced a new smartphone called the HONOR 600S in select international markets. Now, a few months after its debut, the company has officially announced that the phone is available in Malaysia. While the international launches left nothing to the imagination, it’s still nice to receive an official confirmation. […]
-The post HONOR 600S Now Official In Malaysia With 8,100mAh Battery, 50MP Camera appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEXAL Pad, NEXAL Earbuds Officially Launch In Malaysia; Priced From RM199]]></title>
-        <id>https://www.lowyat.net/?p=407150</id>
-        <link href="https://www.lowyat.net/2026/407150/nexal-pad-nexal-earbuds-malaysia/"/>
-        <updated>2026-10-13T07:45:02.000Z</updated>
-        <summary type="html"><![CDATA[NEXAL is a newcomer in the tech space, having made its global debut earlier this year. The brand also released its smartwatch lineup on our shores. Now, the company is marking its official arrival in Malaysia with the launch of the NEXAL Pad and the NEXAL Earbuds. Much like the previously announced wearables, the names […]
-The post NEXAL Pad, NEXAL Earbuds Officially Launch In Malaysia; Priced From RM199 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing OS 5.0 Officially Rolls Out To Phone (3) With New Designs, AI Features, And More]]></title>
-        <id>https://www.lowyat.net/?p=407126</id>
-        <link href="https://www.lowyat.net/2026/407126/nothing-os-5-0-rolls-out-to-phone-3/"/>
-        <updated>2026-10-13T07:22:48.000Z</updated>
-        <summary type="html"><![CDATA[Following its open beta launch in August, Nothing has started rolling out its Nothing OS 5.0, which is based on Android 17. The update will initially be available for the Phone (3), the company’s current flagship, before rolling out to more Nothing and CMF smartphones over the coming months. According to the brand, the OS […]
-The post Nothing OS 5.0 Officially Rolls Out To Phone (3) With New Designs, AI Features, And More appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies]]></title>
-        <id>https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html</id>
-        <link href="https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html"/>
-        <updated>2026-10-13T06:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies.
-
-The activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa.
-
-The preinstalled]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart #2 Makes Official Global Debut]]></title>
-        <id>https://www.lowyat.net/?p=407127</id>
-        <link href="https://www.lowyat.net/2026/407127/smart-2-makes-official-global-debut/"/>
-        <updated>2026-10-13T05:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Smart has officially unveiled the all-electric Smart #2 at the 2026 Paris Motor Show, essentially bringing its iconic, compact two-seater back as an EV. The new model retains the original Smart Fortwo’s small footprint while introducing a dedicated electric platform, updated cabin technology and a range of driver assistance features. As you may recall, the […]
-The post Smart #2 Makes Official Global Debut appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Will Scale Azure Maia System To Multi-Gigawatt Deployments In 2027]]></title>
-        <id>https://www.lowyat.net/?p=407125</id>
-        <link href="https://www.lowyat.net/2026/407125/microsoft-azure-maia-deployment-2027/"/>
-        <updated>2026-10-13T05:53:45.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has announced that come next calendar year, it plans on rolling out Azure Maia, its scalable AI infrastructure across multi-gigawatt deployments. This move means that Microsoft will effectively be taking on NVIDIA in the space of AI infrastructure. “Today we are announcing our biggest bet yet on our own silicon. Starting next calendar year, […]
-The post Microsoft Will Scale Azure Maia System To Multi-Gigawatt Deployments In 2027 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TQ Wuling Porta EV Now Officially Available For Booking In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=407112</id>
-        <link href="https://www.lowyat.net/2026/407112/tq-wuling-porta-ev-now-officially-available-for-booking-in-malaysia/"/>
-        <updated>2026-10-13T04:58:20.000Z</updated>
-        <summary type="html"><![CDATA[TQ Wuling officially launched its Porta EV van in Malaysia today. The EV is a full electric panel van that is designed for multi-purpose functions, for businesses looking for practical, cost efficient, daily transportation. Specs-wise, the Porta EV is CLTC-rated in two ranges: 300km and 400km. The powertrain is powered by a 75kW silicon-carbide (SiC) […]
-The post TQ Wuling Porta EV Now Officially Available For Booking In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Series 12 Review: Small Steps To Better Battery Life]]></title>
-        <id>https://www.lowyat.net/?p=407075</id>
-        <link href="https://www.lowyat.net/2026/407075/apple-watch-series-12-review/"/>
-        <updated>2026-10-13T03:52:20.000Z</updated>
-        <summary type="html"><![CDATA[Apple unveiled the Watch Series 12 alongside the Watch Ultra 4 last September, bringing a new chipset, upgraded health sensors, and improved battery life to its smartwatch lineup. While it doesn’t stray far from the design of its predecessors, there are a few changes worth looking at. I’ve been using the 42mm version for a […]
-The post Apple Watch Series 12 Review: Small Steps To Better Battery Life appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Fitbit Edge Officially Debuts With 1.34-Inch Display, Seven-Day Battery Life]]></title>
-        <id>https://www.lowyat.net/?p=407073</id>
-        <link href="https://www.lowyat.net/2026/407073/google-fitbit-edge-official-launch/"/>
-        <updated>2026-10-13T03:26:17.000Z</updated>
-        <summary type="html"><![CDATA[After some teasing and a fairly considerable amount of leaks, Google’s newest fitness tracker has officially launched. And just as previous reveals have shown, the Fitbit Edge features an oval-shaped display, setting it apart from the screenless Fitbit Air. It’s also being positioned as the middle ground between the simple smartband and the feature-rich Pixel […]
-The post Google Fitbit Edge Officially Debuts With 1.34-Inch Display, Seven-Day Battery Life appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
         </author>
     </entry>
     <entry>
