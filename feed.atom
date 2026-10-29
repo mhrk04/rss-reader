@@ -2,10 +2,346 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-10-28T15:00:38.528Z</updated>
+    <updated>2026-10-29T15:08:15.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html</id>
+        <link href="https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html"/>
+        <updated>2026-10-29T13:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities.
+
+"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: How to Build AI Threat Readiness Into Your Security Operations]]></title>
+        <id>https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html</id>
+        <link href="https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"/>
+        <updated>2026-10-29T11:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.
+
+Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle.
+
+The challenge is no longer just finding another vulnerability or]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls]]></title>
+        <id>https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html</id>
+        <link href="https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"/>
+        <updated>2026-10-29T11:39:18.000Z</updated>
+        <summary type="html"><![CDATA[A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.
+
+The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disclosed it on October 29.
+
+The flaw can be triggered in every version from]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers]]></title>
+        <id>https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html</id>
+        <link href="https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html"/>
+        <updated>2026-10-29T11:33:41.000Z</updated>
+        <summary type="html"><![CDATA[AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mature, security operations centers (SOCs) will see major changes in how work is organized, how]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories]]></title>
+        <id>https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html</id>
+        <link href="https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html"/>
+        <updated>2026-10-29T11:33:15.000Z</updated>
+        <summary type="html"><![CDATA[26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.
+
+Independent researcher Ben Zimmermann found them by scanning 7.25 million public Gitee repositories and reported the results on October 28. Most were keys for cloud and AI services, led by]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls]]></title>
+        <id>https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html</id>
+        <link href="https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html"/>
+        <updated>2026-10-29T10:44:46.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild.
+
+The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Launches npm Firewall to Block Malicious Packages Before Installation]]></title>
+        <id>https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html</id>
+        <link href="https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html"/>
+        <updated>2026-10-29T10:26:33.000Z</updated>
+        <summary type="html"><![CDATA[GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time.
+
+"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate," GitHub said.
+
+The feature, which currently supports only npm packages, is available in public preview]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes</id>
+        <link href="https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes"/>
+        <updated>2026-10-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.]]></summary>
+        <author>
+            <name>Rob Wright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Announces Prism Collection DualSense Controllers]]></title>
+        <id>https://www.lowyat.net/?p=408778</id>
+        <link href="https://www.lowyat.net/2026/408778/playstation-prism-collection-dualsense/"/>
+        <updated>2026-10-29T09:51:13.000Z</updated>
+        <summary type="html"><![CDATA[At this point, the DualSense is likely the controller with the most colour variants of all the PlayStation controllers. The Sony videogames division recently announced another set of new colours in what is called the Prism Collection. These are considered special colourways, which means that they cost more than the average colour variant. Despite the […]
+The post PlayStation Announces Prism Collection DualSense Controllers appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Buds On Earclips To Launch Globally In November; Gets a US$229 Price Tag]]></title>
+        <id>https://www.lowyat.net/?p=408779</id>
+        <link href="https://www.lowyat.net/2026/408779/samsung-galaxy-buds-on-earclips-to-launch-globally-in-november-gets-a-us229-price-tag/"/>
+        <updated>2026-10-29T09:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Earlier in the month, we reported on the Galaxy Buds On, Samsung’s first pair of clip-on wireless earclips for the series in a while. The earclips first launched in the company’s home country of South Korea, with a global rollout to be announced later. As of yesterday, reports now indicate that the Buds On will […]
+The post Samsung Galaxy Buds On Earclips To Launch Globally In November; Gets a US$229 Price Tag appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open]]></title>
+        <id>https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html</id>
+        <link href="https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html"/>
+        <updated>2026-10-29T09:05:39.000Z</updated>
+        <summary type="html"><![CDATA[An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October.
+
+The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel 11 Pro Review: Absentee Agent]]></title>
+        <id>https://www.lowyat.net/?p=408658</id>
+        <link href="https://www.lowyat.net/2026/408658/google-pixel-11-pro-review/"/>
+        <updated>2026-10-29T08:34:00.000Z</updated>
+        <summary type="html"><![CDATA[In an age where the consumer tech industry is wholly committed to AI, it’s completely safe to expect that Google, one of THE AI companies right now, is pushing that element as the killer feature with the new Pixel 11 Pro. Sure enough, the phone’s launch has come and gone, and having spent time with […]
+The post Google Pixel 11 Pro Review: Absentee Agent appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys]]></title>
+        <id>https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html</id>
+        <link href="https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html"/>
+        <updated>2026-10-29T08:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.
+
+The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talos said on October 28. Talos calls the attacks historical but does not specify when they]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei Pura 90 Plus Goes Official In China With New Kirin 9025 Chip, 5,700mAh Battery]]></title>
+        <id>https://www.lowyat.net/?p=408739</id>
+        <link href="https://www.lowyat.net/2026/408739/huawei-pura-90-plus-china/"/>
+        <updated>2026-10-29T08:20:26.000Z</updated>
+        <summary type="html"><![CDATA[The Huawei Pura 90 series launched in China within the first half of this year with a base model and two Pro variants. Now, the phone maker has unveiled a new addition to the lineup. The Pura 90 Plus sits between the vanilla version and its Pro sibling, offering familiar features and a distinct look. […]
+The post Huawei Pura 90 Plus Goes Official In China With New Kirin 9025 Chip, 5,700mAh Battery appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Vulnerabilities Besiege Italy, Absent Clear Cause]]></title>
+        <id>https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy</id>
+        <link href="https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy"/>
+        <updated>2026-10-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acer, Asus, And HP Reportedly Shifted Some Manufacturing Back To China Because Of AI]]></title>
+        <id>https://www.lowyat.net/?p=408732</id>
+        <link href="https://www.lowyat.net/2026/408732/acer-asus-and-hp-china-ai/"/>
+        <updated>2026-10-29T07:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Major tech brand Acer, Asus, and HP have reportedly shifted some of their manufacturing capacity back into China, primarily due to rising components costs, due to AI. That rising cost has also eaten into their margins. In a report by Nikkei, the increasing AI-related costs have left these companies with little recourse, forcing them to […]
+The post Acer, Asus, And HP Reportedly Shifted Some Manufacturing Back To China Because Of AI appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Cybercab Preview: The Future Is Temporarily Here]]></title>
+        <id>https://www.lowyat.net/?p=408704</id>
+        <link href="https://www.lowyat.net/2026/408704/tesla-cybercab-preview/"/>
+        <updated>2026-10-29T07:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Two years after Tesla first announced its Cybercab, the electric car company is finally bringing it to our shores. Only temporarily, though, much like the Cybertruck when it was doing its rounds in Malaysia. That said, the robotaxi is here as part of a wider Asia tour, with today being the start of the first […]
+The post Tesla Cybercab Preview: The Future Is Temporarily Here appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility]]></title>
+        <id>https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html</id>
+        <link href="https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"/>
+        <updated>2026-10-29T06:22:33.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S. legal sector.
+
+The vulnerability in question is CVE-2026-41709 (CVSS score:]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces]]></title>
+        <id>https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html</id>
+        <link href="https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html"/>
+        <updated>2026-10-29T05:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.
+
+"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet," the network security company said in an update to its advisory.
+
+The vulnerabilities, tracked as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake PS5 Emulators On GitHub Could Hide Password-Stealing Malware]]></title>
+        <id>https://www.lowyat.net/?p=408708</id>
+        <link href="https://www.lowyat.net/2026/408708/fake-ps5-emulators-github-malware/"/>
+        <updated>2026-10-29T05:42:38.000Z</updated>
+        <summary type="html"><![CDATA[For years, emulation has served as a way for players, particularly PC gamers, to access games that are not offered on their platform of choice. But the practice doesn’t come without risks. According to Engadget, malware has been found masquerading as PlayStation 5 (PS5) emulators on GitHub. Citing work by NordVPN’s Threat Intelligence research team, […]
+The post Fake PS5 Emulators On GitHub Could Hide Password-Stealing Malware appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tencent Cloud Pledges More Investment In Malaysia Over Next Three Years]]></title>
+        <id>https://www.lowyat.net/?p=408705</id>
+        <link href="https://www.lowyat.net/2026/408705/tencent-cloud-investment-malaysia/"/>
+        <updated>2026-10-29T05:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Tencent‘s cloud computing service, Tencent Cloud, has pledged to continue investing in Malaysia over the next three years, although it has not disclosed how much it plans to spend. The company’s general manager for Tencent Cloud International and Tencent Cloud Malaysia, Nucky Fang, said the investments will build on its existing local cloud infrastructure, with […]
+The post Tencent Cloud Pledges More Investment In Malaysia Over Next Three Years appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modder Unlocks AI Tensor Core Limits On Older NVIDIA RTX 20, 30, And 40 Series GPUs]]></title>
+        <id>https://www.lowyat.net/?p=408701</id>
+        <link href="https://www.lowyat.net/2026/408701/modder-unlocks-ai-tensor-core-limits-on-older-nvidia-rtx-20-30-and-40-series-gpus/"/>
+        <updated>2026-10-29T03:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Modders have figured out a way to unlock the Tensor Core compute limits on older NVIDIA RTX 20, 30, and 40 Series graphics cards. With the limiters removed, they say that the cards will be able to run FP16, BG16, and TF32 math with FP32 accumulation at full speed. One modder, who posted the mod […]
+The post Modder Unlocks AI Tensor Core Limits On Older NVIDIA RTX 20, 30, And 40 Series GPUs appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio-Technica Officially Unveils ATH-M50xSTS-WL StreamSet Wireless Headset]]></title>
+        <id>https://www.lowyat.net/?p=408692</id>
+        <link href="https://www.lowyat.net/2026/408692/audio-technica-ath-m50xsts-wl-streamset/"/>
+        <updated>2026-10-29T02:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Audio-Technica has launched the ATH-M50xSTS-WL StreamSet. It serves as the first wireless headset in the brand’s StreamSet lineup, offering streamers and content creators the freedom of a cable-free setup. Like its wired counterpart, the new audio device combines the features of the M50x monitoring headphones with the 20 Series microphones. In terms of design, the […]
+The post Audio-Technica Officially Unveils ATH-M50xSTS-WL StreamSet Wireless Headset appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub]]></title>
+        <id>https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github</id>
+        <link href="https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github"/>
+        <updated>2026-10-28T19:39:00.000Z</updated>
+        <summary type="html"><![CDATA[The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns]]></title>
+        <id>https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html</id>
+        <link href="https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html"/>
+        <updated>2026-10-28T18:08:33.000Z</updated>
+        <summary type="html"><![CDATA[The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access.
+
+"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and enterprise infrastructure," Lumen Technologies Black Lotus Labs said in a report shared]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.]]></title>
+        <id>https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html</id>
+        <link href="https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html"/>
+        <updated>2026-10-28T17:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.
+
+To qualify, a store must pass identity checks and send Google its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win]]></title>
+        <id>https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html</id>
+        <link href="https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html"/>
+        <updated>2026-10-28T16:23:34.000Z</updated>
+        <summary type="html"><![CDATA[A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.
+
+Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the Pwn2Own Berlin contest in May. Microsoft fixed the Edge bugs the day after the contest,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network]]></title>
+        <id>https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html</id>
+        <link href="https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html"/>
+        <updated>2026-10-28T16:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems.
+
+The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Takes Root in Hospital Corridors, Raises Security Stakes]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes"/>
+        <updated>2026-10-28T15:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.]]></summary>
+        <author>
+            <name>Arielle Waldman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Attacker Relentlessly Scans for Credentials by Impersonating AI Bots]]></title>
         <id>https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials</id>
@@ -3390,329 +3726,6 @@ The post Google To Expand Android Scam Detection To More Devices appeared first 
 The post 27 Data Centre Projects Worth RM225.97 Billion Approved In Malaysia appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching"/>
-        <updated>2026-10-14T21:20:13.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.]]></summary>
-        <author>
-            <name>Rob Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yam Store: The Phishing Network Behind a Billion Messages]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages"/>
-        <updated>2026-10-14T20:57:16.000Z</updated>
-        <summary type="html"><![CDATA[A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat</id>
-        <link href="https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat"/>
-        <updated>2026-10-14T20:09:42.000Z</updated>
-        <summary type="html"><![CDATA[A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.]]></summary>
-        <author>
-            <name>Becky Bracken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability]]></title>
-        <id>https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html</id>
-        <link href="https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html"/>
-        <updated>2026-10-14T18:38:56.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday.
-
-The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization's email for spam, malware,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App]]></title>
-        <id>https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html</id>
-        <link href="https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html"/>
-        <updated>2026-10-14T17:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10.
-
-A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages]]></title>
-        <id>https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html</id>
-        <link href="https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html"/>
-        <updated>2026-10-14T17:09:15.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System.
-
-"Since January 2026, the threat actors behind these kits have been responsible for]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud]]></title>
-        <id>https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html</id>
-        <link href="https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html"/>
-        <updated>2026-10-14T16:34:31.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.
-
-The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker conspiracy affecting more than 70 U.S. companies, charging them with wire fraud]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Influence Operation Widely Targeting Latin America]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america"/>
-        <updated>2026-10-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts]]></title>
-        <id>https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html</id>
-        <link href="https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html"/>
-        <updated>2026-10-14T12:30:42.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability.
-
-The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution]]></title>
-        <id>https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html</id>
-        <link href="https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html"/>
-        <updated>2026-10-14T12:13:36.000Z</updated>
-        <summary type="html"><![CDATA[A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine.
-
-The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team]]></title>
-        <id>https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html</id>
-        <link href="https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html"/>
-        <updated>2026-10-14T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake.
-
-The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days]]></title>
-        <id>https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html</id>
-        <link href="https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html"/>
-        <updated>2026-10-14T11:19:02.000Z</updated>
-        <summary type="html"><![CDATA[A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.
-
-Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks]]></title>
-        <id>https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html</id>
-        <link href="https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html"/>
-        <updated>2026-10-14T11:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. 
-
-Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.]]></title>
-        <id>https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html</id>
-        <link href="https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html"/>
-        <updated>2026-10-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.
-
-TL;DR
-
-
-  During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own.
-  One login request let the user choose where the one-time passcode went.
-  The attack was the easy part. Proving it]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Govt Proposes Licensing Regime For E-Commerce Platforms Under New Bill]]></title>
-        <id>https://www.lowyat.net/?p=407349</id>
-        <link href="https://www.lowyat.net/2026/407349/govt-licensing-regime-e-commerce/"/>
-        <updated>2026-10-14T10:31:37.000Z</updated>
-        <summary type="html"><![CDATA[The government is proposing to introduce a licensing regime for e-commerce platforms operating in Malaysia, including those based overseas that offer services to local consumers. The proposal is part of the upcoming E-Commerce Bill, which aims to strengthen oversight of online marketplaces, protect consumers, and ensure fairer competition for local businesses. The move follows the […]
-The post Govt Proposes Licensing Regime For E-Commerce Platforms Under New Bill appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Warns Of Self-Replicating AI Worms Targeting Smart Devices]]></title>
-        <id>https://www.lowyat.net/?p=407342</id>
-        <link href="https://www.lowyat.net/2026/407342/anthropic-ai-worms-smart-devices/"/>
-        <updated>2026-10-14T09:54:08.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic has been among the more prominent parties warning the public about the dangers of AI, which shouldn’t come as much of a surprise, considering its own track record with misbehaving models. You’ve probably heard the story before: rogue agents escape containment to hack websites and corporate systems. But Anthropic’s latest research describes a different […]
-The post Anthropic Warns Of Self-Replicating AI Worms Targeting Smart Devices appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SALAM Submarine Cable Project Expected To Begin In Q1 2027]]></title>
-        <id>https://www.lowyat.net/?p=407337</id>
-        <link href="https://www.lowyat.net/2026/407337/salam-submarine-cable-begin-in-q1-2027/"/>
-        <updated>2026-10-14T08:51:48.000Z</updated>
-        <summary type="html"><![CDATA[During the tabling of Budget 2026 on October 10, 2025, Prime Minister Datuk Seri Anwar Ibrahim announced plans for the Madani Submarine Cable (SALAM) project, a submarine cable system aimed at strengthening connectivity between Peninsular Malaysia, Sabah, and Sarawak. A year after the project was first announced, it is now expected to begin in the […]
-The post SALAM Submarine Cable Project Expected To Begin In Q1 2027 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host]]></title>
-        <id>https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html</id>
-        <link href="https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html"/>
-        <updated>2026-10-14T07:46:57.000Z</updated>
-        <summary type="html"><![CDATA[A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine.
-
-The bug is tracked as CVE-2026-74580 and named Vghost. Tencent Zhuque Lab, which found the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 400 Scientists Call For International Oversight Of Cyber-Capable AI]]></title>
-        <id>https://www.lowyat.net/?p=407331</id>
-        <link href="https://www.lowyat.net/2026/407331/over-400-scientists-ai-open-letter/"/>
-        <updated>2026-10-14T06:00:37.000Z</updated>
-        <summary type="html"><![CDATA[More than 400 scientists from 34 countries have called for an international body to oversee the containment and security of advanced artificial intelligence (AI) systems capable of conducting cyberattacks. The signatories include AI pioneers Geoffrey Hinton, a Nobel Prize winner, and Yoshua Bengio, a recipient of the Turing Award. In a recently published open letter, […]
-The post Over 400 Scientists Call For International Oversight Of Cyber-Capable AI appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave]]></title>
-        <id>https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html</id>
-        <link href="https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html"/>
-        <updated>2026-10-14T05:52:28.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.
-
-The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature.
-
-The work was done in a lab as a proof of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Introduces Faster DLSS Frame Generation Performance Mode On RTX 50 And 40 Series]]></title>
-        <id>https://www.lowyat.net/?p=407327</id>
-        <link href="https://www.lowyat.net/2026/407327/nvidia-faster-dlss-performance-mode/"/>
-        <updated>2026-10-14T05:31:56.000Z</updated>
-        <summary type="html"><![CDATA[It’s a whirlwind week for NVIDIA in the consumer graphics space, with one of the new updates being a new, faster Performance Mode for Frame Generation. The update will be applicable to GeForce RTX 40 Series, RTX 50 Series, and RTX Spark laptops. Preset C The new Frame Generation Performance Mode is called “Preset C”, […]
-The post NVIDIA Introduces Faster DLSS Frame Generation Performance Mode On RTX 50 And 40 Series appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Special Edition Pokemon Beats Pill To Launch 15 October 2026]]></title>
-        <id>https://www.lowyat.net/?p=407317</id>
-        <link href="https://www.lowyat.net/2026/407317/special-edition-pokemon-beats-pill/"/>
-        <updated>2026-10-14T05:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Apple’s audio-focused sub-brand Beats has partnered with The Pokemon Company to launch a special edition of the Beats Pill wireless Bluetooth speaker. Set to release in select regions very soon, the Pokemon Beats Pill is based on two of the franchise’s popular Pokemon: Mimikyu and the series’ poster child, Pikachu. The portable speaker sports a […]
-The post Special Edition Pokemon Beats Pill To Launch 15 October 2026 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Gangs Embrace Physical Threats, Family Stalking?]]></title>
-        <id>https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking</id>
-        <link href="https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking"/>
-        <updated>2026-10-14T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCMC To Test Cell Broadcast Disaster Alert System On 19 November]]></title>
-        <id>https://www.lowyat.net/?p=407315</id>
-        <link href="https://www.lowyat.net/2026/407315/mcmc-cbs-alert-system-test-19-nov-2026/"/>
-        <updated>2026-10-14T04:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Malaysia is preparing to test a new smartphone-based disaster alert system next month. According to recent reports, the Malaysian Communications and Multimedia Commission (MCMC) is now in the final phase of developing the Cell Broadcast System (CBS), with a live test scheduled for 19 November 2026. The upcoming exercise will test the system’s ability to […]
-The post MCMC To Test Cell Broadcast Disaster Alert System On 19 November appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug]]></title>
-        <id>https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html</id>
-        <link href="https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html"/>
-        <updated>2026-10-14T04:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.
-
-These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA VI Reportedly Launching On PC In Early 2027]]></title>
-        <id>https://www.lowyat.net/?p=407313</id>
-        <link href="https://www.lowyat.net/2026/407313/gta-vi-reportedly-launch-pc-early-2027/"/>
-        <updated>2026-10-14T04:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Despite the various leaks surrounding Grand Theft Auto VI (GTA VI), many are still excited to play Rockstar Games’ upcoming title. While the game is scheduled to launch on consoles next month, Rockstar has yet to announce a PC release date. However, a new report suggests that the PC version could arrive as early as […]
-The post GTA VI Reportedly Launching On PC In Early 2027 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Kiran Ganesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Home Collection Debuts With LG and Schneider Electric Collaboration]]></title>
-        <id>https://www.lowyat.net/?p=407241</id>
-        <link href="https://www.lowyat.net/2026/407241/apple-home-collection-lg-schneider/"/>
-        <updated>2026-10-14T04:15:31.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the reveal of the HomeView, Apple has also announced a whole Home Collection of smart home accessories. This includes cameras, thermostats, and a smart lock, which was previously revealed to be made in collaboration with LG. With the official announcement, though, the bitten fruit brand revealed that there is at least one […]
-The post Apple Home Collection Debuts With LG and Schneider Electric Collaboration appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel Watch 5 (41mm) Review: Solid Functions, Steep Price]]></title>
-        <id>https://www.lowyat.net/?p=407283</id>
-        <link href="https://www.lowyat.net/2026/407283/google-pixel-watch-5-41mm-review/"/>
-        <updated>2026-10-14T03:34:24.000Z</updated>
-        <summary type="html"><![CDATA[The Google Pixel Watch 5 is the search engine’s latest smartwatch and successor to last year’s Watch 4 and, honestly speaking, you wouldn’t think of it as anything more than a year-on-year upgrade. Having said that, its time as my daily driver made me yearn for it long after I had to return it. What […]
-The post Google Pixel Watch 5 (41mm) Review: Solid Functions, Steep Price appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
         </author>
     </entry>
     <entry>
