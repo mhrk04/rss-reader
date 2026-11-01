@@ -19294,6 +19294,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate.\n\nOnce in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is",
+          "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+          "publishedOn": "2026-11-01T08:51:31.000Z",
+          "wordCount": null,
+          "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Vibbj3miGalyf0avn_Z2WlLhFh5cC5ImXGFlOL0cisgxikHCcLzHjOVM3qO5B47V3uw62rWH6m6fP1svsH3TCG6i9sS19BIXn1CsDjKK3gnG6VQxkFwghemdeBlV4_AM5Ah-_TJ3T_5Gv-D5Pygrm-B5yzQnDqvIXmI2FyAeuzk57_l6esdhNrTMBj0/s1600/linux-vm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Vibbj3miGalyf0avn_Z2WlLhFh5cC5ImXGFlOL0cisgxikHCcLzHjOVM3qO5B47V3uw62rWH6m6fP1svsH3TCG6i9sS19BIXn1CsDjKK3gnG6VQxkFwghemdeBlV4_AM5Ah-_TJ3T_5Gv-D5Pygrm-B5yzQnDqvIXmI2FyAeuzk57_l6esdhNrTMBj0/s1600/linux-vm.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company.\n\nPolymarket says it is refunding about $2.7 million to 726 affected wallets. Blockchain records show crypto worth about $2.64 million reached",
+          "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+          "publishedOn": "2026-11-01T07:25:40.000Z",
+          "wordCount": null,
+          "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0B28qLAtUMfqN29_phxZJVJORICkj_98MZFwDiXAxFTABw8G9qbsVyD98pg7T_Rvgv83NXyR5tNGYH4dRwlxs3QFTUZxDPHQs2BgFsnmGcOuVW1HkFVCfiCR3Y05kPQrfFx4S7A8DiFXXAAgdc5SiEKx0-0xrW5rNlNSyN3jZJcyXasdpCr5AG7KM3s/s1600/Polymarket.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0B28qLAtUMfqN29_phxZJVJORICkj_98MZFwDiXAxFTABw8G9qbsVyD98pg7T_Rvgv83NXyR5tNGYH4dRwlxs3QFTUZxDPHQs2BgFsnmGcOuVW1HkFVCfiCR3Y05kPQrfFx4S7A8DiFXXAAgdc5SiEKx0-0xrW5rNlNSyN3jZJcyXasdpCr5AG7KM3s/s1600/Polymarket.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899.\n\nThe FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it",
+          "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+          "publishedOn": "2026-11-01T07:03:00.000Z",
+          "wordCount": null,
+          "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia.\n\nThe activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed",
+          "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+          "publishedOn": "2026-11-01T07:02:58.000Z",
+          "wordCount": null,
+          "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.\n\nHowever, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens.\n\n\"This month, Chainalysis detected an external actor using offensive agentic",
@@ -21452,38 +21516,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTJ5xsWsmrBmF1q18Gi5uaokNeC6-M0VbSf0T5X3KMQH7QGMhC7mz4XB6TUJuE7P9tjknMAqaGQ-Iz_7UuQ-NdKKXJTgqLhHMipRcd57VUOpwfJ2xxO8Hq_PX8hotdp_KZddNDzfQFw3bLHbYYLasThNbqGlidzhZ485ApBIKh2KUgn4g6PeBbhMwhc0T/s1600/ms-connect.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTJ5xsWsmrBmF1q18Gi5uaokNeC6-M0VbSf0T5X3KMQH7QGMhC7mz4XB6TUJuE7P9tjknMAqaGQ-Iz_7UuQ-NdKKXJTgqLhHMipRcd57VUOpwfJ2xxO8Hq_PX8hotdp_KZddNDzfQFw3bLHbYYLasThNbqGlidzhZ485ApBIKh2KUgn4g6PeBbhMwhc0T/s1600/ms-connect.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
-          "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-          "publishedOn": "2026-10-17T11:11:56.000Z",
-          "wordCount": null,
-          "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.\n\nConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs",
-          "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-          "publishedOn": "2026-10-17T06:16:46.000Z",
-          "wordCount": null,
-          "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg"
         }
       ]
     },
@@ -21492,6 +21524,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=408916",
+          "author": "Ian Chee",
+          "description": "Electronic Arts (EA) has unceremoniously shut down Canadian studio BioWare, and with said closure, the cancellation of an upcoming Mass Effect game. It was part of a wider layoff, which saw 400 staffers losing their jobs. The obvious contributing factor was the huge debt accrued as a result of the publisher’s leveraged buyout, but in […]\nThe post Report: EA Shut Down Bioware To Fund New Star Wars Battlefront Game appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408916/ea-bioware-star-wars-battlefront/",
+          "publishedOn": "2026-11-01T08:24:56.000Z",
+          "wordCount": 13258,
+          "title": "Report: EA Shut Down Bioware To Fund New Star Wars Battlefront Game",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Star-Wars-Battlefront-II-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408912",
+          "author": "John Law",
+          "description": "Rumours have it that Intel’s Core Ultra 4000 Series, also currently known as Nova Lake, and more specifically, a 28-core desktop model paired with DDR5-8000 RAM will be faster than the blue chipmaker’s current Arrow Lake flagship, the Core Ultra 9 285K, with DDR5-6400 RAM. The rumour comes by way of the prominent hardware leakster, […]\nThe post Intel Nova Lake 28-Core With DDR5-8000 To Be 33% Faster In Gaming Than Core Ultra 9 285K appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408912/intel-nova-lake-28-core-with-ddr5-8000-to-be-33-faster-in-gaming-than-core-ultra-9-285k/",
+          "publishedOn": "2026-11-01T07:29:51.000Z",
+          "wordCount": 13326,
+          "title": "Intel Nova Lake 28-Core With DDR5-8000 To Be 33% Faster In Gaming Than Core Ultra 9 285K",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/Intel-Nova-Lake-Artist-Render-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408902",
+          "author": "Nurul Kamil",
+          "description": "Not long ago, the Samsung Galaxy Fit4 appeared in a set of leaked renders, suggesting that a launch may not be too far ahead. Now, more details on the fitness tracker have emerged, revealing some of its key health features. This new leak comes from an APK teardown of the Galaxy Fit4 Manager companion app […]\nThe post Samsung Galaxy Fit4 Key Features Leaked Ahead Of Launch appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408902/samsung-galaxy-fit4-key-features-leak/",
+          "publishedOn": "2026-11-01T05:22:19.000Z",
+          "wordCount": 13268,
+          "title": "Samsung Galaxy Fit4 Key Features Leaked Ahead Of Launch",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/samsung-galaxy-fit4-leak.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=408898",
+          "author": "Heirul Kamel",
+          "description": "Binance is in discussions with Malaysian regulators to obtain a licence to operate in the country again, more than five years after it was ordered to cease its operations here. The cryptocurrency exchange confirmed that it has been engaging the Securities Commission Malaysia (SC) and Bank Negara Malaysia (BNM) over the possibility of establishing a […]\nThe post Binance In Talks With Malaysian Regulators To Obtain Local Licence appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/408898/binance-malaysian-regulators-talks/",
+          "publishedOn": "2026-11-01T03:43:30.000Z",
+          "wordCount": 13403,
+          "title": "Binance In Talks With Malaysian Regulators To Obtain Local Licence",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/binance-kanchanara-unsplash.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=408887",
           "author": "Ian Chee",
@@ -22651,26 +22723,6 @@
           "wordCount": 13377,
           "title": "Tesla Model 3 Gets V2L Support, Updated Interior In Malaysia",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Model-3-Standard-7.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=407691",
-          "author": "John Law",
-          "description": "Modder and Redditor DallasGrave recently posted their modding efforts on Reddit, where they replaced the 16-pin 12VHPWR power connector on their Gigabyte RTX 5090 with four 8-pin PCIe Power ports. Well, we say replace, but it’s more a modification that mounts those 8-pins directly onto a custom PCB, while “Some of you may have seen […]\nThe post Modder Solves Melting RTX 5090 12VHPWR Connector By Replacing It With Four 8-Pin Ports appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/407691/modder-solves-melting-rtx-5090-melting-12vhpwr-connector-by-replacing-it-with-four-8-pin-ports/",
-          "publishedOn": "2026-10-17T10:43:13.000Z",
-          "wordCount": 13294,
-          "title": "Modder Solves Melting RTX 5090 12VHPWR Connector By Replacing It With Four 8-Pin Ports",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Modder-RTX-5090-four-8-pin-2-1240x698.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=407673",
-          "author": "Heirul Kamel",
-          "description": "Pre-orders of Apple’s first foldable smartphone, the iPhone Duo, appears to be off to a strong start in Malaysia. Despite the steep starting price of over RM9,000  (even higher for the phone’s other variants), much of the initial allocation are already selling out within an hour of orders opening yesterday evening. While the company’s online […]\nThe post First Batch Of iPhone Duo Pre-Orders In Malaysia Selling Out Fast appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/407673/iphone-duo-malaysia-selling-out-fast/",
-          "publishedOn": "2026-10-17T04:35:14.000Z",
-          "wordCount": 13440,
-          "title": "First Batch Of iPhone Duo Pre-Orders In Malaysia Selling Out Fast",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/iphone-duo-launch-13.webp"
         }
       ]
     },

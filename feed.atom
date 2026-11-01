@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-10-31T14:27:37.067Z</updated>
+    <updated>2026-11-01T14:56:02.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key]]></title>
+        <id>https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html</id>
+        <link href="https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"/>
+        <updated>2026-11-01T08:51:31.000Z</updated>
+        <summary type="html"><![CDATA[A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate.
+
+Once in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: EA Shut Down Bioware To Fund New Star Wars Battlefront Game]]></title>
+        <id>https://www.lowyat.net/?p=408916</id>
+        <link href="https://www.lowyat.net/2026/408916/ea-bioware-star-wars-battlefront/"/>
+        <updated>2026-11-01T08:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Electronic Arts (EA) has unceremoniously shut down Canadian studio BioWare, and with said closure, the cancellation of an upcoming Mass Effect game. It was part of a wider layoff, which saw 400 staffers losing their jobs. The obvious contributing factor was the huge debt accrued as a result of the publisher’s leveraged buyout, but in […]
+The post Report: EA Shut Down Bioware To Fund New Star Wars Battlefront Game appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Nova Lake 28-Core With DDR5-8000 To Be 33% Faster In Gaming Than Core Ultra 9 285K]]></title>
+        <id>https://www.lowyat.net/?p=408912</id>
+        <link href="https://www.lowyat.net/2026/408912/intel-nova-lake-28-core-with-ddr5-8000-to-be-33-faster-in-gaming-than-core-ultra-9-285k/"/>
+        <updated>2026-11-01T07:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Rumours have it that Intel’s Core Ultra 4000 Series, also currently known as Nova Lake, and more specifically, a 28-core desktop model paired with DDR5-8000 RAM will be faster than the blue chipmaker’s current Arrow Lake flagship, the Core Ultra 9 285K, with DDR5-6400 RAM. The rumour comes by way of the prominent hardware leakster, […]
+The post Intel Nova Lake 28-Core With DDR5-8000 To Be 33% Faster In Gaming Than Core Ultra 9 285K appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script]]></title>
+        <id>https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html</id>
+        <link href="https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html"/>
+        <updated>2026-11-01T07:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company.
+
+Polymarket says it is refunding about $2.7 million to 726 affected wallets. Blockchain records show crypto worth about $2.64 million reached]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist]]></title>
+        <id>https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html</id>
+        <link href="https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"/>
+        <updated>2026-11-01T07:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899.
+
+The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection]]></title>
+        <id>https://thehackernews.com/2026/11/netamloader-malware-targets-government.html</id>
+        <link href="https://thehackernews.com/2026/11/netamloader-malware-targets-government.html"/>
+        <updated>2026-11-01T07:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government organizations in Asia.
+
+The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Fit4 Key Features Leaked Ahead Of Launch]]></title>
+        <id>https://www.lowyat.net/?p=408902</id>
+        <link href="https://www.lowyat.net/2026/408902/samsung-galaxy-fit4-key-features-leak/"/>
+        <updated>2026-11-01T05:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Not long ago, the Samsung Galaxy Fit4 appeared in a set of leaked renders, suggesting that a launch may not be too far ahead. Now, more details on the fitness tracker have emerged, revealing some of its key health features. This new leak comes from an APK teardown of the Galaxy Fit4 Manager companion app […]
+The post Samsung Galaxy Fit4 Key Features Leaked Ahead Of Launch appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance In Talks With Malaysian Regulators To Obtain Local Licence]]></title>
+        <id>https://www.lowyat.net/?p=408898</id>
+        <link href="https://www.lowyat.net/2026/408898/binance-malaysian-regulators-talks/"/>
+        <updated>2026-11-01T03:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Binance is in discussions with Malaysian regulators to obtain a licence to operate in the country again, more than five years after it was ordered to cease its operations here. The cryptocurrency exchange confirmed that it has been engaging the Securities Commission Malaysia (SC) and Bank Negara Malaysia (BNM) over the possibility of establishing a […]
+The post Binance In Talks With Malaysian Regulators To Obtain Local Licence appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data]]></title>
         <id>https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html</id>
@@ -3513,52 +3605,6 @@ The post Samsung Reportedly Planning Major Overhaul For One UI 10 appeared first
         <updated>2026-10-18T03:05:30.000Z</updated>
         <summary type="html"><![CDATA[Tesla Malaysia has announced updates to its Model 3 electric sedan, including Vehicle-to-Load (V2L) Powershare support, a revised interior, and upgraded hardware. The addition of V2L also means that all new Tesla models sold locally, including the Model Y and Model Y L, now support the feature. V2L Powershare allows owners to draw electricity from […]
 The post Tesla Model 3 Gets V2L Support, Updated Interior In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon]]></title>
-        <id>https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html</id>
-        <link href="https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"/>
-        <updated>2026-10-17T11:11:56.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.
-
-The package, named "imgdecode," was uploaded to the package registry on September 30, 2026, by a user named "malfexteste8." It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modder Solves Melting RTX 5090 12VHPWR Connector By Replacing It With Four 8-Pin Ports]]></title>
-        <id>https://www.lowyat.net/?p=407691</id>
-        <link href="https://www.lowyat.net/2026/407691/modder-solves-melting-rtx-5090-melting-12vhpwr-connector-by-replacing-it-with-four-8-pin-ports/"/>
-        <updated>2026-10-17T10:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Modder and Redditor DallasGrave recently posted their modding efforts on Reddit, where they replaced the 16-pin 12VHPWR power connector on their Gigabyte RTX 5090 with four 8-pin PCIe Power ports. Well, we say replace, but it’s more a modification that mounts those 8-pins directly onto a custom PCB, while “Some of you may have seen […]
-The post Modder Solves Melting RTX 5090 12VHPWR Connector By Replacing It With Four 8-Pin Ports appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants]]></title>
-        <id>https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html</id>
-        <link href="https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"/>
-        <updated>2026-10-17T06:16:46.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.
-
-ConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Batch Of iPhone Duo Pre-Orders In Malaysia Selling Out Fast]]></title>
-        <id>https://www.lowyat.net/?p=407673</id>
-        <link href="https://www.lowyat.net/2026/407673/iphone-duo-malaysia-selling-out-fast/"/>
-        <updated>2026-10-17T04:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Pre-orders of Apple’s first foldable smartphone, the iPhone Duo, appears to be off to a strong start in Malaysia. Despite the steep starting price of over RM9,000  (even higher for the phone’s other variants), much of the initial allocation are already selling out within an hour of orders opening yesterday evening. While the company’s online […]
-The post First Batch Of iPhone Duo Pre-Orders In Malaysia Selling Out Fast appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
         </author>
