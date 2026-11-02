@@ -2,10 +2,228 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-11-01T14:56:02.998Z</updated>
+    <updated>2026-11-02T18:08:48.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access]]></title>
+        <id>https://thehackernews.com/2026/11/google-disrupts-13-million-device.html</id>
+        <link href="https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"/>
+        <updated>2026-11-02T15:50:26.000Z</updated>
+        <summary type="html"><![CDATA[A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.
+
+Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals.
+
+They used the boxes for ad fraud and to pass other people's internet traffic through owners' home]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's AI Risk Report Misses This Key Detail]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss"/>
+        <updated>2026-11-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The latest "Digital Defense Report" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.]]></summary>
+        <author>
+            <name>Andrew Grotto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment]]></title>
+        <id>https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html</id>
+        <link href="https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html"/>
+        <updated>2026-11-02T14:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.
+
+According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PapRAT Cyber Espionage Campaign Leaves a 'Bitter' Taste in South Asia]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia"/>
+        <updated>2026-11-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers]]></title>
+        <id>https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html</id>
+        <link href="https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html"/>
+        <updated>2026-11-02T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week.
+
+Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0.
+
+Neither flaw is in CISA's Known]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy]]></title>
+        <id>https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html</id>
+        <link href="https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html"/>
+        <updated>2026-11-02T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready.
+
+AI SOC readiness has two parts: whether a SOC has the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data]]></title>
+        <id>https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html</id>
+        <link href="https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html"/>
+        <updated>2026-11-02T11:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller.
+
+Microsoft said in a report that it investigated two such intrusions, one of which resulted in company]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts]]></title>
+        <id>https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html</id>
+        <link href="https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html"/>
+        <updated>2026-11-02T10:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.
+
+The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where "CL" refers to cluster and "UNK" stands for unknown]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sarawak Explores Collaboration With Russia In Rocket, Satellite Launches]]></title>
+        <id>https://www.lowyat.net/?p=408984</id>
+        <link href="https://www.lowyat.net/2026/408984/sarawak-collaboration-russia-satellite/"/>
+        <updated>2026-11-02T10:12:01.000Z</updated>
+        <summary type="html"><![CDATA[The state of Sarawak is considering working with Russia in rocket and satellite launches, leveraging its location near the equator. Bernama cites state Premier Abang Johari Openg as saying that the idea was brought up by Russian ambassador to Malaysia, Naiyl Latypov, during a courtesy call last week. According to the report, Abang Johari said […]
+The post Sarawak Explores Collaboration With Russia In Rocket, Satellite Launches appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Board Partners Still Haven’t Received RTX 5080 24GB Design Kits]]></title>
+        <id>https://www.lowyat.net/?p=408986</id>
+        <link href="https://www.lowyat.net/2026/408986/nvidia-partners-rtx-5080-24gb-kits/"/>
+        <updated>2026-11-02T09:55:34.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA board partners have reportedly been saying that they haven’t received the necessary design kits for the alleged RTX 5080 24GB from the GPU brand yet. Because of that, they are casting doubt on the green team’s supposed January 2027 launch window for the GPU. According to BenchLife, NVIDIA was expected to start distributing the […]
+The post NVIDIA Board Partners Still Haven’t Received RTX 5080 24GB Design Kits appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MINI Malaysia Relaunches MINI NEXT Certified Pre-Owned Program; Applies To EVs As Well]]></title>
+        <id>https://www.lowyat.net/?p=408980</id>
+        <link href="https://www.lowyat.net/2026/408980/mini-malaysia-mini-next-pre-own-program/"/>
+        <updated>2026-11-02T08:23:01.000Z</updated>
+        <summary type="html"><![CDATA[MINI Malaysia has announced its MINI NEXT certified pre-owned program. More specifically, the brand has framed this as its return though according to paultan.org, it was known as the Used Car Next program in its previous incarnation. Either way, this promises “greater confidence, transparency and peace of mind” to those who are looking to get […]
+The post MINI Malaysia Relaunches MINI NEXT Certified Pre-Owned Program; Applies To EVs As Well appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touch ‘n Go Officially Announces Multi-Use Digital Business Card; Priced At RM49.90]]></title>
+        <id>https://www.lowyat.net/?p=408967</id>
+        <link href="https://www.lowyat.net/2026/408967/touch-n-go-digital-business-card/"/>
+        <updated>2026-11-02T08:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Touch ‘n Go is expanding its product lineup with a new type of card. The Touch ‘n Go Business Card is exactly what it says on the tin: a business card meant to support professional networking activities. That said, its functionality goes beyond traditional paper cards, as the multi-use card includes digital features and payment […]
+The post Touch ‘n Go Officially Announces Multi-Use Digital Business Card; Priced At RM49.90 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lisuan GPUs Gets New Driver Update; Gets FreeSync Control Option, Support For New Games]]></title>
+        <id>https://www.lowyat.net/?p=408977</id>
+        <link href="https://www.lowyat.net/2026/408977/lisuan-gpus-gets-new-driver-update-gets-freesync-control-option-support-for-new-games/"/>
+        <updated>2026-11-02T07:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Remember Lisuan, the Chinese GPU maker that recently made headway this year with the launch of its first-ever consumer-ready graphics card, the LX 7G100 Founders Edition? The company recently released new drivers for the card, containing a slew of fixes, updates, and performance optimisations to the card. The driver update can be found and downloaded […]
+The post Lisuan GPUs Gets New Driver Update; Gets FreeSync Control Option, Support For New Games appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Invests US$160 million In Negeri Sembilan Water Infrastructure For Data Centre]]></title>
+        <id>https://www.lowyat.net/?p=408964</id>
+        <link href="https://www.lowyat.net/2026/408964/google-us160-mil-negeri-sembilan/"/>
+        <updated>2026-11-02T06:42:56.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced an investment of US$160 million (~RM651 million) to develop new water supply infrastructure in Negeri Sembilan. The project is intended to support its planned data centre campus in Port Dickson while also improving water supply for the surrounding communities. In collaboration with the Negeri Sembilan state government and Syarikat Air Negeri Sembilan […]
+The post Google Invests US$160 million In Negeri Sembilan Water Infrastructure For Data Centre appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods 5 Review: More Modest Improvements]]></title>
+        <id>https://www.lowyat.net/?p=408670</id>
+        <link href="https://www.lowyat.net/2026/408670/airpods-5-review/"/>
+        <updated>2026-11-02T06:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Among the new products Apple launched this year is the AirPods 5, which, as you can tell by the name, is the fifth generation of its wireless earbuds. The new audio device replaces the AirPods 4, which launched back in 2024. Given the gap between the releases, one would expect some considerable changes, be it […]
+The post AirPods 5 Review: More Modest Improvements appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value]]></title>
+        <id>https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html</id>
+        <link href="https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html"/>
+        <updated>2026-11-02T05:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.
+
+Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HSBC Malaysia Announces Enhanced FX Features Within Its App]]></title>
+        <id>https://www.lowyat.net/?p=408954</id>
+        <link href="https://www.lowyat.net/2026/408954/hsbc-malaysia-enhanced-fx-features-app/"/>
+        <updated>2026-11-02T05:25:23.000Z</updated>
+        <summary type="html"><![CDATA[HSBC Malaysia has announced the launch of what it calls enhanced FX capabilities on its mobile app. This can be summed up by the addition of three related features – FX Watchlist, FX Chart, and FX Rate Alerts. Together, these provide the bank’s customers with the ability to “manage their foreign exchange needs conveniently and […]
+The post HSBC Malaysia Announces Enhanced FX Features Within Its App appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Moon Lake Could Offer SKU With Zero P-Cores]]></title>
+        <id>https://www.lowyat.net/?p=408950</id>
+        <link href="https://www.lowyat.net/2026/408950/intel-moon-lake-zero-p-cores/"/>
+        <updated>2026-11-02T04:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Intel’s future generation low-level, budget consumer CPU, codenamed Moon Lake, recently had some details leaked. Supposedly, the future budget CPU could scrap the Performance cores (P-Cores) altogether, at least for one SKU in the series. According to Jaykihn, the source of the leak who posted it on X, that one SKU is expected to have […]
+The post Intel Moon Lake Could Offer SKU With Zero P-Cores appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Xperia 10 VIII Officially Launched In Malaysia With Brighter Display, Louder Speakers]]></title>
+        <id>https://www.lowyat.net/?p=408934</id>
+        <link href="https://www.lowyat.net/2026/408934/sony-xperia-10-viii-malaysia/"/>
+        <updated>2026-11-02T04:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Sony initially launched the Xperia 10 VIII back in August. Now, the brand has brought its newest midrange smartphone to Malaysia. Compared to its predecessor, the new model offers a few minor improvements, but otherwise retains most of the features and characteristics from the last generation. In terms of design, one can say the device […]
+The post Sony Xperia 10 VIII Officially Launched In Malaysia With Brighter Display, Louder Speakers appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key]]></title>
         <id>https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html</id>
@@ -193,6 +411,16 @@ The web infrastructure and security company said it autonomously mitigated 18.2 
 The post OpenAI’s Sam Altman Says Home PCs Are Wasting RAM appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investors Dish on New Startups &amp; What They'd Back Next]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next"/>
+        <updated>2026-10-30T21:08:25.000Z</updated>
+        <summary type="html"><![CDATA[The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not.]]></summary>
+        <author>
+            <name>Arielle Waldman</name>
         </author>
     </entry>
     <entry>
@@ -3480,133 +3708,6 @@ The post Malaysia Leveraging ARM IP To Fast Track Semiconductor Chip Design appe
 The post MOF Debunks False Claims Of QR Payment Service Charges Starting 1 November appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys]]></title>
-        <id>https://thehackernews.com/2026/10/opencode-console-breach-may-have.html</id>
-        <link href="https://thehackernews.com/2026/10/opencode-console-breach-may-have.html"/>
-        <updated>2026-10-19T06:07:08.000Z</updated>
-        <summary type="html"><![CDATA[An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.
-
-Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Nova Lake Core Ultra 4000 Naming Now Extends Across All Desktop And Mobile CPUS]]></title>
-        <id>https://www.lowyat.net/?p=407810</id>
-        <link href="https://www.lowyat.net/2026/407810/intel-nova-lake-core-ultra-4000-mobile/"/>
-        <updated>2026-10-19T05:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Earlier in the month, we covered a rumour that Intel was planning on using the Core Ultra 4000 designation for the desktop SKUs, as well as the high-end, high performance mobile CPU models. Now, the same source has seemingly corrected themselves, stating that the naming convention extends across the boards to all mobile SKUs. Serial […]
-The post Intel Nova Lake Core Ultra 4000 Naming Now Extends Across All Desktop And Mobile CPUS appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNB Set To Exit Government Ownership]]></title>
-        <id>https://www.lowyat.net/?p=407806</id>
-        <link href="https://www.lowyat.net/2026/407806/dnb-set-to-exit-govt-ownership/"/>
-        <updated>2026-10-19T05:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Digital Nasional Berhad (DNB) no longer requires financial support from the Malaysian government, following the completion of a RM5.2 billion syndicated Islamic term financing facility involving five financial institutions. Communications Minister Datuk Seri Fahmi Fadzil confirmed today that the government’s financial obligations to the national 5G network operator had been reduced to zero at the […]
-The post DNB Set To Exit Government Ownership appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ONEXPLAYER Super X Pro Is Gaming Tablet With Up To 192GB RAM And Costs RM33,000]]></title>
-        <id>https://www.lowyat.net/?p=407761</id>
-        <link href="https://www.lowyat.net/2026/407761/onexplayer-super-x-pro-192gb/"/>
-        <updated>2026-10-19T03:51:41.000Z</updated>
-        <summary type="html"><![CDATA[ONEXPLAYER isn’t a stranger in these parts of the PC world anymore; the China-based gaming handheld maker has made both some exceedingly powerful and incredibly expensive gaming consoles over the years, with the Fly Apex being at the top of the list, price-wise. Now it’s got a new gaming tablet called the Super X Pro […]
-The post The ONEXPLAYER Super X Pro Is Gaming Tablet With Up To 192GB RAM And Costs RM33,000 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone Duo Repairs: How Much Will It Cost?]]></title>
-        <id>https://www.lowyat.net/?p=407751</id>
-        <link href="https://www.lowyat.net/2026/407751/iphone-duo-repair-cost-malaysia/"/>
-        <updated>2026-10-19T03:26:38.000Z</updated>
-        <summary type="html"><![CDATA[With pre-orders for the iPhone Duo opening last Friday, Apple fans have likely already paid to secure the company’s first foldable smartphone. However, those planning to get their hands on the device might want to take note of its repair costs. Apple has listed the estimated service costs for several components of the iPhone Duo […]
-The post iPhone Duo Repairs: How Much Will It Cost? appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discussing The Improvements, Benefits Of Bespoke AI In Samsung Home Appliances]]></title>
-        <id>https://www.lowyat.net/?p=407727</id>
-        <link href="https://www.lowyat.net/2026/407727/discussing-bespoke-ai-samsung-appliance/"/>
-        <updated>2026-10-18T12:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Today, when anyone brings up the subject of AI, chances are they are referring to generative or agentic AI. And for the latter, this is usually associated much more with your phones and computers than anything else. Of course, that doesn’t stop the tech from being used in other markets as well, such as that […]
-The post Discussing The Improvements, Benefits Of Bespoke AI In Samsung Home Appliances appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Launches B2B Washer, Dryer With Stackable Design]]></title>
-        <id>https://www.lowyat.net/?p=407699</id>
-        <link href="https://www.lowyat.net/2026/407699/samsung-b2b-washer-dryer-stackable/"/>
-        <updated>2026-10-18T10:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Beyond the customer-facing products like its Bespoke AI fridges, Samsung also showcased its various commercial and B2B products. Among them are a new washer and a dryer, designated the Professional Washer WF9100F and Professional Dryer DV9100F respectively. It’s not necessarily implied by the model numbers, but both are built with a stackable design. Indeed, during […]
-The post Samsung Launches B2B Washer, Dryer With Stackable Design appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants]]></title>
-        <id>https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html</id>
-        <link href="https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"/>
-        <updated>2026-10-18T08:23:02.000Z</updated>
-        <summary type="html"><![CDATA[ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants.
-
-The disabled identities are listed below -
-
-
-  ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae
-  ConnectWise]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Assures Consumers That The RTX 5090 Has Not Been Discontinued]]></title>
-        <id>https://www.lowyat.net/?p=407712</id>
-        <link href="https://www.lowyat.net/2026/407712/nvidia-assures-consumers-that-the-rtx-5090-has-not-been-discontinued/"/>
-        <updated>2026-10-18T06:57:13.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA has come out to quell fears of rumours that it had discontinued production of the GeForce RTX 5090. At an RTX Spark launch party in Taipei, the brand says that the GPU still remains in production, albeit in limited manufacturing capacity. As per 4Gamers translated reports: “The supply chain (capacity) is indeed somewhat constrained, […]
-The post NVIDIA Assures Consumers That The RTX 5090 Has Not Been Discontinued appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Reportedly Planning Major Overhaul For One UI 10]]></title>
-        <id>https://www.lowyat.net/?p=407709</id>
-        <link href="https://www.lowyat.net/2026/407709/samsung-major-overhaul-one-ui-10/"/>
-        <updated>2026-10-18T04:09:34.000Z</updated>
-        <summary type="html"><![CDATA[One UI 9.5 is expected to launch with the Samsung Galaxy S27 series early next year, but the South Korean tech giant seems to be looking ahead already. According to a new rumour, the company is working on One UI 10, and unlike the past software updates, this version may bring a complete overhaul. Apparently, […]
-The post Samsung Reportedly Planning Major Overhaul For One UI 10 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Model 3 Gets V2L Support, Updated Interior In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=407701</id>
-        <link href="https://www.lowyat.net/2026/407701/tesla-model-3-v2l-updated-interior/"/>
-        <updated>2026-10-18T03:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Tesla Malaysia has announced updates to its Model 3 electric sedan, including Vehicle-to-Load (V2L) Powershare support, a revised interior, and upgraded hardware. The addition of V2L also means that all new Tesla models sold locally, including the Model Y and Model Y L, now support the feature. V2L Powershare allows owners to draw electricity from […]
-The post Tesla Model 3 Gets V2L Support, Updated Interior In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
         </author>
     </entry>
     <entry>
