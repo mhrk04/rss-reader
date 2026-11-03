@@ -2,10 +2,286 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-11-02T18:08:48.099Z</updated>
+    <updated>2026-11-03T16:02:56.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges]]></title>
+        <id>https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html</id>
+        <link href="https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html"/>
+        <updated>2026-11-03T15:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.
+
+The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMJacking Emerges as Thriving Cybercriminal Enterprise]]></title>
+        <id>https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise</id>
+        <link href="https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise"/>
+        <updated>2026-11-03T15:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes]]></title>
+        <id>https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html</id>
+        <link href="https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html"/>
+        <updated>2026-11-03T15:16:32.000Z</updated>
+        <summary type="html"><![CDATA[An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers.
+
+The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. The attacker has since taken some of that data.
+
+cPGuard 5.88.25 and later versions]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3AM Affiliate Embraces AI-Like Loops in European School Attack]]></title>
+        <id>https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack</id>
+        <link href="https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack"/>
+        <updated>2026-11-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anwar Warns Malaysia Could Be Target Of Cyberattacks]]></title>
+        <id>https://www.lowyat.net/?p=409116</id>
+        <link href="https://www.lowyat.net/2026/409116/anwar-malaysia-cyberattacks-target/"/>
+        <updated>2026-11-03T11:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Malaysia could become a target of cyberattacks amid its growing digital infrastructure and geopolitical positions, Prime Minister Datuk Seri Anwar Ibrahim has warned. Speaking during Dewan Rakyat today, Anwar said the government had received information about potential threats and would be stepping up its preparedness. However, he noted that certain details could not be disclosed […]
+The post Anwar Warns Malaysia Could Be Target Of Cyberattacks appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing]]></title>
+        <id>https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html</id>
+        <link href="https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"/>
+        <updated>2026-11-03T11:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update.
+
+The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 4 Elements of Exposure Prioritization and How to Operationalize Them]]></title>
+        <id>https://thehackernews.com/2026/11/the-4-elements-of-exposure.html</id>
+        <link href="https://thehackernews.com/2026/11/the-4-elements-of-exposure.html"/>
+        <updated>2026-11-03T11:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware]]></title>
+        <id>https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html</id>
+        <link href="https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html"/>
+        <updated>2026-11-03T11:00:45.000Z</updated>
+        <summary type="html"><![CDATA[A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.
+
+"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector," ESET researcher]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei Watch 6 Series Officially Launches In Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=409083</id>
+        <link href="https://www.lowyat.net/2026/409083/huawei-watch-6-series-launch-malaysia/"/>
+        <updated>2026-11-03T09:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Huawei Malaysia has officially launched the HUAWEI Watch 6 Series, comprising the standard Watch 6 and the higher-end Watch 6 Pro. Joining the smartwatches is the new HUAWEI FreeBuds SE 5 Max, which also makes its debut in the local market. As previously reported, the Watch 6 Series puts a greater emphasis on health monitoring […]
+The post Huawei Watch 6 Series Officially Launches In Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuJu Now Redirects Users To Google Maps For Navigation Purposes]]></title>
+        <id>https://www.lowyat.net/?p=409087</id>
+        <link href="https://www.lowyat.net/2026/409087/tuju-redirects-google-maps-navigation/"/>
+        <updated>2026-11-03T09:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Last month, Prime Minister Anwar Ibrahim not only recommended that Malaysians switch from Waze to TuJu as their navigation app, but also completely banned using the former for civil servants. Unsurprisingly, this led to a surge of users that the latter is not used to, causing system disruptions. The company behind it has promised a […]
+The post TuJu Now Redirects Users To Google Maps For Navigation Purposes appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Asus ROG NUC 16 Edition 20 Can Be Yours For RM29,999]]></title>
+        <id>https://www.lowyat.net/?p=409073</id>
+        <link href="https://www.lowyat.net/2026/409073/the-asus-rog-nuc-16-edition-20-can-be-yours-for-rm29999/"/>
+        <updated>2026-11-03T09:32:15.000Z</updated>
+        <summary type="html"><![CDATA[If you’re one of those consumers with oodles of disposable income and you’re in the market for a piece of Asus’ ROG 20th Anniversary edition products, then feast your eyes on the Asus ROG NUC 16 Edition 20: the brand’s mini PC, given the black and gold treatment. Like all Edition 20 products, the NUC […]
+The post The Asus ROG NUC 16 Edition 20 Can Be Yours For RM29,999 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo V80 FE Bags SIRIM Approval; Likely Launching With Triple 50MP Cameras, 7,000mAh Battery]]></title>
+        <id>https://www.lowyat.net/?p=409056</id>
+        <link href="https://www.lowyat.net/2026/409056/vivo-v80-fe-sirim-approval/"/>
+        <updated>2026-11-03T08:49:38.000Z</updated>
+        <summary type="html"><![CDATA[While the most recent vivo smartphone to arrive on our shores is the X Fold6, the brand has been steadily updating its V lineup as well. The V80 Lite debuted in Malaysia back in September, and the vanilla V80 launched in India last month. Now, it looks like there is at least one more member […]
+The post vivo V80 FE Bags SIRIM Approval; Likely Launching With Triple 50MP Cameras, 7,000mAh Battery appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets]]></title>
+        <id>https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html</id>
+        <link href="https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html"/>
+        <updated>2026-11-03T08:31:48.000Z</updated>
+        <summary type="html"><![CDATA[BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions.
+
+"Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier," BTCPay Server]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD RDNA5+ Rumoured For a 2029 Launch]]></title>
+        <id>https://www.lowyat.net/?p=409058</id>
+        <link href="https://www.lowyat.net/2026/409058/amd-rdna5-rumoured-for-a-2029-launch/"/>
+        <updated>2026-11-03T08:28:52.000Z</updated>
+        <summary type="html"><![CDATA[AMD’s RDNA5 architecture isn’t even out the door, and already rumours of RDNA5+ are cropping up. In this case, there is talk that the “upscaled” graphics architecture will be making its debut sometime in 2029. Kepler_L2’s comment was a response in the NeoGAF forums about the availability of RDNA5 in mobile processors. On that note, […]
+The post AMD RDNA5+ Rumoured For a 2029 Launch appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw]]></title>
+        <id>https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html</id>
+        <link href="https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html"/>
+        <updated>2026-11-03T07:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.
+
+The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM.
+
+"These attacks aim to encrypt data and extort ransom," it said in a statement]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food]]></title>
+        <id>https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html</id>
+        <link href="https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html"/>
+        <updated>2026-11-03T07:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers.
+
+No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infinix XPAD 30 Pro Officially Debuts In Malaysia With Brighter 11-Inch Display]]></title>
+        <id>https://www.lowyat.net/?p=409046</id>
+        <link href="https://www.lowyat.net/2026/409046/infinix-xpad-30-pro-malaysia/"/>
+        <updated>2026-11-03T07:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Infinix has announced a new addition to its tablet lineup. The XPAD 30 Pro is the successor to last year’s XPAD 20 Pro, serving as an all-rounded performer that supports the user’s productivity and entertainment needs. Designed for university students and young professionals, the tablet features a slim and light build measuring 6.6mm thin and […]
+The post Infinix XPAD 30 Pro Officially Debuts In Malaysia With Brighter 11-Inch Display appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors]]></title>
+        <id>https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html</id>
+        <link href="https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html"/>
+        <updated>2026-11-03T05:34:41.000Z</updated>
+        <summary type="html"><![CDATA[A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed.
+
+The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated remote attacker to run arbitrary code.
+
+"SIMATIC IoT2050 Advanced devices running]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials]]></title>
+        <id>https://thehackernews.com/2026/11/attackers-target-unpatched.html</id>
+        <link href="https://thehackernews.com/2026/11/attackers-target-unpatched.html"/>
+        <updated>2026-11-03T05:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber.
+
+The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancelled Portal Prequel F-Stop Assembled From Three Separate Valve Leaks]]></title>
+        <id>https://www.lowyat.net/?p=409002</id>
+        <link href="https://www.lowyat.net/2026/409002/cancelled-portal-prequel-f-stop-leaks/"/>
+        <updated>2026-11-03T04:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Fans of the Portal series may be familiar with the name F-Stop. On one hand, it’s the number denoting the size of the aperture opening in photography. But on the other, it’s also the title of a cancelled Portal prequel. While the game was conceived – and cancelled – all the way back in 2007, […]
+The post Cancelled Portal Prequel F-Stop Assembled From Three Separate Valve Leaks appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Reportedly Considering PTFE For Future Rubin Ultra NVLink Switch Boards]]></title>
+        <id>https://www.lowyat.net/?p=409007</id>
+        <link href="https://www.lowyat.net/2026/409007/nvidia-reportedly-considering-ptfe-for-future-rubin-ultra-nvlink-switch-boards/"/>
+        <updated>2026-11-03T04:29:58.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA is reportedly evaluating polytetrafluoroethylene, or PTFE, the same material used in the Teflon brand, for the development of future Rubin Ultra NVLink switch boards. It is also considering the use of the material in making a next-generation midplane that connects boards in an orthogonal arrangement. What Is PTFE? As mentioned, PTFE is the same […]
+The post NVIDIA Reportedly Considering PTFE For Future Rubin Ultra NVLink Switch Boards appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Officially Announces Yoga Tab Plus Gen 2, Yoga Tab Gen 2, And More]]></title>
+        <id>https://www.lowyat.net/?p=409005</id>
+        <link href="https://www.lowyat.net/2026/409005/lenovo-yoga-tab-plus-gen-2-malaysia/"/>
+        <updated>2026-11-03T04:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Lenovo has officially released the latest additions to its tablet lineup in Malaysia. Among the devices are the Yoga Tab Plus Gen 2 and the Yoga Tab Gen 2. In addition to these, the company announced new members in the Idea Tab, Lenovo Tab, and Legion series. Across the lineup, the tablets offer features aimed […]
+The post Lenovo Officially Announces Yoga Tab Plus Gen 2, Yoga Tab Gen 2, And More appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths"/>
+        <updated>2026-11-02T22:27:24.000Z</updated>
+        <summary type="html"><![CDATA[The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.]]></summary>
+        <author>
+            <name>Jai Vijayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More]]></title>
+        <id>https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html</id>
+        <link href="https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html"/>
+        <updated>2026-11-02T16:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble.
+
+Then there were the bigger messes. Billions stolen, hidden networks of hacked devices, poisoned software, and attackers finding new ways to turn normal tools against]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access]]></title>
         <id>https://thehackernews.com/2026/11/google-disrupts-13-million-device.html</id>
@@ -3508,206 +3784,6 @@ The post Xpeng To Bring Google Play Apps To Its Cars In Early 2027 appeared firs
 According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Infiltrate Microsoft Tech Support Scam Operation]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation</id>
-        <link href="https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation"/>
-        <updated>2026-10-19T21:13:41.000Z</updated>
-        <summary type="html"><![CDATA[A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.]]></summary>
-        <author>
-            <name>Rob Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery]]></title>
-        <id>https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery</id>
-        <link href="https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery"/>
-        <updated>2026-10-19T19:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.]]></summary>
-        <author>
-            <name>Jai Vijayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs]]></title>
-        <id>https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps</id>
-        <link href="https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps"/>
-        <updated>2026-10-19T19:19:33.000Z</updated>
-        <summary type="html"><![CDATA[Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor]]></title>
-        <id>https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html</id>
-        <link href="https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html"/>
-        <updated>2026-10-19T17:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.
-
-According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell.
-
-The vulnerabilities]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor]]></title>
-        <id>https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html</id>
-        <link href="https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html"/>
-        <updated>2026-10-19T16:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16.
-
-Any site that installed and activated one of those copies should be treated as compromised, and the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnlyFans Copyright Takedowns Expose Compromised Websites]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites"/>
-        <updated>2026-10-19T14:28:11.000Z</updated>
-        <summary type="html"><![CDATA[Copyright takedown requests tied to OnlyFans and other adult content creators are revealing how attackers exploit vulnerable university and government websites to manipulate search results. UpGuard's Greg Pollock explains what universities, government websites, and security teams need to think about next.]]></summary>
-        <author>
-            <name>Kristina Beek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More]]></title>
-        <id>https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html</id>
-        <link href="https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html"/>
-        <updated>2026-10-19T14:14:07.000Z</updated>
-        <summary type="html"><![CDATA[The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done.
-
-This week had plenty of that. Trusted connections became a problem. Hardware wasn't as safe as it looked. Old bugs found new victims, and some systems were]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience"/>
-        <updated>2026-10-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.]]></summary>
-        <author>
-            <name>Theresa Lanowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories]]></title>
-        <id>https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html</id>
-        <link href="https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html"/>
-        <updated>2026-10-19T13:05:45.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file.
-
-The latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their modus operandi in response to steps]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software]]></title>
-        <id>https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html</id>
-        <link href="https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html"/>
-        <updated>2026-10-19T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support intake. Both are standard, documented, as-designed features. Chained together,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honda Announces Hatchback Version Of 2026 City]]></title>
-        <id>https://www.lowyat.net/?p=407842</id>
-        <link href="https://www.lowyat.net/2026/407842/honda-announces-hatchback-2026-city/"/>
-        <updated>2026-10-19T10:08:10.000Z</updated>
-        <summary type="html"><![CDATA[Last month, Honda Malaysia announced the 2026 version of the City, with four variants in tow. Now, the company has announced the hatchback version of the car, which comes in three variants instead. The E model is absent, but the other three – V, RS and e:HEV RS – all got the hatchback treatment. Across […]
-The post Honda Announces Hatchback Version Of 2026 City appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic]]></title>
-        <id>https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html</id>
-        <link href="https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html"/>
-        <updated>2026-10-19T10:06:40.000Z</updated>
-        <summary type="html"><![CDATA[A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits.
-
-"The tools delivered information-stealing malware and backdoors for macOS and Windows machines," Elastic]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 18 Pro Max Review: The Subtle And Steady Upgrade]]></title>
-        <id>https://www.lowyat.net/?p=407732</id>
-        <link href="https://www.lowyat.net/2026/407732/iphone-18-pro-max-review-the-subtle-and-steady-upgrade/"/>
-        <updated>2026-10-19T09:52:00.000Z</updated>
-        <summary type="html"><![CDATA[The iPhone 18 Pro Max serves as the top-of-the-line variant in this generation of candybar iPhones. It’s not exactly the most interesting Apple product to launch so far, partly due to the presence of one particular device. But even ignoring that elephant in the room, not much has changed between last year’s model and this […]
-The post iPhone 18 Pro Max Review: The Subtle And Steady Upgrade appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Sony Patent Hints At AI Frame Generation For PlayStation 6]]></title>
-        <id>https://www.lowyat.net/?p=407838</id>
-        <link href="https://www.lowyat.net/2026/407838/new-sony-patent-ai-frame-gen-ps6/"/>
-        <updated>2026-10-19T09:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Sony is exploring a new AI-powered frame generation technology that could make its way to the PlayStation 6 (PS6), according to a recently published patent. Dubbed “Generation Super Sampling”, the technology aims to generate game frames before the console finishes rendering them, potentially reducing stuttering without introducing as much input lag as existing frame generation […]
-The post New Sony Patent Hints At AI Frame Generation For PlayStation 6 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECRL Ticket Sales To Open Next Month With Fares Starting From RM60]]></title>
-        <id>https://www.lowyat.net/?p=407830</id>
-        <link href="https://www.lowyat.net/2026/407830/ecrl-tickets-starting-from-rm60/"/>
-        <updated>2026-10-19T08:57:45.000Z</updated>
-        <summary type="html"><![CDATA[The East Coast Rail Link (ECRL) service is set to begin operations in the near future, and ahead of this, Malaysia Rail Link Sdn Bhd (MRL) has disclosed the ticket prices. During a press conference held today, MRL CEO Datuk Seri Darwis Abdul Razak revealed that the transit service from Gombak to Kota Bharu will […]
-The post ECRL Ticket Sales To Open Next Month With Fares Starting From RM60 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers]]></title>
-        <id>https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html</id>
-        <link href="https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html"/>
-        <updated>2026-10-19T06:29:44.000Z</updated>
-        <summary type="html"><![CDATA[A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16.
-
-He showed the attack working against home gateways supplied by three Belgian internet providers, in one case reading the Wi-Fi password off the device]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malaysia Leveraging ARM IP To Fast Track Semiconductor Chip Design]]></title>
-        <id>https://www.lowyat.net/?p=407813</id>
-        <link href="https://www.lowyat.net/2026/407813/malaysia-leveraging-arm-ip-to-fastrack-semiconductor-chip-design/"/>
-        <updated>2026-10-19T06:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Malaysia is accelerating semiconductor design cycles by leveraging ARM’s intellectual property (IP), plus its 50-year manufacturing base, in order to shorten timelines while expanding its own homegrown capabilities. Akmal Nasrullah Mohd Nasir, Economy Minister, commented recently that Malaysia is leveraging its established strengths, at least in backend manufacturing, to facilitate semiconductor design with global architecture […]
-The post Malaysia Leveraging ARM IP To Fast Track Semiconductor Chip Design appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOF Debunks False Claims Of QR Payment Service Charges Starting 1 November]]></title>
-        <id>https://www.lowyat.net/?p=407814</id>
-        <link href="https://www.lowyat.net/2026/407814/mof-false-claims-qr-payment-charges/"/>
-        <updated>2026-10-19T06:13:02.000Z</updated>
-        <summary type="html"><![CDATA[The Ministry of Finance (MOF) has denied a viral claim that quick response (QR) code payments will be subject to a new service charge starting next month. In a post on its official Facebook page, the ministry asserted that the claim is false and that no such charge has been officially announced. The post comes […]
-The post MOF Debunks False Claims Of QR Payment Service Charges Starting 1 November appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
         </author>
     </entry>
     <entry>
