@@ -19294,6 +19294,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file.\n\nSoftware security company Apiiro said yesterday that 1,122 public",
+          "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+          "publishedOn": "2026-11-07T06:44:17.000Z",
+          "wordCount": null,
+          "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.\n\nThe update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
+          "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+          "publishedOn": "2026-11-06T16:08:38.000Z",
+          "wordCount": null,
+          "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.\n\nThe vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
+          "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+          "publishedOn": "2026-11-06T15:21:49.000Z",
+          "wordCount": null,
+          "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.\n\nThe new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set,\" OpenAI said. It has classified the model as",
+          "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+          "publishedOn": "2026-11-06T14:58:32.000Z",
+          "wordCount": null,
+          "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.\n\nThe fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today.\n\nThe flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates",
@@ -21292,166 +21356,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
-          "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-          "publishedOn": "2026-10-23T18:50:13.000Z",
-          "wordCount": null,
-          "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month.\n\nGitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers.\n\nRuby says any",
-          "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-          "publishedOn": "2026-10-23T17:54:08.000Z",
-          "wordCount": null,
-          "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
-          "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-          "publishedOn": "2026-10-23T17:50:47.000Z",
-          "wordCount": null,
-          "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
-          "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-          "publishedOn": "2026-10-23T13:50:56.000Z",
-          "wordCount": null,
-          "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
-          "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-          "publishedOn": "2026-10-23T11:25:43.000Z",
-          "wordCount": null,
-          "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
-          "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-          "publishedOn": "2026-10-23T11:11:23.000Z",
-          "wordCount": null,
-          "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
-          "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-          "publishedOn": "2026-10-23T09:36:00.000Z",
-          "wordCount": null,
-          "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated.\n\nTheir \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
-          "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-          "publishedOn": "2026-10-23T08:40:43.000Z",
-          "wordCount": null,
-          "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22.\n\nThe cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
-          "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-          "publishedOn": "2026-10-23T08:35:45.000Z",
-          "wordCount": null,
-          "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought.\n\nThe attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
-          "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-          "publishedOn": "2026-10-23T07:40:45.000Z",
-          "wordCount": null,
-          "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg"
         }
       ]
     },
@@ -21461,12 +21365,62 @@
       "siteUrl": "https://www.lowyat.net",
       "articles": [
         {
+          "id": "https://www.lowyat.net/?p=409419",
+          "author": "Heirul Kamel",
+          "description": "The Apple MacBook Pro PROLED XDR series has finally arrived, bringing performance upgrades and, most importantly, an all-new touchscreen display. The latter is particularly interesting, especially when it comes to discussing its necessity, let alone practicality. While I can’t give you my verdict on that just yet, I can share some initial thoughts after spending […]\nThe post MacBook Pro PROLED XDR (14-Inch) Hands On: Added Touches appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409419/macbook-pro-proled-xdr-hands-on/",
+          "publishedOn": "2026-11-07T11:51:25.000Z",
+          "wordCount": 13523,
+          "title": "MacBook Pro PROLED XDR (14-Inch) Hands On: Added Touches",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/apple-macbook-pro-proled-xdr-hands-on_03.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409410",
+          "author": "Ian Chee",
+          "description": "Local custom PC brand Illegear has announced what it calls the Apex monitors. More specifically, these are available in two sizes – 24.5 and 27 inches. Both feature IPS panels, flat screens, built-in speakers, high refresh rates, support for Adaptive Sync, and a 1ms response time. Beyond those, the larger of the two generally has […]\nThe post Illegear Announces Apex Monitors; Available In 25-, 27-Inch Models appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409410/illegear-apex-monitors-in-25-27-inch/",
+          "publishedOn": "2026-11-07T10:15:33.000Z",
+          "wordCount": 13207,
+          "title": "Illegear Announces Apex Monitors; Available In 25-, 27-Inch Models",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/Illegear-Apex.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409407",
+          "author": "John Law",
+          "description": "Six pallet of unknown NVIDIA hardware was reportedly stolen in the US, while they were being transported between the state of Oakland and Texas two months ago. The value of the cargo was valued at US$11.4 million (~RM46.3 million) and was reportedly picked up by a truck in the state of California before vanishing off […]\nThe post US$11.4 Million Worth Of NVIDIA Hardware Reportedly Vanished In California appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409407/us11-4-million-worth-of-nvidia-hardware-reportedly-vanished-in-california/",
+          "publishedOn": "2026-11-07T08:39:24.000Z",
+          "wordCount": 13268,
+          "title": "US$11.4 Million Worth Of NVIDIA Hardware Reportedly Vanished In California",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/NVIDIA-Vera-Rubin-Rack-Setup-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409391",
+          "author": "Nurul Kamil",
+          "description": "The latest WhatsApp update brings a feature that goes beyond simply messaging and calling. With the new Events Home, users can plan and organise events, with the option to invite those who do not have an account on the platform. As per the company’s announcement, this feature comes as a response to a request from […]\nThe post WhatsApp Rolls Out Events Hub With Shareable Invites, Custom Reminders appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409391/whatsapp-events-hub-shareable-invites/",
+          "publishedOn": "2026-11-07T01:00:54.000Z",
+          "wordCount": 13233,
+          "title": "WhatsApp Rolls Out Events Hub With Shareable Invites, Custom Reminders",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/whatsapp-events-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409395",
+          "author": "Evelyn Chu",
+          "description": "Bank Rakyat has disabled access to most of its websites after several of its banking pages, including the iRakyat online banking login page, were defaced in a suspected cyberattack late on Friday. Shortly before midnight, the bank posted a notice on its social media channels after the defaced sites were taken offline. The bank did […]\nThe post Bank Rakyat Takes Down Sites After Suspected Cyber Attack appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409395/bank-rakyat-takes-down-sites-after-suspected-cyber-attack/",
+          "publishedOn": "2026-11-06T19:39:53.000Z",
+          "wordCount": 13182,
+          "title": "Bank Rakyat Takes Down Sites After Suspected Cyber Attack",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/bnm-fines-bank-rakyat-over-data-breach-2.webp"
+        },
+        {
           "id": "https://www.lowyat.net/?p=409386",
           "author": "John Law",
           "description": "AEON Credit recently introduced its FacePay payment system via AEON Wallet and yes, that description aptly explains how customers can make payments with the digital bank’s services. With just a customer’s face, FacePay will allow customers to make payment via facial recognition. In the company’s own words: “After shopping, customers can proceed to selected self-checkout […]\nThe post AEON Credit Introduces FacePay Via AEON Wallet appeared first on Lowyat.NET.",
           "link": "https://www.lowyat.net/2026/409386/aeon-credit-introduces-facepay-via-aeon-wallet/",
           "publishedOn": "2026-11-06T09:58:37.000Z",
-          "wordCount": 13229,
+          "wordCount": 13200,
           "title": "AEON Credit Introduces FacePay Via AEON Wallet",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/AEON-Credit-FacePay-2-1240x775.webp"
         },
@@ -21476,7 +21430,7 @@
           "description": "Last month, RedMagic launched the 12 Pro+ gaming phone in its home market. At the time, the company confirmed that the phone would head to global markets soon after, dropping the plus symbol from the name when it does. Sure enough, the nubia subsidiary has announced that the phone is coming to the local market […]\nThe post RedMagic 12 Pro Launches In Malaysia; Availability Starts 10 November appeared first on Lowyat.NET.",
           "link": "https://www.lowyat.net/2026/409366/redmagic-12-pro-malaysia-10-november/",
           "publishedOn": "2026-11-06T09:19:14.000Z",
-          "wordCount": 13407,
+          "wordCount": 13378,
           "title": "RedMagic 12 Pro Launches In Malaysia; Availability Starts 10 November",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/RedMagic-12-Pro-2.webp"
         },
@@ -21486,7 +21440,7 @@
           "description": "If you’ve been keeping up with the POCO X8 series, then you’d be aware that the lineup has been steadily growing, with the X8s making an appearance in some markets not too long ago. Now, the smartphone has arrived on our shores, serving as the compact but still capable option. Starting with the design, it […]\nThe post POCO X8s Officially Lands In Malaysia With Snapdragon 7 Gen 4 SoC, 6,330mAh Battery appeared first on Lowyat.NET.",
           "link": "https://www.lowyat.net/2026/409362/poco-x8s-malaysia-snapdragon-7-gen-4/",
           "publishedOn": "2026-11-06T09:02:03.000Z",
-          "wordCount": 13356,
+          "wordCount": 13326,
           "title": "POCO X8s Officially Lands In Malaysia With Snapdragon 7 Gen 4 SoC, 6,330mAh Battery",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/poco-x8s-1.webp"
         },
@@ -21496,7 +21450,7 @@
           "description": "Bank Islam has identified a compatibility issue affecting version 2.10.1 of its BIMB Mobile banking application on devices running Android 17. As a result, the bank is advising users who have yet to update the app to hold off on installing the latest version until further notice. According to the bank, an investigation is currently […]\nThe post Bank Islam Acknowledges BIMB Mobile Version 2.10.1 Issues On Android 17; Advises Users Not To Update appeared first on Lowyat.NET.",
           "link": "https://www.lowyat.net/2026/409359/bank-islam-bimb-android-17-issue/",
           "publishedOn": "2026-11-06T08:23:12.000Z",
-          "wordCount": 13211,
+          "wordCount": 13176,
           "title": "Bank Islam Acknowledges BIMB Mobile Version 2.10.1 Issues On Android 17; Advises Users Not To Update",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/11/Bank-Islam-BIMB-launch-2.webp"
         },
@@ -21506,59 +21460,9 @@
           "description": "Infinix has announced its latest earbuds for the local market. The ZCLIP 2 Pro sports an open-ear design with what the brand calls the Airy U-Bridge Fit. This lightweight clip-on structure is designed to ensure the buds sit securely and naturally on the ears for a comfortable fit. Internally, the audio device comes with dual […]\nThe post Infinix ZCLIP 2 Pro Officially Launches In Malaysia With Open-Ear Design, 35-Hour Battery Life appeared first on Lowyat.NET.",
           "link": "https://www.lowyat.net/2026/409350/infinix-zclip-2-pro-malaysia/",
           "publishedOn": "2026-11-06T07:31:56.000Z",
-          "wordCount": 13296,
+          "wordCount": 13268,
           "title": "Infinix ZCLIP 2 Pro Officially Launches In Malaysia With Open-Ear Design, 35-Hour Battery Life",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/infinix-zclip-2-pro-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409317",
-          "author": "Nurul Kamil",
-          "description": "CelcomDigi has announced it’s annual year-end campaign, Play Deals. Set to commence next week, the sale will run until 15 February 2027, covering phones, gaming, as well as entertainment and roaming. To start, the telco is offering up to three months of free CelcomDigi postpaid bills with selected products. Available via its Easy360 instalment scheme, […]\nThe post CelcomDigi Announces  Exclusive Year-End Play Deals appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409317/celcomdigi-year-end-play-deals/",
-          "publishedOn": "2026-11-06T05:33:17.000Z",
-          "wordCount": 13281,
-          "title": "CelcomDigi Announces  Exclusive Year-End Play Deals",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/celcomdigi-play-deals-life-store-118-mall-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409306",
-          "author": "Ian Chee",
-          "description": "The Samsung Galaxy A18 has made a couple of appearances on the internet before, but now, the company has announced the launch of the phone in the local market. The announcement makes no specific mention of 5G, but does mention LTE a couple of times, which should be enough of an indication as to which […]\nThe post Samsung Galaxy A18 Now Available For RM1,199 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409306/samsung-galaxy-a18-available-for-rm1199/",
-          "publishedOn": "2026-11-06T05:24:58.000Z",
-          "wordCount": 13254,
-          "title": "Samsung Galaxy A18 Now Available For RM1,199",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/Samsung-Galaxy-A18.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409329",
-          "author": "John Law",
-          "description": "If you’re in the market for a portable power station, you may want to cast your eyes towards the DJI Power Auro 2000 Elite. Essentially a 2kWh power brick, this portable power station is designed to power your devices on the go, be it at your convenience or in a pinch. Specs-wise, the DJI Power […]\nThe post The DJI Power Auro 2000 Elite Is Available In Malaysia For RM6,509 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409329/the-dji-power-auro-2000-elite-is-available-in-malaysia-for-rm6509/",
-          "publishedOn": "2026-11-06T05:05:20.000Z",
-          "wordCount": 13409,
-          "title": "The DJI Power Auro 2000 Elite Is Available In Malaysia For RM6,509",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/DJI-Power-Auro-2000-Elite-1-1240x817.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409315",
-          "author": "John Law",
-          "description": "Asus recently announced that its ZenWiFi BN12 mesh router system is now shipping. The mesh router was first unveiled during Computex 2026, and is the brand’s first Wi-Fi 8 mesh router. “The ZenWiFi BN12 is a tri-band model delivering speeds of up to 19Gbps, featuring advanced WiFi 8 technologies including new Modulation and Coding Scheme […]\nThe post ASUS ZenWiFi BN12 Is Now Being Shipped appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409315/asus-zenwifi-bn12-is-now-being-shipped/",
-          "publishedOn": "2026-11-06T03:48:08.000Z",
-          "wordCount": 13292,
-          "title": "ASUS ZenWiFi BN12 Is Now Being Shipped",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/Asus-ZenWifi-BN12-1-1240x771.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409307",
-          "author": "Heirul Kamel",
-          "description": "Casio’s G-Shock Mudman GDG-B100 is making its way to Malaysia. First announced last month, this latest addition to the brand’s rugged outdoor watch lineup introduces an MIP LCD to the Mudman series for improved outdoor visibility, while adding Bluetooth connectivity and basic fitness tracking features.  In case you missed it, the GDG-B100 series consists of […]\nThe post Casio G-Shock Mudman GDG-B100 Now Up For Pre-Order In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409307/casio-g-shock-mudman-gdg-b100-malaysia/",
-          "publishedOn": "2026-11-06T03:18:16.000Z",
-          "wordCount": 13308,
-          "title": "Casio G-Shock Mudman GDG-B100 Now Up For Pre-Order In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/casio-g-shock-gdg-b100-mudman-pre-order-malaysia-2.webp"
         },
         {
           "id": "https://www.lowyat.net/?p=409268",
@@ -22604,116 +22508,6 @@
           "wordCount": 13462,
           "title": "Maxis To Acquire Astro’s Broadband Business For Up To RM83 Million",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Maxis-file-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408285",
-          "author": "Nurul Kamil",
-          "description": "The Insta360 Mic has officially launched, completing the brand’s wireless microphone lineup. It slots between the entry-level Mic Air and the flagship Mic Pro, adopting many of the fancier features from the latter. The device is aimed at creators who want a capable recording setup without having to commit to the flagship model. In terms […]\nThe post Insta360 Mic Officially Launched With E-Ink Display, Expandable Storage appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408285/insta360-mic-expandable-storage/",
-          "publishedOn": "2026-10-24T02:28:07.000Z",
-          "wordCount": 13274,
-          "title": "Insta360 Mic Officially Launched With E-Ink Display, Expandable Storage",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/insta360-mic-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408273",
-          "author": "Ian Chee",
-          "description": "Since the start of the week, you likely have seen reports of Spotify starting to crack down on users sharing a Family Plan without being in the same household. It looks like the company has confirmed that it is indeed doing so, but rejects the framing of its actions, and is calling it a “routine […]\nThe post Spotify Confirms Family Plan Crackdown; Calls It A “Routine Improvement” appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408273/spotify-confirms-family-plan-crackdown/",
-          "publishedOn": "2026-10-23T10:48:37.000Z",
-          "wordCount": 13385,
-          "title": "Spotify Confirms Family Plan Crackdown; Calls It A “Routine Improvement”",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/01/Expiring-Licenses-Music-Streaming-Spotify-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408281",
-          "author": "Heirul Kamel",
-          "description": "The government is seeking an explanation from Waze over how it collects and handles Malaysians’ personal data, citing concerns over data security and the potential exposure of sensitive information. The move follows the government’s decision to prohibit civil servants from using the navigation app for official duties, with Prime Minister Datuk Seri Anwar Ibrahim now […]\nThe post Govt Wants Waze To Explain How It Handles Malaysians’ Data appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408281/govt-wants-waze-explain-data-handling/",
-          "publishedOn": "2026-10-23T10:06:20.000Z",
-          "wordCount": 13515,
-          "title": "Govt Wants Waze To Explain How It Handles Malaysians’ Data",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/waze-brett-jordan-unsplash.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408274",
-          "author": "Kiran Ganesan",
-          "description": "After more than a decade of selling dedicated 4K Blu-ray players, Sony Japan appears to be exiting the standalone UHD Blu-ray player market in its home country. This is because the company has discontinued its last UHD Blu-ray player, the UBP-X700/K, with shipment officially ending in its home market starting today. According to FlatpanelsHD, the […]\nThe post Sony Discontinues Its Last 4K Blu-ray Player In Japan appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408274/sony-discontinues-blu-ray-player-japan/",
-          "publishedOn": "2026-10-23T09:57:33.000Z",
-          "wordCount": 13513,
-          "title": "Sony Discontinues Its Last 4K Blu-ray Player In Japan",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Sony-Discontinues-Its-Last-4K-Blu-ray-Player-In-Japan-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408268",
-          "author": "John Law",
-          "description": "Developer and Miguel C has released the source code for Snapintosh OS. Basically, the program is an experimental project that brings the macOS 27 Golden Gate to Qualcomm  Snapdragon hardware and more specifically, the Snapdragon X2 Series laptops. As per the Readme on its GitHub page: “Snapintosh boots Apple’s macOS 27 (build 26A428) on an […]\nThe post Modder Brings Snapintosh macOS 27 Port Over To Snapdragon X2 Laptops appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408268/modder-brings-snapintosh-macos-27-port-over-to-snapdragon-x2-laptops/",
-          "publishedOn": "2026-10-23T08:52:44.000Z",
-          "wordCount": 13423,
-          "title": "Modder Brings Snapintosh macOS 27 Port Over To Snapdragon X2 Laptops",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Snapintosh-Qualcomm-Snapdragon-X2-Series-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408259",
-          "author": "Nurul Kamil",
-          "description": "U Mobile has announced that it is collaborating with Malaysia Rapid Transit Corporation (MRT Corp) to explore the provision of 4G and 5G in-building coverage (IBC) at the Immigration, Customs and Quarantine Complex (ICQC) in Bukit Chagar, Johor Bahru. This partnership, which was formalised through the signing of a Memorandum of Understanding (MoU), is aimed […]\nThe post U Mobile Partners With MRT Corp For 4G, 5G Coverage At RTS Link Gateway appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408259/u-mobile-mrt-corp-coverage-rts-link/",
-          "publishedOn": "2026-10-23T08:29:01.000Z",
-          "wordCount": 13333,
-          "title": "U Mobile Partners With MRT Corp For 4G, 5G Coverage At RTS Link Gateway",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/u-mobile-mrt-corp-mou-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408255",
-          "author": "Ian Chee",
-          "description": "Ever since the incident with Hugging Face involving OpenAI and its rogue agents, it seems like the number of incidents involving other rogue AI agents is popping up like mushrooms. Just earlier this month, there have been reports of rogue agents messing with the Wikimedia Foundation, as well as submitting fake homicide tips to the […]\nThe post US Banks Detect Access By AI Agents Without User Authorisation appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408255/banks-ai-agents-without-authorisation/",
-          "publishedOn": "2026-10-23T08:04:08.000Z",
-          "wordCount": 13362,
-          "title": "US Banks Detect Access By AI Agents Without User Authorisation",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/05/artificial-intelligence-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408249",
-          "author": "John Law",
-          "description": "A security researcher by the name of Sammy Hajhamid, or pepsipu on X, recently claimed that they have successfully jailbroken the Nintendo Switch 2 console. To celebrate their success, the first thing they did was to mod the avatars of Cinnamoroll, Peter Griffin, and Hatsune Miku into Mario Kart World. According to the developer, they […]\nThe post Researcher Claims To Have Successfully Jailbroken Nintendo Switch 2 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408249/researcher-claims-to-have-successfully-jailbroken-nintendo-switch-2/",
-          "publishedOn": "2026-10-23T07:41:33.000Z",
-          "wordCount": 13303,
-          "title": "Researcher Claims To Have Successfully Jailbroken Nintendo Switch 2",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Nintendo-Switch-2-Jailbreak-AI-Exploit-1-1240x694.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408238",
-          "author": "Nurul Kamil",
-          "description": "Those who pre-ordered the iPhone Duo should begin receiving their devices today. As Apple’s first ever foldable, the smartphone is capable of offering the same user experience regardless of whether it’s in its folded or unfolded state. That is, provided the app has been optimised for the new form factor. With this in mind, the […]\nThe post Apple Rolling Out “Made For iPhone Duo” Badge For Compatible Apps appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408238/apple-made-for-iphone-duo-badge/",
-          "publishedOn": "2026-10-23T05:51:47.000Z",
-          "wordCount": 13361,
-          "title": "Apple Rolling Out “Made For iPhone Duo” Badge For Compatible Apps",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/apple-made-for-iphone-duo-optimised-apps-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408229",
-          "author": "Heirul Kamel",
-          "description": "The National Security Council (MKN) has clarified that Google Maps is exempt from the government’s recent restriction on civil servants using Waze for official duties. Despite both navigation apps being owned by Google, the council said they are treated differently due to differences in their respective legal jurisdictions. In a statement, MKN said Google Maps […]\nThe post MKN: Google Maps Exempt From Civil Servants’ Ban Due To Being Under US Law appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408229/mkn-google-maps-exempt-from-ban/",
-          "publishedOn": "2026-10-23T04:19:37.000Z",
-          "wordCount": 13384,
-          "title": "MKN: Google Maps Exempt From Civil Servants’ Ban Due To Being Under US Law",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2020/08/maxresdefault.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408233",
-          "author": "Kiran Ganesan",
-          "description": "While the iPhone Duo has only just hit store shelves today, Apple is reportedly already working on its successor. According to Bloomberg’s Mark Gurman on his latest Power On podcast, the company is testing iPhone Duo 2 prototypes equipped with under-display Face ID on the outer screen. One of the main criticisms of the first-generation […]\nThe post Apple Reportedly Working On iPhone Duo 2; May Feature Face ID appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408233/apple-working-on-iphone-duo-2-face-id/",
-          "publishedOn": "2026-10-23T04:16:59.000Z",
-          "wordCount": 13287,
-          "title": "Apple Reportedly Working On iPhone Duo 2; May Feature Face ID",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/09/iphone-duo-launch-15.webp"
         }
       ]
     },
@@ -22722,6 +22516,26 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+          "author": "Rob Wright",
+          "description": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+          "publishedOn": "2026-11-06T21:27:36.000Z",
+          "wordCount": null,
+          "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+          "author": "Gerald Mako, Lemuel Valdez",
+          "description": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
+          "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+          "publishedOn": "2026-11-06T18:27:30.000Z",
+          "wordCount": null,
+          "title": "AI Gave Your Incident Archive a Second Job",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
           "author": "Alexander Culafi",
@@ -22740,6 +22554,16 @@
           "publishedOn": "2026-11-06T09:00:00.000Z",
           "wordCount": null,
           "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+          "author": "Robert Lemos",
+          "description": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+          "publishedOn": "2026-11-05T22:13:23.000Z",
+          "wordCount": null,
+          "title": "Operação de influência russa tem como alvo generalizado a América Latina",
           "imageUrl": null
         },
         {
@@ -23180,66 +23004,6 @@
           "publishedOn": "2026-10-26T14:00:00.000Z",
           "wordCount": null,
           "title": "10 Software Security Practices Built for the Next 250 Years",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-          "author": "Arielle Waldman",
-          "description": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
-          "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-          "publishedOn": "2026-10-23T20:57:56.000Z",
-          "wordCount": null,
-          "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-          "author": "Nate Nelson",
-          "description": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
-          "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-          "publishedOn": "2026-10-23T19:41:23.000Z",
-          "wordCount": null,
-          "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-          "author": "Robert Lemos",
-          "description": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-          "publishedOn": "2026-10-23T17:26:59.000Z",
-          "wordCount": null,
-          "title": "AI Tools Are Generating Massive Attacks for Little Cost",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
-          "author": "Marlon Cooper",
-          "description": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
-          "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
-          "publishedOn": "2026-10-23T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
-          "author": "Alexander Culafi",
-          "description": "Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself.",
-          "link": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
-          "publishedOn": "2026-10-23T13:30:00.000Z",
-          "wordCount": null,
-          "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-          "author": "Jeffrey Schwartz",
-          "description": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-          "publishedOn": "2026-10-23T11:38:28.000Z",
-          "wordCount": null,
-          "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
           "imageUrl": null
         }
       ]
