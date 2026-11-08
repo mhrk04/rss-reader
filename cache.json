@@ -21276,86 +21276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
-          "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-          "publishedOn": "2026-10-24T11:09:29.000Z",
-          "wordCount": null,
-          "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n\"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
-          "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-          "publishedOn": "2026-10-24T11:03:33.000Z",
-          "wordCount": null,
-          "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n\"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
-          "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-          "publishedOn": "2026-10-24T10:36:33.000Z",
-          "wordCount": null,
-          "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent.\n\nPopcorn Time was",
-          "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-          "publishedOn": "2026-10-24T09:04:24.000Z",
-          "wordCount": null,
-          "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.\n\nThe critical-severity vulnerabilities are listed below -\n\n\n  CVE-2026-110447 (CVSS score: 9.2) - An operating",
-          "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-          "publishedOn": "2026-10-24T06:25:57.000Z",
-          "wordCount": null,
-          "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg"
         }
       ]
     },
@@ -21364,6 +21284,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=409449",
+          "author": "Ian Chee",
+          "description": "Back in June, WhatsApp started rolling out the feature that lets users be known by their usernames rather than their phone numbers. Once users have a valid username, the platform will automatically hide their phone numbers from people they message for the first time, with established contacts retaining visibility of the phone numbers. More recently, […]\nThe post WhatsApp Tests Letting Users Control Who Sees Their Phone Numbers appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409449/whatsapp-tests-users-control-numbers/",
+          "publishedOn": "2026-11-08T08:57:31.000Z",
+          "wordCount": 13218,
+          "title": "WhatsApp Tests Letting Users Control Who Sees Their Phone Numbers",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/WhatsApp-Stock-lowyat-2026-3-1240x930.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409444",
+          "author": "Nurul Kamil",
+          "description": "After mostly focusing on budget phones and franchise tie-ins, OPPO sub-brand realme is preparing to launch the next generation of its numbered series. Ahead of any official announcements, though, details on the upcoming lineup have begun to surface. A recent leak has revealed the key specifications of the realme 17 Pro, including its chipset and […]\nThe post realme 17 Pro Specifications Leaked; May Debut With Dimensity 7300 SoC, Huge 10,000mAh Battery appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409444/realme-17-pro-leak-10000mah-battery/",
+          "publishedOn": "2026-11-08T05:36:57.000Z",
+          "wordCount": 13300,
+          "title": "realme 17 Pro Specifications Leaked; May Debut With Dimensity 7300 SoC, Huge 10,000mAh Battery",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/realme-16-Pro-colours.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409440",
+          "author": "Heirul Kamel",
+          "description": "Bank Rakyat has clarified that the recent disruption to its corporate website stemmed from a technical issue involving a third-party service provider. The bank said the incident was limited to its corporate website and did not affect its core banking systems or day-to-day operations. It also assured customers that their personal data, banking information, and […]\nThe post Bank Rakyat Website Disruption Linked To Third-Party Provider; Fahmi Assures Online Banking Is Safe appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409440/bank-rakyat-disruption-third-party/",
+          "publishedOn": "2026-11-08T05:21:56.000Z",
+          "wordCount": 13317,
+          "title": "Bank Rakyat Website Disruption Linked To Third-Party Provider; Fahmi Assures Online Banking Is Safe",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/bnm-fines-bank-rakyat-data-breach-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409435",
+          "author": "John Law",
+          "description": "It appears that AMD’s alleged Medusa Point Zen 6 APU has surfaced on Geekbench. Interestingly, the repository shows an interesting core configuration and cluster formation. According to the Geekbench listing, the Zen 6 Medusa Point showcases a 10-core, 20-thread configuration for the CPU, and that it is divided into two clusters: four Zen 6 cores […]\nThe post Alleged AMD Zen 6 Medusa Point APU Surfaces On Geekbench appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409435/alleged-amd-zen-6-medusa-point/",
+          "publishedOn": "2026-11-08T01:00:04.000Z",
+          "wordCount": 13246,
+          "title": "Alleged AMD Zen 6 Medusa Point APU Surfaces On Geekbench",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/AMD-Ryzen-Chiplet-Delidded-Shot-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=409419",
           "author": "Heirul Kamel",
@@ -22478,36 +22438,6 @@
           "wordCount": 13291,
           "title": "Nothing Begins Teasing New Product, Likely The Ear (3) Pro",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Nothing-Ear-3-open.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408301",
-          "author": "Ian Chee",
-          "description": "Capcom suffered a security breach earlier in the week, with as many as 11.7 million customer accounts being affected. More specifically, a hacker accessed information associated with the publisher’s Capcom ID on 19 October. While the company says that it has “completed the necessary emergency response measures” to ensure gamers can continue to use their […]\nThe post Capcom Confirms Security Breach Affecting 11.7 Million Accounts appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408301/capcom-security-breach-11-7-million/",
-          "publishedOn": "2026-10-24T11:10:04.000Z",
-          "wordCount": 13241,
-          "title": "Capcom Confirms Security Breach Affecting 11.7 Million Accounts",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Capcom-TGS-2007.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408296",
-          "author": "John Law",
-          "description": "TujuProsignal Consortium Sdn Bhd, the company behind the locally developed navigation app, TuJu, issued a public apology to its users regarding the technical disruptions it faced. The company posted the apology across all its social media channels and promised that stable navigation services will resume within two weeks. It acknowledged that the issues lay in […]\nThe post TuJu Issues Apologies Over App Disruptions; Promises Fix Within Two Weeks appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408296/tuju-issues-apologies-over-app-disruptions-promises-fix-within-two-weeks/",
-          "publishedOn": "2026-10-24T07:53:12.000Z",
-          "wordCount": 13257,
-          "title": "TuJu Issues Apologies Over App Disruptions; Promises Fix Within Two Weeks",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/tuju-app-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408294",
-          "author": "Heirul Kamel",
-          "description": "Maxis is set to acquire Astro’s broadband business for up to RM83 million, following a conditional sale and purchase agreement (SPA) signed between their respective subsidiaries. The proposed deal will see Maxis Broadband Sdn Bhd, a wholly owned subsidiary of Maxis, take over the broadband business assets of MEASAT Broadcast Network Systems Sdn Bhd (MBNS), […]\nThe post Maxis To Acquire Astro’s Broadband Business For Up To RM83 Million appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408294/maxis-to-acquire-astro-broadband/",
-          "publishedOn": "2026-10-24T05:14:14.000Z",
-          "wordCount": 13462,
-          "title": "Maxis To Acquire Astro’s Broadband Business For Up To RM83 Million",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/09/Maxis-file-2.webp"
         }
       ]
     },
