@@ -19294,6 +19294,182 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.\n\nThe attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed.\n\nQubole, a data lake platform owned by Idera,",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+          "publishedOn": "2026-11-09T17:51:21.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.\n\nBoth releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
+          "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+          "publishedOn": "2026-11-09T17:36:28.000Z",
+          "wordCount": null,
+          "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT.\n\n\"PapRAT has both C++ and Rust implementations,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"Its capabilities include command execution, file",
+          "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+          "publishedOn": "2026-11-09T14:31:29.000Z",
+          "wordCount": null,
+          "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack.\n\nElsewhere, attackers are hiding inside normal web traffic, stealing credentials from network devices, and finding new uses for exposed",
+          "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+          "publishedOn": "2026-11-09T13:28:25.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s1600/rr.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s1600/rr.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine.\n\nBoth apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an",
+          "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+          "publishedOn": "2026-11-09T11:27:53.000Z",
+          "wordCount": null,
+          "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI85M0pHHPiXe5ar2VpaGsBVRzxoYfZhpQTKgWqd8YGjK9Nyaca-z6XrGT3jT0lqh41qe-cAjb33_r7JErd7rB1CfuWkgTP_z-_IJkpQPWebz1GeEvSu9QpE5XYWRMOfhYTHmzhbkFB07hzSuV1FYARdaIWjfB_mUoX1_eMjl_3dOaSUFpTQvjt-34eQo/s1600/login-car.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI85M0pHHPiXe5ar2VpaGsBVRzxoYfZhpQTKgWqd8YGjK9Nyaca-z6XrGT3jT0lqh41qe-cAjb33_r7JErd7rB1CfuWkgTP_z-_IJkpQPWebz1GeEvSu9QpE5XYWRMOfhYTHmzhbkFB07hzSuV1FYARdaIWjfB_mUoX1_eMjl_3dOaSUFpTQvjt-34eQo/s1600/login-car.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.\n\nKeplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week.\n\nWeb3Auth then used the attacker's own route to empty other at-risk wallets before the attacker",
+          "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+          "publishedOn": "2026-11-09T10:56:25.000Z",
+          "wordCount": null,
+          "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtevfYXrRQrcU5FKn33bfyWpqN9O6FlI2b1eWOTjNWWslLIM1wwUfpzedZdMvdw6BXqmYqM1PwO-8GH3_IpKOGa15uoiXx5yDTkAal7JOFSKisSYOAHBdRk9XImTowXaCyJlTwX-chPd7uJFCDEq8u9sKY7jW6UYxorQKUSyuH9pF3szdwejvN_HGhno/s1600/kep.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtevfYXrRQrcU5FKn33bfyWpqN9O6FlI2b1eWOTjNWWslLIM1wwUfpzedZdMvdw6BXqmYqM1PwO-8GH3_IpKOGa15uoiXx5yDTkAal7JOFSKisSYOAHBdRk9XImTowXaCyJlTwX-chPd7uJFCDEq8u9sKY7jW6UYxorQKUSyuH9pF3szdwejvN_HGhno/s1600/kep.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.\n\nIt has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could",
+          "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+          "publishedOn": "2026-11-09T10:01:21.000Z",
+          "wordCount": null,
+          "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.\n\nThe agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login.\n\nThe researchers are highly confident that the attacker is a single person",
+          "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+          "publishedOn": "2026-11-09T09:01:50.000Z",
+          "wordCount": null,
+          "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd53Ql49F0iuQEtdvfoxOLNTuQnYM5oGQkqnQ3ym4aIW-HVZuHtOqzyi0IdwUxpFj5qU_jbUEKzPXG4Wx7Uj7g2-UKDotvOh0_AlNlkEIpgLbEBDuQxDkuxDFlukNKKbWXXZv1xCeHEtoOQ_Z1XQUshkJmlBaOmGQzMbryg6KHbOdt8IR7MNQ5oADM-GM/s1600/CYBER-AI.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd53Ql49F0iuQEtdvfoxOLNTuQnYM5oGQkqnQ3ym4aIW-HVZuHtOqzyi0IdwUxpFj5qU_jbUEKzPXG4Wx7Uj7g2-UKDotvOh0_AlNlkEIpgLbEBDuQxDkuxDFlukNKKbWXXZv1xCeHEtoOQ_Z1XQUshkJmlBaOmGQzMbryg6KHbOdt8IR7MNQ5oADM-GM/s1600/CYBER-AI.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.\n\nAccording to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026.\n\nIf proven guilty, the",
+          "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+          "publishedOn": "2026-11-09T07:05:48.000Z",
+          "wordCount": null,
+          "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MuMJQQRaLilGnzYMqgighbIcm726E965P9JqACVPbah4ID7WePGRjwdlaYG3BUIUPB3vkX9Xzs7sXIEuU9ZoEcPo-2N__SwxcCk_IhbrH-9IhJjeW0Go2d9TGw2ZJcqMLquHLOfQVn0JCQhDrKsZujSFFsenYB28oTBnFyUWBQNmS_DVmjaxUWxXxgjT/s1600/openai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MuMJQQRaLilGnzYMqgighbIcm726E965P9JqACVPbah4ID7WePGRjwdlaYG3BUIUPB3vkX9Xzs7sXIEuU9ZoEcPo-2N__SwxcCk_IhbrH-9IhJjeW0Go2d9TGw2ZJcqMLquHLOfQVn0JCQhDrKsZujSFFsenYB28oTBnFyUWBQNmS_DVmjaxUWxXxgjT/s1600/openai.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory.\n\n\"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
+          "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+          "publishedOn": "2026-11-09T06:15:10.000Z",
+          "wordCount": null,
+          "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks.\n\nThe vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
+          "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+          "publishedOn": "2026-11-09T06:05:24.000Z",
+          "wordCount": null,
+          "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file.\n\nSoftware security company Apiiro said yesterday that 1,122 public",
@@ -21212,70 +21388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week.\n\nThe company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder.\n\nThe file",
-          "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-          "publishedOn": "2026-10-26T06:03:48.000Z",
-          "wordCount": null,
-          "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target.\n\nThe findings were",
-          "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-          "publishedOn": "2026-10-25T17:44:09.000Z",
-          "wordCount": null,
-          "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws.\n\n\"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via",
-          "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-          "publishedOn": "2026-10-25T17:19:46.000Z",
-          "wordCount": null,
-          "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
-          "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-          "publishedOn": "2026-10-25T06:54:29.000Z",
-          "wordCount": null,
-          "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg"
         }
       ]
     },
@@ -21284,6 +21396,46 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=409465",
+          "author": "Ian Chee",
+          "description": "Whether for better or worse, or indeed both, the Cybertruck has been a pretty iconic vehicle made by electric car company Tesla. That said, the company will be winding down production of the iconic car around the middle of next year. This comes via CEO Elon Musk, who made the announcement on X. The reason […]\nThe post Tesla To Wind Down Cybertruck Production Mid-2027 In Favour Of Cybercabs appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409465/tesla-wind-down-cybertruck-for-cybercab/",
+          "publishedOn": "2026-11-09T08:16:31.000Z",
+          "wordCount": 13432,
+          "title": "Tesla To Wind Down Cybertruck Production Mid-2027 In Favour Of Cybercabs",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/04/Tesla-Cybertruck-Preview-1-1024x681.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409459",
+          "author": "Nurul Kamil",
+          "description": "US chip giant NVIDIA has launched an investigation following reports of its CEO Jensen Huang’s extramarital affair with a suspected spy for the Chinese government. In a recent statement, the company’s board disclosed that a committee of independent directors, assisted by outside independent counsel, will oversee the probe. The statement went on to assert that […]\nThe post NVIDIA Board Opens Investigation Into CEO Jensen Huang’s Affair With Alleged Chinese Spy appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409459/nvidia-investigation-ceo-affair-spy/",
+          "publishedOn": "2026-11-09T06:00:28.000Z",
+          "wordCount": 13364,
+          "title": "NVIDIA Board Opens Investigation Into CEO Jensen Huang’s Affair With Alleged Chinese Spy",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/Jensen-Huang-Computex-2025-5-1024x768.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409456",
+          "author": "Heirul Kamel",
+          "description": "Malaysia is looking to accelerate its transition towards quantum-resistant security technologies as advances in quantum computing threaten to undermine existing encryption methods. According to Communications Minister Fahmi Fadzil, the government is exploring ways to strengthen the country’s data protection capabilities in preparation for these emerging cybersecurity challenges. For context, quantum migration refers to the process […]\nThe post Malaysia Considers Accelerating Quantum Migration To Strengthen Data Security appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409456/msia-quantum-migration-data-security/",
+          "publishedOn": "2026-11-09T04:46:10.000Z",
+          "wordCount": 13250,
+          "title": "Malaysia Considers Accelerating Quantum Migration To Strengthen Data Security",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/telcos-must-prepare-for-quantum-satellite-shift-4.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409453",
+          "author": "John Law",
+          "description": "Kaiser Ng, the chief financial officer (CFO) at cryptoexchange, Binance, is leaving the company. Ng’s departure comes a week after the company fell victim to hackers who made off with more than US$6 billion (~RM24.3 billion), raising questions amongst the community in the process. “Kaiser Ng has decided to pursue a new venture after more […]\nThe post Binance CFO Resigns Days After Company Loses US$6 Billion To Hackers appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409453/binance-cfo-resigns-days-after-company-loses-us6-billion-to-hackers/",
+          "publishedOn": "2026-11-09T01:00:28.000Z",
+          "wordCount": 13217,
+          "title": "Binance CFO Resigns Days After Company Loses US$6 Billion To Hackers",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/binance-official-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=409449",
           "author": "Ian Chee",
@@ -22368,76 +22520,6 @@
           "wordCount": 13266,
           "title": "Marshall Bromley 150 Portable Party Speaker Launches In Malaysia",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/marshall-bromley-150-launch-malaysia_06.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408379",
-          "author": "John Law",
-          "description": "Bazzite, the custom open-source Linux OS that was designed to offer SteamOS-like functionality, is now extending its functionality out to gaming handhelds, the first being the Asus ROG Xbox Ally X20. The handheld now supports the OS, and the team says that Acer’s Intel Arc G3 Extreme-powered handheld is next on the list. “We’ve already […]\nThe post Bazzite Expands Support To Asus ROG Xbox Ally X20 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408379/bazzite-expands-support-to-asus-rog-xbox-ally-x20/",
-          "publishedOn": "2026-10-26T05:59:46.000Z",
-          "wordCount": 13303,
-          "title": "Bazzite Expands Support To Asus ROG Xbox Ally X20",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/ASUS-ROG-Xbox-Ally-X-20th-anniversary-X-20-1-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408361",
-          "author": "Nurul Kamil",
-          "description": "Earlier this year, AEON Bank announced Neko Sensei, its cat-themed AI personal financial coach. Now, the digital banking app is building on the experience with the launch of a new Financial Purr-Sona feature. If the name doesn’t already clue you in, the feature assigns a relevant persona to the user based on their financial habits. […]\nThe post AEON Bank Unveils New AI-Powered Financial Purr-Sona Feature appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408361/aeon-bank-financial-purr-sona-feature/",
-          "publishedOn": "2026-10-26T05:54:50.000Z",
-          "wordCount": 13311,
-          "title": "AEON Bank Unveils New AI-Powered Financial Purr-Sona Feature",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/aeon-bank-financial-purr-sona-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408370",
-          "author": "Kiran Ganesan",
-          "description": "After launching globally back in September, Huawei Malaysia has officially announced that it will be bringing the Watch 6 series to the local market. According to the company, the device is slated to hit store shelves on 3 November. With that said, it isn’t the only device to go on sale that day, as the […]\nThe post HUAWEI Watch 6 Series To Land In Malaysia On 3 November appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408370/huawei-watch-6-series-malaysia-3-nov/",
-          "publishedOn": "2026-10-26T05:50:16.000Z",
-          "wordCount": 13771,
-          "title": "HUAWEI Watch 6 Series To Land In Malaysia On 3 November",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/HUAWEI-Watch-6-Series-Malaysia-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408350",
-          "author": "John Law",
-          "description": "RTIt is no secret just how valuable and sought-after the NVIDIA GeForce RTX 5090 is to the realm of AI and opportunists at this point, and there are plenty of horror stories to supplement those reports too. Between the scarcity and eye-gouging price tags, there is now video footage of Chinese factories stripping these cards […]\nThe post Leaked Video Shows How Chinese Factories Are Stripping RTX 5090 GPUs Of Their Chips appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408350/leaked-video-shows-how-chinese-factories-are-stripping-rtx-5090-gpus-of-their-chips/",
-          "publishedOn": "2026-10-26T03:55:33.000Z",
-          "wordCount": 13283,
-          "title": "Leaked Video Shows How Chinese Factories Are Stripping RTX 5090 GPUs Of Their Chips",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/NVIDIA-RTX-5090-disassembly-2.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408317",
-          "author": "Ian Chee",
-          "description": "If you remember, in late September, Xbox announced another step in its major reset that will see the next Halo game be developed by Activision, rather than Halo Studios. As part of that announcement, it was revealed that Undead Labs found a new publisher. Ninja Theory, on the other hand, will seemingly be closed as […]\nThe post Report: Arkane Studios Has Until November To Find A Buyer appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408317/arkane-studios-until-nov-to-find-buyer/",
-          "publishedOn": "2026-10-25T09:53:09.000Z",
-          "wordCount": 13252,
-          "title": "Report: Arkane Studios Has Until November To Find A Buyer",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/Marvels-Blade-Arkane-Lyon.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408305",
-          "author": "Heirul Kamel",
-          "description": "Prime Minister Datuk Seri Anwar Ibrahim has revealed that a global investor plans to invest US$50 billion (~RM204 billion) in Malaysia’s artificial intelligence (AI), new technology and data centre sectors. The proposed investment will cover Kuching, Sarawak, and Peninsular Malaysia, although the investor’s identity has yet to be disclosed. Speaking at the Sentuhan Kasih Madani […]\nThe post PM: Global Investor Plans US$50 Billion Investment In AI, Data Centres In Malaysia appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408305/pm-investor-plans-us50-bil-investment/",
-          "publishedOn": "2026-10-25T03:58:48.000Z",
-          "wordCount": 13412,
-          "title": "PM: Global Investor Plans US$50 Billion Investment In AI, Data Centres In Malaysia",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/anwar-ibrahim-targeted-fuel-subsidies-01.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408306",
-          "author": "Nurul Kamil",
-          "description": "This year, Nothing has shifted its focus away from smartphones, with the only new additions being the Phone (4a) series and the Phone (4b). Given recent releases like the Headphone (1) Pro, the London-based company is concentrating its efforts on audio products, and it looks like another one could be arriving soon. A recent teaser […]\nThe post Nothing Begins Teasing New Product, Likely The Ear (3) Pro appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408306/nothing-ear-3-pro-teaser/",
-          "publishedOn": "2026-10-25T03:40:33.000Z",
-          "wordCount": 13291,
-          "title": "Nothing Begins Teasing New Product, Likely The Ear (3) Pro",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/10/Nothing-Ear-3-open.webp"
         }
       ]
     },
@@ -22446,6 +22528,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+          "author": "Elizabeth Montalbano",
+          "description": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
+          "link": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+          "publishedOn": "2026-11-09T18:08:30.000Z",
+          "wordCount": null,
+          "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+          "author": "Kristina Beek",
+          "description": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+          "publishedOn": "2026-11-09T17:17:23.000Z",
+          "wordCount": null,
+          "title": "PwC's CISO on AI, Robots &amp; What's Next for Security",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+          "author": "Arielle Waldman",
+          "description": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+          "publishedOn": "2026-11-09T15:46:10.000Z",
+          "wordCount": null,
+          "title": "NIST: Solo Shouldn't Mean Less Secure",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
           "author": "Rob Wright",
