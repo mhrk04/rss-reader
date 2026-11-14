@@ -19294,6 +19294,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+          "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+          "publishedOn": "2026-11-14T12:38:35.000Z",
+          "wordCount": null,
+          "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server.\n\nThe flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating",
+          "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+          "publishedOn": "2026-11-13T16:53:08.000Z",
+          "wordCount": null,
+          "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.\n\nOne of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. Researchers",
@@ -21260,166 +21292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.\n\nThe activity has been attributed by CrowdStrike to a China-based \"targeted intrusion adversary\" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in",
-          "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-          "publishedOn": "2026-10-30T16:58:44.000Z",
-          "wordCount": null,
-          "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host.\n\nA malicious or compromised host can exploit the flaw to crash the viewer's TeamViewer and, depending on the platform, may also run",
-          "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-          "publishedOn": "2026-10-30T15:17:28.000Z",
-          "wordCount": null,
-          "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released.\n\nThe vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7 through 7.1.3. It carries a CVSS score of 8.1 on the CVSS scoring system. Patches for the flaw were released on October",
-          "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-          "publishedOn": "2026-10-30T14:08:14.000Z",
-          "wordCount": null,
-          "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.\n\nTrezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase.\n\nTrezor said in a blog post",
-          "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-          "publishedOn": "2026-10-30T12:21:56.000Z",
-          "wordCount": null,
-          "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih5QxhFnBw6d40ollOAoolmZedxywTm7DeBQpEqydVG5Pqg0v5iDVFT1hhbsW7Thqg00oI8MACNXC9FX6MCp_qMRkBRiqdxb9D4CDKfTWTZwI5eyY3V2IOa8ODSg24kX7Ni_C968r2X89tUXwPbDnHPV9xX-ydhytwerqMI1ru7tqdIK-cqA0p9oM5Ppxr/s1600/trezor-wallet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih5QxhFnBw6d40ollOAoolmZedxywTm7DeBQpEqydVG5Pqg0v5iDVFT1hhbsW7Thqg00oI8MACNXC9FX6MCp_qMRkBRiqdxb9D4CDKfTWTZwI5eyY3V2IOa8ODSg24kX7Ni_C968r2X89tUXwPbDnHPV9xX-ydhytwerqMI1ru7tqdIK-cqA0p9oM5Ppxr/s1600/trezor-wallet.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. \n\nTheir concerns are practical. An IPS protection could block legitimate traffic. A configuration change could interrupt a service. An endpoint policy could affect an application",
-          "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-          "publishedOn": "2026-10-30T11:58:53.000Z",
-          "wordCount": null,
-          "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets.\n\nThe conspiracy was organized and led by members of former Syrian President Bashar al-Assad's inner circle, including the commander of Syria's General Intelligence",
-          "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-          "publishedOn": "2026-10-30T10:40:45.000Z",
-          "wordCount": null,
-          "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxhyw9NKYcR8Nkb28O8I-MA0sr3NhXC_Xr7gjpFqZKFd-29F8pGa5TCuIL2GTBPLAPzQ9iW5DsU_2zK-pUWIar_TdJdKiQMsptNjA-XxvVwMACBSQR9tW_qAC8d7I21YdqraYoY5LdWCRE8vKXjrxYCEW8X7ZbPulwCzdTdxODqnMuJbqQUZStRMRiKHc/s1600/tweets.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxhyw9NKYcR8Nkb28O8I-MA0sr3NhXC_Xr7gjpFqZKFd-29F8pGa5TCuIL2GTBPLAPzQ9iW5DsU_2zK-pUWIar_TdJdKiQMsptNjA-XxvVwMACBSQR9tW_qAC8d7I21YdqraYoY5LdWCRE8vKXjrxYCEW8X7ZbPulwCzdTdxODqnMuJbqQUZStRMRiKHc/s1600/tweets.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems.\n\nThe malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity, prompting Cursor to temporarily shut",
-          "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-          "publishedOn": "2026-10-30T08:55:47.000Z",
-          "wordCount": null,
-          "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMAV00lkxu7R724ItLdgrRsnEYHR_d2eUSdcen_KymGeBY1tCo8SRVz6w_XiNzzYgwpcl0Me3JCJz8DeieRM_0jb8aL4VkHAAIeXrqNf8oQkmzKahqMHOGvhkFK32HOasHZht8BwtI1NxEZ-_nIwmQY_8fxpGbbl3csC6oZKCVnIRk3iYTRhH975dyxsWS/s1600/cursor-vscode.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMAV00lkxu7R724ItLdgrRsnEYHR_d2eUSdcen_KymGeBY1tCo8SRVz6w_XiNzzYgwpcl0Me3JCJz8DeieRM_0jb8aL4VkHAAIeXrqNf8oQkmzKahqMHOGvhkFK32HOasHZht8BwtI1NxEZ-_nIwmQY_8fxpGbbl3csC6oZKCVnIRk3iYTRhH975dyxsWS/s1600/cursor-vscode.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component.\n\nThe vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.\n\n\"This module enables you to sell goods and services to customers through an included shopping cart",
-          "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-          "publishedOn": "2026-10-30T07:45:30.000Z",
-          "wordCount": null,
-          "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgPkf4uToEgXwcfmDEKipEveRL2l0PEz6WIegAc2uWyf5_khO7Scgu6MpWHRovED7S-4sKJb4o88JsJT8NI8zB8WCBo04Q9TrEVNJa-08EbxP_zdPkaA7wsBEPIjXbApW1StdY8JunSewAi9TNrAcMwYZjqSsVktddqQ0uIi8-rUzXq1LMMLBHBdccapz/s1600/drupal-rce.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgPkf4uToEgXwcfmDEKipEveRL2l0PEz6WIegAc2uWyf5_khO7Scgu6MpWHRovED7S-4sKJb4o88JsJT8NI8zB8WCBo04Q9TrEVNJa-08EbxP_zdPkaA7wsBEPIjXbApW1StdY8JunSewAi9TNrAcMwYZjqSsVktddqQ0uIi8-rUzXq1LMMLBHBdccapz/s1600/drupal-rce.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
-          "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-          "publishedOn": "2026-10-30T07:27:05.000Z",
-          "wordCount": null,
-          "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1600/github-cisco.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1600/github-cisco.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets.\n\nThe world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. \n\nTether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDC related to the incident, respectively. The",
-          "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-          "publishedOn": "2026-10-30T04:14:59.000Z",
-          "wordCount": null,
-          "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1600/Binance.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1600/Binance.jpg"
         }
       ]
     },
@@ -21428,6 +21300,36 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=409756",
+          "author": "John Law",
+          "description": "NVIDIA has reportedly approached Rene Haas, the current CEO of ARM, as a potential and permanent successor to its former CEO and President, Jensen Huang. At the same time, there has been internal strife with some company staff, who are asking it to consider bringing Huang back in and rescind his resignation. “If you believe […]\nThe post NVIDIA Reportedly Eyes ARM CEO As Potential Successor To Jensen Huang appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409756/nvidia-reportedly-eyes-arm-ceo-as-potential-successor-to-jensen-huang/",
+          "publishedOn": "2026-11-14T09:17:32.000Z",
+          "wordCount": 13222,
+          "title": "NVIDIA Reportedly Eyes ARM CEO As Potential Successor To Jensen Huang",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/Rene-Haas-ARM-CEO-Reuters-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409757",
+          "author": "Heirul Kamel",
+          "description": "Microsoft says it has fully resolved the widespread Microsoft 365 outage that disrupted several of its services. The company confirmed that it had restored access for all remaining affected customers and regions, bringing the incident to an end after an extended recovery period. In case you missed it (though we doubt most didn’t), the disruption […]\nThe post Microsoft Says Microsoft 365 Outage Is Fully Resolved appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409757/microsoft-365-outage-resolved/",
+          "publishedOn": "2026-11-14T07:32:22.000Z",
+          "wordCount": 13345,
+          "title": "Microsoft Says Microsoft 365 Outage Is Fully Resolved",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/05/Microsoft-investment-Malaysia-AI-cloud_IMG_0666.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=409753",
+          "author": "Nurul Kamil",
+          "description": "According to the rumour mill, OPPO is looking to diversify its portfolio, with three different products currently in the works. Earlier this year, we’ve heard whispers of the brand developing its own vlogging camera, which would rival DJI’s Osmo Pocket lineup and Insta360’s Luna series. Now, it seems that the device may be just about […]\nThe post OPPO’s First Vlogging Camera Reportedly Debuting This Year; Wide-Screen Phones Also Coming Soon appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/409753/oppo-vlogging-camera-wide-screen-phones/",
+          "publishedOn": "2026-11-14T01:43:57.000Z",
+          "wordCount": 13260,
+          "title": "OPPO’s First Vlogging Camera Reportedly Debuting This Year; Wide-Screen Phones Also Coming Soon",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-brandings.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=409746",
           "author": "John Law",
@@ -22492,96 +22394,6 @@
           "wordCount": 13406,
           "title": "OpenAI’s Sam Altman Says Home PCs Are Wasting RAM",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/Lexar-Ares-DDR5.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408866",
-          "author": "John Law",
-          "description": "Over the weekend, we reported on how some modders managed to get Steam Games on Windows running on the Sony PlayStation 5 (PS5) natively and without any streaming. Well, another modder has submitted a new configuration that allows modders to install Bazzite’s SteamOS-like software directly onto the console. The project, developed by VivaLaVent, allows supported […]\nThe post The PS5 Can Now SteamOS Via Bazzite Linux appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408866/the-ps5-can-now-steamos-via-bazzite-linux/",
-          "publishedOn": "2026-10-30T11:14:51.000Z",
-          "wordCount": 13229,
-          "title": "The PS5 Can Now SteamOS Via Bazzite Linux",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/PS5-Bazzite-Linux-working-project-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408863",
-          "author": "John Law",
-          "description": "Earlier in the month, we reported that NVIDIA was planning on releasing a new version of its GeForce RTX 5080, one with 24GB of GDDR7 graphics memory, while effectively replacing the current 16GB model that launched last year. While initially expected to launch sometime during the first quarter of next year, that window seems to […]\nThe post NVIDIA RTX 5080 24GB Model Reportedly Launching January 2027 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408863/nvidia-rtx-5080-24gb-model-reportedly-launching-january-2027/",
-          "publishedOn": "2026-10-30T10:30:25.000Z",
-          "wordCount": 13277,
-          "title": "NVIDIA RTX 5080 24GB Model Reportedly Launching January 2027",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/05/ASUS-ROG-Astral-RTX-5080-White-5-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408858",
-          "author": "Ian Chee",
-          "description": "It was previously announced that Malaysians can gain three months of complimentary Coursera access through the government-funded Global Learning Pass. At the time, the Digital Ministry said that 100,000 licences will be rolled out in phases from 16 September onwards. Today, the ministry says that 25,000 passes will be added, following “huge interest by the […]\nThe post Digital Ministry Adds 25,000 Rakyat Digital Global Learning Pass Licences appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408858/digital-ministry-adds-25000-passes/",
-          "publishedOn": "2026-10-30T10:17:28.000Z",
-          "wordCount": 13256,
-          "title": "Digital Ministry Adds 25,000 Rakyat Digital Global Learning Pass Licences",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/08/rakyat-digital-6.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408854",
-          "author": "Heirul Kamel",
-          "description": "Several public LED billboards across Kluang, Johor, were hacked by cyber intruders and used to display obscene images and videos, prompting the local council to shut down all of its screens. The incident reportedly took place yesterday at several locations, including Dataran Tasik Kluang, Taman Intan in Kluang town and along the route towards Kahang. […]\nThe post Kluang Council Shuts Down LED Billboards After Hackers Display Obscene Content appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408854/kluang-led-billboards-hack/",
-          "publishedOn": "2026-10-30T08:32:35.000Z",
-          "wordCount": 13231,
-          "title": "Kluang Council Shuts Down LED Billboards After Hackers Display Obscene Content",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/mpk-billboard-hack-kluang-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408851",
-          "author": "Ian Chee",
-          "description": "Messaging platform WhatsApp first started letting users pin messages all the way back in December 2023. Though at the time, the duration for which a message stays pinned is pretty limited, not to mention rigid. Now, the Meta subsidiary has announced that you can choose to pin a message forever, which can be useful if […]\nThe post WhatsApp Now Lets You Pin Messages Forever appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408851/whatsapp-now-lets-pin-messages-forever/",
-          "publishedOn": "2026-10-30T07:58:46.000Z",
-          "wordCount": 13221,
-          "title": "WhatsApp Now Lets You Pin Messages Forever",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/WhatsApp-pin-forever.-group-message-filter.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408832",
-          "author": "Nurul Kamil",
-          "description": "HONOR has announced a selection of new products in its Artificial Intelligence of Things (AIoT) ecosystem. The lineup comprises the Pad X7b, the Earbuds 5e, and the Earbuds X10 Play. As detailed in the brand’s announcement, the tablet is aimed at young children and families, offering kid-friendly features. On the other hand, the audio products […]\nThe post HONOR Officially Unveils Child-Friendly Pad X7b Alongside Affordable Earbuds appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408832/honor-pad-x7b-affordable-earbuds/",
-          "publishedOn": "2026-10-30T07:51:23.000Z",
-          "wordCount": 13667,
-          "title": "HONOR Officially Unveils Child-Friendly Pad X7b Alongside Affordable Earbuds",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/honor-new-aiot-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408827",
-          "author": "John Law",
-          "description": "The full implementation of the Multi Lane Free Flow (MLFF) toll collection system should be able to address the issue of toll evasion and even go to the extent of being able to identify motorists who commit the offence. Datuk Seri Alexander Nanta Linggi, Minister of Works, said. Linggi stated that the Ministry of Works  […]\nThe post MLFF Toll System To Be Able To Track Toll Evaders appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408827/mlff-toll-system-to-be-able-to-track-toll-evaders/",
-          "publishedOn": "2026-10-30T05:49:02.000Z",
-          "wordCount": 13284,
-          "title": "MLFF Toll System To Be Able To Track Toll Evaders",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/skudai-nse-toll-plaza-anpr-mlff-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408823",
-          "author": "Heirul Kamel",
-          "description": "Cryptocurrency exchange Binance has confirmed a major security incident that could have affected approximately US$6.3 billion (~RM25.5 billion) worth of digital assets. However, this figure is an estimate and should not be taken as the confirmed amount stolen. The exchange has yet to disclose a full breakdown of the affected assets or the final extent […]\nThe post Binance Confirms US$6.3 Billion Security Breach, Says User Funds Are Safe appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408823/binance-security-breach-oct-2026/",
-          "publishedOn": "2026-10-30T05:19:20.000Z",
-          "wordCount": 13300,
-          "title": "Binance Confirms US$6.3 Billion Security Breach, Says User Funds Are Safe",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/binance-official-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=408813",
-          "author": "Nurul Kamil",
-          "description": "Digital travel platform Agoda has introduced what it calls a brand new booking experience. To be more specific, the app now has an AI-powered chatbot to help users plan their trips. Simply called the Agoda AI Assistant, the feature initially launched as a limited test in September before rolling out to users across 21 markets, […]\nThe post Agoda Now Has An AI Assistant To Help Travellers With Bookings appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/408813/agoda-ai-assistant/",
-          "publishedOn": "2026-10-30T04:36:11.000Z",
-          "wordCount": 13252,
-          "title": "Agoda Now Has An AI Assistant To Help Travellers With Bookings",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/agoda-ai-assistant-app-1.webp"
         }
       ]
     },
@@ -22590,6 +22402,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+          "author": "Jai Vijayan",
+          "description": "The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.",
+          "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+          "publishedOn": "2026-11-13T20:20:27.000Z",
+          "wordCount": null,
+          "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
           "author": "Robert Lemos",
@@ -23068,66 +22890,6 @@
           "publishedOn": "2026-11-02T14:00:00.000Z",
           "wordCount": null,
           "title": "PapRAT Cyber Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
-          "author": "Arielle Waldman",
-          "description": "The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
-          "publishedOn": "2026-10-30T21:08:25.000Z",
-          "wordCount": null,
-          "title": "Investors Dish on New Startups &amp; What They'd Back Next",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-          "author": "Nate Nelson",
-          "description": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-          "publishedOn": "2026-10-30T20:05:58.000Z",
-          "wordCount": null,
-          "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-          "author": "Arielle Waldman",
-          "description": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-          "publishedOn": "2026-10-30T19:46:08.000Z",
-          "wordCount": null,
-          "title": "Behind the Scenes of How Operation Blackout Went Down",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
-          "author": "Nate Nelson",
-          "description": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.",
-          "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
-          "publishedOn": "2026-10-30T15:39:54.000Z",
-          "wordCount": null,
-          "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-          "author": "Robert Lemos",
-          "description": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
-          "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-          "publishedOn": "2026-10-30T14:10:37.000Z",
-          "wordCount": null,
-          "title": "Undead Software Projects Continue to Raise Security Risks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-          "author": "Alexander Culafi",
-          "description": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
-          "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-          "publishedOn": "2026-10-30T08:00:00.000Z",
-          "wordCount": null,
-          "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
           "imageUrl": null
         }
       ]

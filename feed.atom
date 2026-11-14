@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-11-13T16:05:14.640Z</updated>
+    <updated>2026-11-14T14:55:52.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection]]></title>
+        <id>https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html</id>
+        <link href="https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"/>
+        <updated>2026-11-14T12:38:35.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
+
+The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Reportedly Eyes ARM CEO As Potential Successor To Jensen Huang]]></title>
+        <id>https://www.lowyat.net/?p=409756</id>
+        <link href="https://www.lowyat.net/2026/409756/nvidia-reportedly-eyes-arm-ceo-as-potential-successor-to-jensen-huang/"/>
+        <updated>2026-11-14T09:17:32.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA has reportedly approached Rene Haas, the current CEO of ARM, as a potential and permanent successor to its former CEO and President, Jensen Huang. At the same time, there has been internal strife with some company staff, who are asking it to consider bringing Huang back in and rescind his resignation. “If you believe […]
+The post NVIDIA Reportedly Eyes ARM CEO As Potential Successor To Jensen Huang appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Says Microsoft 365 Outage Is Fully Resolved]]></title>
+        <id>https://www.lowyat.net/?p=409757</id>
+        <link href="https://www.lowyat.net/2026/409757/microsoft-365-outage-resolved/"/>
+        <updated>2026-11-14T07:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft says it has fully resolved the widespread Microsoft 365 outage that disrupted several of its services. The company confirmed that it had restored access for all remaining affected customers and regions, bringing the incident to an end after an extended recovery period. In case you missed it (though we doubt most didn’t), the disruption […]
+The post Microsoft Says Microsoft 365 Outage Is Fully Resolved appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO’s First Vlogging Camera Reportedly Debuting This Year; Wide-Screen Phones Also Coming Soon]]></title>
+        <id>https://www.lowyat.net/?p=409753</id>
+        <link href="https://www.lowyat.net/2026/409753/oppo-vlogging-camera-wide-screen-phones/"/>
+        <updated>2026-11-14T01:43:57.000Z</updated>
+        <summary type="html"><![CDATA[According to the rumour mill, OPPO is looking to diversify its portfolio, with three different products currently in the works. Earlier this year, we’ve heard whispers of the brand developing its own vlogging camera, which would rival DJI’s Osmo Pocket lineup and Insta360’s Luna series. Now, it seems that the device may be just about […]
+The post OPPO’s First Vlogging Camera Reportedly Debuting This Year; Wide-Screen Phones Also Coming Soon appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArcticRAT Cybercrime Gang Profiles Victim Finances With AI]]></title>
+        <id>https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai</id>
+        <link href="https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai"/>
+        <updated>2026-11-13T20:20:27.000Z</updated>
+        <summary type="html"><![CDATA[The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.]]></summary>
+        <author>
+            <name>Jai Vijayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE]]></title>
+        <id>https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html</id>
+        <link href="https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"/>
+        <updated>2026-11-13T16:53:08.000Z</updated>
+        <summary type="html"><![CDATA[A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server.
+
+The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs]]></title>
         <id>https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html</id>
@@ -3216,294 +3283,6 @@ The web infrastructure and security company said it autonomously mitigated 18.2 
 The post OpenAI’s Sam Altman Says Home PCs Are Wasting RAM appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investors Dish on New Startups &amp; What They'd Back Next]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next"/>
-        <updated>2026-10-30T21:08:25.000Z</updated>
-        <summary type="html"><![CDATA[The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what's trending and what's not.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devs Hit by Trojanized Claude Code Extension for Cursor]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor"/>
-        <updated>2026-10-30T20:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Scenes of How Operation Blackout Went Down]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down"/>
-        <updated>2026-10-30T19:46:08.000Z</updated>
-        <summary type="html"><![CDATA[A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide]]></title>
-        <id>https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html</id>
-        <link href="https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html"/>
-        <updated>2026-10-30T16:58:44.000Z</updated>
-        <summary type="html"><![CDATA[Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.
-
-The activity has been attributed by CrowdStrike to a China-based "targeted intrusion adversary" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara]]></title>
-        <id>https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian</id>
-        <link href="https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian"/>
-        <updated>2026-10-30T15:39:54.000Z</updated>
-        <summary type="html"><![CDATA[I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them]]></title>
-        <id>https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html</id>
-        <link href="https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html"/>
-        <updated>2026-10-30T15:17:28.000Z</updated>
-        <summary type="html"><![CDATA[TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host.
-
-A malicious or compromised host can exploit the flaw to crash the viewer's TeamViewer and, depending on the platform, may also run]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undead Software Projects Continue to Raise Security Risks]]></title>
-        <id>https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks</id>
-        <link href="https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks"/>
-        <updated>2026-10-30T14:10:37.000Z</updated>
-        <summary type="html"><![CDATA[A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours]]></title>
-        <id>https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html</id>
-        <link href="https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html"/>
-        <updated>2026-10-30T14:08:14.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released.
-
-The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7 through 7.1.3. It carries a CVSS score of 8.1 on the CVSS scoring system. Patches for the flaw were released on October]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis]]></title>
-        <id>https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html</id>
-        <link href="https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html"/>
-        <updated>2026-10-30T12:21:56.000Z</updated>
-        <summary type="html"><![CDATA[A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.
-
-Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase.
-
-Trezor said in a blog post]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving]]></title>
-        <id>https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html</id>
-        <link href="https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html"/>
-        <updated>2026-10-30T11:58:53.000Z</updated>
-        <summary type="html"><![CDATA[The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. 
-
-Their concerns are practical. An IPS protection could block legitimate traffic. A configuration change could interrupt a service. An endpoint policy could affect an application]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The PS5 Can Now SteamOS Via Bazzite Linux]]></title>
-        <id>https://www.lowyat.net/?p=408866</id>
-        <link href="https://www.lowyat.net/2026/408866/the-ps5-can-now-steamos-via-bazzite-linux/"/>
-        <updated>2026-10-30T11:14:51.000Z</updated>
-        <summary type="html"><![CDATA[Over the weekend, we reported on how some modders managed to get Steam Games on Windows running on the Sony PlayStation 5 (PS5) natively and without any streaming. Well, another modder has submitted a new configuration that allows modders to install Bazzite’s SteamOS-like software directly onto the console. The project, developed by VivaLaVent, allows supported […]
-The post The PS5 Can Now SteamOS Via Bazzite Linux appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison]]></title>
-        <id>https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html</id>
-        <link href="https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html"/>
-        <updated>2026-10-30T10:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Umar Agha, a Syrian Electronic Army hacker known online as "Th3Pr0," has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets.
-
-The conspiracy was organized and led by members of former Syrian President Bashar al-Assad's inner circle, including the commander of Syria's General Intelligence]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA RTX 5080 24GB Model Reportedly Launching January 2027]]></title>
-        <id>https://www.lowyat.net/?p=408863</id>
-        <link href="https://www.lowyat.net/2026/408863/nvidia-rtx-5080-24gb-model-reportedly-launching-january-2027/"/>
-        <updated>2026-10-30T10:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Earlier in the month, we reported that NVIDIA was planning on releasing a new version of its GeForce RTX 5080, one with 24GB of GDDR7 graphics memory, while effectively replacing the current 16GB model that launched last year. While initially expected to launch sometime during the first quarter of next year, that window seems to […]
-The post NVIDIA RTX 5080 24GB Model Reportedly Launching January 2027 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Ministry Adds 25,000 Rakyat Digital Global Learning Pass Licences]]></title>
-        <id>https://www.lowyat.net/?p=408858</id>
-        <link href="https://www.lowyat.net/2026/408858/digital-ministry-adds-25000-passes/"/>
-        <updated>2026-10-30T10:17:28.000Z</updated>
-        <summary type="html"><![CDATA[It was previously announced that Malaysians can gain three months of complimentary Coursera access through the government-funded Global Learning Pass. At the time, the Digital Ministry said that 100,000 licences will be rolled out in phases from 16 September onwards. Today, the ministry says that 25,000 passes will be added, following “huge interest by the […]
-The post Digital Ministry Adds 25,000 Rakyat Digital Global Learning Pass Licences appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor]]></title>
-        <id>https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html</id>
-        <link href="https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html"/>
-        <updated>2026-10-30T08:55:47.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems.
-
-The malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity, prompting Cursor to temporarily shut]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kluang Council Shuts Down LED Billboards After Hackers Display Obscene Content]]></title>
-        <id>https://www.lowyat.net/?p=408854</id>
-        <link href="https://www.lowyat.net/2026/408854/kluang-led-billboards-hack/"/>
-        <updated>2026-10-30T08:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Several public LED billboards across Kluang, Johor, were hacked by cyber intruders and used to display obscene images and videos, prompting the local council to shut down all of its screens. The incident reportedly took place yesterday at several locations, including Dataran Tasik Kluang, Taman Intan in Kluang town and along the route towards Kahang. […]
-The post Kluang Council Shuts Down LED Billboards After Hackers Display Obscene Content appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As Russia's Cyberwar Evolves, Belarus Steps Forward]]></title>
-        <id>https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward</id>
-        <link href="https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward"/>
-        <updated>2026-10-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The "FrostyNeighbor" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Now Lets You Pin Messages Forever]]></title>
-        <id>https://www.lowyat.net/?p=408851</id>
-        <link href="https://www.lowyat.net/2026/408851/whatsapp-now-lets-pin-messages-forever/"/>
-        <updated>2026-10-30T07:58:46.000Z</updated>
-        <summary type="html"><![CDATA[Messaging platform WhatsApp first started letting users pin messages all the way back in December 2023. Though at the time, the duration for which a message stays pinned is pretty limited, not to mention rigid. Now, the Meta subsidiary has announced that you can choose to pin a message forever, which can be useful if […]
-The post WhatsApp Now Lets You Pin Messages Forever appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR Officially Unveils Child-Friendly Pad X7b Alongside Affordable Earbuds]]></title>
-        <id>https://www.lowyat.net/?p=408832</id>
-        <link href="https://www.lowyat.net/2026/408832/honor-pad-x7b-affordable-earbuds/"/>
-        <updated>2026-10-30T07:51:23.000Z</updated>
-        <summary type="html"><![CDATA[HONOR has announced a selection of new products in its Artificial Intelligence of Things (AIoT) ecosystem. The lineup comprises the Pad X7b, the Earbuds 5e, and the Earbuds X10 Play. As detailed in the brand’s announcement, the tablet is aimed at young children and families, offering kid-friendly features. On the other hand, the audio products […]
-The post HONOR Officially Unveils Child-Friendly Pad X7b Alongside Affordable Earbuds appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw]]></title>
-        <id>https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html</id>
-        <link href="https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html"/>
-        <updated>2026-10-30T07:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component.
-
-The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.
-
-"This module enables you to sell goods and services to customers through an included shopping cart]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV]]></title>
-        <id>https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html</id>
-        <link href="https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html"/>
-        <updated>2026-10-30T07:27:05.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.
-
-The vulnerabilities are listed below -
-
-
-  CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLFF Toll System To Be Able To Track Toll Evaders]]></title>
-        <id>https://www.lowyat.net/?p=408827</id>
-        <link href="https://www.lowyat.net/2026/408827/mlff-toll-system-to-be-able-to-track-toll-evaders/"/>
-        <updated>2026-10-30T05:49:02.000Z</updated>
-        <summary type="html"><![CDATA[The full implementation of the Multi Lane Free Flow (MLFF) toll collection system should be able to address the issue of toll evasion and even go to the extent of being able to identify motorists who commit the offence. Datuk Seri Alexander Nanta Linggi, Minister of Works, said. Linggi stated that the Ministry of Works  […]
-The post MLFF Toll System To Be Able To Track Toll Evaders appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Confirms US$6.3 Billion Security Breach, Says User Funds Are Safe]]></title>
-        <id>https://www.lowyat.net/?p=408823</id>
-        <link href="https://www.lowyat.net/2026/408823/binance-security-breach-oct-2026/"/>
-        <updated>2026-10-30T05:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency exchange Binance has confirmed a major security incident that could have affected approximately US$6.3 billion (~RM25.5 billion) worth of digital assets. However, this figure is an estimate and should not be taken as the confirmed amount stolen. The exchange has yet to disclose a full breakdown of the affected assets or the final extent […]
-The post Binance Confirms US$6.3 Billion Security Breach, Says User Funds Are Safe appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agoda Now Has An AI Assistant To Help Travellers With Bookings]]></title>
-        <id>https://www.lowyat.net/?p=408813</id>
-        <link href="https://www.lowyat.net/2026/408813/agoda-ai-assistant/"/>
-        <updated>2026-10-30T04:36:11.000Z</updated>
-        <summary type="html"><![CDATA[Digital travel platform Agoda has introduced what it calls a brand new booking experience. To be more specific, the app now has an AI-powered chatbot to help users plan their trips. Simply called the Agoda AI Assistant, the feature initially launched as a limited test in September before rolling out to users across 21 markets, […]
-The post Agoda Now Has An AI Assistant To Help Travellers With Bookings appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen]]></title>
-        <id>https://thehackernews.com/2026/10/binance-suffers-security-breach.html</id>
-        <link href="https://thehackernews.com/2026/10/binance-suffers-security-breach.html"/>
-        <updated>2026-10-30T04:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency giant Binance said on Thursday that a "security incident" on its platform has impacted about $6.3 billion worth of assets.
-
-The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. 
-
-Tether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDC related to the incident, respectively. The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
