@@ -2,10 +2,338 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-11-18T17:08:07.235Z</updated>
+    <updated>2026-11-19T17:14:59.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html</id>
+        <link href="https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"/>
+        <updated>2026-11-19T15:18:07.000Z</updated>
+        <summary type="html"><![CDATA[The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.
+
+The release of the patch follows an advance notice in which the project maintainers alerted users to multiple critical vulnerabilities affecting all supported PHP versions under specific]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication]]></title>
+        <id>https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html</id>
+        <link href="https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"/>
+        <updated>2026-11-19T15:11:06.000Z</updated>
+        <summary type="html"><![CDATA[A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.
+
+Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines.
+
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites]]></title>
+        <id>https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html</id>
+        <link href="https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"/>
+        <updated>2026-11-19T14:33:06.000Z</updated>
+        <summary type="html"><![CDATA[Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.
+
+That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday.
+
+The Drupal Security Team disclosed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxis Launches New Max Secure Security Subscription]]></title>
+        <id>https://www.lowyat.net/?p=410085</id>
+        <link href="https://www.lowyat.net/2026/410085/maxis-launches-new-max-secure-security-subscription/"/>
+        <updated>2026-11-19T14:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Maxis officially launched Max Secure, its latest AI-powered security subscription. The new feature is designed to provide an additional layer of protection to the devices of existing Maxis users. The plan is available starting today to the Postpaid, Home Fibre, and Family Plan users, and is powered by F-Secure. As per the telco’s official statement, […]
+The post Maxis Launches New Max Secure Security Subscription appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Holiday Security Can't Wait for Black Friday]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday"/>
+        <updated>2026-11-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything Is a Web Application, Including Your Firewall]]></title>
+        <id>https://thehackernews.com/2026/11/everything-is-web-application-including.html</id>
+        <link href="https://thehackernews.com/2026/11/everything-is-web-application-including.html"/>
+        <updated>2026-11-19T11:52:23.000Z</updated>
+        <summary type="html"><![CDATA[One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web server without authentication. The disclosure itself went a little wrong.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denza D9 Prestige AWD Goes Official In Malaysia With BYD Flash Charging Technology]]></title>
+        <id>https://www.lowyat.net/?p=410066</id>
+        <link href="https://www.lowyat.net/2026/410066/denza-d9-prestige-byd-flash-charging/"/>
+        <updated>2026-11-19T10:20:06.000Z</updated>
+        <summary type="html"><![CDATA[BYD luxury sub-brand Denza is expanding its premium MPV offering in Malaysia with the launch of the D9 Prestige AWD. This new variant brings some notable changes and improvements compared to the models released in 2025, promising refined driving performance and enhanced charging capabilities, among other things. On the outside, the new Denza D9 resembles […]
+The post Denza D9 Prestige AWD Goes Official In Malaysia With BYD Flash Charging Technology appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus Announces Availability Of ProArt GR1X RTX Spark Mini PC]]></title>
+        <id>https://www.lowyat.net/?p=410075</id>
+        <link href="https://www.lowyat.net/2026/410075/asus-announces-availability-of-proart-gr1x-rtx-spark-mini-pc/"/>
+        <updated>2026-11-19T10:13:20.000Z</updated>
+        <summary type="html"><![CDATA[In conjunction with the availability of the NVIDIA RTX Spark Mini PC, Asus Malaysia also announced the availability of its ProArt GR1X mini PC in Malaysia. Packaged in a nice compact form factor of 150 x 150 x 15mm, the GR1X weighs 1.48kg, which is almost as much as the ProArt P16 RTX Spark. Much […]
+The post Asus Announces Availability Of ProArt GR1X RTX Spark Mini PC appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA RTX Spark Mini PCs Now Available]]></title>
+        <id>https://www.lowyat.net/?p=410065</id>
+        <link href="https://www.lowyat.net/2026/410065/nvidia-rtx-spark-mini-pcs-now-available/"/>
+        <updated>2026-11-19T10:08:52.000Z</updated>
+        <summary type="html"><![CDATA[The NVIDIA RTX Spark mini PC is now available for the masses. Like their laptop counterparts, these desktop systems use the same ARM-based processor, co-developed and made with MediaTek. Its availability was announced during Supercomputing 26 or simply, SC26. Then as now, the RTX Spark mini PC is designed primarily for creators and users looking […]
+The post NVIDIA RTX Spark Mini PCs Now Available appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions]]></title>
+        <id>https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html</id>
+        <link href="https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"/>
+        <updated>2026-11-19T09:31:26.000Z</updated>
+        <summary type="html"><![CDATA[N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.
+
+"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence," N-able said.
+
+"The investigation is ongoing, but at this time we]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo V80 Officially Launches In Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=410029</id>
+        <link href="https://www.lowyat.net/2026/410029/vivo-v80-malaysia-launch/"/>
+        <updated>2026-11-19T09:16:02.000Z</updated>
+        <summary type="html"><![CDATA[vivo Malaysia has officially launched the vivo V80 in the local market, bringing its latest mid-range smartphone with ZEISS-powered imaging capabilities, a distinctive glass design and a large battery. The device also introduces OriginOS 7, which comes with several AI-powered features and cross-device connectivity improvements. Design-wise, the V80 comes with a “Flagship One-Piece Cold-Carved Glass” […]
+The post vivo V80 Officially Launches In Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE]]></title>
+        <id>https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html</id>
+        <link href="https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html"/>
+        <updated>2026-11-19T08:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.
+
+"We are aware of PoCs that prove some of them can be used to trigger remote code execution," the maintainers said.
+
+The project released fixed versions]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle]]></title>
+        <id>https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html</id>
+        <link href="https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html"/>
+        <updated>2026-11-19T08:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL.
+
+The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks]]></title>
+        <id>https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html</id>
+        <link href="https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html"/>
+        <updated>2026-11-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerabilities are listed below -]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge</id>
+        <link href="https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge"/>
+        <updated>2026-11-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.]]></summary>
+        <author>
+            <name>Robert Lemos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus Launches XG Core With Radeon RX 9060 XT 16GB GPU]]></title>
+        <id>https://www.lowyat.net/?p=410048</id>
+        <link href="https://www.lowyat.net/2026/410048/asus-launches-xg-core-with-radeon-rx-9060-xt-16gb-gpu/"/>
+        <updated>2026-11-19T07:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Asus officially launched the XG Core Radeon RX 9060 XT LP 16GB today, an eGPU solution that utilises AMD’s RDNA4 GPU. Specifically, and as the name suggests, it houses the entry-level Radeon RX 9060 XT GPU. As with its desktop counterpart, the XG Core Radeon RX 9060 XT has 16GB GDDR6 graphics memory, packed in […]
+The post Asus Launches XG Core With Radeon RX 9060 XT 16GB GPU appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei nova 16s Series Officially Lands In Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=410031</id>
+        <link href="https://www.lowyat.net/2026/410031/huawei-nova-16s-series-malaysia/"/>
+        <updated>2026-11-19T07:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Last week, Huawei announced that it is bringing the nova 16s series to our shores. Now, just as promised, the new midrange lineup has arrived in Malaysia, comprising a base model and a Pro variant. Launched in conjunction with the 10th anniversary of the brand’s XMAGE Awards, the new smartphones focus on photography with a […]
+The post Huawei nova 16s Series Officially Lands In Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starwish Purple: Hold The Stars In Your Hand With The vivo V80]]></title>
+        <id>https://www.lowyat.net/?p=410010</id>
+        <link href="https://www.lowyat.net/2026/410010/vivo-v80-starwish-purple/"/>
+        <updated>2026-11-19T06:07:55.000Z</updated>
+        <summary type="html"><![CDATA[With smartphones becoming more capable than ever, they have become more and more convincing as alternatives to the flagship models that cost more than just top dollar these days. This is especially true if you want a phone with colour and design choices that are more than just business professional. And if you want a […]
+The post Starwish Purple: Hold The Stars In Your Hand With The vivo V80 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Evelyn Chu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShopeePay SPayLater Motorcycle Shariah-Compliant Bike Financing Now Available Nationwide]]></title>
+        <id>https://www.lowyat.net/?p=410003</id>
+        <link href="https://www.lowyat.net/2026/410003/shopeepay-spaylater-motorcycle-malaysia/"/>
+        <updated>2026-11-19T04:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Back in November 2025, ShopeePay announced SPayLater Motorcycle, a financing option designed specifically for those looking to buy a motorcycle. At the time, the service was limited to certain users in selected states. Now, just about a year later, the company has expanded access to the plan, offering eligible Malaysians nationwide another way to purchase […]
+The post ShopeePay SPayLater Motorcycle Shariah-Compliant Bike Financing Now Available Nationwide appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19]]></title>
+        <id>https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html</id>
+        <link href="https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html"/>
+        <updated>2026-11-19T04:33:46.000Z</updated>
+        <summary type="html"><![CDATA[The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.
+
+The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC.
+
+"These releases are part of PHP's regular four-week release cycle and will address security vulnerabilities affecting all supported PHP versions," the maintainers said.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fujifilm Announces X Summit Paris For 2 December 2026; X-T6 Expected To Debut]]></title>
+        <id>https://www.lowyat.net/?p=409999</id>
+        <link href="https://www.lowyat.net/2026/409999/fujifilm-x-summit-2-december-2026/"/>
+        <updated>2026-11-19T04:08:43.000Z</updated>
+        <summary type="html"><![CDATA[Fujifilm has announced that its next X Summit event will take place in Paris, France, on 2 December 2026, with the livestream expected to begin at 5pm Malaysian time. While the company has yet to reveal what it plans to showcase, a teaser video accompanying the announcement appears to hint at the arrival of its […]
+The post Fujifilm Announces X Summit Paris For 2 December 2026; X-T6 Expected To Debut appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia's Cold Relic APT Turns One Cloud Breach Into Another]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another"/>
+        <updated>2026-11-18T21:59:46.000Z</updated>
+        <summary type="html"><![CDATA[The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.]]></summary>
+        <author>
+            <name>Jai Vijayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool]]></title>
+        <id>https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool</id>
+        <link href="https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool"/>
+        <updated>2026-11-18T20:45:49.000Z</updated>
+        <summary type="html"><![CDATA[New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.]]></summary>
+        <author>
+            <name>darkreading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups</id>
+        <link href="https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups"/>
+        <updated>2026-11-18T20:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.]]></summary>
+        <author>
+            <name>darkreading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers]]></title>
+        <id>https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html</id>
+        <link href="https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"/>
+        <updated>2026-11-18T18:31:17.000Z</updated>
+        <summary type="html"><![CDATA[A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.
+
+The decade-old flaw, CVE-2026-123007, dubbed "nginx2root," has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today.
+
+F5, the company behind NGINX, says attackers can run code where]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE]]></title>
+        <id>https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html</id>
+        <link href="https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"/>
+        <updated>2026-11-18T18:15:39.000Z</updated>
+        <summary type="html"><![CDATA[Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.
+
+Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent.
+
+F5, which makes BIG-IP, disclosed the flaws today and says they]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required]]></title>
+        <id>https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html</id>
+        <link href="https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"/>
+        <updated>2026-11-18T17:10:45.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)
+
+The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution.
+
+"Deserialization of Untrusted]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem"/>
+        <updated>2026-11-18T16:54:52.000Z</updated>
+        <summary type="html"><![CDATA[Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks]]></title>
         <id>https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html</id>
@@ -2975,355 +3303,6 @@ The post Key Nintendo Switch Cartridge Supplier To Phase Out ROM Production appe
 The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus ROG OLED Ace Series Gaming Monitors Now Available]]></title>
-        <id>https://www.lowyat.net/?p=409250</id>
-        <link href="https://www.lowyat.net/2026/409250/asus-rog-oled-ace-series-gaming-monitors-now-available/"/>
-        <updated>2026-11-05T05:06:02.000Z</updated>
-        <summary type="html"><![CDATA[Asus officially announced the availability of two new ROG OLED Ace gaming monitors. These include the ROG Swift OLED PG259QWS Ace and the Strix OLED XG259QWPG Ace. Both monitors share similar hardware and by that, we mean that both of them are fitted with the same 24.5-inch TrueBlack Glossy Tandem WOLED panel, which promises the […]
-The post Asus ROG OLED Ace Series Gaming Monitors Now Available appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malaysians Allowed To Take Legal Action Against Cybercriminals Overseas]]></title>
-        <id>https://www.lowyat.net/?p=409244</id>
-        <link href="https://www.lowyat.net/2026/409244/malaysians-allowed-to-take-legal-action-against-cybercriminals-overseas/"/>
-        <updated>2026-11-05T04:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Malaysians who are or have been victims of cybercriminals operating overseas are able to take legal action against those nefarious actors. Specifically, they could take action if the offences involved Malaysian systems or if the victims are Malaysian citizens. Datuk Seri Dr Ahmad Zahid Hamidi, Deputy Prime Minister, explained in a written reply on the […]
-The post Malaysians Allowed To Take Legal Action Against Cybercriminals Overseas appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Govt Announces 50% Toll Discount For Deepavali On 6 And 7 November 2026]]></title>
-        <id>https://www.lowyat.net/?p=409241</id>
-        <link href="https://www.lowyat.net/2026/409241/govt-toll-discount-deepavali-2026/"/>
-        <updated>2026-11-05T04:42:19.000Z</updated>
-        <summary type="html"><![CDATA[The government has announced a 50% toll discount for motorists travelling on 6 and 7 November 2026 in conjunction with the upcoming Deepavali celebration. The discount will take effect from midnight on Friday and remain in place until 11:59pm on Saturday. The discount applies to Class 1 private vehicles at all toll plazas nationwide, as […]
-The post Govt Announces 50% Toll Discount For Deepavali On 6 And 7 November 2026 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus Launches ROG XG Station 3 eGPU With Thunderbolt 5]]></title>
-        <id>https://www.lowyat.net/?p=409233</id>
-        <link href="https://www.lowyat.net/2026/409233/asus-launches-rog-xg-station-3-egpu-with-thunderbolt-5/"/>
-        <updated>2026-11-05T03:32:05.000Z</updated>
-        <summary type="html"><![CDATA[Asus appears to have quietly launched the ROG XG Station 3. As the name suggests, the external GPU (eGPU) enclosure is the third generation enclosure, but rather than encasing the GPU, the brand is going for an open-air design this round. By that, the ROG XG Station 3 now simply has the graphics card docked […]
-The post Asus Launches ROG XG Station 3 eGPU With Thunderbolt 5 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing Teases Its First “AI-Native” Product; Launching Next Month]]></title>
-        <id>https://www.lowyat.net/?p=409228</id>
-        <link href="https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"/>
-        <updated>2026-11-05T02:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Nothing has been steadily diversifying its product range, shifting its attention away from just smartphones and earbuds. Earlier this year, the London-based brand released its first ever headphones. And now, it is angling for something new: an “AI-native” device. In a lengthy article shared on X, Nothing founder and CEO Carl Pei teased the upcoming […]
-The post Nothing Teases Its First “AI-Native” Product; Launching Next Month appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fans Raise Petition For A Permanent Pokemon Centre In Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=409212</id>
-        <link href="https://www.lowyat.net/2026/409212/petition-permanent-pokemon-centre-msia/"/>
-        <updated>2026-11-05T02:00:12.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a fan of Pokemon and you’ve not paid a visit to Ombak KLCC and the Pokemon Centre Pop-Up Store there, you really should. While it will still be around for just under two more months, it will close once the year is out. Obviously, fans want a permanent one to call our own […]
-The post Fans Raise Petition For A Permanent Pokemon Centre In Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Rails Bug Threatens to Derail Vulnerable Servers]]></title>
-        <id>https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers</id>
-        <link href="https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers"/>
-        <updated>2026-11-04T21:48:18.000Z</updated>
-        <summary type="html"><![CDATA[An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root]]></title>
-        <id>https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html</id>
-        <link href="https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html"/>
-        <updated>2026-11-04T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.
-
-The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records]]></title>
-        <id>https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html</id>
-        <link href="https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"/>
-        <updated>2026-11-04T17:00:38.000Z</updated>
-        <summary type="html"><![CDATA[SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.
-
-Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -
-
-
-  CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet]]></title>
-        <id>https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet</id>
-        <link href="https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet"/>
-        <updated>2026-11-04T16:24:08.000Z</updated>
-        <summary type="html"><![CDATA[Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit]]></title>
-        <id>https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html</id>
-        <link href="https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html"/>
-        <updated>2026-11-04T16:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway.
-
-The phenomenon has been codenamed prompt adware by Check Point Research.
-
-Called Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits]]></title>
-        <id>https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html</id>
-        <link href="https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html"/>
-        <updated>2026-11-04T14:27:52.000Z</updated>
-        <summary type="html"><![CDATA[The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.
-
-"The injected JavaScript code collects browser and device attributes," Sekoia researchers Amaury-Jacques Garçon and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incidents Move Too Fast for Pen &amp; Paper]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper"/>
-        <updated>2026-11-04T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads]]></title>
-        <id>https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html</id>
-        <link href="https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html"/>
-        <updated>2026-11-04T12:07:04.000Z</updated>
-        <summary type="html"><![CDATA[A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2.
-
-The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory]]></title>
-        <id>https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html</id>
-        <link href="https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html"/>
-        <updated>2026-11-04T11:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.
-
-Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an advisory on November 3.
-
-All Xen versions from 4.6 onward are vulnerable,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It]]></title>
-        <id>https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html</id>
-        <link href="https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html"/>
-        <updated>2026-11-04T11:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one.
-
-One recent case shows what that gap looks like in practice. An employee asked an AI assistant to trigger a mass-email automation. The automation]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor]]></title>
-        <id>https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html</id>
-        <link href="https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html"/>
-        <updated>2026-11-04T11:24:31.000Z</updated>
-        <summary type="html"><![CDATA[A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP).
-
-The campaign, observed starting July 1, 2026, is assessed to have targeted organizations and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR Confirms Magic9 Pro Max Coming Soon To Malaysia]]></title>
-        <id>https://www.lowyat.net/?p=409208</id>
-        <link href="https://www.lowyat.net/2026/409208/honor-magic9-pro-max-malaysia/"/>
-        <updated>2026-11-04T10:31:56.000Z</updated>
-        <summary type="html"><![CDATA[HONOR has confirmed that its latest flagship smartphone, the Magic9 Pro Max, will soon be making its way to Malaysia. However, given that the device is part of a larger lineup launched in China, there is a possibility that the vanilla Magic9 could also make its local debut. The company also revealed that the Magic9 […]
-The post HONOR Confirms Magic9 Pro Max Coming Soon To Malaysia appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Razer Raiju V3 Pro Signature Edition Now Official]]></title>
-        <id>https://www.lowyat.net/?p=409197</id>
-        <link href="https://www.lowyat.net/2026/409197/razer-raiju-v3-pro-signature-edition/"/>
-        <updated>2026-11-04T09:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Last week Razer teased what was pretty obviously a Signature Edition of its Raiju controller. The controller has since been completely revealed, looking not quite as expected while still having all of the design choices of a Signature Edition. Unfortunately, its official designation is the Razer Raiju V3 Pro Signature Edition, which means that the […]
-The post Razer Raiju V3 Pro Signature Edition Now Official appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google To Invest US$15 Billion in Malaysian Digital Infrastructure Expansion, Clean Energy Initiatives]]></title>
-        <id>https://www.lowyat.net/?p=409186</id>
-        <link href="https://www.lowyat.net/2026/409186/google-to-invest-us15-billion-in-malaysian-digital-infrastructure-expansion-clean-energy-initiatives/"/>
-        <updated>2026-11-04T09:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Google unveiled its plans today to invest US$15 billion (~RM61 billion) over two years, between 2027 and 2028, as part of the Malaysian government’s Digital Infrastructure expansion. Through the investment, Google also plans on building its own energy-efficient datacentre campuses within the industrial zones, while also improving the job skills of approximately 800,000 Malaysians by […]
-The post Google To Invest US$15 Billion in Malaysian Digital Infrastructure Expansion, Clean Energy Initiatives appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybank: You Can Open An ASNB Account Via MAE App]]></title>
-        <id>https://www.lowyat.net/?p=409185</id>
-        <link href="https://www.lowyat.net/2026/409185/maybank-open-asnb-account-via-mae-app/"/>
-        <updated>2026-11-04T08:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Maybank announced earlier in the week that “first-time ASNB investors can now open an Amanah Saham Nasional Berhad (ASNB) account directly on the MAE app”. While this is specifically for the benefit of new investors, the bank also said that both “new and existing investors can subscribe to a variety of ASNB funds and manage […]
-The post Maybank: You Can Open An ASNB Account Via MAE App appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CelcomDigi Announces 15-Day Umrah Roaming Pass With 100GB High-Speed Data]]></title>
-        <id>https://www.lowyat.net/?p=409179</id>
-        <link href="https://www.lowyat.net/2026/409179/celcomdigi-15-day-umrah-roaming-pass/"/>
-        <updated>2026-11-04T08:20:07.000Z</updated>
-        <summary type="html"><![CDATA[CelcomDigi has announced the Umrah Roaming Pass. Much like its yearly Hajj Roaming Pass, the new offering is aimed at pilgrims looking to remain connected throughout their journey. Malaysians performing their Umrah can get high-speed data, voice calls, and regional roaming coverage in a single pass. Priced at RM100, the pass is valid for 15 […]
-The post CelcomDigi Announces 15-Day Umrah Roaming Pass With 100GB High-Speed Data appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure]]></title>
-        <id>https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html</id>
-        <link href="https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html"/>
-        <updated>2026-11-04T08:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.
-
-Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016.
-
-The Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group are "suspected of embezzling funds from the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction]]></title>
-        <id>https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html</id>
-        <link href="https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html"/>
-        <updated>2026-11-04T07:46:15.000Z</updated>
-        <summary type="html"><![CDATA[A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin.
-
-The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on their own schedules.
-
-As of November 4, Google's bulletin did not report]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Prototype AMD Radeon Card Houses Four RX 470 GPUs]]></title>
-        <id>https://www.lowyat.net/?p=409172</id>
-        <link href="https://www.lowyat.net/2026/409172/this-prototype-amd-radeon-card-houses-four-rx-470-gpus/"/>
-        <updated>2026-11-04T07:15:11.000Z</updated>
-        <summary type="html"><![CDATA[In today’s world of unusual GPUs and hardware, an X user by the name GOK recently shared pictures of a unique AMD Radeon GPU. How is it unique, you ask? Try having a massive PCB and four Radeon GPUs attached to it. As per the pictures, the massive Radeon board houses four GPUs in a […]
-The post This Prototype AMD Radeon Card Houses Four RX 470 GPUs appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Illegear Collaborates With XIGMATEK To Launch Refreshed Desktop PC Casings]]></title>
-        <id>https://www.lowyat.net/?p=409160</id>
-        <link href="https://www.lowyat.net/2026/409160/illegear-collaborates-with-xigmatek-to-launch-refreshed-desktop-pc-casings/"/>
-        <updated>2026-11-04T06:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Local home-grown PC brand, Illegear, is collaborating with desktop PC chassis maker XIGMATEK to refresh four of its gaming desktop casings. These casings are the Aura, Atlas, Seaview, and Reaper. Starting with the Seaview, the system sports XIGMATEK’s Cloud M DGT 3AF chassis. Using a dual tempered glass panel, plus three ARGB fans pre-installed into […]
-The post Illegear Collaborates With XIGMATEK To Launch Refreshed Desktop PC Casings appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercedes-Benz Malaysia Previews C 300 4MATIC Electric AMG Line Plus]]></title>
-        <id>https://www.lowyat.net/?p=409138</id>
-        <link href="https://www.lowyat.net/2026/409138/mercedes-benz-c-300-4matic-electric/"/>
-        <updated>2026-11-04T06:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Mercedes-Benz Malaysia previewed the C 300 4MATIC Electric AMG Line Plus earlier today, which the company says is the first all-electric C-Class. The addition of the electric car completes the drivetrain option selection for the C-Class, with PHEV models already existing prior to the introduction of this one. Though there’s some oddities with the car […]
-The post Mercedes-Benz Malaysia Previews C 300 4MATIC Electric AMG Line Plus appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades]]></title>
-        <id>https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html</id>
-        <link href="https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html"/>
-        <updated>2026-11-04T05:43:11.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Vibes Are Off: Why Letting AI Code Your App May Be A Bad Idea]]></title>
-        <id>https://www.lowyat.net/?p=409118</id>
-        <link href="https://www.lowyat.net/2026/409118/the-vibes-are-off-letting-ai-code/"/>
-        <updated>2026-11-04T05:24:27.000Z</updated>
-        <summary type="html"><![CDATA[The rise of generative AI and its offshoots has made certain skill-based tasks more “accessible” to the average user. Aside from creative endeavours like image and video creation, the technology offers assistance with coding projects, allowing anyone to develop apps and software without needing a programming background. Vibe coding, as the practice is called, has […]
-The post The Vibes Are Off: Why Letting AI Code Your App May Be A Bad Idea appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FX Steam Launcher Lets Apple Silicon Macs Run PC Games Through SteamOS]]></title>
-        <id>https://www.lowyat.net/?p=409134</id>
-        <link href="https://www.lowyat.net/2026/409134/fx-steam-launcher-pc-games-mac/"/>
-        <updated>2026-11-04T05:12:07.000Z</updated>
-        <summary type="html"><![CDATA[Although Steam is available on macOS, Apple’s platform still has a considerably smaller selection of compatible games compared to Windows PCs. This is despite the company increasingly highlighting the gaming capabilities of its first-party silicon, with several recent Mac generations receiving hardware and software improvements aimed at gaming. However, many popular PC titles remain unavailable […]
-The post FX Steam Launcher Lets Apple Silicon Macs Run PC Games Through SteamOS appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
         </author>
     </entry>
     <entry>
