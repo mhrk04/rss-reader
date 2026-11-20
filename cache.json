@@ -19294,6 +19294,150 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean.\n\nOn a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled.\n\nFixed kernels shipped",
+          "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+          "publishedOn": "2026-11-20T12:20:00.000Z",
+          "wordCount": null,
+          "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Overall, AI SOC was the highest ranking initiative for 2027.\n\nThe pressure",
+          "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+          "publishedOn": "2026-11-20T12:00:00.000Z",
+          "wordCount": null,
+          "title": "The Path to AI Autonomy in the SOC",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks.\n\n\"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,\" SonicWall said. \"We expect internet-facing Gen 6 firewalls to be actively",
+          "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+          "publishedOn": "2026-11-20T10:38:22.000Z",
+          "wordCount": null,
+          "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn5oji8gd4l_d6wKemSflqTX-q-eiuu4CbbV2ROvzK6Gzpeq8zPsQyGb-UO80f_M8L2pDNNyNqF1ZIdyMPGReyW0KmPb7uuAuRu1M-ZVyNu-GJvx1CRaBsaEOVjV-asFG0P__0MK0Jp3WPJmcNxATiSd6NeBzcCmy-6dLvS5yvpen0cRrwLZvgVpYAvn0/s1600/sonicwall.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn5oji8gd4l_d6wKemSflqTX-q-eiuu4CbbV2ROvzK6Gzpeq8zPsQyGb-UO80f_M8L2pDNNyNqF1ZIdyMPGReyW0KmPb7uuAuRu1M-ZVyNu-GJvx1CRaBsaEOVjV-asFG0P__0MK0Jp3WPJmcNxATiSd6NeBzcCmy-6dLvS5yvpen0cRrwLZvgVpYAvn0/s1600/sonicwall.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.\n\nThe activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow an unauthenticated, remote attacker with network access to a Cisco Expressway",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+          "publishedOn": "2026-11-20T10:32:50.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrMm7M_HyuVDt9NknngHSgyfGKu0DR8VTc_GYL-tr_hMhTmi3EAZnM8x5byJQRYEqcUAZlDTR_Xi4RcMm4lidmk9UR_iyTWpDa5Mn6xRBoNwAf3auen2u6guKxnvoIrcQOfq7Mm1clmsyBMYVcjaOqVFYiN4mXgYSyR5_DUSrmVOLDK5mQeAS8BBB3X5-5/s1600/cisco-cyberattacks.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrMm7M_HyuVDt9NknngHSgyfGKu0DR8VTc_GYL-tr_hMhTmi3EAZnM8x5byJQRYEqcUAZlDTR_Xi4RcMm4lidmk9UR_iyTWpDa5Mn6xRBoNwAf3auen2u6guKxnvoIrcQOfq7Mm1clmsyBMYVcjaOqVFYiN4mXgYSyR5_DUSrmVOLDK5mQeAS8BBB3X5-5/s1600/cisco-cyberattacks.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nThe vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized",
+          "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+          "publishedOn": "2026-11-20T09:38:15.000Z",
+          "wordCount": null,
+          "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSAI-N-DRII1YA3I98ZVnKnG0SMgm97oEAqyiSXZB23DPwzvTk3figFLsTCKsMJRxRhjKEPFblxfcOuB_UXc_OAXJRiVI07Jxjn-CebJVHiRQ5sc43AifBpUPNfU5-LRD6QEGbX7Vnt_HAmJZiLojS32PtNWwIWeideJZnIpgjrstJ0Iy84lYd47bePk/s1600/chinese-vmware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSAI-N-DRII1YA3I98ZVnKnG0SMgm97oEAqyiSXZB23DPwzvTk3figFLsTCKsMJRxRhjKEPFblxfcOuB_UXc_OAXJRiVI07Jxjn-CebJVHiRQ5sc43AifBpUPNfU5-LRD6QEGbX7Vnt_HAmJZiLojS32PtNWwIWeideJZnIpgjrstJ0Iy84lYd47bePk/s1600/chinese-vmware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.\n\n\"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,\" Blackpoint",
+          "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+          "publishedOn": "2026-11-20T07:11:39.000Z",
+          "wordCount": null,
+          "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugg63OPJwZuh94vDIg7MkA4YoeLKr5sjiqI6CEgjvDjUvJ-pBJOfUrUBxPUTbartqVwdldczbKSYo6lpkcVic1EDQYIDyWq12zMdMONjpDtK4NKCgkppAWvnOJpXe7prfmRG8WNpH0RrQ0bhX2nZKGpRy33y0OMZraBjEPoDorp9h3kNJSa-IQrJC7Nl5/s1600/cf.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugg63OPJwZuh94vDIg7MkA4YoeLKr5sjiqI6CEgjvDjUvJ-pBJOfUrUBxPUTbartqVwdldczbKSYo6lpkcVic1EDQYIDyWq12zMdMONjpDtK4NKCgkppAWvnOJpXe7prfmRG8WNpH0RrQ0bhX2nZKGpRy33y0OMZraBjEPoDorp9h3kNJSa-IQrJC7Nl5/s1600/cf.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine.\n\nThe method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker",
+          "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+          "publishedOn": "2026-11-20T05:30:01.000Z",
+          "wordCount": null,
+          "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access.\n\nThere's another shift worth watching. AI is making some attacks easier",
+          "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+          "publishedOn": "2026-11-19T18:47:58.000Z",
+          "wordCount": null,
+          "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server.\n\nToday's PHP releases fix the flaw, called phpAfterShell.\n\nThe flaw is tracked as CVE-2026-126714 and rated",
+          "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+          "publishedOn": "2026-11-19T16:59:56.000Z",
+          "wordCount": null,
+          "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.\n\nThe release of the patch follows an advance notice in which the project maintainers alerted users to multiple critical vulnerabilities affecting all supported PHP versions under specific",
@@ -21116,166 +21260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long.\n\nOpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every",
-          "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-          "publishedOn": "2026-11-05T16:42:46.000Z",
-          "wordCount": null,
-          "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.\n\nLockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections.\n\n\"The flaw could enable silent chat data theft, phishing,",
-          "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-          "publishedOn": "2026-11-05T16:42:32.000Z",
-          "wordCount": null,
-          "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
-          "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-          "publishedOn": "2026-11-05T14:41:10.000Z",
-          "wordCount": null,
-          "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1600/tds.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1600/tds.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical finding can move through several security tools and still leave the organization exposed. \n\nThe vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. \n\nEach missing detail creates",
-          "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-          "publishedOn": "2026-11-05T12:25:00.000Z",
-          "wordCount": null,
-          "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.\n\n\"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
-          "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-          "publishedOn": "2026-11-05T12:08:54.000Z",
-          "wordCount": null,
-          "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption.\n\nBelow, we examine five",
-          "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-          "publishedOn": "2026-11-05T10:06:19.000Z",
-          "wordCount": null,
-          "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\n\nThe change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\"\n\nWhen users choose this option,",
-          "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-          "publishedOn": "2026-11-05T09:13:28.000Z",
-          "wordCount": null,
-          "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN85K3W5zv5BioRQjCRpIAYT4K8MjZxx0bP0wNETp_eeBQ8Rj_iScHZ0PVnak7dJnJB_tZs06nxCn3YB70aQrULSZVbcn_gLqAsRoN08bSj__9UGZ38PzHTeSqe1IdqZEvdY8fogrjg3xPvg4Kohb2lFGdIveD4jIZQYKugtN5dIc0nTDjlVZJeQBzASx/s1600/icloud.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN85K3W5zv5BioRQjCRpIAYT4K8MjZxx0bP0wNETp_eeBQ8Rj_iScHZ0PVnak7dJnJB_tZs06nxCn3YB70aQrULSZVbcn_gLqAsRoN08bSj__9UGZ38PzHTeSqe1IdqZEvdY8fogrjg3xPvg4Kohb2lFGdIveD4jIZQYKugtN5dIc0nTDjlVZJeQBzASx/s1600/icloud.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country.\n\nDescribing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
-          "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-          "publishedOn": "2026-11-05T08:42:03.000Z",
-          "wordCount": null,
-          "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1600/docker-ai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1600/docker-ai.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.\n\nThe exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole.\n\nThe earlier fix is the 2.90",
-          "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-          "publishedOn": "2026-11-05T07:06:33.000Z",
-          "wordCount": null,
-          "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-          "publishedOn": "2026-11-05T05:17:04.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg"
         }
       ]
     },
@@ -21284,6 +21268,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=410158",
+          "author": "John Law",
+          "description": "Tesla is officially introducing its Certified Pre-Owned program for the Malaysian market. The program is to provide customers with the added security and verification of a pre-owned Tesla EV. “Every Certified Pre-Owned vehicle is fully inspected and refurbished by company-qualified technicians and parts to ensure the vehicle is road-ready.  Each Certified Pre-Owned Tesla vehicle has […]\nThe post Tesla Malaysia Introduces Certified Pre-Owned Program In Malaysia appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410158/tesla-certified-pre-owned-malaysia/",
+          "publishedOn": "2026-11-20T14:21:03.000Z",
+          "wordCount": 13180,
+          "title": "Tesla Malaysia Introduces Certified Pre-Owned Program In Malaysia",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/Tesla-Model-Y-L-Launch-1-1240x930.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410153",
+          "author": "Heirul Kamel",
+          "description": "NVIDIA AI chips housed at YTL’s data centre in Johor were reportedly operated on behalf of Chinese technology giant Alibaba, allowing the latter to access advanced computing hardware that would otherwise be restricted under US export rules. This is according to an investigation by The New York Times (NYT), which cited five people familiar with […]\nThe post New York Times Alleges Alibaba Used NVIDIA AI Chips At YTL’s Johor Data Centre appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410153/nyt-alibaba-nvidia-ai-chips-ytl-johor-data-centre/",
+          "publishedOn": "2026-11-20T11:28:59.000Z",
+          "wordCount": 13545,
+          "title": "New York Times Alleges Alibaba Used NVIDIA AI Chips At YTL’s Johor Data Centre",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/alibaba-file-photo_01.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410135",
+          "author": "Heirul Kamel",
+          "description": "Singapore is preparing to replace its existing Electronic Road Pricing (ERP) system with a satellite-based alternative known as ERP 2.0, which is scheduled to take effect on 1 January 2027. The transition will eliminate the need for conventional charging gantries, allowing the country’s Land Transport Authority (LTA) to determine road usage charges through satellite positioning […]\nThe post Singapore Prepares To Replace ERP Gantries With Satellite-Based Road Charging In 2027 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410135/singapore-prepares-erp-2-2027/",
+          "publishedOn": "2026-11-20T09:18:25.000Z",
+          "wordCount": 13436,
+          "title": "Singapore Prepares To Replace ERP Gantries With Satellite-Based Road Charging In 2027",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/ERP-2.0-Singapore-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410137",
+          "author": "Nurul Kamil",
+          "description": "When it comes to installing apps on mobile devices, Android typically offers more freedom compared to iOS. Users can currently acquire apps from practically any source without needing Google’s permission. Unfortunately, that is set to change pretty soon, as the internet search giant has confirmed the global rollout for its developer verification requirements. In a […]\nThe post Google Rolling Out Android Sideloading Restrictions Globally In January 2027 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410137/google-android-sideloading-restrictions/",
+          "publishedOn": "2026-11-20T08:15:33.000Z",
+          "wordCount": 13351,
+          "title": "Google Rolling Out Android Sideloading Restrictions Globally In January 2027",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/google-android-developer-verification-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410129",
+          "author": "John Law",
+          "description": "AMD has partnered up with Unsloth to allow its XDNA2 NPUs to work with the latter’s self-named Unsloth Desktop, making it the first NPU platform to be able to do so. Through the partnership, AMD’s XDNA2 architecture is able to run LLMs on Unsloth via integration with Lemonade and FastFlowLM (FLM). As the red chipmaker […]\nThe post AMD XDNA2 NPU Architecture Now Works With Unsloth Desktop appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410129/amd-xdna2-npu-architecture-now-works-with-unsloth-desktop/",
+          "publishedOn": "2026-11-20T06:18:15.000Z",
+          "wordCount": 13281,
+          "title": "AMD XDNA2 NPU Architecture Now Works With Unsloth Desktop",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/AMD-XDNA2-Unsloth-Desktop-1-1240x697.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410126",
+          "author": "Heirul Kamel",
+          "description": "Apple is reportedly developing its own autonomous AI agent capable of performing tasks on behalf of users. As reported by Bloomberg, the company’s plans were outlined in several job listings published on its careers website, including one seeking a senior engineering manager to lead the development of a proactive, agentic AI assistant. As detailed in […]\nThe post Apple Reportedly Developing An AI Agent To Control Devices And Write Code appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410126/apple-reportedly-developing-ai-agent/",
+          "publishedOn": "2026-11-20T05:39:29.000Z",
+          "wordCount": 13232,
+          "title": "Apple Reportedly Developing An AI Agent To Control Devices And Write Code",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2017/09/Apple_Store-07.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410121",
+          "author": "Nurul Kamil",
+          "description": "Samsung has announced the beta programme for One UI 9.5, giving some users a taste of what’s to come in the next update. These include improvements in terms of camera functions, health insights, and accessibility. Additionally, the South Korean tech giant promises stronger privacy protections. Starting with the first on this list, the One UI […]\nThe post Samsung Opens One UI 9.5 Beta In Select Countries; Includes App Lock Feature, New Camera Controls appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410121/samsung-one-ui-9-5-beta/",
+          "publishedOn": "2026-11-20T05:30:34.000Z",
+          "wordCount": 13304,
+          "title": "Samsung Opens One UI 9.5 Beta In Select Countries; Includes App Lock Feature, New Camera Controls",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/samsung-one-ui-9.5-beta-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410115",
+          "author": "John Law",
+          "description": "Gigabyte has officially launched the AI TOP Aero, its mini desktop PC powered by the NVIDIA RTX Spark platform. The launch of this mini PC comes just as NVIDIA announced the availability of the mini PC version of its SoC with add-in partners and, surprisingly, Gigabyte’s first product using said chipset. On a sidebar, unlike […]\nThe post Gigabyte Launches AI TOP Aero RTX Spark Mini PC appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410115/gigabyte-launches-ai-top-aero-rtx-spark-mini-pc/",
+          "publishedOn": "2026-11-20T04:52:55.000Z",
+          "wordCount": 13280,
+          "title": "Gigabyte Launches AI TOP Aero RTX Spark Mini PC",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/Gigabyte-AI-TOP-Aero-1-1240x698.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410109",
+          "author": "John Law",
+          "description": "It is now being rumoured that AMD’s next generation Zen 6 CPU architecture, codenamed Olympic Ridge, may be delayed until after Computex 2027 next year. That is according to Chiphell leakster zhangzhonghao, at least. The leakster says that the reason for the delay is because of AMD is switching the process node of Zen 6 […]\nThe post AMD Zen 6 “Olympic Ridge” Reportedly Delayed Until After Computex 2027 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410109/amd-zen-6-olympic-ridge-reportedly-delayed-until-after-computex-2027/",
+          "publishedOn": "2026-11-20T04:07:46.000Z",
+          "wordCount": 13272,
+          "title": "AMD Zen 6 “Olympic Ridge” Reportedly Delayed Until After Computex 2027",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/AMD-Ryzen-7-7700X3D-Review-2-1240x930.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410102",
+          "author": "Nurul Kamil",
+          "description": "By now, you’ve probably heard that the Malaysian Communications and Multimedia Commission (MCMC) is working on a smartphone-based disaster alert system, which is called the Early Warning System (EWS). Recently, the commission clarified that it was conducting a strictly internal technical test for the system, contrary to previous reports that it would involve the public. […]\nThe post MCMC To Conduct Nationwide Public Test For Early Warning System On 29 November appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410102/mcmc-public-test-early-warning-system/",
+          "publishedOn": "2026-11-20T03:06:34.000Z",
+          "wordCount": 13369,
+          "title": "MCMC To Conduct Nationwide Public Test For Early Warning System On 29 November",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/mcmc-ews-test-1.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=410085",
           "author": "John Law",
@@ -22323,46 +22407,6 @@
           "wordCount": 13268,
           "title": "Infinix ZCLIP 2 Pro Officially Launches In Malaysia With Open-Ear Design, 35-Hour Battery Life",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/infinix-zclip-2-pro-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409268",
-          "author": "Evelyn Chu",
-          "description": "How far can RM9.99 a day get you? A cup of coffee? Some snacks, maybe? How about the new iPhone Duo? Yes, you read that right! Getting your hands on the latest foldable has just gotten a whole lot easier, thanks to Maxis. And with a price like that, owning the latest device is now […]\nThe post Own The New iPhone Duo For Just RM9.99 A Day With Maxis appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409268/own-iphone-duo-for-rm9-99-a-day-maxis/",
-          "publishedOn": "2026-11-05T10:01:44.000Z",
-          "wordCount": 14135,
-          "title": "Own The New iPhone Duo For Just RM9.99 A Day With Maxis",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/Maxis-iPhone-Duo-branded-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409269",
-          "author": "John Law",
-          "description": "Asus Malaysia announced that it is taking preorders of its new Zenbook 14 and Vivobook S14 laptops. Of the two laptop models, the former is available in a variety of processor configurations. Zenbook 14 2026 Asus is offering the Zenbook 14 in four processor flavours. At the base, you’ve got a model rocking the Qualcomm […]\nThe post Asus Malaysia Opens Preorders For New Zenbook 14, Vivobook S16 appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409269/asus-malaysia-opens-preorders-for-new-zenbook-14-vivobook-s16/",
-          "publishedOn": "2026-11-05T09:26:25.000Z",
-          "wordCount": 13296,
-          "title": "Asus Malaysia Opens Preorders For New Zenbook 14, Vivobook S16",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/ASUS-Zenbook-14-2026-1-1240x827.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409262",
-          "author": "Heirul Kamel",
-          "description": "TNG eWallet has introduced an overseas ride-hailing feature, making it the first Malaysian eWallet to let users book and pay for rides abroad directly through the app. Powered by Alipay+, the service provides access to ride-hailing providers across 47 countries and more than 12,000 cities. The feature is designed to make getting around overseas easier […]\nThe post TNG eWallet Now Supports Overseas Ride-Hailing Across 47 Countries appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409262/tng-ewallet-overseas-ride-hailing/",
-          "publishedOn": "2026-11-05T08:01:19.000Z",
-          "wordCount": 13288,
-          "title": "TNG eWallet Now Supports Overseas Ride-Hailing Across 47 Countries",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/tng-ewallet-app-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409257",
-          "author": "Nurul Kamil",
-          "description": "The physical games market is on thin ice, with Sony adamant on putting a stop to physical discs for new PlayStation games. Although other companies have yet to follow suit, supply constraints may push them to make a similar decision. Apparently, Taiwanese semiconductor and memory manufacturer Macronix will be exiting the ROM business. The firm […]\nThe post Key Nintendo Switch Cartridge Supplier To Phase Out ROM Production appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409257/nintendo-switch-cartridge-supplier-rom/",
-          "publishedOn": "2026-11-05T05:45:10.000Z",
-          "wordCount": 13316,
-          "title": "Key Nintendo Switch Cartridge Supplier To Phase Out ROM Production",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/07/nintendo-switch-2-game-cartridge-piracy-1.webp"
         }
       ]
     },
@@ -22371,6 +22415,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+          "author": "Robert Lemos",
+          "description": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+          "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+          "publishedOn": "2026-11-19T22:40:03.000Z",
+          "wordCount": null,
+          "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+          "author": "Nate Nelson",
+          "description": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+          "publishedOn": "2026-11-19T20:14:15.000Z",
+          "wordCount": null,
+          "title": "Second Norwegian Energy Company Breached in Two Days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+          "author": "Alexander Culafi",
+          "description": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+          "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+          "publishedOn": "2026-11-19T19:57:31.000Z",
+          "wordCount": null,
+          "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+          "author": "Fahmida Y. Rashid",
+          "description": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+          "publishedOn": "2026-11-19T19:46:44.000Z",
+          "wordCount": null,
+          "title": "Navigating Vulnerability Hysteria in the AI Era",
+          "imageUrl": null
+        },
         {
           "id": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
           "author": "Alexander Culafi",
@@ -22839,56 +22923,6 @@
           "publishedOn": "2026-11-06T09:00:00.000Z",
           "wordCount": null,
           "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
-          "author": "Robert Lemos",
-          "description": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
-          "publishedOn": "2026-11-05T22:13:23.000Z",
-          "wordCount": null,
-          "title": "Operação de influência russa tem como alvo generalizado a América Latina",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-          "author": "Nate Nelson",
-          "description": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-          "publishedOn": "2026-11-05T21:35:05.000Z",
-          "wordCount": null,
-          "title": "US Government Email Systems Open to Abuse Thanks to Typos",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-          "author": "Rob Wright",
-          "description": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
-          "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-          "publishedOn": "2026-11-05T21:00:47.000Z",
-          "wordCount": null,
-          "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-          "author": "Jai Vijayan",
-          "description": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-          "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-          "publishedOn": "2026-11-05T20:05:39.000Z",
-          "wordCount": null,
-          "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
-          "author": null,
-          "description": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
-          "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
-          "publishedOn": "2026-11-05T16:48:36.000Z",
-          "wordCount": null,
-          "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
           "imageUrl": null
         }
       ]

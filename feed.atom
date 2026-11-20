@@ -2,10 +2,272 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-11-19T17:14:59.773Z</updated>
+    <updated>2026-11-20T16:53:27.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tesla Malaysia Introduces Certified Pre-Owned Program In Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=410158</id>
+        <link href="https://www.lowyat.net/2026/410158/tesla-certified-pre-owned-malaysia/"/>
+        <updated>2026-11-20T14:21:03.000Z</updated>
+        <summary type="html"><![CDATA[Tesla is officially introducing its Certified Pre-Owned program for the Malaysian market. The program is to provide customers with the added security and verification of a pre-owned Tesla EV. “Every Certified Pre-Owned vehicle is fully inspected and refurbished by company-qualified technicians and parts to ensure the vehicle is road-ready.  Each Certified Pre-Owned Tesla vehicle has […]
+The post Tesla Malaysia Introduces Certified Pre-Owned Program In Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts]]></title>
+        <id>https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html</id>
+        <link href="https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"/>
+        <updated>2026-11-20T12:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean.
+
+On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled.
+
+Fixed kernels shipped]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Path to AI Autonomy in the SOC]]></title>
+        <id>https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html</id>
+        <link href="https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html"/>
+        <updated>2026-11-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Overall, AI SOC was the highest ranking initiative for 2027.
+
+The pressure]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York Times Alleges Alibaba Used NVIDIA AI Chips At YTL’s Johor Data Centre]]></title>
+        <id>https://www.lowyat.net/?p=410153</id>
+        <link href="https://www.lowyat.net/2026/410153/nyt-alibaba-nvidia-ai-chips-ytl-johor-data-centre/"/>
+        <updated>2026-11-20T11:28:59.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA AI chips housed at YTL’s data centre in Johor were reportedly operated on behalf of Chinese technology giant Alibaba, allowing the latter to access advanced computing hardware that would otherwise be restricted under US export rules. This is according to an investigation by The New York Times (NYT), which cited five people familiar with […]
+The post New York Times Alleges Alibaba Used NVIDIA AI Chips At YTL’s Johor Data Centre appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws]]></title>
+        <id>https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html</id>
+        <link href="https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"/>
+        <updated>2026-11-20T10:38:22.000Z</updated>
+        <summary type="html"><![CDATA[SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks.
+
+"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever," SonicWall said. "We expect internet-facing Gen 6 firewalls to be actively]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network]]></title>
+        <id>https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html</id>
+        <link href="https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html"/>
+        <updated>2026-11-20T10:32:50.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.
+
+The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow an unauthenticated, remote attacker with network access to a Cisco Expressway]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data]]></title>
+        <id>https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</id>
+        <link href="https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"/>
+        <updated>2026-11-20T09:38:15.000Z</updated>
+        <summary type="html"><![CDATA[The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.
+
+The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singapore Prepares To Replace ERP Gantries With Satellite-Based Road Charging In 2027]]></title>
+        <id>https://www.lowyat.net/?p=410135</id>
+        <link href="https://www.lowyat.net/2026/410135/singapore-prepares-erp-2-2027/"/>
+        <updated>2026-11-20T09:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Singapore is preparing to replace its existing Electronic Road Pricing (ERP) system with a satellite-based alternative known as ERP 2.0, which is scheduled to take effect on 1 January 2027. The transition will eliminate the need for conventional charging gantries, allowing the country’s Land Transport Authority (LTA) to determine road usage charges through satellite positioning […]
+The post Singapore Prepares To Replace ERP Gantries With Satellite-Based Road Charging In 2027 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Rolling Out Android Sideloading Restrictions Globally In January 2027]]></title>
+        <id>https://www.lowyat.net/?p=410137</id>
+        <link href="https://www.lowyat.net/2026/410137/google-android-sideloading-restrictions/"/>
+        <updated>2026-11-20T08:15:33.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to installing apps on mobile devices, Android typically offers more freedom compared to iOS. Users can currently acquire apps from practically any source without needing Google’s permission. Unfortunately, that is set to change pretty soon, as the internet search giant has confirmed the global rollout for its developer verification requirements. In a […]
+The post Google Rolling Out Android Sideloading Restrictions Globally In January 2027 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs]]></title>
+        <id>https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</id>
+        <link href="https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html"/>
+        <updated>2026-11-20T07:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.
+
+"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques," Blackpoint]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD XDNA2 NPU Architecture Now Works With Unsloth Desktop]]></title>
+        <id>https://www.lowyat.net/?p=410129</id>
+        <link href="https://www.lowyat.net/2026/410129/amd-xdna2-npu-architecture-now-works-with-unsloth-desktop/"/>
+        <updated>2026-11-20T06:18:15.000Z</updated>
+        <summary type="html"><![CDATA[AMD has partnered up with Unsloth to allow its XDNA2 NPUs to work with the latter’s self-named Unsloth Desktop, making it the first NPU platform to be able to do so. Through the partnership, AMD’s XDNA2 architecture is able to run LLMs on Unsloth via integration with Lemonade and FastFlowLM (FLM). As the red chipmaker […]
+The post AMD XDNA2 NPU Architecture Now Works With Unsloth Desktop appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Reportedly Developing An AI Agent To Control Devices And Write Code]]></title>
+        <id>https://www.lowyat.net/?p=410126</id>
+        <link href="https://www.lowyat.net/2026/410126/apple-reportedly-developing-ai-agent/"/>
+        <updated>2026-11-20T05:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Apple is reportedly developing its own autonomous AI agent capable of performing tasks on behalf of users. As reported by Bloomberg, the company’s plans were outlined in several job listings published on its careers website, including one seeking a senior engineering manager to lead the development of a proactive, agentic AI assistant. As detailed in […]
+The post Apple Reportedly Developing An AI Agent To Control Devices And Write Code appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Opens One UI 9.5 Beta In Select Countries; Includes App Lock Feature, New Camera Controls]]></title>
+        <id>https://www.lowyat.net/?p=410121</id>
+        <link href="https://www.lowyat.net/2026/410121/samsung-one-ui-9-5-beta/"/>
+        <updated>2026-11-20T05:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Samsung has announced the beta programme for One UI 9.5, giving some users a taste of what’s to come in the next update. These include improvements in terms of camera functions, health insights, and accessibility. Additionally, the South Korean tech giant promises stronger privacy protections. Starting with the first on this list, the One UI […]
+The post Samsung Opens One UI 9.5 Beta In Select Countries; Includes App Lock Feature, New Camera Controls appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It]]></title>
+        <id>https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html</id>
+        <link href="https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html"/>
+        <updated>2026-11-20T05:30:01.000Z</updated>
+        <summary type="html"><![CDATA[A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine.
+
+The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigabyte Launches AI TOP Aero RTX Spark Mini PC]]></title>
+        <id>https://www.lowyat.net/?p=410115</id>
+        <link href="https://www.lowyat.net/2026/410115/gigabyte-launches-ai-top-aero-rtx-spark-mini-pc/"/>
+        <updated>2026-11-20T04:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Gigabyte has officially launched the AI TOP Aero, its mini desktop PC powered by the NVIDIA RTX Spark platform. The launch of this mini PC comes just as NVIDIA announced the availability of the mini PC version of its SoC with add-in partners and, surprisingly, Gigabyte’s first product using said chipset. On a sidebar, unlike […]
+The post Gigabyte Launches AI TOP Aero RTX Spark Mini PC appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Zen 6 “Olympic Ridge” Reportedly Delayed Until After Computex 2027]]></title>
+        <id>https://www.lowyat.net/?p=410109</id>
+        <link href="https://www.lowyat.net/2026/410109/amd-zen-6-olympic-ridge-reportedly-delayed-until-after-computex-2027/"/>
+        <updated>2026-11-20T04:07:46.000Z</updated>
+        <summary type="html"><![CDATA[It is now being rumoured that AMD’s next generation Zen 6 CPU architecture, codenamed Olympic Ridge, may be delayed until after Computex 2027 next year. That is according to Chiphell leakster zhangzhonghao, at least. The leakster says that the reason for the delay is because of AMD is switching the process node of Zen 6 […]
+The post AMD Zen 6 “Olympic Ridge” Reportedly Delayed Until After Computex 2027 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCMC To Conduct Nationwide Public Test For Early Warning System On 29 November]]></title>
+        <id>https://www.lowyat.net/?p=410102</id>
+        <link href="https://www.lowyat.net/2026/410102/mcmc-public-test-early-warning-system/"/>
+        <updated>2026-11-20T03:06:34.000Z</updated>
+        <summary type="html"><![CDATA[By now, you’ve probably heard that the Malaysian Communications and Multimedia Commission (MCMC) is working on a smartphone-based disaster alert system, which is called the Early Warning System (EWS). Recently, the commission clarified that it was conducting a strictly internal technical test for the system, contrary to previous reports that it would involve the public. […]
+The post MCMC To Conduct Nationwide Public Test For Early Warning System On 29 November appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering]]></title>
+        <id>https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering</id>
+        <link href="https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering"/>
+        <updated>2026-11-19T22:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.]]></summary>
+        <author>
+            <name>Robert Lemos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second Norwegian Energy Company Breached in Two Days]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached"/>
+        <updated>2026-11-19T20:14:15.000Z</updated>
+        <summary type="html"><![CDATA[No specific link has been drawn between the two incidents, though they certainly sing the same notes.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style]]></title>
+        <id>https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell</id>
+        <link href="https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell"/>
+        <updated>2026-11-19T19:57:31.000Z</updated>
+        <summary type="html"><![CDATA[November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Vulnerability Hysteria in the AI Era]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era"/>
+        <updated>2026-11-19T19:46:44.000Z</updated>
+        <summary type="html"><![CDATA[This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.]]></summary>
+        <author>
+            <name>Fahmida Y. Rashid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories]]></title>
+        <id>https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html</id>
+        <link href="https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"/>
+        <updated>2026-11-19T18:47:58.000Z</updated>
+        <summary type="html"><![CDATA[The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access.
+
+There's another shift worth watching. AI is making some attacks easier]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution]]></title>
+        <id>https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html</id>
+        <link href="https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"/>
+        <updated>2026-11-19T16:59:56.000Z</updated>
+        <summary type="html"><![CDATA[PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server.
+
+Today's PHP releases fix the flaw, called phpAfterShell.
+
+The flaw is tracked as CVE-2026-126714 and rated]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution]]></title>
         <id>https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html</id>
@@ -3081,226 +3343,6 @@ The backdoored web server executes commands that attackers send via web requests
 The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.
 
 One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operação de influência russa tem como alvo generalizado a América Latina]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina"/>
-        <updated>2026-11-05T22:13:23.000Z</updated>
-        <summary type="html"><![CDATA[A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.]]></summary>
-        <author>
-            <name>Robert Lemos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Government Email Systems Open to Abuse Thanks to Typos]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos"/>
-        <updated>2026-11-05T21:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What We Missed: Knicks Phishing Test Goes Out of Bounds]]></title>
-        <id>https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds</id>
-        <link href="https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds"/>
-        <updated>2026-11-05T21:00:47.000Z</updated>
-        <summary type="html"><![CDATA[In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.]]></summary>
-        <author>
-            <name>Rob Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT29's Watering Holes Target Thousands of Mobile Users]]></title>
-        <id>https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users</id>
-        <link href="https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users"/>
-        <updated>2026-11-05T20:05:39.000Z</updated>
-        <summary type="html"><![CDATA[After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.]]></summary>
-        <author>
-            <name>Jai Vijayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era"/>
-        <updated>2026-11-05T16:48:36.000Z</updated>
-        <summary type="html"><![CDATA[The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.]]></summary>
-        <author>
-            <name>darkreading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux]]></title>
-        <id>https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html</id>
-        <link href="https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html"/>
-        <updated>2026-11-05T16:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long.
-
-OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction]]></title>
-        <id>https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html</id>
-        <link href="https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html"/>
-        <updated>2026-11-05T16:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.
-
-Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections.
-
-"The flaw could enable silent chat data theft, phishing,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories]]></title>
-        <id>https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html</id>
-        <link href="https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html"/>
-        <updated>2026-11-05T14:41:10.000Z</updated>
-        <summary type="html"><![CDATA[How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out]]></title>
-        <id>https://thehackernews.com/2026/11/is-your-exposure-management-platform.html</id>
-        <link href="https://thehackernews.com/2026/11/is-your-exposure-management-platform.html"/>
-        <updated>2026-11-05T12:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A critical finding can move through several security tools and still leave the organization exposed. 
-
-The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. 
-
-Each missing detail creates]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run]]></title>
-        <id>https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html</id>
-        <link href="https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"/>
-        <updated>2026-11-05T12:08:54.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.
-
-"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Active Cyber Threats That Put US Enterprises at Risk in October 2026]]></title>
-        <id>https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html</id>
-        <link href="https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html"/>
-        <updated>2026-11-05T10:06:19.000Z</updated>
-        <summary type="html"><![CDATA[October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption.
-
-Below, we examine five]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Own The New iPhone Duo For Just RM9.99 A Day With Maxis]]></title>
-        <id>https://www.lowyat.net/?p=409268</id>
-        <link href="https://www.lowyat.net/2026/409268/own-iphone-duo-for-rm9-99-a-day-maxis/"/>
-        <updated>2026-11-05T10:01:44.000Z</updated>
-        <summary type="html"><![CDATA[How far can RM9.99 a day get you? A cup of coffee? Some snacks, maybe? How about the new iPhone Duo? Yes, you read that right! Getting your hands on the latest foldable has just gotten a whole lot easier, thanks to Maxis. And with a price like that, owning the latest device is now […]
-The post Own The New iPhone Duo For Just RM9.99 A Day With Maxis appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Evelyn Chu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus Malaysia Opens Preorders For New Zenbook 14, Vivobook S16]]></title>
-        <id>https://www.lowyat.net/?p=409269</id>
-        <link href="https://www.lowyat.net/2026/409269/asus-malaysia-opens-preorders-for-new-zenbook-14-vivobook-s16/"/>
-        <updated>2026-11-05T09:26:25.000Z</updated>
-        <summary type="html"><![CDATA[Asus Malaysia announced that it is taking preorders of its new Zenbook 14 and Vivobook S14 laptops. Of the two laptop models, the former is available in a variety of processor configurations. Zenbook 14 2026 Asus is offering the Zenbook 14 in four processor flavours. At the base, you’ve got a model rocking the Qualcomm […]
-The post Asus Malaysia Opens Preorders For New Zenbook 14, Vivobook S16 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content]]></title>
-        <id>https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html</id>
-        <link href="https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html"/>
-        <updated>2026-11-05T09:13:28.000Z</updated>
-        <summary type="html"><![CDATA[Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.
-
-The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to "Anyone with the link."
-
-When users choose this option,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access]]></title>
-        <id>https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html</id>
-        <link href="https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html"/>
-        <updated>2026-11-05T08:42:03.000Z</updated>
-        <summary type="html"><![CDATA[The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country.
-
-Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNG eWallet Now Supports Overseas Ride-Hailing Across 47 Countries]]></title>
-        <id>https://www.lowyat.net/?p=409262</id>
-        <link href="https://www.lowyat.net/2026/409262/tng-ewallet-overseas-ride-hailing/"/>
-        <updated>2026-11-05T08:01:19.000Z</updated>
-        <summary type="html"><![CDATA[TNG eWallet has introduced an overseas ride-hailing feature, making it the first Malaysian eWallet to let users book and pay for rides abroad directly through the app. Powered by Alipay+, the service provides access to ride-hailing providers across 47 countries and more than 12,000 cities. The feature is designed to make getting around overseas easier […]
-The post TNG eWallet Now Supports Overseas Ride-Hailing Across 47 Countries appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution]]></title>
-        <id>https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html</id>
-        <link href="https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html"/>
-        <updated>2026-11-05T07:06:33.000Z</updated>
-        <summary type="html"><![CDATA[Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.
-
-The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole.
-
-The earlier fix is the 2.90]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Nintendo Switch Cartridge Supplier To Phase Out ROM Production]]></title>
-        <id>https://www.lowyat.net/?p=409257</id>
-        <link href="https://www.lowyat.net/2026/409257/nintendo-switch-cartridge-supplier-rom/"/>
-        <updated>2026-11-05T05:45:10.000Z</updated>
-        <summary type="html"><![CDATA[The physical games market is on thin ice, with Sony adamant on putting a stop to physical discs for new PlayStation games. Although other companies have yet to follow suit, supply constraints may push them to make a similar decision. Apparently, Taiwanese semiconductor and memory manufacturer Macronix will be exiting the ROM business. The firm […]
-The post Key Nintendo Switch Cartridge Supplier To Phase Out ROM Production appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says]]></title>
-        <id>https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html</id>
-        <link href="https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"/>
-        <updated>2026-11-05T05:17:04.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
-
-The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
