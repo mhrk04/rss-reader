@@ -2,10 +2,155 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-11-20T16:53:27.614Z</updated>
+    <updated>2026-11-21T16:02:42.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats]]></title>
+        <id>https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html</id>
+        <link href="https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"/>
+        <updated>2026-11-21T11:53:07.000Z</updated>
+        <summary type="html"><![CDATA[A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.
+
+The same attack could be extended to reach the credentials Muse stores for the user's connected accounts.
+
+The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys]]></title>
+        <id>https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html</id>
+        <link href="https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"/>
+        <updated>2026-11-21T11:05:53.000Z</updated>
+        <summary type="html"><![CDATA[A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.
+
+The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.
+
+The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access]]></title>
+        <id>https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html</id>
+        <link href="https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"/>
+        <updated>2026-11-21T11:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.
+
+The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS]]></title>
+        <id>https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html</id>
+        <link href="https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html"/>
+        <updated>2026-11-21T08:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is "incomplete."
+
+The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted messaging platform can detect an AI assistant attempting to read the Signal]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge]]></title>
+        <id>https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html</id>
+        <link href="https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"/>
+        <updated>2026-11-21T08:49:13.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-129448 (CVSS score: 9.8) - A deserialization of untrusted data vulnerability in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Threatens “Tremendous Tax” On US Companies Building AI Data Centres Overseas]]></title>
+        <id>https://www.lowyat.net/?p=410162</id>
+        <link href="https://www.lowyat.net/2026/410162/trump-tax-data-centres-overseas/"/>
+        <updated>2026-11-21T06:15:01.000Z</updated>
+        <summary type="html"><![CDATA[US President Donald Trump has threatened to impose a “tremendous tax” on American companies that build data centres overseas, saying he wants to keep the country’s AI infrastructure within its borders. The proposal comes amid Washington’s efforts to prevent Chinese companies from accessing advanced AI computing resources through overseas facilities. “We’re not going to allow […]
+The post Trump Threatens “Tremendous Tax” On US Companies Building AI Data Centres Overseas appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Buds Active Leaked With Ear Hook Design, IP68 Rating]]></title>
+        <id>https://www.lowyat.net/?p=410148</id>
+        <link href="https://www.lowyat.net/2026/410148/samsung-galaxy-buds-active-leak/"/>
+        <updated>2026-11-21T01:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Samsung has expanded its portfolio with the launch of the Galaxy Buds On earlier this month. But it isn’t quite done with audio devices just yet, if the leaks are to be believed. The next item on the list may be a pair of wireless earbuds with an ear hook design, which could be called […]
+The post Samsung Galaxy Buds Active Leaked With Ear Hook Design, IP68 Rating appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day"/>
+        <updated>2026-11-20T21:03:27.000Z</updated>
+        <summary type="html"><![CDATA[During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Security, Words Matter as Much as Tools, Maybe More]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/security-words-matter</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/security-words-matter"/>
+        <updated>2026-11-20T18:35:40.000Z</updated>
+        <summary type="html"><![CDATA[From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.]]></summary>
+        <author>
+            <name>Becky Bracken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams]]></title>
+        <id>https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html</id>
+        <link href="https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"/>
+        <updated>2026-11-20T17:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.
+
+The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Missed: Nvidia CEO Scandal Rocks AI Industry]]></title>
+        <id>https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry</id>
+        <link href="https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry"/>
+        <updated>2026-11-20T17:04:04.000Z</updated>
+        <summary type="html"><![CDATA[In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.]]></summary>
+        <author>
+            <name>Rob Wright, Alexander Culafi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control]]></title>
+        <id>https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html</id>
+        <link href="https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"/>
+        <updated>2026-11-20T16:58:16.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.
+
+Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan.
+
+"Bazuka is a full malware framework,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tesla Malaysia Introduces Certified Pre-Owned Program In Malaysia]]></title>
         <id>https://www.lowyat.net/?p=410158</id>
@@ -3112,237 +3257,6 @@ The post US$11.4 Million Worth Of NVIDIA Hardware Reportedly Vanished In Califor
 When a user selects "Yes, and don't ask again," Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file.
 
 Software security company Apiiro said yesterday that 1,122 public]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Rolls Out Events Hub With Shareable Invites, Custom Reminders]]></title>
-        <id>https://www.lowyat.net/?p=409391</id>
-        <link href="https://www.lowyat.net/2026/409391/whatsapp-events-hub-shareable-invites/"/>
-        <updated>2026-11-07T01:00:54.000Z</updated>
-        <summary type="html"><![CDATA[The latest WhatsApp update brings a feature that goes beyond simply messaging and calling. With the new Events Home, users can plan and organise events, with the option to invite those who do not have an account on the platform. As per the company’s announcement, this feature comes as a response to a request from […]
-The post WhatsApp Rolls Out Events Hub With Shareable Invites, Custom Reminders appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Wades Into Tech Sovereignty Amid AI Policy Changes]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy"/>
-        <updated>2026-11-06T21:27:36.000Z</updated>
-        <summary type="html"><![CDATA[The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.]]></summary>
-        <author>
-            <name>Rob Wright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank Rakyat Takes Down Sites After Suspected Cyber Attack]]></title>
-        <id>https://www.lowyat.net/?p=409395</id>
-        <link href="https://www.lowyat.net/2026/409395/bank-rakyat-takes-down-sites-after-suspected-cyber-attack/"/>
-        <updated>2026-11-06T19:39:53.000Z</updated>
-        <summary type="html"><![CDATA[Bank Rakyat has disabled access to most of its websites after several of its banking pages, including the iRakyat online banking login page, were defaced in a suspected cyberattack late on Friday. Shortly before midnight, the bank posted a notice on its social media channels after the defaced sites were taken offline. The bank did […]
-The post Bank Rakyat Takes Down Sites After Suspected Cyber Attack appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Evelyn Chu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Gave Your Incident Archive a Second Job]]></title>
-        <id>https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job</id>
-        <link href="https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job"/>
-        <updated>2026-11-06T18:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.]]></summary>
-        <author>
-            <name>Gerald Mako, Lemuel Valdez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time]]></title>
-        <id>https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html</id>
-        <link href="https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html"/>
-        <updated>2026-11-06T16:08:38.000Z</updated>
-        <summary type="html"><![CDATA[Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.
-
-The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot]]></title>
-        <id>https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html</id>
-        <link href="https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"/>
-        <updated>2026-11-06T15:21:49.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.
-
-The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits]]></title>
-        <id>https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html</id>
-        <link href="https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"/>
-        <updated>2026-11-06T14:58:32.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.
-
-The new model is "more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set," OpenAI said. It has classified the model as]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Europe's Freezer Hacks Spread So Far, So Fast]]></title>
-        <id>https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast</id>
-        <link href="https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast"/>
-        <updated>2026-11-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It]]></title>
-        <id>https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html</id>
-        <link href="https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html"/>
-        <updated>2026-11-06T12:06:43.000Z</updated>
-        <summary type="html"><![CDATA[A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.
-
-The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today.
-
-The flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers]]></title>
-        <id>https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html</id>
-        <link href="https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html"/>
-        <updated>2026-11-06T12:06:35.000Z</updated>
-        <summary type="html"><![CDATA[A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.
-
-The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Flood is Coming And The Pipes Were Already Full]]></title>
-        <id>https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html</id>
-        <link href="https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html"/>
-        <updated>2026-11-06T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[An update on Athena, and some unsolicited predictions on what's coming next
-
-On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May.
-
-The hardest piece of his]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AEON Credit Introduces FacePay Via AEON Wallet]]></title>
-        <id>https://www.lowyat.net/?p=409386</id>
-        <link href="https://www.lowyat.net/2026/409386/aeon-credit-introduces-facepay-via-aeon-wallet/"/>
-        <updated>2026-11-06T09:58:37.000Z</updated>
-        <summary type="html"><![CDATA[AEON Credit recently introduced its FacePay payment system via AEON Wallet and yes, that description aptly explains how customers can make payments with the digital bank’s services. With just a customer’s face, FacePay will allow customers to make payment via facial recognition. In the company’s own words: “After shopping, customers can proceed to selected self-checkout […]
-The post AEON Credit Introduces FacePay Via AEON Wallet appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedMagic 12 Pro Launches In Malaysia; Availability Starts 10 November]]></title>
-        <id>https://www.lowyat.net/?p=409366</id>
-        <link href="https://www.lowyat.net/2026/409366/redmagic-12-pro-malaysia-10-november/"/>
-        <updated>2026-11-06T09:19:14.000Z</updated>
-        <summary type="html"><![CDATA[Last month, RedMagic launched the 12 Pro+ gaming phone in its home market. At the time, the company confirmed that the phone would head to global markets soon after, dropping the plus symbol from the name when it does. Sure enough, the nubia subsidiary has announced that the phone is coming to the local market […]
-The post RedMagic 12 Pro Launches In Malaysia; Availability Starts 10 November appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POCO X8s Officially Lands In Malaysia With Snapdragon 7 Gen 4 SoC, 6,330mAh Battery]]></title>
-        <id>https://www.lowyat.net/?p=409362</id>
-        <link href="https://www.lowyat.net/2026/409362/poco-x8s-malaysia-snapdragon-7-gen-4/"/>
-        <updated>2026-11-06T09:02:03.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve been keeping up with the POCO X8 series, then you’d be aware that the lineup has been steadily growing, with the X8s making an appearance in some markets not too long ago. Now, the smartphone has arrived on our shores, serving as the compact but still capable option. Starting with the design, it […]
-The post POCO X8s Officially Lands In Malaysia With Snapdragon 7 Gen 4 SoC, 6,330mAh Battery appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Warns Its Critical Infrastructure Faces Grave Risk]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk"/>
-        <updated>2026-11-06T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank Islam Acknowledges BIMB Mobile Version 2.10.1 Issues On Android 17; Advises Users Not To Update]]></title>
-        <id>https://www.lowyat.net/?p=409359</id>
-        <link href="https://www.lowyat.net/2026/409359/bank-islam-bimb-android-17-issue/"/>
-        <updated>2026-11-06T08:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Bank Islam has identified a compatibility issue affecting version 2.10.1 of its BIMB Mobile banking application on devices running Android 17. As a result, the bank is advising users who have yet to update the app to hold off on installing the latest version until further notice. According to the bank, an investigation is currently […]
-The post Bank Islam Acknowledges BIMB Mobile Version 2.10.1 Issues On Android 17; Advises Users Not To Update appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services]]></title>
-        <id>https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html</id>
-        <link href="https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html"/>
-        <updated>2026-11-06T08:04:49.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users.
-
-"While we investigated, we removed access to Reactor and Data Solutions," the company said. "At this time we continue to have no evidence that any investigations data has been accessed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infinix ZCLIP 2 Pro Officially Launches In Malaysia With Open-Ear Design, 35-Hour Battery Life]]></title>
-        <id>https://www.lowyat.net/?p=409350</id>
-        <link href="https://www.lowyat.net/2026/409350/infinix-zclip-2-pro-malaysia/"/>
-        <updated>2026-11-06T07:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Infinix has announced its latest earbuds for the local market. The ZCLIP 2 Pro sports an open-ear design with what the brand calls the Airy U-Bridge Fit. This lightweight clip-on structure is designed to ensure the buds sit securely and naturally on the ears for a comfortable fit. Internally, the audio device comes with dual […]
-The post Infinix ZCLIP 2 Pro Officially Launches In Malaysia With Open-Ear Design, 35-Hour Battery Life appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs]]></title>
-        <id>https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html</id>
-        <link href="https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html"/>
-        <updated>2026-11-06T05:58:54.000Z</updated>
-        <summary type="html"><![CDATA[A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.
-
-The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login]]></title>
-        <id>https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html</id>
-        <link href="https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html"/>
-        <updated>2026-11-06T05:39:10.000Z</updated>
-        <summary type="html"><![CDATA[Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.
-
-The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.
-
-One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
