@@ -2,10 +2,240 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-11-22T16:09:08.083Z</updated>
+    <updated>2026-11-23T20:02:37.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors"/>
+        <updated>2026-11-23T17:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.]]></summary>
+        <author>
+            <name>Arielle Waldman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access]]></title>
+        <id>https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html</id>
+        <link href="https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html"/>
+        <updated>2026-11-23T17:45:15.000Z</updated>
+        <summary type="html"><![CDATA[The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks.
+
+The modified variant "implements various tricks to hide itself from security tools,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes"/>
+        <updated>2026-11-23T16:17:21.000Z</updated>
+        <summary type="html"><![CDATA[A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble]]></title>
+        <id>https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html</id>
+        <link href="https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html"/>
+        <updated>2026-11-23T15:10:48.000Z</updated>
+        <summary type="html"><![CDATA[A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open.
+
+This week's stories show how quickly a small opening can turn into a much bigger mess. One breach helps attackers reach another target. Tools people rely]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang Reinstated As NVIDIA CEO With Immediate Effect]]></title>
+        <id>https://www.lowyat.net/?p=410233</id>
+        <link href="https://www.lowyat.net/2026/410233/jensen-huang-reinstated-as-nvidia-ceo-with-immediate-effect/"/>
+        <updated>2026-11-23T14:44:31.000Z</updated>
+        <summary type="html"><![CDATA[In what can only be described as a near immediate and, dare we say, an expected U-turn by the board, Jensen Huang has been reinstated as the company’s CEO, President, and as a member of the Board. The reinstatement is effective immediately. “NVIDIA today announced that effective immediately, Jensen Huang has been reinstated as President […]
+The post Jensen Huang Reinstated As NVIDIA CEO With Immediate Effect appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions]]></title>
+        <id>https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html</id>
+        <link href="https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html"/>
+        <updated>2026-11-23T13:22:20.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.
+
+The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1.
+
+"Binary-parser before 2.3.1 contains a code injection vulnerability that allows]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning]]></title>
+        <id>https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html</id>
+        <link href="https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html"/>
+        <updated>2026-11-23T12:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.
+
+The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting technician's host.
+
+"On November 12, 2026, we observed one managed service]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation]]></title>
+        <id>https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html</id>
+        <link href="https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html"/>
+        <updated>2026-11-23T12:28:09.000Z</updated>
+        <summary type="html"><![CDATA[N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.
+
+The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user with high-level API access to open connections to internal systems of the user's choosing on the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPJ Urges Public To Update Their Personal Info]]></title>
+        <id>https://www.lowyat.net/?p=410221</id>
+        <link href="https://www.lowyat.net/2026/410221/jpj-urges-public-update-personal-info/"/>
+        <updated>2026-11-23T11:36:28.000Z</updated>
+        <summary type="html"><![CDATA[The Road Transport Department (JPJ) has released a statement asking members of the public to update their personal information within the department’s database. The department makes specific mention of residential addresses, email addresses, and phone numbers, saying that ensuring that these details are accurate and up-to-date is essential for the smooth delivery of its digital […]
+The post JPJ Urges Public To Update Their Personal Info appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaysia’s Early Warning System Now Officially Called “MySiren”]]></title>
+        <id>https://www.lowyat.net/?p=410217</id>
+        <link href="https://www.lowyat.net/2026/410217/malaysia-ews-called-mysiren/"/>
+        <updated>2026-11-23T09:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Comms Minister Datuk Seri Fahmi Fadzil has confirmed that Malaysia’s new Early Warning System (EWS) is officially known as “MySiren”, while also revealing that the scheduled nationwide test on 29 November 2026 will commence at 10:10am. The exercise will see compatible smartphones across the country receive a test notification simultaneously, allowing the public to familiarise […]
+The post Malaysia’s Early Warning System Now Officially Called “MySiren” appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE]]></title>
+        <id>https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html</id>
+        <link href="https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html"/>
+        <updated>2026-11-23T09:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf ("Idunno.AntiCsrf.dll") following the discovery of a critical vulnerability that has been exploited in the wild.
+
+The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carsome Launches Certified Pre-Owned Program For Premium Brands]]></title>
+        <id>https://www.lowyat.net/?p=410213</id>
+        <link href="https://www.lowyat.net/2026/410213/carsome-certified-pre-owned-for-premium/"/>
+        <updated>2026-11-23T09:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Car e-commerce platform Carsome has announced a new tier for its certified pre-owned program, simply known as Carsome Premium. This expands on the platform’s existing Certified and Value Plus programs, rounding out the full range of budget-friendly, mainstream, and premium selections of secondhand cars. Different segments notwithstanding, the programs are meant to make car ownership […]
+The post Carsome Launches Certified Pre-Owned Program For Premium Brands appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices]]></title>
+        <id>https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html</id>
+        <link href="https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html"/>
+        <updated>2026-11-23T09:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today.
+
+The company identified and fixed the flaw on Friday and blocked the access the attacker used, so devices can no longer be infected through this route.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms]]></title>
+        <id>https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html</id>
+        <link href="https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html"/>
+        <updated>2026-11-23T08:24:15.000Z</updated>
+        <summary type="html"><![CDATA[The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.
+
+This unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Appoints Won-Joon Choi As New Head Of Mobile Division; TM Roh Remaining As CEO]]></title>
+        <id>https://www.lowyat.net/?p=410205</id>
+        <link href="https://www.lowyat.net/2026/410205/samsung-new-head-of-mobile-division/"/>
+        <updated>2026-11-23T08:22:26.000Z</updated>
+        <summary type="html"><![CDATA[Samsung has made some changes to its leadership, and for the first time in almost seven years, its mobile division has a new chief. In an announcement last Friday, the company named Won-Joon Choi as the Head of Mobile eXperience (MX) Business. Prior to taking the position, Choi served as the COO of the MX […]
+The post Samsung Appoints Won-Joon Choi As New Head Of Mobile Division; TM Roh Remaining As CEO appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuralink Transplant Recipient Plays GTA 6; This Time Actually With His Mind]]></title>
+        <id>https://www.lowyat.net/?p=410174</id>
+        <link href="https://www.lowyat.net/2026/410174/neuralink-recipient-gta-6-with-mind/"/>
+        <updated>2026-11-23T05:15:21.000Z</updated>
+        <summary type="html"><![CDATA[The first couple of Neuralink transplant recipients back in 2024 made the news due to their ability to play videogames despite being paralysed. At the time, while they were close to playing their respective games with their minds, it wasn’t quite there yet, as there was still a mouth-operated joystick involved. More recently, though, it […]
+The post Neuralink Transplant Recipient Plays GTA 6; This Time Actually With His Mind appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RingConn Unveils The One Ring Limited Edition Gen 3 Smart Ring]]></title>
+        <id>https://www.lowyat.net/?p=410189</id>
+        <link href="https://www.lowyat.net/2026/410189/ringconn-the-one-ring-limited-edition/"/>
+        <updated>2026-11-23T04:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Finally, a wearable brand has decided to make an actual The Lord of the Rings (LOTR) collaboration centred around the franchise’s most iconic piece of jewellery. RingConn has recently announced a limited edition of its Gen 3 smart ring, aptly called The One Ring, as part of a partnership with Warner Bros Global Consumer Products […]
+The post RingConn Unveils The One Ring Limited Edition Gen 3 Smart Ring appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Confirms 8 December Launch Date For Its First AI-Native Device]]></title>
+        <id>https://www.lowyat.net/?p=410182</id>
+        <link href="https://www.lowyat.net/2026/410182/nothing-launch-first-ai-native-device/"/>
+        <updated>2026-11-23T04:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Nothing has been steadily teasing its first AI-native device, and although the London-based company has yet to disclose what it is, the product already has a confirmed launch date. In an X post, the brand shared another vague-looking image that may be a close-up of the device from another angle. Regardless, the post carries the […]
+The post Nothing Confirms 8 December Launch Date For Its First AI-Native Device appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iQOO 16s Bags SIRIM Approval; Possibly Launching With Snapdragon 8s Gen 4 SoC]]></title>
+        <id>https://www.lowyat.net/?p=410173</id>
+        <link href="https://www.lowyat.net/2026/410173/iqoo-16s-sirim-snapdragon-8s-gen-4-soc/"/>
+        <updated>2026-11-23T03:15:21.000Z</updated>
+        <summary type="html"><![CDATA[The iQOO 16 made its debut in China at the tail end of September, and shortly after that, the vivo sub-brand confirmed that the smartphone will launch in Malaysia as well. The device has not seen an official local release just yet, but it looks like a sibling is also on the way. The iQOO […]
+The post iQOO 16s Bags SIRIM Approval; Possibly Launching With Snapdragon 8s Gen 4 SoC appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Reportedly Skipping Galaxy Watch Launch In 2027]]></title>
+        <id>https://www.lowyat.net/?p=410175</id>
+        <link href="https://www.lowyat.net/2026/410175/samsung-skipping-galaxy-watch-2027/"/>
+        <updated>2026-11-23T03:09:14.000Z</updated>
+        <summary type="html"><![CDATA[Samsung is reportedly moving to a biennial release cycle for its Galaxy Watch lineup, meaning it will not introduce a new smartwatch next year. According to South Korean publication ETNews, the move is said to be part of the company’s efforts to reduce costs and improve the profitability of its Mobile eXperience (MX) division. The […]
+The post Samsung Reportedly Skipping Galaxy Watch Launch In 2027 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCMC Urges Smartphone Updates For Disaster Alerts, Keeps SMS Notifications]]></title>
         <id>https://www.lowyat.net/?p=410169</id>
@@ -135,6 +365,16 @@ The post Trump Threatens “Tremendous Tax” On US Companies Building AI Data C
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Security Vendors Are Tackling Access-Control Challenges for AI Agents]]></title>
+        <id>https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges</id>
+        <link href="https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges"/>
+        <updated>2026-11-21T01:31:23.000Z</updated>
+        <summary type="html"><![CDATA[Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.]]></summary>
+        <author>
+            <name>Jeffrey Schwartz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Samsung Galaxy Buds Active Leaked With Ear Hook Design, IP68 Rating]]></title>
         <id>https://www.lowyat.net/?p=410148</id>
         <link href="https://www.lowyat.net/2026/410148/samsung-galaxy-buds-active-leak/"/>
@@ -151,6 +391,16 @@ The post Samsung Galaxy Buds Active Leaked With Ear Hook Design, IP68 Rating app
         <link href="https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day"/>
         <updated>2026-11-20T21:03:27.000Z</updated>
         <summary type="html"><![CDATA[During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager]]></title>
+        <id>https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian</id>
+        <link href="https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian"/>
+        <updated>2026-11-20T20:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Det er ikke påvist noen konkret sammenheng mellom de to hendelsene, selv om de helt klart har mange likhetstrekk.]]></summary>
         <author>
             <name>Nate Nelson</name>
         </author>
@@ -210,6 +460,16 @@ Dutch mobile security company ThreatFabric said it discovered the threat in late
 The post Tesla Malaysia Introduces Certified Pre-Owned Program In Malaysia appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>John Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Debuts Offensive, Defensive Security Tools for the AI Era]]></title>
+        <id>https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools</id>
+        <link href="https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools"/>
+        <updated>2026-11-20T13:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.]]></summary>
+        <author>
+            <name>Agam Shah</name>
         </author>
     </entry>
     <entry>
@@ -3147,110 +3407,6 @@ The researchers are highly confident that the attacker is a single person]]></su
 The post Tesla To Wind Down Cybertruck Production Mid-2027 In Favour Of Cybercabs appeared first on Lowyat.NET.]]></summary>
         <author>
             <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room]]></title>
-        <id>https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html</id>
-        <link href="https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html"/>
-        <updated>2026-11-09T07:05:48.000Z</updated>
-        <summary type="html"><![CDATA[The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.
-
-According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026.
-
-If proven guilty, the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses]]></title>
-        <id>https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html</id>
-        <link href="https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html"/>
-        <updated>2026-11-09T06:15:10.000Z</updated>
-        <summary type="html"><![CDATA[U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory.
-
-"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation]]></title>
-        <id>https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html</id>
-        <link href="https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html"/>
-        <updated>2026-11-09T06:05:24.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks.
-
-The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Board Opens Investigation Into CEO Jensen Huang’s Affair With Alleged Chinese Spy]]></title>
-        <id>https://www.lowyat.net/?p=409459</id>
-        <link href="https://www.lowyat.net/2026/409459/nvidia-investigation-ceo-affair-spy/"/>
-        <updated>2026-11-09T06:00:28.000Z</updated>
-        <summary type="html"><![CDATA[US chip giant NVIDIA has launched an investigation following reports of its CEO Jensen Huang’s extramarital affair with a suspected spy for the Chinese government. In a recent statement, the company’s board disclosed that a committee of independent directors, assisted by outside independent counsel, will oversee the probe. The statement went on to assert that […]
-The post NVIDIA Board Opens Investigation Into CEO Jensen Huang’s Affair With Alleged Chinese Spy appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malaysia Considers Accelerating Quantum Migration To Strengthen Data Security]]></title>
-        <id>https://www.lowyat.net/?p=409456</id>
-        <link href="https://www.lowyat.net/2026/409456/msia-quantum-migration-data-security/"/>
-        <updated>2026-11-09T04:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Malaysia is looking to accelerate its transition towards quantum-resistant security technologies as advances in quantum computing threaten to undermine existing encryption methods. According to Communications Minister Fahmi Fadzil, the government is exploring ways to strengthen the country’s data protection capabilities in preparation for these emerging cybersecurity challenges. For context, quantum migration refers to the process […]
-The post Malaysia Considers Accelerating Quantum Migration To Strengthen Data Security appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance CFO Resigns Days After Company Loses US$6 Billion To Hackers]]></title>
-        <id>https://www.lowyat.net/?p=409453</id>
-        <link href="https://www.lowyat.net/2026/409453/binance-cfo-resigns-days-after-company-loses-us6-billion-to-hackers/"/>
-        <updated>2026-11-09T01:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Kaiser Ng, the chief financial officer (CFO) at cryptoexchange, Binance, is leaving the company. Ng’s departure comes a week after the company fell victim to hackers who made off with more than US$6 billion (~RM24.3 billion), raising questions amongst the community in the process. “Kaiser Ng has decided to pursue a new venture after more […]
-The post Binance CFO Resigns Days After Company Loses US$6 Billion To Hackers appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Tests Letting Users Control Who Sees Their Phone Numbers]]></title>
-        <id>https://www.lowyat.net/?p=409449</id>
-        <link href="https://www.lowyat.net/2026/409449/whatsapp-tests-users-control-numbers/"/>
-        <updated>2026-11-08T08:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Back in June, WhatsApp started rolling out the feature that lets users be known by their usernames rather than their phone numbers. Once users have a valid username, the platform will automatically hide their phone numbers from people they message for the first time, with established contacts retaining visibility of the phone numbers. More recently, […]
-The post WhatsApp Tests Letting Users Control Who Sees Their Phone Numbers appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[realme 17 Pro Specifications Leaked; May Debut With Dimensity 7300 SoC, Huge 10,000mAh Battery]]></title>
-        <id>https://www.lowyat.net/?p=409444</id>
-        <link href="https://www.lowyat.net/2026/409444/realme-17-pro-leak-10000mah-battery/"/>
-        <updated>2026-11-08T05:36:57.000Z</updated>
-        <summary type="html"><![CDATA[After mostly focusing on budget phones and franchise tie-ins, OPPO sub-brand realme is preparing to launch the next generation of its numbered series. Ahead of any official announcements, though, details on the upcoming lineup have begun to surface. A recent leak has revealed the key specifications of the realme 17 Pro, including its chipset and […]
-The post realme 17 Pro Specifications Leaked; May Debut With Dimensity 7300 SoC, Huge 10,000mAh Battery appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank Rakyat Website Disruption Linked To Third-Party Provider; Fahmi Assures Online Banking Is Safe]]></title>
-        <id>https://www.lowyat.net/?p=409440</id>
-        <link href="https://www.lowyat.net/2026/409440/bank-rakyat-disruption-third-party/"/>
-        <updated>2026-11-08T05:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Bank Rakyat has clarified that the recent disruption to its corporate website stemmed from a technical issue involving a third-party service provider. The bank said the incident was limited to its corporate website and did not affect its core banking systems or day-to-day operations. It also assured customers that their personal data, banking information, and […]
-The post Bank Rakyat Website Disruption Linked To Third-Party Provider; Fahmi Assures Online Banking Is Safe appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
         </author>
     </entry>
     <entry>

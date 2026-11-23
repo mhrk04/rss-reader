@@ -19294,6 +19294,134 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks.\n\nThe modified variant \"implements various tricks to hide itself from security tools,\"",
+          "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+          "publishedOn": "2026-11-23T17:45:15.000Z",
+          "wordCount": null,
+          "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open.\n\nThis week's stories show how quickly a small opening can turn into a much bigger mess. One breach helps attackers reach another target. Tools people rely",
+          "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+          "publishedOn": "2026-11-23T15:10:48.000Z",
+          "wordCount": null,
+          "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBkXdg7nYK3nVTpBuC9FL7mGBvzvUxU0VxYplArVFYSTg2d_6tFITemHBYRAOD29pVBKzfo2aZ9Jsy8avRdACCMqrVdlEER0zn2xIWDBdswcH_nZpnJYkfORK6CEaWwX3f-B8AvkUqbR2TLNa7odUG4PFu1uTk_cwsUt8DPGJBSjjF2wd8VPIa5ATJ4fo3/s1600/crecap.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBkXdg7nYK3nVTpBuC9FL7mGBvzvUxU0VxYplArVFYSTg2d_6tFITemHBYRAOD29pVBKzfo2aZ9Jsy8avRdACCMqrVdlEER0zn2xIWDBdswcH_nZpnJYkfORK6CEaWwX3f-B8AvkUqbR2TLNa7odUG4PFu1uTk_cwsUt8DPGJBSjjF2wd8VPIa5ATJ4fo3/s1600/crecap.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.\n\nThe vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1.\n\n\"Binary-parser before 2.3.1 contains a code injection vulnerability that allows",
+          "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+          "publishedOn": "2026-11-23T13:22:20.000Z",
+          "wordCount": null,
+          "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_LYD1NyoPDf8MFXggODpgd2hvazxjShSZltgrLUVic7V-ZIQSjXIzFrkUx0FNoUjlxlIYocEd1AZwGx66uqGWEUyd1TMSlDmxUu8M_r6jdYkmWDZjbszL2WsK7LJzrwI-NgsI7EaLe9WkLwNLGKj8ww3tTOY4X4JPug3RWQqoypUiEpZjVXgBhhcLuZG/s1600/js-cve.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_LYD1NyoPDf8MFXggODpgd2hvazxjShSZltgrLUVic7V-ZIQSjXIzFrkUx0FNoUjlxlIYocEd1AZwGx66uqGWEUyd1TMSlDmxUu8M_r6jdYkmWDZjbszL2WsK7LJzrwI-NgsI7EaLe9WkLwNLGKj8ww3tTOY4X4JPug3RWQqoypUiEpZjVXgBhhcLuZG/s1600/js-cve.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.\n\nThe activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting technician's host.\n\n\"On November 12, 2026, we observed one managed service",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+          "publishedOn": "2026-11-23T12:41:04.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAI03mMW-UNs2bdUuZEiugVBMZq3speEoo8tbQ7TZVITD4fnXiK4l657Tn4-G9fX2w8xLz2zkP9-RTrg3QZPtNMHL_Lg7YRoruCnp8TJA4tbA5bW1YsBZU8QR2FIqSb3_IpN1Le-Xoq2MQ82ZQyRNmYxr8q70PPzijzypDcIDKMIOjrzBweBUiKJ_nuJY/s1600/screens.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAI03mMW-UNs2bdUuZEiugVBMZq3speEoo8tbQ7TZVITD4fnXiK4l657Tn4-G9fX2w8xLz2zkP9-RTrg3QZPtNMHL_Lg7YRoruCnp8TJA4tbA5bW1YsBZU8QR2FIqSb3_IpN1Le-Xoq2MQ82ZQyRNmYxr8q70PPzijzypDcIDKMIOjrzBweBUiKJ_nuJY/s1600/screens.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.\n\nThe bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user with high-level API access to open connections to internal systems of the user's choosing on the",
+          "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+          "publishedOn": "2026-11-23T12:28:09.000Z",
+          "wordCount": null,
+          "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcXbCG8v5Kc2mTfNCFEiow0EHLJWtsrsrEodqvL8qF8awCnrDzw2TfxtPq7rYI3u78mviB8ekGNGL1Of8FZrSM6uZT1lhz2mfRHwHQyhQT8234u03WGZ9M4UZzmj2cYMs8qlsJ54PwNPvVMb2awEzinXAYL0Y25iOGjjikMvq4NQ-v03mqluZnI53PNdk/s1600/nables.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcXbCG8v5Kc2mTfNCFEiow0EHLJWtsrsrEodqvL8qF8awCnrDzw2TfxtPq7rYI3u78mviB8ekGNGL1Of8FZrSM6uZT1lhz2mfRHwHQyhQT8234u03WGZ9M4UZzmj2cYMs8qlsJ54PwNPvVMb2awEzinXAYL0Y25iOGjjikMvq4NQ-v03mqluZnI53PNdk/s1600/nables.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+          "publishedOn": "2026-11-23T09:11:56.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv3LP9w9Iv-ZmqonS5mwf1jDE-lTLUcDPxCOvYn3RF87-n2epMtdhqH5xXf-bsIIyKXq6U9qU5T1OQ6_Y3VeytS0CCA4TLJtFDcfcHR-I2EHY3t2e94UPvppaaXG9jDQPj4wNwt6CdwQCmXm5uK16BAp5Fn12DmxUk-Wu5ZwPT2kPQFo37oxSeqc6hX7X/s1600/asp.net.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv3LP9w9Iv-ZmqonS5mwf1jDE-lTLUcDPxCOvYn3RF87-n2epMtdhqH5xXf-bsIIyKXq6U9qU5T1OQ6_Y3VeytS0CCA4TLJtFDcfcHR-I2EHY3t2e94UPvppaaXG9jDQPj4wNwt6CdwQCmXm5uK16BAp5Fn12DmxUk-Wu5ZwPT2kPQFo37oxSeqc6hX7X/s1600/asp.net.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today.\n\nThe company identified and fixed the flaw on Friday and blocked the access the attacker used, so devices can no longer be infected through this route.",
+          "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+          "publishedOn": "2026-11-23T09:04:08.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6ctvKkiuJ-JViYFHxOV5w1CYjcopn7_YrQt2SnF6JC_SvdOugBSXLdVaMgnWhLCO1NfVgwru4ieWK8L3IeCP-OR75HltWOF5qNhOm9iH_VzJi3PSuUgCUtvhy0zkh_nZFv14tLCRsWly39aREkIphJtNMYUvsGS-CvIwunALU5KxtjFswov-lcS2iqzY/s1600/glinet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6ctvKkiuJ-JViYFHxOV5w1CYjcopn7_YrQt2SnF6JC_SvdOugBSXLdVaMgnWhLCO1NfVgwru4ieWK8L3IeCP-OR75HltWOF5qNhOm9iH_VzJi3PSuUgCUtvhy0zkh_nZFv14tLCRsWly39aREkIphJtNMYUvsGS-CvIwunALU5KxtjFswov-lcS2iqzY/s1600/glinet.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.\n\nThis unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers",
+          "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+          "publishedOn": "2026-11-23T08:24:15.000Z",
+          "wordCount": null,
+          "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDifo0ih-I06DQJbgdnt34Xg1qWdMibKByoJO-4vqa50M4yN0Lwu4fDe88GBtoiKHMJnRDYM0WXvYDEMyCWFHEbedl0wzwKI7juH9Q9xs3osQjZK0xPygeuGm0bm6jgpWPa7bca1EuZfTQiLxn-X3aNaAhbchhvemZrCqslieabzsGmz4ezqhrKuYhDyk/s1600/ai-india.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDifo0ih-I06DQJbgdnt34Xg1qWdMibKByoJO-4vqa50M4yN0Lwu4fDe88GBtoiKHMJnRDYM0WXvYDEMyCWFHEbedl0wzwKI7juH9Q9xs3osQjZK0xPygeuGm0bm6jgpWPa7bca1EuZfTQiLxn-X3aNaAhbchhvemZrCqslieabzsGmz4ezqhrKuYhDyk/s1600/ai-india.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.\n\nOpenRouter, a gateway that routes customers' AI requests to a pool of",
@@ -21196,54 +21324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd53Ql49F0iuQEtdvfoxOLNTuQnYM5oGQkqnQ3ym4aIW-HVZuHtOqzyi0IdwUxpFj5qU_jbUEKzPXG4Wx7Uj7g2-UKDotvOh0_AlNlkEIpgLbEBDuQxDkuxDFlukNKKbWXXZv1xCeHEtoOQ_Z1XQUshkJmlBaOmGQzMbryg6KHbOdt8IR7MNQ5oADM-GM/s1600/CYBER-AI.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd53Ql49F0iuQEtdvfoxOLNTuQnYM5oGQkqnQ3ym4aIW-HVZuHtOqzyi0IdwUxpFj5qU_jbUEKzPXG4Wx7Uj7g2-UKDotvOh0_AlNlkEIpgLbEBDuQxDkuxDFlukNKKbWXXZv1xCeHEtoOQ_Z1XQUshkJmlBaOmGQzMbryg6KHbOdt8IR7MNQ5oADM-GM/s1600/CYBER-AI.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.\n\nAccording to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026.\n\nIf proven guilty, the",
-          "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-          "publishedOn": "2026-11-09T07:05:48.000Z",
-          "wordCount": null,
-          "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MuMJQQRaLilGnzYMqgighbIcm726E965P9JqACVPbah4ID7WePGRjwdlaYG3BUIUPB3vkX9Xzs7sXIEuU9ZoEcPo-2N__SwxcCk_IhbrH-9IhJjeW0Go2d9TGw2ZJcqMLquHLOfQVn0JCQhDrKsZujSFFsenYB28oTBnFyUWBQNmS_DVmjaxUWxXxgjT/s1600/openai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MuMJQQRaLilGnzYMqgighbIcm726E965P9JqACVPbah4ID7WePGRjwdlaYG3BUIUPB3vkX9Xzs7sXIEuU9ZoEcPo-2N__SwxcCk_IhbrH-9IhJjeW0Go2d9TGw2ZJcqMLquHLOfQVn0JCQhDrKsZujSFFsenYB28oTBnFyUWBQNmS_DVmjaxUWxXxgjT/s1600/openai.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory.\n\n\"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
-          "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-          "publishedOn": "2026-11-09T06:15:10.000Z",
-          "wordCount": null,
-          "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks.\n\nThe vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
-          "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-          "publishedOn": "2026-11-09T06:05:24.000Z",
-          "wordCount": null,
-          "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg"
         }
       ]
     },
@@ -21252,6 +21332,106 @@
       "feedUrl": "https://www.lowyat.net/feed/",
       "siteUrl": "https://www.lowyat.net",
       "articles": [
+        {
+          "id": "https://www.lowyat.net/?p=410233",
+          "author": "John Law",
+          "description": "In what can only be described as a near immediate and, dare we say, an expected U-turn by the board, Jensen Huang has been reinstated as the company’s CEO, President, and as a member of the Board. The reinstatement is effective immediately. “NVIDIA today announced that effective immediately, Jensen Huang has been reinstated as President […]\nThe post Jensen Huang Reinstated As NVIDIA CEO With Immediate Effect appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410233/jensen-huang-reinstated-as-nvidia-ceo-with-immediate-effect/",
+          "publishedOn": "2026-11-23T14:44:31.000Z",
+          "wordCount": 13280,
+          "title": "Jensen Huang Reinstated As NVIDIA CEO With Immediate Effect",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/Jensen-Huang-Computex-2025-5-1024x768.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410221",
+          "author": "Ian Chee",
+          "description": "The Road Transport Department (JPJ) has released a statement asking members of the public to update their personal information within the department’s database. The department makes specific mention of residential addresses, email addresses, and phone numbers, saying that ensuring that these details are accurate and up-to-date is essential for the smooth delivery of its digital […]\nThe post JPJ Urges Public To Update Their Personal Info appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410221/jpj-urges-public-update-personal-info/",
+          "publishedOn": "2026-11-23T11:36:28.000Z",
+          "wordCount": 13217,
+          "title": "JPJ Urges Public To Update Their Personal Info",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2023/01/jpj-app.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410217",
+          "author": "Heirul Kamel",
+          "description": "Comms Minister Datuk Seri Fahmi Fadzil has confirmed that Malaysia’s new Early Warning System (EWS) is officially known as “MySiren”, while also revealing that the scheduled nationwide test on 29 November 2026 will commence at 10:10am. The exercise will see compatible smartphones across the country receive a test notification simultaneously, allowing the public to familiarise […]\nThe post Malaysia’s Early Warning System Now Officially Called “MySiren” appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410217/malaysia-ews-called-mysiren/",
+          "publishedOn": "2026-11-23T09:12:09.000Z",
+          "wordCount": 6971,
+          "title": "Malaysia’s Early Warning System Now Officially Called “MySiren”",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/MySiren-EWS-Alerts_03.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410213",
+          "author": "Ian Chee",
+          "description": "Car e-commerce platform Carsome has announced a new tier for its certified pre-owned program, simply known as Carsome Premium. This expands on the platform’s existing Certified and Value Plus programs, rounding out the full range of budget-friendly, mainstream, and premium selections of secondhand cars. Different segments notwithstanding, the programs are meant to make car ownership […]\nThe post Carsome Launches Certified Pre-Owned Program For Premium Brands appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410213/carsome-certified-pre-owned-for-premium/",
+          "publishedOn": "2026-11-23T09:09:05.000Z",
+          "wordCount": 13262,
+          "title": "Carsome Launches Certified Pre-Owned Program For Premium Brands",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/CARSOME-Premium.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410205",
+          "author": "Nurul Kamil",
+          "description": "Samsung has made some changes to its leadership, and for the first time in almost seven years, its mobile division has a new chief. In an announcement last Friday, the company named Won-Joon Choi as the Head of Mobile eXperience (MX) Business. Prior to taking the position, Choi served as the COO of the MX […]\nThe post Samsung Appoints Won-Joon Choi As New Head Of Mobile Division; TM Roh Remaining As CEO appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410205/samsung-new-head-of-mobile-division/",
+          "publishedOn": "2026-11-23T08:22:26.000Z",
+          "wordCount": 6905,
+          "title": "Samsung Appoints Won-Joon Choi As New Head Of Mobile Division; TM Roh Remaining As CEO",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/samsung-mx-won-joon-choi-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410174",
+          "author": "Ian Chee",
+          "description": "The first couple of Neuralink transplant recipients back in 2024 made the news due to their ability to play videogames despite being paralysed. At the time, while they were close to playing their respective games with their minds, it wasn’t quite there yet, as there was still a mouth-operated joystick involved. More recently, though, it […]\nThe post Neuralink Transplant Recipient Plays GTA 6; This Time Actually With His Mind appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410174/neuralink-recipient-gta-6-with-mind/",
+          "publishedOn": "2026-11-23T05:15:21.000Z",
+          "wordCount": 13272,
+          "title": "Neuralink Transplant Recipient Plays GTA 6; This Time Actually With His Mind",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/01/Neuralink-successfully-implants-device-in-first-patient-2.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410189",
+          "author": "Heirul Kamel",
+          "description": "Finally, a wearable brand has decided to make an actual The Lord of the Rings (LOTR) collaboration centred around the franchise’s most iconic piece of jewellery. RingConn has recently announced a limited edition of its Gen 3 smart ring, aptly called The One Ring, as part of a partnership with Warner Bros Global Consumer Products […]\nThe post RingConn Unveils The One Ring Limited Edition Gen 3 Smart Ring appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410189/ringconn-the-one-ring-limited-edition/",
+          "publishedOn": "2026-11-23T04:43:43.000Z",
+          "wordCount": 13385,
+          "title": "RingConn Unveils The One Ring Limited Edition Gen 3 Smart Ring",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/ringconn-the-one-ring-gen-3-3.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410182",
+          "author": "Nurul Kamil",
+          "description": "Nothing has been steadily teasing its first AI-native device, and although the London-based company has yet to disclose what it is, the product already has a confirmed launch date. In an X post, the brand shared another vague-looking image that may be a close-up of the device from another angle. Regardless, the post carries the […]\nThe post Nothing Confirms 8 December Launch Date For Its First AI-Native Device appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410182/nothing-launch-first-ai-native-device/",
+          "publishedOn": "2026-11-23T04:07:46.000Z",
+          "wordCount": 13276,
+          "title": "Nothing Confirms 8 December Launch Date For Its First AI-Native Device",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/11/nothing-ai-device-teaser-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410173",
+          "author": "Nurul Kamil",
+          "description": "The iQOO 16 made its debut in China at the tail end of September, and shortly after that, the vivo sub-brand confirmed that the smartphone will launch in Malaysia as well. The device has not seen an official local release just yet, but it looks like a sibling is also on the way. The iQOO […]\nThe post iQOO 16s Bags SIRIM Approval; Possibly Launching With Snapdragon 8s Gen 4 SoC appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410173/iqoo-16s-sirim-snapdragon-8s-gen-4-soc/",
+          "publishedOn": "2026-11-23T03:15:21.000Z",
+          "wordCount": 6906,
+          "title": "iQOO 16s Bags SIRIM Approval; Possibly Launching With Snapdragon 8s Gen 4 SoC",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/iqoo-16-1.webp"
+        },
+        {
+          "id": "https://www.lowyat.net/?p=410175",
+          "author": "Heirul Kamel",
+          "description": "Samsung is reportedly moving to a biennial release cycle for its Galaxy Watch lineup, meaning it will not introduce a new smartwatch next year. According to South Korean publication ETNews, the move is said to be part of the company’s efforts to reduce costs and improve the profitability of its Mobile eXperience (MX) division. The […]\nThe post Samsung Reportedly Skipping Galaxy Watch Launch In 2027 appeared first on Lowyat.NET.",
+          "link": "https://www.lowyat.net/2026/410175/samsung-skipping-galaxy-watch-2027/",
+          "publishedOn": "2026-11-23T03:09:14.000Z",
+          "wordCount": 13301,
+          "title": "Samsung Reportedly Skipping Galaxy Watch Launch In 2027",
+          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/07/Samsung-Galaxy-Watch9-Ultra2-2.webp"
+        },
         {
           "id": "https://www.lowyat.net/?p=410169",
           "author": "Heirul Kamel",
@@ -22266,66 +22446,6 @@
           "wordCount": 13432,
           "title": "Tesla To Wind Down Cybertruck Production Mid-2027 In Favour Of Cybercabs",
           "imageUrl": "https://www.lowyat.net/wp-content/uploads/2024/04/Tesla-Cybertruck-Preview-1-1024x681.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409459",
-          "author": "Nurul Kamil",
-          "description": "US chip giant NVIDIA has launched an investigation following reports of its CEO Jensen Huang’s extramarital affair with a suspected spy for the Chinese government. In a recent statement, the company’s board disclosed that a committee of independent directors, assisted by outside independent counsel, will oversee the probe. The statement went on to assert that […]\nThe post NVIDIA Board Opens Investigation Into CEO Jensen Huang’s Affair With Alleged Chinese Spy appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409459/nvidia-investigation-ceo-affair-spy/",
-          "publishedOn": "2026-11-09T06:00:28.000Z",
-          "wordCount": 13364,
-          "title": "NVIDIA Board Opens Investigation Into CEO Jensen Huang’s Affair With Alleged Chinese Spy",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/06/Jensen-Huang-Computex-2025-5-1024x768.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409456",
-          "author": "Heirul Kamel",
-          "description": "Malaysia is looking to accelerate its transition towards quantum-resistant security technologies as advances in quantum computing threaten to undermine existing encryption methods. According to Communications Minister Fahmi Fadzil, the government is exploring ways to strengthen the country’s data protection capabilities in preparation for these emerging cybersecurity challenges. For context, quantum migration refers to the process […]\nThe post Malaysia Considers Accelerating Quantum Migration To Strengthen Data Security appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409456/msia-quantum-migration-data-security/",
-          "publishedOn": "2026-11-09T04:46:10.000Z",
-          "wordCount": 13250,
-          "title": "Malaysia Considers Accelerating Quantum Migration To Strengthen Data Security",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2025/12/telcos-must-prepare-for-quantum-satellite-shift-4.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409453",
-          "author": "John Law",
-          "description": "Kaiser Ng, the chief financial officer (CFO) at cryptoexchange, Binance, is leaving the company. Ng’s departure comes a week after the company fell victim to hackers who made off with more than US$6 billion (~RM24.3 billion), raising questions amongst the community in the process. “Kaiser Ng has decided to pursue a new venture after more […]\nThe post Binance CFO Resigns Days After Company Loses US$6 Billion To Hackers appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409453/binance-cfo-resigns-days-after-company-loses-us6-billion-to-hackers/",
-          "publishedOn": "2026-11-09T01:00:28.000Z",
-          "wordCount": 13217,
-          "title": "Binance CFO Resigns Days After Company Loses US$6 Billion To Hackers",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/10/binance-official-1.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409449",
-          "author": "Ian Chee",
-          "description": "Back in June, WhatsApp started rolling out the feature that lets users be known by their usernames rather than their phone numbers. Once users have a valid username, the platform will automatically hide their phone numbers from people they message for the first time, with established contacts retaining visibility of the phone numbers. More recently, […]\nThe post WhatsApp Tests Letting Users Control Who Sees Their Phone Numbers appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409449/whatsapp-tests-users-control-numbers/",
-          "publishedOn": "2026-11-08T08:57:31.000Z",
-          "wordCount": 13218,
-          "title": "WhatsApp Tests Letting Users Control Who Sees Their Phone Numbers",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/06/WhatsApp-Stock-lowyat-2026-3-1240x930.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409444",
-          "author": "Nurul Kamil",
-          "description": "After mostly focusing on budget phones and franchise tie-ins, OPPO sub-brand realme is preparing to launch the next generation of its numbered series. Ahead of any official announcements, though, details on the upcoming lineup have begun to surface. A recent leak has revealed the key specifications of the realme 17 Pro, including its chipset and […]\nThe post realme 17 Pro Specifications Leaked; May Debut With Dimensity 7300 SoC, Huge 10,000mAh Battery appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409444/realme-17-pro-leak-10000mah-battery/",
-          "publishedOn": "2026-11-08T05:36:57.000Z",
-          "wordCount": 13300,
-          "title": "realme 17 Pro Specifications Leaked; May Debut With Dimensity 7300 SoC, Huge 10,000mAh Battery",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/realme-16-Pro-colours.webp"
-        },
-        {
-          "id": "https://www.lowyat.net/?p=409440",
-          "author": "Heirul Kamel",
-          "description": "Bank Rakyat has clarified that the recent disruption to its corporate website stemmed from a technical issue involving a third-party service provider. The bank said the incident was limited to its corporate website and did not affect its core banking systems or day-to-day operations. It also assured customers that their personal data, banking information, and […]\nThe post Bank Rakyat Website Disruption Linked To Third-Party Provider; Fahmi Assures Online Banking Is Safe appeared first on Lowyat.NET.",
-          "link": "https://www.lowyat.net/2026/409440/bank-rakyat-disruption-third-party/",
-          "publishedOn": "2026-11-08T05:21:56.000Z",
-          "wordCount": 13317,
-          "title": "Bank Rakyat Website Disruption Linked To Third-Party Provider; Fahmi Assures Online Banking Is Safe",
-          "imageUrl": "https://www.lowyat.net/wp-content/uploads/2026/04/bnm-fines-bank-rakyat-data-breach-1.webp"
         }
       ]
     },
@@ -22335,6 +22455,36 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+          "author": "Arielle Waldman",
+          "description": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
+          "link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+          "publishedOn": "2026-11-23T17:45:52.000Z",
+          "wordCount": null,
+          "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+          "author": "Elizabeth Montalbano",
+          "description": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+          "publishedOn": "2026-11-23T16:17:21.000Z",
+          "wordCount": null,
+          "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+          "author": "Jeffrey Schwartz",
+          "description": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+          "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+          "publishedOn": "2026-11-21T01:31:23.000Z",
+          "wordCount": null,
+          "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
           "author": "Nate Nelson",
           "description": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
@@ -22342,6 +22492,16 @@
           "publishedOn": "2026-11-20T21:03:27.000Z",
           "wordCount": null,
           "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian",
+          "author": "Nate Nelson",
+          "description": "Det er ikke påvist noen konkret sammenheng mellom de to hendelsene, selv om de helt klart har mange likhetstrekk.",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian",
+          "publishedOn": "2026-11-20T20:43:45.000Z",
+          "wordCount": null,
+          "title": "Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager",
           "imageUrl": null
         },
         {
@@ -22362,6 +22522,16 @@
           "publishedOn": "2026-11-20T17:04:04.000Z",
           "wordCount": null,
           "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+          "author": "Agam Shah",
+          "description": "Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.",
+          "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+          "publishedOn": "2026-11-20T13:51:30.000Z",
+          "wordCount": null,
+          "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
           "imageUrl": null
         },
         {
