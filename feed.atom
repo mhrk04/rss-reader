@@ -2,10 +2,267 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mhrk04.github.io/rss-reader/index.html</id>
     <title>Mhaziqrk RSS Feed</title>
-    <updated>2026-11-23T20:02:37.003Z</updated>
+    <updated>2026-11-24T19:27:34.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mhrk04.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://mhrk04.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns]]></title>
+        <id>https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html</id>
+        <link href="https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"/>
+        <updated>2026-11-24T16:54:07.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.
+
+Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation]]></title>
+        <id>https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html</id>
+        <link href="https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"/>
+        <updated>2026-11-24T13:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.
+
+The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It resides in the VMware Directory Service ("vmdir").
+
+"A malicious actor with]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site]]></title>
+        <id>https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html</id>
+        <link href="https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html"/>
+        <updated>2026-11-24T13:28:21.000Z</updated>
+        <summary type="html"><![CDATA[A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team.
+
+The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity]]></title>
+        <id>https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html</id>
+        <link href="https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html"/>
+        <updated>2026-11-24T12:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday.
+
+The same loading behavior bypassed Oracle VirtualBox's process hardening on Windows hosts, tracked as CVE-2026-87268, and Windows code integrity, tracked]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk]]></title>
+        <id>https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html</id>
+        <link href="https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html"/>
+        <updated>2026-11-24T12:01:54.000Z</updated>
+        <summary type="html"><![CDATA[What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?
+
+According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual investigations, repeated checks, and unnecessary escalations continue to drain resources.
+
+As]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bambu Lab Launches H3C 3D Printer; Costs RM12,999 In Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=410330</id>
+        <link href="https://www.lowyat.net/2026/410330/bambu-lab-launches-h3c-rm12999-malaysia/"/>
+        <updated>2026-11-24T11:25:25.000Z</updated>
+        <summary type="html"><![CDATA[3D printer maker Bambu Lab has announced the latest entry into its catalogue. It’s called the H3C, which is what the company dubs its first third-generation desktop 3D printer. The highlight of the product is what’s known as Swaptek, and the short version of it is that it’s the system that simplifies the usually complicated […]
+The post Bambu Lab Launches H3C 3D Printer; Costs RM12,999 In Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets]]></title>
+        <id>https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html</id>
+        <link href="https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html"/>
+        <updated>2026-11-24T10:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi.
+
+"An unknown actor has been actively looking for access tokens, secrets, and named values ​​in APIM," NSM said. "It is still uncertain how]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HONOR Pad X9b Max Announced In Malaysia With Large 13-Inch Display]]></title>
+        <id>https://www.lowyat.net/?p=410338</id>
+        <link href="https://www.lowyat.net/2026/410338/honor-pad-x9b-max-malaysia/"/>
+        <updated>2026-11-24T10:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Aside from launching the Magic9 Pro Max, HONOR Malaysia has announced a new addition to its tablet lineup. Designed to maximize the entertainment experience, the Pad X9b Max boasts an expansive 13-inch LCD display, a large battery, and IMAX Enhanced certification. Starting with the exterior, the device sports a slim aluminium body measuring 6.72mm and […]
+The post HONOR Pad X9b Max Announced In Malaysia With Large 13-Inch Display appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wise Raises E-Wallet Limit To RM50,000 For Malaysians]]></title>
+        <id>https://www.lowyat.net/?p=410326</id>
+        <link href="https://www.lowyat.net/2026/410326/wise-raise-e-wallet-limit-malaysia/"/>
+        <updated>2026-11-24T09:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Wise Malaysia has raised its e-wallet limit to RM50,000, which the company claims is the highest among e-wallet providers in the country. The increase allows local customers to hold and manage larger amounts across multiple currencies through a single account, making it easier to handle international payments and expenses. According to Wise Malaysia Country Manager […]
+The post Wise Raises E-Wallet Limit To RM50,000 For Malaysians appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unifi TV Premieres Four Originals; Free For All To Watch]]></title>
+        <id>https://www.lowyat.net/?p=410312</id>
+        <link href="https://www.lowyat.net/2026/410312/unifi-tv-four-originals-free-for-all/"/>
+        <updated>2026-11-24T09:40:52.000Z</updated>
+        <summary type="html"><![CDATA[Unifi has announced that it is premiering four original shows as part of Unifi TV Originals. These will not only expand the lineup of shows available through the service, but they will also be available for all to watch for free. One of them has already started airing, and of the remaining three shows, two […]
+The post Unifi TV Premieres Four Originals; Free For All To Watch appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login]]></title>
+        <id>https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html</id>
+        <link href="https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html"/>
+        <updated>2026-11-24T08:34:20.000Z</updated>
+        <summary type="html"><![CDATA[A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed.
+
+The company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HONOR Magic9 Pro Max Review: A Proper Refresh]]></title>
+        <id>https://www.lowyat.net/?p=410200</id>
+        <link href="https://www.lowyat.net/2026/410200/honor-magic9-pro-max-review/"/>
+        <updated>2026-11-24T08:30:30.000Z</updated>
+        <summary type="html"><![CDATA[This year’s crop of premium smartphones largely focuses on refinements and iterative upgrades. However, that is not quite the case with the HONOR Magic9 Pro Max. The recently launched handset packs a number of changes, both inside and out. Most of said changes concern the device’s imaging system, though there is the obligatory chipset upgrade, […]
+The post HONOR Magic9 Pro Max Review: A Proper Refresh appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HONOR Magic9 Pro Max Officially Launches In Malaysia]]></title>
+        <id>https://www.lowyat.net/?p=410280</id>
+        <link href="https://www.lowyat.net/2026/410280/honor-magic9-pro-max-launch-malaysia/"/>
+        <updated>2026-11-24T08:26:13.000Z</updated>
+        <summary type="html"><![CDATA[HONOR has officially lifted the veil from the Magic9 Pro Max. The new flagship smartphone succeeds last year’s Magic8 Pro, bringing a new look and an upgraded camera system, courtesy of the brand’s partnership with German film equipment manufacturer ARRI. For the most part, the local version of the phone shares the same specifications as […]
+The post HONOR Magic9 Pro Max Officially Launches In Malaysia appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Nurul Kamil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching]]></title>
+        <id>https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html</id>
+        <link href="https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html"/>
+        <updated>2026-11-24T06:02:57.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI and Cisco have teamed up to launch Shirudo (meaning "shield" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.
+
+"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches," OpenAI said in a post on X.
+
+The AI upstart called the initiative a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day]]></title>
+        <id>https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html</id>
+        <link href="https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html"/>
+        <updated>2026-11-24T06:02:45.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The critical vulnerabilities are listed below -
+
+
+  CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speedmatrix Among Three Malaysian Firms Added To US Trade Blacklist]]></title>
+        <id>https://www.lowyat.net/?p=410296</id>
+        <link href="https://www.lowyat.net/2026/410296/speedmatrix-malaysian-firms-us-trade-blacklist/"/>
+        <updated>2026-11-24T05:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Three Malaysia-based entities have been added to the US government’s trade restriction list over concerns that they could be involved in diverting advanced computing products to unauthorised end users. One of them is Speedmatrix Sdn Bhd, which was previously linked to allegations involving NVIDIA AI chips hosted at a data centre in Johor. According to […]
+The post Speedmatrix Among Three Malaysian Firms Added To US Trade Blacklist appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kodak SlideTag Is A Digital Photo Frame Plus Tracker (Updated)]]></title>
+        <id>https://www.lowyat.net/?p=410286</id>
+        <link href="https://www.lowyat.net/2026/410286/kodak-slidetag-photo-frame-plus-tracker/"/>
+        <updated>2026-11-24T03:57:58.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE (5:45 PM): A rep for Kodak’s distributor tells us that one Kodak SlideTag blind box will cost RM188, with availability starting tomorrow. There’s no mention of a dedicated set of eight that guarantees no repeats, though. ORIGINAL STORY (11:57 AM): It’s been a little over a year since the Charmera, but it seems like […]
+The post The Kodak SlideTag Is A Digital Photo Frame Plus Tracker (Updated) appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Ian Chee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teo: No Plans To Introduce Special Licences For Online Gaming Platforms]]></title>
+        <id>https://www.lowyat.net/?p=410279</id>
+        <link href="https://www.lowyat.net/2026/410279/no-plans-licences-for-online-gaming/"/>
+        <updated>2026-11-24T03:43:31.000Z</updated>
+        <summary type="html"><![CDATA[The government currently has no plans to introduce special licensing requirements for online gaming service providers, unlike those imposed on social media platforms. Deputy Communications Minister Teo Nie Ching clarified this during the winding-up session of the Communications Ministry’s Budget 2027 debate in the Dewan Rakyat yesterday. However, this does not mean online gaming platforms […]
+The post Teo: No Plans To Introduce Special Licences For Online Gaming Platforms appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Leak Sheds Details On iPhone 18e, iPhone 18, And iPhone Air 2]]></title>
+        <id>https://www.lowyat.net/?p=410275</id>
+        <link href="https://www.lowyat.net/2026/410275/new-leak-iphone-18e-18-air-2/"/>
+        <updated>2026-11-24T02:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Apple appears to be preparing another round of iPhone launches for next spring, with the upcoming iPhone 18e potentially receiving a redesigned rear camera module. According to CAD renders reportedly seen by Engadget, the entry-level model could adopt a camera bump that more closely resembles those found on Apple’s more expensive iPhones. The current iPhone […]
+The post New Leak Sheds Details On iPhone 18e, iPhone 18, And iPhone Air 2 appeared first on Lowyat.NET.]]></summary>
+        <author>
+            <name>Heirul Kamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Industrial Serial Gateways Broadcast That They're Insecure]]></title>
+        <id>https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure</id>
+        <link href="https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure"/>
+        <updated>2026-11-23T22:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal]]></title>
+        <id>https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal</id>
+        <link href="https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal"/>
+        <updated>2026-11-23T21:21:42.000Z</updated>
+        <summary type="html"><![CDATA[CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.]]></summary>
+        <author>
+            <name>Jeffrey Schwartz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Cyber Director Pick Signals Shift Toward Expertise]]></title>
+        <id>https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise</id>
+        <link href="https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise"/>
+        <updated>2026-11-23T20:13:48.000Z</updated>
+        <summary type="html"><![CDATA[Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.]]></summary>
+        <author>
+            <name>Alexander Culafi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors]]></title>
         <id>https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors</id>
@@ -3106,307 +3363,6 @@ The post Epic Games Launcher Confirmed To Support SteamOS Soon appeared first on
 During pre-release training, the large language models (LLMs) helped its engineers "complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, made]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBSB Bank Now Allows Up To RM150,000 Daily Overseas Transfers Across 20 Major Currencies]]></title>
-        <id>https://www.lowyat.net/?p=409514</id>
-        <link href="https://www.lowyat.net/2026/409514/mbsb-bank-rm150000-overseas-transfers/"/>
-        <updated>2026-11-10T07:20:36.000Z</updated>
-        <summary type="html"><![CDATA[MBSB Bank has announced that it is expanding its Global Easy Transfer (GET) service. Developed in collaboration with Wise, the service now allows a daily limit of RM150,000, supporting 20 currencies. These include the US Dollar (USD), British Pound Sterling (GBP), Euro (EUR), UAE Dirham (AED), as well as other major global currencies. As detailed […]
-The post MBSB Bank Now Allows Up To RM150,000 Daily Overseas Transfers Across 20 Major Currencies appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026]]></title>
-        <id>https://thehackernews.com/2026/11/google-issues-chrome-security-update.html</id>
-        <link href="https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"/>
-        <updated>2026-11-10T06:52:54.000Z</updated>
-        <summary type="html"><![CDATA[Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.
-
-The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component.
-
-Use-after-free bugs typically occur when a program attempts to access a memory location after]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits]]></title>
-        <id>https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html</id>
-        <link href="https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html"/>
-        <updated>2026-11-10T06:44:36.000Z</updated>
-        <summary type="html"><![CDATA[N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell.
-
-"As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Election Commission Claims Cyberattack On Its Website]]></title>
-        <id>https://www.lowyat.net/?p=409511</id>
-        <link href="https://www.lowyat.net/2026/409511/election-commission-website-cyberattack/"/>
-        <updated>2026-11-10T06:43:32.000Z</updated>
-        <summary type="html"><![CDATA[The Election Commission (EC, or also known as SPR) is seeking a full report on an alleged cyberattack targeting its official website during the 16th Melaka State Election. Its chairman, Datuk Seri Ramlan Harun, said the commission has yet to receive the complete findings but is already working with the relevant authorities to strengthen its […]
-The post Election Commission Claims Cyberattack On Its Website appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws]]></title>
-        <id>https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html</id>
-        <link href="https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html"/>
-        <updated>2026-11-10T06:31:42.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The vulnerabilities are listed below -
-
-
-  CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upcoming Huawei Wide-Screen Phone Leaked; May Launch Under New Sub-Brand Osta]]></title>
-        <id>https://www.lowyat.net/?p=409500</id>
-        <link href="https://www.lowyat.net/2026/409500/huawei-wide-screen-phone-osta/"/>
-        <updated>2026-11-10T04:54:33.000Z</updated>
-        <summary type="html"><![CDATA[Huawei has been busy with product releases these past few weeks, with devices debuting both locally and on its home turf. Now, it looks like the Chinese phone maker is preparing to launch more smartphones, but not under the Huawei name. If the recent rumours prove accurate, these products will be released through a new […]
-The post Upcoming Huawei Wide-Screen Phone Leaked; May Launch Under New Sub-Brand Osta appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Confirms Adrenalin Radeon Drivers Bug That Causes Constant SSD Writes]]></title>
-        <id>https://www.lowyat.net/?p=409495</id>
-        <link href="https://www.lowyat.net/2026/409495/amd-confirms-adrenalin-radeon-drivers-bug-that-causes-constant-ssd-writes/"/>
-        <updated>2026-11-10T04:07:46.000Z</updated>
-        <summary type="html"><![CDATA[AMD has acknowledged that a bug in its current Adrenalin Radeon graphics drivers is causing systems to run continuous SSD write activity, even when the system is running idle. In light of that, the company has promised a fix with the upcoming Adrenalin 26.11.1 driver update. The Adrenalin Radeon drivers in question are version 26.10.1 […]
-The post AMD Confirms Adrenalin Radeon Drivers Bug That Causes Constant SSD Writes appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaks Reveal Samsung Galaxy AI Premium Subscription Details]]></title>
-        <id>https://www.lowyat.net/?p=409487</id>
-        <link href="https://www.lowyat.net/2026/409487/samsung-galaxy-ai-premium-leak/"/>
-        <updated>2026-11-10T02:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Samsung may be preparing to introduce a paid subscription for its Galaxy AI suite. Details of the proposed Galaxy AI Premium plan have reportedly surfaced online, offering a glimpse of how the company could eventually monetise its artificial intelligence services. New leaks suggest that Samsung could adopt a tiered approach instead. According to reports, existing […]
-The post Leaks Reveal Samsung Galaxy AI Premium Subscription Details appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Heirul Kamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infinix Xbook 14 Neo Now Available In Malaysia; Retails From RM2,199]]></title>
-        <id>https://www.lowyat.net/?p=409481</id>
-        <link href="https://www.lowyat.net/2026/409481/infinix-xbook-14-neo-now-available-in-malaysia-retails-from-rm2199/"/>
-        <updated>2026-11-10T02:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Infinix announced the availability of the Xbook 14 Neo in Malaysia. The laptop can be purchased starting today via the brand’s official website and social media store pages, although at the time of writing, it should be noted that these pages aren’t live yet. We’ve previously covered the appearance of the Xbook 14 Neo, when […]
-The post Infinix Xbook 14 Neo Now Available In Malaysia; Retails From RM2,199 appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>John Law</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nubia A57 Officially Launched In Malaysia With Unisoc T7250 Plus SoC, 5,000mAh Battery]]></title>
-        <id>https://www.lowyat.net/?p=409472</id>
-        <link href="https://www.lowyat.net/2026/409472/nubia-a57-official-malaysia/"/>
-        <updated>2026-11-10T02:20:58.000Z</updated>
-        <summary type="html"><![CDATA[nubia has announced a new smartphone for the local market. As the latest addition to the brand’s entry-level A series, the nubia A57 promises reliable everyday features at an accessible price point. In terms of specifications, it is quite similar to last year’s A56, though there are a few improvements, particularly in the display and […]
-The post nubia A57 Officially Launched In Malaysia With Unisoc T7250 Plus SoC, 5,000mAh Battery appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Nurul Kamil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People Are Getting Weird About AI]]></title>
-        <id>https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai</id>
-        <link href="https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai"/>
-        <updated>2026-11-09T23:06:22.000Z</updated>
-        <summary type="html"><![CDATA[Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility.]]></summary>
-        <author>
-            <name>Dark Reading Editorial Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Announces Enhanced Reporting Form for Cyber Incidents]]></title>
-        <id>https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents</id>
-        <link href="https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents"/>
-        <updated>2026-11-09T21:38:20.000Z</updated>
-        <summary type="html"><![CDATA[New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.]]></summary>
-        <author>
-            <name>darkreading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion]]></title>
-        <id>https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion</id>
-        <link href="https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion"/>
-        <updated>2026-11-09T21:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.]]></summary>
-        <author>
-            <name>Alexander Culafi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut"/>
-        <updated>2026-11-09T20:19:56.000Z</updated>
-        <summary type="html"><![CDATA[Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.]]></summary>
-        <author>
-            <name>darkreading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux]]></title>
-        <id>https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux</id>
-        <link href="https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux"/>
-        <updated>2026-11-09T18:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data]]></title>
-        <id>https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html</id>
-        <link href="https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html"/>
-        <updated>2026-11-09T17:51:21.000Z</updated>
-        <summary type="html"><![CDATA[An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.
-
-The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed.
-
-Qubole, a data lake platform owned by Idera,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware]]></title>
-        <id>https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html</id>
-        <link href="https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html"/>
-        <updated>2026-11-09T17:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.
-
-Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PwC's CISO on AI, Robots &amp; What's Next for Security]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security"/>
-        <updated>2026-11-09T17:17:23.000Z</updated>
-        <summary type="html"><![CDATA[As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.]]></summary>
-        <author>
-            <name>Kristina Beek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST: Solo Shouldn't Mean Less Secure]]></title>
-        <id>https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure</id>
-        <link href="https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure"/>
-        <updated>2026-11-09T15:46:10.000Z</updated>
-        <summary type="html"><![CDATA[New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.]]></summary>
-        <author>
-            <name>Arielle Waldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia]]></title>
-        <id>https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html</id>
-        <link href="https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html"/>
-        <updated>2026-11-09T14:31:29.000Z</updated>
-        <summary type="html"><![CDATA[The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT.
-
-"PapRAT has both C++ and Rust implementations," Fortinet FortiGuard Labs researcher Cara Lin said. "Its capabilities include command execution, file]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More]]></title>
-        <id>https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html</id>
-        <link href="https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html"/>
-        <updated>2026-11-09T13:28:25.000Z</updated>
-        <summary type="html"><![CDATA[A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack.
-
-Elsewhere, attackers are hiding inside normal web traffic, stealing credentials from network devices, and finding new uses for exposed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars]]></title>
-        <id>https://thehackernews.com/2026/11/default-adminadmin-server-password.html</id>
-        <link href="https://thehackernews.com/2026/11/default-adminadmin-server-password.html"/>
-        <updated>2026-11-09T11:27:53.000Z</updated>
-        <summary type="html"><![CDATA[The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine.
-
-Both apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety]]></title>
-        <id>https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html</id>
-        <link href="https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html"/>
-        <updated>2026-11-09T10:56:25.000Z</updated>
-        <summary type="html"><![CDATA[Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.
-
-Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week.
-
-Web3Auth then used the attacker's own route to empty other at-risk wallets before the attacker]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks]]></title>
-        <id>https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html</id>
-        <link href="https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html"/>
-        <updated>2026-11-09T10:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.
-
-It has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records]]></title>
-        <id>https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html</id>
-        <link href="https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html"/>
-        <updated>2026-11-09T09:01:50.000Z</updated>
-        <summary type="html"><![CDATA[A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.
-
-The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login.
-
-The researchers are highly confident that the attacker is a single person]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla To Wind Down Cybertruck Production Mid-2027 In Favour Of Cybercabs]]></title>
-        <id>https://www.lowyat.net/?p=409465</id>
-        <link href="https://www.lowyat.net/2026/409465/tesla-wind-down-cybertruck-for-cybercab/"/>
-        <updated>2026-11-09T08:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Whether for better or worse, or indeed both, the Cybertruck has been a pretty iconic vehicle made by electric car company Tesla. That said, the company will be winding down production of the iconic car around the middle of next year. This comes via CEO Elon Musk, who made the announcement on X. The reason […]
-The post Tesla To Wind Down Cybertruck Production Mid-2027 In Favour Of Cybercabs appeared first on Lowyat.NET.]]></summary>
-        <author>
-            <name>Ian Chee</name>
         </author>
     </entry>
     <entry>
